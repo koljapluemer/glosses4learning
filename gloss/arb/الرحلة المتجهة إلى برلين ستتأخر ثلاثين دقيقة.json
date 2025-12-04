@@ -2,7 +2,9 @@
   "content": "الرحلة المتجهة إلى برلين ستتأخر ثلاثين دقيقة.",
   "language": "arb",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-04T12:13:24.711478Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
   "morphologically_related": [],
   "parts": [
     "arb:الرحلة",
@@ -20,7 +22,9 @@
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
-  "translations": [],
+  "translations": [
+    "eng:The flight to Berlin will be delayed by thirty minutes"
+  ],
   "notes": [],
   "tags": [
     "eng:understand-expression-goal"
