@@ -2,9 +2,15 @@
   "content": "وين الجهة اللي بدنا نروح عليها؟",
   "language": "arb",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-14T14:51:26.305Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
   "morphologically_related": [],
-  "parts": [],
+  "parts": [
+    "arb:وين",
+    "arb:الجهة",
+    "arb:بدنا نروح"
+  ],
   "has_similar_meaning": [],
   "sounds_similar": [],
   "usage_examples": [],
@@ -18,5 +24,7 @@
     "eng:Where are we going"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false
 }

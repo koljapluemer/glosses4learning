@@ -4,7 +4,9 @@
   "transcriptions": {},
   "logs": {
     "2025-12-04T12:21:32.361894Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-04T12:21:36.788295Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng"
+    "2025-12-04T12:21:36.788295Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-14T14:25:55.821Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-14T14:28:41.204Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
   "morphologically_related": [],
   "parts": [],
@@ -17,5 +19,7 @@
   "children": [],
   "translations": [],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false
 }

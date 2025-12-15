@@ -2,7 +2,14 @@
   "content": "you",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-11T11:24:12.072352Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-12T14:07:52.509585Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:08:34.837615Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:10:58.697515Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:11:42.039908Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:19:10.502947Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -12,7 +19,9 @@
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
-  "translations": [],
+  "translations": [
+    "eng:you"
+  ],
   "notes": [],
   "tags": []
 }

@@ -2,6 +2,7 @@
   "content": "buying something at the bakery",
   "language": "eng",
   "transcriptions": {},
+  "logs": {},
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -10,11 +11,38 @@
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
-  "children": [],
-  "translations": [
-    "deu:Etwas beim Bäcker kaufen",
-    "deu:Beim Bäcker einkaufen"
+  "children": [
+    "eng:inquire about the types of bread available",
+    "eng:request a specific pastry from the display",
+    "eng:ask if any items are freshly baked today",
+    "eng:confirm the price of a loaf of bread",
+    "eng:express a desire to buy a dozen cookies",
+    "eng:request a bag for carrying purchased items",
+    "eng:thank the baker for their assistance",
+    "deu:Guten Morgen! Was kann ich für Sie tun",
+    "deu:Haben Sie schon unsere frischen Brötchen probiert",
+    "deu:Wir haben heute auch leckere Croissants im Angebot",
+    "deu:Möchten Sie etwas Süßes, wie einen Kuchen oder ein Stück Torte",
+    "deu:Das macht zusammen 5 Euro, bitte",
+    "deu:Möchten Sie eine Tüte dazu",
+    "deu:Vielen Dank! Einen schönen Tag noch!",
+    "deu:Wir akzeptieren auch Kreditkarten",
+    "eng:ask for the price of a pastry",
+    "eng:request a recommendation for a fresh item",
+    "eng:ask if there are any special offers today",
+    "deu:Haben Sie frisches Brot heute",
+    "deu:Ich hätte gerne ein Stück Kuchen, bitte",
+    "deu:Könnte ich die Brötchen bitte einzeln haben",
+    "deu:Wie viel kostet das",
+    "eng:Request a recommendation for a popular pastry",
+    "eng:Ask the baker how fresh the pastries are today",
+    "eng:Express excitement about trying a new dessert"
   ],
+  "translations": [],
   "notes": [],
-  "tags": []
+  "tags": [
+    "eng:situation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false
 }

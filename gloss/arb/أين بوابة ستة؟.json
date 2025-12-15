@@ -4,10 +4,15 @@
   "transcriptions": {},
   "logs": {
     "2025-12-04T13:12:39.281801Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb",
-    "2025-12-04T13:12:42.260612Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+    "2025-12-04T13:12:42.260612Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb",
+    "2025-12-14T14:22:16.876Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
   "morphologically_related": [],
-  "parts": [],
+  "parts": [
+    "arb:ستة",
+    "arb:بوابة",
+    "arb:أين"
+  ],
   "has_similar_meaning": [],
   "sounds_similar": [],
   "usage_examples": [],
@@ -19,5 +24,7 @@
     "eng:ask in which direction gate six is"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false
 }

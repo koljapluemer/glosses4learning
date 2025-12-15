@@ -4,7 +4,8 @@
   "transcriptions": {},
   "logs": {
     "2025-12-04T13:12:39.282000Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb",
-    "2025-12-04T13:12:42.260863Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+    "2025-12-04T13:12:42.260863Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb",
+    "2025-12-14T14:22:16.883Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
   "morphologically_related": [],
   "parts": [],
@@ -19,5 +20,7 @@
     "eng:ask in which direction gate six is"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false
 }

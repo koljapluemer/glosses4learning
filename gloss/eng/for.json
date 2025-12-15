@@ -5,7 +5,11 @@
   "logs": {
     "2025-12-04T12:16:55.291343Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-04T12:16:59.435523Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-04T12:17:03.040555Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-04T12:17:03.040555Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-12T14:08:34.840141Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:10:58.692225Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:11:42.032365Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:19:10.507602Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
   },
   "morphologically_related": [],
   "parts": [],
@@ -17,8 +21,15 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "arb:إلى"
+    "arb:إلى",
+    "arb:ل",
+    "ita:per"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

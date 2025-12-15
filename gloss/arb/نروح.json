@@ -2,7 +2,9 @@
   "content": "نروح",
   "language": "arb",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-14T14:50:53.094Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -15,8 +17,12 @@
   "translations": [
     "eng:Let's go",
     "eng:We go",
-    "eng:We are going"
+    "eng:We are going",
+    "eng:to go",
+    "eng:go"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false
 }

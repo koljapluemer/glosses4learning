@@ -2,7 +2,9 @@
   "content": "رحلة",
   "language": "arb",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-14T14:49:30.600Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -17,10 +19,13 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "eng:flight"
+    "eng:flight",
+    "eng:trip"
   ],
   "notes": [],
   "tags": [
     "machine-translation"
-  ]
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false
 }
