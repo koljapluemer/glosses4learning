@@ -3,27 +3,26 @@
   "language": "arb",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T18:37:48.748Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-14T18:37:53.243Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-14T18:38:30.012Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+    "2025-12-04T11:48:28.405151Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "arb:أي فيلم بتحب؟",
+    "arb:أي لون تفضل؟",
+    "arb:أي مطعم نروح؟"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "eng:which",
-    "eng:any",
-    "eng:either",
-    "eng:what"
+    "eng:which"
   ],
   "notes": [],
-  "tags": [],
-  "needsHumanCheck": false,
-  "excludeFromLearning": false
+  "tags": [
+    "machine-translation"
+  ]
 }
