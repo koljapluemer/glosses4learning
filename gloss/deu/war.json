@@ -2,7 +2,11 @@
   "content": "war",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-20T13:12:32.632Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-20T13:12:54.519Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-20T13:13:22.606Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -13,8 +17,16 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "deu:Was"
+    "deu:Was",
+    "eng:was",
+    "eng:were",
+    "eng:had been"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

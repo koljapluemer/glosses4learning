@@ -2,7 +2,10 @@
   "content": "Welcher",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-20T14:23:08.513Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-20T14:23:22.238Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -13,12 +16,20 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "deu:Welche"
+    "deu:Welche",
+    "eng:Which",
+    "eng:What kind of",
+    "eng:Which one"
   ],
   "notes": [
     "eng:Used when referring to masculine nouns",
     "eng:Used in masculine contexts, can change based on gender and case",
     "eng:Used for masculine nouns"
   ],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

@@ -2,9 +2,14 @@
   "content": "ausdrücken",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-19T10:12:04.334Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
   "morphologically_related": [],
-  "parts": [],
+  "parts": [
+    "deu:aus",
+    "deu:drücken"
+  ],
   "has_similar_meaning": [],
   "sounds_similar": [],
   "usage_examples": [],
@@ -16,5 +21,10 @@
     "eng:express"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

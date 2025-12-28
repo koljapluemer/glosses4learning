@@ -4,7 +4,12 @@
   "transcriptions": {},
   "logs": {},
   "morphologically_related": [],
-  "parts": [],
+  "parts": [
+    "eng:any",
+    "eng:special",
+    "eng:offers",
+    "eng:today"
+  ],
   "has_similar_meaning": [],
   "sounds_similar": [],
   "usage_examples": [],
@@ -12,10 +17,18 @@
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
-  "translations": [],
+  "translations": [
+    "deu:Gibt es heute irgendwelche Sonderangebote",
+    "deu:Haben Sie heute spezielle Angebote"
+  ],
   "notes": [],
   "tags": [
     "eng:paraphrase",
     "eng:procedural-paraphrase-expression-goal"
-  ]
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

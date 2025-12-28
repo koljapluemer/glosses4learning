@@ -2,7 +2,10 @@
   "content": "ist",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-19T10:11:55.969Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-19T10:12:04.333Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -12,7 +15,16 @@
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
-  "translations": [],
+  "translations": [
+    "eng:is",
+    "eng:exists",
+    "eng:equals"
+  ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

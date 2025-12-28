@@ -2,7 +2,10 @@
   "content": "den",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-20T14:23:08.518Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-20T14:23:22.244Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -13,12 +16,20 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "deu:dem"
+    "deu:dem",
+    "eng:the",
+    "eng:that",
+    "eng:this"
   ],
   "notes": [
     "eng:used in dative case for plural nouns",
     "eng:Used in specific grammatical cases, such as accusative",
     "eng:Used when referring to a plural noun in the dative case"
   ],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

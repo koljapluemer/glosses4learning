@@ -2,7 +2,10 @@
   "content": "a",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-16T11:44:40.605Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2025-12-16T11:46:06.605Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -16,5 +19,10 @@
     "eng:to"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

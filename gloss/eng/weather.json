@@ -2,7 +2,9 @@
   "content": "weather",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2025-12-16T10:42:52.686Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -13,8 +15,21 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "spa:tiempo"
+    "spa:tiempo",
+    "arb:الطقس",
+    "arb:طقس",
+    "spa:tempo",
+    "por:clima",
+    "por:tempo",
+    "pol:pogoda",
+    "pol:klimat",
+    "rus:погода"
   ],
   "notes": [],
-  "tags": []
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }
