@@ -1,30 +1,22 @@
 {
   "content": "può",
   "language": "ita",
-  "transcriptions": {},
-  "logs": {
-    "2025-12-15T19:07:04.247Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita",
-    "2025-12-15T19:07:53.492Z": "SPLIT_CONSIDERED_UNNECESSARY"
-  },
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "ita:Cosa può dirci riguardo a questo dipinto﹖",
+    "ita:Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso",
+    "ita:Forse Tom lo può fare",
+    "ita:Non le può licenziare"
+  ],
   "translations": [
     "eng:can",
     "eng:may",
-    "eng:is able to"
+    "eng:is able to",
+    "eng:is allowed to"
   ],
-  "notes": [],
-  "tags": [],
-  "needsHumanCheck": false,
-  "excludeFromLearning": false,
-  "decorativeImages": [],
-  "semanticImages": [],
-  "unambigiousImages": []
+  "logs": {
+    "2025-12-28T15:00:37.716021Z": "TRANSLATION_DONE:eng"
+  }
 }

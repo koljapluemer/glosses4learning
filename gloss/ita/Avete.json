@@ -1,29 +1,23 @@
 {
   "content": "Avete",
   "language": "ita",
-  "transcriptions": {},
-  "logs": {
-    "2025-12-15T19:05:19.914Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita",
-    "2025-12-15T19:07:24.369Z": "SPLIT_CONSIDERED_UNNECESSARY"
-  },
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
-  "translations": [
-    "eng:Do you have﹖",
-    "eng:You have﹖"
+  "tags": [
+    "eng:tatoeba-sentence-part"
   ],
-  "notes": [],
-  "tags": [],
-  "needsHumanCheck": false,
-  "excludeFromLearning": false,
-  "decorativeImages": [],
-  "semanticImages": [],
-  "unambigiousImages": []
+  "usage_examples": [
+    "ita:Avete annotato il numero di telefono﹖",
+    "ita:Avete provato l'hot pot a Taiwan﹖",
+    "ita:Avete il nostro rispetto",
+    "ita:Avete visitato la città dove è nato vostro padre﹖",
+    "ita:Avete mai provato﹖"
+  ],
+  "translations": [
+    "eng:You have",
+    "eng:Do you have﹖",
+    "eng:You all have",
+    "eng:Have you﹖"
+  ],
+  "logs": {
+    "2025-12-28T14:32:17.426876Z": "TRANSLATION_DONE:eng"
+  }
 }

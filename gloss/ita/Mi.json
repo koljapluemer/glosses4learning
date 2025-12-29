@@ -1,29 +1,38 @@
 {
   "content": "Mi",
   "language": "ita",
-  "transcriptions": {},
-  "logs": {
-    "2025-12-15T19:05:19.916Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita",
-    "2025-12-15T19:07:24.371Z": "SPLIT_CONSIDERED_UNNECESSARY"
-  },
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "ita:Mi sono tuffato nell'acqua",
+    "ita:Mi ha detto che è scettico",
+    "ita:Mi sono divertita davvero alla festa",
+    "ita:Mi piace il reggae",
+    "ita:Mi sento unico rispetto agli altri",
+    "ita:Mi mandi la sua posizione",
+    "ita:Mi piacerebbe cenare con lei",
+    "ita:Ti ho detto delle cose così orribili. Mi dispiace",
+    "ita:Mi sto facendo ricrescere la barba",
+    "ita:Mi scuso se ho ferito i suoi sentimenti",
+    "ita:Mi importa solamente di lui",
+    "ita:Mi ha detto che non mangiava carne",
+    "ita:Mi fa piacere che tu sia d'accordo",
+    "ita:Mi descriva Tom",
+    "ita:Mi importa di lei",
+    "ita:Mi piacciono i cani e i gatti",
+    "ita:Mi servono dei francobolli",
+    "ita:Mi manca così tanto il mio moroso!",
+    "ita:Mi devi aiutare a salvarle",
+    "ita:Mi sto riposando ora",
+    "ita:Mi fa piacere che le piaccia"
+  ],
   "translations": [
     "eng:Me",
-    "eng:To me"
+    "eng:I",
+    "eng:Myself"
   ],
-  "notes": [],
-  "tags": [],
-  "needsHumanCheck": false,
-  "excludeFromLearning": false,
-  "decorativeImages": [],
-  "semanticImages": [],
-  "unambigiousImages": []
+  "logs": {
+    "2025-12-28T14:36:31.911993Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -1,29 +1,25 @@
 {
   "content": "fare",
   "language": "ita",
-  "transcriptions": {},
-  "logs": {
-    "2025-12-15T19:07:04.243Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita",
-    "2025-12-15T19:07:53.491Z": "SPLIT_CONSIDERED_UNNECESSARY"
-  },
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "ita:Può fare di meglio",
+    "ita:Lo devo fare prima di potere andare a casa oggi",
+    "ita:Tom non aveva nulla a che fare con tutto quello",
+    "ita:Ho un sacco di cose da fare",
+    "ita:Forse Tom lo può fare",
+    "ita:Non sapeva cosa fare",
+    "ita:Posso andare a fare una passeggiata﹖"
+  ],
   "translations": [
     "eng:to do",
-    "eng:to make"
+    "eng:to make",
+    "eng:to act",
+    "eng:to perform"
   ],
-  "notes": [],
-  "tags": [],
-  "needsHumanCheck": false,
-  "excludeFromLearning": false,
-  "decorativeImages": [],
-  "semanticImages": [],
-  "unambigiousImages": []
+  "logs": {
+    "2025-12-28T14:50:41.936852Z": "TRANSLATION_DONE:eng"
+  }
 }

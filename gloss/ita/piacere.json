@@ -1,29 +1,23 @@
 {
   "content": "piacere",
   "language": "ita",
-  "transcriptions": {},
-  "logs": {
-    "2025-12-15T19:05:19.916Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita",
-    "2025-12-15T19:07:24.371Z": "SPLIT_CONSIDERED_UNNECESSARY"
-  },
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
-  "translations": [
-    "eng:pleasure",
-    "eng:like"
+  "tags": [
+    "eng:tatoeba-sentence-part"
   ],
-  "notes": [],
-  "tags": [],
-  "needsHumanCheck": false,
-  "excludeFromLearning": false,
-  "decorativeImages": [],
-  "semanticImages": [],
-  "unambigiousImages": []
+  "usage_examples": [
+    "ita:Per piacere, copi questa pagina",
+    "ita:Passami il sale, per piacere. Ecco qua",
+    "ita:Mi fa piacere che tu sia d'accordo",
+    "ita:Mi fa piacere che le piaccia",
+    "ita:Per piacere, aspetta finché non arriva"
+  ],
+  "translations": [
+    "eng:to please",
+    "eng:to like",
+    "eng:pleasure",
+    "eng:enjoyment"
+  ],
+  "logs": {
+    "2025-12-28T14:59:02.172808Z": "TRANSLATION_DONE:eng"
+  }
 }

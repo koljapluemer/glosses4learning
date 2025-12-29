@@ -1,29 +1,21 @@
 {
   "content": "posso",
   "language": "ita",
-  "transcriptions": {},
-  "logs": {
-    "2025-12-15T19:07:04.243Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita",
-    "2025-12-15T19:07:53.491Z": "SPLIT_CONSIDERED_UNNECESSARY"
-  },
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "ita:Io non posso dirle come si pronuncia la parola",
+    "ita:Vi posso insegnare a lottare",
+    "ita:Non posso farla da sola"
+  ],
   "translations": [
     "eng:I can",
-    "eng:I am able to"
+    "eng:I am able to",
+    "eng:I may",
+    "eng:I am allowed to"
   ],
-  "notes": [],
-  "tags": [],
-  "needsHumanCheck": false,
-  "excludeFromLearning": false,
-  "decorativeImages": [],
-  "semanticImages": [],
-  "unambigiousImages": []
+  "logs": {
+    "2025-12-28T14:59:42.302491Z": "TRANSLATION_DONE:eng"
+  }
 }
