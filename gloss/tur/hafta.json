@@ -5,13 +5,17 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Soğuk algınlığımı atlatmam üç haftamı aldı"
+    "tur:Soğuk algınlığımı atlatmam üç haftamı aldı",
+    "tur:Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi"
   ],
   "translations": [
     "eng:week",
-    "eng:weekly"
+    "eng:weekly",
+    "deu:Woche",
+    "deu:Wochen"
   ],
   "logs": {
-    "2026-01-02T09:18:12.427178Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:12.427178Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:34:33.694953Z": "TRANSLATION_DONE:deu"
   }
 }

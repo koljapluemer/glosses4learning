@@ -5,13 +5,17 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Neden biraz elma almıyoruz﹖"
+    "tur:Neden biraz elma almıyoruz﹖",
+    "tur:Biz ona birkaç tane elma verdik"
   ],
   "translations": [
     "eng:apple",
-    "eng:fruit"
+    "eng:fruit",
+    "deu:Apfel",
+    "deu:Äpfel"
   ],
   "logs": {
-    "2026-01-02T09:17:34.231079Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:34.231079Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:34:14.354488Z": "TRANSLATION_DONE:deu"
   }
 }

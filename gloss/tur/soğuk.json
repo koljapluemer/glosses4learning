@@ -5,14 +5,18 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Soğuk algınlığımı atlatmam üç haftamı aldı"
+    "tur:Soğuk algınlığımı atlatmam üç haftamı aldı",
+    "tur:Soğuk bir duş yap ve sonra sıcak bir çay iç!"
   ],
   "translations": [
     "eng:cold",
     "eng:chilly",
-    "eng:cool"
+    "eng:cool",
+    "deu:kalt",
+    "deu:kühl"
   ],
   "logs": {
-    "2026-01-02T09:20:21.145682Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:21.145682Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:35:11.093621Z": "TRANSLATION_DONE:deu"
   }
 }

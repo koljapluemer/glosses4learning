@@ -5,13 +5,17 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Lütfen rahatınıza bakın"
+    "tur:Lütfen rahatınıza bakın",
+    "tur:Lütfen güncel tutun"
   ],
   "translations": [
     "eng:Please",
-    "eng:Kindly"
+    "eng:Kindly",
+    "deu:Bitte",
+    "deu:Bitte schön"
   ],
   "logs": {
-    "2026-01-02T09:15:33.437902Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:33.437902Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:33:37.905116Z": "TRANSLATION_DONE:deu"
   }
 }
