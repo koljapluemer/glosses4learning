@@ -1,9 +1,15 @@
 {
   "content": "dice",
   "language": "ita",
-  "tags": [
-    "eng:tatoeba-sentence-part"
-  ],
+  "transcriptions": {},
+  "logs": {
+    "2025-12-28T14:48:51.829001Z": "TRANSLATION_DONE:eng",
+    "2026-01-22T15:09:59.534Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "morphologically_related": [],
+  "parts": [],
+  "has_similar_meaning": [],
+  "sounds_similar": [],
   "usage_examples": [
     "ita:Tom dice di non voler più vivere così",
     "ita:Mary dice di essere troppo stanca oggi per aiutare",
@@ -12,13 +18,23 @@
     "ita:Tom dice di non aver nuotato",
     "ita:Mary dice che ha già deciso di farlo"
   ],
+  "to_be_differentiated_from": [],
+  "collocations": [],
+  "typical_follow_up": [],
+  "children": [],
   "translations": [
     "eng:to say",
     "eng:to tell",
     "eng:to speak",
     "eng:to declare"
   ],
-  "logs": {
-    "2025-12-28T14:48:51.829001Z": "TRANSLATION_DONE:eng"
-  }
+  "notes": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

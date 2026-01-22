@@ -1,9 +1,15 @@
 {
   "content": "si",
   "language": "ita",
-  "tags": [
-    "eng:tatoeba-sentence-part"
-  ],
+  "transcriptions": {},
+  "logs": {
+    "2025-12-28T15:04:17.640113Z": "TRANSLATION_DONE:eng",
+    "2026-01-22T15:09:59.533Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "morphologically_related": [],
+  "parts": [],
+  "has_similar_meaning": [],
+  "sounds_similar": [],
   "usage_examples": [
     "ita:Non si trova in una bella situazione",
     "ita:Tom sa come si sente Mary a riguardo",
@@ -30,13 +36,23 @@
     "ita:Tom non si fida degli estranei",
     "ita:Natalia e Veronica si guardavano a vicenda con complicità"
   ],
+  "to_be_differentiated_from": [],
+  "collocations": [],
+  "typical_follow_up": [],
+  "children": [],
   "translations": [
     "eng:if",
     "eng:whether",
     "eng:in case",
     "eng:provided that"
   ],
-  "logs": {
-    "2025-12-28T15:04:17.640113Z": "TRANSLATION_DONE:eng"
-  }
+  "notes": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }
