@@ -1,9 +1,15 @@
 {
   "content": "è",
   "language": "ita",
-  "tags": [
-    "eng:tatoeba-sentence-part"
-  ],
+  "transcriptions": {},
+  "logs": {
+    "2025-12-28T15:10:03.225704Z": "TRANSLATION_DONE:eng",
+    "2026-01-22T15:09:59.537Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "morphologically_related": [],
+  "parts": [],
+  "has_similar_meaning": [],
+  "sounds_similar": [],
   "usage_examples": [
     "ita:Quanto tempo ci è voluto per tradurre questo libro﹖",
     "ita:Ti è piaciuto Tom﹖",
@@ -114,13 +120,23 @@
     "ita:Tom è aggressivo, ma Mary non lo è",
     "ita:Il cambiamento è spaventoso"
   ],
+  "to_be_differentiated_from": [],
+  "collocations": [],
+  "typical_follow_up": [],
+  "children": [],
   "translations": [
     "eng:it is",
     "eng:there is",
     "eng:he is",
     "eng:she is"
   ],
-  "logs": {
-    "2025-12-28T15:10:03.225704Z": "TRANSLATION_DONE:eng"
-  }
+  "notes": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

@@ -1,19 +1,35 @@
 {
   "content": "modo",
   "language": "ita",
-  "tags": [
-    "eng:tatoeba-sentence-part"
-  ],
+  "transcriptions": {},
+  "logs": {
+    "2025-12-28T14:56:05.035862Z": "TRANSLATION_DONE:eng",
+    "2026-01-22T15:09:59.538Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "morphologically_related": [],
+  "parts": [],
+  "has_similar_meaning": [],
+  "sounds_similar": [],
   "usage_examples": [
     "ita:Perché vi state comportando in modo così strano﹖"
   ],
+  "to_be_differentiated_from": [],
+  "collocations": [],
+  "typical_follow_up": [],
+  "children": [],
   "translations": [
     "eng:way",
     "eng:manner",
     "eng:method",
     "eng:style"
   ],
-  "logs": {
-    "2025-12-28T14:56:05.035862Z": "TRANSLATION_DONE:eng"
-  }
+  "notes": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

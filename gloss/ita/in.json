@@ -1,9 +1,15 @@
 {
   "content": "in",
   "language": "ita",
-  "tags": [
-    "eng:tatoeba-sentence-part"
-  ],
+  "transcriptions": {},
+  "logs": {
+    "2025-12-28T14:53:03.367350Z": "TRANSLATION_DONE:eng",
+    "2026-01-22T15:09:59.534Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "morphologically_related": [],
+  "parts": [],
+  "has_similar_meaning": [],
+  "sounds_similar": [],
   "usage_examples": [
     "ita:Non si trova in una bella situazione",
     "ita:Tom decise di rinunciare ad andare in skateboard dopo il suo incidente",
@@ -60,12 +66,22 @@
     "ita:Non so se lui verrà in treno o in auto",
     "ita:Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firen"
   ],
+  "to_be_differentiated_from": [],
+  "collocations": [],
+  "typical_follow_up": [],
+  "children": [],
   "translations": [
     "eng:inside",
     "eng:within",
     "eng:into"
   ],
-  "logs": {
-    "2025-12-28T14:53:03.367350Z": "TRANSLATION_DONE:eng"
-  }
+  "notes": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": []
 }

@@ -1,8 +1,11 @@
 {
-  "content": "Like",
-  "language": "eng",
+  "content": "Come",
+  "language": "ita",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-22T15:09:59.531Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-01-22T15:10:03.104Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
@@ -13,10 +16,10 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "spa:Como",
-    "pol:Jak",
-    "deu:Wie",
-    "ita:Come"
+    "eng:How",
+    "eng:As",
+    "eng:Like",
+    "eng:When"
   ],
   "notes": [],
   "tags": [],

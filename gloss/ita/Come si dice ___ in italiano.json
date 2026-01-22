@@ -1,10 +1,18 @@
 {
-  "content": "Like",
-  "language": "eng",
+  "content": "Come si dice ___ in italiano?",
+  "language": "ita",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-22T15:09:41.769Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita"
+  },
   "morphologically_related": [],
-  "parts": [],
+  "parts": [
+    "ita:Come",
+    "ita:si",
+    "ita:dice",
+    "ita:in",
+    "ita:italiano"
+  ],
   "has_similar_meaning": [],
   "sounds_similar": [],
   "usage_examples": [],
@@ -13,10 +21,7 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "spa:Como",
-    "pol:Jak",
-    "deu:Wie",
-    "ita:Come"
+    "eng:ask how to express ___ in the target language"
   ],
   "notes": [],
   "tags": [],
