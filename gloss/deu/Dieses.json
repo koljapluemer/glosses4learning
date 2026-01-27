@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "tur:Bu",
-    "tur:Bunun"
-  ]
+    "tur:Bunun",
+    "eng:this",
+    "eng:these"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Dieses Handy ist wirklich teuer",
+    "deu:Dieses Lied erinnert mich an jemanden",
+    "deu:Dieses Buch handelt von China"
+  ],
+  "logs": {
+    "2026-01-27T14:27:52.693894Z": "TRANSLATION_DONE:eng"
+  }
 }

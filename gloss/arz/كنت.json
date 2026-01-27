@@ -2,20 +2,33 @@
   "content": "كنت",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
     "arz:توم كان مشغول وأنا كمان كنت مشغول",
     "arz:كنت هنا امبارح",
     "arz:كنت بحلم",
-    "arz:كنت في المستشفى"
+    "arz:كنت في المستشفى",
+    "arz:أنا كنت في سيناء من قريب"
   ],
   "translations": [
     "eng:I was",
     "eng:I used to be",
-    "eng:I have been"
+    "eng:I have been",
+    "eng:was",
+    "eng:be",
+    "eng:exist",
+    "eng:will",
+    "eng:have"
   ],
   "logs": {
     "2026-01-03T07:54:32.515725Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "kunt"
   }
 }

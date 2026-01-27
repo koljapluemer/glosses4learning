@@ -2,6 +2,19 @@
   "content": "nimmt",
   "language": "deu",
   "translations": [
-    "tur:alıyor"
-  ]
+    "tur:alıyor",
+    "eng:takes",
+    "eng:is taking",
+    "eng:accepts",
+    "eng:receives"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Maria nimmt Ballettunterricht"
+  ],
+  "logs": {
+    "2026-01-27T14:35:22.740323Z": "TRANSLATION_DONE:eng"
+  }
 }

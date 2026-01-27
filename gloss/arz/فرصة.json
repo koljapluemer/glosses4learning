@@ -2,10 +2,12 @@
   "content": "فرصة",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:دي ممكن تبقى آخر فرصة لينا نعمل كده"
+    "arz:دي ممكن تبقى آخر فرصة لينا نعمل كده",
+    "arz:دائماً في فرصة ثانية في امتحان اللغة"
   ],
   "translations": [
     "eng:opportunity",
@@ -15,5 +17,11 @@
   ],
   "logs": {
     "2026-01-11T19:23:18.459176Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "fursa"
   }
 }

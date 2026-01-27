@@ -3,6 +3,18 @@
   "language": "deu",
   "translations": [
     "tur:gerekir",
-    "frr:muss"
-  ]
+    "frr:muss",
+    "eng:must",
+    "eng:have to",
+    "eng:need to"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich muss für eine Spanienreise Spanisch lernen"
+  ],
+  "logs": {
+    "2026-01-27T14:35:11.784682Z": "TRANSLATION_DONE:eng"
+  }
 }

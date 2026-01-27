@@ -2,6 +2,19 @@
   "content": "min",
   "language": "deu",
   "translations": [
-    "frr:min"
-  ]
+    "frr:min",
+    "eng:min",
+    "eng:minute",
+    "eng:my",
+    "eng:mine"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Miist drinkt min Wüf injems niin Kofi en ik uk ek"
+  ],
+  "logs": {
+    "2026-01-27T14:35:07.645604Z": "TRANSLATION_DONE:eng"
+  }
 }

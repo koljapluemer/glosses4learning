@@ -2,18 +2,31 @@
   "content": "المكان",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:توم ريحته في المكان"
+    "arz:توم ريحته في المكان",
+    "arz:إمشي وَراَ العربية علشان توصل المكان",
+    "arz:المكان ده خطير بالليل"
   ],
   "translations": [
     "eng:the place",
     "eng:the location",
     "eng:the area",
-    "eng:the spot"
+    "eng:the spot",
+    "eng:place",
+    "eng:location",
+    "eng:venue",
+    "eng:site"
   ],
   "logs": {
     "2026-01-03T08:21:24.026874Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "ilmakaen"
   }
 }

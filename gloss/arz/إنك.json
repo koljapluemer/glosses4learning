@@ -2,17 +2,26 @@
   "content": "إنك",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:أنصحك إنك تتأسف"
+    "arz:أنصحك إنك تتأسف",
+    "arz:واجبك إنك تحافظ على الكلب لحد ما أرجع من السفر"
   ],
   "translations": [
     "eng:You are",
     "eng:Indeed you are",
-    "eng:You really are"
+    "eng:You really are",
+    "eng:your"
   ],
   "logs": {
     "2026-01-03T07:53:15.613397Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "-ak"
   }
 }

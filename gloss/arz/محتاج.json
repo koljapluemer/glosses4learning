@@ -2,18 +2,32 @@
   "content": "محتاج",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:كان محتاج نضّارة"
+    "arz:كان محتاج نضّارة",
+    "arz:إذا أنت محتاج أي حاجة، إسألني",
+    "arz:لو محتاج أي حاجة، إسألني",
+    "arz:محتاج فلوس علشان أشتري أكل",
+    "arz:أنا محتاج نضارة شمس",
+    "arz:أنا محتاج علاج طبيعي لكتف ي"
   ],
   "translations": [
     "eng:in need",
     "eng:needing",
     "eng:requiring",
-    "eng:wanting"
+    "eng:wanting",
+    "eng:need",
+    "eng:need (to)"
   ],
   "logs": {
     "2026-01-03T08:22:22.788543Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "mihtaeg"
   }
 }

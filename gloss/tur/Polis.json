@@ -5,13 +5,17 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Polis burada"
+    "tur:Polis burada",
+    "tur:Polis, Dan'in kendini savunma sınırları içinde hareket ettiğini tespit etti"
   ],
   "translations": [
     "deu:Stadt",
-    "deu:Polizei"
+    "deu:Polizei",
+    "eng:city",
+    "eng:police"
   ],
   "logs": {
-    "2026-01-11T19:16:51.006078Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:16:51.006078Z": "TRANSLATION_DONE:deu",
+    "2026-01-27T14:53:28.287790Z": "TRANSLATION_DONE:eng"
   }
 }

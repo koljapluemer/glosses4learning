@@ -2,17 +2,30 @@
   "content": "أكون",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:عايز أكون ساحر"
+    "arz:عايز أكون ساحر",
+    "arz:ساعات بحب أكون لوحدي"
   ],
   "translations": [
     "eng:I am",
     "eng:I will be",
-    "eng:I become"
+    "eng:I become",
+    "eng:be",
+    "eng:exist",
+    "eng:was",
+    "eng:will",
+    "eng:have"
   ],
   "logs": {
     "2026-01-03T07:53:09.785997Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "'akoon"
   }
 }

@@ -2,18 +2,27 @@
   "content": "فضلك",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:من فضلك ساعديني"
+    "arz:من فضلك ساعديني",
+    "arz:عايز شاي زيادة من فضلك"
   ],
   "translations": [
     "eng:Your grace",
     "eng:Your favor",
     "eng:Please",
-    "eng:Kindly"
+    "eng:Kindly",
+    "eng:please"
   ],
   "logs": {
     "2026-01-11T19:23:19.382915Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "min fadlik"
   }
 }

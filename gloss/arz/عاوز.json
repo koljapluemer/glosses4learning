@@ -2,17 +2,27 @@
   "content": "عاوز",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:مش فاهم انت عاوز تقول إيه"
+    "arz:مش فاهم انت عاوز تقول إيه",
+    "arz:عاوز تاكل سمك ولا فراخ؟"
   ],
   "translations": [
     "eng:I want",
     "eng:I need",
-    "eng:I would like"
+    "eng:I would like",
+    "eng:want",
+    "eng:wanting"
   ],
   "logs": {
     "2026-01-11T19:23:10.166954Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "Aaewiz"
   }
 }

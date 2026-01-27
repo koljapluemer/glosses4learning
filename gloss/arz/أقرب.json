@@ -2,10 +2,12 @@
   "content": "أقرب",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:فين أقرب أجزخانة؟"
+    "arz:فين أقرب أجزخانة؟",
+    "arz:أقرب مكان ناكل فيه فين؟"
   ],
   "translations": [
     "eng:closest",
@@ -15,5 +17,11 @@
   ],
   "logs": {
     "2026-01-03T08:21:02.609327Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "'a'rab"
   }
 }

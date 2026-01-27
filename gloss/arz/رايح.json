@@ -2,10 +2,12 @@
   "content": "رايح",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:مين رايح؟"
+    "arz:مين رايح؟",
+    "arz:رايح مشوار ورجع بسرعة"
   ],
   "translations": [
     "eng:going",
@@ -15,5 +17,11 @@
   ],
   "logs": {
     "2026-01-11T19:22:56.619868Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "raayih"
   }
 }

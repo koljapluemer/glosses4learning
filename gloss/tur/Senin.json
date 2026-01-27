@@ -5,13 +5,17 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Senin araban hızlıdır"
+    "tur:Senin araban hızlıdır",
+    "tur:Senin favori yaz yiyeceğin nedir﹖"
   ],
   "translations": [
     "deu:dein",
-    "deu:deine"
+    "deu:deine",
+    "eng:your",
+    "eng:yours"
   ],
   "logs": {
-    "2026-01-11T19:16:52.913820Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:16:52.913820Z": "TRANSLATION_DONE:deu",
+    "2026-01-27T14:53:31.051667Z": "TRANSLATION_DONE:eng"
   }
 }

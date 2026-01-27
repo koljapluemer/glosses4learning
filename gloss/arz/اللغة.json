@@ -2,16 +2,28 @@
   "content": "اللغة",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:اللغة الصينية أصعب من اللغات الأجنبية التانية"
+    "arz:اللغة الصينية أصعب من اللغات الأجنبية التانية",
+    "arz:أما فبالنسبة للجَوّ السنة ديه حر جداً",
+    "arz:في وقت في السنة بيبقى كويس جداً للغوص",
+    "arz:دائماً في فرصة ثانية في امتحان اللغة"
   ],
   "translations": [
     "eng:language",
-    "eng:the language"
+    "eng:the language",
+    "eng:year,",
+    "eng:year"
   ],
   "logs": {
     "2026-01-11T19:22:31.461114Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "il-lugha"
   }
 }

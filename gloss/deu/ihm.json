@@ -2,19 +2,25 @@
   "content": "ihm",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-27T14:34:03.441247Z": "TRANSLATION_DONE:eng"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "deu:Es ist unwahrscheinlich, dass es ihm gelungen ist"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
   "translations": [
     "deu:dem",
-    "frr:ihm"
+    "frr:ihm",
+    "eng:him",
+    "eng:to him"
   ],
   "notes": [
     "eng:used when referring to a male person or masculine noun",
@@ -22,5 +28,7 @@
     "eng:Used when referring to a male person or entity",
     "eng:Used when referring to a masculine noun in the dative case"
   ],
-  "tags": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ]
 }

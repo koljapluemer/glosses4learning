@@ -2,6 +2,18 @@
   "content": "Verspätungen",
   "language": "deu",
   "translations": [
-    "tur:Gecikmelere"
-  ]
+    "tur:Gecikmelere",
+    "eng:delays",
+    "eng:lateness",
+    "eng:tardiness"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich ärgere mich über Verspätungen"
+  ],
+  "logs": {
+    "2026-01-27T14:30:43.393876Z": "TRANSLATION_DONE:eng"
+  }
 }

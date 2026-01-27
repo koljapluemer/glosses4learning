@@ -2,18 +2,29 @@
   "content": "سمحت",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:إفتح النور لو سمحت"
+    "arz:إفتح النور لو سمحت",
+    "arz:عايز جبنة مبشورة، لو سمحت",
+    "arz:عايز عصير برتقال صافي لو سمحت"
   ],
   "translations": [
     "eng:I allowed",
     "eng:I permitted",
     "eng:I let",
-    "eng:I granted"
+    "eng:I granted",
+    "eng:please",
+    "eng:excuse me"
   ],
   "logs": {
     "2026-01-03T08:21:58.928201Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "law samaht"
   }
 }

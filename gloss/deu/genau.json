@@ -2,6 +2,19 @@
   "content": "genau",
   "language": "deu",
   "translations": [
-    "tur:nemle"
-  ]
+    "tur:nemle",
+    "eng:exactly",
+    "eng:precisely",
+    "eng:right",
+    "eng:just"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Tom hat mir genau das Gegenteil gesagt"
+  ],
+  "logs": {
+    "2026-01-27T14:33:22.699297Z": "TRANSLATION_DONE:eng"
+  }
 }

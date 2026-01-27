@@ -2,12 +2,18 @@
   "content": "deine",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-27T14:32:05.659536Z": "TRANSLATION_DONE:eng"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "deu:Hast du gesagt, dass du deine Fehler akzeptieren sollst﹖",
+    "deu:Ich verstand deine Frage nicht",
+    "deu:Wo ist deine Mama﹖"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
@@ -19,12 +25,16 @@
     "frr:deine",
     "frr:deinem",
     "frr:din",
-    "tur:Senin"
+    "tur:Senin",
+    "eng:your",
+    "eng:yours"
   ],
   "notes": [
     "eng:Informal 'your' used among friends or peers",
     "eng:Informal, used when addressing someone you know well",
     "eng:Used in informal contexts, addressing someone you are familiar with"
   ],
-  "tags": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ]
 }

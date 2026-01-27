@@ -5,13 +5,18 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Bunun doğru olmadığını iddia ediyorum"
+    "tur:Bunun doğru olmadığını iddia ediyorum",
+    "tur:Bunun ne anlama geldiğini biliyorum"
   ],
   "translations": [
     "deu:Das",
-    "deu:Dieses"
+    "deu:Dieses",
+    "eng:this",
+    "eng:of this",
+    "eng:this one"
   ],
   "logs": {
-    "2026-01-22T15:45:31.978859Z": "TRANSLATION_DONE:deu"
+    "2026-01-22T15:45:31.978859Z": "TRANSLATION_DONE:deu",
+    "2026-01-27T14:53:14.818739Z": "TRANSLATION_DONE:eng"
   }
 }

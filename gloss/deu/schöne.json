@@ -2,23 +2,34 @@
   "content": "schöne",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-27T14:35:53.644114Z": "TRANSLATION_DONE:eng"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "deu:Ich betrachtete ein paar schöne Rosen",
+    "deu:Slowenisch ist eine schöne Sprache"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "deu:sch36nen"
+    "deu:sch36nen",
+    "eng:beautiful",
+    "eng:nice",
+    "eng:pretty",
+    "eng:lovely"
   ],
   "notes": [
     "eng:This is the feminine form of 'schön', used with feminine nouns",
     "eng:Feminine form of 'schön', used before feminine nouns",
     "eng:Feminine form of 'schön', used for feminine nouns"
   ],
-  "tags": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ]
 }

@@ -2,6 +2,18 @@
   "content": "ob",
   "language": "deu",
   "translations": [
-    "tur:mı"
-  ]
+    "tur:mı",
+    "eng:about",
+    "eng:of"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich bin nicht sicher, ob es vernünftig ist zu bleiben",
+    "deu:Ich weiß nicht, ob ich morgen zu der Sitzung kommen kann"
+  ],
+  "logs": {
+    "2026-01-27T14:35:28.680606Z": "TRANSLATION_DONE:eng"
+  }
 }

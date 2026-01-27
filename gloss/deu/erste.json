@@ -2,6 +2,19 @@
   "content": "erste",
   "language": "deu",
   "translations": [
-    "tur:ilk"
-  ]
+    "tur:ilk",
+    "eng:first",
+    "eng:primary",
+    "eng:initial"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde",
+    "deu:Tom war wirklich meine erste Wahl"
+  ],
+  "logs": {
+    "2026-01-27T14:32:45.975770Z": "TRANSLATION_DONE:eng"
+  }
 }

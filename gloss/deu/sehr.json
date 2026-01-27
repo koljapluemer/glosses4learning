@@ -3,6 +3,22 @@
   "language": "deu",
   "translations": [
     "tur:çok",
-    "tur:pek"
-  ]
+    "tur:pek",
+    "eng:very",
+    "eng:extremely",
+    "eng:highly",
+    "eng:really"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Esperanto zu lernen ist sehr interessant",
+    "deu:Ich schwimme sehr gern",
+    "deu:Meine Mutter spricht nicht sehr gut Englisch",
+    "deu:Sie fällt sehr gerne auf"
+  ],
+  "logs": {
+    "2026-01-27T14:35:56.020996Z": "TRANSLATION_DONE:eng"
+  }
 }

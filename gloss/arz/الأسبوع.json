@@ -2,16 +2,27 @@
   "content": "الأسبوع",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:المسرح كان بيبقى فاتح كل يوم في الأسبوع"
+    "arz:المسرح كان بيبقى فاتح كل يوم في الأسبوع",
+    "arz:الأسبوع اللي جاي في حفلة",
+    "arz:واحد صاحب يخطب الأسبوع اللي فات"
   ],
   "translations": [
     "eng:the week",
-    "eng:week"
+    "eng:week",
+    "eng:next week",
+    "eng:last week"
   ],
   "logs": {
     "2026-01-11T19:22:21.525704Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "il'usbwaA il-li faet"
   }
 }

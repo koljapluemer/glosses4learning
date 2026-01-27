@@ -2,10 +2,14 @@
   "content": "أو",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم"
+    "arz:ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم",
+    "arz:مُمكِن نأكل سمك أو فِراخ",
+    "arz:مُمكِن ناكُل سَمَك أو فِراخ",
+    "arz:لاَزِم تِقول اِلكَلاَم صَحّ أو اِلناَس مِش هَتِفهَمَك"
   ],
   "translations": [
     "eng:or",
@@ -13,5 +17,11 @@
   ],
   "logs": {
     "2026-01-03T08:21:05.925792Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "'aw"
   }
 }

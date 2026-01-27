@@ -2,16 +2,28 @@
   "content": "البحر",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:واحدة وقعت من مركب في البحر"
+    "arz:واحدة وقعت من مركب في البحر",
+    "arz:هنروح البحر",
+    "arz:هَنروح البحر",
+    "arz:أنا ساعدت واحد كان بغرق في البحر"
   ],
   "translations": [
     "eng:the sea",
-    "eng:the ocean"
+    "eng:the ocean",
+    "eng:seaside",
+    "eng:sea"
   ],
   "logs": {
     "2026-01-03T07:53:23.939467Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "ilbahr"
   }
 }

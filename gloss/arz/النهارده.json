@@ -2,11 +2,16 @@
   "content": "النهارده",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
     "arz:أنا صايمه النهارده",
-    "arz:السمك رخيص النهارده"
+    "arz:السمك رخيص النهارده",
+    "arz:أنا هَرَوَّح بَدري النهارده",
+    "arz:الجو رائع النهارده",
+    "arz:الدُنيا حَرّ النهارده",
+    "arz:أنا حضرت جلسة المحكمة النهارده"
   ],
   "translations": [
     "eng:today",
@@ -14,5 +19,11 @@
   ],
   "logs": {
     "2026-01-03T08:21:25.855447Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "ilnahardah"
   }
 }

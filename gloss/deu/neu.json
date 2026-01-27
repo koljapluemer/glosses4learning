@@ -2,21 +2,30 @@
   "content": "neu",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-27T14:35:14.442832Z": "TRANSLATION_DONE:eng"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "deu:Das Auto ist ziemlich neu"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "deu:frische"
+    "deu:frische",
+    "eng:new",
+    "eng:novel",
+    "eng:fresh"
   ],
   "notes": [
     "eng:Used when referring to something that is new or recently made"
   ],
-  "tags": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ]
 }

@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "tur:araba",
-    "tur:araban"
-  ]
+    "tur:araban",
+    "eng:car",
+    "eng:automobile"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Das Auto der Studentin ist alt",
+    "deu:Das Auto ist ziemlich neu",
+    "deu:Dein Auto ist schnell"
+  ],
+  "logs": {
+    "2026-01-27T14:27:33.749022Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,6 +2,18 @@
   "content": "sagt",
   "language": "deu",
   "translations": [
-    "tur:söylüyor"
-  ]
+    "tur:söylüyor",
+    "eng:says",
+    "eng:is saying",
+    "eng:tells"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Wer sagt, dass ich Angst vor Tom hätte﹖"
+  ],
+  "logs": {
+    "2026-01-27T14:35:43.651661Z": "TRANSLATION_DONE:eng"
+  }
 }

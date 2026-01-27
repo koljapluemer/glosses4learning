@@ -3,6 +3,20 @@
   "language": "deu",
   "translations": [
     "frr:nicht",
-    "frr:nichts"
-  ]
+    "frr:nichts",
+    "eng:nothing",
+    "eng:none",
+    "eng:not anything",
+    "eng:zero"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Antibiotika nützen nichts",
+    "deu:Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt﹖"
+  ],
+  "logs": {
+    "2026-01-27T14:35:16.905458Z": "TRANSLATION_DONE:eng"
+  }
 }

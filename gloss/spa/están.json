@@ -11,7 +11,8 @@
   "sounds_similar": [],
   "usage_examples": [
     "spa:Los libros están en la mesa",
-    "spa:Mis amigos están en el cine ahora"
+    "spa:Mis amigos están en el cine ahora",
+    "spa:Ellos ahora están a bordo del barco"
   ],
   "to_be_differentiated_from": [],
   "collocations": [],
@@ -23,7 +24,9 @@
     "eng:are present"
   ],
   "notes": [],
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false
 }

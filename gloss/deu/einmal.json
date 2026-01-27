@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "frr:altermaal",
-    "frr:einmal"
-  ]
+    "frr:einmal",
+    "eng:once",
+    "eng:one time",
+    "eng:one occasion"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich war einmal so verwirrt",
+    "deu:Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt"
+  ],
+  "logs": {
+    "2026-01-27T14:32:33.987155Z": "TRANSLATION_DONE:eng"
+  }
 }

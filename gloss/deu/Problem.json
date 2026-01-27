@@ -4,6 +4,21 @@
   "translations": [
     "tur:problem",
     "tur:sorunu",
-    "tur:sorunla"
-  ]
+    "tur:sorunla",
+    "eng:problem",
+    "eng:issue",
+    "eng:difficulty",
+    "eng:challenge"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Das Problem dreht sich um folgende Frage﹕",
+    "deu:Erlauben Sie mir, das Problem zu lösen",
+    "deu:Immer wenn du lachst, stirbt irgendwo ein Problem"
+  ],
+  "logs": {
+    "2026-01-27T14:29:53.732816Z": "TRANSLATION_DONE:eng"
+  }
 }

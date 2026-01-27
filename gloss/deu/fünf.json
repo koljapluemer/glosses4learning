@@ -2,6 +2,17 @@
   "content": "fünf",
   "language": "deu",
   "translations": [
-    "tur:beş"
-  ]
+    "tur:beş",
+    "eng:five",
+    "eng:5"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Im Dorf gibt es fünf Rinder"
+  ],
+  "logs": {
+    "2026-01-27T14:33:09.510337Z": "TRANSLATION_DONE:eng"
+  }
 }

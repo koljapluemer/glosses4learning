@@ -2,6 +2,18 @@
   "content": "niemanden",
   "language": "deu",
   "translations": [
-    "frr:keinen"
-  ]
+    "frr:keinen",
+    "eng:nobody",
+    "eng:no one",
+    "eng:anyone (in negative context)"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich weiß, dass ich mich in niemanden mehr verlieben können werde"
+  ],
+  "logs": {
+    "2026-01-27T14:35:21.001946Z": "TRANSLATION_DONE:eng"
+  }
 }

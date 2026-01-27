@@ -2,6 +2,19 @@
   "content": "Bezahlung",
   "language": "deu",
   "translations": [
-    "tur:ödeme"
-  ]
+    "tur:ödeme",
+    "eng:payment",
+    "eng:remuneration",
+    "eng:compensation",
+    "eng:settlement"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Diese Arbeit mache ich ohne Bezahlung, einfach aus Lust an der Freude"
+  ],
+  "logs": {
+    "2026-01-27T14:44:22.421827Z": "TRANSLATION_DONE:eng"
+  }
 }

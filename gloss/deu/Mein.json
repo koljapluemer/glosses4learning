@@ -2,6 +2,17 @@
   "content": "Mein",
   "language": "deu",
   "translations": [
-    "frr:Meine"
-  ]
+    "frr:Meine",
+    "eng:my",
+    "eng:mine"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Mein Vater kannte ihn"
+  ],
+  "logs": {
+    "2026-01-27T14:29:24.850428Z": "TRANSLATION_DONE:eng"
+  }
 }

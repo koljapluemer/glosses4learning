@@ -2,22 +2,33 @@
   "content": "einem",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-27T14:32:32.555003Z": "TRANSLATION_DONE:eng"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "deu:Maria dirigierte das Orchester mit einem Taktstock",
+    "deu:Sie tanzt mit einem anderen Mann",
+    "deu:Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt﹖"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
   "translations": [
     "deu:eine",
-    "frr:einem"
+    "frr:einem",
+    "eng:to someone",
+    "eng:to a person",
+    "eng:to one"
   ],
   "notes": [
     "eng:Used for dative masculine or neuter nouns"
   ],
-  "tags": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ]
 }

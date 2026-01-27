@@ -2,6 +2,17 @@
   "content": "Regen",
   "language": "deu",
   "translations": [
-    "frr:Reeg"
-  ]
+    "frr:Reeg",
+    "eng:rain",
+    "eng:precipitation"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen"
+  ],
+  "logs": {
+    "2026-01-27T14:29:57.952111Z": "TRANSLATION_DONE:eng"
+  }
 }

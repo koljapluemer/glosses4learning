@@ -2,6 +2,18 @@
   "content": "spricht",
   "language": "deu",
   "translations": [
-    "tur:konuşur"
-  ]
+    "tur:konuşur",
+    "eng:speaks",
+    "eng:is speaking",
+    "eng:talks"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Meine Mutter spricht nicht sehr gut Englisch"
+  ],
+  "logs": {
+    "2026-01-27T14:36:21.108405Z": "TRANSLATION_DONE:eng"
+  }
 }

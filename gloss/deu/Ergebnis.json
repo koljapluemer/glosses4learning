@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "tur:sonucu",
-    "tur:çıktı"
-  ]
+    "tur:çıktı",
+    "eng:result",
+    "eng:outcome",
+    "eng:finding",
+    "eng:conclusion"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen"
+  ],
+  "logs": {
+    "2026-01-27T14:28:04.778002Z": "TRANSLATION_DONE:eng"
+  }
 }

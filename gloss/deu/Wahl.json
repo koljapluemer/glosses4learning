@@ -2,6 +2,20 @@
   "content": "Wahl",
   "language": "deu",
   "translations": [
-    "frr:Waal"
-  ]
+    "frr:Waal",
+    "eng:election",
+    "eng:vote",
+    "eng:choice",
+    "eng:selection"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Tom war wirklich meine erste Wahl",
+    "deu:Tom hat nicht wirklich die Wahl"
+  ],
+  "logs": {
+    "2026-01-27T14:30:46.948544Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,6 +2,19 @@
   "content": "Bevölkerung",
   "language": "deu",
   "translations": [
-    "tur:nüfusu"
-  ]
+    "tur:nüfusu",
+    "eng:population",
+    "eng:inhabitants",
+    "eng:citizens",
+    "eng:residents"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Die Bevölkerung dieser Stadt wird jedes Jahr kleiner"
+  ],
+  "logs": {
+    "2026-01-27T14:27:37.200290Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,18 +2,30 @@
   "content": "حد",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:ما افتكرش ان في أي عيب ف كون أي حد فقير"
+    "arz:ما افتكرش ان في أي عيب ف كون أي حد فقير",
+    "arz:أكيد الرياضة بتفرق في حياة أي حد"
   ],
   "translations": [
     "eng:limit",
     "eng:boundary",
     "eng:edge",
-    "eng:threshold"
+    "eng:threshold",
+    "eng:anybody's",
+    "eng:anyone",
+    "eng:anybody",
+    "eng:whoever"
   ],
   "logs": {
     "2026-01-03T07:54:00.278436Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "'ai hadd"
   }
 }

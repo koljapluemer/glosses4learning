@@ -2,6 +2,20 @@
   "content": "hast",
   "language": "deu",
   "translations": [
-    "frr:hast"
-  ]
+    "frr:hast",
+    "eng:have",
+    "eng:got"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Du hast eine Alternative",
+    "deu:Von wem hast du es erfahren﹖",
+    "deu:Wann hast du Zeit für mich﹖",
+    "deu:Wie viel Abfertigung hast du bekommen﹖"
+  ],
+  "logs": {
+    "2026-01-27T14:33:49.866547Z": "TRANSLATION_DONE:eng"
+  }
 }

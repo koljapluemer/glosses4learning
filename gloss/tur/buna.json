@@ -5,13 +5,18 @@
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
-    "tur:Tom, buna vaktimiz yok!"
+    "tur:Tom, buna vaktimiz yok!",
+    "tur:Buna bakmak ister misin﹖"
   ],
   "translations": [
     "deu:das hier",
-    "deu:dieses"
+    "deu:dieses",
+    "eng:this",
+    "eng:to this",
+    "eng:for this"
   ],
   "logs": {
-    "2026-01-11T19:17:03.029006Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:03.029006Z": "TRANSLATION_DONE:deu",
+    "2026-01-27T14:53:49.468949Z": "TRANSLATION_DONE:eng"
   }
 }

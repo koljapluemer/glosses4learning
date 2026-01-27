@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "tur:Eğer",
-    "frr:Wann"
-  ]
+    "frr:Wann",
+    "eng:if",
+    "eng:when"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Wenn Tom kommt, gehe ich",
+    "deu:Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, währ",
+    "deu:Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben"
+  ],
+  "logs": {
+    "2026-01-27T14:30:56.965284Z": "TRANSLATION_DONE:eng"
+  }
 }

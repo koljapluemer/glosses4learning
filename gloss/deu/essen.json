@@ -2,6 +2,18 @@
   "content": "essen",
   "language": "deu",
   "translations": [
-    "tur:etmen"
-  ]
+    "tur:etmen",
+    "eng:to eat",
+    "eng:eating"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Was möchtest du zu essen﹖",
+    "deu:Willst du ein Ei essen﹖"
+  ],
+  "logs": {
+    "2026-01-27T14:32:47.400877Z": "TRANSLATION_DONE:eng"
+  }
 }

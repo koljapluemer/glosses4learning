@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "tur:bunları",
-    "frr:diesem"
-  ]
+    "frr:diesem",
+    "eng:this",
+    "eng:these"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Es hieß, Tom würde vielleicht irgendwann diese Woche abreisen",
+    "deu:Ich möchte diese Passage für dich zusammenfassen",
+    "deu:Könntest du diese Taschen in den Kofferraum packen﹖"
+  ],
+  "logs": {
+    "2026-01-27T14:32:17.118905Z": "TRANSLATION_DONE:eng"
+  }
 }

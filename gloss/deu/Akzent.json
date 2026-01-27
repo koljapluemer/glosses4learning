@@ -2,6 +2,18 @@
   "content": "Akzent",
   "language": "deu",
   "translations": [
-    "tur:aksanı"
-  ]
+    "tur:aksanı",
+    "eng:accent",
+    "eng:emphasis",
+    "eng:stress"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Tom hat keinen australischen Akzent"
+  ],
+  "logs": {
+    "2026-01-27T14:27:21.344510Z": "TRANSLATION_DONE:eng"
+  }
 }

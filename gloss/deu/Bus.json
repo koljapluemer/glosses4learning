@@ -2,6 +2,18 @@
   "content": "Bus",
   "language": "deu",
   "translations": [
-    "tur:Otobüs"
-  ]
+    "tur:Otobüs",
+    "eng:bus",
+    "eng:coach"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Der Bus war leer",
+    "deu:Ich fahre mit keinem Bus"
+  ],
+  "logs": {
+    "2026-01-27T14:27:46.756127Z": "TRANSLATION_DONE:eng"
+  }
 }

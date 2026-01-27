@@ -2,6 +2,24 @@
   "content": "keine",
   "language": "deu",
   "translations": [
-    "frr:nichts"
-  ]
+    "frr:nichts",
+    "eng:none",
+    "eng:no",
+    "eng:not any",
+    "eng:nothing"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Es ist keine Uhr",
+    "deu:Ich habe heute keine Zeit",
+    "deu:Man kann keine Sprache genug beherrschen",
+    "deu:Tom, wir haben dafür keine Zeit!",
+    "deu:Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, d",
+    "deu:1 ist keine Primzahl"
+  ],
+  "logs": {
+    "2026-01-27T14:34:26.626159Z": "TRANSLATION_DONE:eng"
+  }
 }

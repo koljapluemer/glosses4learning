@@ -2,6 +2,18 @@
   "content": "weißt",
   "language": "deu",
   "translations": [
-    "frr:kenst"
-  ]
+    "frr:kenst",
+    "eng:know",
+    "eng:do you know",
+    "eng:you know"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht"
+  ],
+  "logs": {
+    "2026-01-27T14:37:17.009867Z": "TRANSLATION_DONE:eng"
+  }
 }

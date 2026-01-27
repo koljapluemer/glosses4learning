@@ -2,6 +2,17 @@
   "content": "drei",
   "language": "deu",
   "translations": [
-    "tur:üç"
-  ]
+    "tur:üç",
+    "eng:three",
+    "eng:3"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Er ist der Intelligenteste der drei Brüder"
+  ],
+  "logs": {
+    "2026-01-27T14:32:26.921592Z": "TRANSLATION_DONE:eng"
+  }
 }

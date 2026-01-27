@@ -2,6 +2,17 @@
   "content": "Mieter",
   "language": "deu",
   "translations": [
-    "frr:Hüürling"
-  ]
+    "frr:Hüürling",
+    "eng:tenant",
+    "eng:renter"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Es wird einfach sein, einen Mieter für dieses Haus zu finden"
+  ],
+  "logs": {
+    "2026-01-27T14:29:29.782320Z": "TRANSLATION_DONE:eng"
+  }
 }

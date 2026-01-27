@@ -2,6 +2,17 @@
   "content": "letzter",
   "language": "deu",
   "translations": [
-    "tur:son"
-  ]
+    "tur:son",
+    "eng:last",
+    "eng:latest"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:In letzter Zeit kamen immer weniger Patienten zu mir"
+  ],
+  "logs": {
+    "2026-01-27T14:34:45.398229Z": "TRANSLATION_DONE:eng"
+  }
 }

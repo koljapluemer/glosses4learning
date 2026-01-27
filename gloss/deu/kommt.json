@@ -3,6 +3,21 @@
   "language": "deu",
   "translations": [
     "tur:geliyor",
-    "frr:kumt"
-  ]
+    "frr:kumt",
+    "eng:comes",
+    "eng:is coming",
+    "eng:arrives",
+    "eng:is happening"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich hab auch nicht gewollt, dass es so kommt",
+    "deu:Wenn Tom kommt, gehe ich",
+    "deu:Woher kommt die Milch﹖"
+  ],
+  "logs": {
+    "2026-01-27T14:34:33.794110Z": "TRANSLATION_DONE:eng"
+  }
 }

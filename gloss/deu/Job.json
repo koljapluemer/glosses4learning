@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "tur:işe",
-    "tur:iş"
-  ]
+    "tur:iş",
+    "eng:job",
+    "eng:work",
+    "eng:position",
+    "eng:employment"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich denke nicht, dass ihr euren Job aufgeben solltet"
+  ],
+  "logs": {
+    "2026-01-27T14:28:57.840860Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -3,6 +3,18 @@
   "language": "deu",
   "translations": [
     "tur:Dün",
-    "tur:Dünden"
-  ]
+    "tur:Dünden",
+    "eng:yesterday",
+    "eng:last day"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich habe Tom seit gestern nicht gesehen",
+    "deu:Ich habe sie gestern gesehen"
+  ],
+  "logs": {
+    "2026-01-27T14:33:28.005316Z": "TRANSLATION_DONE:eng"
+  }
 }

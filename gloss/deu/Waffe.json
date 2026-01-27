@@ -2,6 +2,18 @@
   "content": "Waffe",
   "language": "deu",
   "translations": [
-    "frr:Waapen"
-  ]
+    "frr:Waapen",
+    "eng:weapon",
+    "eng:gun",
+    "eng:firearm"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Das ist eine Waffe"
+  ],
+  "logs": {
+    "2026-01-27T14:30:46.097521Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,17 +2,28 @@
   "content": "مرة",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:جرب كمان مرة"
+    "arz:جرب كمان مرة",
+    "arz:إبن يسقط في الامتحان مرة ثانية"
   ],
   "translations": [
     "eng:once",
     "eng:a time",
-    "eng:one time"
+    "eng:one time",
+    "eng:time",
+    "eng:occasion",
+    "eng:instance"
   ],
   "logs": {
     "2026-01-11T19:23:33.003832Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "marra"
   }
 }

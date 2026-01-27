@@ -2,6 +2,17 @@
   "content": "Meine",
   "language": "deu",
   "translations": [
-    "frr:Meine"
-  ]
+    "frr:Meine",
+    "eng:mine",
+    "eng:my"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Meine Mutter spricht nicht sehr gut Englisch"
+  ],
+  "logs": {
+    "2026-01-27T14:29:25.505875Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,6 +2,20 @@
   "content": "einfach",
   "language": "deu",
   "translations": [
-    "frr:lecht"
-  ]
+    "frr:lecht",
+    "eng:simple",
+    "eng:easy",
+    "eng:plain",
+    "eng:just"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Es wird einfach sein, einen Mieter für dieses Haus zu finden",
+    "deu:Diese Arbeit mache ich ohne Bezahlung, einfach aus Lust an der Freude"
+  ],
+  "logs": {
+    "2026-01-27T14:32:33.224907Z": "TRANSLATION_DONE:eng"
+  }
 }

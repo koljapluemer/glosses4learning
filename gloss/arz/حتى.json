@@ -2,11 +2,13 @@
   "content": "حتى",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
     "arz:توم مابصش عليها حتى",
-    "arz:توم مابصش عليه حتى"
+    "arz:توم مابصش عليه حتى",
+    "arz:الصورة هتنفع حتى لو أبيض و أسود"
   ],
   "translations": [
     "eng:until",
@@ -16,5 +18,11 @@
   ],
   "logs": {
     "2026-01-03T07:53:59.655919Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "hatta"
   }
 }

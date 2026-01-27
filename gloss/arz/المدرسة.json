@@ -2,10 +2,12 @@
   "content": "المدرسة",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:البس لبس المدرسة"
+    "arz:البس لبس المدرسة",
+    "arz:طِلّعوا يعرفوا بعض من أيام المدرسة"
   ],
   "translations": [
     "eng:the school",
@@ -13,5 +15,11 @@
   ],
   "logs": {
     "2026-01-11T19:22:32.289960Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "ilmadrasa"
   }
 }

@@ -2,18 +2,27 @@
   "content": "كويس",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:كويس إنّك جيت بدري"
+    "arz:كويس إنّك جيت بدري",
+    "arz:عارف إنه مش كويس"
   ],
   "translations": [
     "eng:good",
     "eng:fine",
     "eng:okay",
-    "eng:alright"
+    "eng:alright",
+    "eng:bad"
   ],
   "logs": {
     "2026-01-03T07:54:33.752512Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "mish kuwayis"
   }
 }

@@ -2,18 +2,32 @@
   "content": "لسه",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
     "arz:أنا لسه شايفه",
-    "arz:لسه بفكر في اللي توم كان بيحاول يقولهولي"
+    "arz:لسه بفكر في اللي توم كان بيحاول يقولهولي",
+    "arz:الموقف في البلد لسه تحت السيطرة",
+    "arz:عين البوتاجاز لسه متولعة",
+    "arz:الاونر بتاع المحل لسه ما جاش"
   ],
   "translations": [
     "eng:still",
     "eng:not yet",
-    "eng:yet"
+    "eng:yet",
+    "eng:hasn't",
+    "eng:not",
+    "eng:is not",
+    "eng:will not"
   ],
   "logs": {
     "2026-01-03T08:22:17.158586Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "ma sh"
   }
 }

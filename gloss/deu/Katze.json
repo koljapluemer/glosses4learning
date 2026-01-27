@@ -2,6 +2,18 @@
   "content": "Katze",
   "language": "deu",
   "translations": [
-    "tur:kedisi"
-  ]
+    "tur:kedisi",
+    "eng:cat",
+    "eng:kitten"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Sie hat eine Katze und zwei Hunde",
+    "deu:Tom hat eine Katze"
+  ],
+  "logs": {
+    "2026-01-27T14:29:03.782640Z": "TRANSLATION_DONE:eng"
+  }
 }

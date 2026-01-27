@@ -2,6 +2,19 @@
   "content": "keinen",
   "language": "deu",
   "translations": [
-    "frr:keinen"
-  ]
+    "frr:keinen",
+    "eng:none",
+    "eng:no",
+    "eng:not any"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Darf man ohne Genehmigung keinen Marktstand aufbauen﹖",
+    "deu:Tom hat keinen australischen Akzent"
+  ],
+  "logs": {
+    "2026-01-27T14:34:28.158551Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,19 +2,26 @@
   "content": "warum",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-27T14:37:13.128002Z": "TRANSLATION_DONE:eng"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "deu:Ich werde nicht fragen, warum du das willst"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
   "children": [],
   "translations": [
     "deu:Was",
-    "tur:neden"
+    "tur:neden",
+    "eng:why",
+    "eng:what for",
+    "eng:for what reason"
   ],
   "notes": [
     "eng:means 'why', contextually different",
@@ -22,5 +29,7 @@
     "eng:means 'why', contextually different from 'was' as a form of 'to be'",
     "eng:means 'why' in a different context"
   ],
-  "tags": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ]
 }

@@ -2,12 +2,16 @@
   "content": "müssen",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-01-27T14:35:13.710899Z": "TRANSLATION_DONE:eng"
+  },
   "morphologically_related": [],
   "parts": [],
   "has_similar_meaning": [],
   "sounds_similar": [],
-  "usage_examples": [],
+  "usage_examples": [
+    "deu:Wir müssen alle Stimmzettel auszählen"
+  ],
   "to_be_differentiated_from": [],
   "collocations": [],
   "typical_follow_up": [],
@@ -15,8 +19,13 @@
   "translations": [
     "deu:m1fchten",
     "tur:zorunda",
-    "frr:muss"
+    "frr:muss",
+    "eng:must",
+    "eng:have to",
+    "eng:need to"
   ],
   "notes": [],
-  "tags": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ]
 }

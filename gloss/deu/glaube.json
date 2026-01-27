@@ -2,6 +2,19 @@
   "content": "glaube",
   "language": "deu",
   "translations": [
-    "frr:glaube"
-  ]
+    "frr:glaube",
+    "eng:believe",
+    "eng:faith",
+    "eng:trust",
+    "eng:confidence"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Ich glaube, treffender und besser kann man es kaum darstellen"
+  ],
+  "logs": {
+    "2026-01-27T14:33:38.104604Z": "TRANSLATION_DONE:eng"
+  }
 }

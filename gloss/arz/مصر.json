@@ -2,16 +2,26 @@
   "content": "مصر",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:مصر مش بس أهرامات"
+    "arz:مصر مش بس أهرامات",
+    "arz:الدنيا بتغيم في مصر أحياناً",
+    "arz:ده أحدث كمبيوتر نزل مصر"
   ],
   "translations": [
     "eng:Egypt",
-    "eng:The Arab Republic of Egypt"
+    "eng:The Arab Republic of Egypt",
+    "eng:Egpyt"
   ],
   "logs": {
     "2026-01-03T08:22:24.120373Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "masr"
   }
 }

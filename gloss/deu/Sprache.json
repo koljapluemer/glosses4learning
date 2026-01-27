@@ -3,6 +3,20 @@
   "language": "deu",
   "translations": [
     "tur:dil",
-    "tur:dildir"
-  ]
+    "tur:dildir",
+    "eng:language",
+    "eng:speech",
+    "eng:tongue"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Man kann keine Sprache genug beherrschen",
+    "deu:Schreibt es in eurer Sprache!",
+    "deu:Slowenisch ist eine schöne Sprache"
+  ],
+  "logs": {
+    "2026-01-27T14:30:17.205398Z": "TRANSLATION_DONE:eng"
+  }
 }
