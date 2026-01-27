@@ -2,16 +2,25 @@
   "content": "التاكسي",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:سواق التاكسي متعورش جامد"
+    "arz:سواق التاكسي متعورش جامد",
+    "arz:دَايماً سَوّاقين التاكسي بِيعاكسوا نِي في الطَريق"
   ],
   "translations": [
     "eng:the taxi",
-    "eng:taxi"
+    "eng:taxi",
+    "eng:cab"
   ],
   "logs": {
     "2026-01-03T07:53:25.550395Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "iltaksi"
   }
 }

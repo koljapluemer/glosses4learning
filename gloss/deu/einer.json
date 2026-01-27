@@ -3,6 +3,19 @@
   "language": "deu",
   "translations": [
     "frr:einem",
-    "frr:einer"
-  ]
+    "frr:einer",
+    "eng:one",
+    "eng:a person",
+    "eng:someone",
+    "eng:anyone"
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "usage_examples": [
+    "deu:Die letzten Bücher wurden vor einer Woche verkauft"
+  ],
+  "logs": {
+    "2026-01-27T15:18:59.384076Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,20 +2,29 @@
   "content": "غلط",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
     "arz:ما عملتش حاجة غلط",
     "arz:مفيش أي غلط",
-    "arz:هو جاوب غلط"
+    "arz:هو جاوب غلط",
+    "arz:الكلام الكثير غلط"
   ],
   "translations": [
     "eng:wrong",
     "eng:incorrect",
     "eng:mistake",
-    "eng:error"
+    "eng:error",
+    "eng:false"
   ],
   "logs": {
     "2026-01-03T08:22:08.586863Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "ghalat"
   }
 }

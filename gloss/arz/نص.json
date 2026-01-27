@@ -2,17 +2,26 @@
   "content": "نص",
   "language": "arz",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:lisaanmasry-word"
   ],
   "usage_examples": [
-    "arz:توم في نص الميتينج بتاعه"
+    "arz:توم في نص الميتينج بتاعه",
+    "arz:أنا أخذت مخالفة علشان ركنت في نص الطريق"
   ],
   "translations": [
     "eng:text",
     "eng:script",
-    "eng:content"
+    "eng:content",
+    "eng:middle"
   ],
   "logs": {
     "2026-01-03T07:54:52.489259Z": "TRANSLATION_DONE:eng"
+  },
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "transcriptions": {
+    "arabizi": "nuss"
   }
 }
