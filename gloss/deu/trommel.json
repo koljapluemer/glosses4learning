@@ -13,8 +13,20 @@
   "typical_follow_up": [],
   "children": [],
   "translations": [
-    "deu:tun"
+    "deu:tun",
+    "eng:drum",
+    "spa:tambor",
+    "arb:طبلة"
   ],
   "notes": [],
-  "tags": []
+  "tags": [
+    "eng:emoji-image-set"
+  ],
+  "images": [
+    {
+      "filename": "drum.png",
+      "relationship": "semantic",
+      "credit": "Emoji labels from the [omarkamali/emoji-map dataset](https://huggingface.co/datasets/omarkamali/emoji-map); [CC BY-NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original [Unicode License](https://opensource.org/license/unicode-license-v3) may also apply."
+    }
+  ]
 }

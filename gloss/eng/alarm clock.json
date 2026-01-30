@@ -2,6 +2,19 @@
   "content": "alarm clock",
   "language": "eng",
   "translations": [
-    "ita:sveglia"
+    "ita:sveglia",
+    "deu:wecker",
+    "spa:reloj despertador",
+    "arb:ساعة منبه"
+  ],
+  "tags": [
+    "eng:emoji-image-set"
+  ],
+  "images": [
+    {
+      "filename": "alarm_clock.png",
+      "relationship": "semantic",
+      "credit": "Emoji labels from the [omarkamali/emoji-map dataset](https://huggingface.co/datasets/omarkamali/emoji-map); [CC BY-NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original [Unicode License](https://opensource.org/license/unicode-license-v3) may also apply."
+    }
   ]
 }

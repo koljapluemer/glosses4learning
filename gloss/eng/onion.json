@@ -2,13 +2,24 @@
   "content": "onion",
   "language": "eng",
   "translations": [
-    "arz:البَصَل"
+    "arz:البَصَل",
+    "deu:zwiebel",
+    "spa:cebolla",
+    "arb:بصل"
   ],
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:emoji-image-set"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {}
+  "logs": {},
+  "images": [
+    {
+      "filename": "onion.png",
+      "relationship": "semantic",
+      "credit": "Emoji labels from the [omarkamali/emoji-map dataset](https://huggingface.co/datasets/omarkamali/emoji-map); [CC BY-NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original [Unicode License](https://opensource.org/license/unicode-license-v3) may also apply."
+    }
+  ]
 }
