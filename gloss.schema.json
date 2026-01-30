@@ -1,0 +1,141 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sbll-cms.local/schema/gloss.schema.json",
+  "title": "Gloss",
+  "type": "object",
+  "properties": {
+    "content": {
+      "type": "string",
+      "description": "Surface form or definition of the gloss."
+    },
+    "language": {
+      "type": "string",
+      "pattern": "^[a-z]{3}$",
+      "description": "ISO 639-3 code for the gloss language.",
+      "default": "und"
+    },
+    "transcriptions": {
+      "type": "object",
+      "description": "Map of transcription types to their values.",
+      "additionalProperties": { "type": "string" },
+      "default": {}
+    },
+    "logs": {
+      "type": "object",
+      "description": "Log entries keyed by ISO timestamps.",
+      "patternProperties": {
+        "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d+)?(?:Z|[+-]\\d{2}:?\\d{2})?$": { "type": "string" }
+      },
+      "additionalProperties": false,
+      "default": {}
+    },
+    "morphologically_related": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "parts": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "has_similar_meaning": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "sounds_similar": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "usage_examples": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "to_be_differentiated_from": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "collocations": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "typical_follow_up": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "children": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": [],
+      "description": "Didactic children; may reference glosses in any language."
+    },
+    "translations": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "notes": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "tags": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "needsHumanCheck": {
+      "type": "boolean",
+      "description": "Flag indicating this gloss needs manual human review.",
+      "default": false
+    },
+    "excludeFromLearning": {
+      "type": "boolean",
+      "description": "Flag to exclude this gloss from learning exports.",
+      "default": false
+    },
+    "decorativeImages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Decorative image filenames (no semantic meaning for learning).",
+      "default": []
+    },
+    "semanticImages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Images with semantic meaning for learning.",
+      "default": []
+    },
+    "unambigiousImages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Images that unambiguously represent the gloss.",
+      "default": []
+    }
+  },
+  "required": ["content"],
+  "additionalProperties": false,
+  "$defs": {
+    "GlossRef": {
+      "type": "string",
+      "pattern": "^[a-z]{3}:[^<>:\"/\\\\|?*]+$",
+      "description": "Reference to another gloss as $iso_code:$slug"
+    }
+  },
+  "examples": [
+    {
+      "content": "bonjour",
+      "language": "fra",
+      "transcriptions": { "IPA": "bɔ̃.ʒuʁ" },
+      "translations": ["eng:hello"],
+      "has_similar_meaning": ["fra:slt"],
+      "tags": ["fra:greeting"]
+    }
+  ]
+}
