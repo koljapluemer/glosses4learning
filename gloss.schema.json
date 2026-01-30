@@ -90,6 +90,12 @@
       "items": { "$ref": "#/$defs/GlossRef" },
       "default": []
     },
+    "credits": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Optional credits for the gloss (interpreted as basic inline markdown in frontend).",
+      "default": []
+    },
     "needsHumanCheck": {
       "type": "boolean",
       "description": "Flag indicating this gloss needs manual human review.",
@@ -100,22 +106,28 @@
       "description": "Flag to exclude this gloss from learning exports.",
       "default": false
     },
-    "decorativeImages": {
+    "images": {
       "type": "array",
-      "items": { "type": "string" },
-      "description": "Decorative image filenames (no semantic meaning for learning).",
-      "default": []
-    },
-    "semanticImages": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "Images with semantic meaning for learning.",
-      "default": []
-    },
-    "unambigiousImages": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "Images that unambiguously represent the gloss.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "filename": {
+            "type": "string",
+            "description": "Image file name."
+          },
+          "relationship": {
+            "type": "string",
+            "enum": ["decorative", "semantic", "unambigious"]
+          },
+          "credit": {
+            "type": "string",
+            "description": "Optional credit for the image (interpreted as basic inline markdown in frontend)."
+          }
+        },
+        "required": ["filename", "relationship"],
+        "additionalProperties": false
+      },
+      "description": "Images associated with the gloss.",
       "default": []
     }
   },
@@ -135,7 +147,7 @@
       "transcriptions": { "IPA": "bɔ̃.ʒuʁ" },
       "translations": ["eng:hello"],
       "has_similar_meaning": ["fra:slt"],
-      "tags": ["fra:greeting"]
+      "tags": ["eng:greeting"]
     }
   ]
 }
