@@ -2,16 +2,27 @@
   "content": "Studentin",
   "language": "deu",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:emoji-image-set"
   ],
   "usage_examples": [
     "deu:Das Auto der Studentin ist alt"
   ],
   "translations": [
     "eng:female student",
-    "eng:student (female)"
+    "eng:student (female)",
+    "eng:woman student",
+    "spa:estudiante mujer",
+    "arb:طالبة"
   ],
   "logs": {
     "2026-01-27T14:30:20.414821Z": "TRANSLATION_DONE:eng"
-  }
+  },
+  "images": [
+    {
+      "filename": "woman_student.png",
+      "relationship": "semantic",
+      "credit": "Emoji labels from the [omarkamali/emoji-map dataset](https://huggingface.co/datasets/omarkamali/emoji-map); [CC BY-NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original [Unicode License](https://opensource.org/license/unicode-license-v3) may also apply."
+    }
+  ]
 }

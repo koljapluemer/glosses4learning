@@ -9,6 +9,7 @@
     "tur:araç"
   ],
   "tags": [
+    "eng:unsplash-images",
     "eng:tatoeba-sentence-part"
   ],
   "usage_examples": [
@@ -18,5 +19,9 @@
   ],
   "logs": {
     "2026-01-27T14:27:33.749022Z": "TRANSLATION_DONE:eng"
-  }
+  },
+  "images":[ {
+      "filename": "yellow_mini.webp",
+      "relationship": "semantic"
+  }]
 }

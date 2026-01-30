@@ -10,7 +10,8 @@
     "tur:adam"
   ],
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:unsplash-images"
   ],
   "usage_examples": [
     "deu:Ich liebe meinen Mann nicht mehr",
@@ -20,5 +21,10 @@
   ],
   "logs": {
     "2026-01-27T14:29:21.593204Z": "TRANSLATION_DONE:eng"
-  }
+  },
+  "images": [{
+      "filename": "man_upper_body.webp",
+      "relationship": "semantic"
+  }]
 }
+
