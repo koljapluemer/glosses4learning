@@ -1,0 +1,94 @@
+{
+    "arb": {
+        "displayName": "Standard Arabic",
+        "symbols": [
+            "ض"
+        ]
+    },
+    "apc": {
+        "displayName": "Levantine Arabic",
+        "symbols": [
+            "🇸🇾",
+            "🇱🇧",
+            "ض",
+            "🇵🇸"
+        ],
+        "aiNote": "Ensure to actually produce Levantine Arabic as spoken in Syria, Lebanon or Palestine, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
+    },
+    "arz": {
+        "displayName": "Egyptian Arabic",
+        "symbols": [
+            "ض",
+            "🇪🇬"
+        ],
+        "aiNote": "Ensure to actually produce spoken Egyptian Arabic, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
+    },
+    "deu": {
+        "displayName": "German",
+        "symbols": [
+            "🇩🇪",
+            "🇦🇹",
+            "ä"
+        ]
+    },
+    "eng": {
+        "displayName": "English",
+        "symbols": [
+            "🇺🇸",
+            "🇬🇧"
+        ]
+    },
+    "fin": {
+        "displayName": "Finnish (Suomi)",
+        "symbols": [
+            "🇫🇮"
+        ]
+    },
+    "fra": {
+        "displayName": "French",
+        "symbols": [
+            "🇫🇷", "🇹🇬", "🇨🇩"
+        ]
+    },
+    "ita": {
+        "displayName": "Italian",
+        "symbols": [
+            "🇮🇹"
+        ],
+        "aiNote": "Focus on spoken, conventional Italian."
+    },
+    "pol": {
+        "displayName": "Polish",
+        "symbols": [
+            "🇵🇱"
+        ]
+    },
+    "por": {
+        "displayName": "Portugese",
+        "symbols": [
+            "🇧🇷"
+        ],
+        "aiNote": "Focus on spoken, conventional Portugese. Give African and Brazilian the same weight as European Spanish."
+    },
+    "rus": {
+        "displayName": "Russian",
+        "symbols": [
+            "🇷🇺"
+        ]
+    },
+    "spa": {
+        "displayName": "Spanish",
+        "symbols": [
+            "🇲🇽",
+            "ñ",
+            "🇪🇸"
+        ],
+        "aiNote": "Focus on spoken, conventional Spanish. Give South American Spanish the same weight as European Spanish."
+    },
+    "tur": {
+        "displayName": "Turkish",
+        "symbols": [
+            "🇹🇷"
+        ]
+    }
+}
