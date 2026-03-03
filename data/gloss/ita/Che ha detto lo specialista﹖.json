@@ -1,0 +1,39 @@
+{
+  "content": "Che ha detto lo specialista?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:22:32.615577Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Che"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:detto"
+    ],
+    [
+      "PART",
+      "ita:lo"
+    ],
+    [
+      "PART",
+      "ita:specialista"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What did the specialist say﹖"
+    ]
+  ]
+}

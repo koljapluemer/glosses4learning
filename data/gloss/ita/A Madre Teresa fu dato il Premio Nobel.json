@@ -1,0 +1,43 @@
+{
+  "content": "A Madre Teresa fu dato il Premio Nobel.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:13.888757Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Madre Teresa"
+    ],
+    [
+      "PART",
+      "ita:fu"
+    ],
+    [
+      "PART",
+      "ita:dato"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:Premio Nobel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mother Teresa was given the Nobel prize"
+    ]
+  ]
+}

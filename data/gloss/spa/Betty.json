@@ -1,0 +1,24 @@
+{
+  "content": "Betty",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom habla español, y Betty también"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Betty"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Betsy"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:06:48.815703Z": "TRANSLATION_DONE:eng"
+  }
+}

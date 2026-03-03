@@ -1,0 +1,28 @@
+{
+  "content": "terminó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom terminó segundo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:finished"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ended"
+    ],
+    [
+      "TRANSLATION",
+      "eng:completed"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:18.632241Z": "TRANSLATION_DONE:eng"
+  }
+}

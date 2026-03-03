@@ -1,0 +1,49 @@
+{
+  "content": "cost",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T13:55:33.294227Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-12T14:07:52.515690Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:08:34.842155Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:10:58.695413Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:11:42.037284Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:19:10.512649Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:lisaanmasry-word-translation"
+  ],
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:price"
+    ],
+    [
+      "TRANSLATION",
+      "eng:expense"
+    ],
+    [
+      "TRANSLATION",
+      "eng:charge"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fee"
+    ],
+    [
+      "TRANSLATION",
+      "eng:outlay"
+    ],
+    [
+      "TRANSLATION",
+      "tur:fare"
+    ],
+    [
+      "TRANSLATION",
+      "arz:تَكْلِفَةُ"
+    ]
+  ]
+}

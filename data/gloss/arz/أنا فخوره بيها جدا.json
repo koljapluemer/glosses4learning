@@ -1,0 +1,35 @@
+{
+  "content": "أنا فخوره بيها جدا.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:51:50.524084Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:أنا"
+    ],
+    [
+      "PART",
+      "arz:فخوره"
+    ],
+    [
+      "PART",
+      "arz:بيها"
+    ],
+    [
+      "PART",
+      "arz:جدا"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm very proud of it"
+    ]
+  ]
+}

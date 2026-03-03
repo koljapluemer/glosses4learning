@@ -1,0 +1,43 @@
+{
+  "content": "Tom, Mary'nin kim olduğunu merak etti.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:53:01.641587Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:kim"
+    ],
+    [
+      "PART",
+      "tur:olduğunu"
+    ],
+    [
+      "PART",
+      "tur:merak"
+    ],
+    [
+      "PART",
+      "tur:etti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom wondered who Mary was"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom bana tam tersini söylemişti.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:16:38.473346Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bana"
+    ],
+    [
+      "PART",
+      "tur:tam"
+    ],
+    [
+      "PART",
+      "tur:tersini"
+    ],
+    [
+      "PART",
+      "tur:söylemişti"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom hat mir genau das Gegenteil gesagt"
+    ]
+  ]
+}

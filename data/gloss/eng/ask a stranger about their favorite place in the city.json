@@ -1,0 +1,65 @@
+{
+  "content": "ask a stranger about their favorite place in the city",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:favorite"
+    ],
+    [
+      "PART",
+      "eng:place"
+    ],
+    [
+      "PART",
+      "eng:in"
+    ],
+    [
+      "PART",
+      "eng:city"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Qual é o seu lugar favorito na cidade﹖"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Tem algum lugar que você recomenda aqui perto﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Qual é o seu lugar favorito na cidade﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Tem algum lugar que você recomenda aqui﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Jakie jest twoje ulubione miejsce w mieście﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Gdzie lubisz spędzać czas w tym mieście﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Какое ваше любимое место в городе﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Где вы любите проводить время в этом городе﹖"
+    ]
+  ]
+}

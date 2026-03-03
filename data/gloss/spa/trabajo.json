@@ -1,0 +1,36 @@
+{
+  "content": "trabajo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ese fue el peor trabajo que Yanni ha tenido nunca"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Debes llegar al trabajo a tiempo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work"
+    ],
+    [
+      "TRANSLATION",
+      "eng:job"
+    ],
+    [
+      "TRANSLATION",
+      "eng:labor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:task"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:26.910105Z": "TRANSLATION_DONE:eng"
+  }
+}

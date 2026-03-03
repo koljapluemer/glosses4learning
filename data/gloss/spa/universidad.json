@@ -1,0 +1,24 @@
+{
+  "content": "universidad",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estudio música en la universidad de Boston"
+    ],
+    [
+      "TRANSLATION",
+      "eng:university"
+    ],
+    [
+      "TRANSLATION",
+      "eng:college"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:36.065442Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Francois dio un discurso.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:52.001105Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Francois"
+    ],
+    [
+      "PART",
+      "spa:dio"
+    ],
+    [
+      "PART",
+      "spa:un"
+    ],
+    [
+      "PART",
+      "spa:discurso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:François gave a speech"
+    ]
+  ]
+}

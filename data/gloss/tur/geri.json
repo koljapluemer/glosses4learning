@@ -1,0 +1,37 @@
+{
+  "content": "geri",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:27.836743Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:17:51.230317Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Oraya geri dönmeyeceğim"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Geri dönün!"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zurück"
+    ],
+    [
+      "TRANSLATION",
+      "deu:rückwärts"
+    ],
+    [
+      "TRANSLATION",
+      "eng:back"
+    ],
+    [
+      "TRANSLATION",
+      "eng:return"
+    ]
+  ]
+}

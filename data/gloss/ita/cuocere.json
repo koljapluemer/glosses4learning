@@ -1,0 +1,36 @@
+{
+  "content": "cuocere",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Mary piace cuocere il pane"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Mary piace cuocere in forno il pane"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to cook"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to bake"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to boil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to roast"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:41:15.793283Z": "TRANSLATION_DONE:eng"
+  }
+}

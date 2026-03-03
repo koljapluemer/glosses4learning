@@ -1,0 +1,47 @@
+{
+  "content": "Maria dirigierte das Orchester mit einem Taktstock.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:00.960991Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:dirigierte"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:Orchester"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:einem"
+    ],
+    [
+      "PART",
+      "deu:Taktstock"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mary bir baton kullanarak orkestrayı yönetti"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Sie behaupten also, dass ich lüge.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:43.559091Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:behaupten"
+    ],
+    [
+      "PART",
+      "deu:also"
+    ],
+    [
+      "PART",
+      "deu:dass"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:lüge"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yani yalan söylediğimi iddia ediyorsunuz"
+    ]
+  ]
+}

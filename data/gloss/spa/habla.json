@@ -1,0 +1,32 @@
+{
+  "content": "habla",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom habla español, y Betty también"
+    ],
+    [
+      "TRANSLATION",
+      "eng:talk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speak"
+    ],
+    [
+      "TRANSLATION",
+      "eng:discuss"
+    ],
+    [
+      "TRANSLATION",
+      "eng:converse"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:06:58.507885Z": "TRANSLATION_DONE:eng"
+  }
+}

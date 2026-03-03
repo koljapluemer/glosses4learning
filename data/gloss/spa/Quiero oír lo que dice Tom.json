@@ -1,0 +1,43 @@
+{
+  "content": "Quiero oír lo que dice Tom.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:47:40.124478Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Quiero"
+    ],
+    [
+      "PART",
+      "spa:oír"
+    ],
+    [
+      "PART",
+      "spa:lo"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:dice"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I want to hear what Tom says"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Karımı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:08:54.337603Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:28.892425Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Karımı arıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:meine Frau"
+    ],
+    [
+      "TRANSLATION",
+      "deu:meine Ehefrau"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my wife"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wife of mine"
+    ]
+  ]
+}

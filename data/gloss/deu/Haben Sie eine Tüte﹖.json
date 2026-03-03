@@ -1,0 +1,35 @@
+{
+  "content": "Haben Sie eine Tüte?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.897841Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:eine"
+    ],
+    [
+      "PART",
+      "deu:T1t"
+    ],
+    [
+      "TRANSLATION",
+      "eng:request a bag for carrying purchased items"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have a bag﹖"
+    ]
+  ]
+}

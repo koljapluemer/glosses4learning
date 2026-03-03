@@ -1,0 +1,29 @@
+{
+  "content": "finding your gate at the airport",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:gate"
+    ],
+    [
+      "PART",
+      "eng:ask where something is"
+    ],
+    [
+      "CHILD",
+      "eng:ask where the gate for the flight to London is"
+    ],
+    [
+      "CHILD",
+      "eng:ask in which direction gate six is"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gate am Flughafen finden"
+    ]
+  ]
+}

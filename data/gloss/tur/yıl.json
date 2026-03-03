@@ -1,0 +1,33 @@
+{
+  "content": "yıl",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:35:26.143916Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:37:22.067721Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu şehrin nüfusu her yıl azalıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jahr"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jahre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:year"
+    ],
+    [
+      "TRANSLATION",
+      "eng:annual"
+    ]
+  ]
+}

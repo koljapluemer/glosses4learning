@@ -1,0 +1,43 @@
+{
+  "content": "Qualcuno ha pugnalato l'uomo nella gamba.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:24:25.558382Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Qualcuno"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:pugnalato"
+    ],
+    [
+      "PART",
+      "ita:l'uomo"
+    ],
+    [
+      "PART",
+      "ita:nella"
+    ],
+    [
+      "PART",
+      "ita:gamba"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Someone stabbed the man in the leg"
+    ]
+  ]
+}

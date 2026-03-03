@@ -1,0 +1,39 @@
+{
+  "content": "State guidando decisamente troppo veloce.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:02:39.220109Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:State__split3"
+    ],
+    [
+      "PART",
+      "ita:guidando"
+    ],
+    [
+      "PART",
+      "ita:decisamente"
+    ],
+    [
+      "PART",
+      "ita:troppo"
+    ],
+    [
+      "PART",
+      "ita:veloce"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You're driving way too fast"
+    ]
+  ]
+}

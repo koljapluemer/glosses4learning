@@ -1,0 +1,43 @@
+{
+  "content": "A Mary non piaceva sua madre.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:20:05.022185Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piaceva"
+    ],
+    [
+      "PART",
+      "ita:sua"
+    ],
+    [
+      "PART",
+      "ita:madre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary didn't like her mother"
+    ]
+  ]
+}

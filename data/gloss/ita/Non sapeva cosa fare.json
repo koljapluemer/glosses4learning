@@ -1,0 +1,35 @@
+{
+  "content": "Non sapeva cosa fare.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:20:22.053893Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Non"
+    ],
+    [
+      "PART",
+      "ita:sapeva"
+    ],
+    [
+      "PART",
+      "ita:cosa"
+    ],
+    [
+      "PART",
+      "ita:fare"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She didn't know what to do"
+    ]
+  ]
+}

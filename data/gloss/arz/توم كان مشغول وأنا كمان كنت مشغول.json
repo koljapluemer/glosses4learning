@@ -1,0 +1,43 @@
+{
+  "content": "توم كان مشغول وأنا كمان كنت مشغول.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:52:27.464141Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:توم"
+    ],
+    [
+      "PART",
+      "arz:كان"
+    ],
+    [
+      "PART",
+      "arz:مشغول"
+    ],
+    [
+      "PART",
+      "arz:وأنا"
+    ],
+    [
+      "PART",
+      "arz:كمان"
+    ],
+    [
+      "PART",
+      "arz:كنت"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom was busy and so was I"
+    ]
+  ]
+}

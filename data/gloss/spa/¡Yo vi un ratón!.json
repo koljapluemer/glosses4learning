@@ -1,0 +1,35 @@
+{
+  "content": "¡Yo vi un ratón!",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:42:08.519765Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Yo"
+    ],
+    [
+      "PART",
+      "spa:vi"
+    ],
+    [
+      "PART",
+      "spa:un"
+    ],
+    [
+      "PART",
+      "spa:ratón"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I saw a mouse!"
+    ]
+  ]
+}

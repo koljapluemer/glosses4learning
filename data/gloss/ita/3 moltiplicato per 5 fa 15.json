@@ -1,0 +1,43 @@
+{
+  "content": "3 moltiplicato per 5 fa 15.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:39:05.360414Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:3"
+    ],
+    [
+      "PART",
+      "ita:moltiplicato"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:5"
+    ],
+    [
+      "PART",
+      "ita:fa"
+    ],
+    [
+      "PART",
+      "ita:15"
+    ],
+    [
+      "TRANSLATION",
+      "eng:3 multiplied by 5 is 15"
+    ]
+  ]
+}

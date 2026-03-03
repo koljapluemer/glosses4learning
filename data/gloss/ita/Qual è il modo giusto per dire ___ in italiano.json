@@ -1,0 +1,56 @@
+{
+  "content": "Qual è il modo giusto per dire ___ in italiano?",
+  "language": "ita",
+  "transcriptions": {},
+  "logs": {
+    "2026-01-22T15:09:40.575Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "ita:Qual"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:modo"
+    ],
+    [
+      "PART",
+      "ita:giusto"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:dire"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:italiano"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask how to express ___ in the target language"
+    ]
+  ]
+}

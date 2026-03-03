@@ -1,0 +1,31 @@
+{
+  "content": "Tom terminó segundo.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom finished second"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:terminó"
+    ],
+    [
+      "PART",
+      "spa:segundo"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:15.007453Z": "SPLIT_DONE"
+  }
+}

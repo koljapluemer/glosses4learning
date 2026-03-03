@@ -1,0 +1,47 @@
+{
+  "content": "A Mary fu amputata la gamba sinistra.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:40.808093Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:fu"
+    ],
+    [
+      "PART",
+      "ita:amputata"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:gamba"
+    ],
+    [
+      "PART",
+      "ita:sinistra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary had her left leg amputated"
+    ]
+  ]
+}

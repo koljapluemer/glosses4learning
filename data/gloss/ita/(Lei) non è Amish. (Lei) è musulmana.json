@@ -1,0 +1,39 @@
+{
+  "content": "(Lei) non è Amish. (Lei) è musulmana.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ryu (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:38:40.168724Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Lei"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:Amish"
+    ],
+    [
+      "PART",
+      "ita:musulmana"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She's not Amish. She's Muslim"
+    ]
+  ]
+}

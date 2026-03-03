@@ -1,0 +1,31 @@
+{
+  "content": "Tomás es xenofóbico.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:42:05.141201Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Tomás"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:xenofóbico"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is xenophobic"
+    ]
+  ]
+}

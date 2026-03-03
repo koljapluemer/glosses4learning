@@ -1,0 +1,43 @@
+{
+  "content": "Tom habla español, y Betty también.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom speaks Spanish, and so does Betty"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:habla"
+    ],
+    [
+      "PART",
+      "spa:español"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:Betty"
+    ],
+    [
+      "PART",
+      "spa:también"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:06:44.195274Z": "SPLIT_DONE"
+  }
+}

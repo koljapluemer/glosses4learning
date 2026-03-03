@@ -1,0 +1,31 @@
+{
+  "content": "Era occupato ieri?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:03:45.476764Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Era"
+    ],
+    [
+      "PART",
+      "ita:occupato"
+    ],
+    [
+      "PART",
+      "ita:ieri"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Were you busy yesterday﹖"
+    ]
+  ]
+}

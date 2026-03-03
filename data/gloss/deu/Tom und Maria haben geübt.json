@@ -1,0 +1,39 @@
+{
+  "content": "Tom und Maria haben geübt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:44:15.937973Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:geübt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom and Mary have been practising"
+    ]
+  ]
+}

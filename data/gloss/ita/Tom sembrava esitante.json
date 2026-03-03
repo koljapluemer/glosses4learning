@@ -1,0 +1,35 @@
+{
+  "content": "Tom sembrava esitante.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:22:47.374078Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:sembrava"
+    ],
+    [
+      "PART",
+      "ita:esitante"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom looked hesitant"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom seemed hesitant"
+    ]
+  ]
+}

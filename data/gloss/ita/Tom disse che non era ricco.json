@@ -1,0 +1,43 @@
+{
+  "content": "Tom disse che non era ricco.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:22:26.293892Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:disse"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:ricco"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom said that he wasn't rich"
+    ]
+  ]
+}

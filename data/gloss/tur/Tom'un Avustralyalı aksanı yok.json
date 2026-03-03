@@ -1,0 +1,35 @@
+{
+  "content": "Tom'un Avustralyalı aksanı yok.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:08:01.396486Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:Avustralyalı"
+    ],
+    [
+      "PART",
+      "tur:aksanı"
+    ],
+    [
+      "PART",
+      "tur:yok"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom hat keinen australischen Akzent"
+    ]
+  ]
+}

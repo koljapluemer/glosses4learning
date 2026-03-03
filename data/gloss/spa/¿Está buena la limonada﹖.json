@@ -1,0 +1,35 @@
+{
+  "content": "¿Está buena la limonada?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:42:14.151989Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:buena"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:limonada"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Is the lemonade good﹖"
+    ]
+  ]
+}

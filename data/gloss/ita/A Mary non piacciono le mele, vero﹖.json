@@ -1,0 +1,47 @@
+{
+  "content": "A Mary non piacciono le mele, vero?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:43:35.899991Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piacciono"
+    ],
+    [
+      "PART",
+      "ita:le"
+    ],
+    [
+      "PART",
+      "ita:mele"
+    ],
+    [
+      "PART",
+      "ita:vero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary doesn't like apples, does she﹖"
+    ]
+  ]
+}

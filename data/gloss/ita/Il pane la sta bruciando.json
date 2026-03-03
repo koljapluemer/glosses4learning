@@ -1,0 +1,39 @@
+{
+  "content": "Il pane la sta bruciando.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:05:47.234448Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:pane"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:sta"
+    ],
+    [
+      "PART",
+      "ita:bruciando"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The bread is burning you"
+    ]
+  ]
+}

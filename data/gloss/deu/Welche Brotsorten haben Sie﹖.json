@@ -1,0 +1,31 @@
+{
+  "content": "Welche Brotsorten haben Sie?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.877310Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Welche"
+    ],
+    [
+      "PART",
+      "deu:Brotsorten"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inquire about the types of bread available"
+    ]
+  ]
+}

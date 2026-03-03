@@ -1,0 +1,33 @@
+{
+  "content": "dilleri",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:25:12.940121Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:23.391852Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hangi dilleri konuşabiliyorsun, Tom﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:languages"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tongues"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sprachen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zungen"
+    ]
+  ]
+}

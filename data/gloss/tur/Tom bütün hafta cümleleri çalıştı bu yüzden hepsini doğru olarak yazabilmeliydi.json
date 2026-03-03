@@ -1,0 +1,63 @@
+{
+  "content": "Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:36:36.903448Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bütün"
+    ],
+    [
+      "PART",
+      "tur:hafta"
+    ],
+    [
+      "PART",
+      "tur:cümleleri"
+    ],
+    [
+      "PART",
+      "tur:çalıştı"
+    ],
+    [
+      "PART",
+      "tur:bu"
+    ],
+    [
+      "PART",
+      "tur:yüzden"
+    ],
+    [
+      "PART",
+      "tur:hepsini"
+    ],
+    [
+      "PART",
+      "tur:doğru"
+    ],
+    [
+      "PART",
+      "tur:olarak"
+    ],
+    [
+      "PART",
+      "tur:yazabilmeliydi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom studied the sentences all week so he should have been able to write all correctly"
+    ]
+  ]
+}

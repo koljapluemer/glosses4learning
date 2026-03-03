@@ -1,0 +1,24 @@
+{
+  "content": "nombre",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hermano lo hizo en mi nombre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:name"
+    ],
+    [
+      "TRANSLATION",
+      "eng:number"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:07:40.306785Z": "TRANSLATION_DONE:eng"
+  }
+}

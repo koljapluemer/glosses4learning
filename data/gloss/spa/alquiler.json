@@ -1,0 +1,28 @@
+{
+  "content": "alquiler",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ya hemos pagado nuestro alquiler"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rental"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lease"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hire"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T14:05:31.914932Z": "TRANSLATION_DONE:eng"
+  }
+}

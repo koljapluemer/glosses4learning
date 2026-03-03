@@ -1,0 +1,31 @@
+{
+  "content": "Aşağı yukarı anlıyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:05:47.863257Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Aşağı"
+    ],
+    [
+      "PART",
+      "tur:yukarı"
+    ],
+    [
+      "PART",
+      "tur:anlıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich verstehe ungefähr"
+    ]
+  ]
+}

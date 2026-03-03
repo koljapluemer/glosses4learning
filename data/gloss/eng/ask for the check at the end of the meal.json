@@ -1,0 +1,29 @@
+{
+  "content": "ask for the check at the end of the meal",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:check"
+    ],
+    [
+      "TRANSLATION",
+      "arb:ممكن الفاتورة، لو سمحت؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:بدي الحساب، لو سمحت"
+    ]
+  ]
+}

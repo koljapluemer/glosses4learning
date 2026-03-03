@@ -1,0 +1,41 @@
+{
+  "content": "azalıyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:33:55.825583Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:36:46.327410Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu şehrin nüfusu her yıl azalıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nimmt ab"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verringert sich"
+    ],
+    [
+      "TRANSLATION",
+      "eng:decreasing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:diminishing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reducing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:declining"
+    ]
+  ]
+}

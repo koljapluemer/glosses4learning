@@ -1,0 +1,33 @@
+{
+  "content": "inek",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:55.478270Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:18:30.402035Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Köyde beş inek var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kuh"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rind"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cow"
+    ],
+    [
+      "TRANSLATION",
+      "eng:heifer"
+    ]
+  ]
+}

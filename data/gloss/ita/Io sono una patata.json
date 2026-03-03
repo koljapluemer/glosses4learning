@@ -1,0 +1,35 @@
+{
+  "content": "Io sono una patata.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:15:16.266147Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:patata"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am a potato"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "La risposta è complicata.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:59:13.114711Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:risposta"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:complicata"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The answer is complicated"
+    ]
+  ]
+}

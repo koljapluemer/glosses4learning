@@ -1,0 +1,51 @@
+{
+  "content": "Pretendo decirle a Tom que no quiero ir.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:48.455547Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Pretendo"
+    ],
+    [
+      "PART",
+      "spa:decirle"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:quiero"
+    ],
+    [
+      "PART",
+      "spa:ir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I plan to tell Tom that I don't want to go"
+    ]
+  ]
+}

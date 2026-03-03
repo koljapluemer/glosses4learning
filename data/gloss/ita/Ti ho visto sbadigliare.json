@@ -1,0 +1,35 @@
+{
+  "content": "Ti ho visto sbadigliare.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:07:22.998407Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ti"
+    ],
+    [
+      "PART",
+      "ita:ho"
+    ],
+    [
+      "PART",
+      "ita:visto"
+    ],
+    [
+      "PART",
+      "ita:sbadigliare"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I saw you yawning"
+    ]
+  ]
+}

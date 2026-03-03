@@ -1,0 +1,31 @@
+{
+  "content": "شو إسمك؟",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by TheTRNQplayz_iM (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:14.935430Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:شو"
+    ],
+    [
+      "PART",
+      "apc:إسمك"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What is your name﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What's your name﹖"
+    ]
+  ]
+}

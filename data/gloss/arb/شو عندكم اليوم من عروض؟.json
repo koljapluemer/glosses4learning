@@ -1,0 +1,40 @@
+{
+  "content": "شو عندكم اليوم من عروض؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-15T10:47:35.308Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "arb:شو"
+    ],
+    [
+      "PART",
+      "arb:عندكم"
+    ],
+    [
+      "PART",
+      "arb:اليوم"
+    ],
+    [
+      "PART",
+      "arb:من"
+    ],
+    [
+      "PART",
+      "arb:عروض"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask about the café's daily specials"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Mary bir baton kullanarak orkestrayı yönetti.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:43:20.600032Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:baton"
+    ],
+    [
+      "PART",
+      "tur:kullanarak"
+    ],
+    [
+      "PART",
+      "tur:orkestra"
+    ],
+    [
+      "PART",
+      "tur:yönetmek"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maria dirigierte das Orchester mit einem Taktstock"
+    ]
+  ]
+}

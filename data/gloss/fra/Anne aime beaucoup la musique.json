@@ -1,0 +1,39 @@
+{
+  "content": "Anne aime beaucoup la musique.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:48:41.155330Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Anne"
+    ],
+    [
+      "PART",
+      "fra:aime"
+    ],
+    [
+      "PART",
+      "fra:beaucoup"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:musique"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ann likes music very much"
+    ]
+  ]
+}

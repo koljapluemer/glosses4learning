@@ -1,0 +1,28 @@
+{
+  "content": "Gelber Punkt",
+  "language": "deu",
+  "tags": [
+    "eng:emoji-image-set"
+  ],
+  "images": [
+    {
+      "filename": "yellow_circle.png",
+      "relationship": "semantic",
+      "credit": "Emoji labels from the [omarkamali/emoji-map dataset](https://huggingface.co/datasets/omarkamali/emoji-map); [CC BY-NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original [Unicode License](https://opensource.org/license/unicode-license-v3) may also apply."
+    }
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:yellow circle"
+    ],
+    [
+      "TRANSLATION",
+      "spa:círculo amarillo"
+    ],
+    [
+      "TRANSLATION",
+      "arb:دائرة صفراء"
+    ]
+  ]
+}

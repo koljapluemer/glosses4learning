@@ -1,0 +1,31 @@
+{
+  "content": "انا بشغل معك.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:06.997013Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:انا"
+    ],
+    [
+      "PART",
+      "apc:بشغل"
+    ],
+    [
+      "PART",
+      "apc:معك"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm working with you"
+    ]
+  ]
+}

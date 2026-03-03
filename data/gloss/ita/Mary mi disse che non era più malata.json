@@ -1,0 +1,51 @@
+{
+  "content": "Mary mi disse che non era più malata.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:14:33.368332Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:mi"
+    ],
+    [
+      "PART",
+      "ita:disse"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:più"
+    ],
+    [
+      "PART",
+      "ita:malata"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary told me she wasn't sick anymore"
+    ]
+  ]
+}

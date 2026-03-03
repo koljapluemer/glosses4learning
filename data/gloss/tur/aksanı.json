@@ -1,0 +1,33 @@
+{
+  "content": "aksanı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:17.893667Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:00.822440Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un Avustralyalı aksanı yok"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Akzent"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aussprache"
+    ],
+    [
+      "TRANSLATION",
+      "eng:accent"
+    ],
+    [
+      "TRANSLATION",
+      "eng:intonation"
+    ]
+  ]
+}

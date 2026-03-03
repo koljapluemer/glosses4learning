@@ -1,0 +1,33 @@
+{
+  "content": "dolar",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:25:13.662915Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:24.282630Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom, Mary'ye üç yüz dolar verdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dollar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:USD"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dollar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:US-Dollar"
+    ]
+  ]
+}

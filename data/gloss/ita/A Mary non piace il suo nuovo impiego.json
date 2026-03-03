@@ -1,0 +1,51 @@
+{
+  "content": "A Mary non piace il suo nuovo impiego.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:45:12.570041Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:suo"
+    ],
+    [
+      "PART",
+      "ita:nuovo"
+    ],
+    [
+      "PART",
+      "ita:impiego"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary doesn't like her new job"
+    ]
+  ]
+}

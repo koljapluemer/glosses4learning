@@ -1,0 +1,35 @@
+{
+  "content": "يا استاذ! استنى لحظة.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:20:57.591256Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:يا"
+    ],
+    [
+      "PART",
+      "arz:استاذ"
+    ],
+    [
+      "PART",
+      "arz:استنى"
+    ],
+    [
+      "PART",
+      "arz:لحظة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Hey you! Please wait"
+    ]
+  ]
+}

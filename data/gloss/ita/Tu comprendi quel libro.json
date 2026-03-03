@@ -1,0 +1,35 @@
+{
+  "content": "Tu comprendi quel libro.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:13:05.604311Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tu"
+    ],
+    [
+      "PART",
+      "ita:comprendi"
+    ],
+    [
+      "PART",
+      "ita:quel"
+    ],
+    [
+      "PART",
+      "ita:libro"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You understand that book"
+    ]
+  ]
+}

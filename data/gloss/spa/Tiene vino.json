@@ -1,0 +1,27 @@
+{
+  "content": "Tiene vino.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She has wine"
+    ],
+    [
+      "PART",
+      "spa:tiene"
+    ],
+    [
+      "PART",
+      "spa:vino"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:06:30.041042Z": "SPLIT_DONE"
+  }
+}

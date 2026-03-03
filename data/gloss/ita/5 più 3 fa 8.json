@@ -1,0 +1,39 @@
+{
+  "content": "5 più 3 fa 8.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:39:16.213248Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:5"
+    ],
+    [
+      "PART",
+      "ita:più"
+    ],
+    [
+      "PART",
+      "ita:3"
+    ],
+    [
+      "PART",
+      "ita:fa"
+    ],
+    [
+      "PART",
+      "ita:8"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Add 5 to 3 and you have 8"
+    ]
+  ]
+}

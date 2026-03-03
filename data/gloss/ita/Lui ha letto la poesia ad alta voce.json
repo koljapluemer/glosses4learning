@@ -1,0 +1,51 @@
+{
+  "content": "Lui ha letto la poesia ad alta voce.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:59:02.052089Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Lui"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:letto"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:poesia"
+    ],
+    [
+      "PART",
+      "ita:ad"
+    ],
+    [
+      "PART",
+      "ita:alta"
+    ],
+    [
+      "PART",
+      "ita:voce"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He read the poem with a loud voice"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "No hay nadie en la entrada.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:47:32.738912Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:No"
+    ],
+    [
+      "PART",
+      "spa:hay"
+    ],
+    [
+      "PART",
+      "spa:nadie"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:entrada"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There's no one at the entrance"
+    ]
+  ]
+}

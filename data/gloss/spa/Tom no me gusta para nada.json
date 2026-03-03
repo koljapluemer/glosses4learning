@@ -1,0 +1,43 @@
+{
+  "content": "Tom no me gusta para nada.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I don't like Tom at all"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:me"
+    ],
+    [
+      "PART",
+      "spa:gusta"
+    ],
+    [
+      "PART",
+      "spa:para"
+    ],
+    [
+      "PART",
+      "spa:nada"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:13.138808Z": "SPLIT_DONE"
+  }
+}

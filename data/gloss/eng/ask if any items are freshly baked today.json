@@ -1,0 +1,48 @@
+{
+  "content": "ask if any items are freshly baked today",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "eng:ask"
+    ],
+    [
+      "PART",
+      "eng:if"
+    ],
+    [
+      "PART",
+      "eng:are"
+    ],
+    [
+      "PART",
+      "eng:today"
+    ],
+    [
+      "PART",
+      "eng:any"
+    ],
+    [
+      "PART",
+      "eng:items"
+    ],
+    [
+      "PART",
+      "eng:freshly"
+    ],
+    [
+      "PART",
+      "eng:baked"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haben Sie heute frische Brötchen﹖"
+    ]
+  ]
+}

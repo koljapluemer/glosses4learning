@@ -1,0 +1,37 @@
+{
+  "content": "hızlıdır",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-11T19:17:09.490045Z": "TRANSLATION_DONE:deu",
+    "2026-03-03T13:10:53.349451Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin araban hızlıdır"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schnell"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ist schnell"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is fast"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is quick"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is speedy"
+    ]
+  ]
+}

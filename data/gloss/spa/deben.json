@@ -1,0 +1,28 @@
+{
+  "content": "deben",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los soldados deben acatar órdenes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they must"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they should"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they have to"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:41:55.216297Z": "TRANSLATION_DONE:eng"
+  }
+}

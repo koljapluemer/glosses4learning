@@ -1,0 +1,39 @@
+{
+  "content": "Me río para no llorar.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:47:21.180498Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:río"
+    ],
+    [
+      "PART",
+      "spa:para"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:llorar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm laughing to keep myself from crying"
+    ]
+  ]
+}

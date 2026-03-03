@@ -1,0 +1,35 @@
+{
+  "content": "البرد بيدخل عبر الشبابيك.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:02.292776Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:البرد"
+    ],
+    [
+      "PART",
+      "apc:بيدخل"
+    ],
+    [
+      "PART",
+      "apc:عبر"
+    ],
+    [
+      "PART",
+      "apc:الشبابيك"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Cold is blowing in from the windows"
+    ]
+  ]
+}

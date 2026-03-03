@@ -1,0 +1,37 @@
+{
+  "content": "nüfusu",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:34:56.651686Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:37:08.809476Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu şehrin nüfusu her yıl azalıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bevölkerung"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Einwohnerzahl"
+    ],
+    [
+      "TRANSLATION",
+      "eng:population"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inhabitants"
+    ],
+    [
+      "TRANSLATION",
+      "eng:number of people"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "almalı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ne kadar ödünç para almalı﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:must have"
+    ],
+    [
+      "TRANSLATION",
+      "eng:should have"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ought to have"
+    ],
+    [
+      "TRANSLATION",
+      "deu:muss"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sollte"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:10:37.905898Z": "TRANSLATION_DONE:eng",
+    "2026-03-03T13:11:31.007704Z": "TRANSLATION_DONE:deu"
+  }
+}

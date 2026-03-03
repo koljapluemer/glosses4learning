@@ -1,0 +1,35 @@
+{
+  "content": "مصر مش بس أهرامات.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:20:39.261275Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:مصر"
+    ],
+    [
+      "PART",
+      "arz:مش"
+    ],
+    [
+      "PART",
+      "arz:بس"
+    ],
+    [
+      "PART",
+      "arz:أهرامات"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Egypt isn't just pyramids"
+    ]
+  ]
+}

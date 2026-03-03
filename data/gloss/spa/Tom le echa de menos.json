@@ -1,0 +1,39 @@
+{
+  "content": "Tom le echa de menos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom misses him"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:le"
+    ],
+    [
+      "PART",
+      "spa:echa"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:menos"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T14:05:07.231794Z": "SPLIT_DONE"
+  }
+}

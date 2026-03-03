@@ -1,0 +1,43 @@
+{
+  "content": "Che cosa c'è per cena?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:22:40.235245Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Che"
+    ],
+    [
+      "PART",
+      "ita:cosa"
+    ],
+    [
+      "PART",
+      "ita:c'è"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:cena"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What's for dinner﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What's for supper﹖"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Dove sei in questo momento?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:56:23.894701Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Dove"
+    ],
+    [
+      "PART",
+      "ita:sei"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:questo"
+    ],
+    [
+      "PART",
+      "ita:momento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Where are you right now﹖"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "content": "start a business meeting",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:situation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "CHILD",
+      "eng:introduce the purpose of the business meeting"
+    ],
+    [
+      "CHILD",
+      "eng:present the agenda for the meeting"
+    ],
+    [
+      "CHILD",
+      "eng:invite participants to share their thoughts"
+    ],
+    [
+      "CHILD",
+      "eng:confirm the duration of the meeting"
+    ],
+    [
+      "CHILD",
+      "fin:Tervetuloa kokoukseen"
+    ],
+    [
+      "CHILD",
+      "fin:Voimmeko aloittaa kokouksen﹖"
+    ],
+    [
+      "CHILD",
+      "fin:Onko kaikilla tarvittavat asiakirjat mukanansa﹖"
+    ],
+    [
+      "CHILD",
+      "fin:Katsotaanpa agendaa ensin"
+    ],
+    [
+      "CHILD",
+      "fin:Olisiko jollain kysymyksiä ennen aloitusta﹖"
+    ]
+  ]
+}

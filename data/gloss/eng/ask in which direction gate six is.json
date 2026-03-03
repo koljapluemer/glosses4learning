@@ -1,0 +1,41 @@
+{
+  "content": "ask in which direction gate six is",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:expression-goal",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "eng:six"
+    ],
+    [
+      "PART",
+      "eng:gate"
+    ],
+    [
+      "PART",
+      "eng:ask in which direction _ is"
+    ],
+    [
+      "TRANSLATION",
+      "arb:أين بوابة ستة؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:في أي اتجاه بوابة ستة؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:وين بوابة ستة؟"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wo ist Terminal sechs﹖"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Der Grund dafür ist offensichtlich.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The reason for this is obvious"
+    ],
+    [
+      "PART",
+      "deu:Der"
+    ],
+    [
+      "PART",
+      "deu:Grund"
+    ],
+    [
+      "PART",
+      "deu:dafür"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:offensichtlich"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:02:56.769940Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Sadece bir battaniyem var.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:31.712706Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Sadece"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:battaniyem"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I only have one blanket"
+    ]
+  ]
+}

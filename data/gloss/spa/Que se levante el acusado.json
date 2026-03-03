@@ -1,0 +1,39 @@
+{
+  "content": "Que se levante el acusado.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:47:38.484128Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Que"
+    ],
+    [
+      "PART",
+      "spa:se"
+    ],
+    [
+      "PART",
+      "spa:levante"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:acusado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Will the defendant please rise﹖"
+    ]
+  ]
+}

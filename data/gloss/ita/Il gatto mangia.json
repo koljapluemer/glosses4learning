@@ -1,0 +1,31 @@
+{
+  "content": "Il gatto mangia.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:59.141126Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:gatto"
+    ],
+    [
+      "PART",
+      "ita:mangia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The cat eats"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": "request assistance with filling up the gas tank",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:assistance"
+    ],
+    [
+      "PART",
+      "eng:filling"
+    ],
+    [
+      "PART",
+      "eng:gas"
+    ],
+    [
+      "PART",
+      "eng:tank"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Czy mógłbyś mi pomóc zatankować﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Potrzebuję pomocy przy tankowaniu, czy możesz mi pomóc﹖"
+    ]
+  ]
+}

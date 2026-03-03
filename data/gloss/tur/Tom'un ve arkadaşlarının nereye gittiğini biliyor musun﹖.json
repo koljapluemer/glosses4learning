@@ -1,0 +1,47 @@
+{
+  "content": "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:08:05.280219Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:ve"
+    ],
+    [
+      "PART",
+      "tur:arkadaşlarının"
+    ],
+    [
+      "PART",
+      "tur:nereye"
+    ],
+    [
+      "PART",
+      "tur:gittiğini"
+    ],
+    [
+      "PART",
+      "tur:biliyor"
+    ],
+    [
+      "PART",
+      "tur:musun"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Weißt du, wohin Tom und seine Freunde gegangen sind﹖"
+    ]
+  ]
+}

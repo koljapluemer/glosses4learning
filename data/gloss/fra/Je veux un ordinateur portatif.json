@@ -1,0 +1,39 @@
+{
+  "content": "Je veux un ordinateur portatif.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:49:43.313275Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:veux"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:ordinateur"
+    ],
+    [
+      "PART",
+      "fra:portatif"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I want a notebook"
+    ]
+  ]
+}

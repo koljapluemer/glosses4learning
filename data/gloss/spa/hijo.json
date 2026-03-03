@@ -1,0 +1,24 @@
+{
+  "content": "hijo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:son"
+    ],
+    [
+      "TRANSLATION",
+      "eng:child"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:06:59.361486Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom sta cenando adesso.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:03:42.098061Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:sta"
+    ],
+    [
+      "PART",
+      "ita:cenando"
+    ],
+    [
+      "PART",
+      "ita:adesso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is eating dinner right now"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is having dinner right now"
+    ]
+  ]
+}

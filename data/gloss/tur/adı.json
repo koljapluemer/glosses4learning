@@ -1,0 +1,33 @@
+{
+  "content": "adı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:44:41.357404Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T08:13:35.044078Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:O istasyonun adı ne﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:name"
+    ],
+    [
+      "TRANSLATION",
+      "eng:title"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Name"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bezeichnung"
+    ]
+  ]
+}

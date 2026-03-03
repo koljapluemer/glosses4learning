@@ -1,0 +1,33 @@
+{
+  "content": "önerdi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:37:21.257884Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:35:37.919671Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Doktoru, Tom'a haftanın en az üç gününde alkol içmemesini önerdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:recommended"
+    ],
+    [
+      "TRANSLATION",
+      "eng:suggested"
+    ],
+    [
+      "TRANSLATION",
+      "deu:empfohlen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vorgeschlagen"
+    ]
+  ]
+}

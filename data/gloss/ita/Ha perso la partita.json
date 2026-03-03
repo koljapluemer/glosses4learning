@@ -1,0 +1,43 @@
+{
+  "content": "Ha perso la partita.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:23:54.043257Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ha"
+    ],
+    [
+      "PART",
+      "ita:perso"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:partita"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He lost the game"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She lost the game"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You lost the game"
+    ]
+  ]
+}

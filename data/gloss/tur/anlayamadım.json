@@ -1,0 +1,33 @@
+{
+  "content": "anlayamadım",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-22T15:45:36.792538Z": "TRANSLATION_DONE:deu",
+    "2026-01-27T14:53:39.350194Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun ne dediğini anlayamadım"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe es nicht verstanden"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich konnte es nicht verstehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I didn't understand"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I can't understand"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Auto",
+  "language": "deu",
+  "tags": [
+    "eng:unsplash-images",
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:27:33.749022Z": "TRANSLATION_DONE:eng"
+  },
+  "images": [
+    {
+      "filename": "yellow_mini.webp",
+      "relationship": "semantic"
+    }
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Auto der Studentin ist alt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Auto ist ziemlich neu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dein Auto ist schnell"
+    ],
+    [
+      "TRANSLATION",
+      "tur:araba"
+    ],
+    [
+      "TRANSLATION",
+      "tur:araban"
+    ],
+    [
+      "TRANSLATION",
+      "eng:car"
+    ],
+    [
+      "TRANSLATION",
+      "eng:automobile"
+    ],
+    [
+      "TRANSLATION",
+      "tur:araç"
+    ]
+  ]
+}

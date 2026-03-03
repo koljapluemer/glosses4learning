@@ -1,0 +1,31 @@
+{
+  "content": "كنت هنا امبارح.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:52:46.321415Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:كنت"
+    ],
+    [
+      "PART",
+      "arz:هنا"
+    ],
+    [
+      "PART",
+      "arz:امبارح"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was just here yesterday"
+    ]
+  ]
+}

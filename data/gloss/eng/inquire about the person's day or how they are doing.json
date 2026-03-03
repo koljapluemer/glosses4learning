@@ -1,0 +1,61 @@
+{
+  "content": "inquire about the person's day or how they are doing",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:day"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Como você está hoje﹖"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Tudo bem com você﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Como está seu dia﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Tudo bem com você﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Jak mija twój dzień﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Co słychać﹖ Jak się masz﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Как у вас дела﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Как прошел ваш день﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie war dein Tag﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie geht's dir﹖"
+    ]
+  ]
+}

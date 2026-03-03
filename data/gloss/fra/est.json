@@ -1,0 +1,32 @@
+{
+  "content": "est",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Mon nom est Jisung"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Nous devons nous assurer que ceci est vrai"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Aujourd'hui, Noël est fêté dans de nombreuses régions du monde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is"
+    ],
+    [
+      "TRANSLATION",
+      "eng:are"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:09:03.218977Z": "TRANSLATION_DONE:eng"
+  }
+}

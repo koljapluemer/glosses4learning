@@ -1,0 +1,35 @@
+{
+  "content": "La matematica è divertente.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:55:41.505060Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:matematica"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:divertente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Math is fun"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Mon nom est Jisung.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:00.408966Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Mon"
+    ],
+    [
+      "PART",
+      "fra:nom"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:Jisung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My name is Jisung"
+    ]
+  ]
+}

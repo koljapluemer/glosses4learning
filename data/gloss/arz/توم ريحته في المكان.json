@@ -1,0 +1,35 @@
+{
+  "content": "توم ريحته في المكان.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:20:05.059261Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:توم"
+    ],
+    [
+      "PART",
+      "arz:ريحته"
+    ],
+    [
+      "PART",
+      "arz:في"
+    ],
+    [
+      "PART",
+      "arz:المكان"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This place smells like Tom"
+    ]
+  ]
+}

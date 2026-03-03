@@ -1,0 +1,33 @@
+{
+  "content": "gördü",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:38.370869Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:18:02.596072Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bugün Tom, Mary'yi gördü"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sahip oldu"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gördü"
+    ],
+    [
+      "TRANSLATION",
+      "eng:saw"
+    ],
+    [
+      "TRANSLATION",
+      "eng:has seen"
+    ]
+  ]
+}

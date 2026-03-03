@@ -1,0 +1,37 @@
+{
+  "content": "nokta",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:19:32.904968Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:34:55.833190Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Cümlenin sonunda nokta eksik"
+    ],
+    [
+      "TRANSLATION",
+      "eng:point"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spot"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Punkt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stelle"
+    ]
+  ]
+}

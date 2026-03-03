@@ -1,0 +1,35 @@
+{
+  "content": "A Lucy piace Mary.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:06.504880Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Lucy"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Lucy likes Mary"
+    ]
+  ]
+}

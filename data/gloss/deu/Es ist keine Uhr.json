@@ -1,0 +1,35 @@
+{
+  "content": "Es ist keine Uhr.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:20:34.549780Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Es"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:keine"
+    ],
+    [
+      "PART",
+      "deu:Uhr"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Hat es niin Klok"
+    ]
+  ]
+}

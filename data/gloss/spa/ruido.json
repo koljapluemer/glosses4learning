@@ -1,0 +1,32 @@
+{
+  "content": "ruido",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El ruido me está volviendo loco"
+    ],
+    [
+      "TRANSLATION",
+      "eng:noise"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sound"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rumble"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clatter"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:03.795738Z": "TRANSLATION_DONE:eng"
+  }
+}

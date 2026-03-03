@@ -1,0 +1,39 @@
+{
+  "content": "Iremos cuando pare de llover.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:16.093111Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Iremos"
+    ],
+    [
+      "PART",
+      "spa:cuando"
+    ],
+    [
+      "PART",
+      "spa:pare"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:llover"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We'll go when it quits raining"
+    ]
+  ]
+}

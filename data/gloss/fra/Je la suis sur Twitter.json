@@ -1,0 +1,39 @@
+{
+  "content": "Je la suis sur Twitter.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:11:01.063837Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:suis"
+    ],
+    [
+      "PART",
+      "fra:sur"
+    ],
+    [
+      "PART",
+      "fra:Twitter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I follow her on Twitter"
+    ]
+  ]
+}

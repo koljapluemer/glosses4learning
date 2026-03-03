@@ -1,0 +1,32 @@
+{
+  "content": "negocio",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella quiere cerrar su pequeño negocio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:business"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:enterprise"
+    ],
+    [
+      "TRANSLATION",
+      "eng:commerce"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:07:33.153258Z": "TRANSLATION_DONE:eng"
+  }
+}

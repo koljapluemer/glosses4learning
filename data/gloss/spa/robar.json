@@ -1,0 +1,24 @@
+{
+  "content": "robar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El hambre llevó al muchacho a robar dinero de la caja registradora"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to steal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to rob"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:02.078815Z": "TRANSLATION_DONE:eng"
+  }
+}

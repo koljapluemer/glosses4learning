@@ -1,0 +1,31 @@
+{
+  "content": "رحنا لنوشف توم.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:21.280218Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:رحنا"
+    ],
+    [
+      "PART",
+      "apc:لنوشف"
+    ],
+    [
+      "PART",
+      "apc:توم"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We went to see Tom"
+    ]
+  ]
+}

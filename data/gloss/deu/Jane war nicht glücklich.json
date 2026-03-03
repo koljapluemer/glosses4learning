@@ -1,0 +1,35 @@
+{
+  "content": "Jane war nicht glücklich.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:23:32.288624Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Jane"
+    ],
+    [
+      "PART",
+      "deu:war"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:glücklich"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Jane wiar ek bliir"
+    ]
+  ]
+}

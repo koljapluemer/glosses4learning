@@ -1,0 +1,48 @@
+{
+  "content": "ask if something looks like it has finished cooking",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "eng:ask"
+    ],
+    [
+      "PART",
+      "eng:if"
+    ],
+    [
+      "PART",
+      "eng:something"
+    ],
+    [
+      "PART",
+      "eng:looks"
+    ],
+    [
+      "PART",
+      "eng:like"
+    ],
+    [
+      "PART",
+      "eng:it"
+    ],
+    [
+      "PART",
+      "eng:has"
+    ],
+    [
+      "PART",
+      "eng:finished"
+    ],
+    [
+      "PART",
+      "eng:cooking"
+    ]
+  ]
+}

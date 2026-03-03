@@ -1,0 +1,35 @@
+{
+  "content": "Tom analysierte die Ergebnisse.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:15.919543Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:analysierte"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Ergebnisse"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom sonuçları analiz etti"
+    ]
+  ]
+}

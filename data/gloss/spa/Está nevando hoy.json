@@ -1,0 +1,31 @@
+{
+  "content": "Está nevando hoy.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:50.050441Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Está"
+    ],
+    [
+      "PART",
+      "spa:nevando"
+    ],
+    [
+      "PART",
+      "spa:hoy"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It's snowing today"
+    ]
+  ]
+}

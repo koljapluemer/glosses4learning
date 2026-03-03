@@ -1,0 +1,31 @@
+{
+  "content": "ماما قطعت الكيكة.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:21:43.080424Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:ماما"
+    ],
+    [
+      "PART",
+      "arz:قطعت"
+    ],
+    [
+      "PART",
+      "arz:الكيكة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My mother cut the cake"
+    ]
+  ]
+}

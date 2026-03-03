@@ -1,0 +1,47 @@
+{
+  "content": "ماري قالت انو مالا مخططا تعمل هيك",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:18:01.976475Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:ماري"
+    ],
+    [
+      "PART",
+      "apc:قالت"
+    ],
+    [
+      "PART",
+      "apc:انو"
+    ],
+    [
+      "PART",
+      "apc:مالا"
+    ],
+    [
+      "PART",
+      "apc:مخططا"
+    ],
+    [
+      "PART",
+      "apc:تعمل"
+    ],
+    [
+      "PART",
+      "apc:هيك"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary said she's not planning on doing that"
+    ]
+  ]
+}

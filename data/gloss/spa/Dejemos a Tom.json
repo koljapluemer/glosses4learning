@@ -1,0 +1,31 @@
+{
+  "content": "Dejemos a Tom.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:16:35.412570Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Dejemos"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's ditch Tom"
+    ]
+  ]
+}

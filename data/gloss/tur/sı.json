@@ -1,0 +1,33 @@
+{
+  "content": "sı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:16.274176Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:24.934211Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Öğrencinin arabası eskidir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sour"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sourness"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "ask for the best christmas market in town",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:christmas market"
+    ],
+    [
+      "PART",
+      "eng:which"
+    ],
+    [
+      "PART",
+      "eng:in town"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Welcher Weihnachtsmarkt ist der beste in der Stadt﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wo finde ich den besten Weihnachtsmarkt hier﹖"
+    ]
+  ]
+}

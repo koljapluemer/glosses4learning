@@ -1,0 +1,57 @@
+{
+  "content": "inquire about the local weather from a passerby",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:local"
+    ],
+    [
+      "PART",
+      "eng:weather"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Como está o tempo por aqui﹖"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Você sabe se vai chover hoje﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Como está o tempo por aqui﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Está fazendo frio ou calor hoje﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Jakie dzisiaj jest powietrze﹖ Będzie padać﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Czy wiesz, jaka będzie pogoda na dzisiaj﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Как погода сегодня﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Не подскажете, какая погода на улице﹖"
+    ]
+  ]
+}

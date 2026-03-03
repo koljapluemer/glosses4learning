@@ -1,0 +1,31 @@
+{
+  "content": "Wir sprechen Japanisch.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:27:06.695436Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:sprechen"
+    ],
+    [
+      "PART",
+      "deu:Japanisch"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Biz Japonca konuşuruz"
+    ]
+  ]
+}

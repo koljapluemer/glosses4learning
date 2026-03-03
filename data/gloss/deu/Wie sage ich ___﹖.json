@@ -1,0 +1,32 @@
+{
+  "content": "Wie sage ich ___?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-19T10:12:04.329Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wie"
+    ],
+    [
+      "PART",
+      "deu:sage"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask how to express ___ in the target language"
+    ]
+  ]
+}

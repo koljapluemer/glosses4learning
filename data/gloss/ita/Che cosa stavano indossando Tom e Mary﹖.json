@@ -1,0 +1,47 @@
+{
+  "content": "Che cosa stavano indossando Tom e Mary?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:10:39.291485Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Che"
+    ],
+    [
+      "PART",
+      "ita:cosa"
+    ],
+    [
+      "PART",
+      "ita:stavano"
+    ],
+    [
+      "PART",
+      "ita:indossando"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:e"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What were Tom and Mary wearing﹖"
+    ]
+  ]
+}

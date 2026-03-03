@@ -1,0 +1,47 @@
+{
+  "content": "Il dottore gli ha dato un sedativo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:05:56.139198Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:dottore"
+    ],
+    [
+      "PART",
+      "ita:gli"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:dato"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:sedativo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The doctor gave him a sedative"
+    ]
+  ]
+}

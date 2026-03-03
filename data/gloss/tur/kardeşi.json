@@ -1,0 +1,37 @@
+{
+  "content": "kardeşi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:15:17.211101Z": "TRANSLATION_DONE:eng",
+    "2026-01-11T19:17:11.962699Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom annemin erkek kardeşi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sibling"
+    ],
+    [
+      "TRANSLATION",
+      "eng:brother"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sister"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bruder"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geschwister"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "إيه اللي انت أكلته؟",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:19:48.049795Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:إيه"
+    ],
+    [
+      "PART",
+      "arz:اللي"
+    ],
+    [
+      "PART",
+      "arz:انت"
+    ],
+    [
+      "PART",
+      "arz:أكلته"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What did you have to eat﹖"
+    ]
+  ]
+}

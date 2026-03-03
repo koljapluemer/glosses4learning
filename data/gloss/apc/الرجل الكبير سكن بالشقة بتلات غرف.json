@@ -1,0 +1,43 @@
+{
+  "content": "الرجل الكبير سكن بالشقة بتلات غرف.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:04.188891Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:الرجل"
+    ],
+    [
+      "PART",
+      "apc:الكبير"
+    ],
+    [
+      "PART",
+      "apc:سكن"
+    ],
+    [
+      "PART",
+      "apc:بالشقة"
+    ],
+    [
+      "PART",
+      "apc:بتلات"
+    ],
+    [
+      "PART",
+      "apc:غرف"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The old man lived in the three-room apartment"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom, ekim ayında Avustralya'ya gidecek.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:53:03.300513Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:ekim"
+    ],
+    [
+      "PART",
+      "tur:ayında"
+    ],
+    [
+      "PART",
+      "tur:Avustralya'ya"
+    ],
+    [
+      "PART",
+      "tur:gidecek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is going to go to Australia in October"
+    ]
+  ]
+}

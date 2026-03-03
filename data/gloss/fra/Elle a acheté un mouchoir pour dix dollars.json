@@ -1,0 +1,51 @@
+{
+  "content": "Elle a acheté un mouchoir pour dix dollars.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She bought a handkerchief for ten dollars"
+    ],
+    [
+      "PART",
+      "fra:Elle"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:acheté"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:mouchoir"
+    ],
+    [
+      "PART",
+      "fra:pour"
+    ],
+    [
+      "PART",
+      "fra:dix"
+    ],
+    [
+      "PART",
+      "fra:dollars"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:08:33.466065Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "content": "dice",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:22:36.578764Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Quiero oír lo que dice Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:says"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tells"
+    ]
+  ]
+}

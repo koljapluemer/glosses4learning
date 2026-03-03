@@ -1,0 +1,48 @@
+{
+  "content": "Welcher Weihnachtsmarkt ist der beste in der Stadt?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-20T14:20:10.243Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Welcher"
+    ],
+    [
+      "PART",
+      "deu:Weihnachtsmarkt"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:der"
+    ],
+    [
+      "PART",
+      "deu:beste"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:Stadt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask for the best christmas market in town"
+    ]
+  ]
+}

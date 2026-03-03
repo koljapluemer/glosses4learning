@@ -1,0 +1,24 @@
+{
+  "content": "mes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom va a la biblioteca al menos una vez por mes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:month"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mes"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:36.630970Z": "TRANSLATION_DONE:eng"
+  }
+}

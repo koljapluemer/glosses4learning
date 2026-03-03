@@ -1,0 +1,41 @@
+{
+  "content": "problem",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:58.354671Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:55.845619Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Her gülüşünde bir yerlerde bir problem ölür"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Problem"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwierigkeit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:problem"
+    ],
+    [
+      "TRANSLATION",
+      "eng:issue"
+    ],
+    [
+      "TRANSLATION",
+      "eng:difficulty"
+    ],
+    [
+      "TRANSLATION",
+      "eng:challenge"
+    ]
+  ]
+}

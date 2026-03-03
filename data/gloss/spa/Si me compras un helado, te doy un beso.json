@@ -1,0 +1,51 @@
+{
+  "content": "Si me compras un helado, te doy un beso.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:50.401001Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Si"
+    ],
+    [
+      "PART",
+      "spa:me"
+    ],
+    [
+      "PART",
+      "spa:compras"
+    ],
+    [
+      "PART",
+      "spa:un"
+    ],
+    [
+      "PART",
+      "spa:helado"
+    ],
+    [
+      "PART",
+      "spa:te"
+    ],
+    [
+      "PART",
+      "spa:doy"
+    ],
+    [
+      "PART",
+      "spa:beso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:If you buy me an ice cream, I'll give you a kiss"
+    ]
+  ]
+}

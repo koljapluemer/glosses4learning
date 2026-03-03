@@ -1,0 +1,35 @@
+{
+  "content": "السؤال الحقيقي هو \"ليش؟\"",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:05.930693Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:السؤال"
+    ],
+    [
+      "PART",
+      "apc:الحقيقي"
+    ],
+    [
+      "PART",
+      "apc:هو"
+    ],
+    [
+      "PART",
+      "apc:ليش"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The real question is why"
+    ]
+  ]
+}

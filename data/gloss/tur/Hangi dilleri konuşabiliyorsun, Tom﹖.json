@@ -1,0 +1,35 @@
+{
+  "content": "Hangi dilleri konuşabiliyorsun, Tom?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:11:49.811375Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:hangi"
+    ],
+    [
+      "PART",
+      "tur:dilleri"
+    ],
+    [
+      "PART",
+      "tur:konuşabiliyorsun"
+    ],
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Welche Sprachen sprichst du, Tom﹖"
+    ]
+  ]
+}

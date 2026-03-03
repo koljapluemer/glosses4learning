@@ -1,0 +1,43 @@
+{
+  "content": "Io e Tom non siamo così.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:21:39.581444Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:e"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:siamo"
+    ],
+    [
+      "PART",
+      "ita:così"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom and I aren't like that"
+    ]
+  ]
+}

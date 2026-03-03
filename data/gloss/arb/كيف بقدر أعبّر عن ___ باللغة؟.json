@@ -1,0 +1,40 @@
+{
+  "content": "كيف بقدر أعبّر عن ___ باللغة؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-19T10:06:59.181Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "arb:كيف"
+    ],
+    [
+      "PART",
+      "arb:بقدر"
+    ],
+    [
+      "PART",
+      "arb:أعبّر"
+    ],
+    [
+      "PART",
+      "arb:عن"
+    ],
+    [
+      "PART",
+      "arb:باللغة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask how to express ___ in the target language"
+    ]
+  ]
+}

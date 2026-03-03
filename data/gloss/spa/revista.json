@@ -1,0 +1,24 @@
+{
+  "content": "revista",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo una revista en mi pieza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:magazine"
+    ],
+    [
+      "TRANSLATION",
+      "eng:journal"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:01.245073Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "content": "película",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay una película que quiero ver por TV mañana en la noche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:film"
+    ],
+    [
+      "TRANSLATION",
+      "eng:movie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:picture"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:08:01.827978Z": "TRANSLATION_DONE:eng"
+  }
+}

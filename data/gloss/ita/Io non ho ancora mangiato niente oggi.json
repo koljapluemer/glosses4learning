@@ -1,0 +1,51 @@
+{
+  "content": "Io non ho ancora mangiato niente oggi.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:12:52.905982Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:ho"
+    ],
+    [
+      "PART",
+      "ita:ancora"
+    ],
+    [
+      "PART",
+      "ita:mangiato"
+    ],
+    [
+      "PART",
+      "ita:niente"
+    ],
+    [
+      "PART",
+      "ita:oggi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I haven't eaten anything yet today"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I haven't yet eaten anything today"
+    ]
+  ]
+}

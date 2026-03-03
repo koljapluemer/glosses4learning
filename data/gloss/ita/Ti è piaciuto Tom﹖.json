@@ -1,0 +1,35 @@
+{
+  "content": "Ti è piaciuto Tom?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:53:51.809639Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ti"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:piaciuto"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Did you like Tom﹖"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom, wir haben dafür keine Zeit!",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:41.682307Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:wir"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:dafür"
+    ],
+    [
+      "PART",
+      "deu:keine"
+    ],
+    [
+      "PART",
+      "deu:Zeit"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom, buna vaktimiz yok!"
+    ]
+  ]
+}

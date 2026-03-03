@@ -1,0 +1,45 @@
+{
+  "content": "yalan",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:30.303998Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:36:29.979688Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yani yalan söylediğimi iddia ediyorsunuz"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Birçok insan, bunun bir yalan olduğunu söylüyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lüge"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Falschheit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:falsehood"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deception"
+    ],
+    [
+      "TRANSLATION",
+      "eng:untruth"
+    ]
+  ]
+}

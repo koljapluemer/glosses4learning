@@ -1,0 +1,35 @@
+{
+  "content": "Tom è un fan.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:02:58.644379Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:fan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is a fan"
+    ]
+  ]
+}

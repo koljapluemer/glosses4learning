@@ -1,0 +1,37 @@
+{
+  "content": "introduce the purpose of the business meeting",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:purpose"
+    ],
+    [
+      "PART",
+      "eng:business"
+    ],
+    [
+      "PART",
+      "eng:meeting"
+    ],
+    [
+      "TRANSLATION",
+      "fin:Tervetuloa, tänään keskustelemme liiketoimintamme tavoitteista"
+    ],
+    [
+      "TRANSLATION",
+      "fin:Aloitetaan kokous esittelemällä tämän päivän aihe"
+    ]
+  ]
+}

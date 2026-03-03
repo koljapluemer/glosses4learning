@@ -1,0 +1,43 @@
+{
+  "content": "Tom fait souvent les mêmes erreurs.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:20.279721Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:souvent"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:mêmes"
+    ],
+    [
+      "PART",
+      "fra:erreurs"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom often makes the same mistakes"
+    ]
+  ]
+}

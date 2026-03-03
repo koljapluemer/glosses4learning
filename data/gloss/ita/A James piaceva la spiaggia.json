@@ -1,0 +1,39 @@
+{
+  "content": "A James piaceva la spiaggia.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:40:56.360294Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:James"
+    ],
+    [
+      "PART",
+      "ita:piaceva"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:spiaggia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:James liked the beach"
+    ]
+  ]
+}

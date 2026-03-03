@@ -1,0 +1,39 @@
+{
+  "content": "L'insegnante è entrato in ritardo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:08:22.372209Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:L'insegnante"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:entrato"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:ritardo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The teacher came in late"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": "ask where the gate for the flight to London is",
+  "language": "eng",
+  "transcriptions": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "eng:London"
+    ],
+    [
+      "PART",
+      "eng:where"
+    ],
+    [
+      "PART",
+      "eng:gate"
+    ],
+    [
+      "PART",
+      "eng:express somethingsomeone going to a location"
+    ],
+    [
+      "PART",
+      "eng:flight"
+    ],
+    [
+      "PART",
+      "eng:to London"
+    ],
+    [
+      "TRANSLATION",
+      "arb:أين بوابة الرحلة إلى لندن؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:أين مكان الرحلة إلى لندن؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:وين البوابة للرحلة إلى لندن؟"
+    ]
+  ]
+}

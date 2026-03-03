@@ -1,0 +1,61 @@
+{
+  "content": "Möchten Sie etwas Süßes, wie einen Kuchen oder ein Stück Torte?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.928381Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:m1fchten"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:s23es"
+    ],
+    [
+      "PART",
+      "deu:wie"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:Kuchen"
+    ],
+    [
+      "PART",
+      "deu:oder"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:St65ek"
+    ],
+    [
+      "PART",
+      "deu:Torte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Would you like something sweet, like a cake or a piece of pie﹖"
+    ]
+  ]
+}

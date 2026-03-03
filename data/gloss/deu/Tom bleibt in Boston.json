@@ -1,0 +1,35 @@
+{
+  "content": "Tom bleibt in Boston.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:17.272834Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:bleibt"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:Boston"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom Boston'da kalıyor"
+    ]
+  ]
+}

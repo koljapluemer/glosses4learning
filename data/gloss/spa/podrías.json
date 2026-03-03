@@ -1,0 +1,24 @@
+{
+  "content": "podrías",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom dijo que tú podrías ayudarme"
+    ],
+    [
+      "TRANSLATION",
+      "eng:could you"
+    ],
+    [
+      "TRANSLATION",
+      "eng:would you"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:08:17.101850Z": "TRANSLATION_DONE:eng"
+  }
+}

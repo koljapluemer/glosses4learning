@@ -1,0 +1,49 @@
+{
+  "content": "Wir haben heute auch leckere Croissants im Angebot.",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.895110Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:wir"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:auch"
+    ],
+    [
+      "PART",
+      "deu:leckere"
+    ],
+    [
+      "PART",
+      "deu:croissants"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:angebot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We also have delicious croissants on offer today"
+    ]
+  ]
+}

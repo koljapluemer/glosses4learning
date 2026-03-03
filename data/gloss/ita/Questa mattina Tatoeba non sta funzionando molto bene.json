@@ -1,0 +1,51 @@
+{
+  "content": "Questa mattina Tatoeba non sta funzionando molto bene.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:56:55.561705Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Questa"
+    ],
+    [
+      "PART",
+      "ita:mattina"
+    ],
+    [
+      "PART",
+      "ita:Tatoeba"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:sta"
+    ],
+    [
+      "PART",
+      "ita:funzionando"
+    ],
+    [
+      "PART",
+      "ita:molto"
+    ],
+    [
+      "PART",
+      "ita:bene"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This morning, Tatoeba isn't working very well"
+    ]
+  ]
+}

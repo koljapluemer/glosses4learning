@@ -1,0 +1,35 @@
+{
+  "content": "\"Ne istiyorsun?\" \"Köpek istiyorum.\"",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by newton55 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:15.852069Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Ne"
+    ],
+    [
+      "PART",
+      "tur:istiyorsun"
+    ],
+    [
+      "PART",
+      "tur:Köpek"
+    ],
+    [
+      "PART",
+      "tur:istiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What do you want﹖ I want a dog"
+    ]
+  ]
+}

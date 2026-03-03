@@ -1,0 +1,31 @@
+{
+  "content": "أي كتاب أحسن؟",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:20:51.181237Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:أي"
+    ],
+    [
+      "PART",
+      "arz:كتاب"
+    ],
+    [
+      "PART",
+      "arz:أحسن"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Which book is better﹖"
+    ]
+  ]
+}

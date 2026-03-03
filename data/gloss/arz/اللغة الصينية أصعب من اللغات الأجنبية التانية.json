@@ -1,0 +1,47 @@
+{
+  "content": "اللغة الصينية أصعب من اللغات الأجنبية التانية.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:21:00.316105Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:اللغة"
+    ],
+    [
+      "PART",
+      "arz:الصينية"
+    ],
+    [
+      "PART",
+      "arz:أصعب"
+    ],
+    [
+      "PART",
+      "arz:من"
+    ],
+    [
+      "PART",
+      "arz:اللغات"
+    ],
+    [
+      "PART",
+      "arz:الأجنبية"
+    ],
+    [
+      "PART",
+      "arz:التانية"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Chinese is harder than other foreign languages"
+    ]
+  ]
+}

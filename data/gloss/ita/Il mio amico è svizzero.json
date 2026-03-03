@@ -1,0 +1,39 @@
+{
+  "content": "Il mio amico è svizzero.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:05:48.775955Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:mio"
+    ],
+    [
+      "PART",
+      "ita:amico"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:svizzero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My friend is Swiss"
+    ]
+  ]
+}

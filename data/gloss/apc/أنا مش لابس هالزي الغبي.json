@@ -1,0 +1,39 @@
+{
+  "content": "أنا مش لابس هالزي الغبي.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:51.829559Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:أنا"
+    ],
+    [
+      "PART",
+      "apc:مش"
+    ],
+    [
+      "PART",
+      "apc:لابس"
+    ],
+    [
+      "PART",
+      "apc:هالزي"
+    ],
+    [
+      "PART",
+      "apc:الغبي"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm not wearing that stupid costume"
+    ]
+  ]
+}

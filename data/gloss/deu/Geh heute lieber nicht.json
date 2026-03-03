@@ -1,0 +1,35 @@
+{
+  "content": "Geh heute lieber nicht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:20:50.088324Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Geh"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:lieber"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Gung deling lewer ek"
+    ]
+  ]
+}

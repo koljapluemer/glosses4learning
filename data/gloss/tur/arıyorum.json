@@ -1,0 +1,37 @@
+{
+  "content": "arıyorum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:27.209652Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:17.429155Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Karımı arıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich suche"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich rufe an"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am looking for"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am searching for"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am calling"
+    ]
+  ]
+}

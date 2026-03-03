@@ -1,0 +1,39 @@
+{
+  "content": "Tom hat keinen australischen Akzent.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:28.922891Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:keinen"
+    ],
+    [
+      "PART",
+      "deu:australischen"
+    ],
+    [
+      "PART",
+      "deu:Akzent"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom'un Avustralyalı aksanı yok"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Ich weiß, dass du und Tom befreundet seid.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:57.780057Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:weiß"
+    ],
+    [
+      "PART",
+      "deu:dass"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:befreundet"
+    ],
+    [
+      "PART",
+      "deu:seid"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Ik weet, dat dü en Tom gur Frinjer sen"
+    ]
+  ]
+}

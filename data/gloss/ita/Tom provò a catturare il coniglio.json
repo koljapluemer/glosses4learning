@@ -1,0 +1,43 @@
+{
+  "content": "Tom provò a catturare il coniglio.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:23:42.254732Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:provò"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:catturare"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:coniglio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom tried to catch the rabbit"
+    ]
+  ]
+}

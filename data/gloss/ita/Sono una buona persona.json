@@ -1,0 +1,35 @@
+{
+  "content": "Sono una buona persona.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:12:55.679088Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono__split9"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:buona"
+    ],
+    [
+      "PART",
+      "ita:persona"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm a good person"
+    ]
+  ]
+}

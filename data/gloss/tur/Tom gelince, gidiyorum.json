@@ -1,0 +1,31 @@
+{
+  "content": "Tom gelince, gidiyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:33:20.484944Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:gelince"
+    ],
+    [
+      "PART",
+      "tur:gidiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wenn Tom kommt, gehe ich"
+    ]
+  ]
+}

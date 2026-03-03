@@ -1,0 +1,44 @@
+{
+  "content": "Bardzo ładne buty! Gdzie je kupiłeś?",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T14:17:52.977Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Bardzo"
+    ],
+    [
+      "PART",
+      "pol:ładne"
+    ],
+    [
+      "PART",
+      "pol:buty"
+    ],
+    [
+      "PART",
+      "pol:Gdzie"
+    ],
+    [
+      "PART",
+      "pol:je"
+    ],
+    [
+      "PART",
+      "pol:kupiłeś"
+    ],
+    [
+      "TRANSLATION",
+      "eng:compliment a stranger on their outfit or accessories"
+    ]
+  ]
+}

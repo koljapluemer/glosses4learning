@@ -1,0 +1,35 @@
+{
+  "content": "Sei stata a Parigi?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:11:31.295280Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Sei"
+    ],
+    [
+      "PART",
+      "ita:stata"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:Parigi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Have you been to Paris﹖"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "content": "prensa",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los periodistas le acribillaron a preguntas en la rueda de prensa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:press"
+    ],
+    [
+      "TRANSLATION",
+      "eng:printing press"
+    ],
+    [
+      "TRANSLATION",
+      "eng:media"
+    ],
+    [
+      "TRANSLATION",
+      "eng:newspaper"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:43.150939Z": "TRANSLATION_DONE:eng"
+  }
+}

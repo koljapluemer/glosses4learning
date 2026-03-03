@@ -1,0 +1,39 @@
+{
+  "content": "Tom è una persona pigra.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:04:07.700496Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:persona"
+    ],
+    [
+      "PART",
+      "ita:pigra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is a lazy person"
+    ]
+  ]
+}

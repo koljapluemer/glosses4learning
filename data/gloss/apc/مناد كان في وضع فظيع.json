@@ -1,0 +1,39 @@
+{
+  "content": "مناد كان في وضع فظيع.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:50.512180Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:مناد"
+    ],
+    [
+      "PART",
+      "apc:كان"
+    ],
+    [
+      "PART",
+      "apc:في"
+    ],
+    [
+      "PART",
+      "apc:وضع"
+    ],
+    [
+      "PART",
+      "apc:فظيع"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mennad was in a horrible situation"
+    ]
+  ]
+}

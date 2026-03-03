@@ -1,0 +1,28 @@
+{
+  "content": "pizza",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La pizza sabe diferente cuando está fría"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pizza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pizza pie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:slice of pizza"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:08:09.928011Z": "TRANSLATION_DONE:eng"
+  }
+}

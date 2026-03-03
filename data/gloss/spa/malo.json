@@ -1,0 +1,32 @@
+{
+  "content": "malo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El tiempo está muy malo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:poor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:evil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wrong"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:07:15.228131Z": "TRANSLATION_DONE:eng"
+  }
+}

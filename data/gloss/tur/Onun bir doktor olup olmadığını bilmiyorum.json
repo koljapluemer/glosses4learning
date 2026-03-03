@@ -1,0 +1,43 @@
+{
+  "content": "Onun bir doktor olup olmadığını bilmiyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:14:41.267441Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Onun"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:doktor"
+    ],
+    [
+      "PART",
+      "tur:olup"
+    ],
+    [
+      "PART",
+      "tur:olmadığını"
+    ],
+    [
+      "PART",
+      "tur:bilmiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't know if he is a doctor"
+    ]
+  ]
+}

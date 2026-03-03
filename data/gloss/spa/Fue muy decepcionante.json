@@ -1,0 +1,31 @@
+{
+  "content": "Fue muy decepcionante.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:53.303407Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Fue"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:decepcionante"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It was very upsetting"
+    ]
+  ]
+}

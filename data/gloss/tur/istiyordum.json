@@ -1,0 +1,33 @@
+{
+  "content": "istiyordum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:01.931487Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:18:38.437194Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben hatırlamak istiyordum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich wollte"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe gewollt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I wanted"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was wanting"
+    ]
+  ]
+}

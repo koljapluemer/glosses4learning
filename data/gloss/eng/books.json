@@ -1,0 +1,46 @@
+{
+  "content": "books",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T14:38:42.498Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "tags": [
+    "eng:lisaanmasry-word-translation",
+    "eng:emoji-image-set"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "images": [
+    {
+      "filename": "books.png",
+      "relationship": "semantic",
+      "credit": "Emoji labels from the [omarkamali/emoji-map dataset](https://huggingface.co/datasets/omarkamali/emoji-map); [CC BY-NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original [Unicode License](https://opensource.org/license/unicode-license-v3) may also apply."
+    }
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "arz:الكتب"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bücher"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bücherstapel"
+    ],
+    [
+      "TRANSLATION",
+      "spa:libros"
+    ],
+    [
+      "TRANSLATION",
+      "arb:كتب"
+    ]
+  ]
+}

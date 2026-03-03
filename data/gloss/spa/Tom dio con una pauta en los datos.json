@@ -1,0 +1,51 @@
+{
+  "content": "Tom dio con una pauta en los datos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:42:00.421689Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:dio"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:pauta"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:datos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom spotted a pattern in the data"
+    ]
+  ]
+}

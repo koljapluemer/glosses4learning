@@ -1,0 +1,39 @@
+{
+  "content": "Bunun ne anlama geldiğini biliyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:51:55.185268Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Bunun"
+    ],
+    [
+      "PART",
+      "tur:ne"
+    ],
+    [
+      "PART",
+      "tur:anlama"
+    ],
+    [
+      "PART",
+      "tur:geldiğini"
+    ],
+    [
+      "PART",
+      "tur:biliyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I know what this means"
+    ]
+  ]
+}

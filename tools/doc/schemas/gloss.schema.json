@@ -1,0 +1,152 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sbll-cms.local/schema/gloss.schema.json",
+  "title": "Gloss",
+  "type": "object",
+  "properties": {
+    "content": {
+      "type": "string",
+      "description": "Surface form or definition of the gloss."
+    },
+    "language": {
+      "type": "string",
+      "pattern": "^[a-z]{3}$",
+      "description": "ISO 639-3 code for the gloss language."
+    },
+    "transcriptions": {
+      "type": "object",
+      "description": "Map of transcription types to their values.",
+      "additionalProperties": { "type": "string" },
+      "default": {}
+    },
+    "logs": {
+      "type": "object",
+      "description": "Log entries keyed by ISO timestamps.",
+      "patternProperties": {
+        "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d+)?(?:Z|[+-]\\d{2}:?\\d{2})?$": { "type": "string" }
+      },
+      "additionalProperties": false,
+      "default": {}
+    },
+    "relationships": {
+      "type": "array",
+      "description": "Unified semantic relationships as [type, gloss_ref, credit?, note?].",
+      "items": { "$ref": "#/$defs/RelationshipTuple" },
+      "default": []
+    },
+    "tags": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/GlossRef" },
+      "default": []
+    },
+    "needsHumanCheck": {
+      "type": "boolean",
+      "description": "Flag indicating this gloss needs manual human review.",
+      "default": false
+    },
+    "excludeFromLearning": {
+      "type": "boolean",
+      "description": "Flag to exclude this gloss from learning exports.",
+      "default": false
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "filename": {
+            "type": "string",
+            "description": "Image file name."
+          },
+          "relationship": {
+            "type": "string",
+            "enum": ["decorative", "semantic", "unambigious"]
+          },
+          "credit": {
+            "type": "string",
+            "description": "Optional credit for the image (interpreted as basic inline markdown in frontend)."
+          }
+        },
+        "required": ["filename", "relationship"],
+        "additionalProperties": false
+      },
+      "description": "Images associated with the gloss.",
+      "default": []
+    },
+    "audioPronunciations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "filename": {
+            "type": "string",
+            "description": "Audio file name for pronunciation."
+          },
+          "comment": {
+            "type": "string",
+            "description": "Optional comment about the pronunciation (e.g., 'formal', 'regional variant')."
+          }
+        },
+        "required": ["filename"],
+        "additionalProperties": false
+      },
+      "description": "Audio pronunciation files with optional comments.",
+      "default": []
+    },
+    "credits": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Optional credits for the gloss (interpreted as basic inline markdown in frontend).",
+      "default": []
+    }
+  },
+  "required": ["content", "language"],
+  "additionalProperties": false,
+  "$defs": {
+    "RelationshipType": {
+      "type": "string",
+      "enum": [
+        "MORPHOLOGICALLY_RELATED",
+        "PART",
+        "HAS_SIMILAR_MEANING",
+        "SOUNDS_SIMILAR",
+        "USAGE_EXAMPLE",
+        "TO_BE_DIFFERENTIATED_FROM",
+        "COLLOCATION",
+        "TYPICAL_FOLLOW_UP",
+        "CHILD",
+        "TRANSLATION",
+        "NOTE"
+      ]
+    },
+    "GlossRef": {
+      "type": "string",
+      "pattern": "^[a-z]{3}:[^<>:\"/\\\\|?*]+$",
+      "description": "Reference to another gloss as $iso_code:$slug"
+    },
+    "RelationshipTuple": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 4,
+      "prefixItems": [
+        { "$ref": "#/$defs/RelationshipType" },
+        { "$ref": "#/$defs/GlossRef" },
+        { "type": "string" },
+        { "type": "string" }
+      ],
+      "items": false
+    }
+  },
+  "examples": [
+    {
+      "content": "bonjour",
+      "language": "fra",
+      "transcriptions": { "IPA": "bɔ̃.ʒuʁ" },
+      "relationships": [
+        ["TRANSLATION", "eng:hello"],
+        ["HAS_SIMILAR_MEANING", "fra:slt"]
+      ],
+      "tags": ["fra:greeting"]
+    }
+  ]
+}

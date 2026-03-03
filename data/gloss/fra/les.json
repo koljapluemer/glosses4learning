@@ -1,0 +1,32 @@
+{
+  "content": "les",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'État ne devrait pas supprimer des droits civiques, il devrait les protéger !"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom fait souvent les mêmes erreurs"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les Américains peuvent considérer les personnes timides comme moins compétentes que celles qui ne le sont pas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the"
+    ],
+    [
+      "TRANSLATION",
+      "eng:them"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:09:29.691909Z": "TRANSLATION_DONE:eng"
+  }
+}

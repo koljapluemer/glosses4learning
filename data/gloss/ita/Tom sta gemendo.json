@@ -1,0 +1,35 @@
+{
+  "content": "Tom sta gemendo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:54:56.670450Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:sta"
+    ],
+    [
+      "PART",
+      "ita:gemendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is groaning"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is whining"
+    ]
+  ]
+}

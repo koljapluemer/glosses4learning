@@ -1,0 +1,36 @@
+{
+  "content": "monde",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tout le monde me déteste"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Aujourd'hui, Noël est fêté dans de nombreuses régions du monde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:world"
+    ],
+    [
+      "TRANSLATION",
+      "eng:earth"
+    ],
+    [
+      "TRANSLATION",
+      "eng:society"
+    ],
+    [
+      "TRANSLATION",
+      "eng:universe"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:09:49.451944Z": "TRANSLATION_DONE:eng"
+  }
+}

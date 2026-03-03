@@ -1,0 +1,28 @@
+{
+  "content": "livre",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Auquel de ces deux garçons vas-tu donner le livre ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vous allez adorer ce livre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book"
+    ],
+    [
+      "TRANSLATION",
+      "eng:free"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:09:34.100480Z": "TRANSLATION_DONE:eng"
+  }
+}

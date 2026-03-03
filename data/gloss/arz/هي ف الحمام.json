@@ -1,0 +1,31 @@
+{
+  "content": "هي ف الحمام.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:53:03.022320Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:هي"
+    ],
+    [
+      "PART",
+      "arz:ف"
+    ],
+    [
+      "PART",
+      "arz:الحمام"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She's in the restroom"
+    ]
+  ]
+}

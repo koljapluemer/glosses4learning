@@ -1,0 +1,33 @@
+{
+  "content": "Mary'den",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:11:43.123525Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:25:58.610790Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom, bunu yapmada Mary'den çok daha iyidir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:from Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of Mary"
+    ],
+    [
+      "TRANSLATION",
+      "deu:von Mary"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Marys"
+    ]
+  ]
+}

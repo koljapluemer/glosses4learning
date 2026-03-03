@@ -1,0 +1,43 @@
+{
+  "content": "Tom ha detto che sembrava nervoso.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:05:35.397225Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:detto"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:sembrava"
+    ],
+    [
+      "PART",
+      "ita:nervoso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom said I looked nervous"
+    ]
+  ]
+}

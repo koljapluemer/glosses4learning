@@ -1,0 +1,43 @@
+{
+  "content": "İzin olmadan pazar tezgahı kurulamaz mı?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:08:28.021360Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:izin"
+    ],
+    [
+      "PART",
+      "tur:olmadan"
+    ],
+    [
+      "PART",
+      "tur:pazar"
+    ],
+    [
+      "PART",
+      "tur:tezgah"
+    ],
+    [
+      "PART",
+      "tur:kurulamaz"
+    ],
+    [
+      "PART",
+      "tur:mı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Darf man ohne Genehmigung keinen Marktstand aufbauen﹖"
+    ]
+  ]
+}

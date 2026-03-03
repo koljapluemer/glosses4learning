@@ -1,0 +1,33 @@
+{
+  "content": "alternatifin",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-11T19:16:55.230107Z": "TRANSLATION_DONE:deu",
+    "2026-01-27T14:53:34.440462Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bir alternatifin var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alternativ"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alternative"
+    ],
+    [
+      "TRANSLATION",
+      "eng:alternative"
+    ],
+    [
+      "TRANSLATION",
+      "eng:option"
+    ]
+  ]
+}

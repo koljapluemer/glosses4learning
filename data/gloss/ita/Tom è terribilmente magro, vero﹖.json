@@ -1,0 +1,39 @@
+{
+  "content": "Tom è terribilmente magro, vero?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:55:00.237507Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:terribilmente"
+    ],
+    [
+      "PART",
+      "ita:magro"
+    ],
+    [
+      "PART",
+      "ita:vero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is awfully skinny, isn't he﹖"
+    ]
+  ]
+}

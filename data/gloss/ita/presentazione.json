@@ -1,0 +1,32 @@
+{
+  "content": "presentazione",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Carlos piacque la presentazione di Rima"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Carlos è piaciuta la presentazione di Rima"
+    ],
+    [
+      "TRANSLATION",
+      "eng:presentation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:introduction"
+    ],
+    [
+      "TRANSLATION",
+      "eng:showcase"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:32:53.553066Z": "TRANSLATION_DONE:eng"
+  }
+}

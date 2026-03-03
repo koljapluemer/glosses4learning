@@ -1,0 +1,47 @@
+{
+  "content": "Tom bana aslında onu yapmak istemediğini söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:26.024831Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bana"
+    ],
+    [
+      "PART",
+      "tur:aslında"
+    ],
+    [
+      "PART",
+      "tur:onu"
+    ],
+    [
+      "PART",
+      "tur:yapmak"
+    ],
+    [
+      "PART",
+      "tur:istemediğini"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom told me he didn't actually want to do that"
+    ]
+  ]
+}

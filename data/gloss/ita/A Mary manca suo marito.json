@@ -1,0 +1,39 @@
+{
+  "content": "A Mary manca suo marito.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:43:10.601531Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:manca"
+    ],
+    [
+      "PART",
+      "ita:suo"
+    ],
+    [
+      "PART",
+      "ita:marito"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary misses her husband"
+    ]
+  ]
+}

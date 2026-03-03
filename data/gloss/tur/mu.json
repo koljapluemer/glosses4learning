@@ -1,0 +1,33 @@
+{
+  "content": "mu",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:33.879782Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:19.909400Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom beni arıyor mu﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:me"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I"
+    ]
+  ]
+}

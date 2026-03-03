@@ -1,0 +1,43 @@
+{
+  "content": "Ich weiß nicht, wo sie sind.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:55.590915Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:weiß"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:wo"
+    ],
+    [
+      "PART",
+      "deu:sie"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Ik weet ek, hur ja sen"
+    ]
+  ]
+}

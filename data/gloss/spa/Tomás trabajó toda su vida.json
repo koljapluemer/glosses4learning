@@ -1,0 +1,39 @@
+{
+  "content": "Tomás trabajó toda su vida.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom worked all his life"
+    ],
+    [
+      "PART",
+      "spa:Tomás"
+    ],
+    [
+      "PART",
+      "spa:trabajó"
+    ],
+    [
+      "PART",
+      "spa:toda"
+    ],
+    [
+      "PART",
+      "spa:su"
+    ],
+    [
+      "PART",
+      "spa:vida"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:41:35.453772Z": "SPLIT_DONE"
+  }
+}

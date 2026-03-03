@@ -1,0 +1,28 @@
+{
+  "content": "Fahrschein",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Fahrschein, den du gekauft hast, ist in den Hauptverkehrszeiten nicht gültig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ticket"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fare ticket"
+    ],
+    [
+      "TRANSLATION",
+      "eng:transport ticket"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:03:19.831596Z": "TRANSLATION_DONE:eng"
+  }
+}

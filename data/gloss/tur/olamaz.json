@@ -1,0 +1,33 @@
+{
+  "content": "olamaz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:43:48.008657Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:45:00.813207Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bence daha isabetli ve daha güzel bir sunum olamaz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kann nicht sein"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ist unmöglich"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cannot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:impossible"
+    ]
+  ]
+}

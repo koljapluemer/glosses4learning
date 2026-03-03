@@ -1,0 +1,51 @@
+{
+  "content": "Dis à Tom que je n'y serai pas.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:48:59.791289Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Dis"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:n'y"
+    ],
+    [
+      "PART",
+      "fra:serai"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tell Tom that I won't be there"
+    ]
+  ]
+}

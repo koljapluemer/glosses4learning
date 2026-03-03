@@ -1,0 +1,40 @@
+{
+  "content": "هل تتحدث الإنجليزية؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "arb:هل"
+    ],
+    [
+      "PART",
+      "arb:تتحدث"
+    ],
+    [
+      "PART",
+      "arb:الإنجليزية"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you speak English﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can you speak English﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are you able to speak English﹖"
+    ]
+  ]
+}

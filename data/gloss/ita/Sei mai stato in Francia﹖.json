@@ -1,0 +1,39 @@
+{
+  "content": "Sei mai stato in Francia?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:15:43.311376Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Sei"
+    ],
+    [
+      "PART",
+      "ita:mai"
+    ],
+    [
+      "PART",
+      "ita:stato"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:Francia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Have you ever been to France﹖"
+    ]
+  ]
+}

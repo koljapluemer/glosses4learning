@@ -1,0 +1,32 @@
+{
+  "content": "segundo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom terminó segundo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:second"
+    ],
+    [
+      "TRANSLATION",
+      "eng:secondly"
+    ],
+    [
+      "TRANSLATION",
+      "eng:second place"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Un segundo después, sus labios se curvaron en una sonrisa maliciosa"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:07.964733Z": "TRANSLATION_DONE:eng"
+  }
+}

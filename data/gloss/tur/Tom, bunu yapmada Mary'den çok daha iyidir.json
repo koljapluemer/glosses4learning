@@ -1,0 +1,47 @@
+{
+  "content": "Tom, bunu yapmada Mary'den çok daha iyidir.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:11:36.385965Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bunu"
+    ],
+    [
+      "PART",
+      "tur:yapmada"
+    ],
+    [
+      "PART",
+      "tur:Mary'den"
+    ],
+    [
+      "PART",
+      "tur:çok"
+    ],
+    [
+      "PART",
+      "tur:daha"
+    ],
+    [
+      "PART",
+      "tur:iyidir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is a lot better at doing that than Mary"
+    ]
+  ]
+}

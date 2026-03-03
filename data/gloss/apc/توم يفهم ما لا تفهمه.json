@@ -1,0 +1,39 @@
+{
+  "content": "توم يفهم ما لا تفهمه.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:17:50.606270Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:توم"
+    ],
+    [
+      "PART",
+      "apc:يفهم"
+    ],
+    [
+      "PART",
+      "apc:ما"
+    ],
+    [
+      "PART",
+      "apc:لا"
+    ],
+    [
+      "PART",
+      "apc:تفهمه"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom understands what you don't"
+    ]
+  ]
+}

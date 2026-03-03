@@ -1,0 +1,28 @@
+{
+  "content": "nadie",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay nadie en la entrada"
+    ],
+    [
+      "TRANSLATION",
+      "eng:nobody"
+    ],
+    [
+      "TRANSLATION",
+      "eng:no one"
+    ],
+    [
+      "TRANSLATION",
+      "eng:anyone (in negative contexts)"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:07:32.028254Z": "TRANSLATION_DONE:eng"
+  }
+}

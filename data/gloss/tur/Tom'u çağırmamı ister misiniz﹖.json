@@ -1,0 +1,43 @@
+{
+  "content": "Tom'u çağırmamı ister misiniz?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:07:59.348670Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:çağır"
+    ],
+    [
+      "PART",
+      "tur:mam"
+    ],
+    [
+      "PART",
+      "tur:ı"
+    ],
+    [
+      "PART",
+      "tur:ister"
+    ],
+    [
+      "PART",
+      "tur:misiniz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wollen Sie, dass ich Tom rufe﹖"
+    ]
+  ]
+}

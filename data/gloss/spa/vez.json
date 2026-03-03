@@ -1,0 +1,36 @@
+{
+  "content": "vez",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ayer monté a caballo por primera vez"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Intentémoslo otra vez"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom va a la biblioteca al menos una vez por mes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:time"
+    ],
+    [
+      "TRANSLATION",
+      "eng:instance"
+    ],
+    [
+      "TRANSLATION",
+      "eng:occasion"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:41.660488Z": "TRANSLATION_DONE:eng"
+  }
+}

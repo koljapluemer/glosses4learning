@@ -1,0 +1,32 @@
+{
+  "content": "rubata",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Jim fu rubata la macchina fotografica"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Jim è stata rubata la macchina fotografica"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Mary fu rubata la macchina fotografica"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stolen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:robbed"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:33:10.303973Z": "TRANSLATION_DONE:eng"
+  }
+}

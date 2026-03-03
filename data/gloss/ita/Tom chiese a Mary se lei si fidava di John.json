@@ -1,0 +1,59 @@
+{
+  "content": "Tom chiese a Mary se lei si fidava di John.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:58:15.421184Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:chiese"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:se"
+    ],
+    [
+      "PART",
+      "ita:lei"
+    ],
+    [
+      "PART",
+      "ita:si"
+    ],
+    [
+      "PART",
+      "ita:fidava"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:John"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom asked Mary if she trusted John"
+    ]
+  ]
+}

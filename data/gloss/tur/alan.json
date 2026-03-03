@@ -1,0 +1,41 @@
+{
+  "content": "alan",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:25:06.080710Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:07.073503Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Orman alanı üç sektöre ayrıldı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:field"
+    ],
+    [
+      "TRANSLATION",
+      "eng:area"
+    ],
+    [
+      "TRANSLATION",
+      "eng:space"
+    ],
+    [
+      "TRANSLATION",
+      "eng:domain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fläche"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bereich"
+    ]
+  ]
+}

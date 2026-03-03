@@ -1,0 +1,39 @@
+{
+  "content": "Tom, Avustralya'da olduğunu söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:08:08.564843Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Avustralya"
+    ],
+    [
+      "PART",
+      "tur:da"
+    ],
+    [
+      "PART",
+      "tur:olduğunu"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom hat gesagt, dass er in Australien ist"
+    ]
+  ]
+}

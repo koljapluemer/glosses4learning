@@ -1,0 +1,39 @@
+{
+  "content": "Ya hemos pagado nuestro alquiler.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:We've already paid our rent"
+    ],
+    [
+      "PART",
+      "spa:Ya"
+    ],
+    [
+      "PART",
+      "spa:hemos"
+    ],
+    [
+      "PART",
+      "spa:pagado"
+    ],
+    [
+      "PART",
+      "spa:nuestro"
+    ],
+    [
+      "PART",
+      "spa:alquiler"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T14:05:08.972034Z": "SPLIT_DONE"
+  }
+}

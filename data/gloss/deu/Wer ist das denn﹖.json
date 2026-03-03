@@ -1,0 +1,35 @@
+{
+  "content": "Wer ist das denn?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:26:37.073650Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Wer"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:denn"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bu da kim﹖"
+    ]
+  ]
+}

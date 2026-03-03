@@ -1,0 +1,35 @@
+{
+  "content": "توم اضطر يروح المستشفى.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:21:08.575605Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:توم"
+    ],
+    [
+      "PART",
+      "arz:اضطر"
+    ],
+    [
+      "PART",
+      "arz:يروح"
+    ],
+    [
+      "PART",
+      "arz:المستشفى"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom had to go to the hospital"
+    ]
+  ]
+}

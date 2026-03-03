@@ -1,0 +1,47 @@
+{
+  "content": "A Mary non piace la sua matrigna.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:45:16.438795Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:sua"
+    ],
+    [
+      "PART",
+      "ita:matrigna"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary doesn't like her stepmother"
+    ]
+  ]
+}

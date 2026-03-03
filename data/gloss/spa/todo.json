@@ -1,0 +1,28 @@
+{
+  "content": "todo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:everything"
+    ],
+    [
+      "TRANSLATION",
+      "eng:all"
+    ],
+    [
+      "TRANSLATION",
+      "eng:anything"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:22.919850Z": "TRANSLATION_DONE:eng"
+  }
+}

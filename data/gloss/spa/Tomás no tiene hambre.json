@@ -1,0 +1,35 @@
+{
+  "content": "Tomás no tiene hambre.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom's not hungry"
+    ],
+    [
+      "PART",
+      "spa:Tomás"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:tiene"
+    ],
+    [
+      "PART",
+      "spa:hambre"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:41:32.790104Z": "SPLIT_DONE"
+  }
+}

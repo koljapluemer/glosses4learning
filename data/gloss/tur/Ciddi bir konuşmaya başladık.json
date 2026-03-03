@@ -1,0 +1,35 @@
+{
+  "content": "Ciddi bir konuşmaya başladık.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:13:11.655211Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Ciddi"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:konuşma"
+    ],
+    [
+      "PART",
+      "tur:başladık"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir begannen eine ernsthafte Unterhaltung"
+    ]
+  ]
+}

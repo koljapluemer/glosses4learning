@@ -1,0 +1,39 @@
+{
+  "content": "Mi padre maneja muy bien.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:47:26.814594Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Mi"
+    ],
+    [
+      "PART",
+      "spa:padre"
+    ],
+    [
+      "PART",
+      "spa:maneja"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:bien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My father drives very well"
+    ]
+  ]
+}

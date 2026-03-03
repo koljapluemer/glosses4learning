@@ -1,0 +1,24 @@
+{
+  "content": "porque",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:because"
+    ],
+    [
+      "TRANSLATION",
+      "eng:why"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:41.107184Z": "TRANSLATION_DONE:eng"
+  }
+}

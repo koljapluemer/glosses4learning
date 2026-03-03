@@ -1,0 +1,24 @@
+{
+  "content": "Hauptverkehrszeiten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Fahrschein, den du gekauft hast, ist in den Hauptverkehrszeiten nicht gültig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:peak traffic times"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rush hours"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:03:22.915931Z": "TRANSLATION_DONE:eng"
+  }
+}

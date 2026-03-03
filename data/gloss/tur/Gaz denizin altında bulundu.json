@@ -1,0 +1,35 @@
+{
+  "content": "Gaz denizin altında bulundu.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:13:48.962945Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Gaz"
+    ],
+    [
+      "PART",
+      "tur:deniz"
+    ],
+    [
+      "PART",
+      "tur:altında"
+    ],
+    [
+      "PART",
+      "tur:bulundu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Gas has been found below the sea"
+    ]
+  ]
+}

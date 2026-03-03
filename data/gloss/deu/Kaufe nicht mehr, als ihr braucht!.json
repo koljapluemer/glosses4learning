@@ -1,0 +1,43 @@
+{
+  "content": "Kaufe nicht mehr, als ihr braucht!",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:44:11.578038Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Kaufe"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:mehr"
+    ],
+    [
+      "PART",
+      "deu:als"
+    ],
+    [
+      "PART",
+      "deu:ihr"
+    ],
+    [
+      "PART",
+      "deu:braucht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Don't buy more than you need"
+    ]
+  ]
+}

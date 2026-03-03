@@ -1,0 +1,39 @@
+{
+  "content": "Tom sembra compiaciuto.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:48.335019Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:sembra"
+    ],
+    [
+      "PART",
+      "ita:compiaciuto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom looks pleased"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom looks smug"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom seems pleased"
+    ]
+  ]
+}

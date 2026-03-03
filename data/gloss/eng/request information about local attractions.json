@@ -1,0 +1,33 @@
+{
+  "content": "request information about local attractions",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:local"
+    ],
+    [
+      "PART",
+      "eng:attractions"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Quali sono le attrazioni locali da visitare﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Mi può consigliare qualche posto interessante da vedere qui vicino﹖"
+    ]
+  ]
+}

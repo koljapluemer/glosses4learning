@@ -1,0 +1,39 @@
+{
+  "content": "Habt ihr Tom das gegeben?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:03.718183Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Habt"
+    ],
+    [
+      "PART",
+      "deu:ihr"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:gegeben"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Haa i Tom dit dön﹖"
+    ]
+  ]
+}

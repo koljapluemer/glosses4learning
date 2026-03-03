@@ -1,0 +1,35 @@
+{
+  "content": "Tom, buna vaktimiz yok!",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:16:40.278312Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:buna"
+    ],
+    [
+      "PART",
+      "tur:vaktimiz"
+    ],
+    [
+      "PART",
+      "tur:yok"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom, wir haben dafür keine Zeit!"
+    ]
+  ]
+}

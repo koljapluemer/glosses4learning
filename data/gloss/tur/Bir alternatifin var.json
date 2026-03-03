@@ -1,0 +1,31 @@
+{
+  "content": "Bir alternatifin var.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:16:28.847869Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Bir"
+    ],
+    [
+      "PART",
+      "tur:alternatifin"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du hast eine Alternative"
+    ]
+  ]
+}

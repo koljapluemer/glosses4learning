@@ -1,0 +1,51 @@
+{
+  "content": "Tom se pegó un tiro en la cabeza.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:42:03.701217Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:se"
+    ],
+    [
+      "PART",
+      "spa:pegó"
+    ],
+    [
+      "PART",
+      "spa:un"
+    ],
+    [
+      "PART",
+      "spa:tiro"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:cabeza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom shot himself in the head"
+    ]
+  ]
+}

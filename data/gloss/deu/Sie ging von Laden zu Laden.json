@@ -1,0 +1,39 @@
+{
+  "content": "Sie ging von Laden zu Laden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:49.197150Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:ging"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:Laden"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Jü ging fan Laaden tö Laaden"
+    ]
+  ]
+}

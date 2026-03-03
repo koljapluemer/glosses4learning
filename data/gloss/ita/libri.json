@@ -1,0 +1,36 @@
+{
+  "content": "libri",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2025-12-28T14:54:49.133381Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:Abbiamo scritto tre libri"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:Lui ha molti libri per giovani"
+    ],
+    [
+      "TRANSLATION",
+      "eng:books"
+    ],
+    [
+      "TRANSLATION",
+      "eng:volumes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tomes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:texts"
+    ]
+  ]
+}

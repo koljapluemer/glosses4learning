@@ -1,0 +1,39 @@
+{
+  "content": "Ich spreche nicht viel Französisch.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:38.734286Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:spreche"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:viel"
+    ],
+    [
+      "PART",
+      "deu:Französisch"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Çok fazla Fransızca konuşamam"
+    ]
+  ]
+}

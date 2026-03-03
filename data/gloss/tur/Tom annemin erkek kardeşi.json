@@ -1,0 +1,35 @@
+{
+  "content": "Tom annemin erkek kardeşi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:14:44.455696Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:annemin"
+    ],
+    [
+      "PART",
+      "tur:erkek"
+    ],
+    [
+      "PART",
+      "tur:kardeşi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is my mother's brother"
+    ]
+  ]
+}

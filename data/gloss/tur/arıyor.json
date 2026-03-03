@@ -1,0 +1,41 @@
+{
+  "content": "arıyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:26.184701Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:16.610086Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom beni arıyor mu﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bir şey arıyor gibi görünüyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ruft an"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sucht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is looking for"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is searching for"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is calling"
+    ]
+  ]
+}

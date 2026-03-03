@@ -1,0 +1,35 @@
+{
+  "content": "Gib mir das Geld.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:20:51.827476Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Gib"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:Geld"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Dö mi dit Jil"
+    ]
+  ]
+}

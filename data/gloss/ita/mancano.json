@@ -1,0 +1,40 @@
+{
+  "content": "mancano",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Mary mancano i suoi genitori"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Mary mancano sua madre e suo padre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Mary mancano suo marito e i suoi figli"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they are missing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:there are missing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they lack"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they are short of"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:05:52.087656Z": "TRANSLATION_DONE:eng"
+  }
+}

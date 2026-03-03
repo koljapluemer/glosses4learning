@@ -1,0 +1,35 @@
+{
+  "content": "رحلة",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T14:49:30.600Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "tags": [
+    "machine-translation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "arb:أنا بحب الرحلة مع الأصحاب"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "arb:رحلة الصيف كانت ممتعة"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "arb:وين بدنا نروح بالرحلة؟"
+    ],
+    [
+      "TRANSLATION",
+      "eng:flight"
+    ],
+    [
+      "TRANSLATION",
+      "eng:trip"
+    ]
+  ]
+}

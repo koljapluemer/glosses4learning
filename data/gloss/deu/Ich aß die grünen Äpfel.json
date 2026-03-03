@@ -1,0 +1,39 @@
+{
+  "content": "Ich aß die grünen Äpfel.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:15.163689Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:aß"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:grünen"
+    ],
+    [
+      "PART",
+      "deu:Äpfel"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yeşil elmaları yedim"
+    ]
+  ]
+}

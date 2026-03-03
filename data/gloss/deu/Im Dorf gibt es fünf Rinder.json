@@ -1,0 +1,43 @@
+{
+  "content": "Im Dorf gibt es fünf Rinder.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:23:22.971622Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Im"
+    ],
+    [
+      "PART",
+      "deu:Dorf"
+    ],
+    [
+      "PART",
+      "deu:gibt"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:fünf"
+    ],
+    [
+      "PART",
+      "deu:Rinder"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Köyde beş inek var"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Dijo que tenía mucho dinero.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:45:57.600011Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Dijo"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:tenía"
+    ],
+    [
+      "PART",
+      "spa:mucho"
+    ],
+    [
+      "PART",
+      "spa:dinero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He said that he had a lot of money"
+    ]
+  ]
+}

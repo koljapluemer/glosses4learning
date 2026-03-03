@@ -1,0 +1,43 @@
+{
+  "content": "El ruido me está volviendo loco.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:07.945755Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:ruido"
+    ],
+    [
+      "PART",
+      "spa:me"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:volviendo"
+    ],
+    [
+      "PART",
+      "spa:loco"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The noise is driving me crazy"
+    ]
+  ]
+}

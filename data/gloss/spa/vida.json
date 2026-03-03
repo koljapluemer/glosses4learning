@@ -1,0 +1,28 @@
+{
+  "content": "vida",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tomás trabajó toda su vida"
+    ],
+    [
+      "TRANSLATION",
+      "eng:life"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lifetime"
+    ],
+    [
+      "TRANSLATION",
+      "eng:living"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:42:12.010534Z": "TRANSLATION_DONE:eng"
+  }
+}

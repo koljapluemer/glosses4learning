@@ -1,0 +1,43 @@
+{
+  "content": "Bu şehrin nüfusu her yıl azalıyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:33:10.566450Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Bu"
+    ],
+    [
+      "PART",
+      "tur:şehrin"
+    ],
+    [
+      "PART",
+      "tur:nüfusu"
+    ],
+    [
+      "PART",
+      "tur:her"
+    ],
+    [
+      "PART",
+      "tur:yıl"
+    ],
+    [
+      "PART",
+      "tur:azalıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Die Bevölkerung dieser Stadt wird jedes Jahr kleiner"
+    ]
+  ]
+}

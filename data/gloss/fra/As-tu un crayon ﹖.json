@@ -1,0 +1,35 @@
+{
+  "content": "As-tu un crayon ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:48:44.342567Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:As"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:crayon"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have a pencil﹖"
+    ]
+  ]
+}

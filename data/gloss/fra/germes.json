@@ -1,0 +1,32 @@
+{
+  "content": "germes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les germes ne sont visibles qu'au microscope"
+    ],
+    [
+      "TRANSLATION",
+      "eng:germs"
+    ],
+    [
+      "TRANSLATION",
+      "eng:microbes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bacteria"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pathogens"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:09:15.024291Z": "TRANSLATION_DONE:eng"
+  }
+}

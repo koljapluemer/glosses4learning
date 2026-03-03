@@ -1,0 +1,41 @@
+{
+  "content": "işlem",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:43:42.787709Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:44:51.080014Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kaç işlem yaptın﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Prozess"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vorgang"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Operation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:operation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:process"
+    ],
+    [
+      "TRANSLATION",
+      "eng:transaction"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "content": "ارْدوغان رَئيس تُرْكِيّا",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by karimique (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:00.605670Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:ارْدوغان"
+    ],
+    [
+      "PART",
+      "apc:رَئيس"
+    ],
+    [
+      "PART",
+      "apc:تُرْكِيّا"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Erdoğan is the president of Turkey"
+    ]
+  ]
+}

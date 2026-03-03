@@ -1,0 +1,35 @@
+{
+  "content": "Que faisais-tu là-bas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:12.189672Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Que"
+    ],
+    [
+      "PART",
+      "fra:faisais"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:là-bas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What were you doing down there﹖"
+    ]
+  ]
+}

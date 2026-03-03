@@ -1,0 +1,51 @@
+{
+  "content": "Ella no pudo entender ni una sola palabra.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:21.062834Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:pudo"
+    ],
+    [
+      "PART",
+      "spa:entender"
+    ],
+    [
+      "PART",
+      "spa:ni"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:sola"
+    ],
+    [
+      "PART",
+      "spa:palabra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She failed to understand a single word"
+    ]
+  ]
+}

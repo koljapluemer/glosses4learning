@@ -1,0 +1,45 @@
+{
+  "content": "ask for the price of fuel at the gas station",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:price"
+    ],
+    [
+      "PART",
+      "eng:of"
+    ],
+    [
+      "PART",
+      "eng:fuel"
+    ],
+    [
+      "PART",
+      "eng:gas"
+    ],
+    [
+      "PART",
+      "eng:station"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Ile kosztuje paliwo﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Jaką cenę macie za litr paliwa﹖"
+    ]
+  ]
+}

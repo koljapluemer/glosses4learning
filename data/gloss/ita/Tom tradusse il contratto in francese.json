@@ -1,0 +1,43 @@
+{
+  "content": "Tom tradusse il contratto in francese.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:12:19.627666Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:tradusse"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:contratto"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:francese"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom translated the contract into French"
+    ]
+  ]
+}

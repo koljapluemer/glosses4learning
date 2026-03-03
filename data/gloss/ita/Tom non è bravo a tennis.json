@@ -1,0 +1,43 @@
+{
+  "content": "Tom non è bravo a tennis.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:01:59.487334Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:bravo"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:tennis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom isn't good at tennis"
+    ]
+  ]
+}

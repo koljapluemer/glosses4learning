@@ -1,0 +1,33 @@
+{
+  "content": "bencil",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:53:44.674988Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:16.018528Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Oldukça bencil görünüyorsun"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pencil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bleistift"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stift"
+    ]
+  ]
+}

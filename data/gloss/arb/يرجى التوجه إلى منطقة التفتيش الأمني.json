@@ -1,0 +1,41 @@
+{
+  "content": "يرجى التوجه إلى منطقة التفتيش الأمني.",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:يرجى"
+    ],
+    [
+      "PART",
+      "arb:التوجه إلى"
+    ],
+    [
+      "PART",
+      "arb:منطقة التفتيش الأمني"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Please proceed to the security inspection area"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Kindly head to the security check zone"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Please go to the security screening area"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Make your way to the security inspection section"
+    ]
+  ]
+}

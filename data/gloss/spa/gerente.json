@@ -1,0 +1,28 @@
+{
+  "content": "gerente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom es un buen gerente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:manager"
+    ],
+    [
+      "TRANSLATION",
+      "eng:director"
+    ],
+    [
+      "TRANSLATION",
+      "eng:administrator"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:06:55.258191Z": "TRANSLATION_DONE:eng"
+  }
+}

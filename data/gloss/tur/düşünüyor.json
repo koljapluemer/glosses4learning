@@ -1,0 +1,33 @@
+{
+  "content": "düşünüyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:25:16.195964Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:28.612348Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin bunu yapacağını düşünüyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thinking"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is thinking"
+    ],
+    [
+      "TRANSLATION",
+      "deu:denkt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:überlegt"
+    ]
+  ]
+}

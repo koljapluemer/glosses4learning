@@ -1,0 +1,39 @@
+{
+  "content": "Yani yalan söylediğimi iddia ediyorsunuz.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:08:15.527691Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:yani"
+    ],
+    [
+      "PART",
+      "tur:yalan"
+    ],
+    [
+      "PART",
+      "tur:söylediğimi"
+    ],
+    [
+      "PART",
+      "tur:iddia"
+    ],
+    [
+      "PART",
+      "tur:ediyorsunuz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie behaupten also, dass ich lüge"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Badajoz es una ciudad de España.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Badajoz is a city in Spain"
+    ],
+    [
+      "PART",
+      "spa:Badajoz"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:ciudad"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:España"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T14:05:00.378367Z": "SPLIT_DONE"
+  }
+}

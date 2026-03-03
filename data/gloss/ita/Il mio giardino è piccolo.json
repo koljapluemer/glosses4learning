@@ -1,0 +1,39 @@
+{
+  "content": "Il mio giardino è piccolo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by VPZ (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:14:47.910075Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:mio"
+    ],
+    [
+      "PART",
+      "ita:giardino"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:piccolo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My garden is small"
+    ]
+  ]
+}

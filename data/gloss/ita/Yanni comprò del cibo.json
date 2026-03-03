@@ -1,0 +1,39 @@
+{
+  "content": "Yanni comprò del cibo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:09:40.858048Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Yanni"
+    ],
+    [
+      "PART",
+      "ita:comprò"
+    ],
+    [
+      "PART",
+      "ita:del"
+    ],
+    [
+      "PART",
+      "ita:cibo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yanni bought food"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yanni bought some food"
+    ]
+  ]
+}

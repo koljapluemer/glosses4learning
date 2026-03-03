@@ -1,0 +1,32 @@
+{
+  "content": "mayordomo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Le pedí al mayordomo que nos sirviese un café"
+    ],
+    [
+      "TRANSLATION",
+      "eng:butler"
+    ],
+    [
+      "TRANSLATION",
+      "eng:steward"
+    ],
+    [
+      "TRANSLATION",
+      "eng:house manager"
+    ],
+    [
+      "TRANSLATION",
+      "eng:foreman"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:07:19.314264Z": "TRANSLATION_DONE:eng"
+  }
+}

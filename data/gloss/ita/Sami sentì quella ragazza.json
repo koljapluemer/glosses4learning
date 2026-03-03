@@ -1,0 +1,35 @@
+{
+  "content": "Sami sentì quella ragazza.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:11:26.316530Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Sami"
+    ],
+    [
+      "PART",
+      "ita:sentì"
+    ],
+    [
+      "PART",
+      "ita:quella"
+    ],
+    [
+      "PART",
+      "ita:ragazza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sami heard that girl"
+    ]
+  ]
+}

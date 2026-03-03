@@ -1,0 +1,43 @@
+{
+  "content": "A Maria non piace il prezzemolo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:21.435829Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Maria"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:prezzemolo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Maria doesn't like parsley"
+    ]
+  ]
+}

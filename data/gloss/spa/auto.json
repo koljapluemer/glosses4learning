@@ -1,0 +1,24 @@
+{
+  "content": "auto",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom y María también estaban en el auto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:car"
+    ],
+    [
+      "TRANSLATION",
+      "eng:automobile"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:28.788907Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Los soldados deben acatar órdenes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Soldiers must follow orders"
+    ],
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:soldados"
+    ],
+    [
+      "PART",
+      "spa:deben"
+    ],
+    [
+      "PART",
+      "spa:acatar"
+    ],
+    [
+      "PART",
+      "spa:órdenes"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:41:29.247376Z": "SPLIT_DONE"
+  }
+}

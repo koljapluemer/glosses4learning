@@ -1,0 +1,40 @@
+{
+  "content": "Olkaa hyvä ja jakakaa ajatuksenne.",
+  "language": "fin",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T14:10:07.798Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:fin"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "fin:Olkaa"
+    ],
+    [
+      "PART",
+      "fin:hyvä"
+    ],
+    [
+      "PART",
+      "fin:ja"
+    ],
+    [
+      "PART",
+      "fin:jakakaa"
+    ],
+    [
+      "PART",
+      "fin:ajatuksenne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:invite participants to share their thoughts"
+    ]
+  ]
+}

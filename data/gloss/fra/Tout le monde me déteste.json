@@ -1,0 +1,39 @@
+{
+  "content": "Tout le monde me déteste.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:25.096525Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Tout"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:monde"
+    ],
+    [
+      "PART",
+      "fra:me"
+    ],
+    [
+      "PART",
+      "fra:déteste"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Everybody hates me"
+    ]
+  ]
+}

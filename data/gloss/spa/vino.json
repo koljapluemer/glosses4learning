@@ -1,0 +1,24 @@
+{
+  "content": "vino",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tiene vino"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wine"
+    ],
+    [
+      "TRANSLATION",
+      "eng:grape juice"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:44.010859Z": "TRANSLATION_DONE:eng"
+  }
+}

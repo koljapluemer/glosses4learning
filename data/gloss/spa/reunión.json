@@ -1,0 +1,32 @@
+{
+  "content": "reunión",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Fue una reunión muy larga"
+    ],
+    [
+      "TRANSLATION",
+      "eng:meeting"
+    ],
+    [
+      "TRANSLATION",
+      "eng:gathering"
+    ],
+    [
+      "TRANSLATION",
+      "eng:assembly"
+    ],
+    [
+      "TRANSLATION",
+      "eng:conference"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:35:00.425013Z": "TRANSLATION_DONE:eng"
+  }
+}

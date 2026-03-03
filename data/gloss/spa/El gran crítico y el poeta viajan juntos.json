@@ -1,0 +1,51 @@
+{
+  "content": "El gran crítico y el poeta viajan juntos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:40:52.335310Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:gran"
+    ],
+    [
+      "PART",
+      "spa:crítico"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:poeta"
+    ],
+    [
+      "PART",
+      "spa:viajan"
+    ],
+    [
+      "PART",
+      "spa:juntos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The great critic and the poet are traveling together"
+    ]
+  ]
+}

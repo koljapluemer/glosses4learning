@@ -1,0 +1,33 @@
+{
+  "content": "bizi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bizi korkuttu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:us"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we"
+    ],
+    [
+      "TRANSLATION",
+      "deu:uns"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:10:40.543707Z": "TRANSLATION_DONE:eng",
+    "2026-03-03T13:11:32.974076Z": "TRANSLATION_DONE:deu"
+  }
+}

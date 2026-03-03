@@ -1,0 +1,24 @@
+{
+  "content": "libro",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom, párese y lea el libro, por favor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book"
+    ],
+    [
+      "TRANSLATION",
+      "eng:volume"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:34.392123Z": "TRANSLATION_DONE:eng"
+  }
+}

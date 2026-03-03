@@ -1,0 +1,39 @@
+{
+  "content": "Ojalá hubiera sabido hablar francés.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:47:34.559785Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ojalá"
+    ],
+    [
+      "PART",
+      "spa:hubiera"
+    ],
+    [
+      "PART",
+      "spa:sabido"
+    ],
+    [
+      "PART",
+      "spa:hablar"
+    ],
+    [
+      "PART",
+      "spa:francés"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I wish I could have spoken French"
+    ]
+  ]
+}

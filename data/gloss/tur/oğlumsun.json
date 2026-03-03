@@ -1,0 +1,33 @@
+{
+  "content": "oğlumsun",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:52.930371Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:50.220157Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Sen hala oğlumsun"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du bist mein Sohn"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du bist mein Kind"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are my son"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are my child"
+    ]
+  ]
+}

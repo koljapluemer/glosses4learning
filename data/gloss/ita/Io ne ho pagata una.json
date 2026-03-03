@@ -1,0 +1,39 @@
+{
+  "content": "Io ne ho pagata una.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:09:32.409673Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:ne"
+    ],
+    [
+      "PART",
+      "ita:ho"
+    ],
+    [
+      "PART",
+      "ita:pagata"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I paid one"
+    ]
+  ]
+}

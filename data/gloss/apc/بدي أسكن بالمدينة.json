@@ -1,0 +1,31 @@
+{
+  "content": "بدي أسكن بالمدينة.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:10.008275Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:بدي"
+    ],
+    [
+      "PART",
+      "apc:أسكن"
+    ],
+    [
+      "PART",
+      "apc:بالمدينة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I want to live in the city"
+    ]
+  ]
+}

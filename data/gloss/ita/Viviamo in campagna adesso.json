@@ -1,0 +1,35 @@
+{
+  "content": "Viviamo in campagna adesso.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:08:34.044124Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Viviamo__split2"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:campagna"
+    ],
+    [
+      "PART",
+      "ita:adesso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We live in the country now"
+    ]
+  ]
+}

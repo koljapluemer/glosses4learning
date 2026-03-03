@@ -1,0 +1,39 @@
+{
+  "content": "Tom hat Mary heute gesehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:22.166080Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:Mary"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bugün Tom, Mary'yi gördü"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Dieses Handy ist wirklich teuer.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:20:00.114010Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Dieses"
+    ],
+    [
+      "PART",
+      "deu:Handy"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:wirklich"
+    ],
+    [
+      "PART",
+      "deu:teuer"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Des Handy is waarentig jüür"
+    ]
+  ]
+}

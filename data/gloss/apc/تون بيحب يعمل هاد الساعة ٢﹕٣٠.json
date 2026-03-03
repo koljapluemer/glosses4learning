@@ -1,0 +1,43 @@
+{
+  "content": "تون بيحب يعمل هاد الساعة ٢:٣٠.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:18:39.001059Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:تون"
+    ],
+    [
+      "PART",
+      "apc:بيحب"
+    ],
+    [
+      "PART",
+      "apc:يعمل"
+    ],
+    [
+      "PART",
+      "apc:هاد"
+    ],
+    [
+      "PART",
+      "apc:الساعة"
+    ],
+    [
+      "PART",
+      "apc:٢﹕٣٠"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom likes to do that at 2﹕30"
+    ]
+  ]
+}

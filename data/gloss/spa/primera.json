@@ -1,0 +1,28 @@
+{
+  "content": "primera",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ayer monté a caballo por primera vez"
+    ],
+    [
+      "TRANSLATION",
+      "eng:first"
+    ],
+    [
+      "TRANSLATION",
+      "eng:primary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:foremost"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:44.002297Z": "TRANSLATION_DONE:eng"
+  }
+}

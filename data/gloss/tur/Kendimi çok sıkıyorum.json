@@ -1,0 +1,31 @@
+{
+  "content": "Kendimi çok sıkıyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:13:51.816135Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Kendimi"
+    ],
+    [
+      "PART",
+      "tur:çok"
+    ],
+    [
+      "PART",
+      "tur:sıkıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm really hard on myself"
+    ]
+  ]
+}

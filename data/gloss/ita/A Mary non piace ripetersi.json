@@ -1,0 +1,43 @@
+{
+  "content": "A Mary non piace ripetersi.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:10:02.597581Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:ripetersi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary doesn't like repeating herself"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary doesn't like to repeat herself"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Otobüsle seyahat etmiyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:07:24.428514Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Otobüsle"
+    ],
+    [
+      "PART",
+      "tur:seyahat"
+    ],
+    [
+      "PART",
+      "tur:etmiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich fahre mit keinem Bus"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Mi ha detto che è scettico.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:55:25.504093Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mi"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:detto"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:scettico"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He told me he's skeptical"
+    ]
+  ]
+}

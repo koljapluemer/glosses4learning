@@ -1,0 +1,32 @@
+{
+  "content": "Soy",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Soy inmortal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¡Soy yo!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I exist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am being"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T14:05:29.553917Z": "TRANSLATION_DONE:eng"
+  }
+}

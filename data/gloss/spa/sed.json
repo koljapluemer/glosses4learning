@@ -1,0 +1,24 @@
+{
+  "content": "sed",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Usted tiene sed"
+    ],
+    [
+      "TRANSLATION",
+      "eng:if"
+    ],
+    [
+      "TRANSLATION",
+      "eng:whether"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:42:01.962696Z": "TRANSLATION_DONE:eng"
+  }
+}

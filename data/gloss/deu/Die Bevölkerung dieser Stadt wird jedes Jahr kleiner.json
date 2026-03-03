@@ -1,0 +1,51 @@
+{
+  "content": "Die Bevölkerung dieser Stadt wird jedes Jahr kleiner.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:19:52.026899Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Die"
+    ],
+    [
+      "PART",
+      "deu:Bevölkerung"
+    ],
+    [
+      "PART",
+      "deu:dieser"
+    ],
+    [
+      "PART",
+      "deu:Stadt"
+    ],
+    [
+      "PART",
+      "deu:wird"
+    ],
+    [
+      "PART",
+      "deu:jedes"
+    ],
+    [
+      "PART",
+      "deu:Jahr"
+    ],
+    [
+      "PART",
+      "deu:kleiner"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bu şehrin nüfusu her yıl azalıyor"
+    ]
+  ]
+}

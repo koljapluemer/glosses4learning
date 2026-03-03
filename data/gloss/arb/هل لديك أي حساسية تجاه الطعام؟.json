@@ -1,0 +1,56 @@
+{
+  "content": "هل لديك أي حساسية تجاه الطعام؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "arb:هل"
+    ],
+    [
+      "PART",
+      "arb:لديك"
+    ],
+    [
+      "PART",
+      "arb:أي"
+    ],
+    [
+      "PART",
+      "arb:حساسية"
+    ],
+    [
+      "PART",
+      "arb:تجاه"
+    ],
+    [
+      "PART",
+      "arb:الطعام"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have any food allergies﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are you allergic to any foods﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have any sensitivities to food﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have any dietary allergies﹖"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom kötü bir golfçü.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:29.371448Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:kötü"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:golfçü"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is a bad golfer"
+    ]
+  ]
+}

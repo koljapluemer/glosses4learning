@@ -1,0 +1,43 @@
+{
+  "content": "Vladimir è forte come una mucca.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:01:32.480654Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Vladimir"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:forte"
+    ],
+    [
+      "PART",
+      "ita:come"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:mucca"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Vladimir is strong as a cow"
+    ]
+  ]
+}

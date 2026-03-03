@@ -1,0 +1,51 @@
+{
+  "content": "Tom è molto impegnato con il suo lavoro.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:16:37.989550Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:molto"
+    ],
+    [
+      "PART",
+      "ita:impegnato"
+    ],
+    [
+      "PART",
+      "ita:con"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:suo"
+    ],
+    [
+      "PART",
+      "ita:lavoro"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is very busy with his work"
+    ]
+  ]
+}

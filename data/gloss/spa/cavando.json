@@ -1,0 +1,28 @@
+{
+  "content": "cavando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom está cavando un agujero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:digging"
+    ],
+    [
+      "TRANSLATION",
+      "eng:excavating"
+    ],
+    [
+      "TRANSLATION",
+      "eng:burrowing"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:30.688655Z": "TRANSLATION_DONE:eng"
+  }
+}

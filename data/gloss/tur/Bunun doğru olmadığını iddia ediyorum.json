@@ -1,0 +1,39 @@
+{
+  "content": "Bunun doğru olmadığını iddia ediyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:45:18.272405Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Bunun"
+    ],
+    [
+      "PART",
+      "tur:doğru"
+    ],
+    [
+      "PART",
+      "tur:olmadığını"
+    ],
+    [
+      "PART",
+      "tur:iddia"
+    ],
+    [
+      "PART",
+      "tur:ediyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich behaupte, dass das nicht stimmt"
+    ]
+  ]
+}

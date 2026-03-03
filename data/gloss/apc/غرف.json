@@ -1,0 +1,32 @@
+{
+  "content": "غرف",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:51:25.427738Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "apc:الرجل الكبير سكن بالشقة بتلات غرف"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rooms"
+    ],
+    [
+      "TRANSLATION",
+      "eng:chambers"
+    ],
+    [
+      "TRANSLATION",
+      "eng:halls"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spaces"
+    ]
+  ]
+}

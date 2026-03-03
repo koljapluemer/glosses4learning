@@ -1,0 +1,39 @@
+{
+  "content": "Tom'un bazı iyi fikirleri olabilir.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:34.927281Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:bazı"
+    ],
+    [
+      "PART",
+      "tur:iyi"
+    ],
+    [
+      "PART",
+      "tur:fikirleri"
+    ],
+    [
+      "PART",
+      "tur:olabilir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom may have some good ideas"
+    ]
+  ]
+}

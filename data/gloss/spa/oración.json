@@ -1,0 +1,28 @@
+{
+  "content": "oración",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Repetirás esta oración cinco veces al día"
+    ],
+    [
+      "TRANSLATION",
+      "eng:prayer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sentence"
+    ],
+    [
+      "TRANSLATION",
+      "eng:statement"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:07:50.825769Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom dimenticò la sua chiave.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:57:07.808012Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:dimenticò"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:sua"
+    ],
+    [
+      "PART",
+      "ita:chiave"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom forgot his key"
+    ]
+  ]
+}

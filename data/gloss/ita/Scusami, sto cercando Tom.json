@@ -1,0 +1,35 @@
+{
+  "content": "Scusami, sto cercando Tom.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:13:17.707510Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Scusami__split2"
+    ],
+    [
+      "PART",
+      "ita:sto"
+    ],
+    [
+      "PART",
+      "ita:cercando"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Excuse me, I'm looking for Tom"
+    ]
+  ]
+}

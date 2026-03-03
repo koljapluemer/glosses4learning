@@ -1,0 +1,33 @@
+{
+  "content": "duş",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:34:10.001344Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:36:51.246128Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Soğuk bir duş yap ve sonra sıcak bir çay iç!"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dusche"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Duschbad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shower"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bath"
+    ]
+  ]
+}

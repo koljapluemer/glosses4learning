@@ -1,0 +1,39 @@
+{
+  "content": "En realidad es tu culpa.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:30.580218Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:En"
+    ],
+    [
+      "PART",
+      "spa:realidad"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:tu"
+    ],
+    [
+      "PART",
+      "spa:culpa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It is in fact your fault"
+    ]
+  ]
+}

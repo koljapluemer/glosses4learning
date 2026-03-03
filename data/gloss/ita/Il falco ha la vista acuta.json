@@ -1,0 +1,43 @@
+{
+  "content": "Il falco ha la vista acuta.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:07:59.742136Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:falco"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:vista"
+    ],
+    [
+      "PART",
+      "ita:acuta"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The falcon has keen eyes"
+    ]
+  ]
+}

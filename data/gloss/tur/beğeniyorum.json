@@ -1,0 +1,33 @@
+{
+  "content": "beğeniyorum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:16:43.030284Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:33:58.590124Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:O kazağı beğeniyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I like"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I enjoy"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich mag"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich finde es gut"
+    ]
+  ]
+}

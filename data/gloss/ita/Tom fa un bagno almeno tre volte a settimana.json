@@ -1,0 +1,55 @@
+{
+  "content": "Tom fa un bagno almeno tre volte a settimana.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:23:07.238408Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:fa"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:bagno"
+    ],
+    [
+      "PART",
+      "ita:almeno"
+    ],
+    [
+      "PART",
+      "ita:tre"
+    ],
+    [
+      "PART",
+      "ita:volte"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:settimana"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom takes a bath at least three times a week"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Ich glaube davon kein Wort.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I don't believe one word of it"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:glaube"
+    ],
+    [
+      "PART",
+      "deu:davon"
+    ],
+    [
+      "PART",
+      "deu:kein"
+    ],
+    [
+      "PART",
+      "deu:Wort"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:03:15.230810Z": "SPLIT_DONE"
+  }
+}

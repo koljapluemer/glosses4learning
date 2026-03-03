@@ -1,0 +1,43 @@
+{
+  "content": "Wollen Sie, dass ich Tom rufe?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:27:15.260652Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Wollen"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:dass"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:rufe"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom'u çağırmamı ister misiniz﹖"
+    ]
+  ]
+}

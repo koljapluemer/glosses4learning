@@ -1,0 +1,31 @@
+{
+  "content": "Komşularımdan nefret ediyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by blackdove (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:06:58.933255Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Komşularım"
+    ],
+    [
+      "PART",
+      "tur:nefret"
+    ],
+    [
+      "PART",
+      "tur:ediyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich hasse meine Nachbarn"
+    ]
+  ]
+}

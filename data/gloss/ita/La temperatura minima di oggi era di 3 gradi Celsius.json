@@ -1,0 +1,55 @@
+{
+  "content": "La temperatura minima di oggi era di 3 gradi Celsius.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:17:40.917640Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:temperatura"
+    ],
+    [
+      "PART",
+      "ita:minima"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:oggi"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:3"
+    ],
+    [
+      "PART",
+      "ita:gradi"
+    ],
+    [
+      "PART",
+      "ita:Celsius"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Today's low was 3 degrees Celsius"
+    ]
+  ]
+}

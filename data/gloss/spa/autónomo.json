@@ -1,0 +1,28 @@
+{
+  "content": "autónomo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom es autónomo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:self-employed"
+    ],
+    [
+      "TRANSLATION",
+      "eng:freelancer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:independent contractor"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:41:50.253671Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "A Mary piacciono i fagioli.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Mary likes beans"
+    ],
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:piacciono"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:fagioli"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:04:33.336002Z": "SPLIT_DONE"
+  }
+}

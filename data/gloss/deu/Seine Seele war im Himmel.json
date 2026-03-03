@@ -1,0 +1,39 @@
+{
+  "content": "Seine Seele war im Himmel.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:41.923383Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Seine"
+    ],
+    [
+      "PART",
+      "deu:Seele"
+    ],
+    [
+      "PART",
+      "deu:war"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Himmel"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Sin Siil wiar ön Hemel"
+    ]
+  ]
+}

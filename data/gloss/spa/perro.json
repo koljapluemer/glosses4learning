@@ -1,0 +1,24 @@
+{
+  "content": "perro",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom y su perro duermen en la misma habitación"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dog"
+    ],
+    [
+      "TRANSLATION",
+      "eng:puppy"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:34:39.498609Z": "TRANSLATION_DONE:eng"
+  }
+}

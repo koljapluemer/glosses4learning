@@ -1,0 +1,33 @@
+{
+  "content": "nin",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:42.277766Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:31.164009Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Öğrencinin arabası eskidir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dein"
+    ],
+    [
+      "TRANSLATION",
+      "deu:deine"
+    ],
+    [
+      "TRANSLATION",
+      "eng:your"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of you"
+    ]
+  ]
+}

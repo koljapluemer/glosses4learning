@@ -1,0 +1,32 @@
+{
+  "content": "música",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estudio música en la universidad de Boston"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La música se detuvo por un minuto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:music"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tune"
+    ],
+    [
+      "TRANSLATION",
+      "eng:melody"
+    ]
+  ],
+  "logs": {
+    "2026-03-03T13:07:31.104318Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Andammo al supermercato asiatico.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:19:35.489669Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Andammo"
+    ],
+    [
+      "PART",
+      "ita:al"
+    ],
+    [
+      "PART",
+      "ita:supermercato"
+    ],
+    [
+      "PART",
+      "ita:asiatico"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We went to the Asian supermarket"
+    ]
+  ]
+}

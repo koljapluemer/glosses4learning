@@ -1,0 +1,47 @@
+{
+  "content": "Quelle cuisson voudrais-tu pour ton bifteck ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:16.389247Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelle"
+    ],
+    [
+      "PART",
+      "fra:cuisson"
+    ],
+    [
+      "PART",
+      "fra:voudrais"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:pour"
+    ],
+    [
+      "PART",
+      "fra:ton"
+    ],
+    [
+      "PART",
+      "fra:bifteck"
+    ],
+    [
+      "TRANSLATION",
+      "eng:How would you like your steak﹖"
+    ]
+  ]
+}

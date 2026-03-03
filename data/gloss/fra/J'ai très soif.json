@@ -1,0 +1,31 @@
+{
+  "content": "J'ai très soif.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:49:19.044315Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:J'ai"
+    ],
+    [
+      "PART",
+      "fra:très"
+    ],
+    [
+      "PART",
+      "fra:soif"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm really thirsty"
+    ]
+  ]
+}

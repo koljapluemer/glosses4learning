@@ -1,0 +1,47 @@
+{
+  "content": "Ich muss für eine Spanienreise Spanisch lernen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:28.800656Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:muss"
+    ],
+    [
+      "PART",
+      "deu:für"
+    ],
+    [
+      "PART",
+      "deu:eine"
+    ],
+    [
+      "PART",
+      "deu:Spanienreise"
+    ],
+    [
+      "PART",
+      "deu:Spanisch"
+    ],
+    [
+      "PART",
+      "deu:lernen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bir İspanya gezisi için İspanyolca öğrenmem gerek"
+    ]
+  ]
+}

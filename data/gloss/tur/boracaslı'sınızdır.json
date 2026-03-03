@@ -1,0 +1,33 @@
+{
+  "content": "boracaslı'sınızdır",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:36:47.249262Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:43:33.777894Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You are from Borac"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You are a Borac native"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie sind ein Boracaslı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du bist ein Boracaslı"
+    ]
+  ]
+}
