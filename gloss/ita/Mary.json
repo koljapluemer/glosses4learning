@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:31.167877Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:31.167877Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:02:48.658910Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:02:49.375048Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:02:50.500873Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:02:51.124166Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -467,6 +471,38 @@
     [
       "TRANSLATION",
       "eng:Marie"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maria"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maries"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Marie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мария"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мэри"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mery"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Maria"
     ]
   ]
 }

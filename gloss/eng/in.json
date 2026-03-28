@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-12T14:08:36.245396Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:08:36.245396Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T14:00:04.400916Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -228,6 +230,30 @@
     [
       "TRANSLATION",
       "hrv:na"
+    ],
+    [
+      "TRANSLATION",
+      "tok:lon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He is in danger"
+    ],
+    [
+      "TRANSLATION",
+      "tur:içinde"
+    ],
+    [
+      "TRANSLATION",
+      "tur:de"
+    ],
+    [
+      "TRANSLATION",
+      "tur:da"
+    ],
+    [
+      "TRANSLATION",
+      "tha:ใน"
     ]
   ]
 }

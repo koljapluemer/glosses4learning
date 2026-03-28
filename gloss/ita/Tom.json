@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:11.535917Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:11.535917Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:02:53.480956Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:02:54.226492Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -739,6 +741,26 @@
     [
       "TRANSLATION",
       "eng:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Том"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Томас"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom'un"
     ]
   ]
 }

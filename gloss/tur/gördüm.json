@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:39.015591Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:03.415077Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:03.415077Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:56.771776Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:57.477813Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:03:58.191817Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,38 @@
     [
       "TRANSLATION",
       "eng:I have seen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:j'ai vu"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je l'ai vu"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je l'ai aperçue"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je l'ai regardé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ho visto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:l'ho visto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я видел"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я увидел"
     ]
   ]
 }

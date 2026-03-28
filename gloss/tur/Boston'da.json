@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:38.704631Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:03.188722Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:03.188722Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:47.061307Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:47.847454Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:03:48.667822Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,30 @@
     [
       "TRANSLATION",
       "eng:at Boston"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à Boston"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dans Boston"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a Boston"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in Boston"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в Бостоне"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в городе Бостон"
     ]
   ]
 }

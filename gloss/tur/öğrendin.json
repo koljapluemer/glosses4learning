@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:57.953233Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:24.432381Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:24.432381Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:32.468529Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:01:33.285753Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:01:34.826187Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,34 @@
     [
       "TRANSLATION",
       "eng:you found out"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tu as appris"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous avez appris"
+    ],
+    [
+      "TRANSLATION",
+      "ita:hai imparato"
+    ],
+    [
+      "TRANSLATION",
+      "ita:hai appreso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ты узнал"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ты научился"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ты понял"
     ]
   ]
 }

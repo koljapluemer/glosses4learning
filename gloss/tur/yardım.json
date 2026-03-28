@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:45:13.316800Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:14:08.142572Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:14:08.142572Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:04:15.914774Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:04:16.710215Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:04:17.663758Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,38 @@
     [
       "TRANSLATION",
       "deu:Unterstützung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aide"
+    ],
+    [
+      "TRANSLATION",
+      "fra:secours"
+    ],
+    [
+      "TRANSLATION",
+      "fra:assistance"
+    ],
+    [
+      "TRANSLATION",
+      "fra:soutien"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aiuto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:assistenza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помощь"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поддержка"
     ]
   ]
 }

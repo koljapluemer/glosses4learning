@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:44.317738Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:11.403565Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:11.403565Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:08:20.550943Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:08:21.371352Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:22.394780Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,42 @@
     [
       "TRANSLATION",
       "epo:bela"
+    ],
+    [
+      "TRANSLATION",
+      "fra:beau"
+    ],
+    [
+      "TRANSLATION",
+      "fra:joli"
+    ],
+    [
+      "TRANSLATION",
+      "fra:belle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bello"
+    ],
+    [
+      "TRANSLATION",
+      "ita:carino"
+    ],
+    [
+      "TRANSLATION",
+      "ita:gradevole"
+    ],
+    [
+      "TRANSLATION",
+      "rus:красивый"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прекрасный"
+    ],
+    [
+      "TRANSLATION",
+      "rus:симпатичный"
     ]
   ]
 }

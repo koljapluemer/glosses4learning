@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:48.208678Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:22.261460Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:22.261460Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:40.781126Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:41.702974Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:03:42.728023Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,42 @@
     [
       "TRANSLATION",
       "eng:gamble"
+    ],
+    [
+      "TRANSLATION",
+      "fra:prétention"
+    ],
+    [
+      "TRANSLATION",
+      "fra:allégation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:affirmation"
+    ],
+    [
+      "TRANSLATION",
+      "ita:scommessa"
+    ],
+    [
+      "TRANSLATION",
+      "ita:affermazione"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dichiarazione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:утверждение"
+    ],
+    [
+      "TRANSLATION",
+      "rus:заявление"
+    ],
+    [
+      "TRANSLATION",
+      "rus:доказательство"
     ]
   ]
 }

@@ -2,12 +2,18 @@
   "content": "paper",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T13:59:58.773969Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T13:59:59.691097Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:00:00.713994Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:00:01.630286Z": "TRANSLATION_DONE:tur"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -28,6 +34,42 @@
     [
       "TRANSLATION",
       "arz:وَرَقَة"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He sells us paper"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Papier"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Blatt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:papier"
+    ],
+    [
+      "TRANSLATION",
+      "fra:feuille de papier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:бумага"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лист бумаги"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kağıt"
+    ],
+    [
+      "TRANSLATION",
+      "tur:belge"
     ]
   ]
 }

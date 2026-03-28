@@ -2,12 +2,15 @@
   "content": "us",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T13:59:57.950420Z": "TRANSLATION_DONE:fra"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -52,6 +55,22 @@
     [
       "TRANSLATION",
       "rus:мы"
+    ],
+    [
+      "TRANSLATION",
+      "yid:מיר"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He sells us paper"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous"
+    ],
+    [
+      "TRANSLATION",
+      "fra:on"
     ]
   ]
 }

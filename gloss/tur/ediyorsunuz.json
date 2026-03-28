@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:17.693332Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:31.876317Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:31.876317Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:43.546141Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:44.567502Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:03:45.386689Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,42 @@
     [
       "TRANSLATION",
       "eng:you are saying"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous faites"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous êtes en train de faire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:stai facendo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fai"
+    ],
+    [
+      "TRANSLATION",
+      "ita:stai compiendo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:stai eseguendo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы делаете"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы поступаете"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы действуете"
     ]
   ]
 }

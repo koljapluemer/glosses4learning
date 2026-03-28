@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T15:25:16.195964Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:28.612348Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:28.612348Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:08:09.011577Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:08:09.797705Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:10.585943Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,34 @@
     [
       "TRANSLATION",
       "deu:überlegt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il pense"
+    ],
+    [
+      "TRANSLATION",
+      "fra:elle pense"
+    ],
+    [
+      "TRANSLATION",
+      "fra:on pense"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pensando"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sta pensando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:думает"
+    ],
+    [
+      "TRANSLATION",
+      "rus:размышляет"
     ]
   ]
 }

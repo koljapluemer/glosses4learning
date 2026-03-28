@@ -2,16 +2,67 @@
   "content": "sells",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T13:59:53.658908Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T13:59:54.469201Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:59:55.388944Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:59:56.310063Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T13:59:57.232073Z": "TRANSLATION_DONE:tur"
+  },
   "relationships": [
     [
       "TRANSLATION",
       "arz:بِتبِيَع"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He sells us paper"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verkauft"
+    ],
+    [
+      "TRANSLATION",
+      "deu:veräußert"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vend"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vends"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vende"
+    ],
+    [
+      "TRANSLATION",
+      "ita:commercializza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:продает"
+    ],
+    [
+      "TRANSLATION",
+      "rus:реализует"
+    ],
+    [
+      "TRANSLATION",
+      "tur:satar"
+    ],
+    [
+      "TRANSLATION",
+      "tur:satıyor"
     ]
   ]
 }

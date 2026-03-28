@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:19.646088Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:59.278789Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:59.278789Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:15.059577Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:01:15.883072Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:01:16.687266Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,30 @@
     [
       "TRANSLATION",
       "eng:kitten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chat"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chaton"
+    ],
+    [
+      "TRANSLATION",
+      "ita:gatto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:gattina"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кот"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кошка"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:32.366918Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:32.366918Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:06.035719Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:03:06.770253Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:07.605915Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:03:08.430931Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,46 @@
     [
       "TRANSLATION",
       "eng:you get it done"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gelingen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schaffen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erfolgen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zurechtkommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:réussite"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous réussissez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:удается"
+    ],
+    [
+      "TRANSLATION",
+      "rus:получается"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başarılı olmak"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başarmak"
     ]
   ]
 }

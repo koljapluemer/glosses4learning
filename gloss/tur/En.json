@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:36:39.574042Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:43:27.375856Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:43:27.375856Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:07:49.831466Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:07:50.648720Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:07:51.569681Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,38 @@
     [
       "TRANSLATION",
       "deu:Eins"
+    ],
+    [
+      "TRANSLATION",
+      "fra:En"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Dans"
+    ],
+    [
+      "TRANSLATION",
+      "fra:À l'intérieur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Il più"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Il massimo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:самый"
+    ],
+    [
+      "TRANSLATION",
+      "rus:наиболее"
+    ],
+    [
+      "TRANSLATION",
+      "rus:высший"
     ]
   ]
 }

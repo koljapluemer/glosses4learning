@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:57.066794Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:57.066794Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:23.312399Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:03:24.413136Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:25.523353Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:03:26.446074Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,38 @@
     [
       "TRANSLATION",
       "eng:sisterly relation"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwester"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwesterchen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sœur"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sororité"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сестра"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сестрица"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kız kardeş"
+    ],
+    [
+      "TRANSLATION",
+      "tur:abla"
     ]
   ]
 }

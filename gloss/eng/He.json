@@ -2,8 +2,13 @@
   "content": "He",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-28T13:59:52.094064Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T13:59:52.829531Z": "TRANSLATION_DONE:rus"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -37,6 +42,34 @@
     [
       "TRANSLATION",
       "hye:Նա"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He sells us paper"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ihm"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Он"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Его"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He is in danger"
+    ],
+    [
+      "TRANSLATION",
+      "dan:Han"
     ]
   ]
 }

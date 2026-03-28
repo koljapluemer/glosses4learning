@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:30.303998Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:36:29.979688Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:36:29.979688Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:34.448170Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:35.245498Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:03:36.275319Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,30 @@
     [
       "TRANSLATION",
       "eng:untruth"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mensonge"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fausse déclaration"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bugia"
+    ],
+    [
+      "TRANSLATION",
+      "ita:menzogna"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ложь"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вранье"
     ]
   ]
 }

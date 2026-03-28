@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:54.175435Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:28.799667Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:28.799667Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:04:10.682421Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:04:11.912998Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:04:12.804910Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,38 @@
     [
       "TRANSLATION",
       "eng:extraordinary"
+    ],
+    [
+      "TRANSLATION",
+      "fra:incroyable"
+    ],
+    [
+      "TRANSLATION",
+      "fra:impressionnant"
+    ],
+    [
+      "TRANSLATION",
+      "fra:étonnant"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fabuleux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:incredibile"
+    ],
+    [
+      "TRANSLATION",
+      "ita:straordinario"
+    ],
+    [
+      "TRANSLATION",
+      "rus:невероятный"
+    ],
+    [
+      "TRANSLATION",
+      "rus:удивительный"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:48.008657Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:45:00.813207Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:45:00.813207Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:08:25.978920Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:08:26.695578Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:27.445093Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,42 @@
     [
       "TRANSLATION",
       "eng:impossible"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ne peut pas être"
+    ],
+    [
+      "TRANSLATION",
+      "fra:impossible"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ne peut pas"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pas possible"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non può essere"
+    ],
+    [
+      "TRANSLATION",
+      "ita:impossibile"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non è possibile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не может быть"
+    ],
+    [
+      "TRANSLATION",
+      "rus:невозможно"
     ]
   ]
 }

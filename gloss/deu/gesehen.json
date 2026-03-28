@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:27.463112Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:27.463112Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T13:51:11.795554Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:51:12.716292Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:51:13.638894Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T13:51:15.276635Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,42 @@
     [
       "TRANSLATION",
       "eng:looked at"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vu"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aperçu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:visto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:guardato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:видел"
+    ],
+    [
+      "TRANSLATION",
+      "rus:увидел"
+    ],
+    [
+      "TRANSLATION",
+      "tur:görüldü"
+    ],
+    [
+      "TRANSLATION",
+      "tur:görmek"
+    ],
+    [
+      "TRANSLATION",
+      "tur:göründü"
     ]
   ]
 }

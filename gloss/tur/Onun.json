@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:00.380910Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:38.927454Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:38.927454Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:10.963542Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:01:11.987968Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:01:12.797977Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,38 @@
     [
       "TRANSLATION",
       "eng:its"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le sien"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le vôtre"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le sien à luielle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:suo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di luilei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:его"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ее"
+    ],
+    [
+      "TRANSLATION",
+      "rus:егоее"
     ]
   ]
 }

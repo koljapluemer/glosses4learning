@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:13.605721Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:20:22.487038Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:22.487038Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:37.299434Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:38.737406Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:03:39.758203Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,30 @@
     [
       "TRANSLATION",
       "eng:what I have said"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ce que j'ai dit"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ce que je dis"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quello che ho detto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ciò che ho detto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:то, что я сказал"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказанное мной"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:52.619156Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:45:05.539634Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:45:05.539634Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:08:23.212880Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:08:24.032021Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:25.055560Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,30 @@
     [
       "TRANSLATION",
       "eng:offering"
+    ],
+    [
+      "TRANSLATION",
+      "fra:présentation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:exposé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:presentazione"
+    ],
+    [
+      "TRANSLATION",
+      "ita:esposizione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:презентация"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выступление"
     ]
   ]
 }

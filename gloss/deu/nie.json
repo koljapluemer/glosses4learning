@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:17.607292Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:17.607292Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T13:50:53.054472Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:50:53.875173Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:50:54.652467Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -35,6 +38,30 @@
     [
       "TRANSLATION",
       "tur:Asla"
+    ],
+    [
+      "TRANSLATION",
+      "fra:jamais"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ne... jamais"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mai"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non mai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:никогда"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ни разу"
     ]
   ]
 }

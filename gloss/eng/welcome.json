@@ -2,12 +2,72 @@
   "content": "welcome",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-28T13:59:42.413360Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T13:59:43.406256Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:59:44.350793Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:59:45.411559Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T13:59:46.132606Z": "TRANSLATION_DONE:tur"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:accept"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Everyone is welcome to come"
+    ],
+    [
+      "TRANSLATION",
+      "deu:willkommen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:herzlich willkommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bienvenue"
+    ],
+    [
+      "TRANSLATION",
+      "fra:accueil"
+    ],
+    [
+      "TRANSLATION",
+      "ita:benvenuto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:benvenuta"
+    ],
+    [
+      "TRANSLATION",
+      "ita:benvenuti"
+    ],
+    [
+      "TRANSLATION",
+      "ita:benvenute"
+    ],
+    [
+      "TRANSLATION",
+      "rus:добро пожаловать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:приветствую"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hoş geldiniz"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hoş geldin"
     ]
   ]
 }

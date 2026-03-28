@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T14:53:26.443477Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:25:59.454679Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:25:59.454679Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:08:01.305208Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:08:02.084317Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:02.936764Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,30 @@
     [
       "TRANSLATION",
       "deu:von Mary"
+    ],
+    [
+      "TRANSLATION",
+      "fra:de Mary"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à Mary"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di Mary"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di Maria"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Марии"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мэри"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:19.556540Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:19.556540Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:02:41.591793Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:02:42.579222Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:02:43.833713Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:02:44.663769Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,38 @@
     [
       "TRANSLATION",
       "eng:jointly"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gemeinsam"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zusammen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ensemble"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avec"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вместе"
+    ],
+    [
+      "TRANSLATION",
+      "rus:совместно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:birlikte"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hep birlikte"
     ]
   ]
 }

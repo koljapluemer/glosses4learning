@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:47.568829Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:47.568829Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T13:50:49.061099Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:50:50.257601Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:50:51.109602Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T13:50:52.235572Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,38 @@
     [
       "TRANSLATION",
       "eng:your (formal)"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à vous"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a voi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a loro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вам"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вас"
+    ],
+    [
+      "TRANSLATION",
+      "tur:size"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sana"
     ]
   ]
 }

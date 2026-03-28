@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:48.494596Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:08.140619Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:08.140619Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:07.891814Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:01:08.915845Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:01:10.042685Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,46 @@
     [
       "TRANSLATION",
       "eng:break"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fissure"
+    ],
+    [
+      "TRANSLATION",
+      "fra:craquement"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fêlure"
+    ],
+    [
+      "TRANSLATION",
+      "fra:défaut"
+    ],
+    [
+      "TRANSLATION",
+      "ita:crepa"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fessura"
+    ],
+    [
+      "TRANSLATION",
+      "ita:spaccatura"
+    ],
+    [
+      "TRANSLATION",
+      "rus:трещина"
+    ],
+    [
+      "TRANSLATION",
+      "rus:скол"
+    ],
+    [
+      "TRANSLATION",
+      "rus:дефект"
     ]
   ]
 }

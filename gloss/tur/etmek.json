@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:22.913772Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:39.897686Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:39.897686Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:04:18.764589Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:04:19.620830Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:04:20.629726Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,50 @@
     [
       "TRANSLATION",
       "eng:Do"
+    ],
+    [
+      "TRANSLATION",
+      "fra:faire"
+    ],
+    [
+      "TRANSLATION",
+      "fra:effectuer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:réaliser"
+    ],
+    [
+      "TRANSLATION",
+      "fra:agir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fare"
+    ],
+    [
+      "TRANSLATION",
+      "ita:eseguire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:compiere"
+    ],
+    [
+      "TRANSLATION",
+      "ita:realizzare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:делать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:совершать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выполнять"
     ]
   ]
 }

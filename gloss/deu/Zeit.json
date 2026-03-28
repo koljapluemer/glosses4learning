@@ -4,7 +4,10 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.794503Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.727137Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.727137Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T13:50:28.686216Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:50:29.374310Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:50:30.116961Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -45,6 +48,38 @@
     [
       "TRANSLATION",
       "tur:zamanı"
+    ],
+    [
+      "TRANSLATION",
+      "fra:temps"
+    ],
+    [
+      "TRANSLATION",
+      "fra:moment"
+    ],
+    [
+      "TRANSLATION",
+      "fra:heure"
+    ],
+    [
+      "TRANSLATION",
+      "fra:durée"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tempo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ora"
+    ],
+    [
+      "TRANSLATION",
+      "rus:время"
+    ],
+    [
+      "TRANSLATION",
+      "rus:период"
     ]
   ]
 }

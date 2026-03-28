@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:42.072050Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:44:49.559782Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:44:49.559782Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:08:17.273283Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:08:18.195891Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:19.527722Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,50 @@
     [
       "TRANSLATION",
       "eng:hit"
+    ],
+    [
+      "TRANSLATION",
+      "fra:précis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:exact"
+    ],
+    [
+      "TRANSLATION",
+      "fra:juste"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pertinent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:preciso"
+    ],
+    [
+      "TRANSLATION",
+      "ita:esatto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:corretto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:точный"
+    ],
+    [
+      "TRANSLATION",
+      "rus:удачный"
+    ],
+    [
+      "TRANSLATION",
+      "rus:правильный"
+    ],
+    [
+      "TRANSLATION",
+      "rus:верный"
     ]
   ]
 }

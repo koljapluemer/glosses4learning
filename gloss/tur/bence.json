@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:41.648850Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:16:39.920281Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:16:39.920281Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:08:11.475465Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:08:12.606761Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:13.923580Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,38 @@
     [
       "TRANSLATION",
       "eng:I believe"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je pense"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à mon avis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:selon moi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:secondo me"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a mio avviso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:по-моему"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я считаю"
+    ],
+    [
+      "TRANSLATION",
+      "rus:на мой взгляд"
     ]
   ]
 }

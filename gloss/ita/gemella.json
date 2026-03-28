@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:56.681067Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:56.681067Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:27.468780Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:03:28.374761Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:29.315684Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:03:30.082546Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,42 @@
     [
       "TRANSLATION",
       "eng:gemini"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zwilling"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zwillingsschwester"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zwillingsbruder"
+    ],
+    [
+      "TRANSLATION",
+      "fra:jumelle"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sœur jumelle"
+    ],
+    [
+      "TRANSLATION",
+      "rus:близнец"
+    ],
+    [
+      "TRANSLATION",
+      "rus:двойняшка"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ikiz"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kız kardeş"
     ]
   ]
 }

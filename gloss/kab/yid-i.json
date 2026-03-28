@@ -1,0 +1,42 @@
+{
+  "content": "yid-i",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ddu yid-i"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my hand"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my arm"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je suis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:j'existe"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T14:01:50.798298Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:01:51.945938Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:52.949527Z": "TRANSLATION_DONE:fra"
+  }
+}

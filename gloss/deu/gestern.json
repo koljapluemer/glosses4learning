@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:28.005316Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:28.005316Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T13:51:08.724490Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:51:09.644738Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:51:10.977864Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,30 @@
     [
       "TRANSLATION",
       "eng:last day"
+    ],
+    [
+      "TRANSLATION",
+      "fra:hier"
+    ],
+    [
+      "TRANSLATION",
+      "fra:hier soir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ieri"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ieri sera"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вчера"
+    ],
+    [
+      "TRANSLATION",
+      "rus:накануне"
     ]
   ]
 }

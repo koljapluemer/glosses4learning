@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:48.324945Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:43.144817Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:43.144817Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:07:58.534038Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:07:59.661343Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:08:00.549154Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,54 @@
     [
       "TRANSLATION",
       "eng:okay"
+    ],
+    [
+      "TRANSLATION",
+      "fra:d'accord"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ça marche"
+    ],
+    [
+      "TRANSLATION",
+      "fra:c'est bon"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ok"
+    ],
+    [
+      "TRANSLATION",
+      "ita:va bene"
+    ],
+    [
+      "TRANSLATION",
+      "ita:d'accordo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ok"
+    ],
+    [
+      "TRANSLATION",
+      "ita:può essere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:можно"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хорошо"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ладно"
+    ],
+    [
+      "TRANSLATION",
+      "rus:будет"
     ]
   ]
 }

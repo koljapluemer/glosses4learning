@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:54.559213Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:54.559213Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T13:51:00.018993Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:51:00.842380Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:51:01.760205Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T13:51:02.578424Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,42 @@
     [
       "TRANSLATION",
       "eng:faced"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rencontré"
+    ],
+    [
+      "TRANSLATION",
+      "fra:croisé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:incontra"
+    ],
+    [
+      "TRANSLATION",
+      "ita:incontrato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:встретил"
+    ],
+    [
+      "TRANSLATION",
+      "rus:встретила"
+    ],
+    [
+      "TRANSLATION",
+      "rus:встречается"
+    ],
+    [
+      "TRANSLATION",
+      "tur:karşılaşmak"
+    ],
+    [
+      "TRANSLATION",
+      "tur:rastlamak"
     ]
   ]
 }

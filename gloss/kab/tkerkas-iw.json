@@ -1,0 +1,46 @@
+{
+  "content": "tkerkas-iw",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ar tura tettent tkerkas-iw"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mein Freund"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mein Kumpel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my friend"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my buddy"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my mate"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ma phrase"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mon propos"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T14:02:05.135685Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:02:05.955030Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:02:06.671507Z": "TRANSLATION_DONE:fra"
+  }
+}

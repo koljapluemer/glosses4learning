@@ -1,0 +1,46 @@
+{
+  "content": "Ddu",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ddu yid-i"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich gehe"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich komme"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to go"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to leave"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to depart"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je suis là"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je suis présent"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T14:01:48.243226Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:01:49.161235Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:49.975205Z": "TRANSLATION_DONE:fra"
+  }
+}

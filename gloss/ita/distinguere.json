@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:19.607280Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:19.607280Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:09.547450Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:03:10.322497Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:11.187170Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:03:12.210835Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,42 @@
     [
       "TRANSLATION",
       "eng:to identify"
+    ],
+    [
+      "TRANSLATION",
+      "deu:unterscheiden"
+    ],
+    [
+      "TRANSLATION",
+      "deu:differenzieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:distinguer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:faire la différence"
+    ],
+    [
+      "TRANSLATION",
+      "rus:различать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отличать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ayırmak"
+    ],
+    [
+      "TRANSLATION",
+      "tur:fark etmek"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ayırt etmek"
     ]
   ]
 }

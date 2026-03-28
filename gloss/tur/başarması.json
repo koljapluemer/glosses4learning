@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:38.371623Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:16:35.922361Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:16:35.922361Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:04:07.599060Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:04:08.429066Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:04:09.481217Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,38 @@
     [
       "TRANSLATION",
       "eng:to accomplish"
+    ],
+    [
+      "TRANSLATION",
+      "fra:réussir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:accomplir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:riuscire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avere successo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:достигнуть"
+    ],
+    [
+      "TRANSLATION",
+      "rus:успеть"
+    ],
+    [
+      "TRANSLATION",
+      "rus:добиться успеха"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сделать"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:27.431616Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:09.975390Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:09.975390Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:22.842130Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:01:23.584116Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T14:01:24.580002Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,30 @@
     [
       "TRANSLATION",
       "eng:dog"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le chien"
+    ],
+    [
+      "TRANSLATION",
+      "fra:un chien"
+    ],
+    [
+      "TRANSLATION",
+      "ita:cane"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il cane"
+    ],
+    [
+      "TRANSLATION",
+      "rus:собака"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пёс"
     ]
   ]
 }

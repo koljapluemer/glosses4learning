@@ -1,0 +1,42 @@
+{
+  "content": "Ar",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ar tura tettent tkerkas-iw"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I exist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Et"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Alors"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T14:01:55.344902Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:01:56.843199Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:01:57.702932Z": "TRANSLATION_DONE:fra"
+  }
+}

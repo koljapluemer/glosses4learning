@@ -1,0 +1,46 @@
+{
+  "content": "tura",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ar tura tettent tkerkas-iw"
+    ],
+    [
+      "TRANSLATION",
+      "deu:jetzt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nun"
+    ],
+    [
+      "TRANSLATION",
+      "eng:now"
+    ],
+    [
+      "TRANSLATION",
+      "eng:currently"
+    ],
+    [
+      "TRANSLATION",
+      "eng:at this moment"
+    ],
+    [
+      "TRANSLATION",
+      "fra:maintenant"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à présent"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T14:01:58.484528Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:01:59.503899Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:02:00.527693Z": "TRANSLATION_DONE:fra"
+  }
+}

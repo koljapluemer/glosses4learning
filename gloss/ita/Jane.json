@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:52.150557Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:52.150557Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T14:03:13.137696Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T14:03:13.941303Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T14:03:14.895238Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T14:03:15.797841Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,38 @@
     [
       "TRANSLATION",
       "eng:Lady Jane"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jane"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jana"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Jane"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Jeanne"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Джейн"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Жанна"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Jane"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ceyda"
     ]
   ]
 }
