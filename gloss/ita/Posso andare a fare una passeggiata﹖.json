@@ -1,0 +1,43 @@
+{
+  "content": "Posso andare a fare una passeggiata?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by chinro (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:24:50.778047Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Posso__split5"
+    ],
+    [
+      "PART",
+      "ita:andare"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:fare"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:passeggiata"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can I go for a walk﹖"
+    ]
+  ]
+}

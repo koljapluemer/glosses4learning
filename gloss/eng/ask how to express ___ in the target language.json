@@ -1,0 +1,57 @@
+{
+  "content": "ask how to express ___ in the target language",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:how"
+    ],
+    [
+      "PART",
+      "eng:express"
+    ],
+    [
+      "TRANSLATION",
+      "arb:كيف بقدر أعبّر عن ___ باللغة؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:شو الطريقة لأقول ___ بالعربي؟"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie sage ich ___﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie heißt ___ auf Deutsch﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Was ist ___ auf Deutsch﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie kann ich ___ auf Deutsch ausdrücken﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Come si dice ___ in italiano"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Qual è il modo giusto per dire ___ in italiano"
+    ]
+  ]
+}

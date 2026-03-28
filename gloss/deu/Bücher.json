@@ -1,0 +1,28 @@
+{
+  "content": "Bücher",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:09:19.486589Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die letzten Bücher wurden vor einer Woche verkauft"
+    ],
+    [
+      "TRANSLATION",
+      "eng:books"
+    ],
+    [
+      "TRANSLATION",
+      "eng:literature"
+    ],
+    [
+      "TRANSLATION",
+      "epo:libro"
+    ]
+  ]
+}

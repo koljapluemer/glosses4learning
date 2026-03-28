@@ -1,0 +1,31 @@
+{
+  "content": "ماري بنت شجاعة.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:21:41.154966Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:ماري"
+    ],
+    [
+      "PART",
+      "arz:بنت"
+    ],
+    [
+      "PART",
+      "arz:شجاعة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary is a brave girl"
+    ]
+  ]
+}

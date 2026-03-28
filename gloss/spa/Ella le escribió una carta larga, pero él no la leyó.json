@@ -1,0 +1,63 @@
+{
+  "content": "Ella le escribió una carta larga, pero él no la leyó.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:19.058523Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:le"
+    ],
+    [
+      "PART",
+      "spa:escribió"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:carta"
+    ],
+    [
+      "PART",
+      "spa:larga"
+    ],
+    [
+      "PART",
+      "spa:pero"
+    ],
+    [
+      "PART",
+      "spa:él"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:leyó"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She wrote him a long letter, but he didn't read it"
+    ]
+  ]
+}

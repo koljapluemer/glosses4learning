@@ -1,0 +1,31 @@
+{
+  "content": "Dokuza çeyrek var.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:43:14.836537Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Dokuza"
+    ],
+    [
+      "PART",
+      "tur:çeyrek"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es ist Viertel vor neun"
+    ]
+  ]
+}

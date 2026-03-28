@@ -1,0 +1,43 @@
+{
+  "content": "Hanno detto che Mary era felice.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:24:06.516733Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Hanno"
+    ],
+    [
+      "PART",
+      "ita:detto"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:felice"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They said Mary was happy"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Questo cane è brutto.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:17:19.770121Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Questo"
+    ],
+    [
+      "PART",
+      "ita:cane"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:brutto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This dog is ugly"
+    ]
+  ]
+}

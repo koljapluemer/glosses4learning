@@ -1,0 +1,35 @@
+{
+  "content": "Il portait une casquette.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:23:29.721542Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Il"
+    ],
+    [
+      "PART",
+      "fra:portait"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:casquette"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He was wearing a cap"
+    ]
+  ]
+}

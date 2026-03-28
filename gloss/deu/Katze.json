@@ -1,0 +1,32 @@
+{
+  "content": "Katze",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:29:03.782640Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie hat eine Katze und zwei Hunde"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat eine Katze"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kedisi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cat"
+    ],
+    [
+      "TRANSLATION",
+      "eng:kitten"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom Mary ile konuşmayı bırakamadı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:24.313454Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:ile"
+    ],
+    [
+      "PART",
+      "tur:konuşmayı"
+    ],
+    [
+      "PART",
+      "tur:bırakamadı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom couldn't stop talking to Mary"
+    ]
+  ]
+}

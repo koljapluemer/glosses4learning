@@ -1,0 +1,43 @@
+{
+  "content": "Mary non ha nessuno ad aiutarla.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:17:26.217499Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:nessuno"
+    ],
+    [
+      "PART",
+      "ita:ad"
+    ],
+    [
+      "PART",
+      "ita:aiutarla"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary doesn't have anybody to help her"
+    ]
+  ]
+}

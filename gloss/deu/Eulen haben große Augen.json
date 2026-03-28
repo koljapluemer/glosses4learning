@@ -1,0 +1,35 @@
+{
+  "content": "Eulen haben große Augen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:20:46.810659Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Eulen"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:große"
+    ],
+    [
+      "PART",
+      "deu:Augen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Baykuşların büyük gözleri olur"
+    ]
+  ]
+}

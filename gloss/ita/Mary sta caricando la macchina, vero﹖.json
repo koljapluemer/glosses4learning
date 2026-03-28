@@ -1,0 +1,43 @@
+{
+  "content": "Mary sta caricando la macchina, vero?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:22:23.740562Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:sta"
+    ],
+    [
+      "PART",
+      "ita:caricando"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:macchina"
+    ],
+    [
+      "PART",
+      "ita:vero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary is loading the car, isn't she﹖"
+    ]
+  ]
+}

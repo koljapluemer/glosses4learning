@@ -1,0 +1,35 @@
+{
+  "content": "Con chi ci andrà?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:56:35.323055Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Con"
+    ],
+    [
+      "PART",
+      "ita:chi"
+    ],
+    [
+      "PART",
+      "ita:ci"
+    ],
+    [
+      "PART",
+      "ita:andrà"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Who are you going with﹖"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom çok yavaş araç kullanıyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:52.762432Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:çok"
+    ],
+    [
+      "PART",
+      "tur:yavaş"
+    ],
+    [
+      "PART",
+      "tur:araç"
+    ],
+    [
+      "PART",
+      "tur:kullanıyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is driving too slow"
+    ]
+  ]
+}

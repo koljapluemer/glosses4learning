@@ -1,0 +1,51 @@
+{
+  "content": "Tom voleva sapere perché Mary non era felice.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:10:41.235217Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:voleva"
+    ],
+    [
+      "PART",
+      "ita:sapere"
+    ],
+    [
+      "PART",
+      "ita:perché"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:felice"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom wanted to know why Mary was not happy"
+    ]
+  ]
+}

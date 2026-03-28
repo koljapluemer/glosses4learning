@@ -1,0 +1,43 @@
+{
+  "content": "A Henrietta non piacciono i gatti.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:40:46.987109Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Henrietta"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piacciono"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:gatti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Henrietta doesn't like cats"
+    ]
+  ]
+}

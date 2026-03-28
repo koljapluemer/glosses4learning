@@ -1,0 +1,33 @@
+{
+  "content": "Boston'da",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:08:38.704631Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:03.188722Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Boston'da kalıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:in Boston"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zu Boston"
+    ],
+    [
+      "TRANSLATION",
+      "eng:in Boston"
+    ],
+    [
+      "TRANSLATION",
+      "eng:at Boston"
+    ]
+  ]
+}

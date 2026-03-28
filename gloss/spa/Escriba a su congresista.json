@@ -1,0 +1,35 @@
+{
+  "content": "Escriba a su congresista.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:10.866818Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Escriba"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:su"
+    ],
+    [
+      "PART",
+      "spa:congresista"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Write your congressman"
+    ]
+  ]
+}

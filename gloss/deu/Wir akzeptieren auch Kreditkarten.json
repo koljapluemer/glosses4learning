@@ -1,0 +1,33 @@
+{
+  "content": "Wir akzeptieren auch Kreditkarten.",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.881805Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:akzeptieren"
+    ],
+    [
+      "PART",
+      "deu:auch"
+    ],
+    [
+      "PART",
+      "deu:Kreditkarten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We also accept credit cards"
+    ]
+  ]
+}

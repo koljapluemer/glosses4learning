@@ -1,0 +1,50 @@
+{
+  "content": "morning",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T13:52:07.925829Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-12T14:07:52.514376Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:08:34.837254Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:10:58.699758Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:11:42.044139Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:19:10.511005Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:lisaanmasry-word-translation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:morning"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mattino"
+    ],
+    [
+      "TRANSLATION",
+      "arz:اِلصُبح"
+    ],
+    [
+      "TRANSLATION",
+      "arz:الصبح"
+    ],
+    [
+      "TRANSLATION",
+      "deu:morgen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:günaydın"
+    ]
+  ]
+}

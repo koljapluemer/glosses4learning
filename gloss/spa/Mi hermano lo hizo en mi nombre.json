@@ -1,0 +1,47 @@
+{
+  "content": "Mi hermano lo hizo en mi nombre.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:21:54.964468Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Mi"
+    ],
+    [
+      "PART",
+      "spa:hermano"
+    ],
+    [
+      "PART",
+      "spa:lo"
+    ],
+    [
+      "PART",
+      "spa:hizo"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:mi"
+    ],
+    [
+      "PART",
+      "spa:nombre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My brother did it on my behalf"
+    ]
+  ]
+}

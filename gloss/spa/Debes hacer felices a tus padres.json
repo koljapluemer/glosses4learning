@@ -1,0 +1,43 @@
+{
+  "content": "Debes hacer felices a tus padres.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:16:33.957268Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Debes"
+    ],
+    [
+      "PART",
+      "spa:hacer"
+    ],
+    [
+      "PART",
+      "spa:felices"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:tus"
+    ],
+    [
+      "PART",
+      "spa:padres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You must make your parents happy"
+    ]
+  ]
+}

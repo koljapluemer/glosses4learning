@@ -1,0 +1,39 @@
+{
+  "content": "Das entspricht dem gesunden Menschenverstand.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:19:33.179937Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Das"
+    ],
+    [
+      "PART",
+      "deu:entspricht"
+    ],
+    [
+      "PART",
+      "deu:dem"
+    ],
+    [
+      "PART",
+      "deu:gesunden"
+    ],
+    [
+      "PART",
+      "deu:Menschenverstand"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bu sağduyu"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "A Mary mancava suo figlio.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:43:19.618509Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:mancava"
+    ],
+    [
+      "PART",
+      "ita:suo"
+    ],
+    [
+      "PART",
+      "ita:figlio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary missed her son"
+    ]
+  ]
+}

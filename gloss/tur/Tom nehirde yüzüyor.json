@@ -1,0 +1,35 @@
+{
+  "content": "Tom nehirde yüzüyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:25:54.314031Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:nehir"
+    ],
+    [
+      "PART",
+      "tur:de"
+    ],
+    [
+      "PART",
+      "tur:yüzüyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom schwimmt im Fluss"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "content": "Wie kann ich ___ auf Deutsch ausdrücken?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-19T10:12:04.334Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wie"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:Deutsch"
+    ],
+    [
+      "PART",
+      "deu:ausdrücken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask how to express ___ in the target language"
+    ]
+  ]
+}

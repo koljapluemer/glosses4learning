@@ -1,0 +1,32 @@
+{
+  "content": "palabra",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-22T15:44:13.333971Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él sería la última persona en romper su palabra"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella no pudo entender ni una sola palabra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:word"
+    ],
+    [
+      "TRANSLATION",
+      "eng:term"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speech"
+    ]
+  ]
+}

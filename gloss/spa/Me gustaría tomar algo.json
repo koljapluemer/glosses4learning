@@ -1,0 +1,35 @@
+{
+  "content": "Me gustaría tomar algo.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:10:34.179712Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:gustaría"
+    ],
+    [
+      "PART",
+      "spa:tomar"
+    ],
+    [
+      "PART",
+      "spa:algo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'd like something to drink"
+    ]
+  ]
+}

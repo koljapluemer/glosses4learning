@@ -1,0 +1,48 @@
+{
+  "content": "Jakie jest twoje ulubione miejsce w mieście?",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T14:19:11.300Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jakie"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:twoje"
+    ],
+    [
+      "PART",
+      "pol:ulubione"
+    ],
+    [
+      "PART",
+      "pol:miejsce"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:mieście"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask a stranger about their favorite place in the city"
+    ]
+  ]
+}

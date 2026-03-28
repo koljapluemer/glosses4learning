@@ -1,0 +1,51 @@
+{
+  "content": "Nous devons nous assurer que ceci est vrai.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:07.041138Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Nous"
+    ],
+    [
+      "PART",
+      "fra:devons"
+    ],
+    [
+      "PART",
+      "fra:nous"
+    ],
+    [
+      "PART",
+      "fra:assurer"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:ceci"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:vrai"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We need to make sure that this is true"
+    ]
+  ]
+}

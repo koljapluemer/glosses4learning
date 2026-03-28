@@ -1,0 +1,48 @@
+{
+  "content": "Wo finde ich den besten Weihnachtsmarkt hier?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-20T14:20:10.244Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wo"
+    ],
+    [
+      "PART",
+      "deu:finde"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:den"
+    ],
+    [
+      "PART",
+      "deu:besten"
+    ],
+    [
+      "PART",
+      "deu:Weihnachtsmarkt"
+    ],
+    [
+      "PART",
+      "deu:hier"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask for the best christmas market in town"
+    ]
+  ]
+}

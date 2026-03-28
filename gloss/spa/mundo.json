@@ -1,0 +1,28 @@
+{
+  "content": "mundo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-22T15:44:11.096679Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esta es la forma en que el mundo termina. No con una explosión sino con un gemido"
+    ],
+    [
+      "TRANSLATION",
+      "eng:world"
+    ],
+    [
+      "TRANSLATION",
+      "eng:earth"
+    ],
+    [
+      "TRANSLATION",
+      "eng:universe"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Ismini",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:08:52.084546Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:26.331879Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ismini sevdim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dein Name"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dein Vorname"
+    ],
+    [
+      "TRANSLATION",
+      "eng:her name"
+    ],
+    [
+      "TRANSLATION",
+      "eng:his name"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tengo una revista en mi pieza.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:22:04.349739Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Tengo"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:revista"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:mi"
+    ],
+    [
+      "PART",
+      "spa:pieza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have a magazine in my room"
+    ]
+  ]
+}

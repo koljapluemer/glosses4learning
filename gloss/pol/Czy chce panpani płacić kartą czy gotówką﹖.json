@@ -1,0 +1,60 @@
+{
+  "content": "Czy chce pan/pani płacić kartą czy gotówką?",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:chce"
+    ],
+    [
+      "PART",
+      "pol:pan"
+    ],
+    [
+      "PART",
+      "pol:pani"
+    ],
+    [
+      "PART",
+      "pol:płacić"
+    ],
+    [
+      "PART",
+      "pol:kartą"
+    ],
+    [
+      "PART",
+      "pol:czy"
+    ],
+    [
+      "PART",
+      "pol:gotówką"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Would you like to pay by card or in cash﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you want to pay with a card or cash﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Would you prefer to pay by card or cash﹖"
+    ]
+  ]
+}

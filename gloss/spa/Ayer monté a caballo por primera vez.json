@@ -1,0 +1,47 @@
+{
+  "content": "Ayer monté a caballo por primera vez.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:16:30.706058Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ayer"
+    ],
+    [
+      "PART",
+      "spa:monté"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:caballo"
+    ],
+    [
+      "PART",
+      "spa:por"
+    ],
+    [
+      "PART",
+      "spa:primera"
+    ],
+    [
+      "PART",
+      "spa:vez"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I rode a horse for the first time yesterday"
+    ]
+  ]
+}

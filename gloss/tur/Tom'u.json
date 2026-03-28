@@ -1,0 +1,33 @@
+{
+  "content": "Tom'u",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:10.211678Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:50.708176Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Dünden beri Tom'u görmedim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tommy"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom's"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of Tom"
+    ]
+  ]
+}

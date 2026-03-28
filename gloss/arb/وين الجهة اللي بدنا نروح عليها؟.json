@@ -1,0 +1,37 @@
+{
+  "content": "وين الجهة اللي بدنا نروح عليها؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T14:51:26.305Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:وين"
+    ],
+    [
+      "PART",
+      "arb:الجهة"
+    ],
+    [
+      "PART",
+      "arb:بدنا نروح"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Where is the direction we want to go﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Which way are we heading﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Where are we going﹖"
+    ]
+  ]
+}

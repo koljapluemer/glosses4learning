@@ -1,0 +1,47 @@
+{
+  "content": "Ich möchte diese Passage für dich zusammenfassen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:30.847029Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:möchte"
+    ],
+    [
+      "PART",
+      "deu:diese"
+    ],
+    [
+      "PART",
+      "deu:Passage"
+    ],
+    [
+      "PART",
+      "deu:für"
+    ],
+    [
+      "PART",
+      "deu:dich"
+    ],
+    [
+      "PART",
+      "deu:zusammenfassen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bu pasajı senin için özetlemek istiyorum"
+    ]
+  ]
+}

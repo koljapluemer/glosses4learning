@@ -1,0 +1,31 @@
+{
+  "content": "Me solum relinquas!",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Leave me alone!"
+    ],
+    [
+      "PART",
+      "lat:Me"
+    ],
+    [
+      "PART",
+      "lat:solum"
+    ],
+    [
+      "PART",
+      "lat:relinquas"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:32:34.461896Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "عندي قاموس منيح.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:20.773062Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:عندي"
+    ],
+    [
+      "PART",
+      "apc:قاموس"
+    ],
+    [
+      "PART",
+      "apc:منيح"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have a good dictionary"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "uzun",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:26.226138Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:38.428627Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Neden bu kadar uzun düşünüyorsun﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lang"
+    ],
+    [
+      "TRANSLATION",
+      "deu:langwierig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:long"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tall"
+    ]
+  ]
+}

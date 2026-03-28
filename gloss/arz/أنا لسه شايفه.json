@@ -1,0 +1,31 @@
+{
+  "content": "أنا لسه شايفه.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:19:43.149410Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:أنا"
+    ],
+    [
+      "PART",
+      "arz:لسه"
+    ],
+    [
+      "PART",
+      "arz:شايفه"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I just saw him"
+    ]
+  ]
+}

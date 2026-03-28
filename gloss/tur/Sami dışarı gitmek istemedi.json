@@ -1,0 +1,35 @@
+{
+  "content": "Sami dışarı gitmek istemedi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:33.359607Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Sami"
+    ],
+    [
+      "PART",
+      "tur:dışarı"
+    ],
+    [
+      "PART",
+      "tur:gitmek"
+    ],
+    [
+      "PART",
+      "tur:istemedi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sami didn't want to go outside"
+    ]
+  ]
+}

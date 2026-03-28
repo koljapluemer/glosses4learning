@@ -1,0 +1,39 @@
+{
+  "content": "Un crimine è stato commesso.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:25:00.030651Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Un"
+    ],
+    [
+      "PART",
+      "ita:crimine"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:stato"
+    ],
+    [
+      "PART",
+      "ita:commesso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:A crime has been committed"
+    ]
+  ]
+}

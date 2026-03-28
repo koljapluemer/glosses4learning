@@ -1,0 +1,31 @@
+{
+  "content": "كان في مرّة...",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:22.518388Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:كان"
+    ],
+    [
+      "PART",
+      "apc:في"
+    ],
+    [
+      "PART",
+      "apc:مرّة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Once upon a time"
+    ]
+  ]
+}

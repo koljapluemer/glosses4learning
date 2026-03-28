@@ -1,0 +1,43 @@
+{
+  "content": "Noi studiamo tutti i giorni inglese.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:04:42.214217Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Noi"
+    ],
+    [
+      "PART",
+      "ita:studiamo"
+    ],
+    [
+      "PART",
+      "ita:tutti"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:giorni"
+    ],
+    [
+      "PART",
+      "ita:inglese"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We study English every day"
+    ]
+  ]
+}

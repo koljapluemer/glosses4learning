@@ -1,0 +1,35 @@
+{
+  "content": "Noi terremo una festa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:17:49.715276Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Noi"
+    ],
+    [
+      "PART",
+      "ita:terremo"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:festa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We'll have a party"
+    ]
+  ]
+}

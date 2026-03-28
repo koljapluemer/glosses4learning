@@ -1,0 +1,39 @@
+{
+  "content": "Orman alanı üç sektöre ayrıldı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:54:03.877625Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:orman"
+    ],
+    [
+      "PART",
+      "tur:alan"
+    ],
+    [
+      "PART",
+      "tur:üç"
+    ],
+    [
+      "PART",
+      "tur:sektör"
+    ],
+    [
+      "PART",
+      "tur:ayrıldı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Die Waldfläche war in drei Sektoren unterteilt"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "content": "كنت في المستشفى.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:21:35.469429Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:كنت"
+    ],
+    [
+      "PART",
+      "arz:في"
+    ],
+    [
+      "PART",
+      "arz:المستشفى"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was in the hospital"
+    ]
+  ]
+}

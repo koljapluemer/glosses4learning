@@ -1,0 +1,35 @@
+{
+  "content": "Leyla türbanını çıkarmayı düşünüyordu.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SadeceTurkce (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:36:28.301153Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Leyla"
+    ],
+    [
+      "PART",
+      "tur:türban"
+    ],
+    [
+      "PART",
+      "tur:çıkarmak"
+    ],
+    [
+      "PART",
+      "tur:düşünmek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Layla was thinking about taking her hijab off"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "dir",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:11.345288Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:17:20.304311Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Öğrencinin arabası eskidir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zu dir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you exist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you have"
+    ]
+  ]
+}

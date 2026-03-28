@@ -1,0 +1,51 @@
+{
+  "content": "Die letzten Bücher wurden vor einer Woche verkauft.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:09:14.622987Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Die"
+    ],
+    [
+      "PART",
+      "deu:letzten"
+    ],
+    [
+      "PART",
+      "deu:Bücher"
+    ],
+    [
+      "PART",
+      "deu:wurden"
+    ],
+    [
+      "PART",
+      "deu:vor"
+    ],
+    [
+      "PART",
+      "deu:einer"
+    ],
+    [
+      "PART",
+      "deu:Woche"
+    ],
+    [
+      "PART",
+      "deu:verkauft"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Son kitaplar bir hafta önce satıldı"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Ich muss tanken.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:18:35.011860Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:muss"
+    ],
+    [
+      "PART",
+      "deu:tanken"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Benzin almak zorundayım"
+    ]
+  ]
+}

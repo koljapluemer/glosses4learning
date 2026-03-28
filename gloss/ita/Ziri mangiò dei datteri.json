@@ -1,0 +1,35 @@
+{
+  "content": "Ziri mangiò dei datteri.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:21:30.454739Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ziri"
+    ],
+    [
+      "PART",
+      "ita:mangiò"
+    ],
+    [
+      "PART",
+      "ita:dei"
+    ],
+    [
+      "PART",
+      "ita:datteri"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ziri ate dates"
+    ]
+  ]
+}

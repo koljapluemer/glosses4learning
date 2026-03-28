@@ -1,0 +1,39 @@
+{
+  "content": "Con chi stava parlando Tom?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:56:25.779416Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Con"
+    ],
+    [
+      "PART",
+      "ita:chi"
+    ],
+    [
+      "PART",
+      "ita:stava"
+    ],
+    [
+      "PART",
+      "ita:parlando"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Who was Tom talking to﹖"
+    ]
+  ]
+}

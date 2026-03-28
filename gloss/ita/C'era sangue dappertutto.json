@@ -1,0 +1,35 @@
+{
+  "content": "C'era sangue dappertutto.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:17:17.987664Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:C'era__split2"
+    ],
+    [
+      "PART",
+      "ita:sangue"
+    ],
+    [
+      "PART",
+      "ita:dappertutto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Blood was everywhere"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There was blood everywhere"
+    ]
+  ]
+}

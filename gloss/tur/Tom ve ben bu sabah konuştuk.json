@@ -1,0 +1,43 @@
+{
+  "content": "Tom ve ben bu sabah konuştuk.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:51.313863Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:ve"
+    ],
+    [
+      "PART",
+      "tur:ben"
+    ],
+    [
+      "PART",
+      "tur:bu"
+    ],
+    [
+      "PART",
+      "tur:sabah"
+    ],
+    [
+      "PART",
+      "tur:konuştuk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom and I talked this morning"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom corse per prendere l'ultimo treno.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:18:03.700040Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:corse"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:prendere"
+    ],
+    [
+      "PART",
+      "ita:l'ultimo"
+    ],
+    [
+      "PART",
+      "ita:treno"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom ran to catch the last train"
+    ]
+  ]
+}

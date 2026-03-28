@@ -1,0 +1,39 @@
+{
+  "content": "ثبّتنا السعر على خمستاشر دُلَر.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:20:10.282091Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:ثبّتنا"
+    ],
+    [
+      "PART",
+      "arz:السعر"
+    ],
+    [
+      "PART",
+      "arz:على"
+    ],
+    [
+      "PART",
+      "arz:خمستاشر"
+    ],
+    [
+      "PART",
+      "arz:دُلَر"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We fixed the price at $15"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Maria schlug mit ihrer Faust gegen die Wand.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:07.929821Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:schlug"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:ihrer"
+    ],
+    [
+      "PART",
+      "deu:Faust"
+    ],
+    [
+      "PART",
+      "deu:gegen"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Wand"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Maria sloch me höör Fest töögen di Wuch"
+    ]
+  ]
+}

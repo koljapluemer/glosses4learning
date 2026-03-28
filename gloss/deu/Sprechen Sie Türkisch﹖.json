@@ -1,0 +1,31 @@
+{
+  "content": "Sprechen Sie Türkisch?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:09.252082Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Sprechen"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:Türkisch"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Türkçe konuşur musunuz﹖"
+    ]
+  ]
+}

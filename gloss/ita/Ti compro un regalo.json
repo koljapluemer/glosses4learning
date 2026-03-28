@@ -1,0 +1,35 @@
+{
+  "content": "Ti compro un regalo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:14:56.630682Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ti"
+    ],
+    [
+      "PART",
+      "ita:compro"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:regalo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I buy you a present"
+    ]
+  ]
+}

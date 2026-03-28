@@ -1,0 +1,47 @@
+{
+  "content": "Mary mi disse che non aveva fame.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:19:15.623069Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:mi"
+    ],
+    [
+      "PART",
+      "ita:disse"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:aveva"
+    ],
+    [
+      "PART",
+      "ita:fame"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary told me that she wasn't hungry"
+    ]
+  ]
+}

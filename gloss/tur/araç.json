@@ -1,0 +1,37 @@
+{
+  "content": "araç",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:53:41.397993Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:12.209249Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom çok yavaş araç kullanıyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vehicle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tool"
+    ],
+    [
+      "TRANSLATION",
+      "eng:means"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fahrzeug"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auto"
+    ]
+  ]
+}

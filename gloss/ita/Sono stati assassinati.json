@@ -1,0 +1,31 @@
+{
+  "content": "Sono stati assassinati.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:02:17.974035Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono__split3"
+    ],
+    [
+      "PART",
+      "ita:stati"
+    ],
+    [
+      "PART",
+      "ita:assassinati"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They were murdered"
+    ]
+  ]
+}

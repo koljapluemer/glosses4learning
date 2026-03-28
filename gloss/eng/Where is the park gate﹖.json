@@ -1,0 +1,27 @@
+{
+  "content": "Where is the park gate?",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "eng:Where is"
+    ],
+    [
+      "PART",
+      "eng:the park"
+    ],
+    [
+      "PART",
+      "eng:gate"
+    ],
+    [
+      "TRANSLATION",
+      "arb:وين بوابة الحديقة؟"
+    ]
+  ]
+}

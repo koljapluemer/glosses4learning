@@ -1,0 +1,39 @@
+{
+  "content": "Ho lasciato Tom in casa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:12:35.462571Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ho"
+    ],
+    [
+      "PART",
+      "ita:lasciato"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:casa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I let Tom in the house"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "content": "knjiga",
+  "language": "hrv",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hrv:Ovo je knjiga"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book"
+    ],
+    [
+      "TRANSLATION",
+      "eng:volume"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:32:53.232693Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "çay",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:35:33.314868Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:37:23.442777Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Soğuk bir duş yap ve sonra sıcak bir çay iç!"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tee"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwarztee"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tea"
+    ],
+    [
+      "TRANSLATION",
+      "eng:chai"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "albümü",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:16:01.967379Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:33:46.202976Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:album"
+    ],
+    [
+      "TRANSLATION",
+      "eng:record"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Album"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Platte"
+    ]
+  ]
+}

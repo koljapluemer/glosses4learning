@@ -1,0 +1,35 @@
+{
+  "content": "Taxi, segui quella macchina.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:53.541847Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Taxi"
+    ],
+    [
+      "PART",
+      "ita:segui"
+    ],
+    [
+      "PART",
+      "ita:quella"
+    ],
+    [
+      "PART",
+      "ita:macchina"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Taxi, follow that car"
+    ]
+  ]
+}

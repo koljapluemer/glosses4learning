@@ -1,0 +1,39 @@
+{
+  "content": "Mary è una rammollita, vero?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:58:28.669815Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:rammollita"
+    ],
+    [
+      "PART",
+      "ita:vero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary is a wimp, isn't she﹖"
+    ]
+  ]
+}

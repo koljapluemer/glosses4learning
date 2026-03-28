@@ -1,0 +1,39 @@
+{
+  "content": "Eso ocurrió hace mucho tiempo.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:38.990533Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Eso"
+    ],
+    [
+      "PART",
+      "spa:ocurrió"
+    ],
+    [
+      "PART",
+      "spa:hace"
+    ],
+    [
+      "PART",
+      "spa:mucho"
+    ],
+    [
+      "PART",
+      "spa:tiempo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It happened a long time ago"
+    ]
+  ]
+}

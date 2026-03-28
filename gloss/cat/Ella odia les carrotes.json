@@ -1,0 +1,35 @@
+{
+  "content": "Ella odia les carrotes.",
+  "language": "cat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mialiesperantistas (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She hates carrots"
+    ],
+    [
+      "PART",
+      "cat:Ella"
+    ],
+    [
+      "PART",
+      "cat:odia"
+    ],
+    [
+      "PART",
+      "cat:les"
+    ],
+    [
+      "PART",
+      "cat:carrotes"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:25:16.191508Z": "SPLIT_DONE"
+  }
+}

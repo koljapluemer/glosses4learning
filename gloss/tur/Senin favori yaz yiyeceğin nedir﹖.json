@@ -1,0 +1,39 @@
+{
+  "content": "Senin favori yaz yiyeceğin nedir?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:39.520123Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Senin"
+    ],
+    [
+      "PART",
+      "tur:favori"
+    ],
+    [
+      "PART",
+      "tur:yaz"
+    ],
+    [
+      "PART",
+      "tur:yiyecek"
+    ],
+    [
+      "PART",
+      "tur:nedir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What's your favorite summer food﹖"
+    ]
+  ]
+}

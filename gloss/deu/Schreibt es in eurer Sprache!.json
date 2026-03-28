@@ -1,0 +1,39 @@
+{
+  "content": "Schreibt es in eurer Sprache!",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:38.287022Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Schreibt"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:eurer"
+    ],
+    [
+      "PART",
+      "deu:Sprache"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Write it in your language!"
+    ]
+  ]
+}

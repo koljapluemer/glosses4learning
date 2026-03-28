@@ -1,0 +1,26 @@
+{
+  "content": "zusammen",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T13:52:07.928337Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-12T14:20:36.929513Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was macht das alles zusammen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:together"
+    ],
+    [
+      "TRANSLATION",
+      "epo:kun"
+    ]
+  ]
+}

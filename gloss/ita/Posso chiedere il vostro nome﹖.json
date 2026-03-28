@@ -1,0 +1,39 @@
+{
+  "content": "Posso chiedere il vostro nome?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:57:52.820761Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Posso__split2"
+    ],
+    [
+      "PART",
+      "ita:chiedere"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:vostro"
+    ],
+    [
+      "PART",
+      "ita:nome"
+    ],
+    [
+      "TRANSLATION",
+      "eng:May I ask your name﹖"
+    ]
+  ]
+}

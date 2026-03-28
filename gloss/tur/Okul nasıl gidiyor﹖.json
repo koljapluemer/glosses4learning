@@ -1,0 +1,31 @@
+{
+  "content": "Okul nasıl gidiyor?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:13:17.397151Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Okul"
+    ],
+    [
+      "PART",
+      "tur:nasıl"
+    ],
+    [
+      "PART",
+      "tur:gidiyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie geht es in der Schule﹖"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "olamayacağımı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:43.504686Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:35.781199Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Artık kimseye aşık olamayacağımı biliyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich kann nicht"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich werde nicht können"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I won't be able to"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I cannot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will not be able to"
+    ]
+  ]
+}

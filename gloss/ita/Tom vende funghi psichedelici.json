@@ -1,0 +1,35 @@
+{
+  "content": "Tom vende funghi psichedelici.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:07:38.534013Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:vende"
+    ],
+    [
+      "PART",
+      "ita:funghi"
+    ],
+    [
+      "PART",
+      "ita:psichedelici"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom sells psychedelic mushrooms"
+    ]
+  ]
+}

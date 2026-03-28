@@ -1,0 +1,43 @@
+{
+  "content": "Tom è diverso dagli altri ragazzi.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:07:42.039682Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:diverso"
+    ],
+    [
+      "PART",
+      "ita:dagli"
+    ],
+    [
+      "PART",
+      "ita:altri"
+    ],
+    [
+      "PART",
+      "ita:ragazzi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is different from other boys"
+    ]
+  ]
+}

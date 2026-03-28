@@ -1,0 +1,52 @@
+{
+  "content": "Potrzebuję pomocy przy tankowaniu, czy możesz mi pomóc?",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T14:16:14.490Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Potrzebuję"
+    ],
+    [
+      "PART",
+      "pol:pomocy"
+    ],
+    [
+      "PART",
+      "pol:przy"
+    ],
+    [
+      "PART",
+      "pol:tankowaniu"
+    ],
+    [
+      "PART",
+      "pol:czy"
+    ],
+    [
+      "PART",
+      "pol:możesz"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:pomóc"
+    ],
+    [
+      "TRANSLATION",
+      "eng:request assistance with filling up the gas tank"
+    ]
+  ]
+}

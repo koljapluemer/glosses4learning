@@ -1,0 +1,43 @@
+{
+  "content": "Tom sarebbe dovuto venire alla riunione.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:59:46.134027Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:sarebbe"
+    ],
+    [
+      "PART",
+      "ita:dovuto"
+    ],
+    [
+      "PART",
+      "ita:venire"
+    ],
+    [
+      "PART",
+      "ita:alla"
+    ],
+    [
+      "PART",
+      "ita:riunione"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom should've come to the meeting"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ehi, Tom, dimentica le tue paure.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:23:01.347591Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ehi__split2"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:dimentica"
+    ],
+    [
+      "PART",
+      "ita:le"
+    ],
+    [
+      "PART",
+      "ita:tue"
+    ],
+    [
+      "PART",
+      "ita:paure"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Hey, Tom, forget about your worries"
+    ]
+  ]
+}

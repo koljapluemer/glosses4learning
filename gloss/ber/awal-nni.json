@@ -1,0 +1,46 @@
+{
+  "content": "awal-nni",
+  "language": "ber",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ber:Yir awal-nni, ad as-tanef ɣur-s xir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my word"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my statement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my promise"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mon mot"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ma parole"
+    ],
+    [
+      "TRANSLATION",
+      "kab:monde"
+    ],
+    [
+      "TRANSLATION",
+      "kab:univers"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T10:28:41.744608Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T10:28:42.563951Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T10:28:44.206326Z": "TRANSLATION_DONE:kab"
+  }
+}

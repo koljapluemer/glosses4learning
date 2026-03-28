@@ -1,0 +1,33 @@
+{
+  "content": "ölecek",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:54.469059Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:19.725464Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sterben"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tot sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:will die"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to die"
+    ]
+  ]
+}

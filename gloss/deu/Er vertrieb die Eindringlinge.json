@@ -1,0 +1,35 @@
+{
+  "content": "Er vertrieb die Eindringlinge.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:20:19.329670Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Er"
+    ],
+    [
+      "PART",
+      "deu:vertrieb"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Eindringlinge"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He drove off the intruders"
+    ]
+  ]
+}

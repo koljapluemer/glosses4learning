@@ -1,0 +1,35 @@
+{
+  "content": "Mein Vater kannte ihn.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:09.341110Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Mein"
+    ],
+    [
+      "PART",
+      "deu:Vater"
+    ],
+    [
+      "PART",
+      "deu:kannte"
+    ],
+    [
+      "PART",
+      "deu:ihn"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Babam onu ​​tanıyordu"
+    ]
+  ]
+}

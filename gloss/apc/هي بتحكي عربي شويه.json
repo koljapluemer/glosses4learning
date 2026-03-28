@@ -1,0 +1,35 @@
+{
+  "content": "هي بتحكي عربي شويه.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:30.602540Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:هي"
+    ],
+    [
+      "PART",
+      "apc:بتحكي"
+    ],
+    [
+      "PART",
+      "apc:عربي"
+    ],
+    [
+      "PART",
+      "apc:شويه"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She speaks a little Arabic"
+    ]
+  ]
+}

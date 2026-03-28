@@ -1,0 +1,39 @@
+{
+  "content": "A Malta parlano il maltese.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:17.988151Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Malta"
+    ],
+    [
+      "PART",
+      "ita:parlano"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:maltese"
+    ],
+    [
+      "TRANSLATION",
+      "eng:In Malta they speak Maltese"
+    ]
+  ]
+}

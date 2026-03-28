@@ -1,0 +1,47 @@
+{
+  "content": "Meine Mutter spricht nicht sehr gut Englisch.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:11.100546Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Mutter"
+    ],
+    [
+      "PART",
+      "deu:spricht"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:sehr"
+    ],
+    [
+      "PART",
+      "deu:gut"
+    ],
+    [
+      "PART",
+      "deu:Englisch"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Annem İngilizceyi pek iyi konuşmaz"
+    ]
+  ]
+}

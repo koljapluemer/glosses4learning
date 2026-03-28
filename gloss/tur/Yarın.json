@@ -1,0 +1,33 @@
+{
+  "content": "Yarın",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:15:55.722736Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:33:44.040221Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yarın pazar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tomorrow"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The day after today"
+    ],
+    [
+      "TRANSLATION",
+      "deu:morgen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:am morgen"
+    ]
+  ]
+}

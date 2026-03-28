@@ -1,0 +1,41 @@
+{
+  "content": "Vielen Dank! Einen schönen Tag noch!",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.925483Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Vielen"
+    ],
+    [
+      "PART",
+      "deu:Dank"
+    ],
+    [
+      "PART",
+      "deu:Einen"
+    ],
+    [
+      "PART",
+      "deu:sch36nen"
+    ],
+    [
+      "PART",
+      "deu:Tag"
+    ],
+    [
+      "PART",
+      "deu:noch"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Thank you very much! Have a nice day!"
+    ]
+  ]
+}

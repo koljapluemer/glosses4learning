@@ -1,0 +1,47 @@
+{
+  "content": "La pizza sabe diferente cuando está fría.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:47:04.839421Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:La"
+    ],
+    [
+      "PART",
+      "spa:pizza"
+    ],
+    [
+      "PART",
+      "spa:sabe"
+    ],
+    [
+      "PART",
+      "spa:diferente"
+    ],
+    [
+      "PART",
+      "spa:cuando"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:fría"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Pizza tastes different when it's cold"
+    ]
+  ]
+}

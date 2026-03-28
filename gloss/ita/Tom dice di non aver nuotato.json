@@ -1,0 +1,43 @@
+{
+  "content": "Tom dice di non aver nuotato.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:15:04.861812Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:dice"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:aver"
+    ],
+    [
+      "PART",
+      "ita:nuotato"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom says he didn't swim"
+    ]
+  ]
+}

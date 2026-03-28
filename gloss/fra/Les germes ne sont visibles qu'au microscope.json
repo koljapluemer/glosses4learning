@@ -1,0 +1,51 @@
+{
+  "content": "Les germes ne sont visibles qu'au microscope.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:49:54.883647Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:germes"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:visibles"
+    ],
+    [
+      "PART",
+      "fra:qu'"
+    ],
+    [
+      "PART",
+      "fra:au"
+    ],
+    [
+      "PART",
+      "fra:microscope"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Germs are visible only under the microscope"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Loro sono fratello e sorella.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:17:57.229121Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Loro"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:fratello"
+    ],
+    [
+      "PART",
+      "ita:e"
+    ],
+    [
+      "PART",
+      "ita:sorella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They're brother and sister"
+    ]
+  ]
+}

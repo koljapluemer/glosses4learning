@@ -1,0 +1,35 @@
+{
+  "content": "فيهم يعملو هاد لحالهم.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:31.224292Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:فيهم"
+    ],
+    [
+      "PART",
+      "apc:يعملو"
+    ],
+    [
+      "PART",
+      "apc:هاد"
+    ],
+    [
+      "PART",
+      "apc:لحالهم"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They're able to do that on their own"
+    ]
+  ]
+}

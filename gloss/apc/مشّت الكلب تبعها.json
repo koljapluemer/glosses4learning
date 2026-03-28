@@ -1,0 +1,31 @@
+{
+  "content": "مشّت الكلب تبعها",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:28.457229Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:مشّت"
+    ],
+    [
+      "PART",
+      "apc:الكلب"
+    ],
+    [
+      "PART",
+      "apc:تبعها"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She took her dog for a walk"
+    ]
+  ]
+}

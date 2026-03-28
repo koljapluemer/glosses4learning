@@ -1,0 +1,33 @@
+{
+  "content": "golfçü",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:18:01.780475Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:34:30.326997Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom kötü bir golfçü"
+    ],
+    [
+      "TRANSLATION",
+      "eng:golfer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:golf player"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Golfer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Golfspieler"
+    ]
+  ]
+}

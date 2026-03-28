@@ -1,0 +1,39 @@
+{
+  "content": "Ich hatte es völlig vergessen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:13.850793Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:hatte"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:völlig"
+    ],
+    [
+      "PART",
+      "deu:vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tamamen unutmuşum"
+    ]
+  ]
+}

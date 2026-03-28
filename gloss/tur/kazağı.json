@@ -1,0 +1,33 @@
+{
+  "content": "kazağı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:18:58.700939Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:34:47.186627Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:O kazağı beğeniyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sweater"
+    ],
+    [
+      "TRANSLATION",
+      "eng:jumper"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pullover"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sweater"
+    ]
+  ]
+}

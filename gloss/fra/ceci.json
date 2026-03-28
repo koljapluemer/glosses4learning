@@ -1,0 +1,24 @@
+{
+  "content": "ceci",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:23:50.097691Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Nous devons nous assurer que ceci est vrai"
+    ],
+    [
+      "TRANSLATION",
+      "eng:this"
+    ],
+    [
+      "TRANSLATION",
+      "eng:it"
+    ]
+  ]
+}

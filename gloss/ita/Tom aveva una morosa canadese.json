@@ -1,0 +1,39 @@
+{
+  "content": "Tom aveva una morosa canadese.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:55:09.509878Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:aveva"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:morosa"
+    ],
+    [
+      "PART",
+      "ita:canadese"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom used to have a Canadian girlfriend"
+    ]
+  ]
+}

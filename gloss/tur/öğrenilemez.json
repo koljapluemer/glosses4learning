@@ -1,0 +1,37 @@
+{
+  "content": "öğrenilemez",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:59.901250Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:26.375828Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bir dil yeterince iyi öğrenilemez"
+    ],
+    [
+      "TRANSLATION",
+      "deu:unlernbare"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht erlernbar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:unlearnable"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cannot be learned"
+    ],
+    [
+      "TRANSLATION",
+      "eng:impossible to learn"
+    ]
+  ]
+}

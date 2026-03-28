@@ -1,0 +1,43 @@
+{
+  "content": "Questo ristorante ha tre stelle Michelin.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:13:10.216361Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Questo"
+    ],
+    [
+      "PART",
+      "ita:ristorante"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:tre"
+    ],
+    [
+      "PART",
+      "ita:stelle"
+    ],
+    [
+      "PART",
+      "ita:Michelin"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This restaurant has three Michelin stars"
+    ]
+  ]
+}

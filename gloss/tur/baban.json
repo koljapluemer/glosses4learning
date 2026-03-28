@@ -1,0 +1,33 @@
+{
+  "content": "baban",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:34.683919Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:30.640355Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben senin babanı tanıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vater"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Papa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:your father"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dad"
+    ]
+  ]
+}

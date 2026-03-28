@@ -1,0 +1,49 @@
+{
+  "content": "piece",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T13:52:07.941400Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-12T14:07:52.507784Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:08:34.844533Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:10:58.704955Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:11:42.051572Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:19:10.516629Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:lisaanmasry-word-translation"
+  ],
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:part"
+    ],
+    [
+      "TRANSLATION",
+      "eng:segment"
+    ],
+    [
+      "TRANSLATION",
+      "eng:portion"
+    ],
+    [
+      "TRANSLATION",
+      "eng:item"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fragment"
+    ],
+    [
+      "TRANSLATION",
+      "spa:pieza"
+    ],
+    [
+      "TRANSLATION",
+      "arz:حِتَّة"
+    ]
+  ]
+}

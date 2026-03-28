@@ -1,0 +1,39 @@
+{
+  "content": "Das Auto ist ziemlich neu.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:19:27.858854Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Das"
+    ],
+    [
+      "PART",
+      "deu:Auto"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:ziemlich"
+    ],
+    [
+      "PART",
+      "deu:neu"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Di Wain es temelk nii"
+    ]
+  ]
+}

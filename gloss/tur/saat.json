@@ -1,0 +1,41 @@
+{
+  "content": "saat",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:19:59.726401Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:35:03.925799Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Altmışlık sayı sistemi Babil devletinde uygulandı, bunun sonucunda bir saatte 60 dakika ve günde 24 saat var"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Şimdi saat kaç﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hour"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clock"
+    ],
+    [
+      "TRANSLATION",
+      "eng:time"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Uhr"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stunde"
+    ]
+  ]
+}

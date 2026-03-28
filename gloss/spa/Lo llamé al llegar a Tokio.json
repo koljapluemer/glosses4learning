@@ -1,0 +1,43 @@
+{
+  "content": "Lo llamé al llegar a Tokio.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:21.516609Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Lo"
+    ],
+    [
+      "PART",
+      "spa:llamé"
+    ],
+    [
+      "PART",
+      "spa:al"
+    ],
+    [
+      "PART",
+      "spa:llegar"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:Tokio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:On arriving in Tokyo, I called him up"
+    ]
+  ]
+}

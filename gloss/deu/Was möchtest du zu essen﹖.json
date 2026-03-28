@@ -1,0 +1,39 @@
+{
+  "content": "Was möchtest du zu essen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:26:18.260772Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Was"
+    ],
+    [
+      "PART",
+      "deu:möchtest"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:essen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Öğle yemeği için ne istersin﹖"
+    ]
+  ]
+}

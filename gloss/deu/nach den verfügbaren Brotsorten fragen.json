@@ -1,0 +1,27 @@
+{
+  "content": "nach den verfügbaren Brotsorten fragen",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.923198Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:nach"
+    ],
+    [
+      "PART",
+      "deu:verfügbaren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inquire about the types of bread available"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask about the available types of bread"
+    ]
+  ]
+}

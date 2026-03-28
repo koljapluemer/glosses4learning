@@ -1,0 +1,37 @@
+{
+  "content": "şarkı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:13:05.529175Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:37.334844Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu şarkı bana birini hatırlatıyor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Keşke Tom'un şarkı söylemesini duyabilseydin"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lied"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Song"
+    ],
+    [
+      "TRANSLATION",
+      "eng:song"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tune"
+    ]
+  ]
+}

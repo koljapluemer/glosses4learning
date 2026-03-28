@@ -1,0 +1,51 @@
+{
+  "content": "Es warten sehr viele Leute in der Schlange.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:09:16.825167Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Es"
+    ],
+    [
+      "PART",
+      "deu:warten"
+    ],
+    [
+      "PART",
+      "deu:sehr"
+    ],
+    [
+      "PART",
+      "deu:viele"
+    ],
+    [
+      "PART",
+      "deu:Leute"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:der"
+    ],
+    [
+      "PART",
+      "deu:Schlange"
+    ],
+    [
+      "TRANSLATION",
+      "eng:A lot of people are waiting in line"
+    ]
+  ]
+}

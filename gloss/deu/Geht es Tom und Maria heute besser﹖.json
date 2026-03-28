@@ -1,0 +1,47 @@
+{
+  "content": "Geht es Tom und Maria heute besser?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:44:09.898598Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Geht"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:besser"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are Tom and Mary any better today﹖"
+    ]
+  ]
+}

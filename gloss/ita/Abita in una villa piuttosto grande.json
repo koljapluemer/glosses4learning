@@ -1,0 +1,43 @@
+{
+  "content": "Abita in una villa piuttosto grande.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:09:04.863614Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Abita"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:villa"
+    ],
+    [
+      "PART",
+      "ita:piuttosto"
+    ],
+    [
+      "PART",
+      "ita:grande"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She lives in quite a big mansion"
+    ]
+  ]
+}

@@ -2,20 +2,28 @@
   "content": "التي",
   "language": "arb",
   "transcriptions": {},
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
-  "translations": [
-    "eng:which"
-  ],
-  "notes": [],
+  "logs": {
+    "2025-12-04T11:48:28.405338Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
   "tags": [
     "machine-translation"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "arb:الكتاب الذي قرأته"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "arb:الفتاة التي في الحديقة"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "arb:السيارة التي اشتريتها"
+    ],
+    [
+      "TRANSLATION",
+      "eng:which"
+    ]
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "content": "cümle",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:36:49.816167Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:43:35.314849Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sentence"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clause"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Satz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aussage"
+    ]
+  ]
+}

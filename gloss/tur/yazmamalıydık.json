@@ -1,0 +1,37 @@
+{
+  "content": "yazmamalıydık",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:36:42.955555Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:35:22.457660Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onu yazmamalıydık"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we shouldn't have written"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we ought not to have written"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we must not have written"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir hätten nicht schreiben sollen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir sollten nicht geschrieben haben"
+    ]
+  ]
+}

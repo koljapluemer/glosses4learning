@@ -1,0 +1,43 @@
+{
+  "content": "أنا متأكد أنه توم بيفهم هاد.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:18:18.050334Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:أنا"
+    ],
+    [
+      "PART",
+      "apc:متأكد"
+    ],
+    [
+      "PART",
+      "apc:أنه"
+    ],
+    [
+      "PART",
+      "apc:توم"
+    ],
+    [
+      "PART",
+      "apc:بيفهم"
+    ],
+    [
+      "PART",
+      "apc:هاد"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm sure Tom understands that"
+    ]
+  ]
+}

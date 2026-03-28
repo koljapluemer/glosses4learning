@@ -1,0 +1,34 @@
+{
+  "content": "inquire about the price of the shawarma",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "eng:price"
+    ],
+    [
+      "PART",
+      "eng:shawarma"
+    ],
+    [
+      "PART",
+      "eng:ask what something costs"
+    ],
+    [
+      "TRANSLATION",
+      "arb:قديش سعر الشاورما؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:كم بتكلف الشاورما؟"
+    ]
+  ]
+}

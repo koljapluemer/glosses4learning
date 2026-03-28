@@ -1,0 +1,39 @@
+{
+  "content": "A Fadil piaceva sciare.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:40:37.518200Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Fadil"
+    ],
+    [
+      "PART",
+      "ita:piaceva"
+    ],
+    [
+      "PART",
+      "ita:sciare"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fadil liked skiing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fadil liked to ski"
+    ]
+  ]
+}

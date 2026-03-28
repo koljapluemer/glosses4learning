@@ -1,0 +1,37 @@
+{
+  "content": "seyahat",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:06.843082Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:09.982876Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Otobüsle seyahat etmiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reise"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fahrt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:travel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:journey"
+    ],
+    [
+      "TRANSLATION",
+      "eng:trip"
+    ]
+  ]
+}

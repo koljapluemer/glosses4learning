@@ -1,0 +1,41 @@
+{
+  "content": "mam",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:28.852605Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:12.945649Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'u çağırmamı ister misiniz﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mama"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mutti"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mutter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mother"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mum"
+    ]
+  ]
+}

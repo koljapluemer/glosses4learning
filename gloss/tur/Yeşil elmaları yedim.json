@@ -1,0 +1,31 @@
+{
+  "content": "Yeşil elmaları yedim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hesaplarinkrali (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:08:16.848866Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Yeşil"
+    ],
+    [
+      "PART",
+      "tur:elmaları"
+    ],
+    [
+      "PART",
+      "tur:yedim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich aß die grünen Äpfel"
+    ]
+  ]
+}

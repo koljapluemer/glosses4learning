@@ -1,0 +1,45 @@
+{
+  "content": "konuşma",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:13:55.381329Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T08:15:19.323396Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ciddi bir konuşmaya başladık"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gespräch"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unterhaltung"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rede"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speech"
+    ],
+    [
+      "TRANSLATION",
+      "eng:talk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:conversation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:discourse"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Opa hat sich heute zum Nachtisch Grießbrei gewünscht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:34.214338Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Opa"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:zum"
+    ],
+    [
+      "PART",
+      "deu:Nachtisch"
+    ],
+    [
+      "PART",
+      "deu:Grießbrei"
+    ],
+    [
+      "PART",
+      "deu:gewünscht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Grandad asked for semolina for dessert today"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": "نجح ف متحان واحد ، بس سقط ف التاني.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:22:02.681796Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:نجح"
+    ],
+    [
+      "PART",
+      "arz:ف"
+    ],
+    [
+      "PART",
+      "arz:متحان"
+    ],
+    [
+      "PART",
+      "arz:واحد"
+    ],
+    [
+      "PART",
+      "arz:بس"
+    ],
+    [
+      "PART",
+      "arz:سقط"
+    ],
+    [
+      "PART",
+      "arz:التاني"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He passed one test, but failed the other"
+    ]
+  ]
+}

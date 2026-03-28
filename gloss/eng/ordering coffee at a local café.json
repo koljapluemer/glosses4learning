@@ -1,0 +1,28 @@
+{
+  "content": "ordering coffee at a local café",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:situation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "CHILD",
+      "eng:ask about the café's daily specials"
+    ],
+    [
+      "CHILD",
+      "eng:inquire about the size options for coffee"
+    ],
+    [
+      "CHILD",
+      "eng:express appreciation to the barista"
+    ]
+  ]
+}

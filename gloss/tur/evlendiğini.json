@@ -1,0 +1,33 @@
+{
+  "content": "evlendiğini",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:17:41.399003Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:34:16.298878Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you got married"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are married"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verheiratet sein"
+    ],
+    [
+      "TRANSLATION",
+      "deu:heiraten"
+    ]
+  ]
+}

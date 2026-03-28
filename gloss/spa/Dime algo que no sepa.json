@@ -1,0 +1,39 @@
+{
+  "content": "Dime algo que no sepa.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:40:50.491514Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Dime"
+    ],
+    [
+      "PART",
+      "spa:algo"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:sepa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tell me something that I don't know"
+    ]
+  ]
+}

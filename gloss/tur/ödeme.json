@@ -1,0 +1,41 @@
+{
+  "content": "ödeme",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:52.821659Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:15.830395Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kartla ödeme yapılabilir mi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zahlung"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bezahlung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:payment"
+    ],
+    [
+      "TRANSLATION",
+      "eng:settlement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remittance"
+    ],
+    [
+      "TRANSLATION",
+      "eng:charge"
+    ]
+  ]
+}

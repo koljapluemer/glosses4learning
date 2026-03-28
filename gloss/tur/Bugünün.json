@@ -1,0 +1,33 @@
+{
+  "content": "Bugünün",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:08:40.916642Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:06.159259Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bugünün işini yarına bırakma"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Heute"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Von heute"
+    ],
+    [
+      "TRANSLATION",
+      "eng:today's"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of today"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom ha un'auto molto costosa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:21:46.209100Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:un'"
+    ],
+    [
+      "PART",
+      "ita:auto"
+    ],
+    [
+      "PART",
+      "ita:molto"
+    ],
+    [
+      "PART",
+      "ita:costosa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom has a very expensive car"
+    ]
+  ]
+}

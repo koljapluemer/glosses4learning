@@ -1,0 +1,33 @@
+{
+  "content": "Möchten Sie eine Tüte dazu?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.894546Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:eine"
+    ],
+    [
+      "PART",
+      "deu:T1tete"
+    ],
+    [
+      "PART",
+      "deu:dazu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Would you like a bag with that﹖"
+    ]
+  ]
+}

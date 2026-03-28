@@ -1,0 +1,33 @@
+{
+  "content": "في أي اتجاه _؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-04T12:13:24.710656Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [
+    "machine-translation"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "arb:في"
+    ],
+    [
+      "PART",
+      "arb:أي"
+    ],
+    [
+      "PART",
+      "arb:اتجاه"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask in which direction _ is"
+    ],
+    [
+      "NOTE",
+      "eng:formal"
+    ]
+  ]
+}

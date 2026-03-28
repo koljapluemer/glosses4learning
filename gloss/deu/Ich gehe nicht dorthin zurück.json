@@ -1,0 +1,39 @@
+{
+  "content": "Ich gehe nicht dorthin zurück.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:44.973164Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:gehe"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:dorthin"
+    ],
+    [
+      "PART",
+      "deu:zurück"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Oraya geri dönmeyeceğim"
+    ]
+  ]
+}

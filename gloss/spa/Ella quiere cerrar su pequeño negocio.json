@@ -1,0 +1,43 @@
+{
+  "content": "Ella quiere cerrar su pequeño negocio.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:22.650901Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:quiere"
+    ],
+    [
+      "PART",
+      "spa:cerrar"
+    ],
+    [
+      "PART",
+      "spa:su"
+    ],
+    [
+      "PART",
+      "spa:pequeño"
+    ],
+    [
+      "PART",
+      "spa:negocio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She wants to wind up her small business"
+    ]
+  ]
+}

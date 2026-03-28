@@ -1,0 +1,31 @@
+{
+  "content": "Tom was indecisive.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ita:Tom era indeciso"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:was"
+    ],
+    [
+      "PART",
+      "eng:indecisive"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T11:00:14.020075Z": "SPLIT_DONE"
+  }
+}

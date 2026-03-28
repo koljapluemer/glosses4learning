@@ -1,0 +1,39 @@
+{
+  "content": "Nebenbei noch einen guten Morgen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:18:40.432321Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Nebenbei"
+    ],
+    [
+      "PART",
+      "deu:noch"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:guten"
+    ],
+    [
+      "PART",
+      "deu:Morgen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ayrıca, günaydın"
+    ]
+  ]
+}

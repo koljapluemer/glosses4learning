@@ -1,0 +1,31 @@
+{
+  "content": "Ziri touchait Rima.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:28.673827Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Ziri"
+    ],
+    [
+      "PART",
+      "fra:touchait"
+    ],
+    [
+      "PART",
+      "fra:Rima"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ziri touched Rima"
+    ]
+  ]
+}

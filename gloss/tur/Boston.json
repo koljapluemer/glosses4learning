@@ -1,0 +1,37 @@
+{
+  "content": "Boston",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:53:13.739520Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T14:54:14.571366Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Boston büyük bir şehirdir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston"
+    ],
+    [
+      "TRANSLATION",
+      "eng:City of Boston"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston, Massachusetts"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Boston"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Boston (Stadt)"
+    ]
+  ]
+}

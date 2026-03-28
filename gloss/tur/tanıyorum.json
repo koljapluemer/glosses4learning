@@ -1,0 +1,33 @@
+{
+  "content": "tanıyorum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:18.222058Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:27.494423Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben senin babanı tanıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich kenne"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich weiß"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I know"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am familiar with"
+    ]
+  ]
+}

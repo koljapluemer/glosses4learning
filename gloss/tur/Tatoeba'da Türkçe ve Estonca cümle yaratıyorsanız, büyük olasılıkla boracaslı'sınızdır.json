@@ -1,0 +1,51 @@
+{
+  "content": "Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:36:32.613119Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tatoeba"
+    ],
+    [
+      "PART",
+      "tur:Türkçe"
+    ],
+    [
+      "PART",
+      "tur:Estonca"
+    ],
+    [
+      "PART",
+      "tur:cümle"
+    ],
+    [
+      "PART",
+      "tur:yaratıyorsanız"
+    ],
+    [
+      "PART",
+      "tur:büyük"
+    ],
+    [
+      "PART",
+      "tur:olasılıkla"
+    ],
+    [
+      "PART",
+      "tur:boracaslı'sınızdır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:If you create sentences in Turkish and Estonian on Tatoeba, there's a large chance that you're boracasli"
+    ]
+  ]
+}

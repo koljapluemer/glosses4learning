@@ -1,0 +1,41 @@
+{
+  "content": "çalıştı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:37:22.884425Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:44:03.272245Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:worked"
+    ],
+    [
+      "TRANSLATION",
+      "eng:has worked"
+    ],
+    [
+      "TRANSLATION",
+      "eng:was working"
+    ],
+    [
+      "TRANSLATION",
+      "eng:functioned"
+    ],
+    [
+      "TRANSLATION",
+      "deu:arbeitete"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hat gearbeitet"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom kendisi için karar versin.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:46.114005Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:kendisi"
+    ],
+    [
+      "PART",
+      "tur:için"
+    ],
+    [
+      "PART",
+      "tur:karar"
+    ],
+    [
+      "PART",
+      "tur:versin"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let Tom decide for himself"
+    ]
+  ]
+}

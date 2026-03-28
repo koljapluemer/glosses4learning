@@ -1,0 +1,31 @@
+{
+  "content": "Oy kullanmayacak mısın?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:44:30.710894Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Oy"
+    ],
+    [
+      "PART",
+      "tur:kullanmayacak"
+    ],
+    [
+      "PART",
+      "tur:mısın"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Aren't you going to vote﹖"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Woher kommt die Milch?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:27:11.630744Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Woher"
+    ],
+    [
+      "PART",
+      "deu:kommt"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Milch"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Hurfan kumt dit Molk﹖"
+    ]
+  ]
+}

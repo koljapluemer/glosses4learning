@@ -1,0 +1,39 @@
+{
+  "content": "Galileo morì l'8 gennaio 1642.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:53:40.389766Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Galileo"
+    ],
+    [
+      "PART",
+      "ita:morì"
+    ],
+    [
+      "PART",
+      "ita:l'8"
+    ],
+    [
+      "PART",
+      "ita:gennaio"
+    ],
+    [
+      "PART",
+      "ita:1642"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Galileo died on January 8, 1642"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "yazabilmeliydi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:37:20.233540Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:44:00.611191Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:should have been able to write"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ought to have been able to write"
+    ],
+    [
+      "TRANSLATION",
+      "deu:müsstet schreiben"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hättet schreiben müssen"
+    ]
+  ]
+}

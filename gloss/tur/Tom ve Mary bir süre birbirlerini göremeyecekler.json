@@ -1,0 +1,47 @@
+{
+  "content": "Tom ve Mary bir süre birbirlerini göremeyecekler.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:49.588874Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:ve"
+    ],
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:süre"
+    ],
+    [
+      "PART",
+      "tur:birbirlerini"
+    ],
+    [
+      "PART",
+      "tur:göremeyecekler"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom and Mary won't be able to see each other for a while"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "ölür",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:55.501597Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:20.541749Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Her gülüşünde bir yerlerde bir problem ölür"
+    ],
+    [
+      "TRANSLATION",
+      "deu:stirbt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstorben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dies"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is dying"
+    ],
+    [
+      "TRANSLATION",
+      "eng:will die"
+    ]
+  ]
+}

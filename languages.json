@@ -1,0 +1,404 @@
+{
+    "apc": {
+        "displayName": "Levantine Arabic",
+        "symbols": [
+            "🇸🇾",
+            "🇱🇧",
+            "ض",
+            "🇵🇸"
+        ],
+        "aiNote": "Ensure to actually produce Levantine Arabic as spoken in Syria, Lebanon or Palestine, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
+    },
+    "ara": {
+        "displayName": "Arabic",
+        "symbols": []
+    },
+    "arb": {
+        "displayName": "Standard Arabic",
+        "symbols": [
+            "ض"
+        ]
+    },
+    "arq": {
+        "displayName": "Algerian Arabic",
+        "symbols": []
+    },
+    "arz": {
+        "displayName": "Egyptian Arabic",
+        "symbols": [
+            "ض",
+            "🇪🇬"
+        ],
+        "aiNote": "Ensure to actually produce spoken Egyptian Arabic, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
+    },
+    "asm": {
+        "displayName": "Assamese",
+        "symbols": []
+    },
+    "aze": {
+        "displayName": "Azerbaijani",
+        "symbols": []
+    },
+    "bel": {
+        "displayName": "Belarusian",
+        "symbols": []
+    },
+    "ben": {
+        "displayName": "Bangla",
+        "symbols": []
+    },
+    "ber": {
+        "displayName": "Berber languages",
+        "symbols": []
+    },
+    "bul": {
+        "displayName": "Bulgarian",
+        "symbols": []
+    },
+    "cat": {
+        "displayName": "Catalan",
+        "symbols": []
+    },
+    "cbk": {
+        "displayName": "Chavacano",
+        "symbols": []
+    },
+    "ces": {
+        "displayName": "Czech",
+        "symbols": []
+    },
+    "ckb": {
+        "displayName": "Central Kurdish",
+        "symbols": []
+    },
+    "cmn": {
+        "displayName": "Mandarin Chinese",
+        "symbols": []
+    },
+    "cor": {
+        "displayName": "Cornish",
+        "symbols": []
+    },
+    "cym": {
+        "displayName": "Welsh",
+        "symbols": []
+    },
+    "dan": {
+        "displayName": "Danish",
+        "symbols": []
+    },
+    "deu": {
+        "displayName": "German",
+        "symbols": [
+            "🇩🇪",
+            "🇦🇹",
+            "ä"
+        ]
+    },
+    "dtp": {
+        "displayName": "Central Dusun",
+        "symbols": []
+    },
+    "ell": {
+        "displayName": "Greek",
+        "symbols": []
+    },
+    "eng": {
+        "displayName": "English",
+        "symbols": [
+            "🇺🇸",
+            "🇬🇧"
+        ]
+    },
+    "epo": {
+        "displayName": "Esperanto",
+        "symbols": []
+    },
+    "est": {
+        "displayName": "Estonian",
+        "symbols": []
+    },
+    "fin": {
+        "displayName": "Finnish (Suomi)",
+        "symbols": [
+            "🇫🇮"
+        ]
+    },
+    "fra": {
+        "displayName": "French",
+        "symbols": [
+            "🇫🇷",
+            "🇹🇬",
+            "🇨🇩"
+        ]
+    },
+    "gla": {
+        "displayName": "Scottish Gaelic",
+        "symbols": []
+    },
+    "gle": {
+        "displayName": "Irish",
+        "symbols": []
+    },
+    "gos": {
+        "displayName": "Gronings",
+        "symbols": []
+    },
+    "grc": {
+        "displayName": "Ancient Greek",
+        "symbols": []
+    },
+    "heb": {
+        "displayName": "Hebrew",
+        "symbols": []
+    },
+    "hin": {
+        "displayName": "Hindi",
+        "symbols": []
+    },
+    "hoc": {
+        "displayName": "Ho",
+        "symbols": []
+    },
+    "hrv": {
+        "displayName": "Croatian",
+        "symbols": []
+    },
+    "hun": {
+        "displayName": "Hungarian",
+        "symbols": []
+    },
+    "hye": {
+        "displayName": "Armenian",
+        "symbols": []
+    },
+    "ido": {
+        "displayName": "Ido",
+        "symbols": []
+    },
+    "ile": {
+        "displayName": "Interlingue",
+        "symbols": []
+    },
+    "ilo": {
+        "displayName": "Iloko",
+        "symbols": []
+    },
+    "ina": {
+        "displayName": "Interlingua",
+        "symbols": []
+    },
+    "ind": {
+        "displayName": "Indonesian",
+        "symbols": []
+    },
+    "isl": {
+        "displayName": "Icelandic",
+        "symbols": []
+    },
+    "ita": {
+        "displayName": "Italian",
+        "symbols": [
+            "🇮🇹"
+        ],
+        "aiNote": "Focus on spoken, conventional Italian."
+    },
+    "jbo": {
+        "displayName": "Lojban",
+        "symbols": []
+    },
+    "jpn": {
+        "displayName": "Japanese",
+        "symbols": []
+    },
+    "kab": {
+        "displayName": "Kabyle",
+        "symbols": []
+    },
+    "kat": {
+        "displayName": "Georgian",
+        "symbols": []
+    },
+    "khm": {
+        "displayName": "Khmer",
+        "symbols": []
+    },
+    "kor": {
+        "displayName": "Korean",
+        "symbols": []
+    },
+    "kzj": {
+        "displayName": "Central Dusun",
+        "symbols": []
+    },
+    "lat": {
+        "displayName": "Latin",
+        "symbols": []
+    },
+    "lfn": {
+        "displayName": "Lingua Franca Nova",
+        "symbols": []
+    },
+    "lit": {
+        "displayName": "Lithuanian",
+        "symbols": []
+    },
+    "ltz": {
+        "displayName": "Luxembourgish",
+        "symbols": []
+    },
+    "lvs": {
+        "displayName": "Standard Latvian",
+        "symbols": []
+    },
+    "mar": {
+        "displayName": "Marathi",
+        "symbols": []
+    },
+    "mkd": {
+        "displayName": "Macedonian",
+        "symbols": []
+    },
+    "nld": {
+        "displayName": "Dutch",
+        "symbols": []
+    },
+    "nno": {
+        "displayName": "Norwegian Nynorsk",
+        "symbols": []
+    },
+    "nob": {
+        "displayName": "Norwegian Bokmål",
+        "symbols": []
+    },
+    "nst": {
+        "displayName": "Tase Naga",
+        "symbols": []
+    },
+    "oci": {
+        "displayName": "Occitan",
+        "symbols": []
+    },
+    "pam": {
+        "displayName": "Pampanga",
+        "symbols": []
+    },
+    "pes": {
+        "displayName": "Iranian Persian",
+        "symbols": []
+    },
+    "pol": {
+        "displayName": "Polish",
+        "symbols": [
+            "🇵🇱"
+        ]
+    },
+    "por": {
+        "displayName": "Portugese",
+        "symbols": [
+            "🇧🇷"
+        ],
+        "aiNote": "Focus on spoken, conventional Portugese. Give African and Brazilian the same weight as European Spanish."
+    },
+    "ron": {
+        "displayName": "Romanian",
+        "symbols": []
+    },
+    "rus": {
+        "displayName": "Russian",
+        "symbols": [
+            "🇷🇺"
+        ]
+    },
+    "sat": {
+        "displayName": "Santali",
+        "symbols": []
+    },
+    "shi": {
+        "displayName": "Tachelhit",
+        "symbols": []
+    },
+    "slk": {
+        "displayName": "Slovak",
+        "symbols": []
+    },
+    "slv": {
+        "displayName": "Slovenian",
+        "symbols": []
+    },
+    "spa": {
+        "displayName": "Spanish",
+        "symbols": [
+            "🇲🇽",
+            "ñ",
+            "🇪🇸"
+        ],
+        "aiNote": "Focus on spoken, conventional Spanish. Give South American Spanish the same weight as European Spanish."
+    },
+    "srp": {
+        "displayName": "Serbian",
+        "symbols": []
+    },
+    "swe": {
+        "displayName": "Swedish",
+        "symbols": []
+    },
+    "tat": {
+        "displayName": "Tatar",
+        "symbols": []
+    },
+    "tgl": {
+        "displayName": "Filipino",
+        "symbols": []
+    },
+    "tha": {
+        "displayName": "Thai",
+        "symbols": []
+    },
+    "tlh": {
+        "displayName": "Klingon",
+        "symbols": []
+    },
+    "tok": {
+        "displayName": "Toki Pona",
+        "symbols": []
+    },
+    "tur": {
+        "displayName": "Turkish",
+        "symbols": [
+            "🇹🇷"
+        ]
+    },
+    "uig": {
+        "displayName": "Uyghur",
+        "symbols": []
+    },
+    "ukr": {
+        "displayName": "Ukrainian",
+        "symbols": []
+    },
+    "vie": {
+        "displayName": "Vietnamese",
+        "symbols": []
+    },
+    "vol": {
+        "displayName": "Volapük",
+        "symbols": []
+    },
+    "yid": {
+        "displayName": "Yiddish",
+        "symbols": []
+    },
+    "yue": {
+        "displayName": "Cantonese",
+        "symbols": []
+    },
+    "zgh": {
+        "displayName": "Standard Moroccan Tamazight",
+        "symbols": []
+    },
+    "zsm": {
+        "displayName": "Standard Malay",
+        "symbols": []
+    }
+}

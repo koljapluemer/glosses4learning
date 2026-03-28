@@ -1,0 +1,35 @@
+{
+  "content": "Ich will dir helfen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:23:04.845408Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:will"
+    ],
+    [
+      "PART",
+      "deu:dir"
+    ],
+    [
+      "PART",
+      "deu:helfen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Size yardım etmek istiyorum"
+    ]
+  ]
+}

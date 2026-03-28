@@ -1,0 +1,31 @@
+{
+  "content": "Nadie lo diría.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:29.921307Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Nadie"
+    ],
+    [
+      "PART",
+      "spa:lo"
+    ],
+    [
+      "PART",
+      "spa:diría"
+    ],
+    [
+      "TRANSLATION",
+      "eng:No one would say it"
+    ]
+  ]
+}

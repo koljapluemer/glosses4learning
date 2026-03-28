@@ -1,0 +1,43 @@
+{
+  "content": "Tom bir şey arıyor gibi görünüyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:43.124359Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:şey"
+    ],
+    [
+      "PART",
+      "tur:arıyor"
+    ],
+    [
+      "PART",
+      "tur:gibi"
+    ],
+    [
+      "PART",
+      "tur:görünüyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom seems to be looking for something"
+    ]
+  ]
+}

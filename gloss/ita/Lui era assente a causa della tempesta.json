@@ -1,0 +1,43 @@
+{
+  "content": "Lui era assente a causa della tempesta.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:12:17.987468Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Lui"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:assente"
+    ],
+    [
+      "PART",
+      "ita:a causa di"
+    ],
+    [
+      "PART",
+      "ita:della"
+    ],
+    [
+      "PART",
+      "ita:tempesta"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He was absent because of the storm"
+    ]
+  ]
+}

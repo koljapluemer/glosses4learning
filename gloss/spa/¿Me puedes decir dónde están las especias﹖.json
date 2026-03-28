@@ -1,0 +1,25 @@
+{
+  "content": "¿Me puedes decir dónde están las especias?",
+  "language": "spa",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T21:18:14.452Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "spa:¿Me puedes decir﹖"
+    ],
+    [
+      "PART",
+      "spa:dónde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ask your cooking partner where the spices are located"
+    ]
+  ]
+}

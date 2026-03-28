@@ -1,0 +1,47 @@
+{
+  "content": "Cela ne faisait pas partie du plan.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:48:52.117552Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Cela"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:faisait"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:partie"
+    ],
+    [
+      "PART",
+      "fra:du"
+    ],
+    [
+      "PART",
+      "fra:plan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That wasn't part of the plan"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "عمري ما حبيت البيولوجي.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:20:18.464225Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:عمري"
+    ],
+    [
+      "PART",
+      "arz:ما"
+    ],
+    [
+      "PART",
+      "arz:حبيت"
+    ],
+    [
+      "PART",
+      "arz:البيولوجي"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I never liked biology"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "okuyacağım",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:37:09.782683Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:43:47.294550Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Belki Fransızca okuyacağım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will read"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am going to read"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich werde lesen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich lese"
+    ]
+  ]
+}

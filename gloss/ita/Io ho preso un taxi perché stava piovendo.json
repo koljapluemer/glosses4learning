@@ -1,0 +1,51 @@
+{
+  "content": "Io ho preso un taxi perché stava piovendo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:11:20.025911Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:ho"
+    ],
+    [
+      "PART",
+      "ita:preso"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:taxi"
+    ],
+    [
+      "PART",
+      "ita:perché"
+    ],
+    [
+      "PART",
+      "ita:stava"
+    ],
+    [
+      "PART",
+      "ita:piovendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I took a taxi because it was raining"
+    ]
+  ]
+}

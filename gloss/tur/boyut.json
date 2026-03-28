@@ -1,0 +1,41 @@
+{
+  "content": "boyut",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:13:37.465786Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T08:15:01.438706Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Size hepsini halledeceğimin garantisini verebilirim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Größe"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dimension"
+    ],
+    [
+      "TRANSLATION",
+      "eng:size"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dimension"
+    ],
+    [
+      "TRANSLATION",
+      "eng:scale"
+    ],
+    [
+      "TRANSLATION",
+      "eng:magnitude"
+    ]
+  ]
+}

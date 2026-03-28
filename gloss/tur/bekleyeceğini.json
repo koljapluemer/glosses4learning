@@ -1,0 +1,33 @@
+{
+  "content": "bekleyeceğini",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:25:08.434301Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:14.482656Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'ye bekleyeceğini söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you will wait"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are going to wait"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du wirst warten"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du wirst erwarten"
+    ]
+  ]
+}

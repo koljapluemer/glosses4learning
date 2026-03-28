@@ -1,0 +1,37 @@
+{
+  "content": "hikaye",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:13:47.930007Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T08:15:13.832435Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hikayeyi okumadım"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geschichte"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erzählung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:story"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tale"
+    ],
+    [
+      "TRANSLATION",
+      "eng:narrative"
+    ]
+  ]
+}

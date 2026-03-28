@@ -1,0 +1,35 @@
+{
+  "content": "بعمل 100 يورو فاليوم.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:52:12.639094Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:بعمل"
+    ],
+    [
+      "PART",
+      "arz:100"
+    ],
+    [
+      "PART",
+      "arz:يورو"
+    ],
+    [
+      "PART",
+      "arz:فاليوم"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I make €100 a day"
+    ]
+  ]
+}

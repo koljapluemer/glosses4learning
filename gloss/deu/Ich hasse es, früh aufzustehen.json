@@ -1,0 +1,39 @@
+{
+  "content": "Ich hasse es, früh aufzustehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:10.353831Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:hasse"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:früh"
+    ],
+    [
+      "PART",
+      "deu:aufzustehen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Erken kalkmaktan nefret ediyorumederim"
+    ]
+  ]
+}

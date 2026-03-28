@@ -1,0 +1,37 @@
+{
+  "content": "inquire about the daily specials available",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:daily"
+    ],
+    [
+      "PART",
+      "eng:specials"
+    ],
+    [
+      "PART",
+      "eng:available"
+    ],
+    [
+      "TRANSLATION",
+      "arb:شو عندكم من أطباق اليوم؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:في شي خاص اليوم؟"
+    ]
+  ]
+}

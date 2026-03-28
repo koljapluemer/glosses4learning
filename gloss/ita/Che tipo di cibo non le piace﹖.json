@@ -1,0 +1,47 @@
+{
+  "content": "Che tipo di cibo non le piace?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:11:14.703580Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Che"
+    ],
+    [
+      "PART",
+      "ita:tipo"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:cibo"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:le"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What kind of food don't you like﹖"
+    ]
+  ]
+}

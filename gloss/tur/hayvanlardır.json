@@ -1,0 +1,33 @@
+{
+  "content": "hayvanlardır",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:13:46.483705Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T08:15:12.362236Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:İnsanlar garip hayvanlardır"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tiere sind es"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es sind Tiere"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they are animals"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they are beasts"
+    ]
+  ]
+}

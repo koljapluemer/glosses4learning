@@ -1,0 +1,33 @@
+{
+  "content": "Öğrenci",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:47.882511Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:04.461041Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Öğrencinin arabası eskidir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schüler"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Student"
+    ],
+    [
+      "TRANSLATION",
+      "eng:student"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pupil"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "content": "ordering shawarma",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:situation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [
+    "shawarma.webp"
+  ],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "CHILD",
+      "arb:أريد شاورما دجاج، من فضلك"
+    ],
+    [
+      "CHILD",
+      "arb:هل تريد إضافة صلصة الثوم؟"
+    ],
+    [
+      "CHILD",
+      "arb:شاورما لحم مع خبز أم بدون خبز؟"
+    ],
+    [
+      "CHILD",
+      "arb:كم سعر الشاورما هنا؟"
+    ],
+    [
+      "CHILD",
+      "arb:تفضل تناولها هنا أم أخذها معك؟"
+    ],
+    [
+      "CHILD",
+      "eng:ask about the size options available for the shawarma"
+    ],
+    [
+      "CHILD",
+      "eng:inquire about the price of the shawarma"
+    ]
+  ]
+}

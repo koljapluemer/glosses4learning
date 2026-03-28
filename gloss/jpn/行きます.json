@@ -1,0 +1,32 @@
+{
+  "content": "行きます",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:どこへ行きますか。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will go"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm going"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's go"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I go"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T10:52:53.804565Z": "TRANSLATION_DONE:eng"
+  }
+}

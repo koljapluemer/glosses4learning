@@ -1,0 +1,31 @@
+{
+  "content": "Hiç İstanbul'a gitmedim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:13:50.381962Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Hiç"
+    ],
+    [
+      "PART",
+      "tur:İstanbul'a"
+    ],
+    [
+      "PART",
+      "tur:gitmedim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I never went to Istanbul"
+    ]
+  ]
+}

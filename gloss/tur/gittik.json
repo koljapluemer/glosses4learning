@@ -1,0 +1,37 @@
+{
+  "content": "gittik",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:34:29.717225Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:36:58.818087Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yaya gittik"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir haben gegeben"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir gaben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we went"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we have gone"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we're gone"
+    ]
+  ]
+}

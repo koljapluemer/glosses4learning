@@ -1,0 +1,51 @@
+{
+  "content": "Andò in Italia a studiare la musica.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:57:42.914585Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Andò"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:Italia"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:studiare"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:musica"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He went to Italy to study music"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She went to Italy to study music"
+    ]
+  ]
+}

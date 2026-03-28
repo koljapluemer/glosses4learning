@@ -1,0 +1,37 @@
+{
+  "content": "biri",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:53:46.097992Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:18.675448Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un Mary'nin kız kardeşlerinin herhangi biri ile tanıştığını sanmıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:one"
+    ],
+    [
+      "TRANSLATION",
+      "eng:someone"
+    ],
+    [
+      "TRANSLATION",
+      "eng:anyone"
+    ],
+    [
+      "TRANSLATION",
+      "deu:jemand"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eine Person"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Il professore diede un premio a John.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:58:18.417326Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:professore"
+    ],
+    [
+      "PART",
+      "ita:diede"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:premio"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:John"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The teacher gave John a prize"
+    ]
+  ]
+}

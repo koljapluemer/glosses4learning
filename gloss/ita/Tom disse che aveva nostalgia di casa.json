@@ -1,0 +1,51 @@
+{
+  "content": "Tom disse che aveva nostalgia di casa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:03:05.653010Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:disse"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:aveva"
+    ],
+    [
+      "PART",
+      "ita:nostalgia"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:casa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom said he was homesick"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom said that he was homesick"
+    ]
+  ]
+}

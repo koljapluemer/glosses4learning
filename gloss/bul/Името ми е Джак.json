@@ -1,0 +1,35 @@
+{
+  "content": "Името ми е Джак.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ednorog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My name is Jack"
+    ],
+    [
+      "PART",
+      "bul:Името"
+    ],
+    [
+      "PART",
+      "bul:ми"
+    ],
+    [
+      "PART",
+      "bul:е"
+    ],
+    [
+      "PART",
+      "bul:Джак"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:25:46.533376Z": "SPLIT_DONE"
+  }
+}

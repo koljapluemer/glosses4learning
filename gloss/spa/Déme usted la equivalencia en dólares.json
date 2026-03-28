@@ -1,0 +1,43 @@
+{
+  "content": "Déme usted la equivalencia en dólares.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:45:59.671373Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Déme"
+    ],
+    [
+      "PART",
+      "spa:usted"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:equivalencia"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:dólares"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Give me the equivalent in dollars"
+    ]
+  ]
+}

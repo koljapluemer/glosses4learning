@@ -1,0 +1,43 @@
+{
+  "content": "Tom non è alto come te.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:17:13.118723Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:alto"
+    ],
+    [
+      "PART",
+      "ita:come"
+    ],
+    [
+      "PART",
+      "ita:te"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom isn't tall like you"
+    ]
+  ]
+}

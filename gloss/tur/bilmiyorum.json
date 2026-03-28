@@ -1,0 +1,33 @@
+{
+  "content": "bilmiyorum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:15:00.046416Z": "TRANSLATION_DONE:eng",
+    "2026-01-11T19:17:00.599367Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun bir doktor olup olmadığını bilmiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't know"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm not sure"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich weiß nicht"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weiß nicht"
+    ]
+  ]
+}

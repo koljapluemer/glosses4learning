@@ -1,0 +1,44 @@
+{
+  "content": "fuel up at the gas station",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:situation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "CHILD",
+      "pol:Czy ma panpani kartę lojalnościową﹖"
+    ],
+    [
+      "CHILD",
+      "pol:Proszę zatankować do pełna"
+    ],
+    [
+      "CHILD",
+      "pol:Paliwo do samochodu jest po lewej stronie"
+    ],
+    [
+      "CHILD",
+      "pol:Czy chce panpani płacić kartą czy gotówką﹖"
+    ],
+    [
+      "CHILD",
+      "eng:ask for the price of fuel at the gas station"
+    ],
+    [
+      "CHILD",
+      "eng:request assistance with filling up the gas tank"
+    ],
+    [
+      "CHILD",
+      "eng:inquire about the available fuel types at the gas station"
+    ]
+  ]
+}

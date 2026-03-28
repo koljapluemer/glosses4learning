@@ -1,0 +1,35 @@
+{
+  "content": "Boston büyük bir şehirdir.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:51:46.295795Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Boston"
+    ],
+    [
+      "PART",
+      "tur:büyük"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:şehirdir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston is a large city"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Quelli sono i cani di Tom?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:06:17.483418Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Quelli"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:cani"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are those Tom dogs﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are those Tom's dogs﹖"
+    ]
+  ]
+}

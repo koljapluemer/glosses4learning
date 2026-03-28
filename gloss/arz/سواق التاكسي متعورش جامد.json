@@ -1,0 +1,35 @@
+{
+  "content": "سواق التاكسي متعورش جامد.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:52:36.702146Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:سواق"
+    ],
+    [
+      "PART",
+      "arz:التاكسي"
+    ],
+    [
+      "PART",
+      "arz:متعورش"
+    ],
+    [
+      "PART",
+      "arz:جامد"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The cab driver wasn't seriously injured"
+    ]
+  ]
+}

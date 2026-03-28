@@ -1,0 +1,35 @@
+{
+  "content": "Sami lavorava al ristorante.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:36.312084Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Sami"
+    ],
+    [
+      "PART",
+      "ita:lavorava"
+    ],
+    [
+      "PART",
+      "ita:al"
+    ],
+    [
+      "PART",
+      "ita:ristorante"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sami used to work at the restaurant"
+    ]
+  ]
+}

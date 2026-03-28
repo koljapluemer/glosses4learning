@@ -1,0 +1,43 @@
+{
+  "content": "Tom vuole che qualcuno lo aiuti.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:56:30.553773Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:vuole"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:qualcuno"
+    ],
+    [
+      "PART",
+      "ita:lo"
+    ],
+    [
+      "PART",
+      "ita:aiuti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom wants somebody to help him"
+    ]
+  ]
+}

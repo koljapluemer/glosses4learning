@@ -1,0 +1,39 @@
+{
+  "content": "Tom regarde toujours la télévision.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:23.453794Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:regarde"
+    ],
+    [
+      "PART",
+      "fra:toujours"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:télévision"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is always watching TV"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "content": "Czy ma pan/pani kartę lojalnościową?",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:ma"
+    ],
+    [
+      "PART",
+      "pol:pan"
+    ],
+    [
+      "PART",
+      "pol:pani"
+    ],
+    [
+      "PART",
+      "pol:kartę"
+    ],
+    [
+      "PART",
+      "pol:lojalnościową"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have a loyalty card﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you possess a loyalty card﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you own a loyalty card﹖"
+    ]
+  ]
+}

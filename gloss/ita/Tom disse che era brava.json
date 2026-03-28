@@ -1,0 +1,43 @@
+{
+  "content": "Tom disse che era brava.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:25:19.153238Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:disse"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:brava"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom said that you were good"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom said you were good"
+    ]
+  ]
+}

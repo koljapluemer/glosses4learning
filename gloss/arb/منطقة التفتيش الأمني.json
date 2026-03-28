@@ -1,0 +1,37 @@
+{
+  "content": "منطقة التفتيش الأمني",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T18:53:22.580Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:منطقة"
+    ],
+    [
+      "PART",
+      "arb:التفتيش"
+    ],
+    [
+      "PART",
+      "arb:الأمني"
+    ],
+    [
+      "TRANSLATION",
+      "eng:security checkpoint"
+    ],
+    [
+      "TRANSLATION",
+      "eng:security inspection area"
+    ],
+    [
+      "TRANSLATION",
+      "eng:security screening zone"
+    ]
+  ]
+}

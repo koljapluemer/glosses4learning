@@ -1,0 +1,56 @@
+{
+  "content": "Paliwo do samochodu jest po lewej stronie.",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Paliwo"
+    ],
+    [
+      "PART",
+      "pol:do"
+    ],
+    [
+      "PART",
+      "pol:samochodu"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:po"
+    ],
+    [
+      "PART",
+      "pol:lewej"
+    ],
+    [
+      "PART",
+      "pol:stronie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The fuel for the car is on the left"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Gasoline for the car is on the left"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The petrol station is on the left"
+    ]
+  ]
+}

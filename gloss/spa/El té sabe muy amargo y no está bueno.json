@@ -1,0 +1,55 @@
+{
+  "content": "El té sabe muy amargo y no está bueno.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:40:57.651306Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:té"
+    ],
+    [
+      "PART",
+      "spa:sabe"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:amargo"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:bueno"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The tea is really bitter and doesn't taste good"
+    ]
+  ]
+}

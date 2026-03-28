@@ -1,0 +1,37 @@
+{
+  "content": "söylediğimi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:13.605721Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:22.487038Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yani yalan söylediğimi iddia ediyorsunuz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:was gesagt habe"
+    ],
+    [
+      "TRANSLATION",
+      "deu:was ich gesagt habe"
+    ],
+    [
+      "TRANSLATION",
+      "eng:what I said"
+    ],
+    [
+      "TRANSLATION",
+      "eng:that which I said"
+    ],
+    [
+      "TRANSLATION",
+      "eng:what I have said"
+    ]
+  ]
+}

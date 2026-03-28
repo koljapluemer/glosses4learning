@@ -1,0 +1,33 @@
+{
+  "content": "dersleri",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:06.828476Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:17:15.071675Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Mary bale dersleri alıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Lektionen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Kurse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the lessons"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the courses"
+    ]
+  ]
+}

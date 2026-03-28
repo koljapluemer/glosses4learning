@@ -1,0 +1,31 @@
+{
+  "content": "Nadie piensa eso.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:31.451528Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Nadie"
+    ],
+    [
+      "PART",
+      "spa:piensa"
+    ],
+    [
+      "PART",
+      "spa:eso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:No one thinks that"
+    ]
+  ]
+}

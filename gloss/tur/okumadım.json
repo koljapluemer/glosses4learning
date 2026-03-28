@@ -1,0 +1,33 @@
+{
+  "content": "okumadım",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:13:58.054061Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T08:15:21.306137Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hikayeyi okumadım"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe nicht gelesen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe nicht studiert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I didn't read"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have not read"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "estoy",
+  "language": "spa",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T11:41:16.615Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2025-12-16T11:44:24.624Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me estoy tiñendo el pelo de negro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mis amigos no saben dónde estoy"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I exist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I stand"
+    ]
+  ]
+}

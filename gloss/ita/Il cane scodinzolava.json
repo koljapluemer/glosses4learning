@@ -1,0 +1,31 @@
+{
+  "content": "Il cane scodinzolava.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:07:30.252788Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:cane"
+    ],
+    [
+      "PART",
+      "ita:scodinzolava"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The dog wagged its tail"
+    ]
+  ]
+}

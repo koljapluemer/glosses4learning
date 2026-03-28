@@ -1,0 +1,51 @@
+{
+  "content": "أنت ناوي تعمل هادا مرة تانية بكرا، صح؟",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:53.827951Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:أنت"
+    ],
+    [
+      "PART",
+      "apc:ناوي"
+    ],
+    [
+      "PART",
+      "apc:تعمل"
+    ],
+    [
+      "PART",
+      "apc:هادا"
+    ],
+    [
+      "PART",
+      "apc:مرة"
+    ],
+    [
+      "PART",
+      "apc:تانية"
+    ],
+    [
+      "PART",
+      "apc:بكرا"
+    ],
+    [
+      "PART",
+      "apc:صح"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You're planning to do that again tomorrow, aren't you﹖"
+    ]
+  ]
+}

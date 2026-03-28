@@ -1,0 +1,43 @@
+{
+  "content": "A Mark non piace San Valentino.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:32.513731Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mark"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:San"
+    ],
+    [
+      "PART",
+      "ita:Valentino"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mark doesn't like Valentine's Day"
+    ]
+  ]
+}

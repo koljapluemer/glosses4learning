@@ -1,0 +1,35 @@
+{
+  "content": "Sa beauté était indescriptible.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:18.071127Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Sa"
+    ],
+    [
+      "PART",
+      "fra:beauté"
+    ],
+    [
+      "PART",
+      "fra:était"
+    ],
+    [
+      "PART",
+      "fra:indescriptible"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Her beauty was beyond description"
+    ]
+  ]
+}

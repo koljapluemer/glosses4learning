@@ -1,0 +1,47 @@
+{
+  "content": "Tom'un tablolarından kaç tanesini onun için sattın?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:53:00.131195Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:tablolarından"
+    ],
+    [
+      "PART",
+      "tur:kaç"
+    ],
+    [
+      "PART",
+      "tur:tanesini"
+    ],
+    [
+      "PART",
+      "tur:onun"
+    ],
+    [
+      "PART",
+      "tur:için"
+    ],
+    [
+      "PART",
+      "tur:sattın"
+    ],
+    [
+      "TRANSLATION",
+      "eng:How many of Tom's paintings have you sold for him﹖"
+    ]
+  ]
+}

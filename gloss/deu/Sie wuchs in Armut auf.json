@@ -1,0 +1,39 @@
+{
+  "content": "Sie wuchs in Armut auf.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:00.411669Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:wuchs"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:Armut"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Jü es ön Āremur āpwukset"
+    ]
+  ]
+}

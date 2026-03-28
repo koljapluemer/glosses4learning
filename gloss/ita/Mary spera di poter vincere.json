@@ -1,0 +1,39 @@
+{
+  "content": "Mary spera di poter vincere.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:06:22.765255Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:spera"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:poter"
+    ],
+    [
+      "PART",
+      "ita:vincere"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary hopes that she can win"
+    ]
+  ]
+}

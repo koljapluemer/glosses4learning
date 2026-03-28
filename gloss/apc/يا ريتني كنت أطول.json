@@ -1,0 +1,39 @@
+{
+  "content": "يا ريتني كنت أطول",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:32.343951Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:يا"
+    ],
+    [
+      "PART",
+      "apc:ريت"
+    ],
+    [
+      "PART",
+      "apc:ني"
+    ],
+    [
+      "PART",
+      "apc:كنت"
+    ],
+    [
+      "PART",
+      "apc:أطول"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I wish I was taller"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "C'est un danseur algérien.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:48:50.252020Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:danseur"
+    ],
+    [
+      "PART",
+      "fra:algérien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He's an Algerian dancer"
+    ]
+  ]
+}

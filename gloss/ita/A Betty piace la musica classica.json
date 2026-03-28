@@ -1,0 +1,43 @@
+{
+  "content": "A Betty piace la musica classica.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:39:37.719594Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Betty"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:musica"
+    ],
+    [
+      "PART",
+      "ita:classica"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Betty likes classical music"
+    ]
+  ]
+}

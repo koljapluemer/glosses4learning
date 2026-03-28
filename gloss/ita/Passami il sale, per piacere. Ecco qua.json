@@ -1,0 +1,47 @@
+{
+  "content": "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:45.156500Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Passami"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:sale"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:piacere"
+    ],
+    [
+      "PART",
+      "ita:Ecco"
+    ],
+    [
+      "PART",
+      "ita:qua"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Pass me the salt, please. Here you are"
+    ]
+  ]
+}

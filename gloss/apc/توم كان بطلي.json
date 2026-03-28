@@ -1,0 +1,31 @@
+{
+  "content": "توم كان بطلي.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:18:34.741095Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:توم"
+    ],
+    [
+      "PART",
+      "apc:كان"
+    ],
+    [
+      "PART",
+      "apc:بطلي"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom was my hero"
+    ]
+  ]
+}

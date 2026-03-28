@@ -1,0 +1,47 @@
+{
+  "content": "Tom'un o işi reddettiğini sandım.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:11:34.559094Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:un"
+    ],
+    [
+      "PART",
+      "tur:o"
+    ],
+    [
+      "PART",
+      "tur:iş"
+    ],
+    [
+      "PART",
+      "tur:işi"
+    ],
+    [
+      "PART",
+      "tur:reddettiğini"
+    ],
+    [
+      "PART",
+      "tur:sandım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I thought Tom turned that job down"
+    ]
+  ]
+}

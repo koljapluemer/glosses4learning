@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe die Zugfahrkarten vergessen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:56.049728Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Zugfahrkarten"
+    ],
+    [
+      "PART",
+      "deu:vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tren biletlerini unuttum"
+    ]
+  ]
+}

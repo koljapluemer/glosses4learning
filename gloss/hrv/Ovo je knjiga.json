@@ -1,0 +1,31 @@
+{
+  "content": "Ovo je knjiga.",
+  "language": "hrv",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is a book"
+    ],
+    [
+      "PART",
+      "hrv:Ovo"
+    ],
+    [
+      "PART",
+      "hrv:je"
+    ],
+    [
+      "PART",
+      "hrv:knjiga"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:32:50.748989Z": "SPLIT_DONE"
+  }
+}

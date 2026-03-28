@@ -1,0 +1,51 @@
+{
+  "content": "¿Dónde está la parada de colectivos más cercana?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:42:12.410098Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:dónde"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:parada"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:colectivos"
+    ],
+    [
+      "PART",
+      "spa:más"
+    ],
+    [
+      "PART",
+      "spa:cercana"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Where's the nearest bus stop﹖"
+    ]
+  ]
+}

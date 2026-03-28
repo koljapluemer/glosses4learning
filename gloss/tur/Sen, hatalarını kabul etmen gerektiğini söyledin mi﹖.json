@@ -1,0 +1,47 @@
+{
+  "content": "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:13:19.893900Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Sen"
+    ],
+    [
+      "PART",
+      "tur:hatalarını"
+    ],
+    [
+      "PART",
+      "tur:kabul"
+    ],
+    [
+      "PART",
+      "tur:etmen"
+    ],
+    [
+      "PART",
+      "tur:gerektiğini"
+    ],
+    [
+      "PART",
+      "tur:söyledin"
+    ],
+    [
+      "PART",
+      "tur:mi"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hast du gesagt, dass du deine Fehler akzeptieren sollst﹖"
+    ]
+  ]
+}

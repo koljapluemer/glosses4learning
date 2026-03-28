@@ -1,0 +1,51 @@
+{
+  "content": "En la fiesta hubo una enormidad de gente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:28.807791Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:En"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:fiesta"
+    ],
+    [
+      "PART",
+      "spa:hubo"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:enormidad"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:gente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There was a great crowd at the party"
+    ]
+  ]
+}

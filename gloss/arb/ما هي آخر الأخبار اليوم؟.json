@@ -1,0 +1,48 @@
+{
+  "content": "ما هي آخر الأخبار اليوم؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "arb:ما"
+    ],
+    [
+      "PART",
+      "arb:هي"
+    ],
+    [
+      "PART",
+      "arb:آخر"
+    ],
+    [
+      "PART",
+      "arb:الأخبار"
+    ],
+    [
+      "PART",
+      "arb:اليوم"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What are the latest news today﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What's the news update for today﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What are today's top stories﹖"
+    ]
+  ]
+}

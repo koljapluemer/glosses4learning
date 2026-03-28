@@ -1,0 +1,37 @@
+{
+  "content": "konuşuruz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:24.253521Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:06.193345Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Biz Japonca konuşuruz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir sprechen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir reden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we will talk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we'll talk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we can talk"
+    ]
+  ]
+}

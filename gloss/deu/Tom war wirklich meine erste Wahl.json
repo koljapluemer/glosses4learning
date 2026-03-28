@@ -1,0 +1,43 @@
+{
+  "content": "Tom war wirklich meine erste Wahl.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:38.227828Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:war"
+    ],
+    [
+      "PART",
+      "deu:wirklich"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:erste"
+    ],
+    [
+      "PART",
+      "deu:Wahl"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Tom wiar waaraftig min jest Waal"
+    ]
+  ]
+}

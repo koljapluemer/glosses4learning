@@ -1,0 +1,35 @@
+{
+  "content": "flight from Paris",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "eng:flight"
+    ],
+    [
+      "PART",
+      "eng:from"
+    ],
+    [
+      "PART",
+      "eng:Paris"
+    ],
+    [
+      "TRANSLATION",
+      "arb:رحلة من باريس"
+    ],
+    [
+      "TRANSLATION",
+      "arb:طيران من باريس"
+    ],
+    [
+      "TRANSLATION",
+      "arb:سفرة من باريس"
+    ]
+  ]
+}

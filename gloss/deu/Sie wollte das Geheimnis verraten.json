@@ -1,0 +1,39 @@
+{
+  "content": "Sie wollte das Geheimnis verraten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:58.818152Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:wollte"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:Geheimnis"
+    ],
+    [
+      "PART",
+      "deu:verraten"
+    ],
+    [
+      "TRANSLATION",
+      "tur:O bu sırrı açık etmek istiyor"
+    ]
+  ]
+}

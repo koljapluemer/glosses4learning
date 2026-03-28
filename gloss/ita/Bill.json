@@ -1,0 +1,36 @@
+{
+  "content": "Bill",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:20:29.201772Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Bill e John piace ritrovarsi una volta al mese per parlare"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:A Bill e John piace ritrovarsi una volta al mese per scambiare due chiacchiere"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Invoice"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Check"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Receipt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Statement"
+    ]
+  ]
+}

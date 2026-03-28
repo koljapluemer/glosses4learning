@@ -1,0 +1,39 @@
+{
+  "content": "Haben Sie heute frische Brötchen?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.912501Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:frische"
+    ],
+    [
+      "PART",
+      "deu:Br14tchen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask if any items are freshly baked today"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have fresh rolls today﹖"
+    ]
+  ]
+}

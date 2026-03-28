@@ -1,0 +1,47 @@
+{
+  "content": "Tom onun hakkında Mary ile konuşmak istedi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:54:07.885268Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:onun"
+    ],
+    [
+      "PART",
+      "tur:hakkında"
+    ],
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:ile"
+    ],
+    [
+      "PART",
+      "tur:konuşmak"
+    ],
+    [
+      "PART",
+      "tur:istedi"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom wollte mit Maria darüber sprechen"
+    ]
+  ]
+}

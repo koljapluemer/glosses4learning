@@ -1,0 +1,33 @@
+{
+  "content": "korktuğumu",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:25.174715Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:06.904528Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'dan korktuğumu kim söylüyor﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe Angst"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe Angst gehabt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am scared"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am afraid"
+    ]
+  ]
+}

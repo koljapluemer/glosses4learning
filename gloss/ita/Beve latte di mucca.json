@@ -1,0 +1,35 @@
+{
+  "content": "Beve latte di mucca.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:06:07.150517Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Beve__split2"
+    ],
+    [
+      "PART",
+      "ita:latte"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:mucca"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He drinks cow's milk"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "öğrendin",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:57.953233Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:24.432381Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kimden öğrendin﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du hast gelernt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du hast erfahren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you learned"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you have learned"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you found out"
+    ]
+  ]
+}

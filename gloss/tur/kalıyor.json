@@ -1,0 +1,41 @@
+{
+  "content": "kalıyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:15.026909Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:18:52.159198Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Boston'da kalıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bleibt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verbleibt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stays"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remains"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is left"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is staying"
+    ]
+  ]
+}

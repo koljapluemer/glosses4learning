@@ -1,0 +1,35 @@
+{
+  "content": "كان أنت اللي عمله؟",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:38.290831Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:كان"
+    ],
+    [
+      "PART",
+      "apc:أنت"
+    ],
+    [
+      "PART",
+      "apc:اللي"
+    ],
+    [
+      "PART",
+      "apc:عمله"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Was it you who did it﹖"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Belki Fransızca okuyacağım.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:36:21.119244Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Belki"
+    ],
+    [
+      "PART",
+      "tur:Fransızca"
+    ],
+    [
+      "PART",
+      "tur:okuyacağım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Maybe I'll study French"
+    ]
+  ]
+}

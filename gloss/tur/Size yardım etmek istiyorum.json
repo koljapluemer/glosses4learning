@@ -1,0 +1,35 @@
+{
+  "content": "Size yardım etmek istiyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:13:23.952705Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Size"
+    ],
+    [
+      "PART",
+      "tur:yardım"
+    ],
+    [
+      "PART",
+      "tur:etmek"
+    ],
+    [
+      "PART",
+      "tur:istiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich will dir helfen"
+    ]
+  ]
+}

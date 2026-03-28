@@ -1,0 +1,43 @@
+{
+  "content": "A Claudio serviva un po' d'acqua.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:40:08.026948Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Claudio"
+    ],
+    [
+      "PART",
+      "ita:serviva"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:po'"
+    ],
+    [
+      "PART",
+      "ita:d'acqua"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Claudio needed some water"
+    ]
+  ]
+}

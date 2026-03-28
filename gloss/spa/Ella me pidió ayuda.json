@@ -1,0 +1,35 @@
+{
+  "content": "Ella me pidió ayuda.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:10:30.700706Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:me"
+    ],
+    [
+      "PART",
+      "spa:pidió"
+    ],
+    [
+      "PART",
+      "spa:ayuda"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She asked me for help"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "أريد شاورما دجاج، من فضلك.",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:أريد"
+    ],
+    [
+      "PART",
+      "arb:شاورما دجاج"
+    ],
+    [
+      "PART",
+      "arb:من فضلك"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I would like chicken shawarma, please"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can I have chicken shawarma, please﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I want chicken shawarma, please"
+    ]
+  ]
+}

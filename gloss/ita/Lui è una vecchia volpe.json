@@ -1,0 +1,43 @@
+{
+  "content": "Lui è una vecchia volpe.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:10:16.699929Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Lui"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:vecchia"
+    ],
+    [
+      "PART",
+      "ita:volpe"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He is a sly old dog"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He's a sly old dog"
+    ]
+  ]
+}

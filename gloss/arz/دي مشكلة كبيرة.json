@@ -1,0 +1,31 @@
+{
+  "content": "دي مشكلة كبيرة",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by adnanmukhtar (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:52:33.837016Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:دي"
+    ],
+    [
+      "PART",
+      "arz:مشكلة"
+    ],
+    [
+      "PART",
+      "arz:كبيرة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That's a major problem"
+    ]
+  ]
+}

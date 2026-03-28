@@ -1,0 +1,43 @@
+{
+  "content": "Ich hätte gerne ein Dutzend Kekse.",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.917971Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:h3atte"
+    ],
+    [
+      "PART",
+      "deu:gerne"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:Dutzend"
+    ],
+    [
+      "PART",
+      "deu:Kekse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:express a desire to buy a dozen cookies"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I would like a dozen cookies"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "A Linda piace la cioccolata.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:00.641460Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Linda"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:cioccolata"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Linda likes chocolate"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Linda loves chocolate"
+    ]
+  ]
+}

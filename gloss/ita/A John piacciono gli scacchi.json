@@ -1,0 +1,39 @@
+{
+  "content": "A John piacciono gli scacchi.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:41:10.486018Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:John"
+    ],
+    [
+      "PART",
+      "ita:piacciono"
+    ],
+    [
+      "PART",
+      "ita:gli"
+    ],
+    [
+      "PART",
+      "ita:scacchi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:John likes chess"
+    ]
+  ]
+}

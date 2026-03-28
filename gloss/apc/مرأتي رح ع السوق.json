@@ -1,0 +1,35 @@
+{
+  "content": "مرأتي رح ع السوق",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T09:53:26.595592Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:مرأتي"
+    ],
+    [
+      "PART",
+      "apc:رح"
+    ],
+    [
+      "PART",
+      "apc:ع"
+    ],
+    [
+      "PART",
+      "apc:السوق"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My wife is going to the market"
+    ]
+  ]
+}

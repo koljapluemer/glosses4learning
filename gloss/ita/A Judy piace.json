@@ -1,0 +1,31 @@
+{
+  "content": "A Judy piace.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:41:21.450656Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Judy"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Judy likes him"
+    ]
+  ]
+}

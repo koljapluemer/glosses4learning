@@ -1,0 +1,35 @@
+{
+  "content": "ما بدنا حل سلمي.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:43.074750Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:ما"
+    ],
+    [
+      "PART",
+      "apc:بدنا"
+    ],
+    [
+      "PART",
+      "apc:حل"
+    ],
+    [
+      "PART",
+      "apc:سلمي"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We don't want a peaceful solution"
+    ]
+  ]
+}

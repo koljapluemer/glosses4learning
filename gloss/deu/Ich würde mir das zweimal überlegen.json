@@ -1,0 +1,43 @@
+{
+  "content": "Ich würde mir das zweimal überlegen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:23:08.582688Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:würde"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:zweimal"
+    ],
+    [
+      "PART",
+      "deu:überlegen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ben olsam iki kere düşünürdüm"
+    ]
+  ]
+}

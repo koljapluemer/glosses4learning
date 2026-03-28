@@ -1,0 +1,35 @@
+{
+  "content": "Tom'un gitar çalması şaşırtıcı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:36.427835Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:gitar"
+    ],
+    [
+      "PART",
+      "tur:çalması"
+    ],
+    [
+      "PART",
+      "tur:şaşırtıcı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom's guitar playing is amazing"
+    ]
+  ]
+}

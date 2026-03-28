@@ -1,0 +1,30 @@
+{
+  "content": "Ask your cooking partner where the spices are located.",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "eng:where"
+    ],
+    [
+      "PART",
+      "eng:spices"
+    ],
+    [
+      "TRANSLATION",
+      "spa:¿Dónde están las especias﹖"
+    ],
+    [
+      "TRANSLATION",
+      "spa:¿Me puedes decir dónde están las especias﹖"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "gustaría",
+  "language": "spa",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T21:19:37.061Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2025-12-14T21:20:06.655Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "spa:gustar"
+    ],
+    [
+      "PART",
+      "spa:ía"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me gustaría tomar algo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:would like"
+    ],
+    [
+      "TRANSLATION",
+      "eng:would love"
+    ],
+    [
+      "TRANSLATION",
+      "eng:would enjoy"
+    ]
+  ]
+}

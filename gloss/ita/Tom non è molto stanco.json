@@ -1,0 +1,39 @@
+{
+  "content": "Tom non è molto stanco.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:01:22.933881Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:molto"
+    ],
+    [
+      "PART",
+      "ita:stanco"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom isn't very tired"
+    ]
+  ]
+}

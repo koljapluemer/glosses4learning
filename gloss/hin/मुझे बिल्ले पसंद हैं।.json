@@ -1,0 +1,35 @@
+{
+  "content": "मुझे बिल्ले पसंद हैं।",
+  "language": "hin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sabretou (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I like cats"
+    ],
+    [
+      "PART",
+      "hin:मुझे"
+    ],
+    [
+      "PART",
+      "hin:बिल्ले"
+    ],
+    [
+      "PART",
+      "hin:पसंद"
+    ],
+    [
+      "PART",
+      "hin:हैं"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T09:44:00.611977Z": "SPLIT_DONE"
+  }
+}

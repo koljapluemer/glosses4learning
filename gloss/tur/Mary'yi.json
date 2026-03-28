@@ -1,0 +1,33 @@
+{
+  "content": "Mary'yi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:08:57.511308Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:34.023919Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bugün Tom, Mary'yi gördü"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maria"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to Mary"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Wir sind zu Fuß gegangen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:27:05.281765Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:Fuß"
+    ],
+    [
+      "PART",
+      "deu:gegangen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yaya gittik"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "content": "Tom'un Mary'nin kız kardeşlerinin herhangi biri ile tanıştığını sanmıyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:55.374096Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:Mary'nin"
+    ],
+    [
+      "PART",
+      "tur:kız"
+    ],
+    [
+      "PART",
+      "tur:kardeşlerinin"
+    ],
+    [
+      "PART",
+      "tur:herhangi"
+    ],
+    [
+      "PART",
+      "tur:biri"
+    ],
+    [
+      "PART",
+      "tur:ile"
+    ],
+    [
+      "PART",
+      "tur:tanıştığını"
+    ],
+    [
+      "PART",
+      "tur:sanmıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't think Tom has met either of Mary's sisters"
+    ]
+  ]
+}

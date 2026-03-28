@@ -1,0 +1,33 @@
+{
+  "content": "doğum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:25:14.578440Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:24.892425Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:İyi bir erkek çocuğu gibi davranmazsan bir doğum günü hediyesi almazsın"
+    ],
+    [
+      "TRANSLATION",
+      "eng:birth"
+    ],
+    [
+      "TRANSLATION",
+      "eng:delivery"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geburt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Entbindung"
+    ]
+  ]
+}

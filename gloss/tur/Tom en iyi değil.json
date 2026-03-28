@@ -1,0 +1,35 @@
+{
+  "content": "Tom en iyi değil.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:44.431838Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:en"
+    ],
+    [
+      "PART",
+      "tur:iyi"
+    ],
+    [
+      "PART",
+      "tur:değil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom isn't the best"
+    ]
+  ]
+}

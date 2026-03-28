@@ -1,0 +1,32 @@
+{
+  "content": "飼っています",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私は猫を2匹飼っています。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have (a pet)"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I keep (a pet)"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I raise (a pet)"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am raising (a pet)"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T10:53:06.090094Z": "TRANSLATION_DONE:eng"
+  }
+}

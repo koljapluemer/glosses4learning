@@ -1,0 +1,43 @@
+{
+  "content": "قضى كل بعد الظهر بلعب التنس.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:50:18.874480Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:قضى"
+    ],
+    [
+      "PART",
+      "apc:كل"
+    ],
+    [
+      "PART",
+      "apc:بعد"
+    ],
+    [
+      "PART",
+      "apc:الظهر"
+    ],
+    [
+      "PART",
+      "apc:بلعب"
+    ],
+    [
+      "PART",
+      "apc:التنس"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom spent the whole afternoon playing tennis"
+    ]
+  ]
+}

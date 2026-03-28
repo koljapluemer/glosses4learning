@@ -1,0 +1,41 @@
+{
+  "content": "çağır",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:49.556908Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:08.973471Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'u çağırmamı ister misiniz﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:rufen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einladen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:herbeirufen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:call"
+    ],
+    [
+      "TRANSLATION",
+      "eng:invite"
+    ],
+    [
+      "TRANSLATION",
+      "eng:summon"
+    ]
+  ]
+}

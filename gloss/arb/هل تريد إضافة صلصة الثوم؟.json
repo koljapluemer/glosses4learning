@@ -1,0 +1,49 @@
+{
+  "content": "هل تريد إضافة صلصة الثوم؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:هل"
+    ],
+    [
+      "PART",
+      "arb:تريد"
+    ],
+    [
+      "PART",
+      "arb:إضافة"
+    ],
+    [
+      "PART",
+      "arb:صلصة"
+    ],
+    [
+      "PART",
+      "arb:الثوم"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you want to add garlic sauce﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Would you like garlic sauce added﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you want to include garlic sauce﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Would you like to have garlic sauce﹖"
+    ]
+  ]
+}

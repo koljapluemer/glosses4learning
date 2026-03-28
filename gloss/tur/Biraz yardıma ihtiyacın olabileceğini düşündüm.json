@@ -1,0 +1,39 @@
+{
+  "content": "Biraz yardıma ihtiyacın olabileceğini düşündüm.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:44:23.973069Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:biraz"
+    ],
+    [
+      "PART",
+      "tur:yardım"
+    ],
+    [
+      "PART",
+      "tur:ihtiyaç"
+    ],
+    [
+      "PART",
+      "tur:olabileceğini"
+    ],
+    [
+      "PART",
+      "tur:düşündüm"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I thought you might need some help"
+    ]
+  ]
+}

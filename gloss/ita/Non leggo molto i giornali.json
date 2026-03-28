@@ -1,0 +1,39 @@
+{
+  "content": "Non leggo molto i giornali.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:58:10.720527Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Non"
+    ],
+    [
+      "PART",
+      "ita:leggo"
+    ],
+    [
+      "PART",
+      "ita:molto"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:giornali"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't read newspapers much"
+    ]
+  ]
+}

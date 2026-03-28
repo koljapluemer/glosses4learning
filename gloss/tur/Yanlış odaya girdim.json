@@ -1,0 +1,31 @@
+{
+  "content": "Yanlış odaya girdim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:44.127301Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Yanlış"
+    ],
+    [
+      "PART",
+      "tur:oda"
+    ],
+    [
+      "PART",
+      "tur:girdim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I went into the wrong room"
+    ]
+  ]
+}

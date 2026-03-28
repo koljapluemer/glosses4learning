@@ -1,0 +1,37 @@
+{
+  "content": "tren",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:21.031169Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:31.384528Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tren biletlerini unuttum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tren zamanında ayrıldı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zug"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zugmittel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:train"
+    ],
+    [
+      "TRANSLATION",
+      "eng:trolley"
+    ]
+  ]
+}

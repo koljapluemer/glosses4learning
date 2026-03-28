@@ -1,0 +1,32 @@
+{
+  "content": "articolo",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2025-12-28T14:44:08.345858Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:Questo articolo ridicolizza i vegetariani"
+    ],
+    [
+      "TRANSLATION",
+      "eng:article"
+    ],
+    [
+      "TRANSLATION",
+      "eng:item"
+    ],
+    [
+      "TRANSLATION",
+      "eng:section"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clause"
+    ]
+  ]
+}

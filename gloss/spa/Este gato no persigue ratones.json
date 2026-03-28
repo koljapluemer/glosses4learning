@@ -1,0 +1,39 @@
+{
+  "content": "Este gato no persigue ratones.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:42.780927Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Este"
+    ],
+    [
+      "PART",
+      "spa:gato"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:persigue"
+    ],
+    [
+      "PART",
+      "spa:ratones"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This cat doesn't chase mice"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "content": "Tom e Mary studiano il francese ogni sera per trenta minuti.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:42.472061Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:e"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:studiano"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:francese"
+    ],
+    [
+      "PART",
+      "ita:ogni"
+    ],
+    [
+      "PART",
+      "ita:sera"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:trenta"
+    ],
+    [
+      "PART",
+      "ita:minuti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom and Mary study French every evening for thirty minutes"
+    ]
+  ]
+}

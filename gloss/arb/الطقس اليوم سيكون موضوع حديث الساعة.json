@@ -1,0 +1,52 @@
+{
+  "content": "الطقس اليوم سيكون موضوع حديث الساعة.",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "arb:الطقس"
+    ],
+    [
+      "PART",
+      "arb:اليوم"
+    ],
+    [
+      "PART",
+      "arb:سيكون"
+    ],
+    [
+      "PART",
+      "arb:موضوع"
+    ],
+    [
+      "PART",
+      "arb:حديث"
+    ],
+    [
+      "PART",
+      "arb:الساعة"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The weather today will be the topic of discussion"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Today's weather will be the hot topic"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The weather will be the main subject of conversation today"
+    ]
+  ]
+}

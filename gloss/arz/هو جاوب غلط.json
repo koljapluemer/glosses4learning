@@ -1,0 +1,31 @@
+{
+  "content": "هو جاوب غلط.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:22:04.011382Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:هو"
+    ],
+    [
+      "PART",
+      "arz:جاوب"
+    ],
+    [
+      "PART",
+      "arz:غلط"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He answered incorrectly"
+    ]
+  ]
+}

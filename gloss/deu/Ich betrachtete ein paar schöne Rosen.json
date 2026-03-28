@@ -1,0 +1,43 @@
+{
+  "content": "Ich betrachtete ein paar schöne Rosen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:18.975392Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:betrachtete"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:paar"
+    ],
+    [
+      "PART",
+      "deu:schöne"
+    ],
+    [
+      "PART",
+      "deu:Rosen"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Ik haa hok dailk Ruusen biluket"
+    ]
+  ]
+}

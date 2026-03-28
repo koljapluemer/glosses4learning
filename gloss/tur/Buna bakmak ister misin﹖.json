@@ -1,0 +1,35 @@
+{
+  "content": "Buna bakmak ister misin?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:51:53.603766Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:buna"
+    ],
+    [
+      "PART",
+      "tur:bakmak"
+    ],
+    [
+      "PART",
+      "tur:ister"
+    ],
+    [
+      "PART",
+      "tur:misin"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you want to take a look at it﹖"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "content": "program",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette program kan ikke køres i DOS-tilstand"
+    ],
+    [
+      "TRANSLATION",
+      "eng:program"
+    ],
+    [
+      "TRANSLATION",
+      "eng:software"
+    ],
+    [
+      "TRANSLATION",
+      "eng:application"
+    ],
+    [
+      "TRANSLATION",
+      "eng:schedule"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T11:02:58.677945Z": "TRANSLATION_DONE:eng"
+  }
+}

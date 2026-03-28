@@ -1,0 +1,37 @@
+{
+  "content": "inquire about the available fuel types at the gas station",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:available"
+    ],
+    [
+      "PART",
+      "eng:fuel"
+    ],
+    [
+      "PART",
+      "eng:types"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Jakie rodzaje paliwa macie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Czy możecie mi powiedzieć, jakie paliwa są dostępne﹖"
+    ]
+  ]
+}

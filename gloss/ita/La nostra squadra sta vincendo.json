@@ -1,0 +1,39 @@
+{
+  "content": "La nostra squadra sta vincendo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:21:22.158201Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:nostra"
+    ],
+    [
+      "PART",
+      "ita:squadra"
+    ],
+    [
+      "PART",
+      "ita:sta"
+    ],
+    [
+      "PART",
+      "ita:vincendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Our team is winning"
+    ]
+  ]
+}

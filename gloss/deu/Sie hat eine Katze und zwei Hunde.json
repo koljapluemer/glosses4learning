@@ -1,0 +1,47 @@
+{
+  "content": "Sie hat eine Katze und zwei Hunde.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:51.137512Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:eine"
+    ],
+    [
+      "PART",
+      "deu:Katze"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:zwei"
+    ],
+    [
+      "PART",
+      "deu:Hunde"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Onun bir kedisi ve iki köpeği var"
+    ]
+  ]
+}

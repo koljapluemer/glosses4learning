@@ -1,0 +1,33 @@
+{
+  "content": "sevdim",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:04.590078Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:07.423221Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ismini sevdim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe geliebt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich liebte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I loved"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I liked"
+    ]
+  ]
+}

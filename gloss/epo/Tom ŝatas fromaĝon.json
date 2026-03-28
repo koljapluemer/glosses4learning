@@ -1,0 +1,31 @@
+{
+  "content": "Tom ŝatas fromaĝon.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom likes cheese"
+    ],
+    [
+      "PART",
+      "epo:Tom"
+    ],
+    [
+      "PART",
+      "epo:ŝatas"
+    ],
+    [
+      "PART",
+      "epo:fromaĝon"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T10:52:20.624936Z": "SPLIT_DONE"
+  }
+}

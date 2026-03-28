@@ -1,0 +1,43 @@
+{
+  "content": "Lei ha parlato con Tom, vero?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:59:38.758605Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Lei"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:parlato"
+    ],
+    [
+      "PART",
+      "ita:con"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:vero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You talked to Tom, didn't you﹖"
+    ]
+  ]
+}

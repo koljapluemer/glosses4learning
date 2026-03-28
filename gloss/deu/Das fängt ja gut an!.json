@@ -1,0 +1,39 @@
+{
+  "content": "Das fängt ja gut an!",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:19:35.025847Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Das"
+    ],
+    [
+      "PART",
+      "deu:fängt"
+    ],
+    [
+      "PART",
+      "deu:ja"
+    ],
+    [
+      "PART",
+      "deu:gut"
+    ],
+    [
+      "PART",
+      "deu:an"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İyi bir başlangıç oldu!"
+    ]
+  ]
+}

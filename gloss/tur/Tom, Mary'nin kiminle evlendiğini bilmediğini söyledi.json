@@ -1,0 +1,43 @@
+{
+  "content": "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:38.808234Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:kiminle"
+    ],
+    [
+      "PART",
+      "tur:evlendiğini"
+    ],
+    [
+      "PART",
+      "tur:bilmediğini"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom said he didn't know who Mary was getting married to"
+    ]
+  ]
+}

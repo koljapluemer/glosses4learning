@@ -1,0 +1,43 @@
+{
+  "content": "Je peux passer chez vous demain ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:49:33.281595Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:peux"
+    ],
+    [
+      "PART",
+      "fra:passer"
+    ],
+    [
+      "PART",
+      "fra:chez"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:demain"
+    ],
+    [
+      "TRANSLATION",
+      "eng:May I visit you tomorrow﹖"
+    ]
+  ]
+}

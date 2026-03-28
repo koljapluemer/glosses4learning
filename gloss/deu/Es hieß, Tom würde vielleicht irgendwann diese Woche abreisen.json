@@ -1,0 +1,55 @@
+{
+  "content": "Es hieß, Tom würde vielleicht irgendwann diese Woche abreisen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:20:27.383519Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Es"
+    ],
+    [
+      "PART",
+      "deu:hieß"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:würde"
+    ],
+    [
+      "PART",
+      "deu:vielleicht"
+    ],
+    [
+      "PART",
+      "deu:irgendwann"
+    ],
+    [
+      "PART",
+      "deu:diese"
+    ],
+    [
+      "PART",
+      "deu:Woche"
+    ],
+    [
+      "PART",
+      "deu:abreisen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I hear Tom might leave sometime this week"
+    ]
+  ]
+}

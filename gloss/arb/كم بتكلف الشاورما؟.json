@@ -1,0 +1,29 @@
+{
+  "content": "كم بتكلف الشاورما؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T21:42:50.593Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:كم"
+    ],
+    [
+      "PART",
+      "arb:بتكلف"
+    ],
+    [
+      "PART",
+      "arb:الشاورما"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inquire about the price of the shawarma"
+    ]
+  ]
+}

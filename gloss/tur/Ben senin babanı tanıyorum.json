@@ -1,0 +1,35 @@
+{
+  "content": "Ben senin babanı tanıyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:04:47.547705Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Ben"
+    ],
+    [
+      "PART",
+      "tur:senin"
+    ],
+    [
+      "PART",
+      "tur:baban"
+    ],
+    [
+      "PART",
+      "tur:tanıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich kenne deinen Vater"
+    ]
+  ]
+}

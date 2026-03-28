@@ -1,0 +1,47 @@
+{
+  "content": "Hast du meinen Bruder im Park gesehen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:09.551572Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Hast"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Bruder"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Park"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Heest min Bröđer ön Park sen﹖"
+    ]
+  ]
+}

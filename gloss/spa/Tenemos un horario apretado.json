@@ -1,0 +1,35 @@
+{
+  "content": "Tenemos un horario apretado.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:22:02.966509Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:tenemos"
+    ],
+    [
+      "PART",
+      "spa:un"
+    ],
+    [
+      "PART",
+      "spa:horario"
+    ],
+    [
+      "PART",
+      "spa:apretado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We have a tight schedule"
+    ]
+  ]
+}

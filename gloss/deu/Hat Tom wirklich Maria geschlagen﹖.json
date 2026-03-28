@@ -1,0 +1,39 @@
+{
+  "content": "Hat Tom wirklich Maria geschlagen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:18:22.445198Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Hat"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:wirklich"
+    ],
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:geschlagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Did Tom really hit Mary﹖"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Tom e Mary stanno decorando la loro stanza.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:57:01.336615Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:e"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:stanno"
+    ],
+    [
+      "PART",
+      "ita:decorando"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:loro"
+    ],
+    [
+      "PART",
+      "ita:stanza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom and Mary are decorating their room"
+    ]
+  ]
+}

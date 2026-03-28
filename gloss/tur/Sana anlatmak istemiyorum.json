@@ -1,0 +1,31 @@
+{
+  "content": "Sana anlatmak istemiyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:35.344409Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:sana"
+    ],
+    [
+      "PART",
+      "tur:anlatmak"
+    ],
+    [
+      "PART",
+      "tur:istemiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't want to tell you"
+    ]
+  ]
+}

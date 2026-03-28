@@ -1,0 +1,39 @@
+{
+  "content": "Annem İngilizceyi pek iyi konuşmaz.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:45:13.865834Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Annem"
+    ],
+    [
+      "PART",
+      "tur:İngilizceyi"
+    ],
+    [
+      "PART",
+      "tur:pek"
+    ],
+    [
+      "PART",
+      "tur:iyi"
+    ],
+    [
+      "PART",
+      "tur:konuşmaz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Meine Mutter spricht nicht sehr gut Englisch"
+    ]
+  ]
+}

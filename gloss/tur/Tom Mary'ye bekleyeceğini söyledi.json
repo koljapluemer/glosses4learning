@@ -1,0 +1,35 @@
+{
+  "content": "Tom Mary'ye bekleyeceğini söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:24:53.303880Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:bekleyeceğini"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom told Mary he'd wait"
+    ]
+  ]
+}

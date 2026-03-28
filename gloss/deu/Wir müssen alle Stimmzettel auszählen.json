@@ -1,0 +1,39 @@
+{
+  "content": "Wir müssen alle Stimmzettel auszählen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:26:57.016970Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:müssen"
+    ],
+    [
+      "PART",
+      "deu:alle"
+    ],
+    [
+      "PART",
+      "deu:Stimmzettel"
+    ],
+    [
+      "PART",
+      "deu:auszählen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bütün oy pusulalarını saymak zorundayız"
+    ]
+  ]
+}

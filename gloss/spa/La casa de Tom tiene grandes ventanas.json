@@ -1,0 +1,47 @@
+{
+  "content": "La casa de Tom tiene grandes ventanas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:18.141192Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:La"
+    ],
+    [
+      "PART",
+      "spa:casa"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:tiene"
+    ],
+    [
+      "PART",
+      "spa:grandes"
+    ],
+    [
+      "PART",
+      "spa:ventanas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom's house has large windows"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Mary ha ammesso che era colpevole.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:01:56.413507Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:ammesso"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:colpevole"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary admitted she was guilty"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary admitted that she was guilty"
+    ]
+  ]
+}

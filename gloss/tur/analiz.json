@@ -1,0 +1,41 @@
+{
+  "content": "analiz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:33:51.217412Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:36:45.036347Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom sonuçları analiz etti"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Analyse"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Analysieren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:analysis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:examination"
+    ],
+    [
+      "TRANSLATION",
+      "eng:assessment"
+    ],
+    [
+      "TRANSLATION",
+      "eng:evaluation"
+    ]
+  ]
+}

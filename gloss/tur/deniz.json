@@ -1,0 +1,33 @@
+{
+  "content": "deniz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:17:12.931944Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:34:07.814223Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Gaz denizin altında bulundu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sea"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ocean"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Meer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ozean"
+    ]
+  ]
+}

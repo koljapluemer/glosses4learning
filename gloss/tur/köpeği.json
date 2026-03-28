@@ -1,0 +1,33 @@
+{
+  "content": "köpeği",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:27.431616Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:09.975390Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun bir kedisi ve iki köpeği var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hund"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hündchen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the dog"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dog"
+    ]
+  ]
+}

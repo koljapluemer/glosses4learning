@@ -1,0 +1,43 @@
+{
+  "content": "Biz ona birkaç tane elma verdik.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:44:25.232159Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Biz"
+    ],
+    [
+      "PART",
+      "tur:ona"
+    ],
+    [
+      "PART",
+      "tur:birkaç"
+    ],
+    [
+      "PART",
+      "tur:tane"
+    ],
+    [
+      "PART",
+      "tur:elma"
+    ],
+    [
+      "PART",
+      "tur:verdik"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We gave her some apples"
+    ]
+  ]
+}

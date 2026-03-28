@@ -1,0 +1,37 @@
+{
+  "content": "pasajı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:14:01.013489Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T08:15:25.644648Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu pasajı senin için özetlemek istiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Passage"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Durchgang"
+    ],
+    [
+      "TRANSLATION",
+      "eng:passage"
+    ],
+    [
+      "TRANSLATION",
+      "eng:section"
+    ],
+    [
+      "TRANSLATION",
+      "eng:excerpt"
+    ]
+  ]
+}

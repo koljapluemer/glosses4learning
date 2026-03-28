@@ -1,0 +1,41 @@
+{
+  "content": "ben",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:53:43.850210Z": "TRANSLATION_DONE:eng",
+    "2026-01-27T15:26:15.267390Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben bu sabah konuştuk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I"
+    ],
+    [
+      "TRANSLATION",
+      "eng:me"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я"
+    ],
+    [
+      "TRANSLATION",
+      "epo:mi"
+    ]
+  ]
+}

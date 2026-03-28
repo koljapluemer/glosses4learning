@@ -1,0 +1,35 @@
+{
+  "content": "Ich hasse meine Nachbarn.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:12.094696Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:hasse"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Nachbarn"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Komşularımdan nefret ediyorum"
+    ]
+  ]
+}

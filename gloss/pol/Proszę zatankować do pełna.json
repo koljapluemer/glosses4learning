@@ -1,0 +1,44 @@
+{
+  "content": "Proszę zatankować do pełna.",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Proszę"
+    ],
+    [
+      "PART",
+      "pol:zatankować"
+    ],
+    [
+      "PART",
+      "pol:do"
+    ],
+    [
+      "PART",
+      "pol:pełna"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Please fill it up"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Please refuel to full"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Please top up the tank"
+    ]
+  ]
+}

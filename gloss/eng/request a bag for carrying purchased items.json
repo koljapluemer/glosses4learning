@@ -1,0 +1,44 @@
+{
+  "content": "request a bag for carrying purchased items",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "eng:request"
+    ],
+    [
+      "PART",
+      "eng:a"
+    ],
+    [
+      "PART",
+      "eng:bag"
+    ],
+    [
+      "PART",
+      "eng:for"
+    ],
+    [
+      "PART",
+      "eng:carrying"
+    ],
+    [
+      "PART",
+      "eng:purchased"
+    ],
+    [
+      "PART",
+      "eng:items"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haben Sie eine Tüte﹖"
+    ]
+  ]
+}

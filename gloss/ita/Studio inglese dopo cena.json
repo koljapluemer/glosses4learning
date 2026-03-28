@@ -1,0 +1,35 @@
+{
+  "content": "Studio inglese dopo cena.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:55:11.001552Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Studio"
+    ],
+    [
+      "PART",
+      "ita:inglese"
+    ],
+    [
+      "PART",
+      "ita:dopo"
+    ],
+    [
+      "PART",
+      "ita:cena"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I study English after dinner"
+    ]
+  ]
+}

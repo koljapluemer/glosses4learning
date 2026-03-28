@@ -1,0 +1,31 @@
+{
+  "content": "Maria nimmt Ballettunterricht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:05.707508Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:nimmt"
+    ],
+    [
+      "PART",
+      "deu:Ballettunterricht"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mary bale dersleri alıyor"
+    ]
+  ]
+}

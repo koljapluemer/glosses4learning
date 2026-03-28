@@ -1,0 +1,41 @@
+{
+  "content": "pazar",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:11:55.783294Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:19:52.474503Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:İzin olmadan pazar tezgahı kurulamaz mı﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yarın pazar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Markt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Basar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:market"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bazaar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sunday (as in Sunday market)"
+    ]
+  ]
+}

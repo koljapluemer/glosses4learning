@@ -1,0 +1,37 @@
+{
+  "content": "Wie war dein Tag?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-20T13:12:32.631Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-20T13:12:54.518Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wie"
+    ],
+    [
+      "PART",
+      "deu:war"
+    ],
+    [
+      "PART",
+      "deu:dein"
+    ],
+    [
+      "PART",
+      "deu:Tag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inquire about the person's day or how they are doing"
+    ]
+  ]
+}

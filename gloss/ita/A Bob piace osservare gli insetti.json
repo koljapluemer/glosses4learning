@@ -1,0 +1,43 @@
+{
+  "content": "A Bob piace osservare gli insetti.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:39:47.138697Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Bob"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:osservare"
+    ],
+    [
+      "PART",
+      "ita:gli"
+    ],
+    [
+      "PART",
+      "ita:insetti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Bob enjoys insect watching"
+    ]
+  ]
+}

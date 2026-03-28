@@ -1,0 +1,48 @@
+{
+  "content": "ما هو طلبك اليوم؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "arb:ما"
+    ],
+    [
+      "PART",
+      "arb:هو"
+    ],
+    [
+      "PART",
+      "arb:طلبك"
+    ],
+    [
+      "PART",
+      "arb:اليوم"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What is your order today﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What would you like today﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What can I get for you today﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What do you want today﹖"
+    ]
+  ]
+}

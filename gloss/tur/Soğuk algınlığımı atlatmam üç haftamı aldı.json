@@ -1,0 +1,43 @@
+{
+  "content": "Soğuk algınlığımı atlatmam üç haftamı aldı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:22.638605Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:soğuk"
+    ],
+    [
+      "PART",
+      "tur:algınlık"
+    ],
+    [
+      "PART",
+      "tur:atlatmak"
+    ],
+    [
+      "PART",
+      "tur:üç"
+    ],
+    [
+      "PART",
+      "tur:hafta"
+    ],
+    [
+      "PART",
+      "tur:almak"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It took three weeks for me to get over my cold"
+    ]
+  ]
+}

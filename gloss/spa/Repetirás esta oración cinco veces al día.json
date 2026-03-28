@@ -1,0 +1,47 @@
+{
+  "content": "Repetirás esta oración cinco veces al día.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:10:36.890180Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Repetirás"
+    ],
+    [
+      "PART",
+      "spa:esta"
+    ],
+    [
+      "PART",
+      "spa:oración"
+    ],
+    [
+      "PART",
+      "spa:cinco"
+    ],
+    [
+      "PART",
+      "spa:veces"
+    ],
+    [
+      "PART",
+      "spa:al"
+    ],
+    [
+      "PART",
+      "spa:día"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You'll repeat this sentence five times a day"
+    ]
+  ]
+}

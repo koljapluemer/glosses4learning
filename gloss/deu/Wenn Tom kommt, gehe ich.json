@@ -1,0 +1,39 @@
+{
+  "content": "Wenn Tom kommt, gehe ich.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:26:29.151690Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Wenn"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:kommt"
+    ],
+    [
+      "PART",
+      "deu:gehe"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom gelince, gidiyorum"
+    ]
+  ]
+}

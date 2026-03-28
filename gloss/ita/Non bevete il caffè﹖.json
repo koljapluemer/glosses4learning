@@ -1,0 +1,35 @@
+{
+  "content": "Non bevete il caffè?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:17.795793Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Non"
+    ],
+    [
+      "PART",
+      "ita:bevete"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:caffè"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you not drink coffee﹖"
+    ]
+  ]
+}

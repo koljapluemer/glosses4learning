@@ -1,0 +1,43 @@
+{
+  "content": "Qualcuno ha rubato la mia borsa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:14:34.895784Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Qualcuno"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:rubato"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:mia"
+    ],
+    [
+      "PART",
+      "ita:borsa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Somebody has stolen my bag"
+    ]
+  ]
+}

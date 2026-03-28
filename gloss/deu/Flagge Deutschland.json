@@ -1,0 +1,28 @@
+{
+  "content": "Flagge Deutschland",
+  "language": "deu",
+  "tags": [
+    "eng:emoji-image-set"
+  ],
+  "images": [
+    {
+      "filename": "germany.png",
+      "relationship": "semantic",
+      "credit": "Emoji labels from the [omarkamali/emoji-map dataset](https://huggingface.co/datasets/omarkamali/emoji-map); [CC BY-NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original [Unicode License](https://opensource.org/license/unicode-license-v3) may also apply."
+    }
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:germany"
+    ],
+    [
+      "TRANSLATION",
+      "spa:bandera alemania"
+    ],
+    [
+      "TRANSLATION",
+      "arb:علم ألمانيا"
+    ]
+  ]
+}

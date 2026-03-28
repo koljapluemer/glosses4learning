@@ -1,0 +1,24 @@
+{
+  "content": "café",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T15:10:41.497359Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Le pedí al mayordomo que nos sirviese un café"
+    ],
+    [
+      "TRANSLATION",
+      "eng:coffee"
+    ],
+    [
+      "TRANSLATION",
+      "eng:café"
+    ]
+  ]
+}

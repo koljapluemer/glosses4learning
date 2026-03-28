@@ -1,0 +1,35 @@
+{
+  "content": "هيدي‎ تفاحة جون.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T09:53:33.931670Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:هيدي"
+    ],
+    [
+      "PART",
+      "apc:تفاحة"
+    ],
+    [
+      "PART",
+      "apc:جون"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It is John's apple"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It's John's apple"
+    ]
+  ]
+}

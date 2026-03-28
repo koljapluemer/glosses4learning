@@ -1,0 +1,35 @@
+{
+  "content": "Eres una chica linda.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:34.587688Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Eres"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:chica"
+    ],
+    [
+      "PART",
+      "spa:linda"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You're a cute girl"
+    ]
+  ]
+}

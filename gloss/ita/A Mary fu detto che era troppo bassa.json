@@ -1,0 +1,51 @@
+{
+  "content": "A Mary fu detto che era troppo bassa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:42.659334Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:fu"
+    ],
+    [
+      "PART",
+      "ita:detto"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:era"
+    ],
+    [
+      "PART",
+      "ita:troppo"
+    ],
+    [
+      "PART",
+      "ita:bassa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary was told she was too short"
+    ]
+  ]
+}

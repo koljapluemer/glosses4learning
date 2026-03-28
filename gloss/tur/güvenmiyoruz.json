@@ -1,0 +1,33 @@
+{
+  "content": "güvenmiyoruz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:43.461875Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:18:10.379095Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'a özellikle güvenmiyoruz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir vertrauen nicht"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir haben kein Vertrauen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we don't trust"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we are not trusting"
+    ]
+  ]
+}

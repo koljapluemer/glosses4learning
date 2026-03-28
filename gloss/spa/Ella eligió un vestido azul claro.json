@@ -1,0 +1,43 @@
+{
+  "content": "Ella eligió un vestido azul claro.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:46:13.791909Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:eligió"
+    ],
+    [
+      "PART",
+      "spa:un"
+    ],
+    [
+      "PART",
+      "spa:vestido"
+    ],
+    [
+      "PART",
+      "spa:azul"
+    ],
+    [
+      "PART",
+      "spa:claro"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She chose a light blue dress"
+    ]
+  ]
+}

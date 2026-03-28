@@ -1,0 +1,35 @@
+{
+  "content": "Tom è famoso.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:10:21.769170Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:famoso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom is famous"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom's famous"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "araba",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:22.294601Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:13.743753Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Öğrencinin arabası eskidir"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Fadıl yeni arabasına aşıktı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auto"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:car"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vehicle"
+    ]
+  ]
+}

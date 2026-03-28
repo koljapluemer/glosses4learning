@@ -1,0 +1,65 @@
+{
+  "content": "ask for recommendations on local places to visit",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:recommendations"
+    ],
+    [
+      "PART",
+      "eng:local"
+    ],
+    [
+      "PART",
+      "eng:places"
+    ],
+    [
+      "PART",
+      "eng:visit"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Você pode me indicar algum lugar legal para visitar﹖"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Quais são as melhores atrações aqui na cidade﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Você pode me indicar algum lugar legal para visitar﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:Quais são as melhores atrações aqui perto﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Czy możesz polecić jakieś ciekawe miejsca do odwiedzenia﹖"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Jakie są najlepsze atrakcje w okolicy﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Что вы можете порекомендовать посетить в этом районе﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Есть ли у вас советы по местам, которые стоит увидеть﹖"
+    ]
+  ]
+}

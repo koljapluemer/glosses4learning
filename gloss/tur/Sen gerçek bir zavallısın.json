@@ -1,0 +1,35 @@
+{
+  "content": "Sen gerçek bir zavallısın.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:18.788992Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Sen"
+    ],
+    [
+      "PART",
+      "tur:gerçek"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:zavallısın"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You're a real loser"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Tom mi ha detto che eravate felici.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:02:07.785363Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:mi"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:detto"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:eravate"
+    ],
+    [
+      "PART",
+      "ita:felici"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom told me you were happy"
+    ]
+  ]
+}

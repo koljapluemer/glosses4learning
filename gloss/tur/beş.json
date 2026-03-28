@@ -1,0 +1,33 @@
+{
+  "content": "beş",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:44.319840Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:43.747200Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Köyde beş inek var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:fünf"
+    ],
+    [
+      "TRANSLATION",
+      "deu:5"
+    ],
+    [
+      "TRANSLATION",
+      "eng:five"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fifth"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "content": "الطيارة من باريس",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T18:44:52.890Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:الطيارة"
+    ],
+    [
+      "PART",
+      "arb:من"
+    ],
+    [
+      "PART",
+      "arb:باريس"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The plane from Paris"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The flight from Paris"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The aircraft from Paris"
+    ]
+  ]
+}

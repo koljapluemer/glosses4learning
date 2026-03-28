@@ -1,0 +1,31 @@
+{
+  "content": "Tenía mis dudas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:22:05.794613Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Tenía"
+    ],
+    [
+      "PART",
+      "spa:mis"
+    ],
+    [
+      "PART",
+      "spa:dudas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I had my doubts"
+    ]
+  ]
+}

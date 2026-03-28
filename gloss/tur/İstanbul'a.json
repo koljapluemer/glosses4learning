@@ -1,0 +1,33 @@
+{
+  "content": "İstanbul'a",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:37:34.662533Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:35:41.814922Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hiç İstanbul'a gitmedim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to Istanbul"
+    ],
+    [
+      "TRANSLATION",
+      "eng:in Istanbul"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nach Istanbul"
+    ],
+    [
+      "TRANSLATION",
+      "deu:in Istanbul"
+    ]
+  ]
+}

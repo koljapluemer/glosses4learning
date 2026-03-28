@@ -1,0 +1,37 @@
+{
+  "content": "bazı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:16:35.238888Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:33:57.876389Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un bazı iyi fikirleri olabilir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:some"
+    ],
+    [
+      "TRANSLATION",
+      "eng:a few"
+    ],
+    [
+      "TRANSLATION",
+      "eng:certain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einige"
+    ],
+    [
+      "TRANSLATION",
+      "deu:manche"
+    ]
+  ]
+}

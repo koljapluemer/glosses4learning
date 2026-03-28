@@ -1,0 +1,35 @@
+{
+  "content": "Onu hemen yapman gerekmiyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:11.070831Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:onu"
+    ],
+    [
+      "PART",
+      "tur:hemen"
+    ],
+    [
+      "PART",
+      "tur:yapman"
+    ],
+    [
+      "PART",
+      "tur:gerekmiyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You don't have to do it right away"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Eğer",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:08:46.758867Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:16.502204Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wenn"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Falls"
+    ],
+    [
+      "TRANSLATION",
+      "eng:if"
+    ],
+    [
+      "TRANSLATION",
+      "eng:in case"
+    ]
+  ]
+}

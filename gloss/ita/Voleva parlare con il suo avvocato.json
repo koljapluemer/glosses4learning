@@ -1,0 +1,47 @@
+{
+  "content": "Voleva parlare con il suo avvocato.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:21:20.419919Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Voleva"
+    ],
+    [
+      "PART",
+      "ita:parlare"
+    ],
+    [
+      "PART",
+      "ita:con"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:suo"
+    ],
+    [
+      "PART",
+      "ita:avvocato"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He wanted to talk to his lawyer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She wanted to talk to her lawyer"
+    ]
+  ]
+}

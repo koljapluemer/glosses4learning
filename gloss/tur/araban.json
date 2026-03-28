@@ -1,0 +1,33 @@
+{
+  "content": "araban",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-11T19:16:58.445475Z": "TRANSLATION_DONE:deu",
+    "2026-01-27T14:53:40.029978Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin araban hızlıdır"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auto"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:your car"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the car"
+    ]
+  ]
+}

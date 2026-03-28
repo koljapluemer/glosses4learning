@@ -1,0 +1,35 @@
+{
+  "content": "O birkaç haftadır kayıp.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:02.497759Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:O"
+    ],
+    [
+      "PART",
+      "tur:birkaç"
+    ],
+    [
+      "PART",
+      "tur:haftadır"
+    ],
+    [
+      "PART",
+      "tur:kayıp"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She had been missing for a couple of weeks"
+    ]
+  ]
+}

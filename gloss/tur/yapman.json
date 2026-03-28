@@ -1,0 +1,41 @@
+{
+  "content": "yapman",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:36:38.282010Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:35:21.738560Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onu hemen yapman gerekmiyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:doing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are doing"
+    ],
+    [
+      "TRANSLATION",
+      "eng:making"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you make"
+    ],
+    [
+      "TRANSLATION",
+      "deu:machen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tun"
+    ]
+  ]
+}

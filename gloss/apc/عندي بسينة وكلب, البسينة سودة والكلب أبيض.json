@@ -1,0 +1,51 @@
+{
+  "content": "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:18.928515Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:عندي"
+    ],
+    [
+      "PART",
+      "apc:بسينة"
+    ],
+    [
+      "PART",
+      "apc:و"
+    ],
+    [
+      "PART",
+      "apc:كلب"
+    ],
+    [
+      "PART",
+      "apc:البسينة"
+    ],
+    [
+      "PART",
+      "apc:سودة"
+    ],
+    [
+      "PART",
+      "apc:الكلب"
+    ],
+    [
+      "PART",
+      "apc:أبيض"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have a cat and a dog. The cat is black and the dog is white"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom fühlte sich verantwortlich.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:18.877041Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:fühlte"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:verantwortlich"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Tom heer höm forswaarelk föölt"
+    ]
+  ]
+}

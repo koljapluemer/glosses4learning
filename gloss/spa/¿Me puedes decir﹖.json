@@ -1,0 +1,37 @@
+{
+  "content": "¿Me puedes decir?",
+  "language": "spa",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T21:18:14.452Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "spa:me"
+    ],
+    [
+      "PART",
+      "spa:Puedes"
+    ],
+    [
+      "PART",
+      "spa:decir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can you tell me﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Could you tell me﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can you say﹖"
+    ]
+  ]
+}

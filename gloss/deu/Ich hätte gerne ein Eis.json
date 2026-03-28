@@ -1,0 +1,39 @@
+{
+  "content": "Ich hätte gerne ein Eis.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:15.237702Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:hätte"
+    ],
+    [
+      "PART",
+      "deu:gerne"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:Eis"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Ik her hol en Is"
+    ]
+  ]
+}

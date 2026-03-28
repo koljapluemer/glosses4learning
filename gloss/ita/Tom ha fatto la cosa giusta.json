@@ -1,0 +1,43 @@
+{
+  "content": "Tom ha fatto la cosa giusta.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:01:11.863938Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:fatto"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:cosa"
+    ],
+    [
+      "PART",
+      "ita:giusta"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom did the right thing"
+    ]
+  ]
+}

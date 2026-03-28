@@ -1,0 +1,33 @@
+{
+  "content": "evli",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:15:05.302214Z": "TRANSLATION_DONE:eng",
+    "2026-01-11T19:17:06.325549Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:O benim bir kuzenimle evli"
+    ],
+    [
+      "TRANSLATION",
+      "eng:married"
+    ],
+    [
+      "TRANSLATION",
+      "eng:in a marriage"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verheiratet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ehelich"
+    ]
+  ]
+}

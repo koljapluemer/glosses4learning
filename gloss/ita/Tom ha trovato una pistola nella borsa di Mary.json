@@ -1,0 +1,55 @@
+{
+  "content": "Tom ha trovato una pistola nella borsa di Mary.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:58:04.210295Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:trovato"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:pistola"
+    ],
+    [
+      "PART",
+      "ita:nella"
+    ],
+    [
+      "PART",
+      "ita:borsa"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom found a gun in Mary's purse"
+    ]
+  ]
+}

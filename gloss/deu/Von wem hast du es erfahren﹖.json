@@ -1,0 +1,43 @@
+{
+  "content": "Von wem hast du es erfahren?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:50.353620Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:wem"
+    ],
+    [
+      "PART",
+      "deu:hast"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:erfahren"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kimden öğrendin﹖"
+    ]
+  ]
+}

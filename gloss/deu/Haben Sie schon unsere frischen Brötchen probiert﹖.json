@@ -1,0 +1,45 @@
+{
+  "content": "Haben Sie schon unsere frischen Brötchen probiert?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.877933Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:schon"
+    ],
+    [
+      "PART",
+      "deu:unsere"
+    ],
+    [
+      "PART",
+      "deu:frischen"
+    ],
+    [
+      "PART",
+      "deu:Brötchen"
+    ],
+    [
+      "PART",
+      "deu:probiert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Have you tried our fresh rolls yet﹖"
+    ]
+  ]
+}

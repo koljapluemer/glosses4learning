@@ -1,0 +1,39 @@
+{
+  "content": "Was kostet ein Laib Brot?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T14:20:36.876197Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Was"
+    ],
+    [
+      "PART",
+      "deu:kostet"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:Laib"
+    ],
+    [
+      "PART",
+      "deu:Brot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:confirm the price of a loaf of bread"
+    ],
+    [
+      "TRANSLATION",
+      "eng:How much does a loaf of bread cost﹖"
+    ]
+  ]
+}

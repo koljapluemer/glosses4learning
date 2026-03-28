@@ -1,0 +1,33 @@
+{
+  "content": "görmedim",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:39.750180Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:18:04.030114Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Dünden beri Tom'u görmedim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe nicht gesehen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe es nicht gesehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I didn't see"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I haven't seen"
+    ]
+  ]
+}

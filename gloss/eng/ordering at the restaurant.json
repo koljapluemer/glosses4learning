@@ -1,0 +1,40 @@
+{
+  "content": "ordering at the restaurant",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:situation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "CHILD",
+      "eng:inquire about the daily specials available"
+    ],
+    [
+      "CHILD",
+      "eng:ask for the check at the end of the meal"
+    ],
+    [
+      "CHILD",
+      "arb:هل تريد شيئاً آخر؟"
+    ],
+    [
+      "CHILD",
+      "arb:ما هو طلبك اليوم؟"
+    ],
+    [
+      "CHILD",
+      "arb:هل تفضل المشروبات الغازية أم الطبيعية؟"
+    ],
+    [
+      "CHILD",
+      "arb:هل لديك أي حساسية تجاه الطعام؟"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "A Jack interessa la pittura.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by matsuteo (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:40:54.566028Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Jack"
+    ],
+    [
+      "PART",
+      "ita:interessa"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:pittura"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Jack is interested in painting"
+    ]
+  ]
+}

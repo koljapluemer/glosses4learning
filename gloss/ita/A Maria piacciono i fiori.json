@@ -1,0 +1,39 @@
+{
+  "content": "A Maria piacciono i fiori.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:25.146026Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Maria"
+    ],
+    [
+      "PART",
+      "ita:piacciono"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:fiori"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Maria likes flowers"
+    ]
+  ]
+}

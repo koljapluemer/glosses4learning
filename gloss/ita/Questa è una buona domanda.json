@@ -1,0 +1,39 @@
+{
+  "content": "Questa è una buona domanda.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:07:40.395041Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Questa"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:buona"
+    ],
+    [
+      "PART",
+      "ita:domanda"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This is a good question"
+    ]
+  ]
+}

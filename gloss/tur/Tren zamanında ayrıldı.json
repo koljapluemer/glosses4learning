@@ -1,0 +1,31 @@
+{
+  "content": "Tren zamanında ayrıldı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:39.955161Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:tren"
+    ],
+    [
+      "PART",
+      "tur:zamanında"
+    ],
+    [
+      "PART",
+      "tur:ayrıldı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The train left on time"
+    ]
+  ]
+}

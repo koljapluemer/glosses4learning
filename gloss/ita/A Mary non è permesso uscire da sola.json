@@ -1,0 +1,51 @@
+{
+  "content": "A Mary non è permesso uscire da sola.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:20:08.530539Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:permesso"
+    ],
+    [
+      "PART",
+      "ita:uscire"
+    ],
+    [
+      "PART",
+      "ita:da"
+    ],
+    [
+      "PART",
+      "ita:sola"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary isn't allowed to go out by herself"
+    ]
+  ]
+}

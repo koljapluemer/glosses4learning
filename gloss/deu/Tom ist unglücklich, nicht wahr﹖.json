@@ -1,0 +1,39 @@
+{
+  "content": "Tom ist unglücklich, nicht wahr?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:33.796569Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:unglücklich"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:wahr"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom mutsuz, değil mi﹖"
+    ]
+  ]
+}

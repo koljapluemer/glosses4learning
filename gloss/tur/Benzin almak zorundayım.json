@@ -1,0 +1,31 @@
+{
+  "content": "Benzin almak zorundayım.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:53:58.702759Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Benzin"
+    ],
+    [
+      "PART",
+      "tur:almak"
+    ],
+    [
+      "PART",
+      "tur:zorundayım"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich muss tanken"
+    ]
+  ]
+}

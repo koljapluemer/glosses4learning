@@ -1,0 +1,33 @@
+{
+  "content": "Hava",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:08:50.241981Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:15:23.760279Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hava nasıl﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Luft"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wetter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Air"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Weather"
+    ]
+  ]
+}

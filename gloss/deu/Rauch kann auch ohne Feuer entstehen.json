@@ -1,0 +1,43 @@
+{
+  "content": "Rauch kann auch ohne Feuer entstehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:36.392130Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Rauch"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:auch"
+    ],
+    [
+      "PART",
+      "deu:ohne"
+    ],
+    [
+      "PART",
+      "deu:Feuer"
+    ],
+    [
+      "PART",
+      "deu:entstehen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ateşsiz duman da çıkabilir"
+    ]
+  ]
+}

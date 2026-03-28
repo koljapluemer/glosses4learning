@@ -1,0 +1,49 @@
+{
+  "content": "inform a person that you struggle with speaking the language fluently",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:struggle"
+    ],
+    [
+      "PART",
+      "eng:speaking"
+    ],
+    [
+      "PART",
+      "eng:language"
+    ],
+    [
+      "PART",
+      "eng:fluently"
+    ],
+    [
+      "TRANSLATION",
+      "arb:بلاقي صعوبة لما بحكي باللّغة"
+    ],
+    [
+      "TRANSLATION",
+      "arb:ما بقدر أحكي باللّغة بشكل سهل"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Me cuesta hablar español con fluidez"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Tengo dificultades para hablar español fluidamente"
+    ]
+  ]
+}

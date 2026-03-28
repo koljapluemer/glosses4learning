@@ -1,0 +1,43 @@
+{
+  "content": "Ich möchte mir die Zähne putzen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:22:33.363359Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:möchte"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Zähne"
+    ],
+    [
+      "PART",
+      "deu:putzen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Dişlerimi fırçalamak isterim"
+    ]
+  ]
+}

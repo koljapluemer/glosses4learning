@@ -1,0 +1,47 @@
+{
+  "content": "A Mary manca la sua scarpa destra.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:43:05.052961Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:manca"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:sua"
+    ],
+    [
+      "PART",
+      "ita:scarpa"
+    ],
+    [
+      "PART",
+      "ita:destra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary is missing her right shoe"
+    ]
+  ]
+}

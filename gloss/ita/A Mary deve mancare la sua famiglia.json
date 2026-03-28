@@ -1,0 +1,47 @@
+{
+  "content": "A Mary deve mancare la sua famiglia.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:42:36.184007Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:deve"
+    ],
+    [
+      "PART",
+      "ita:mancare"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:sua"
+    ],
+    [
+      "PART",
+      "ita:famiglia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary must miss her family"
+    ]
+  ]
+}

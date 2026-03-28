@@ -1,0 +1,39 @@
+{
+  "content": "Size hepsini halledeceğimin garantisini verebilirim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:13:22.314648Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:boyut"
+    ],
+    [
+      "PART",
+      "tur:hepsi"
+    ],
+    [
+      "PART",
+      "tur:halletmek"
+    ],
+    [
+      "PART",
+      "tur:garanti"
+    ],
+    [
+      "PART",
+      "tur:vermek"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich kann euch garantieren, dass ich alles erledigen werde"
+    ]
+  ]
+}

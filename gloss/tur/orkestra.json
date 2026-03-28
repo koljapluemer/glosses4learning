@@ -1,0 +1,37 @@
+{
+  "content": "orkestra",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:43:51.177869Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:45:02.702765Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Mary bir baton kullanarak orkestrayı yönetti"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Orchester"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kapelle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:orchestra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:band"
+    ],
+    [
+      "TRANSLATION",
+      "eng:musical ensemble"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Wie geht's dir?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-20T13:12:32.634Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-20T13:12:54.521Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wie"
+    ],
+    [
+      "PART",
+      "deu:geht"
+    ],
+    [
+      "PART",
+      "deu:dir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inquire about the person's day or how they are doing"
+    ]
+  ]
+}

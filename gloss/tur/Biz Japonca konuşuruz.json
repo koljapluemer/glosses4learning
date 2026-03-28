@@ -1,0 +1,31 @@
+{
+  "content": "Biz Japonca konuşuruz.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:06:07.222625Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Biz"
+    ],
+    [
+      "PART",
+      "tur:Japonca"
+    ],
+    [
+      "PART",
+      "tur:konuşuruz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir sprechen Japanisch"
+    ]
+  ]
+}

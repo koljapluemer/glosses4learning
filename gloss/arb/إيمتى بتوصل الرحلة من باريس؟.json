@@ -1,0 +1,29 @@
+{
+  "content": "إيمتى بتوصل الرحلة من باريس؟",
+  "language": "arb",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-14T18:44:52.891Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:arb"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "arb:إيمتى"
+    ],
+    [
+      "PART",
+      "arb:بتوصل"
+    ],
+    [
+      "PART",
+      "arb:الرحلة من باريس"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask when the flight from Paris will arrive"
+    ]
+  ]
+}

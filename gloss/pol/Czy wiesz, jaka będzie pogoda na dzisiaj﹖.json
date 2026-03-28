@@ -1,0 +1,48 @@
+{
+  "content": "Czy wiesz, jaka będzie pogoda na dzisiaj?",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T14:19:11.299Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:wiesz"
+    ],
+    [
+      "PART",
+      "pol:jaka"
+    ],
+    [
+      "PART",
+      "pol:będzie"
+    ],
+    [
+      "PART",
+      "pol:pogoda"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:dzisiaj"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inquire about the local weather from a passerby"
+    ]
+  ]
+}

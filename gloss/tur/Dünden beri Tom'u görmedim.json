@@ -1,0 +1,35 @@
+{
+  "content": "Dünden beri Tom'u görmedim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:06:33.023222Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Dünden"
+    ],
+    [
+      "PART",
+      "tur:beri"
+    ],
+    [
+      "PART",
+      "tur:Tom'u"
+    ],
+    [
+      "PART",
+      "tur:görmedim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe Tom seit gestern nicht gesehen"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "Voimmeko aloittaa kokouksen?",
+  "language": "fin",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:understand-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "fin:Voimmeko"
+    ],
+    [
+      "PART",
+      "fin:aloittaa"
+    ],
+    [
+      "PART",
+      "fin:kokouksen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can we start the meeting﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Shall we begin the meeting﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are we ready to start the meeting﹖"
+    ]
+  ]
+}

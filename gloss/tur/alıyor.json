@@ -1,0 +1,41 @@
+{
+  "content": "alıyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:19.323562Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:10.364257Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Mary bale dersleri alıyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nimmt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:holt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is taking"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is receiving"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is getting"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is buying"
+    ]
+  ]
+}

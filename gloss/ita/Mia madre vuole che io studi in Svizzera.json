@@ -1,0 +1,51 @@
+{
+  "content": "Mia madre vuole che io studi in Svizzera.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:20:14.729027Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mia"
+    ],
+    [
+      "PART",
+      "ita:madre"
+    ],
+    [
+      "PART",
+      "ita:vuole"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:io"
+    ],
+    [
+      "PART",
+      "ita:studi"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:Svizzera"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My mother wants me to study in Switzerland"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Dovette pulire la cucina.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:24:21.521914Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Dovette"
+    ],
+    [
+      "PART",
+      "ita:pulire"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:cucina"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He had to clean the kitchen"
+    ]
+  ]
+}

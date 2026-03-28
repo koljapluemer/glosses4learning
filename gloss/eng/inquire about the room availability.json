@@ -1,0 +1,29 @@
+{
+  "content": "inquire about the room availability",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:room"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ci sono camere disponibili﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Avete disponibilità di stanze﹖"
+    ]
+  ]
+}

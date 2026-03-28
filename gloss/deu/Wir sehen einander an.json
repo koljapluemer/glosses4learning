@@ -1,0 +1,35 @@
+{
+  "content": "Wir sehen einander an.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:26:58.393349Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:sehen"
+    ],
+    [
+      "PART",
+      "deu:einander"
+    ],
+    [
+      "PART",
+      "deu:an"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Wi luke enöler uun"
+    ]
+  ]
+}

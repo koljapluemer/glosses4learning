@@ -1,0 +1,39 @@
+{
+  "content": "Io odio i pesci rossi.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:54:02.106360Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:odio"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:pesci"
+    ],
+    [
+      "PART",
+      "ita:rossi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I hate goldfish"
+    ]
+  ]
+}

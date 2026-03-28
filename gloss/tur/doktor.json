@@ -1,0 +1,33 @@
+{
+  "content": "doktor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:15:02.543500Z": "TRANSLATION_DONE:eng",
+    "2026-01-11T19:17:04.691922Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun bir doktor olup olmadığını bilmiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:doctor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:physician"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arzt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ärztin"
+    ]
+  ]
+}

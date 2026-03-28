@@ -1,0 +1,39 @@
+{
+  "content": "È intelligente quanto sua sorella.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:14:59.577304Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:È"
+    ],
+    [
+      "PART",
+      "ita:intelligente"
+    ],
+    [
+      "PART",
+      "ita:quanto"
+    ],
+    [
+      "PART",
+      "ita:sua"
+    ],
+    [
+      "PART",
+      "ita:sorella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He's as smart as his sister"
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "content": "esto",
+  "language": "spa",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-11T12:55:29.822877Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-14T21:19:37.062Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2025-12-14T21:20:06.656Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estuve esperando por toda la mañana para que esto ocurriera"
+    ],
+    [
+      "TRANSLATION",
+      "eng:this"
+    ]
+  ]
+}

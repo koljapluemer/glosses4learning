@@ -1,0 +1,35 @@
+{
+  "content": "Mir gefällt dein Vorname.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:21.850832Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Mir"
+    ],
+    [
+      "PART",
+      "deu:gefällt"
+    ],
+    [
+      "PART",
+      "deu:dein"
+    ],
+    [
+      "PART",
+      "deu:Vorname"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ismini sevdim"
+    ]
+  ]
+}

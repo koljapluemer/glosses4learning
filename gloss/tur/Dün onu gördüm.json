@@ -1,0 +1,31 @@
+{
+  "content": "Dün onu gördüm.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:06:31.181077Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Dün"
+    ],
+    [
+      "PART",
+      "tur:onu"
+    ],
+    [
+      "PART",
+      "tur:gördüm"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe sie gestern gesehen"
+    ]
+  ]
+}

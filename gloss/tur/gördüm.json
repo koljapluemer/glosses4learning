@@ -1,0 +1,33 @@
+{
+  "content": "gördüm",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:10:39.015591Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:18:03.415077Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Dün onu gördüm"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich sah"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe gesehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I saw"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have seen"
+    ]
+  ]
+}

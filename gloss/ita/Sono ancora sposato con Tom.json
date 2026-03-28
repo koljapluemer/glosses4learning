@@ -1,0 +1,39 @@
+{
+  "content": "Sono ancora sposato con Tom.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:08:01.198854Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono__split6"
+    ],
+    [
+      "PART",
+      "ita:ancora"
+    ],
+    [
+      "PART",
+      "ita:sposato"
+    ],
+    [
+      "PART",
+      "ita:con"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm still married to Tom"
+    ]
+  ]
+}

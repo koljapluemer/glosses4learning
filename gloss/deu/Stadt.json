@@ -1,0 +1,39 @@
+{
+  "content": "Stadt",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-20T14:23:08.515Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-20T14:23:22.242Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die Bevölkerung dieser Stadt wird jedes Jahr kleiner"
+    ],
+    [
+      "TRANSLATION",
+      "eng:city"
+    ],
+    [
+      "TRANSLATION",
+      "eng:town"
+    ],
+    [
+      "TRANSLATION",
+      "eng:municipality"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Polis"
+    ]
+  ]
+}

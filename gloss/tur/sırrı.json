@@ -1,0 +1,33 @@
+{
+  "content": "sırrı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:16.843344Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:26.470165Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:O bu sırrı açık etmek istiyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geheimnis"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geheim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:secret"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mystery"
+    ]
+  ]
+}

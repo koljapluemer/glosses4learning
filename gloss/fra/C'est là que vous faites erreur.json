@@ -1,0 +1,43 @@
+{
+  "content": "C'est là que vous faites erreur.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:48:48.509440Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:là"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:faites"
+    ],
+    [
+      "PART",
+      "fra:erreur"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That's where you're wrong"
+    ]
+  ]
+}

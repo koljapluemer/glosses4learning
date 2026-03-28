@@ -1,0 +1,33 @@
+{
+  "content": "present the agenda for the meeting",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "eng:agenda"
+    ],
+    [
+      "PART",
+      "eng:meeting"
+    ],
+    [
+      "TRANSLATION",
+      "fin:Käydään läpi kokouksen agenda"
+    ],
+    [
+      "TRANSLATION",
+      "fin:Tässä on päivän ohjelma, jonka haluaisin esittää"
+    ]
+  ]
+}

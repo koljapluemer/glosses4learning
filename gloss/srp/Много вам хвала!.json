@@ -1,0 +1,31 @@
+{
+  "content": "Много вам хвала!",
+  "language": "srp",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dzoja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Thank you very much!"
+    ],
+    [
+      "PART",
+      "srp:Много"
+    ],
+    [
+      "PART",
+      "srp:вам"
+    ],
+    [
+      "PART",
+      "srp:хвала"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:24:50.436195Z": "SPLIT_DONE"
+  }
+}

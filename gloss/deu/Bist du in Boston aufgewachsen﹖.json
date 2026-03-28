@@ -1,0 +1,39 @@
+{
+  "content": "Bist du in Boston aufgewachsen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:19:19.974338Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Bist"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:Boston"
+    ],
+    [
+      "PART",
+      "deu:aufgewachsen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Did you grow up in Boston﹖"
+    ]
+  ]
+}

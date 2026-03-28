@@ -1,0 +1,39 @@
+{
+  "content": "Elle tient de sa mère.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:49:01.737570Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Elle"
+    ],
+    [
+      "PART",
+      "fra:tient"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:sa"
+    ],
+    [
+      "PART",
+      "fra:mère"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She takes after her mother"
+    ]
+  ]
+}

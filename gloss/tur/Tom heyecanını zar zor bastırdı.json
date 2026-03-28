@@ -1,0 +1,39 @@
+{
+  "content": "Tom heyecanını zar zor bastırdı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:27.967132Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:heyecan"
+    ],
+    [
+      "PART",
+      "tur:zar"
+    ],
+    [
+      "PART",
+      "tur:zor"
+    ],
+    [
+      "PART",
+      "tur:bastırdı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom could hardly contain his excitement"
+    ]
+  ]
+}

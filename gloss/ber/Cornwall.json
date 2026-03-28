@@ -1,0 +1,46 @@
+{
+  "content": "Cornwall",
+  "language": "ber",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ber:Azul seg Cornwall!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Cornwall"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Cornish region"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Cornish area"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Cornouailles"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Cornwall"
+    ],
+    [
+      "TRANSLATION",
+      "kab:Kornoua"
+    ],
+    [
+      "TRANSLATION",
+      "kab:Kornoual"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T10:28:33.860620Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T10:28:34.680749Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T10:28:35.489291Z": "TRANSLATION_DONE:kab"
+  }
+}

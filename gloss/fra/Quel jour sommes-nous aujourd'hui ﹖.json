@@ -1,0 +1,39 @@
+{
+  "content": "Quel jour sommes-nous aujourd'hui ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:50:13.714261Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Quel"
+    ],
+    [
+      "PART",
+      "fra:jour"
+    ],
+    [
+      "PART",
+      "fra:sommes"
+    ],
+    [
+      "PART",
+      "fra:nous"
+    ],
+    [
+      "PART",
+      "fra:aujourd'hui"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What's the day today﹖"
+    ]
+  ]
+}

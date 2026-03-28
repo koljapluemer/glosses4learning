@@ -1,0 +1,34 @@
+{
+  "content": "ask when the flight from Paris will arrive",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "PART",
+      "eng:ask"
+    ],
+    [
+      "PART",
+      "eng:when"
+    ],
+    [
+      "PART",
+      "eng:flight from Paris"
+    ],
+    [
+      "TRANSLATION",
+      "arb:متى رح توصل الطيارة من باريس؟"
+    ],
+    [
+      "TRANSLATION",
+      "arb:إيمتى بتوصل الرحلة من باريس؟"
+    ]
+  ]
+}

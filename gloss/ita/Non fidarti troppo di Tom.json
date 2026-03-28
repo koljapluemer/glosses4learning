@@ -1,0 +1,39 @@
+{
+  "content": "Non fidarti troppo di Tom.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:08:58.514534Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Non"
+    ],
+    [
+      "PART",
+      "ita:fidarti"
+    ],
+    [
+      "PART",
+      "ita:troppo"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Don't trust Tom too much"
+    ]
+  ]
+}

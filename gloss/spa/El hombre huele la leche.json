@@ -1,0 +1,39 @@
+{
+  "content": "El hombre huele la leche.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:40:55.098591Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:hombre"
+    ],
+    [
+      "PART",
+      "spa:huele"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:leche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The man smells the milk"
+    ]
+  ]
+}

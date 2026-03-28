@@ -1,0 +1,31 @@
+{
+  "content": "Bu da kim?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:43:13.504264Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Bu"
+    ],
+    [
+      "PART",
+      "tur:da"
+    ],
+    [
+      "PART",
+      "tur:kim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wer ist das denn﹖"
+    ]
+  ]
+}

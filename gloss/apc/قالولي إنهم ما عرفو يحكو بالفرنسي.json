@@ -1,0 +1,43 @@
+{
+  "content": "قالولي إنهم ما عرفو يحكو بالفرنسي.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:34.708121Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:قالولي"
+    ],
+    [
+      "PART",
+      "apc:إنهم"
+    ],
+    [
+      "PART",
+      "apc:ما"
+    ],
+    [
+      "PART",
+      "apc:عرفو"
+    ],
+    [
+      "PART",
+      "apc:يحكو"
+    ],
+    [
+      "PART",
+      "apc:بالفرنسي"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They told me they couldn't speak French"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Sie tanzt mit einem anderen Mann.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:24:56.871906Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:tanzt"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:einem"
+    ],
+    [
+      "PART",
+      "deu:anderen"
+    ],
+    [
+      "PART",
+      "deu:Mann"
+    ],
+    [
+      "TRANSLATION",
+      "tur:O başka bir adamla dans ediyor"
+    ]
+  ]
+}

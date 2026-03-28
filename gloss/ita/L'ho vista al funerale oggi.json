@@ -1,0 +1,39 @@
+{
+  "content": "L'ho vista al funerale oggi.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:14:46.062086Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:L'ho"
+    ],
+    [
+      "PART",
+      "ita:vista"
+    ],
+    [
+      "PART",
+      "ita:al"
+    ],
+    [
+      "PART",
+      "ita:funerale"
+    ],
+    [
+      "PART",
+      "ita:oggi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I saw her at the funeral today"
+    ]
+  ]
+}

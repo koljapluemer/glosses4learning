@@ -1,0 +1,46 @@
+{
+  "content": "Azul",
+  "language": "ber",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ber:Azul seg Cornwall!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Hello"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Greetings"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Bonjour"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Salut"
+    ],
+    [
+      "TRANSLATION",
+      "kab:Azul"
+    ],
+    [
+      "TRANSLATION",
+      "kab:Azul fell-awen"
+    ],
+    [
+      "TRANSLATION",
+      "kab:Azul fell-as"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T10:28:28.373669Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T10:28:29.150804Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T10:28:30.277026Z": "TRANSLATION_DONE:kab"
+  }
+}

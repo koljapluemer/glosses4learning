@@ -1,0 +1,35 @@
+{
+  "content": "قال اِنُّه كْتير بَرْدان",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by karimique (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:32.862632Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:قال"
+    ],
+    [
+      "PART",
+      "apc:اِنُّه"
+    ],
+    [
+      "PART",
+      "apc:كْتير"
+    ],
+    [
+      "PART",
+      "apc:بَرْدان"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He said that he was very cold"
+    ]
+  ]
+}

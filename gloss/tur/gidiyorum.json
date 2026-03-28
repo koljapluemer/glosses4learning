@@ -1,0 +1,37 @@
+{
+  "content": "gidiyorum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:34:26.869734Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:36:58.107293Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom gelince, gidiyorum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich gehe"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin unterwegs"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am going"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am leaving"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am off"
+    ]
+  ]
+}

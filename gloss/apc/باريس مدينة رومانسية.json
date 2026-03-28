@@ -1,0 +1,31 @@
+{
+  "content": "باريس مدينة رومانسية.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:19:07.775250Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:باريس"
+    ],
+    [
+      "PART",
+      "apc:مدينة"
+    ],
+    [
+      "PART",
+      "apc:رومانسية"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Paris is a romantic city"
+    ]
+  ]
+}

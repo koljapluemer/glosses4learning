@@ -1,0 +1,33 @@
+{
+  "content": "biletlerini",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:45.111545Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:45.044966Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tren biletlerini unuttum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:deine Tickets"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Tickets"
+    ],
+    [
+      "TRANSLATION",
+      "eng:your tickets"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the tickets"
+    ]
+  ]
+}

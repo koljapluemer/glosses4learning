@@ -1,0 +1,47 @@
+{
+  "content": "A Mary non piace dormire da sola.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:43:37.724545Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:piace"
+    ],
+    [
+      "PART",
+      "ita:dormire"
+    ],
+    [
+      "PART",
+      "ita:da"
+    ],
+    [
+      "PART",
+      "ita:sola"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary doesn't like sleeping alone"
+    ]
+  ]
+}

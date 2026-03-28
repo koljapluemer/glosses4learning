@@ -1,0 +1,35 @@
+{
+  "content": "Toms Kinder sind krank.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:43.263783Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Toms"
+    ],
+    [
+      "PART",
+      "deu:Kinder"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "PART",
+      "deu:krank"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom'un çocukları hasta"
+    ]
+  ]
+}

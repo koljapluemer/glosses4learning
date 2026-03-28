@@ -1,0 +1,33 @@
+{
+  "content": "sıcak",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:35:11.705000Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T07:37:13.367702Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Soğuk bir duş yap ve sonra sıcak bir çay iç!"
+    ],
+    [
+      "TRANSLATION",
+      "deu:heiß"
+    ],
+    [
+      "TRANSLATION",
+      "deu:warm"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:warm"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "content": "ask how long to cook something",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {},
+  "tags": [
+    "eng:paraphrase",
+    "eng:procedural-paraphrase-expression-goal"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "eng:ask"
+    ],
+    [
+      "PART",
+      "eng:how"
+    ],
+    [
+      "PART",
+      "eng:long"
+    ],
+    [
+      "PART",
+      "eng:to"
+    ],
+    [
+      "PART",
+      "eng:cook"
+    ],
+    [
+      "PART",
+      "eng:something"
+    ]
+  ]
+}

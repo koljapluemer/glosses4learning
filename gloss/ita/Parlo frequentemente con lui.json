@@ -1,0 +1,35 @@
+{
+  "content": "Parlo frequentemente con lui.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T13:59:56.658639Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Parlo"
+    ],
+    [
+      "PART",
+      "ita:frequentemente"
+    ],
+    [
+      "PART",
+      "ita:con"
+    ],
+    [
+      "PART",
+      "ita:lui"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I frequently talk to him"
+    ]
+  ]
+}

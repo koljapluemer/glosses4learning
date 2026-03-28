@@ -1,0 +1,39 @@
+{
+  "content": "Evde kaç tane yatak var?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:54:00.305711Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Evde"
+    ],
+    [
+      "PART",
+      "tur:kaç"
+    ],
+    [
+      "PART",
+      "tur:tane"
+    ],
+    [
+      "PART",
+      "tur:yatak"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie viele Betten gibt es im Haus﹖"
+    ]
+  ]
+}

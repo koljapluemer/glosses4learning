@@ -1,0 +1,39 @@
+{
+  "content": "Slowenisch ist eine schöne Sprache.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:01.993480Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Slowenisch"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:eine"
+    ],
+    [
+      "PART",
+      "deu:schöne"
+    ],
+    [
+      "PART",
+      "deu:Sprache"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Slovence güzel bir dildir"
+    ]
+  ]
+}

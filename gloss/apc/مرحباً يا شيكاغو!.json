@@ -1,0 +1,31 @@
+{
+  "content": "مرحباً يا شيكاغو!",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:18:57.679913Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:مرحباً"
+    ],
+    [
+      "PART",
+      "apc:يا"
+    ],
+    [
+      "PART",
+      "apc:شيكاغو"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Hello, Chicago!"
+    ]
+  ]
+}

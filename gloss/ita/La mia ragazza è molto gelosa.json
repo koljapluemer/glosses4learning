@@ -1,0 +1,43 @@
+{
+  "content": "La mia ragazza è molto gelosa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:18:20.295686Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:mia"
+    ],
+    [
+      "PART",
+      "ita:ragazza"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:molto"
+    ],
+    [
+      "PART",
+      "ita:gelosa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My girlfriend is very jealous"
+    ]
+  ]
+}

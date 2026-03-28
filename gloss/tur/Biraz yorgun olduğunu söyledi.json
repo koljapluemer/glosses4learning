@@ -1,0 +1,35 @@
+{
+  "content": "Biraz yorgun olduğunu söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:25:46.527741Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Biraz"
+    ],
+    [
+      "PART",
+      "tur:yorgun"
+    ],
+    [
+      "PART",
+      "tur:olduğunu"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er sagte, er sei ein bisschen müde"
+    ]
+  ]
+}

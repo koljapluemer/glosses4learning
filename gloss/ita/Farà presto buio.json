@@ -1,0 +1,31 @@
+{
+  "content": "Farà presto buio.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:23:46.395948Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Farà"
+    ],
+    [
+      "PART",
+      "ita:presto"
+    ],
+    [
+      "PART",
+      "ita:buio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It's going to get dark soon"
+    ]
+  ]
+}

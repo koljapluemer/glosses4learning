@@ -1,0 +1,47 @@
+{
+  "content": "Nosotros a menudo comparamos Japón con Inglaterra.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:41:42.921577Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Nosotros"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:menudo"
+    ],
+    [
+      "PART",
+      "spa:comparamos"
+    ],
+    [
+      "PART",
+      "spa:Japón"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:Inglaterra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We often compare Japan with Britain"
+    ]
+  ]
+}

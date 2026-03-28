@@ -1,0 +1,31 @@
+{
+  "content": "Öğretmene soralım.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:44:35.934011Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Öğretmen"
+    ],
+    [
+      "PART",
+      "tur:e"
+    ],
+    [
+      "PART",
+      "tur:soralım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's ask the teacher"
+    ]
+  ]
+}

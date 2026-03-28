@@ -1,0 +1,35 @@
+{
+  "content": "Neler olduğunu biliyor musun?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:44:27.826572Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Neler"
+    ],
+    [
+      "PART",
+      "tur:olduğunu"
+    ],
+    [
+      "PART",
+      "tur:biliyor"
+    ],
+    [
+      "PART",
+      "tur:musun"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you know what's going on﹖"
+    ]
+  ]
+}

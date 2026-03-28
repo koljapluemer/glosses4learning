@@ -1,0 +1,43 @@
+{
+  "content": "100 euro per tutto il giorno.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:38:50.523740Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:100"
+    ],
+    [
+      "PART",
+      "ita:euro"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:tutto"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:giorno"
+    ],
+    [
+      "TRANSLATION",
+      "eng:100 euros for the whole day"
+    ]
+  ]
+}

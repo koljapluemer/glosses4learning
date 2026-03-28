@@ -1,0 +1,47 @@
+{
+  "content": "Mi ha detto che non mangiava carne.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:11:33.237457Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Mi"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:detto"
+    ],
+    [
+      "PART",
+      "ita:che"
+    ],
+    [
+      "PART",
+      "ita:non"
+    ],
+    [
+      "PART",
+      "ita:mangiava"
+    ],
+    [
+      "PART",
+      "ita:carne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She told me that she didn't eat meat"
+    ]
+  ]
+}

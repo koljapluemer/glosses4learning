@@ -1,0 +1,39 @@
+{
+  "content": "Tom'un ayakkabılarını çıkarmasına gerek yok.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:14:33.075309Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:ayakkabılarını"
+    ],
+    [
+      "PART",
+      "tur:çıkarmasına"
+    ],
+    [
+      "PART",
+      "tur:gerek"
+    ],
+    [
+      "PART",
+      "tur:yok"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom doesn't need to take his shoes off"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Haben sie sich zu Toms Tat geäußert?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:01.965194Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:sie"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:Toms"
+    ],
+    [
+      "PART",
+      "deu:Tat"
+    ],
+    [
+      "PART",
+      "deu:geäußert"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Haa ja jam tö Tom sin Daat ütert﹖"
+    ]
+  ]
+}

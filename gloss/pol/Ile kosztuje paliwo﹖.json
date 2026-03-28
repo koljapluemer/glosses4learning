@@ -1,0 +1,32 @@
+{
+  "content": "Ile kosztuje paliwo?",
+  "language": "pol",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T14:16:14.487Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "pol:Ile"
+    ],
+    [
+      "PART",
+      "pol:kosztuje"
+    ],
+    [
+      "PART",
+      "pol:paliwo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask for the price of fuel at the gas station"
+    ]
+  ]
+}

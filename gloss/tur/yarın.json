@@ -1,0 +1,33 @@
+{
+  "content": "yarın",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:45:14.129253Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T08:14:09.111722Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yarın kiliseye gitmeliyim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tomorrow"
+    ],
+    [
+      "TRANSLATION",
+      "eng:next day"
+    ],
+    [
+      "TRANSLATION",
+      "deu:morgen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:am morgigen Tag"
+    ]
+  ]
+}

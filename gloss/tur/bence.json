@@ -1,0 +1,41 @@
+{
+  "content": "bence",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:09:41.648850Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:16:39.920281Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bence bu inanılmaz"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bence daha isabetli ve daha güzel bir sunum olamaz"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich denke"
+    ],
+    [
+      "TRANSLATION",
+      "deu:meiner Meinung nach"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I think"
+    ],
+    [
+      "TRANSLATION",
+      "eng:In my opinion"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I believe"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "content": "توم بيفهم اللي هي ما بتفهم.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:17:42.656101Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:توم"
+    ],
+    [
+      "PART",
+      "apc:بيفهم"
+    ],
+    [
+      "PART",
+      "apc:اللي"
+    ],
+    [
+      "PART",
+      "apc:هي"
+    ],
+    [
+      "PART",
+      "apc:ما"
+    ],
+    [
+      "PART",
+      "apc:بتفهم"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom understands what you don't"
+    ]
+  ]
+}

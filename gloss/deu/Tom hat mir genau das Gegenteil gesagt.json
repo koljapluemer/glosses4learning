@@ -1,0 +1,47 @@
+{
+  "content": "Tom hat mir genau das Gegenteil gesagt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:25:30.651219Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:genau"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:Gegenteil"
+    ],
+    [
+      "PART",
+      "deu:gesagt"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom bana tam tersini söylemişti"
+    ]
+  ]
+}

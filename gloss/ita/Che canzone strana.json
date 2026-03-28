@@ -1,0 +1,31 @@
+{
+  "content": "Che canzone strana...",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:14:53.810722Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Che"
+    ],
+    [
+      "PART",
+      "ita:canzone"
+    ],
+    [
+      "PART",
+      "ita:strana"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What a weird song"
+    ]
+  ]
+}

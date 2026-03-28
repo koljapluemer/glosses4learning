@@ -1,0 +1,35 @@
+{
+  "content": "Alles war in Ordnung.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:19:14.449544Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Alles"
+    ],
+    [
+      "PART",
+      "deu:war"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:Ordnung"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Ales wiar bi di Reeg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "content": "A Jim è stata rubata la macchina fotografica.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:41:08.751685Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:A"
+    ],
+    [
+      "PART",
+      "ita:Jim"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:stata"
+    ],
+    [
+      "PART",
+      "ita:rubata"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:macchina"
+    ],
+    [
+      "PART",
+      "ita:fotografica"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Jim had his camera stolen"
+    ]
+  ]
+}

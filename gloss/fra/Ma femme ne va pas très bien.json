@@ -1,0 +1,47 @@
+{
+  "content": "Ma femme ne va pas très bien.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:49:58.777528Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:Ma"
+    ],
+    [
+      "PART",
+      "fra:femme"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:va"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:très"
+    ],
+    [
+      "PART",
+      "fra:bien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My wife isn't doing very well"
+    ]
+  ]
+}

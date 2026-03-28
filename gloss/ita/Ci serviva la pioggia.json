@@ -1,0 +1,35 @@
+{
+  "content": "Ci serviva la pioggia.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:22:49.173521Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ci"
+    ],
+    [
+      "PART",
+      "ita:serviva"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:pioggia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We needed the rain"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Bu soba çok fazla tütüyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:14:32.121857Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Bu"
+    ],
+    [
+      "PART",
+      "tur:soba"
+    ],
+    [
+      "PART",
+      "tur:çok"
+    ],
+    [
+      "PART",
+      "tur:fazla"
+    ],
+    [
+      "PART",
+      "tur:tütüyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That stove smokes too much"
+    ]
+  ]
+}

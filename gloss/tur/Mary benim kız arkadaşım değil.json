@@ -1,0 +1,39 @@
+{
+  "content": "Mary benim kız arkadaşım değil.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:52:14.334231Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:benim"
+    ],
+    [
+      "PART",
+      "tur:kız"
+    ],
+    [
+      "PART",
+      "tur:arkadaşım"
+    ],
+    [
+      "PART",
+      "tur:değil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary isn't my girlfriend"
+    ]
+  ]
+}

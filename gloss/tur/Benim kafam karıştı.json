@@ -1,0 +1,31 @@
+{
+  "content": "Benim kafam karıştı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:05:54.419375Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Benim"
+    ],
+    [
+      "PART",
+      "tur:kafam"
+    ],
+    [
+      "PART",
+      "tur:karıştı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin verwirrt"
+    ]
+  ]
+}

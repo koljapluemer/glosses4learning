@@ -1,0 +1,43 @@
+{
+  "content": "توم بيفهم اللي انت ما بتفهمه.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:18:11.751099Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:توم"
+    ],
+    [
+      "PART",
+      "apc:بيفهم"
+    ],
+    [
+      "PART",
+      "apc:اللي"
+    ],
+    [
+      "PART",
+      "apc:انت"
+    ],
+    [
+      "PART",
+      "apc:ما"
+    ],
+    [
+      "PART",
+      "apc:بتفهمه"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom understands what you don't"
+    ]
+  ]
+}

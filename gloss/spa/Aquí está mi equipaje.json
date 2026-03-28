@@ -1,0 +1,35 @@
+{
+  "content": "Aquí está mi equipaje.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:40:45.973017Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:aquí"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:mi"
+    ],
+    [
+      "PART",
+      "spa:equipaje"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Here is my baggage"
+    ]
+  ]
+}

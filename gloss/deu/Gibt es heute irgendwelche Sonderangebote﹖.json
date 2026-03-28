@@ -1,0 +1,40 @@
+{
+  "content": "Gibt es heute irgendwelche Sonderangebote?",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T14:22:21.771Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "deu:Gibt"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:irgendwelche"
+    ],
+    [
+      "PART",
+      "deu:Sonderangebote"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask if there are any special offers today"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": "¿Sabes lo que dijo Mary?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-22T15:42:17.531129Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Sabes"
+    ],
+    [
+      "PART",
+      "spa:lo"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:dijo"
+    ],
+    [
+      "PART",
+      "spa:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you know what Mary said﹖"
+    ]
+  ]
+}

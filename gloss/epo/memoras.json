@@ -1,0 +1,73 @@
+{
+  "content": "memoras",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ĉu vi memoras﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erinnert sich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gedenkt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remembers"
+    ],
+    [
+      "TRANSLATION",
+      "eng:recalls"
+    ],
+    [
+      "TRANSLATION",
+      "fra:se souvenir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:se rappeler"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ricorda"
+    ],
+    [
+      "TRANSLATION",
+      "ita:si ricorda"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помнить"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вспоминать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hatırlamak"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anımsamak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ĉu vi memoras min﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:26:17.140961Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T13:26:18.571732Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T13:26:19.411752Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T13:26:20.481614Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T13:26:21.253392Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T13:26:22.625471Z": "TRANSLATION_DONE:tur"
+  }
+}

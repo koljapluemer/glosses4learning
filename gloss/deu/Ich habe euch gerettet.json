@@ -1,0 +1,35 @@
+{
+  "content": "Ich habe euch gerettet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:21:57.710879Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:euch"
+    ],
+    [
+      "PART",
+      "deu:gerettet"
+    ],
+    [
+      "TRANSLATION",
+      "frr:Ik haa junk retet"
+    ]
+  ]
+}

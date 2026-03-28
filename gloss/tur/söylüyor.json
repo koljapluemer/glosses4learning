@@ -1,0 +1,53 @@
+{
+  "content": "söylüyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:15.661296Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:24.222935Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'dan korktuğumu kim söylüyor﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Birçok insan, bunun bir yalan olduğunu söylüyor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:er sagt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie sagt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:man sagt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:says"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is saying"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tells"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is telling"
+    ]
+  ]
+}

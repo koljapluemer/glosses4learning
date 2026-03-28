@@ -1,0 +1,43 @@
+{
+  "content": "حاولت أقوللها بس هي رفضت تسمعلي.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:20:13.875268Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:حاولت"
+    ],
+    [
+      "PART",
+      "arz:أقوللها"
+    ],
+    [
+      "PART",
+      "arz:بس"
+    ],
+    [
+      "PART",
+      "arz:هي"
+    ],
+    [
+      "PART",
+      "arz:رفضت"
+    ],
+    [
+      "PART",
+      "arz:تسمعلي"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I tried to tell her, but she refused to listen"
+    ]
+  ]
+}

@@ -2,19 +2,111 @@
   "content": "buying something at the bakery",
   "language": "eng",
   "transcriptions": {},
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
-  "translations": [
-    "deu:Etwas beim Bäcker kaufen",
-    "deu:Beim Bäcker einkaufen"
+  "logs": {},
+  "tags": [
+    "eng:situation"
   ],
-  "notes": [],
-  "tags": []
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "CHILD",
+      "eng:inquire about the types of bread available"
+    ],
+    [
+      "CHILD",
+      "eng:request a specific pastry from the display"
+    ],
+    [
+      "CHILD",
+      "eng:ask if any items are freshly baked today"
+    ],
+    [
+      "CHILD",
+      "eng:confirm the price of a loaf of bread"
+    ],
+    [
+      "CHILD",
+      "eng:express a desire to buy a dozen cookies"
+    ],
+    [
+      "CHILD",
+      "eng:request a bag for carrying purchased items"
+    ],
+    [
+      "CHILD",
+      "eng:thank the baker for their assistance"
+    ],
+    [
+      "CHILD",
+      "deu:Guten Morgen! Was kann ich für Sie tun﹖"
+    ],
+    [
+      "CHILD",
+      "deu:Haben Sie schon unsere frischen Brötchen probiert﹖"
+    ],
+    [
+      "CHILD",
+      "deu:Wir haben heute auch leckere Croissants im Angebot"
+    ],
+    [
+      "CHILD",
+      "deu:Möchten Sie etwas Süßes, wie einen Kuchen oder ein Stück Torte﹖"
+    ],
+    [
+      "CHILD",
+      "deu:Das macht zusammen 5 Euro, bitte"
+    ],
+    [
+      "CHILD",
+      "deu:Möchten Sie eine Tüte dazu﹖"
+    ],
+    [
+      "CHILD",
+      "deu:Vielen Dank! Einen schönen Tag noch!"
+    ],
+    [
+      "CHILD",
+      "deu:Wir akzeptieren auch Kreditkarten"
+    ],
+    [
+      "CHILD",
+      "eng:ask for the price of a pastry"
+    ],
+    [
+      "CHILD",
+      "eng:request a recommendation for a fresh item"
+    ],
+    [
+      "CHILD",
+      "eng:ask if there are any special offers today"
+    ],
+    [
+      "CHILD",
+      "deu:Haben Sie frisches Brot heute﹖"
+    ],
+    [
+      "CHILD",
+      "deu:Ich hätte gerne ein Stück Kuchen, bitte"
+    ],
+    [
+      "CHILD",
+      "deu:Könnte ich die Brötchen bitte einzeln haben﹖"
+    ],
+    [
+      "CHILD",
+      "deu:Wie viel kostet das﹖"
+    ],
+    [
+      "CHILD",
+      "eng:Request a recommendation for a popular pastry"
+    ],
+    [
+      "CHILD",
+      "eng:Ask the baker how fresh the pastries are today"
+    ]
+  ]
 }

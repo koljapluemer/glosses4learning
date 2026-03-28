@@ -1,0 +1,39 @@
+{
+  "content": "Spesso la paella include lumache.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:13:20.756809Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Spesso"
+    ],
+    [
+      "PART",
+      "ita:la"
+    ],
+    [
+      "PART",
+      "ita:paella"
+    ],
+    [
+      "PART",
+      "ita:include"
+    ],
+    [
+      "PART",
+      "ita:lumache"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Paella often includes snails"
+    ]
+  ]
+}

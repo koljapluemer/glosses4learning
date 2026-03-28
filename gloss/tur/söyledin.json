@@ -1,0 +1,33 @@
+{
+  "content": "söyledin",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T08:14:02.455307Z": "TRANSLATION_DONE:deu",
+    "2026-01-03T08:15:27.040619Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Sen, hatalarını kabul etmen gerektiğini söyledin mi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du hast gesagt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du hast gesprochen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you said"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you told"
+    ]
+  ]
+}

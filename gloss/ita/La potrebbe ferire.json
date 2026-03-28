@@ -1,0 +1,31 @@
+{
+  "content": "La potrebbe ferire.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:21:44.406892Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:potrebbe"
+    ],
+    [
+      "PART",
+      "ita:ferire"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He might hurt her"
+    ]
+  ]
+}

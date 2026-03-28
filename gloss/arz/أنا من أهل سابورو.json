@@ -1,0 +1,35 @@
+{
+  "content": "أنا من أهل سابورو.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:20:47.924544Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:أنا"
+    ],
+    [
+      "PART",
+      "arz:من"
+    ],
+    [
+      "PART",
+      "arz:أهل"
+    ],
+    [
+      "PART",
+      "arz:سابورو"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm from Sapporo"
+    ]
+  ]
+}

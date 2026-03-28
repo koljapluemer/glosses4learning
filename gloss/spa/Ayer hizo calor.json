@@ -1,0 +1,31 @@
+{
+  "content": "Ayer hizo calor.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:16:28.638141Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ayer"
+    ],
+    [
+      "PART",
+      "spa:hizo"
+    ],
+    [
+      "PART",
+      "spa:calor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It was hot yesterday"
+    ]
+  ]
+}

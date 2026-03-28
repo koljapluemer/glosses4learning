@@ -1,0 +1,33 @@
+{
+  "content": "ı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:13:04.916431Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:37:36.310042Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'u çağırmamı ister misiniz﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich bin"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I"
+    ],
+    [
+      "TRANSLATION",
+      "eng:me"
+    ]
+  ]
+}

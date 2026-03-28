@@ -1,0 +1,35 @@
+{
+  "content": "È uscito dalla cucina.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:06:41.654029Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:È"
+    ],
+    [
+      "PART",
+      "ita:uscito"
+    ],
+    [
+      "PART",
+      "ita:dalla"
+    ],
+    [
+      "PART",
+      "ita:cucina"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He got out of the kitchen"
+    ]
+  ]
+}

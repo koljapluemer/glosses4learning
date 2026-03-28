@@ -1,0 +1,52 @@
+{
+  "content": "Me resulta difícil mantener una conversación en español.",
+  "language": "spa",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-16T11:41:16.618Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+  },
+  "tags": [],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "decorativeImages": [],
+  "semanticImages": [],
+  "unambigiousImages": [],
+  "relationships": [
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:resulta"
+    ],
+    [
+      "PART",
+      "spa:difícil"
+    ],
+    [
+      "PART",
+      "spa:mantener"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:conversación"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:español"
+    ],
+    [
+      "TRANSLATION",
+      "eng:indicate that you find it challenging to hold a conversation in the language"
+    ]
+  ]
+}

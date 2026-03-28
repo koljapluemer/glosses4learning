@@ -1,0 +1,31 @@
+{
+  "content": "Tako sam debeo.",
+  "language": "srp",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by neron (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I'm so fat"
+    ],
+    [
+      "PART",
+      "srp:Tako"
+    ],
+    [
+      "PART",
+      "srp:sam"
+    ],
+    [
+      "PART",
+      "srp:debeo"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T13:24:58.270449Z": "SPLIT_DONE"
+  }
+}

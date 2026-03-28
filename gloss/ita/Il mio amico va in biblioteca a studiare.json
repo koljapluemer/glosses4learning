@@ -1,0 +1,51 @@
+{
+  "content": "Il mio amico va in biblioteca a studiare.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:24:02.419828Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Il"
+    ],
+    [
+      "PART",
+      "ita:mio"
+    ],
+    [
+      "PART",
+      "ita:amico"
+    ],
+    [
+      "PART",
+      "ita:va"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:biblioteca"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:studiare"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My friend goes to the library to study"
+    ]
+  ]
+}

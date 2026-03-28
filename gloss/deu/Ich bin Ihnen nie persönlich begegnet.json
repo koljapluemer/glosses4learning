@@ -1,0 +1,43 @@
+{
+  "content": "Ich bin Ihnen nie persönlich begegnet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:18:24.361310Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:Ihnen"
+    ],
+    [
+      "PART",
+      "deu:nie"
+    ],
+    [
+      "PART",
+      "deu:persönlich"
+    ],
+    [
+      "PART",
+      "deu:begegnet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I've never met you in person"
+    ]
+  ]
+}

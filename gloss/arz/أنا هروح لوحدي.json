@@ -1,0 +1,31 @@
+{
+  "content": "أنا هروح لوحدي",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-11T19:20:49.638150Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:أنا"
+    ],
+    [
+      "PART",
+      "arz:هروح"
+    ],
+    [
+      "PART",
+      "arz:لوحدي"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'll go on my own"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "content": "أنا صايمه النهارده.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:19:41.394527Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:أنا"
+    ],
+    [
+      "PART",
+      "arz:صايمه"
+    ],
+    [
+      "PART",
+      "arz:النهارده"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm fasting today"
+    ]
+  ]
+}

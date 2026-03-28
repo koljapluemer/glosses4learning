@@ -1,0 +1,33 @@
+{
+  "content": "unutmuşum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-02T09:12:23.692463Z": "TRANSLATION_DONE:deu",
+    "2026-01-02T09:20:35.480679Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tamamen unutmuşum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe es vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I forgot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I've forgotten"
+    ]
+  ]
+}

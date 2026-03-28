@@ -1,0 +1,35 @@
+{
+  "content": "Non vinco molto spesso.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:23:30.269248Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Non"
+    ],
+    [
+      "PART",
+      "ita:vinco"
+    ],
+    [
+      "PART",
+      "ita:molto"
+    ],
+    [
+      "PART",
+      "ita:spesso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't win very often"
+    ]
+  ]
+}

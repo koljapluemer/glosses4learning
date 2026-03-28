@@ -1,0 +1,39 @@
+{
+  "content": "La seconda lezione è facile.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:23:39.277202Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:seconda"
+    ],
+    [
+      "PART",
+      "ita:lezione"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:facile"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Lesson Two is easy"
+    ]
+  ]
+}

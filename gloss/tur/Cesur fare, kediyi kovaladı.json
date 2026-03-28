@@ -1,0 +1,35 @@
+{
+  "content": "Cesur fare, kediyi kovaladı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:51:56.788727Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Cesur"
+    ],
+    [
+      "PART",
+      "tur:fare"
+    ],
+    [
+      "PART",
+      "tur:kediyi"
+    ],
+    [
+      "PART",
+      "tur:kovaladı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The brave mouse chased the cat"
+    ]
+  ]
+}

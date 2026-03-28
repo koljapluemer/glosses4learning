@@ -1,0 +1,114 @@
+{
+  "content": "akzeptieren",
+  "language": "deu",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-12T13:52:07.947119Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2025-12-12T14:01:30.036748Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-12T14:07:47.637814Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-12T14:08:30.390371Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-12T14:10:54.606651Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-12T14:11:37.117378Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2025-12-12T14:19:15.171436Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
+    "2025-12-12T14:20:36.913062Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-28T10:55:53.230980Z": "TRANSLATION_DONE:ber",
+    "2026-03-28T10:55:53.907511Z": "TRANSLATION_DONE:epo",
+    "2026-03-28T10:55:54.769127Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T10:55:55.560395Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T10:55:56.277742Z": "TRANSLATION_DONE:kab",
+    "2026-03-28T10:55:57.193498Z": "TRANSLATION_DONE:rus"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hast du gesagt, dass du deine Fehler akzeptieren sollst﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:akzeptieren"
+    ],
+    [
+      "TRANSLATION",
+      "deu:annehmen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hinnehmen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zustimmen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:billigen"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kabul"
+    ],
+    [
+      "TRANSLATION",
+      "ber:acceptar"
+    ],
+    [
+      "TRANSLATION",
+      "ber:admettre"
+    ],
+    [
+      "TRANSLATION",
+      "epo:akcepti"
+    ],
+    [
+      "TRANSLATION",
+      "epo:akceptiĝi"
+    ],
+    [
+      "TRANSLATION",
+      "fra:accepter"
+    ],
+    [
+      "TRANSLATION",
+      "fra:admettre"
+    ],
+    [
+      "TRANSLATION",
+      "fra:recevoir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tolérer"
+    ],
+    [
+      "TRANSLATION",
+      "ita:accettare"
+    ],
+    [
+      "TRANSLATION",
+      "ita:accogliere"
+    ],
+    [
+      "TRANSLATION",
+      "kab:aɣbalu"
+    ],
+    [
+      "TRANSLATION",
+      "kab:aɣbalt"
+    ],
+    [
+      "TRANSLATION",
+      "rus:принимать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:признавать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:соглашаться"
+    ]
+  ]
+}

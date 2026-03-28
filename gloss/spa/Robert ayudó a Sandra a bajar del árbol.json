@@ -1,0 +1,47 @@
+{
+  "content": "Robert ayudó a Sandra a bajar del árbol.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:21:57.049202Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Robert"
+    ],
+    [
+      "PART",
+      "spa:ayudó"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:Sandra"
+    ],
+    [
+      "PART",
+      "spa:bajar"
+    ],
+    [
+      "PART",
+      "spa:del"
+    ],
+    [
+      "PART",
+      "spa:árbol"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Robert helped Sandra down the tree"
+    ]
+  ]
+}

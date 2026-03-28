@@ -1,0 +1,31 @@
+{
+  "content": "J'ai beaucoup d'élastiques.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:49:09.286786Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "fra:J'ai"
+    ],
+    [
+      "PART",
+      "fra:beaucoup"
+    ],
+    [
+      "PART",
+      "fra:d'élastiques"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have a lot of elastic bands"
+    ]
+  ]
+}

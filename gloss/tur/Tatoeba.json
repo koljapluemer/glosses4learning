@@ -1,0 +1,33 @@
+{
+  "content": "Tatoeba",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:36:43.315809Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T07:43:31.524653Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:for example"
+    ],
+    [
+      "TRANSLATION",
+      "eng:such as"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zum Beispiel"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beispielsweise"
+    ]
+  ]
+}

@@ -2,20 +2,34 @@
   "content": "رحلة",
   "language": "arb",
   "transcriptions": {},
-  "morphologically_related": [],
-  "parts": [],
-  "has_similar_meaning": [],
-  "sounds_similar": [],
-  "usage_examples": [],
-  "to_be_differentiated_from": [],
-  "collocations": [],
-  "typical_follow_up": [],
-  "children": [],
-  "translations": [
-    "eng:flight"
-  ],
-  "notes": [],
+  "logs": {
+    "2025-12-14T14:49:30.600Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
   "tags": [
     "machine-translation"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "arb:أنا بحب الرحلة مع الأصحاب"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "arb:رحلة الصيف كانت ممتعة"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "arb:وين بدنا نروح بالرحلة؟"
+    ],
+    [
+      "TRANSLATION",
+      "eng:flight"
+    ],
+    [
+      "TRANSLATION",
+      "eng:trip"
+    ]
   ]
 }

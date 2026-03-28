@@ -1,0 +1,35 @@
+{
+  "content": "Köyde beş inek var.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:07:00.980049Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Köyde"
+    ],
+    [
+      "PART",
+      "tur:beş"
+    ],
+    [
+      "PART",
+      "tur:inek"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Im Dorf gibt es fünf Rinder"
+    ]
+  ]
+}

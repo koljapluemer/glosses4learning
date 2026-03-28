@@ -1,0 +1,39 @@
+{
+  "content": "La birra è bevuta fredda.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:00:49.965348Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:La"
+    ],
+    [
+      "PART",
+      "ita:birra"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:bevuta"
+    ],
+    [
+      "PART",
+      "ita:fredda"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Beer is drunk cold"
+    ]
+  ]
+}

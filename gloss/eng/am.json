@@ -1,0 +1,119 @@
+{
+  "content": "am",
+  "language": "eng",
+  "transcriptions": {},
+  "logs": {
+    "2025-12-11T11:24:17.843913Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T10:53:59.346789Z": "TRANSLATION_DONE:ber",
+    "2026-03-28T10:54:00.055988Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T10:54:00.875048Z": "TRANSLATION_DONE:epo",
+    "2026-03-28T10:54:01.694806Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T10:54:02.513391Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T10:54:03.435417Z": "TRANSLATION_DONE:kab",
+    "2026-03-28T10:54:04.458437Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T10:54:05.203967Z": "TRANSLATION_DONE:tur"
+  },
+  "tags": [
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
+  ],
+  "needsHumanCheck": false,
+  "excludeFromLearning": false,
+  "credits": [
+    "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "arb:بكون"
+    ],
+    [
+      "TRANSLATION",
+      "arb:عم"
+    ],
+    [
+      "TRANSLATION",
+      "arz:بكون"
+    ],
+    [
+      "TRANSLATION",
+      "arz:بَكون"
+    ],
+    [
+      "TRANSLATION",
+      "jpn:は"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tell him I'm coming back"
+    ],
+    [
+      "TRANSLATION",
+      "ber:ani"
+    ],
+    [
+      "TRANSLATION",
+      "ber:nni"
+    ],
+    [
+      "TRANSLATION",
+      "deu:am"
+    ],
+    [
+      "TRANSLATION",
+      "deu:an dem"
+    ],
+    [
+      "TRANSLATION",
+      "epo:amo"
+    ],
+    [
+      "TRANSLATION",
+      "epo:amikeco"
+    ],
+    [
+      "TRANSLATION",
+      "fra:suis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:est"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sono"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sto"
+    ],
+    [
+      "TRANSLATION",
+      "kab:am"
+    ],
+    [
+      "TRANSLATION",
+      "kab:ama"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я"
+    ],
+    [
+      "TRANSLATION",
+      "rus:являюсь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:varım"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm not a hipster"
+    ]
+  ]
+}

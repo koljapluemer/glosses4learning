@@ -1,0 +1,28 @@
+{
+  "content": "Buch",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-27T14:44:23.310266Z": "TRANSLATION_DONE:eng"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Buch handelt von China"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book"
+    ],
+    [
+      "TRANSLATION",
+      "eng:volume"
+    ],
+    [
+      "TRANSLATION",
+      "epo:libro"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom beni arıyor mu?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:07:44.499061Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:beni"
+    ],
+    [
+      "PART",
+      "tur:arıyor"
+    ],
+    [
+      "PART",
+      "tur:mu"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sucht Tom nach mir﹖"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Ayer tuvimos buen tiempo.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T15:21:48.760514Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "spa:Ayer"
+    ],
+    [
+      "PART",
+      "spa:tuvimos"
+    ],
+    [
+      "PART",
+      "spa:buen"
+    ],
+    [
+      "PART",
+      "spa:tiempo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We had nice weather yesterday"
+    ]
+  ]
+}

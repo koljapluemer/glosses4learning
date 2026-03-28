@@ -1,0 +1,35 @@
+{
+  "content": "Era un libro nuovo.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:06:39.973941Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Era"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:libro"
+    ],
+    [
+      "PART",
+      "ita:nuovo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It was a new book"
+    ]
+  ]
+}

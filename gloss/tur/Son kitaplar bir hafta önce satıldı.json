@@ -1,0 +1,43 @@
+{
+  "content": "Son kitaplar bir hafta önce satıldı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-27T14:54:05.789759Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Son"
+    ],
+    [
+      "PART",
+      "tur:kitaplar"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:hafta"
+    ],
+    [
+      "PART",
+      "tur:önce"
+    ],
+    [
+      "PART",
+      "tur:satıldı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Die letzten Bücher wurden vor einer Woche verkauft"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Mary politika ile ilgilenir.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-02T09:07:04.256709Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:Mary"
+    ],
+    [
+      "PART",
+      "tur:politika"
+    ],
+    [
+      "PART",
+      "tur:ile"
+    ],
+    [
+      "PART",
+      "tur:ilgilenir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maria interessiert sich für Politik"
+    ]
+  ]
+}

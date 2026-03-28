@@ -1,0 +1,33 @@
+{
+  "content": "kaybetti",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-01-03T07:44:52.825536Z": "TRANSLATION_DONE:eng",
+    "2026-01-03T08:13:52.411451Z": "TRANSLATION_DONE:deu"
+  },
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yaralılar ne kadar kan kaybetti﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lost"
+    ],
+    [
+      "TRANSLATION",
+      "eng:has lost"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verloren"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hat verloren"
+    ]
+  ]
+}

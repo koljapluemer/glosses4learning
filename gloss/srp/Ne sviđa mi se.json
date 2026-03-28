@@ -1,0 +1,35 @@
+{
+  "content": "Ne sviđa mi se.",
+  "language": "srp",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by neron (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I didn't like it"
+    ],
+    [
+      "PART",
+      "srp:Ne"
+    ],
+    [
+      "PART",
+      "srp:sviđa"
+    ],
+    [
+      "PART",
+      "srp:mi"
+    ],
+    [
+      "PART",
+      "srp:se"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T10:00:11.298887Z": "SPLIT_DONE"
+  }
+}

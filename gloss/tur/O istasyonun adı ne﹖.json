@@ -1,0 +1,35 @@
+{
+  "content": "O istasyonun adı ne?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:44:29.285324Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "tur:O"
+    ],
+    [
+      "PART",
+      "tur:istasyonun"
+    ],
+    [
+      "PART",
+      "tur:adı"
+    ],
+    [
+      "PART",
+      "tur:ne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What's the name of that station﹖"
+    ]
+  ]
+}

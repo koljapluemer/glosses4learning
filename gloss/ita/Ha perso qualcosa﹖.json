@@ -1,0 +1,35 @@
+{
+  "content": "Ha perso qualcosa?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2025-12-28T14:05:59.834339Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "ita:Ha"
+    ],
+    [
+      "PART",
+      "ita:perso"
+    ],
+    [
+      "PART",
+      "ita:qualcosa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Did you lose something﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Have you lost something﹖"
+    ]
+  ]
+}

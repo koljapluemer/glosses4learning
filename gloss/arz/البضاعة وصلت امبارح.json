@@ -1,0 +1,31 @@
+{
+  "content": "البضاعة وصلت امبارح.",
+  "language": "arz",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T08:19:52.882817Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "arz:البضاعة"
+    ],
+    [
+      "PART",
+      "arz:وصلت"
+    ],
+    [
+      "PART",
+      "arz:امبارح"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The goods arrived yesterday"
+    ]
+  ]
+}

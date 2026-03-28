@@ -1,0 +1,43 @@
+{
+  "content": "البربر بيقولوا انو لغتهم اسمها تامازايت.",
+  "language": "apc",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+  ],
+  "logs": {
+    "2026-01-03T07:49:10.360788Z": "SPLIT_DONE"
+  },
+  "relationships": [
+    [
+      "PART",
+      "apc:البربر"
+    ],
+    [
+      "PART",
+      "apc:بيقولوا"
+    ],
+    [
+      "PART",
+      "apc:انو"
+    ],
+    [
+      "PART",
+      "apc:لغتهم"
+    ],
+    [
+      "PART",
+      "apc:اسمها"
+    ],
+    [
+      "PART",
+      "apc:تامازايت"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Berbers call their language Tamazight"
+    ]
+  ]
+}
