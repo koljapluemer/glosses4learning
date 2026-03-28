@@ -1,0 +1,32 @@
+{
+  "content": "date",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi est-ce que les produits de beauté ont-ils une date d'expiration ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:date"
+    ],
+    [
+      "TRANSLATION",
+      "eng:appointment"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deadline"
+    ],
+    [
+      "TRANSLATION",
+      "eng:calendar date"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:45:53.630695Z": "TRANSLATION_DONE:eng"
+  }
+}

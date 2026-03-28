@@ -1,0 +1,32 @@
+{
+  "content": "messages",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Nous utilisons souvent des gestes pour communiquer des messages simples"
+    ],
+    [
+      "TRANSLATION",
+      "eng:messages"
+    ],
+    [
+      "TRANSLATION",
+      "eng:notes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:texts"
+    ],
+    [
+      "TRANSLATION",
+      "eng:communications"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:49:26.791520Z": "TRANSLATION_DONE:eng"
+  }
+}

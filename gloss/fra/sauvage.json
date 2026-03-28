@@ -1,0 +1,36 @@
+{
+  "content": "sauvage",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les chats harets représentent une menace majeure pour la faune sauvage"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wild"
+    ],
+    [
+      "TRANSLATION",
+      "eng:savage"
+    ],
+    [
+      "TRANSLATION",
+      "eng:untamed"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fierce"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les chats errants représentent une menace majeure pour la faune sauvage"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:43:11.335348Z": "TRANSLATION_DONE:eng"
+  }
+}

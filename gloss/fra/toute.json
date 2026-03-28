@@ -1,0 +1,44 @@
+{
+  "content": "toute",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:En quelques jours, les forces allemandes se sont déployées dans toute la Pologne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:all"
+    ],
+    [
+      "TRANSLATION",
+      "eng:whole"
+    ],
+    [
+      "TRANSLATION",
+      "eng:entire"
+    ],
+    [
+      "TRANSLATION",
+      "eng:every"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je suis resté toute la journée à la maison parce que je ne me sentais pas bien"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai vraiment faim. Je n'ai pas mangé de toute la semaine"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne peux pas vous laisser aller là-dedans toute seule"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:39:22.782491Z": "TRANSLATION_DONE:eng"
+  }
+}

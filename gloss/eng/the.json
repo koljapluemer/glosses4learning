@@ -3,10 +3,13 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:23:55.211088Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:23:55.211088Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T15:29:37.988523Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T15:29:38.735658Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -148,6 +151,34 @@
     [
       "TRANSLATION",
       "yid:דער"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We live in the city"
+    ],
+    [
+      "TRANSLATION",
+      "rus:это"
+    ],
+    [
+      "TRANSLATION",
+      "rus:тот"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bu"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o"
+    ],
+    [
+      "TRANSLATION",
+      "tgl:ang"
+    ],
+    [
+      "TRANSLATION",
+      "fra:la"
     ]
   ]
 }

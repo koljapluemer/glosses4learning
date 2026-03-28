@@ -1,0 +1,36 @@
+{
+  "content": "savais",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne savais pas que vous deux étiez meilleurs amis à présent"
+    ],
+    [
+      "TRANSLATION",
+      "eng:knew"
+    ],
+    [
+      "TRANSLATION",
+      "eng:was aware"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne savais pas que Tom était le petit-fils de Mary"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne savais pas que Tom était le fils de Mary"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne savais pas que vous étiez de la même famille"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:42:33.553959Z": "TRANSLATION_DONE:eng"
+  }
+}

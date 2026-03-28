@@ -1,0 +1,60 @@
+{
+  "content": "три",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я уже три дня Тома не видел"
+    ],
+    [
+      "TRANSLATION",
+      "deu:drei"
+    ],
+    [
+      "TRANSLATION",
+      "deu:3"
+    ],
+    [
+      "TRANSLATION",
+      "eng:three"
+    ],
+    [
+      "TRANSLATION",
+      "eng:3"
+    ],
+    [
+      "TRANSLATION",
+      "fra:trois"
+    ],
+    [
+      "TRANSLATION",
+      "fra:3"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:3"
+    ],
+    [
+      "TRANSLATION",
+      "tur:üç"
+    ],
+    [
+      "TRANSLATION",
+      "tur:3"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:28:38.278342Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T15:28:38.989413Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T15:28:39.893387Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:28:40.632778Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T15:28:41.194616Z": "TRANSLATION_DONE:tur"
+  }
+}

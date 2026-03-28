@@ -2,9 +2,14 @@
   "content": "may",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-28T15:24:57.191158Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:24:58.016246Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T15:24:59.442355Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -70,6 +75,54 @@
     [
       "TRANSLATION",
       "epo:povas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom may have done this"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peut"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pourrait"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peut-être"
+    ],
+    [
+      "TRANSLATION",
+      "rus:может"
+    ],
+    [
+      "TRANSLATION",
+      "rus:могу"
+    ],
+    [
+      "TRANSLATION",
+      "rus:можно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:may"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olabilir"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mümkün"
+    ],
+    [
+      "TRANSLATION",
+      "fra:puissions"
+    ],
+    [
+      "TRANSLATION",
+      "fra:puisse"
     ]
   ]
 }

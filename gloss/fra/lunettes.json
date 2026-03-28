@@ -1,0 +1,28 @@
+{
+  "content": "lunettes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas où sont mes lunettes de soleil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:glasses"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spectacles"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:« À qui sont ces lunettes de soleil ﹖ » « Elles sont à Nabil. »"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:46:42.947393Z": "TRANSLATION_DONE:eng"
+  }
+}

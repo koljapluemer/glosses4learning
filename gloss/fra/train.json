@@ -1,0 +1,32 @@
+{
+  "content": "train",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne veux pas que vous soyez en train de parler de moi toutes les deux"
+    ],
+    [
+      "TRANSLATION",
+      "eng:train"
+    ],
+    [
+      "TRANSLATION",
+      "eng:train service"
+    ],
+    [
+      "TRANSLATION",
+      "eng:railway"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ces filles ne sont pas en train de parler mais elles sont en train de chanter"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:40:08.151550Z": "TRANSLATION_DONE:eng"
+  }
+}

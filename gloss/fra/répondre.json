@@ -1,0 +1,40 @@
+{
+  "content": "répondre",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tu me poses une question à laquelle je ne peux pas répondre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to respond"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to answer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce sont des questions auxquelles je ne peux pas répondre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vous me posez une question à laquelle je ne peux pas répondre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne suis pas sûr de la manière avec laquelle répondre à ça"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:C'est une question à laquelle je ne peux pas répondre"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:37:48.066065Z": "TRANSLATION_DONE:eng"
+  }
+}

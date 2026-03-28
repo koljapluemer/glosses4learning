@@ -1,0 +1,24 @@
+{
+  "content": "два",
+  "language": "mkd",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "mkd:Имам два братучеда"
+    ],
+    [
+      "TRANSLATION",
+      "eng:two"
+    ],
+    [
+      "TRANSLATION",
+      "eng:a couple"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:27:57.106449Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "content": "propos",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je me sens très mal à propos de la manière dont les choses se sont passées"
+    ],
+    [
+      "TRANSLATION",
+      "eng:statement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remark"
+    ],
+    [
+      "TRANSLATION",
+      "eng:proposal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:intent"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:49:19.400199Z": "TRANSLATION_DONE:eng"
+  }
+}

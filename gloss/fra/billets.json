@@ -1,0 +1,28 @@
+{
+  "content": "billets",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne suis pas certain que nous puissions obtenir des billets ce soir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tickets"
+    ],
+    [
+      "TRANSLATION",
+      "eng:notes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bills"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:50:21.233621Z": "TRANSLATION_DONE:eng"
+  }
+}

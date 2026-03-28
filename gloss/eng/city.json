@@ -3,9 +3,13 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T10:42:52.691Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T10:42:52.691Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T15:29:39.611842Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:29:40.390257Z": "TRANSLATION_DONE:ita"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -63,6 +67,30 @@
     [
       "TRANSLATION",
       "tur:Polis"
+    ],
+    [
+      "TRANSLATION",
+      "tha:เมือง"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We live in the city"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ville"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cité"
+    ],
+    [
+      "TRANSLATION",
+      "ita:città"
+    ],
+    [
+      "TRANSLATION",
+      "ita:metropoli"
     ]
   ]
 }

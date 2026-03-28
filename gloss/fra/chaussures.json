@@ -1,0 +1,24 @@
+{
+  "content": "chaussures",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il n'y a pas les chaussures que j'ai achetées la semaine dernière"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shoes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:footwear"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:41:25.873634Z": "TRANSLATION_DONE:eng"
+  }
+}

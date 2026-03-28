@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:56:45.668023Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:56:45.668023Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T15:30:14.939170Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T15:30:15.964069Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -623,6 +625,22 @@
     [
       "TRANSLATION",
       "fra:pas"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kein"
+    ],
+    [
+      "TRANSLATION",
+      "tur:değil"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hayır"
     ]
   ]
 }

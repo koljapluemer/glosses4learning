@@ -2,9 +2,14 @@
   "content": "done",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-28T15:25:06.769924Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T15:25:07.725678Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T15:25:09.056845Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -33,6 +38,50 @@
     [
       "TRANSLATION",
       "fra:fait"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom may have done this"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fatto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:completato"
+    ],
+    [
+      "TRANSLATION",
+      "ita:eseguito"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сделано"
+    ],
+    [
+      "TRANSLATION",
+      "rus:готово"
+    ],
+    [
+      "TRANSLATION",
+      "rus:завершено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tamam"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bitti"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapıldı"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sonuçlandı"
     ]
   ]
 }

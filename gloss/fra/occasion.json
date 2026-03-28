@@ -1,0 +1,32 @@
+{
+  "content": "occasion",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Une occasion comme celle-ci, il faut que je la saisisse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:occasion"
+    ],
+    [
+      "TRANSLATION",
+      "eng:opportunity"
+    ],
+    [
+      "TRANSLATION",
+      "eng:event"
+    ],
+    [
+      "TRANSLATION",
+      "eng:chance"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:45:32.161534Z": "TRANSLATION_DONE:eng"
+  }
+}

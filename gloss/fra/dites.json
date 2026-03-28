@@ -1,0 +1,24 @@
+{
+  "content": "dites",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:S'il vous plaît, dites à tout le monde que je suis désolé"
+    ],
+    [
+      "TRANSLATION",
+      "eng:say"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tell"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:42:46.057026Z": "TRANSLATION_DONE:eng"
+  }
+}

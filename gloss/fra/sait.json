@@ -1,0 +1,36 @@
+{
+  "content": "sait",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom ne sait pas conduire une voiture à vitesses manuelles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:knows"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is aware"
+    ],
+    [
+      "TRANSLATION",
+      "eng:understands"
+    ],
+    [
+      "TRANSLATION",
+      "eng:can"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tout le monde sait que Tom ne peut pas faire cela"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:40:12.778683Z": "TRANSLATION_DONE:eng"
+  }
+}

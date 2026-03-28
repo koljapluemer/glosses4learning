@@ -1,0 +1,28 @@
+{
+  "content": "demandé",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas vraiment pourquoi elles m'ont demandé ça"
+    ],
+    [
+      "TRANSLATION",
+      "eng:requested"
+    ],
+    [
+      "TRANSLATION",
+      "eng:asked for"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas vraiment pourquoi ils m'ont demandé ça"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:37:17.140001Z": "TRANSLATION_DONE:eng"
+  }
+}

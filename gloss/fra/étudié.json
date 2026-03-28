@@ -1,0 +1,32 @@
+{
+  "content": "étudié",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je n'ai jamais vraiment étudié le C++ au-delà de « Bonjour tout le monde ! »"
+    ],
+    [
+      "TRANSLATION",
+      "eng:studied"
+    ],
+    [
+      "TRANSLATION",
+      "eng:learned"
+    ],
+    [
+      "TRANSLATION",
+      "eng:examined"
+    ],
+    [
+      "TRANSLATION",
+      "eng:analyzed"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:46:47.851899Z": "TRANSLATION_DONE:eng"
+  }
+}

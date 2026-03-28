@@ -1,0 +1,32 @@
+{
+  "content": "exactes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les traductions automatiques ne sont pas toujours exactes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:exact"
+    ],
+    [
+      "TRANSLATION",
+      "eng:accurate"
+    ],
+    [
+      "TRANSLATION",
+      "eng:precise"
+    ],
+    [
+      "TRANSLATION",
+      "eng:right"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:48:14.689314Z": "TRANSLATION_DONE:eng"
+  }
+}

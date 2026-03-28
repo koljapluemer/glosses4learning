@@ -1,0 +1,24 @@
+{
+  "content": "parliez",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne veux pas que vous parliez de moi toutes les deux"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you spoke"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you were speaking"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:48:52.390409Z": "TRANSLATION_DONE:eng"
+  }
+}

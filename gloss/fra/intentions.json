@@ -1,0 +1,36 @@
+{
+  "content": "intentions",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas quelles sont ses véritables intentions"
+    ],
+    [
+      "TRANSLATION",
+      "eng:intentions"
+    ],
+    [
+      "TRANSLATION",
+      "eng:purposes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:plans"
+    ],
+    [
+      "TRANSLATION",
+      "eng:objectives"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas quelles étaient ses réelles intentions"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:42:24.346173Z": "TRANSLATION_DONE:eng"
+  }
+}

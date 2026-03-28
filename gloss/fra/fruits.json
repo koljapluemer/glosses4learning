@@ -1,0 +1,24 @@
+{
+  "content": "fruits",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les tomates ne sont pas à proprement parler des légumes, mais plutôt des fruits"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fruits"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fruit"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:46:37.683592Z": "TRANSLATION_DONE:eng"
+  }
+}

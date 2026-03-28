@@ -1,0 +1,24 @@
+{
+  "content": "parce",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je suis resté toute la journée à la maison parce que je ne me sentais pas bien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:because"
+    ],
+    [
+      "TRANSLATION",
+      "eng:since"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:41:53.609101Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "content": "doivent",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les personnes qui travaillent dans les aéroports doivent être capables de passer d'une langue à l'autre très rapidement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:must"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have to"
+    ],
+    [
+      "TRANSLATION",
+      "eng:are to"
+    ],
+    [
+      "TRANSLATION",
+      "eng:should"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:38:35.935713Z": "TRANSLATION_DONE:eng"
+  }
+}

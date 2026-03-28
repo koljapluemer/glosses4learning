@@ -1,0 +1,24 @@
+{
+  "content": "sacs",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les sacs en plastique sont mauvais pour l'environnement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bags"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sacks"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:40:56.377816Z": "TRANSLATION_DONE:eng"
+  }
+}

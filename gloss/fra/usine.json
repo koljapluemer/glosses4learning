@@ -1,0 +1,28 @@
+{
+  "content": "usine",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ils ont remplacé les employés de cette usine avec des bras mécaniques"
+    ],
+    [
+      "TRANSLATION",
+      "eng:factory"
+    ],
+    [
+      "TRANSLATION",
+      "eng:plant"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mill"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:50:54.916975Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "content": "serments",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Amitié des grands, soleil d'hiver et serments d'une femme, sont trois choses qui n'ont pas de durée"
+    ],
+    [
+      "TRANSLATION",
+      "eng:oaths"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vows"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pledges"
+    ],
+    [
+      "TRANSLATION",
+      "eng:promises"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:42:55.101975Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "content": "travaillent",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:De nombreuses personnes ne travaillent pas les samedis et dimanches"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work"
+    ],
+    [
+      "TRANSLATION",
+      "eng:are working"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les personnes qui travaillent dans les aéroports doivent être capables de passer d'une langue à l'autre très rapidement"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:38:14.085737Z": "TRANSLATION_DONE:eng"
+  }
+}

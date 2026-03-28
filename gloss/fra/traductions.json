@@ -1,0 +1,32 @@
+{
+  "content": "traductions",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Nous voulons des traductions qui semblent naturelles dans la langue d'origine, pas des traductions mot-à-mot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:translations"
+    ],
+    [
+      "TRANSLATION",
+      "eng:renderings"
+    ],
+    [
+      "TRANSLATION",
+      "eng:versions"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les traductions automatiques ne sont pas toujours exactes"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:43:15.996956Z": "TRANSLATION_DONE:eng"
+  }
+}

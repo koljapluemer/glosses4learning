@@ -2,12 +2,19 @@
   "content": "expression",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T15:25:30.881505Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T15:25:32.108457Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:25:33.011788Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T15:25:34.143300Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T15:25:35.185802Z": "TRANSLATION_DONE:tur"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +27,62 @@
     [
       "TRANSLATION",
       "arz:شكلك"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:His expression was neutral, leaving me puzzled"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ausdruck"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Äußerung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:expression"
+    ],
+    [
+      "TRANSLATION",
+      "fra:formule"
+    ],
+    [
+      "TRANSLATION",
+      "fra:locution"
+    ],
+    [
+      "TRANSLATION",
+      "fra:phrase"
+    ],
+    [
+      "TRANSLATION",
+      "ita:espressione"
+    ],
+    [
+      "TRANSLATION",
+      "ita:manifestazione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выражение"
+    ],
+    [
+      "TRANSLATION",
+      "rus:экспрессия"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ifade"
+    ],
+    [
+      "TRANSLATION",
+      "tur:deyim"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tournure"
     ]
   ]
 }

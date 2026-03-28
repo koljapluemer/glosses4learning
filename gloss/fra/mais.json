@@ -1,0 +1,28 @@
+{
+  "content": "mais",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ces filles ne sont pas en train de parler mais elles sont en train de chanter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:but"
+    ],
+    [
+      "TRANSLATION",
+      "eng:yet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les tomates ne sont pas à proprement parler des légumes, mais plutôt des fruits"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:41:46.366798Z": "TRANSLATION_DONE:eng"
+  }
+}

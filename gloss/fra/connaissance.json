@@ -1,0 +1,32 @@
+{
+  "content": "connaissance",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelles sont les limites de la connaissance humaine ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:knowledge"
+    ],
+    [
+      "TRANSLATION",
+      "eng:awareness"
+    ],
+    [
+      "TRANSLATION",
+      "eng:familiarity"
+    ],
+    [
+      "TRANSLATION",
+      "eng:understanding"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:41:35.939030Z": "TRANSLATION_DONE:eng"
+  }
+}

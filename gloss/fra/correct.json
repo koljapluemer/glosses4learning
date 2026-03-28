@@ -1,0 +1,32 @@
+{
+  "content": "correct",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pour ma part, je ne pense pas que ce soit correct et c'est ce qui me dérange personnellement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:correct"
+    ],
+    [
+      "TRANSLATION",
+      "eng:right"
+    ],
+    [
+      "TRANSLATION",
+      "eng:accurate"
+    ],
+    [
+      "TRANSLATION",
+      "eng:proper"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:44:02.460939Z": "TRANSLATION_DONE:eng"
+  }
+}

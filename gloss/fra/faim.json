@@ -1,0 +1,32 @@
+{
+  "content": "faim",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai vraiment faim. Je n'ai pas mangé de toute la semaine"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hunger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:starvation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:appetite"
+    ],
+    [
+      "TRANSLATION",
+      "eng:craving"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:44:20.277027Z": "TRANSLATION_DONE:eng"
+  }
+}

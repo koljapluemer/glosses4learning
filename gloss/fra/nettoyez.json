@@ -1,0 +1,32 @@
+{
+  "content": "nettoyez",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:S'il vous plaît, nettoyez cette pièce avant que tout le monde n'arrive"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clean"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clean up"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clear out"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tidy up"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:49:07.797570Z": "TRANSLATION_DONE:eng"
+  }
+}

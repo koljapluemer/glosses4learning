@@ -8,10 +8,15 @@
     "2025-12-12T14:08:34.840504Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.695065Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.036781Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.507945Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.507945Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-28T15:25:00.465327Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:25:01.377798Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T15:25:04.716683Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T15:25:05.791693Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -241,6 +246,58 @@
     [
       "TRANSLATION",
       "yid:האָט"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom may have done this"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avoir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:posséder"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avere"
+    ],
+    [
+      "TRANSLATION",
+      "ita:possedere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:иметь"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обладать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:содержать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahip olmak"
+    ],
+    [
+      "TRANSLATION",
+      "tur:var olmak"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bulunmak"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ont"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ayez"
     ]
   ]
 }

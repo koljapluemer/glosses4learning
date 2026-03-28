@@ -1,0 +1,28 @@
+{
+  "content": "propre",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom est un homme intelligent, dont les connaissances ont été acquises à la fois grâce à des études universitaires et par sa propre expérience"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clean"
+    ],
+    [
+      "TRANSLATION",
+      "eng:own"
+    ],
+    [
+      "TRANSLATION",
+      "eng:proper"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:39:09.781323Z": "TRANSLATION_DONE:eng"
+  }
+}

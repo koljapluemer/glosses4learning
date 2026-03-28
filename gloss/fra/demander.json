@@ -1,0 +1,24 @@
+{
+  "content": "demander",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas. Veuillez demander à quelqu'un d'autre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to ask"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to request"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:49:48.925177Z": "TRANSLATION_DONE:eng"
+  }
+}

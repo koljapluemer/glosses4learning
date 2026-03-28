@@ -1,0 +1,28 @@
+{
+  "content": "d'autre",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Elles ne sont pas très différentes de qui que ce soit d'autre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:other"
+    ],
+    [
+      "TRANSLATION",
+      "eng:another"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas. Veuillez demander à quelqu'un d'autre"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:46:04.405958Z": "TRANSLATION_DONE:eng"
+  }
+}

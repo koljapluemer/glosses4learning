@@ -1,0 +1,24 @@
+{
+  "content": "paard",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Dit is een paard"
+    ],
+    [
+      "TRANSLATION",
+      "eng:horse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mare"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:29:52.614760Z": "TRANSLATION_DONE:eng"
+  }
+}

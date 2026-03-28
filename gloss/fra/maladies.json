@@ -1,0 +1,28 @@
+{
+  "content": "maladies",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Un hypocondriaque imagine des maladies là où elles n'existent pas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:diseases"
+    ],
+    [
+      "TRANSLATION",
+      "eng:illnesses"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sicknesses"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:39:58.291391Z": "TRANSLATION_DONE:eng"
+  }
+}

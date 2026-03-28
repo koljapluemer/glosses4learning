@@ -1,0 +1,60 @@
+{
+  "content": "дня",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я уже три дня Тома не видел"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tage"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:days"
+    ],
+    [
+      "TRANSLATION",
+      "eng:day's"
+    ],
+    [
+      "TRANSLATION",
+      "fra:jour"
+    ],
+    [
+      "TRANSLATION",
+      "fra:journée"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giorno"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giorni"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gün"
+    ],
+    [
+      "TRANSLATION",
+      "tur:günler"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:28:41.869375Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T15:28:42.660711Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T15:28:43.498568Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:28:44.316033Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T15:28:45.548739Z": "TRANSLATION_DONE:tur"
+  }
+}

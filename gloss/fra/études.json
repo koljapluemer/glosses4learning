@@ -1,0 +1,36 @@
+{
+  "content": "études",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom est un homme intelligent, dont les connaissances ont été acquises à la fois grâce à des études universitaires et par sa propre expérience"
+    ],
+    [
+      "TRANSLATION",
+      "eng:studies"
+    ],
+    [
+      "TRANSLATION",
+      "eng:education"
+    ],
+    [
+      "TRANSLATION",
+      "eng:research"
+    ],
+    [
+      "TRANSLATION",
+      "eng:academic work"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Toutes les études cliniques ne sont pas fondées sur des hypothèses"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:39:06.400416Z": "TRANSLATION_DONE:eng"
+  }
+}

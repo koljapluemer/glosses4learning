@@ -1,0 +1,40 @@
+{
+  "content": "personnes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:De nombreuses personnes ne travaillent pas les samedis et dimanches"
+    ],
+    [
+      "TRANSLATION",
+      "eng:people"
+    ],
+    [
+      "TRANSLATION",
+      "eng:persons"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les personnes qui travaillent dans les aéroports doivent être capables de passer d'une langue à l'autre très rapidement"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Combien de fois lui ai-je dit de ne pas fréquenter les mauvaises personnes !"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vous êtes l'une des personnes les plus gentilles que je connaisse"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'entend bien avec toutes les personnes de sa classe"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:38:11.325435Z": "TRANSLATION_DONE:eng"
+  }
+}

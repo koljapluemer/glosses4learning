@@ -1,0 +1,32 @@
+{
+  "content": "malveillantes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les choses comme ça sont souvent plus accidentelles que malveillantes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:malicious"
+    ],
+    [
+      "TRANSLATION",
+      "eng:malevolent"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spiteful"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hostile"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:39:51.554551Z": "TRANSLATION_DONE:eng"
+  }
+}

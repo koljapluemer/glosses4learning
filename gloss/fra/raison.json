@@ -1,0 +1,32 @@
+{
+  "content": "raison",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:C'est la raison pour laquelle je ne suis pas d'accord avec toi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reason"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cause"
+    ],
+    [
+      "TRANSLATION",
+      "eng:motive"
+    ],
+    [
+      "TRANSLATION",
+      "eng:justification"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:43:38.296996Z": "TRANSLATION_DONE:eng"
+  }
+}

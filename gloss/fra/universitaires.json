@@ -1,0 +1,32 @@
+{
+  "content": "universitaires",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom est un homme intelligent, dont les connaissances ont été acquises à la fois grâce à des études universitaires et par sa propre expérience"
+    ],
+    [
+      "TRANSLATION",
+      "eng:academic"
+    ],
+    [
+      "TRANSLATION",
+      "eng:university-related"
+    ],
+    [
+      "TRANSLATION",
+      "eng:scholarly"
+    ],
+    [
+      "TRANSLATION",
+      "eng:higher education"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:39:07.528119Z": "TRANSLATION_DONE:eng"
+  }
+}

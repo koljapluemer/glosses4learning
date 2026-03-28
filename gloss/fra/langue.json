@@ -5,6 +5,28 @@
     [
       "TRANSLATION",
       "epo:lingvo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les personnes qui travaillent dans les aéroports doivent être capables de passer d'une langue à l'autre très rapidement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:language"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tongue"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Nous voulons des traductions qui semblent naturelles dans la langue d'origine, pas des traductions mot-à-mot"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-28T15:38:43.415872Z": "TRANSLATION_DONE:eng"
+  }
 }

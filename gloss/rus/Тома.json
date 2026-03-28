@@ -1,0 +1,64 @@
+{
+  "content": "Тома",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я уже три дня Тома не видел"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Thomas"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Toma"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Thomas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tommy"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Thomas"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Tommaso"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Toma"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Toma"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:28:46.565551Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T15:28:47.906495Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T15:28:48.710756Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:28:50.665573Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T15:28:52.285350Z": "TRANSLATION_DONE:tur"
+  }
+}

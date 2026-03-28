@@ -1,0 +1,24 @@
+{
+  "content": "malade",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne peux pas aller à l'école aujourd'hui. Je suis malade"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sick"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ill"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:47:50.225352Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "content": "dont",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom est un homme intelligent, dont les connaissances ont été acquises à la fois grâce à des études universitaires et par sa propre expérience"
+    ],
+    [
+      "TRANSLATION",
+      "eng:whose"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of which"
+    ],
+    [
+      "TRANSLATION",
+      "eng:about which"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je me sens très mal à propos de la manière dont les choses se sont passées"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:38:59.122274Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "content": "personne",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Elle est une personne, sans laquelle je ne peux pas vivre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:person"
+    ],
+    [
+      "TRANSLATION",
+      "eng:nobody"
+    ],
+    [
+      "TRANSLATION",
+      "eng:no one"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vous êtes la seule personne à laquelle je puisse me fier"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:42:28.648067Z": "TRANSLATION_DONE:eng"
+  }
+}

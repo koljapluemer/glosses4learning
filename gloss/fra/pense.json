@@ -1,0 +1,44 @@
+{
+  "content": "pense",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je pense que les planches à roulettes sont habituellement moins chères que les patins en ligne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:think"
+    ],
+    [
+      "TRANSLATION",
+      "eng:consider"
+    ],
+    [
+      "TRANSLATION",
+      "eng:believe"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reflect"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je pense qu'elles ne savent pas que je suis une menteuse"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pour ma part, je ne pense pas que ce soit correct et c'est ce qui me dérange personnellement"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je pense que nous savons toutes les deux pourquoi je suis ici"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:40:22.767987Z": "TRANSLATION_DONE:eng"
+  }
+}

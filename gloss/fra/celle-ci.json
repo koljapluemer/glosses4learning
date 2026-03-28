@@ -1,0 +1,24 @@
+{
+  "content": "celle-ci",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Une occasion comme celle-ci, il faut que je la saisisse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:this one"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the one here"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:45:33.287732Z": "TRANSLATION_DONE:eng"
+  }
+}

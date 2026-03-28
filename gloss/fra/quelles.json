@@ -1,0 +1,32 @@
+{
+  "content": "quelles",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas quelles sont ses véritables intentions"
+    ],
+    [
+      "TRANSLATION",
+      "eng:which"
+    ],
+    [
+      "TRANSLATION",
+      "eng:what"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas quelles seront les conséquences"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne sais pas quelles étaient ses réelles intentions"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:42:19.741450Z": "TRANSLATION_DONE:eng"
+  }
+}

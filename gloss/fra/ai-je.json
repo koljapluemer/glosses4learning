@@ -1,0 +1,32 @@
+{
+  "content": "ai-je",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Combien de fois lui ai-je dit de ne pas fréquenter les mauvaises personnes !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:do I have"
+    ],
+    [
+      "TRANSLATION",
+      "eng:am I"
+    ],
+    [
+      "TRANSLATION",
+      "eng:do I"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have I"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:40:45.630549Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -2,12 +2,18 @@
   "content": "leaving",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T15:25:41.141356Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T15:25:42.028009Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T15:25:43.256450Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T15:25:45.501329Z": "TRANSLATION_DONE:tur"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +30,62 @@
     [
       "TRANSLATION",
       "arz:هَيَسيبُ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:His expression was neutral, leaving me puzzled"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verlassen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weggehen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:abfahren"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:partir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:quitter"
+    ],
+    [
+      "TRANSLATION",
+      "rus:уход"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выход"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отъезд"
+    ],
+    [
+      "TRANSLATION",
+      "rus:покидание"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ayrılma"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gitme"
+    ],
+    [
+      "TRANSLATION",
+      "tur:terk etme"
     ]
   ]
 }

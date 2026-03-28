@@ -1,0 +1,32 @@
+{
+  "content": "certain",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne suis pas certain que nous puissions obtenir des billets ce soir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:certain"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sure"
+    ],
+    [
+      "TRANSLATION",
+      "eng:definite"
+    ],
+    [
+      "TRANSLATION",
+      "eng:specific"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T15:50:17.502518Z": "TRANSLATION_DONE:eng"
+  }
+}
