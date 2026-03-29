@@ -1,0 +1,43 @@
+{
+  "content": "Sie haben meine Frage noch nicht beantwortet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Frage"
+    ],
+    [
+      "PART",
+      "deu:noch"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:beantwortet"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:36.944428Z": "SPLIT_DONE"
+  }
+}

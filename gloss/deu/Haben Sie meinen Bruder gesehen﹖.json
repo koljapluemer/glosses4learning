@@ -1,0 +1,35 @@
+{
+  "content": "Haben Sie meinen Bruder gesehen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Bruder"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:33.588299Z": "SPLIT_DONE"
+  }
+}

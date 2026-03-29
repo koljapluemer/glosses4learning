@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:04.738826Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:04.738826Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:27:09.517630Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:27:10.433369Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:27:11.564322Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +50,42 @@
     [
       "TRANSLATION",
       "rus:без"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ohne"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ohne dass"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ohne zu"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sans"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sans aucun"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sans doute"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sans cesse"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmadan"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yoksun"
     ]
   ]
 }

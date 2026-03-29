@@ -1,0 +1,24 @@
+{
+  "content": "Bin",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:k Bin n vraauw"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I exist"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:29:56.635356Z": "TRANSLATION_DONE:eng"
+  }
+}

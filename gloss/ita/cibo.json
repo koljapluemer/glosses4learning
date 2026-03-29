@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:36.362973Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:36.362973Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:27:23.344053Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:27:24.713223Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:27:25.587513Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:27:26.710236Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -67,6 +71,42 @@
     [
       "TRANSLATION",
       "eng:provisions"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Essen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nahrung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nourriture"
+    ],
+    [
+      "TRANSLATION",
+      "fra:alimentation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:repas"
+    ],
+    [
+      "TRANSLATION",
+      "rus:еда"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пища"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yiyecek"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gıda"
     ]
   ]
 }

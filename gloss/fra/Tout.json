@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:57.041572Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:57.041572Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:44:43.337999Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:44:44.148447Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:44:44.977211Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:44:45.671081Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,42 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout le monde sait que Tom ne peut pas faire cela"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alles"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ganze"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tutto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ogni cosa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:всё"
+    ],
+    [
+      "TRANSLATION",
+      "rus:всё это"
+    ],
+    [
+      "TRANSLATION",
+      "rus:всё подряд"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Her şey"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tamamı"
     ]
   ]
 }

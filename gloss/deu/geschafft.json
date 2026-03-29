@@ -1,0 +1,36 @@
+{
+  "content": "geschafft",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe es nicht geschafft, mit meinen Hausaufgaben fertig zu werden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:done"
+    ],
+    [
+      "TRANSLATION",
+      "eng:achieved"
+    ],
+    [
+      "TRANSLATION",
+      "eng:managed"
+    ],
+    [
+      "TRANSLATION",
+      "eng:completed"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Auch wenn ich es dieses Mal nicht geschafft habe, werde ich es noch einmal versuchen"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:37:25.360758Z": "TRANSLATION_DONE:eng"
+  }
+}

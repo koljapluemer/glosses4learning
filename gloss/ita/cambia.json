@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:37.167744Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:37.167744Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:26:35.205939Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:26:35.925729Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:26:36.846499Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:26:37.669489Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,50 @@
     [
       "TRANSLATION",
       "eng:alter"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wechseln"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ändern"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verändern"
+    ],
+    [
+      "TRANSLATION",
+      "deu:umstellen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:changer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:modifier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:менять"
+    ],
+    [
+      "TRANSLATION",
+      "rus:изменять"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поменять"
+    ],
+    [
+      "TRANSLATION",
+      "tur:değiştir"
+    ],
+    [
+      "TRANSLATION",
+      "tur:değişmek"
     ]
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "content": "Land",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du kannst dieses Wort nicht in meinem Land sagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:country"
+    ],
+    [
+      "TRANSLATION",
+      "eng:land"
+    ],
+    [
+      "TRANSLATION",
+      "eng:nation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:territory"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:40:23.639531Z": "TRANSLATION_DONE:eng"
+  }
+}

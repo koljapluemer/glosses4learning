@@ -1,0 +1,28 @@
+{
+  "content": "danke",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich danke Ihnen, dass Sie sich zu dieser Sitzung eingefunden haben!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thank you"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thanks"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich danke Ihnen für alles, was Sie heute für mich getan haben!"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:35:57.358479Z": "TRANSLATION_DONE:eng"
+  }
+}

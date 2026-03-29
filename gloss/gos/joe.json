@@ -1,0 +1,24 @@
+{
+  "content": "joe",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Woarom kwammen joe nait﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you"
+    ],
+    [
+      "TRANSLATION",
+      "eng:your"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:29:52.736412Z": "TRANSLATION_DONE:eng"
+  }
+}

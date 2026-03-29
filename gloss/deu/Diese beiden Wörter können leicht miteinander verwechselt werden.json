@@ -1,0 +1,47 @@
+{
+  "content": "Diese beiden Wörter können leicht miteinander verwechselt werden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Diese"
+    ],
+    [
+      "PART",
+      "deu:beiden"
+    ],
+    [
+      "PART",
+      "deu:Wörter"
+    ],
+    [
+      "PART",
+      "deu:können"
+    ],
+    [
+      "PART",
+      "deu:leicht"
+    ],
+    [
+      "PART",
+      "deu:miteinander"
+    ],
+    [
+      "PART",
+      "deu:verwechselt"
+    ],
+    [
+      "PART",
+      "deu:werden"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:20:51.166382Z": "SPLIT_DONE"
+  }
+}

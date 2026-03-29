@@ -2,12 +2,17 @@
   "content": "alone",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:44:06.369684Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:44:07.182346Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:44:08.106457Z": "TRANSLATION_DONE:tur"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -52,6 +57,46 @@
     [
       "TRANSLATION",
       "fra:seule"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Mary said she'd never want to do that alone"
+    ],
+    [
+      "TRANSLATION",
+      "deu:allein"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einsam"
+    ],
+    [
+      "TRANSLATION",
+      "deu:für sich"
+    ],
+    [
+      "TRANSLATION",
+      "rus:один"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в одиночестве"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сам"
+    ],
+    [
+      "TRANSLATION",
+      "rus:одиноко"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yalnız"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tek başına"
     ]
   ]
 }

@@ -6,6 +6,13 @@
     "2025-12-12T14:20:42.792494Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:20:44.725072Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
-  "relationships": []
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er wird etwas dagegen einzuwenden haben, dass du ins Ausland gehst"
+    ]
+  ]
 }

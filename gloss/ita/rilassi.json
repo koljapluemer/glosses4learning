@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:08.265883Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:08.265883Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:27:35.827781Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:27:37.059202Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:27:38.387661Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:27:39.513106Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,38 @@
     [
       "TRANSLATION",
       "eng:calm down"
+    ],
+    [
+      "TRANSLATION",
+      "deu:entspannen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:relaxen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:relaxer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:se détendre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:расслабься"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отдохни"
+    ],
+    [
+      "TRANSLATION",
+      "tur:rahatla"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gevşe"
     ]
   ]
 }

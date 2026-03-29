@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:47.120478Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:47.120478Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:27:13.002339Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:27:14.938667Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:27:16.476685Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:27:17.907396Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,66 @@
     [
       "TRANSLATION",
       "eng:salary"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vergütung"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Entlohnung"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bezahlung"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lohn"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rémunération"
+    ],
+    [
+      "TRANSLATION",
+      "fra:salaire"
+    ],
+    [
+      "TRANSLATION",
+      "fra:paiement"
+    ],
+    [
+      "TRANSLATION",
+      "fra:indemnité"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вознаграждение"
+    ],
+    [
+      "TRANSLATION",
+      "rus:оплата труда"
+    ],
+    [
+      "TRANSLATION",
+      "rus:зарплата"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ücret"
+    ],
+    [
+      "TRANSLATION",
+      "tur:maaş"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ödenek"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tazminat"
     ]
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "content": "Tom hat vergessen, seine Hausaufgaben zu machen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:vergessen"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:machen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:45.889687Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "content": "Wochenende",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Eltern werden dieses Wochenende nicht zuhause sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:weekend"
+    ],
+    [
+      "TRANSLATION",
+      "eng:week end"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Eltern werden am kommenden Wochenende nicht zuhause sein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Eltern waren am letzten Wochenende nicht zu Hause"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:35:21.048283Z": "TRANSLATION_DONE:eng"
+  }
+}

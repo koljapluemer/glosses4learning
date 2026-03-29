@@ -1,0 +1,47 @@
+{
+  "content": "Gib mir bitte meinen geliehenen Gegenstand wieder zurück.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dokuyaku (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Gib"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:bitte"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:geliehenen"
+    ],
+    [
+      "PART",
+      "deu:Gegenstand"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:zurück"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:24:05.092410Z": "SPLIT_DONE"
+  }
+}

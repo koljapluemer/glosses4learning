@@ -1,0 +1,55 @@
+{
+  "content": "Ich habe Tom gesagt, er solle sich keine Sorgen machen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:gesagt"
+    ],
+    [
+      "PART",
+      "deu:er"
+    ],
+    [
+      "PART",
+      "deu:solle"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:keine"
+    ],
+    [
+      "PART",
+      "deu:Sorgen"
+    ],
+    [
+      "PART",
+      "deu:machen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:20.833060Z": "SPLIT_DONE"
+  }
+}

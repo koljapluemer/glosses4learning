@@ -1,0 +1,35 @@
+{
+  "content": "Haben Sie meinen Computer eingeschaltet?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Computer"
+    ],
+    [
+      "PART",
+      "deu:eingeschaltet"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:20:45.516111Z": "SPLIT_DONE"
+  }
+}

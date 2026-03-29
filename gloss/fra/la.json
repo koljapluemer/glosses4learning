@@ -148,9 +148,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Vous êtes la seule personne à laquelle je puisse me fier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ла"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ла (артикль)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:la"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o"
     ]
   ],
   "logs": {
-    "2026-03-28T15:39:02.716330Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:39:02.716330Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:25:51.181656Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:25:52.001400Z": "TRANSLATION_DONE:tur"
   }
 }

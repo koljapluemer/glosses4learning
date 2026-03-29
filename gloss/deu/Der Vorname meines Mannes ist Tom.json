@@ -1,0 +1,39 @@
+{
+  "content": "Der Vorname meines Mannes ist Tom.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rovo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Der"
+    ],
+    [
+      "PART",
+      "deu:Vorname"
+    ],
+    [
+      "PART",
+      "deu:meines"
+    ],
+    [
+      "PART",
+      "deu:Mannes"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:38.643016Z": "SPLIT_DONE"
+  }
+}

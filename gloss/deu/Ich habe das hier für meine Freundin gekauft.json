@@ -1,0 +1,47 @@
+{
+  "content": "Ich habe das hier für meine Freundin gekauft.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zaghawa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:hier"
+    ],
+    [
+      "PART",
+      "deu:für"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Freundin"
+    ],
+    [
+      "PART",
+      "deu:gekauft"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:20:48.209426Z": "SPLIT_DONE"
+  }
+}

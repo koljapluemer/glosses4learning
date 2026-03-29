@@ -1,0 +1,39 @@
+{
+  "content": "Tom kann seinen Enkelkindern nichts abschlagen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Enkelkindern"
+    ],
+    [
+      "PART",
+      "deu:nichts"
+    ],
+    [
+      "PART",
+      "deu:abschlagen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:22:02.491884Z": "SPLIT_DONE"
+  }
+}

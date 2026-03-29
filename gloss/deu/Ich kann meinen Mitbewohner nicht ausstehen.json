@@ -1,0 +1,39 @@
+{
+  "content": "Ich kann meinen Mitbewohner nicht ausstehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Luiaard (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Mitbewohner"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:ausstehen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:05.223806Z": "SPLIT_DONE"
+  }
+}

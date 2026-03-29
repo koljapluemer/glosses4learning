@@ -1,0 +1,43 @@
+{
+  "content": "Diese beiden Angelegenheiten hängen nicht miteinander zusammen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mhr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Diese"
+    ],
+    [
+      "PART",
+      "deu:beiden"
+    ],
+    [
+      "PART",
+      "deu:Angelegenheiten"
+    ],
+    [
+      "PART",
+      "deu:hängen"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:miteinander"
+    ],
+    [
+      "PART",
+      "deu:zusammen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:21.659225Z": "SPLIT_DONE"
+  }
+}

@@ -4,10 +4,15 @@
   "transcriptions": {},
   "logs": {
     "2025-12-14T14:25:55.822Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-14T14:28:41.204Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:28:41.204Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T16:43:49.430139Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:43:50.154352Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:43:50.962067Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:43:51.733698Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -66,6 +71,46 @@
     [
       "TRANSLATION",
       "arz:فَتَحتِ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What are you dreaming with your mouth open﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:offen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:öffnen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ouvrir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ouvert"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aperto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aprire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:открыть"
+    ],
+    [
+      "TRANSLATION",
+      "rus:открытый"
+    ],
+    [
+      "TRANSLATION",
+      "rus:открывать"
     ]
   ]
 }

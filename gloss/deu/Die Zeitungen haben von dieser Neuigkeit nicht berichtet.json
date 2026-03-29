@@ -1,0 +1,47 @@
+{
+  "content": "Die Zeitungen haben von dieser Neuigkeit nicht berichtet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xtofu80 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Die"
+    ],
+    [
+      "PART",
+      "deu:Zeitungen"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:dieser"
+    ],
+    [
+      "PART",
+      "deu:Neuigkeit"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:berichtet"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:24:16.824099Z": "SPLIT_DONE"
+  }
+}

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:14.103028Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:14.103028Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:45:18.006023Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:45:18.764802Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:45:19.479309Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:45:20.199965Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -95,6 +99,42 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ils ont remplacé les employés de cette usine avec des bras mécaniques"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einige"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ein paar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einige von"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di"
+    ],
+    [
+      "TRANSLATION",
+      "ita:da"
+    ],
+    [
+      "TRANSLATION",
+      "rus:из"
+    ],
+    [
+      "TRANSLATION",
+      "rus:от"
+    ],
+    [
+      "TRANSLATION",
+      "tur:birkaç"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bazı"
     ]
   ]
 }

@@ -2,9 +2,14 @@
   "content": "want",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:44:00.936961Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:44:01.653171Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:44:02.577616Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -87,6 +92,34 @@
     [
       "TRANSLATION",
       "fra:veux"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Mary said she'd never want to do that alone"
+    ],
+    [
+      "TRANSLATION",
+      "ita:volere"
+    ],
+    [
+      "TRANSLATION",
+      "ita:desiderare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хотеть"
+    ],
+    [
+      "TRANSLATION",
+      "rus:желать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:istemek"
+    ],
+    [
+      "TRANSLATION",
+      "tur:arzu etmek"
     ]
   ]
 }

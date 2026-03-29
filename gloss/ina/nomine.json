@@ -1,0 +1,24 @@
+{
+  "content": "nomine",
+  "language": "ina",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ina:Mi nomine es Jack"
+    ],
+    [
+      "TRANSLATION",
+      "eng:name"
+    ],
+    [
+      "TRANSLATION",
+      "eng:title"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:24:55.002555Z": "TRANSLATION_DONE:eng"
+  }
+}

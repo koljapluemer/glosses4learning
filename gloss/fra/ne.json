@@ -248,9 +248,45 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne suis pas certain que nous puissions obtenir des billets ce soir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kein"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ne"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:değil"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yok"
     ]
   ],
   "logs": {
-    "2026-03-28T15:37:07.820743Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:37:07.820743Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:25:08.760875Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:25:09.648706Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:25:10.427963Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:25:11.251648Z": "TRANSLATION_DONE:tur"
   }
 }

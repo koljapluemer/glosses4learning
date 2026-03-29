@@ -12,7 +12,9 @@
     "2025-12-12T14:19:15.177603Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:20:36.906426Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -45,6 +47,10 @@
     [
       "TRANSLATION",
       "rus:дня"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:„Tom, dein Magen knurrt.“ – „Ja, ich weiß. Ich habe auch den ganzen Tag noch nichts zu beißen bekommen.“ – „O du Ärmster!“"
     ]
   ]
 }

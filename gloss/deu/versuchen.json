@@ -2,8 +2,12 @@
   "content": "versuchen",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-28T16:41:38.464222Z": "TRANSLATION_DONE:eng"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -16,6 +20,26 @@
     [
       "NOTE",
       "eng:can mean 'to attempt' rather than 'to try' something in a practical sense"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Auch wenn ich es dieses Mal nicht geschafft habe, werde ich es noch einmal versuchen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to try"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to attempt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to test"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to make an effort"
     ]
   ]
 }

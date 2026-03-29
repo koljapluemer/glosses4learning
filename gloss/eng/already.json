@@ -3,9 +3,14 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-12T13:52:07.947533Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T13:52:07.947533Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T16:44:10.459526Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:44:11.079919Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:44:11.791156Z": "TRANSLATION_DONE:tur"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -22,6 +27,38 @@
     [
       "TRANSLATION",
       "rus:уже"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bereits"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I already told you no"
+    ],
+    [
+      "TRANSLATION",
+      "fra:déjà"
+    ],
+    [
+      "TRANSLATION",
+      "fra:déjà fait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:già"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ormai"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zaten"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çoktan"
     ]
   ]
 }

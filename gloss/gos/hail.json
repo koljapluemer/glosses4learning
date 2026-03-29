@@ -1,0 +1,28 @@
+{
+  "content": "hail",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Joe zain der hail muide oet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hail"
+    ],
+    [
+      "TRANSLATION",
+      "eng:greeting"
+    ],
+    [
+      "TRANSLATION",
+      "eng:salutation"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:30:04.210354Z": "TRANSLATION_DONE:eng"
+  }
+}

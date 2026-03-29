@@ -1,0 +1,60 @@
+{
+  "content": "she'd",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:Mary said she'd never want to do that alone"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie hätte"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie würde"
+    ],
+    [
+      "TRANSLATION",
+      "fra:elle aurait"
+    ],
+    [
+      "TRANSLATION",
+      "fra:elle serait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lei avrebbe"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lei sarebbe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:она бы"
+    ],
+    [
+      "TRANSLATION",
+      "rus:она бы могла"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o idi"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:43:56.225797Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:43:57.148030Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:43:57.863814Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:43:58.683733Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:43:59.432093Z": "TRANSLATION_DONE:tur"
+  }
+}

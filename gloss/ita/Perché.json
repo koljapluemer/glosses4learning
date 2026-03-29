@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:15.797933Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:15.797933Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:27:28.046122Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:27:28.864508Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:27:30.195630Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -115,6 +118,42 @@
     [
       "TRANSLATION",
       "eng:Why is that"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Pourquoi"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Weshalb"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wieso"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aus welchem Grund"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Почему"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Зачем"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Neden"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Niçin"
     ]
   ]
 }

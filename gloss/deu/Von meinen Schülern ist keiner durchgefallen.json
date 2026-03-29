@@ -1,0 +1,39 @@
+{
+  "content": "Von meinen Schülern ist keiner durchgefallen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vortarulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Von"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Schülern"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:keiner"
+    ],
+    [
+      "PART",
+      "deu:durchgefallen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:36.134243Z": "SPLIT_DONE"
+  }
+}

@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:48.752575Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:48.752575Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:45:05.963579Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:45:06.637366Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +49,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Nous utilisons souvent des gestes pour communiquer des messages simples"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Noi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ci"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Biz"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bizler"
     ]
   ]
 }

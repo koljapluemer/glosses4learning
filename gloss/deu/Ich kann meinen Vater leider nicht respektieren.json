@@ -1,0 +1,43 @@
+{
+  "content": "Ich kann meinen Vater leider nicht respektieren.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Vater"
+    ],
+    [
+      "PART",
+      "deu:leider"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:respektieren"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:20:56.612116Z": "SPLIT_DONE"
+  }
+}

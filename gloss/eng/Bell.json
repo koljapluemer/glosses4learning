@@ -1,0 +1,60 @@
+{
+  "content": "Bell",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:What was invented by Bell﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Glocke"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Klingel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cloche"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sonnette"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bello"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bella"
+    ],
+    [
+      "TRANSLATION",
+      "rus:колокол"
+    ],
+    [
+      "TRANSLATION",
+      "rus:звонок"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çan"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zil"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:29:34.305883Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:29:35.328598Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:29:36.048036Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:29:37.299435Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:29:38.507686Z": "TRANSLATION_DONE:tur"
+  }
+}

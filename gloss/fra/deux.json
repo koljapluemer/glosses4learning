@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:14.813544Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:14.813544Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:25:23.413827Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:25:24.076187Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:25:24.771773Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -51,6 +54,30 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je pense que nous savons toutes les deux pourquoi je suis ici"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zwei"
+    ],
+    [
+      "TRANSLATION",
+      "deu:2"
+    ],
+    [
+      "TRANSLATION",
+      "ita:due"
+    ],
+    [
+      "TRANSLATION",
+      "ita:due unità"
+    ],
+    [
+      "TRANSLATION",
+      "rus:два"
+    ],
+    [
+      "TRANSLATION",
+      "rus:двое"
     ]
   ]
 }

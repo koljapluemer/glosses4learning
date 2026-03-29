@@ -1,0 +1,28 @@
+{
+  "content": "vorgelesen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Mutter hat uns immer eine Gutenachtgeschichte vorgelesen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:read aloud"
+    ],
+    [
+      "TRANSLATION",
+      "eng:read out"
+    ],
+    [
+      "TRANSLATION",
+      "eng:read to someone"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:40:08.283561Z": "TRANSLATION_DONE:eng"
+  }
+}

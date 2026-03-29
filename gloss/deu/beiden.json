@@ -1,0 +1,32 @@
+{
+  "content": "beiden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese beiden Probleme scheinen nichts miteinander zu tun zu haben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:both"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the two"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese beiden Wörter können leicht miteinander verwechselt werden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese beiden Angelegenheiten hängen nicht miteinander zusammen"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:38:09.080733Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -2,12 +2,18 @@
   "content": "mouth",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:43:45.518861Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:43:46.623651Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:43:47.438887Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:43:48.648844Z": "TRANSLATION_DONE:rus"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -16,6 +22,42 @@
     [
       "TRANSLATION",
       "arz:بُقّ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What are you dreaming with your mouth open﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mund"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mundraum"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bouche"
+    ],
+    [
+      "TRANSLATION",
+      "fra:gueule"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bocca"
+    ],
+    [
+      "TRANSLATION",
+      "ita:labbra"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рот"
+    ],
+    [
+      "TRANSLATION",
+      "rus:уста"
     ]
   ]
 }

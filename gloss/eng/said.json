@@ -2,12 +2,15 @@
   "content": "said",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:43:55.548230Z": "TRANSLATION_DONE:rus"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +39,26 @@
     [
       "TRANSLATION",
       "fra:dit"
+    ],
+    [
+      "TRANSLATION",
+      "deu:meinte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Mary said she'd never want to do that alone"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказал"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказала"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказано"
     ]
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "content": "gefallen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich glaube, dass deiner Schwester dieses Buch gefallen wird"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to please"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to like"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihnen wird dieses Buch wahrscheinlich nicht gefallen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin mir sicher, dass Tom Ihnen gefallen wird"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:41:15.353850Z": "TRANSLATION_DONE:eng"
+  }
+}

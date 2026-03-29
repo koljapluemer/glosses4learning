@@ -8,10 +8,14 @@
     "2025-12-12T14:08:34.835555Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.705591Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.052548Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.511675Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.511675Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-28T16:44:03.701915Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:44:04.541679Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:44:05.236483Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -110,6 +114,58 @@
     [
       "TRANSLATION",
       "fra:faites"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Mary said she'd never want to do that alone"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fare"
+    ],
+    [
+      "TRANSLATION",
+      "ita:eseguire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:compiere"
+    ],
+    [
+      "TRANSLATION",
+      "ita:realizzare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:делать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выполнять"
+    ],
+    [
+      "TRANSLATION",
+      "rus:заниматься"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yap"
+    ],
+    [
+      "TRANSLATION",
+      "tur:et"
+    ],
+    [
+      "TRANSLATION",
+      "asm:কৰে"
+    ],
+    [
+      "TRANSLATION",
+      "ben:করে"
     ]
   ]
 }

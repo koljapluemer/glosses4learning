@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:47:50.814552Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:47:50.814552Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:26:50.874373Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:26:52.173504Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:26:53.330090Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:26:54.566053Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,46 @@
     [
       "TRANSLATION",
       "eng:constrained"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gezwungen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verpflichtet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:forcés"
+    ],
+    [
+      "TRANSLATION",
+      "fra:contraints"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вынуждены"
+    ],
+    [
+      "TRANSLATION",
+      "rus:принуждены"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zorunda"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mecbur"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zorlanmış"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kaçınılmaz"
     ]
   ]
 }

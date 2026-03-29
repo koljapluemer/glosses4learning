@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:24:13.336653Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:24:13.336653Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-28T16:29:11.371140Z": "TRANSLATION_DONE:deu"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -95,6 +97,22 @@
     [
       "TRANSLATION",
       "fra:il"
+    ],
+    [
+      "TRANSLATION",
+      "tgl:siyang"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom told everybody that he was interested"
+    ],
+    [
+      "TRANSLATION",
+      "deu:er"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ihn"
     ]
   ]
 }

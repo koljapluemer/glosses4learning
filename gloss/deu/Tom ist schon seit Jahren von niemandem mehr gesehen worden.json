@@ -1,0 +1,55 @@
+{
+  "content": "Tom ist schon seit Jahren von niemandem mehr gesehen worden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:schon"
+    ],
+    [
+      "PART",
+      "deu:seit"
+    ],
+    [
+      "PART",
+      "deu:Jahren"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:niemandem"
+    ],
+    [
+      "PART",
+      "deu:mehr"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ],
+    [
+      "PART",
+      "deu:worden"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:22:00.732499Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Meine Brüder haben das alle beide getan.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Brüder"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:alle"
+    ],
+    [
+      "PART",
+      "deu:beide"
+    ],
+    [
+      "PART",
+      "deu:getan"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:20:58.383797Z": "SPLIT_DONE"
+  }
+}

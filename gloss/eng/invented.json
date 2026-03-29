@@ -1,0 +1,64 @@
+{
+  "content": "invented",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:What was invented by Bell﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erfunden"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgedacht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:inventé"
+    ],
+    [
+      "TRANSLATION",
+      "fra:créé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:inventato"
+    ],
+    [
+      "TRANSLATION",
+      "ita:creato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:изобретённый"
+    ],
+    [
+      "TRANSLATION",
+      "rus:придуманный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:icat edilmiş"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bulunmuş"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uydurulmuş"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:29:29.184167Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:29:29.899620Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:29:30.719851Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:29:31.817543Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:29:32.665922Z": "TRANSLATION_DONE:tur"
+  }
+}

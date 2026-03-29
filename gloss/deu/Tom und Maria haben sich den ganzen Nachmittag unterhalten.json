@@ -1,0 +1,51 @@
+{
+  "content": "Tom und Maria haben sich den ganzen Nachmittag unterhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:den"
+    ],
+    [
+      "PART",
+      "deu:ganzen"
+    ],
+    [
+      "PART",
+      "deu:Nachmittag"
+    ],
+    [
+      "PART",
+      "deu:unterhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:04.390447Z": "SPLIT_DONE"
+  }
+}

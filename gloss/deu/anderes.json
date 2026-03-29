@@ -1,0 +1,32 @@
+{
+  "content": "anderes",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie haben mich nicht verstanden. Ich meinte etwas anderes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:other"
+    ],
+    [
+      "TRANSLATION",
+      "eng:different"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Baby tut nichts anderes als zu weinen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Baby tut nichts anderes als weinen"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:39:42.679259Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "content": "Ich bin mir sicher, dass Tom damit zu tun hatte.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:sicher"
+    ],
+    [
+      "PART",
+      "deu:dass"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:damit"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:tun"
+    ],
+    [
+      "PART",
+      "deu:hatte"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:57.937124Z": "SPLIT_DONE"
+  }
+}

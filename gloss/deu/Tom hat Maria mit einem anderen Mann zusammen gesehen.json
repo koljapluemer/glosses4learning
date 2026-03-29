@@ -1,0 +1,51 @@
+{
+  "content": "Tom hat Maria mit einem anderen Mann zusammen gesehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:Maria"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:einem"
+    ],
+    [
+      "PART",
+      "deu:anderen"
+    ],
+    [
+      "PART",
+      "deu:Mann"
+    ],
+    [
+      "PART",
+      "deu:zusammen"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:20:54.586686Z": "SPLIT_DONE"
+  }
+}

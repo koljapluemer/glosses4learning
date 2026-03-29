@@ -1,0 +1,28 @@
+{
+  "content": "zuhause",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Eltern werden dieses Wochenende nicht zuhause sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:home"
+    ],
+    [
+      "TRANSLATION",
+      "eng:at home"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Eltern werden am kommenden Wochenende nicht zuhause sein"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:35:21.969011Z": "TRANSLATION_DONE:eng"
+  }
+}

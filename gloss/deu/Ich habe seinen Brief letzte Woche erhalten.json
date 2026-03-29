@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe seinen Brief letzte Woche erhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MUIRIEL (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Brief"
+    ],
+    [
+      "PART",
+      "deu:letzte"
+    ],
+    [
+      "PART",
+      "deu:Woche"
+    ],
+    [
+      "PART",
+      "deu:erhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:24:29.874971Z": "SPLIT_DONE"
+  }
+}

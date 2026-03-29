@@ -1,0 +1,32 @@
+{
+  "content": "আছেনে",
+  "language": "asm",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "asm:তোমাৰ গাড়ী আছেনে﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are you there﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Is there﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are you present﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Is anyone there﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:44:23.159203Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:30.848788Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:30.848788Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:26:40.946689Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:26:41.658447Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:26:42.224622Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:26:43.404376Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -51,6 +55,38 @@
     [
       "TRANSLATION",
       "eng:the ones"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Die"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Diejenigen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Les"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Ils"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Он"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Они"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Onlar"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Olarak"
     ]
   ]
 }

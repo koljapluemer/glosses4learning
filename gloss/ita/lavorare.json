@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:30.593573Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:30.593573Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:26:55.379207Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:26:56.199549Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:26:57.630890Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:26:58.463107Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,38 @@
     [
       "TRANSLATION",
       "eng:to operate"
+    ],
+    [
+      "TRANSLATION",
+      "deu:arbeiten"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beschäftigen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:travailler"
+    ],
+    [
+      "TRANSLATION",
+      "fra:œuvrer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:работать"
+    ],
+    [
+      "TRANSLATION",
+      "rus:трудиться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çalışmak"
+    ],
+    [
+      "TRANSLATION",
+      "tur:iş yapmak"
     ]
   ]
 }

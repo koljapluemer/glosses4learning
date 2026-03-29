@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe ihn für deinen Bruder gehalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by enteka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:ihn"
+    ],
+    [
+      "PART",
+      "deu:für"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Bruder"
+    ],
+    [
+      "PART",
+      "deu:gehalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:28.579844Z": "SPLIT_DONE"
+  }
+}

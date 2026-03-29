@@ -2,9 +2,12 @@
   "content": "by",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:29:33.586278Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -98,6 +101,34 @@
     [
       "TRANSLATION",
       "fra:par"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What was invented by Bell﹖"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tarafından"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ile"
+    ],
+    [
+      "TRANSLATION",
+      "tur:vasıtasıyla"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bei"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mit"
+    ],
+    [
+      "TRANSLATION",
+      "deu:durch"
     ]
   ]
 }

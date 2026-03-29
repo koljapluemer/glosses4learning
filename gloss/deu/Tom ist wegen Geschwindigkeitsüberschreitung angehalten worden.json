@@ -1,0 +1,39 @@
+{
+  "content": "Tom ist wegen Geschwindigkeitsüberschreitung angehalten worden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:wegen"
+    ],
+    [
+      "PART",
+      "deu:Geschwindigkeitsüberschreitung"
+    ],
+    [
+      "PART",
+      "deu:angehalten"
+    ],
+    [
+      "PART",
+      "deu:worden"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:24:12.545124Z": "SPLIT_DONE"
+  }
+}

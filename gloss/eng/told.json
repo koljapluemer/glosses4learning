@@ -2,12 +2,16 @@
   "content": "told",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:29:06.972884Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:29:07.888623Z": "TRANSLATION_DONE:tur"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +40,42 @@
     [
       "TRANSLATION",
       "fra:dit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom told everybody that he was interested"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказал"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказала"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рассказал"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рассказала"
+    ],
+    [
+      "TRANSLATION",
+      "tur:söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anlattı"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erzählt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I already told you no"
     ]
   ]
 }

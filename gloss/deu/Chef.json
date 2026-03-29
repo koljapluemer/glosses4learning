@@ -1,0 +1,32 @@
+{
+  "content": "Chef",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich warne Sie! Der Chef frisst Sie auf, wenn Sie da jetzt reingehen! Tom hat er eben schon zusammengestaucht und entlassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:boss"
+    ],
+    [
+      "TRANSLATION",
+      "eng:chief"
+    ],
+    [
+      "TRANSLATION",
+      "eng:manager"
+    ],
+    [
+      "TRANSLATION",
+      "eng:head"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:35:48.076347Z": "TRANSLATION_DONE:eng"
+  }
+}

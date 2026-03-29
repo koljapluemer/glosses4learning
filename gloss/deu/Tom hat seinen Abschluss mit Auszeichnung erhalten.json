@@ -1,0 +1,43 @@
+{
+  "content": "Tom hat seinen Abschluss mit Auszeichnung erhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Abschluss"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:Auszeichnung"
+    ],
+    [
+      "PART",
+      "deu:erhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:24:31.596938Z": "SPLIT_DONE"
+  }
+}

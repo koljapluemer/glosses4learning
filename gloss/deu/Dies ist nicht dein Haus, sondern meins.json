@@ -1,0 +1,43 @@
+{
+  "content": "Dies ist nicht dein Haus, sondern meins.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Wolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Dies"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:dein"
+    ],
+    [
+      "PART",
+      "deu:Haus"
+    ],
+    [
+      "PART",
+      "deu:sondern"
+    ],
+    [
+      "PART",
+      "deu:meins"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:20:53.700857Z": "SPLIT_DONE"
+  }
+}

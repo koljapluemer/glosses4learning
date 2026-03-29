@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:16.414162Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:16.414162Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:45:07.519827Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:45:09.045902Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:45:09.872336Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:45:10.570518Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,38 @@
     [
       "USAGE_EXAMPLE",
       "fra:Nous ne devons pas ignorer la souffrance des populations soumises à une mauvaise gestion"
+    ],
+    [
+      "TRANSLATION",
+      "deu:müssen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sollen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dobbiamo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:deve"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должны"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обязаны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zorundayız"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerekiyor"
     ]
   ]
 }

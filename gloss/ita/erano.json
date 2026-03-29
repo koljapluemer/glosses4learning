@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:10.903751Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:10.903751Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:26:47.189095Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:26:48.008840Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:26:48.935011Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:26:49.610336Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +51,38 @@
     [
       "TRANSLATION",
       "eng:they had been"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie waren"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es waren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils étaient"
+    ],
+    [
+      "TRANSLATION",
+      "fra:elles étaient"
+    ],
+    [
+      "TRANSLATION",
+      "rus:были"
+    ],
+    [
+      "TRANSLATION",
+      "rus:являлись"
+    ],
+    [
+      "TRANSLATION",
+      "tur:idiler"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oldular"
     ]
   ]
 }

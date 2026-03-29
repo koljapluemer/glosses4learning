@@ -1,0 +1,43 @@
+{
+  "content": "Das Baby tut nichts anderes als weinen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Das"
+    ],
+    [
+      "PART",
+      "deu:Baby"
+    ],
+    [
+      "PART",
+      "deu:tut"
+    ],
+    [
+      "PART",
+      "deu:nichts"
+    ],
+    [
+      "PART",
+      "deu:anderes"
+    ],
+    [
+      "PART",
+      "deu:als"
+    ],
+    [
+      "PART",
+      "deu:weinen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:26.886267Z": "SPLIT_DONE"
+  }
+}

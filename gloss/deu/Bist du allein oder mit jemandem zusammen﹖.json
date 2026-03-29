@@ -1,0 +1,43 @@
+{
+  "content": "Bist du allein oder mit jemandem zusammen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Bist"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:allein"
+    ],
+    [
+      "PART",
+      "deu:oder"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:jemandem"
+    ],
+    [
+      "PART",
+      "deu:zusammen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:53.093541Z": "SPLIT_DONE"
+  }
+}

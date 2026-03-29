@@ -116,9 +116,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne pensais pas que vous seriez tellement en retard"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:voi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ты"
     ]
   ],
   "logs": {
-    "2026-03-28T15:39:37.942982Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:39:37.942982Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:25:46.658728Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:25:47.497174Z": "TRANSLATION_DONE:rus"
   }
 }

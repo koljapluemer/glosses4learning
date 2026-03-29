@@ -2,9 +2,14 @@
   "content": "everybody",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:29:08.908303Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:29:09.731558Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:29:10.590867Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -50,6 +55,34 @@
     [
       "TRANSLATION",
       "fra:tous"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom told everybody that he was interested"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tutti"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ognuno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:все"
+    ],
+    [
+      "TRANSLATION",
+      "rus:каждый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:herkes"
+    ],
+    [
+      "TRANSLATION",
+      "tur:herkesin"
     ]
   ]
 }

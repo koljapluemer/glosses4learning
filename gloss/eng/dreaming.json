@@ -2,16 +2,71 @@
   "content": "dreaming",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-03-28T16:43:39.638839Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:43:40.456585Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:43:41.277596Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:43:42.095291Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:43:43.019670Z": "TRANSLATION_DONE:tur"
+  },
   "relationships": [
     [
       "TRANSLATION",
       "arz:بِتَحلَم"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What are you dreaming with your mouth open﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:träumen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Träumen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rêver"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en train de rêver"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sognare"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sognando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мечтание"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сновидение"
+    ],
+    [
+      "TRANSLATION",
+      "rus:грезы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:rüya görmek"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hayal kurmak"
     ]
   ]
 }

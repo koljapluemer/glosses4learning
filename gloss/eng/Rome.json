@@ -1,0 +1,60 @@
+{
+  "content": "Rome",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:I have been to Rome"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Römerstadt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Rome"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Rome (la capitale de l'Italie)"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Roma"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Città Eterna"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Рим"
+    ],
+    [
+      "TRANSLATION",
+      "rus:город Рим"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Roma"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Roma Şehri"
+    ]
+  ],
+  "logs": {
+    "2026-03-28T16:29:21.197711Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:29:22.118861Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:29:22.937763Z": "TRANSLATION_DONE:ita",
+    "2026-03-28T16:29:23.862358Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:29:24.683145Z": "TRANSLATION_DONE:tur"
+  }
+}

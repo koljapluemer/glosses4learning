@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:27.652804Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:27.652804Z": "TRANSLATION_DONE:eng",
+    "2026-03-28T16:27:04.492804Z": "TRANSLATION_DONE:deu",
+    "2026-03-28T16:27:06.132543Z": "TRANSLATION_DONE:fra",
+    "2026-03-28T16:27:07.160391Z": "TRANSLATION_DONE:rus",
+    "2026-03-28T16:27:08.591739Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,38 @@
     [
       "TRANSLATION",
       "eng:period"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stunden"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Uhren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:heures"
+    ],
+    [
+      "TRANSLATION",
+      "fra:heure"
+    ],
+    [
+      "TRANSLATION",
+      "rus:часы"
+    ],
+    [
+      "TRANSLATION",
+      "rus:время"
+    ],
+    [
+      "TRANSLATION",
+      "tur:saat"
+    ],
+    [
+      "TRANSLATION",
+      "tur:saatler"
     ]
   ]
 }

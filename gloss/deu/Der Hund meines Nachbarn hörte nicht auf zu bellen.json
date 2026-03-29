@@ -1,0 +1,51 @@
+{
+  "content": "Der Hund meines Nachbarn hörte nicht auf zu bellen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mramosch (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Der"
+    ],
+    [
+      "PART",
+      "deu:Hund"
+    ],
+    [
+      "PART",
+      "deu:meines"
+    ],
+    [
+      "PART",
+      "deu:Nachbarn"
+    ],
+    [
+      "PART",
+      "deu:hörte"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:bellen"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:21:09.800392Z": "SPLIT_DONE"
+  }
+}
