@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:44:48.725228Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:13:48.735626Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:13:48.735626Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:54.482472Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:54.664843Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:54.857799Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,10 @@
     [
       "TRANSLATION",
       "ita:bisogno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:потребности"
     ]
   ]
 }

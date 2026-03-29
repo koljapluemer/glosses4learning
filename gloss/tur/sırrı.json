@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:16.843344Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:20:26.470165Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:26.470165Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:54.291270Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:54.461807Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:54.661124Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:mystery"
+    ],
+    [
+      "TRANSLATION",
+      "fra:secret"
+    ],
+    [
+      "TRANSLATION",
+      "ita:segreto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:секрет"
     ]
   ]
 }

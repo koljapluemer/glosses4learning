@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:45:43.357257Z": "TRANSLATION_DONE:deu"
+    "2026-01-22T15:45:43.357257Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:39.778811Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:39.979651Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:40.147998Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:40.342644Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "deu:ich selbst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:myself"
+    ],
+    [
+      "TRANSLATION",
+      "fra:moi-même"
+    ],
+    [
+      "TRANSLATION",
+      "ita:me stesso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:себя"
     ]
   ]
 }

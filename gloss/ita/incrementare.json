@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:11.945505Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:11.945505Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:38.543233Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:38.725876Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:38.930903Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:39.134961Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to raise"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erhöhen, steigern"
+    ],
+    [
+      "TRANSLATION",
+      "fra:augmenter"
+    ],
+    [
+      "TRANSLATION",
+      "rus:увеличивать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:artırma"
     ]
   ]
 }

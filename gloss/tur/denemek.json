@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:36.648107Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:44:43.518602Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:44:43.518602Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:20.380615Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:20.566429Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:20.733653Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:to attempt"
+    ],
+    [
+      "TRANSLATION",
+      "ita:provare"
+    ],
+    [
+      "TRANSLATION",
+      "fra:essayer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пробовать"
     ]
   ]
 }

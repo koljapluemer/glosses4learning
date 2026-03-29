@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:37:17.861317Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:43:58.449185Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:43:58.449185Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:31.135013Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:31.355619Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:31.576129Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:du wirst liefern"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous allez le donner"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dovrai farlo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы дадите"
     ]
   ]
 }

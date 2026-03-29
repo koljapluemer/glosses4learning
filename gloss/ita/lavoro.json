@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:32.297090Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:32.297090Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:50.119541Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:50.292026Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:50.468065Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:50.661027Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -71,6 +75,30 @@
     [
       "TRANSLATION",
       "fra:travailles"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arbeit"
+    ],
+    [
+      "TRANSLATION",
+      "rus:работа"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çalışma"
+    ],
+    [
+      "TRANSLATION",
+      "spa:trabajo"
+    ],
+    [
+      "TRANSLATION",
+      "tur:iş"
+    ],
+    [
+      "TRANSLATION",
+      "tur:işe"
     ]
   ]
 }

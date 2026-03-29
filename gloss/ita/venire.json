@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:35.539059Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:35.539059Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:13.894831Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:14.055846Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:14.233528Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:14.435996Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:to occur"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:venir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:приходить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gelmek"
     ]
   ]
 }

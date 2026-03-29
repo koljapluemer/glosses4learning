@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:44.734549Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:44:56.288454Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:44:56.288454Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:57.048192Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:57.274795Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:57.509133Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:with the use of"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en utilisant"
+    ],
+    [
+      "TRANSLATION",
+      "ita:utilizzando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:используя"
     ]
   ]
 }

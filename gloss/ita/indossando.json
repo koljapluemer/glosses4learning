@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:14.608234Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:14.608234Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:41.870854Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:42.047958Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:42.267696Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:42.462833Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:donning"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tragen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en portant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:надевая"
+    ],
+    [
+      "TRANSLATION",
+      "tur:giymek"
     ]
   ]
 }

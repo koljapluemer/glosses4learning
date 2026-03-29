@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:26.857862Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:26.857862Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:05.319462Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:05.518822Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:05.696219Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:05.901065Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:06.098478Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:uncover"
+    ],
+    [
+      "TRANSLATION",
+      "deu:entdecke"
+    ],
+    [
+      "TRANSLATION",
+      "fra:découvre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:scopri"
+    ],
+    [
+      "TRANSLATION",
+      "rus:открываешь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:keşfed"
     ]
   ]
 }

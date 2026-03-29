@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:37:05.795623Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:31.057782Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:31.057782Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:27.629073Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:27.833833Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:28.032662Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:Meine Erwartungen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mes espoirs"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Le mie speranze"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мои надежды"
     ]
   ]
 }

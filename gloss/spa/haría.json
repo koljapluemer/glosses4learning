@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:48.360746Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:48.360746Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:18.603292Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:18.778360Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:18.953876Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:19.168008Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:19.372001Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:I would make"
+    ],
+    [
+      "TRANSLATION",
+      "deu:würde"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ferait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:farebbe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сделал бы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapardım"
     ]
   ]
 }

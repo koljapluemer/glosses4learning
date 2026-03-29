@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:14:57.273550Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:16:59.157631Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:16:59.157631Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:32.903772Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:33.081642Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:33.242611Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "fra:augmentation"
+    ],
+    [
+      "TRANSLATION",
+      "ita:l'aumento"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aumento"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рост"
     ]
   ]
 }

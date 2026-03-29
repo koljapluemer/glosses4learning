@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:14.270226Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:34.991592Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:34.991592Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:36.265920Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:36.434923Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:36.614646Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:wöchentlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Du mois"
+    ],
+    [
+      "TRANSLATION",
+      "ita:del mese"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Лучшие"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:36.055939Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:36.055939Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:52.414372Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:52.583346Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:52.751953Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:52.923028Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I deliver"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hafen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:port"
+    ],
+    [
+      "TRANSLATION",
+      "rus:порт"
+    ],
+    [
+      "TRANSLATION",
+      "tur:liman"
     ]
   ]
 }

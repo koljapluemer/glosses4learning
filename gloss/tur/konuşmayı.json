@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:19:04.446521Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:49.321745Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:49.321745Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:51.553005Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:51.739804Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:51.910514Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:die Unterhaltung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:la conversation"
+    ],
+    [
+      "TRANSLATION",
+      "ita:la conversazione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:разговор"
     ]
   ]
 }

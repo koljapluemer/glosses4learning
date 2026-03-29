@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:48.083551Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:48.083551Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:28.225197Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:28.412241Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:28.562672Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:28.792025Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to recover"
+    ],
+    [
+      "TRANSLATION",
+      "deu:träumen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avoir hâte de"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мечтать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hayal etmek, umut etmek"
     ]
   ]
 }

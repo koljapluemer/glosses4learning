@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:02.022196Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:02.022196Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:36.426320Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:36.634174Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:36.815039Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:37.025834Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:rang out"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie schwebten im Raum"
+    ],
+    [
+      "TRANSLATION",
+      "fra:résonnaient"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отдавались эхом"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yankılanıyorlardı"
     ]
   ]
 }

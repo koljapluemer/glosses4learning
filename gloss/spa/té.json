@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:57.379675Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:57.379675Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:48.003511Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:48.165685Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:48.362038Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:48.538828Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:48.701758Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:herbal tea"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tee"
+    ],
+    [
+      "TRANSLATION",
+      "fra:thé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tè"
+    ],
+    [
+      "TRANSLATION",
+      "rus:чай"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çay"
     ]
   ]
 }

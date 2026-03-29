@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:56.967919Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:56.967919Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:45.370452Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:45.552223Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:45.728442Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:45.929815Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:46.139922Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:cleaning"
+    ],
+    [
+      "TRANSLATION",
+      "deu:waschen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:lavant"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lavando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мытье"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yıkayarak"
     ]
   ]
 }

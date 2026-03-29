@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-22T15:45:34.918948Z": "TRANSLATION_DONE:deu",
-    "2026-01-27T14:53:32.563293Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:53:32.563293Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:16.227662Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:16.409729Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:16.579335Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:I bought"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ricevette"
+    ],
+    [
+      "TRANSLATION",
+      "fra:j'ai pris"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ho preso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я взял"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:07.884756Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:07.884756Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:33.255017Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:33.475880Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:33.707051Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:33.924825Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to charge us"
+    ],
+    [
+      "TRANSLATION",
+      "deu:uns beschuldigen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous tenir pour responsables"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обвинять нас"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bize suçlamayı"
     ]
   ]
 }

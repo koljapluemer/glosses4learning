@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:31.918702Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:16:26.954204Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:16:26.954204Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:41.655424Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:41.817799Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:41.993031Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:unlock"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ouvrez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:apri"
+    ],
+    [
+      "TRANSLATION",
+      "rus:откройте"
     ]
   ]
 }

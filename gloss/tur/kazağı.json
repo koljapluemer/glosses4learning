@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:58.700939Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:47.186627Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:47.186627Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:35.901210Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:36.093972Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:36.277496Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Sweater"
+    ],
+    [
+      "TRANSLATION",
+      "fra:son manteau"
+    ],
+    [
+      "TRANSLATION",
+      "ita:la sua felpa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:казак"
     ]
   ]
 }

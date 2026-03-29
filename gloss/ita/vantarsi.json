@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:18.171094Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:18.171094Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:00.774587Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:00.943297Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:01.170519Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:01.382186Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to take pride in"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sich rühmen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:se vanter"
+    ],
+    [
+      "TRANSLATION",
+      "rus:гордиться, хвалиться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gurur duyma"
     ]
   ]
 }

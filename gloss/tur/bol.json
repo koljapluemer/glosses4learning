@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:53.987299Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:01.155439Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:01.155439Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:03.688772Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:03.877401Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:04.072652Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "deu:Kugel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:abondant"
+    ],
+    [
+      "TRANSLATION",
+      "ita:abbondante"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обильный"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:15.593606Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:15.593606Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:42.202761Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:42.366438Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:42.510066Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:42.689086Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:42.861299Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:how"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:comme"
+    ],
+    [
+      "TRANSLATION",
+      "ita:come"
+    ],
+    [
+      "TRANSLATION",
+      "rus:например"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gibi"
     ]
   ]
 }

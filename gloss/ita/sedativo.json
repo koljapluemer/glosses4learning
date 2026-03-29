@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:03:39.039535Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:03:39.039535Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:50.764076Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:50.937739Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:51.124280Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:51.304778Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:sleep aid"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beruhigend"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sédatif"
+    ],
+    [
+      "TRANSLATION",
+      "rus:седативный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uyku verici"
     ]
   ]
 }

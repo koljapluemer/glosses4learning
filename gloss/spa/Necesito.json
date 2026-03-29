@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:03.265960Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:03.265960Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:18.567334Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:18.753156Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:18.940353Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:19.113653Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:19.323164Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:I want"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich brauche"
+    ],
+    [
+      "TRANSLATION",
+      "fra:J'ai besoin de"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ho bisogno di"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мне нужно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İhtiyacım var"
     ]
   ]
 }

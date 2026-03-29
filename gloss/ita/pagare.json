@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:53.868757Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:53.868757Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:26.380551Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:26.548809Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:26.727857Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:26.913501Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to compensate"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bezahlen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:payer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:оплачивать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ödeme"
     ]
   ]
 }

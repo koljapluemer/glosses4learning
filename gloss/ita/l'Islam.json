@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:56.502594Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:56.502594Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:15.756749Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:15.966484Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:16.170662Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:16.354119Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Islamic belief system"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Der Islam"
+    ],
+    [
+      "TRANSLATION",
+      "fra:L'islam"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ислам"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İslam"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:15.078890Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:15.078890Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:25.966019Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:26.149220Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:26.341039Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:26.543613Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:26.735635Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:made"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hat getan"
+    ],
+    [
+      "TRANSLATION",
+      "fra:a fait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ha fatto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сделал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yaptı"
     ]
   ]
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:A José piace la musica latina"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lateinisch"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Latina"
+    ],
+    [
+      "TRANSLATION",
+      "fra:latine"
+    ],
+    [
+      "TRANSLATION",
+      "rus:латина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Latina"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:07:44.218184Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:44.404901Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:44.572507Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:44.723034Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:44.896398Z": "TRANSLATION_DONE:tur"
+  }
 }

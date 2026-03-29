@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:06.644900Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:06.644900Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:14.826900Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:15.036452Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:15.211093Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:15.409560Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -55,6 +59,22 @@
     [
       "TRANSLATION",
       "fra:machine"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fahrzeug"
+    ],
+    [
+      "TRANSLATION",
+      "fra:véhicule"
+    ],
+    [
+      "TRANSLATION",
+      "rus:автомобиль"
+    ],
+    [
+      "TRANSLATION",
+      "tur:araba"
     ]
   ]
 }

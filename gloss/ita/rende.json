@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:36.676791Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:36.676791Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:21.443401Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:21.619977Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:21.787147Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:22.027665Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:produces"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erzeugt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cause"
+    ],
+    [
+      "TRANSLATION",
+      "rus:делает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:etkileme, dönüştürme"
     ]
   ]
 }

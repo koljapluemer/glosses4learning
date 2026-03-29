@@ -2,7 +2,13 @@
   "content": "¿Cómo",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T14:28:05.772565Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:28:05.934443Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:28:06.098641Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:28:06.245839Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:28:06.433666Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -23,6 +29,26 @@
     [
       "TRANSLATION",
       "eng:How"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Comment"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Come"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Как"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Nasıl"
     ]
   ]
 }

@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-28T14:56:05.035862Z": "TRANSLATION_DONE:eng",
-    "2026-01-22T15:09:59.538Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2026-01-22T15:09:59.538Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T14:09:04.830753Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:09:05.015222Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:09:05.199918Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:09:05.397052Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -38,6 +42,22 @@
     [
       "TRANSLATION",
       "fra:manière"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Methode"
+    ],
+    [
+      "TRANSLATION",
+      "rus:способы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yöntem"
+    ],
+    [
+      "TRANSLATION",
+      "spa:manera"
     ]
   ]
 }

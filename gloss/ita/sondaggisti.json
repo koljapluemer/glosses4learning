@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:52.228271Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:52.228271Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:44.524461Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:44.711257Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:44.892673Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:45.087155Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:polling experts"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Umfragenexperten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:enquêteurs"
+    ],
+    [
+      "TRANSLATION",
+      "rus:опросы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anket uzmanları"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T15:25:15.456958Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:26.873330Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:26.873330Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:33.294383Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:33.485783Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:33.711946Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:hättest du es hören können"
+    ],
+    [
+      "TRANSLATION",
+      "fra:si tu avais pu l'entendre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Se solo potessi sentirlo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Если бы ты мог это услышать"
     ]
   ]
 }

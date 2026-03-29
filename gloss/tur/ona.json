@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-02T09:19:45.391604Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:00.022584Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:00.022584Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:38:48.159416Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:48.334068Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -60,6 +62,14 @@
     [
       "TRANSLATION",
       "deu:seiner"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a luilei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ему"
     ]
   ]
 }

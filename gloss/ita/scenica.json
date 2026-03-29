@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:03:13.228353Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:03:13.228353Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:30.439146Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:30.621048Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:30.836334Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:31.039856Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:visual"
+    ],
+    [
+      "TRANSLATION",
+      "deu:atemberaubend"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pittoresque"
+    ],
+    [
+      "TRANSLATION",
+      "rus:панорамный, живописный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:görkemli, etkileyici"
     ]
   ]
 }

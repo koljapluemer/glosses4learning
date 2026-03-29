@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:22.636941Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:22.636941Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:37.600971Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:37.776532Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:37.993241Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:38.185394Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:38.387747Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:sure"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verständlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:évident"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ovviamente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:очевидно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:açık"
     ]
   ]
 }

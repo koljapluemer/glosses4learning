@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:51.477150Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:51.477150Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:30.371234Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:30.541308Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:30.702197Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:30.876928Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:sales slip"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Quittung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:reçu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:квитанция"
+    ],
+    [
+      "TRANSLATION",
+      "tur:fatura"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:43.585251Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:12.509008Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:12.509008Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:20.025644Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:20.215878Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:20.433853Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:closet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Armoire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Armadio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Шкаф"
     ]
   ]
 }

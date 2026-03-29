@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:42:49.174664Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:42:49.174664Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:23.225494Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:23.390943Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:23.537382Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:23.714506Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:23.907335Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:per"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufgrund"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Pour"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Per"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Пожалуйста"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Çünkü"
     ]
   ]
 }

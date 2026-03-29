@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:09.460775Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:09.460775Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:25:18.826797Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:25:18.993090Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:25:19.214973Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:25:19.440212Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:25:19.657917Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:to trouble you"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie zu ärgern"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous déranger"
+    ],
+    [
+      "TRANSLATION",
+      "ita:causarti disturbo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:навязывать вам что-либо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sizi rahatsız etmek"
     ]
   ]
 }

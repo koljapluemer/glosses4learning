@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:41.429834Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:41.429834Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:50.150296Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:50.345944Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:50.522657Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:50.706200Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:vixen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fuchs"
+    ],
+    [
+      "TRANSLATION",
+      "fra:renard"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лиса"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tilki"
     ]
   ]
 }

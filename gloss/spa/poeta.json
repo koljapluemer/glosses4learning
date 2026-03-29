@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:24.001616Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:24.001616Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:26:26.035749Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:26:26.205919Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:26:26.388047Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:26:26.579168Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:26:26.768685Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:poetess"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dichter"
+    ],
+    [
+      "TRANSLATION",
+      "fra:poète"
+    ],
+    [
+      "TRANSLATION",
+      "ita:poeta"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поэт"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şair"
     ]
   ]
 }

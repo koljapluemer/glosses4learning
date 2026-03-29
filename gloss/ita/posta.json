@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:43.331056Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:43.331056Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:57.278653Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:57.452708Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:57.619099Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:57.785522Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:mail delivery"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Posten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:courrier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:письмо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:posta"
     ]
   ]
 }

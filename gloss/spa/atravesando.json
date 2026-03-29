@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:20.379085Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:20.379085Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:06.400900Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:06.580765Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:06.794488Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:06.970619Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:07.145292Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:passing through"
+    ],
+    [
+      "TRANSLATION",
+      "deu:durchqueren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en traversant"
+    ],
+    [
+      "TRANSLATION",
+      "ita:attraversando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:проходя"
+    ],
+    [
+      "TRANSLATION",
+      "tur:geçen"
     ]
   ]
 }

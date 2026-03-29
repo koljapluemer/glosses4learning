@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:13.995213Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:13.995213Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:05.941111Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:06.114227Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:06.277522Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:06.466333Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "eng:lad"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Junge"
+    ],
+    [
+      "TRANSLATION",
+      "fra:garçon"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мальчик"
+    ],
+    [
+      "TRANSLATION",
+      "tur:genç"
+    ],
+    [
+      "TRANSLATION",
+      "spa:muchacho"
     ]
   ]
 }

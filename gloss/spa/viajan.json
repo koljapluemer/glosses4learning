@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:45:01.133601Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:45:01.133601Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:28:00.899793Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:28:01.084444Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:28:01.281328Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:28:01.475528Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:28:01.644726Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:are traveling"
+    ],
+    [
+      "TRANSLATION",
+      "deu:reisen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils voyagent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:viaggiano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:путешествуют"
+    ],
+    [
+      "TRANSLATION",
+      "tur:seyahat"
     ]
   ]
 }

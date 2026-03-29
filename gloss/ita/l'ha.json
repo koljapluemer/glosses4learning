@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:04.175623Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:04.175623Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:23.576312Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:23.800790Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:23.982665Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:24.181040Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "eng:he's got it"
+    ],
+    [
+      "TRANSLATION",
+      "deu:er hat"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ilelle l'a"
+    ],
+    [
+      "TRANSLATION",
+      "rus:онона это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:onu"
     ]
   ]
 }

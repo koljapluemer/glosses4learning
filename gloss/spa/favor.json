@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:38.121437Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:38.121437Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:49.701628Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:49.880288Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:50.065223Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:50.284145Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:50.485120Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:support"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Günstigkeit, Vorteil"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avantage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:favore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:услуга, благо, услуга"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tercih"
     ]
   ]
 }

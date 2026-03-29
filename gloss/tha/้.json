@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "tha:คุณสามารถทำมันได้ ไม่ใช่หรือ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bitte geben Sie den Thai-Text an, den Sie übersetzt haben möchten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:(No text provided)"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Veuillez fournir le texte thaï à traduire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:(Il testo originale è vuoto. Non è possibile fornire una traduzione.)"
+    ],
+    [
+      "TRANSLATION",
+      "rus:(Текст отсутствует)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Boşluk)"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:32:51.742782Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:32:51.935636Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:32:52.206939Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:32:52.516222Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:32:52.726719Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:32:52.942170Z": "TRANSLATION_DONE:tur"
+  }
 }

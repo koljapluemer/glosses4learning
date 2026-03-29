@@ -2,7 +2,13 @@
   "content": "si",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T14:27:07.862659Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:08.040446Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:08.230974Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:08.405434Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:08.598140Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -14,6 +20,26 @@
     [
       "TRANSLATION",
       "eng:if"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wenn"
+    ],
+    [
+      "TRANSLATION",
+      "fra:si"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sì"
+    ],
+    [
+      "TRANSLATION",
+      "rus:если"
+    ],
+    [
+      "TRANSLATION",
+      "tur:evet"
     ]
   ]
 }

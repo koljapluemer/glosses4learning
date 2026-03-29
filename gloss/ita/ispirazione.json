@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:51.885314Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:51.885314Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:11.859474Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:12.045956Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:12.213951Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:12.417899Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:encouragement"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Inspiration"
+    ],
+    [
+      "TRANSLATION",
+      "fra:source d'inspiration"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вдохновение"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ilham kaynağı"
     ]
   ]
 }

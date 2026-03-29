@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:46.461641Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:17.751104Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:17.751104Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:40.710491Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:40.883718Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:41.055511Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "epo:memoras"
+    ],
+    [
+      "TRANSLATION",
+      "fra:se souvenir de"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ricordare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помнить"
     ]
   ]
 }

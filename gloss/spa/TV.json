@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:06.934592Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:06.934592Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:35.408493Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:35.596672Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:35.807633Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:36.014356Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:36.240804Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:television"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fernsehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Télévision"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Televisione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Телевизор"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Televizyon"
     ]
   ]
 }

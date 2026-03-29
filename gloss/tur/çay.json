@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:35:33.314868Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:37:23.442777Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:37:23.442777Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:30.456760Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:30.637904Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:30.815247Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:chai"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tè"
+    ],
+    [
+      "TRANSLATION",
+      "mkd:чај"
+    ],
+    [
+      "TRANSLATION",
+      "spa:té"
+    ],
+    [
+      "TRANSLATION",
+      "fra:thé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:чай"
     ]
   ]
 }

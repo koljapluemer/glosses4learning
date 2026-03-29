@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:05.302214Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:06.325549Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:06.325549Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:57.453527Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:57.667439Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:57.834672Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,26 @@
     [
       "TRANSLATION",
       "fra:mariés"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sposata"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sposato"
+    ],
+    [
+      "TRANSLATION",
+      "fra:marié(e)"
+    ],
+    [
+      "TRANSLATION",
+      "ita:coniugatoa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:замужем"
     ]
   ]
 }

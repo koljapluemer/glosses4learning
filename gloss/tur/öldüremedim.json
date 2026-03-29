@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:37:25.241632Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:44:06.854262Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:44:06.854262Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:42.057666Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:42.309804Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:42.537871Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Ich habe es nicht geschafft, ihn zu töten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je n'ai pas pu le faire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Non sono riuscito a ucciderlo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я не смог(ла)"
     ]
   ]
 }

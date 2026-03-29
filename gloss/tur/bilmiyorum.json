@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:00.046416Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:00.599367Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:00.599367Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:58.781799Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:58.986420Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:59.160606Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:weiß nicht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je ne sais pas"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Non lo so"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я не знаю"
     ]
   ]
 }

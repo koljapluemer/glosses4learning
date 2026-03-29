@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:08.166175Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:08.166175Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:31.629166Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:31.810970Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:32.006002Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:32.177224Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:32.345935Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:Sandy"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sandra"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Sandra"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Sandra"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Сандра"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sandra"
     ]
   ]
 }

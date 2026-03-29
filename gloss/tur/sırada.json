@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:45:47.863561Z": "TRANSLATION_DONE:deu"
+    "2026-01-22T15:45:47.863561Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:53.498869Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:53.774875Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:53.956597Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:54.111113Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "deu:in Wartestellung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:next in line"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à tour de rôleen attenteau prochain tour"
+    ],
+    [
+      "TRANSLATION",
+      "ita:al turno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в очереди"
     ]
   ]
 }

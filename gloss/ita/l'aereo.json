@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:57.365000Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:57.365000Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:16.546067Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:16.738765Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:16.937817Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:17.138964Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:the plane"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das Flugzeug"
+    ],
+    [
+      "TRANSLATION",
+      "fra:l'avion"
+    ],
+    [
+      "TRANSLATION",
+      "rus:самолет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uçak"
     ]
   ]
 }

@@ -156,10 +156,35 @@
     [
       "USAGE_EXAMPLE",
       "tha:ฉันทำงานทั้งวันเมื่อวานนี้"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Io"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ben"
     ]
   ],
   "logs": {
-    "2026-03-28T14:00:50.853901Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T14:00:50.853901Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:29:28.116988Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:29:28.270418Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:29:28.418815Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:29:28.599973Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:29:28.780917Z": "TRANSLATION_DONE:tur"
   },
   "transcriptions": {
     "RTGS": "chan"

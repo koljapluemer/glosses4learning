@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:54.978726Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:54.978726Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:15.798493Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:15.989594Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:16.179388Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:16.376054Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "fra:savait"
+    ],
+    [
+      "TRANSLATION",
+      "deu:er wusste"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il savait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:он знал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Biliyordu"
     ]
   ]
 }

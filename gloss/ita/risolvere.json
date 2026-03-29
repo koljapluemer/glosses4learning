@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:20.122550Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:20.122550Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:47.757447Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:47.939255Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:48.114277Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +42,18 @@
     [
       "TRANSLATION",
       "deu:lösen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lösen, beheben, klären"
+    ],
+    [
+      "TRANSLATION",
+      "fra:résoudre"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çözmek"
     ]
   ]
 }

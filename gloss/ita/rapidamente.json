@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:21.080530Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:21.080530Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:10.353399Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:10.542796Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:10.711182Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:10.884171Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:promptly"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schnell"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rapidement"
+    ],
+    [
+      "TRANSLATION",
+      "rus:быстро"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hızlı bir şekilde"
     ]
   ]
 }

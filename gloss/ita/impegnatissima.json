@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:54.830493Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:54.830493Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:24.415827Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:24.604770Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:24.809585Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:25.011010Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:heavily engaged"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sehr engagiert"
+    ],
+    [
+      "TRANSLATION",
+      "fra:très engagée"
+    ],
+    [
+      "TRANSLATION",
+      "rus:очень занятая"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çok meşgul"
     ]
   ]
 }

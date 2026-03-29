@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:41.552593Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:06.283242Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:06.283242Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:29.699124Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:29.887850Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:30.066416Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:the eyes"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ses yeux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:i suoi occhi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:глаза"
     ]
   ]
 }

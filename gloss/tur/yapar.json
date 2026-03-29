@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:36:35.276187Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:20.515010Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:20.515010Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:46.011553Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:46.219179Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:46.422494Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "deu:tut"
+    ],
+    [
+      "TRANSLATION",
+      "fra:effectue"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lo fa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:делает"
     ]
   ]
 }

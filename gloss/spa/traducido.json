@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "spa:Alguien no la ha traducido correctamente"
+    ],
+    [
+      "TRANSLATION",
+      "deu:übersetzt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:translated"
+    ],
+    [
+      "TRANSLATION",
+      "fra:traduit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tradotto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:переведено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çevrilmiş"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:27:40.705029Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:40.858614Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:41.050076Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:41.226108Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:41.388368Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:41.602720Z": "TRANSLATION_DONE:tur"
+  }
 }

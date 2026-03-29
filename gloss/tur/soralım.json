@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:45:04.974441Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:14:01.731336Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:14:01.731336Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:37.744833Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:37.928983Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:38.122622Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:fragen wir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:posons-nous"
+    ],
+    [
+      "TRANSLATION",
+      "ita:chiediamo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:спросим"
     ]
   ]
 }

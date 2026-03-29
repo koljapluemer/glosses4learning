@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:14.652697Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:14.652697Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:57.942046Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:58.123200Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:58.336548Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:58.519286Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:58.722674Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:sustain yourself"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ernähren Sie sich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mangez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mangia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:питайтесь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Beslenin"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:57.670624Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:57.670624Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:34.038820Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:34.242882Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:34.436380Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:34.610578Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I will note"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich werde es nicht vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je me souviendrai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я буду помнить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hatırım"
     ]
   ]
 }

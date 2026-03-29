@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:37:09.782683Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:43:47.294550Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:43:47.294550Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:38:36.598402Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:36.767698Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:36.950087Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:ich lese"
+    ],
+    [
+      "TRANSLATION",
+      "fra:que je vais lire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Leggerò"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я буду читать"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:13.735526Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:13.735526Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:42.818278Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:43.014671Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:43.188455Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:43.387347Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:let's speak"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lass uns reden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Parlons"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Давайте поговорим"
+    ],
+    [
+      "TRANSLATION",
+      "tur:konuşalım"
     ]
   ]
 }

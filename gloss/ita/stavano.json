@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:42.562428Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:42.562428Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:24.701857Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:24.868418Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:25.065855Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:25.232918Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:they were staying"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie waren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils étaient"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ожидали"
+    ],
+    [
+      "TRANSLATION",
+      "tur:onlar"
     ]
   ]
 }

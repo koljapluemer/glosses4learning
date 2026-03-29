@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:33.141467Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:14:55.214435Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:14:55.214435Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:01.691583Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:01.869924Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:02.036417Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:Indeed"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Exactement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Esattamente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Именно"
     ]
   ]
 }

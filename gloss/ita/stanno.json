@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:31.467844Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:31.467844Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:16.504898Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:16.673584Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:16.873558Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:17.088793Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:they stay"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie tun"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils sont"
+    ],
+    [
+      "TRANSLATION",
+      "rus:осуществляют"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapıyorlar"
     ]
   ]
 }

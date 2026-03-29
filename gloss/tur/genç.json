@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:26.501255Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:46.929334Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:46.929334Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:08.006629Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:08.191743Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:08.354967Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,14 @@
     [
       "TRANSLATION",
       "ita:giovane"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ragazzo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:молодой"
     ]
   ]
 }

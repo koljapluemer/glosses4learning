@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:31.277761Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:31.277761Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:26:46.024187Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:26:46.245490Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:26:46.438894Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:26:46.636885Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:26:46.862756Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:you will get back"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie werden es wiederherstellenerlangen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous récupérerez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:riacquisterai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы сможете восстановить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yeniden elde edeceksin"
     ]
   ]
 }

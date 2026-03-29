@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:20:11.626233Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:06.780616Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:06.780616Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:31.817837Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:32.002156Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:32.188538Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Systematik"
+    ],
+    [
+      "TRANSLATION",
+      "fra:système"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sistemi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:систему"
     ]
   ]
 }

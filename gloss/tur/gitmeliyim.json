@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:44:48.117974Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:13:43.819923Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:13:43.819923Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:19.979456Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:20.186759Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:20.427963Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:Ich sollte gehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je dois y aller"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dovrei andarci"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мне нужно это сделатьмне следует это сделать"
     ]
   ]
 }

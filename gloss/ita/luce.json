@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:55.171146Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:55.171146Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:07.839017Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:08.038518Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:08.220395Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:08.411827Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:radiance"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Licht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:lumière"
+    ],
+    [
+      "TRANSLATION",
+      "rus:свет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ışık"
     ]
   ]
 }

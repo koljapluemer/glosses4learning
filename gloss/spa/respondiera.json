@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:32.498078Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:32.498078Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:26:50.578493Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:26:50.778438Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:26:50.962667Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:26:51.177892Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:26:51.407871Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:would answer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:antworten würde"
+    ],
+    [
+      "TRANSLATION",
+      "fra:répondrait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:risponderebbe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ответил бы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yanıt versin"
     ]
   ]
 }

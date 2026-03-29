@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:14.772655Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:14.772655Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:39.520781Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:39.715863Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:39.888473Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:40.055705Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:40.270041Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:collective transport"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gruppen, Teams"
+    ],
+    [
+      "TRANSLATION",
+      "fra:groupes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:gruppi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:группы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gruplar, topluluklar"
     ]
   ]
 }

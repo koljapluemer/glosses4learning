@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:33:31.670527Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:36:38.953692Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:36:38.953692Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:18.162111Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:18.375360Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:18.593871Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:Teeth of mine"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mes dents"
+    ],
+    [
+      "TRANSLATION",
+      "ita:I miei denti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мои зубы"
     ]
   ]
 }

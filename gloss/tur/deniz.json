@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:17:12.931944Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:07.814223Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:07.814223Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:22.081294Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:22.243027Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:22.421494Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,26 @@
     [
       "TRANSLATION",
       "deu:Ozean"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mare"
+    ],
+    [
+      "TRANSLATION",
+      "lat:mari"
+    ],
+    [
+      "TRANSLATION",
+      "spa:sea"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mer; mer des; océan"
+    ],
+    [
+      "TRANSLATION",
+      "rus:море"
     ]
   ]
 }

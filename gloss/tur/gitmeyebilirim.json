@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:29.426307Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:29.426307Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:21.140161Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:21.351702Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:21.537872Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:21.764321Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:I could not go"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich kann es vielleicht nicht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je pourrais ne pas y aller"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Potrei non andare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:возможно, я не смогу прийти"
     ]
   ]
 }

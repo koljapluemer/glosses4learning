@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:15.750998Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:15.750998Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:58.926037Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:59.110719Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:59.370859Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:59.555071Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:59.765256Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:at ease"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erleichtert"
+    ],
+    [
+      "TRANSLATION",
+      "fra:soulagé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sollevato, rassicurato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:облегченный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:rahatlamış"
     ]
   ]
 }

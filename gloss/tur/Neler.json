@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:44:39.621662Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:13:29.723984Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:13:29.723984Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:45.882928Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:46.072417Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:46.262254Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,18 @@
     [
       "TRANSLATION",
       "ita:Quali"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Quoi ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Cosa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Что﹖"
     ]
   ]
 }

@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "spa:Hay una película que quiero ver por TV mañana en la noche"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Film"
+    ],
+    [
+      "TRANSLATION",
+      "eng:movie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:film"
+    ],
+    [
+      "TRANSLATION",
+      "ita:film"
+    ],
+    [
+      "TRANSLATION",
+      "rus:фильм"
+    ],
+    [
+      "TRANSLATION",
+      "tur:film"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:26:06.278675Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:26:06.467808Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:26:06.645731Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:26:06.834329Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:26:07.004105Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:26:07.175730Z": "TRANSLATION_DONE:tur"
+  }
 }

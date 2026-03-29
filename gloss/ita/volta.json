@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:42.491095Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:42.491095Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:50.903754Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:51.101632Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:51.299064Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:51.499806Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "eng:revolution"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Drehpunkt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tournée"
+    ],
+    [
+      "TRANSLATION",
+      "rus:оборот"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dönüş"
+    ],
+    [
+      "TRANSLATION",
+      "spa:vez"
     ]
   ]
 }

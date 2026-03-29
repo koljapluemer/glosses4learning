@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:39.878664Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:39.878664Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:43.732134Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:43.903241Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:44.060937Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:44.223486Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +35,18 @@
     [
       "TRANSLATION",
       "fra:prêt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bereit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pronto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:готовый"
     ]
   ]
 }

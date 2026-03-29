@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:56.736615Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:56.736615Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:13.069343Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:13.218899Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:13.384788Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:13.574949Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:seafood"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fische"
+    ],
+    [
+      "TRANSLATION",
+      "fra:poissons"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рыбы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:balıklar"
     ]
   ]
 }

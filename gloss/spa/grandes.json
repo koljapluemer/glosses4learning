@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:45.083994Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:45.083994Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:07.456795Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:07.641738Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:07.822157Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:08.015853Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:08.201092Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:huge"
+    ],
+    [
+      "TRANSLATION",
+      "deu:groß"
+    ],
+    [
+      "TRANSLATION",
+      "fra:grandes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:enormi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:огромные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:büyük"
     ]
   ]
 }

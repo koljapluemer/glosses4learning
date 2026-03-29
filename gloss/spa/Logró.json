@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:42:44.055997Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:42:44.055997Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:11.422515Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:11.612856Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:11.818076Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:11.987304Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:12.168985Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:got"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erreichte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Il a réussi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Riuscì"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Удалось"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Başardı"
     ]
   ]
 }

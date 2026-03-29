@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:20:18.381349Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:09.662073Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:09.662073Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:38.963917Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:39.151431Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:39.334143Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "deu:Schwierigkeit"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avec ce problème"
+    ],
+    [
+      "TRANSLATION",
+      "ita:con questo problema"
+    ],
+    [
+      "TRANSLATION",
+      "rus:с проблемой"
     ]
   ]
 }

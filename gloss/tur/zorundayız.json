@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-02T09:12:45.459920Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:02.109164Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:02.109164Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:23.459886Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:23.665377Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +42,14 @@
     [
       "TRANSLATION",
       "fra:devons"
+    ],
+    [
+      "TRANSLATION",
+      "ita:siamo obbligati"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обязаны"
     ]
   ]
 }

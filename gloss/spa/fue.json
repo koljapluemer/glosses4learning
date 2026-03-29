@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:03.301466Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:03.301466Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:02.010741Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:02.174075Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:02.352614Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:02.541794Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:02.733374Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:has been"
+    ],
+    [
+      "TRANSLATION",
+      "deu:war"
+    ],
+    [
+      "TRANSLATION",
+      "fra:était"
+    ],
+    [
+      "TRANSLATION",
+      "ita:è stato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:было"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oldu"
     ]
   ]
 }

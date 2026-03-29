@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:03:50.508934Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:03:50.508934Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:58.463204Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:58.630442Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:58.818190Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:59.036276Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:perception"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gefühl"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sens"
+    ],
+    [
+      "TRANSLATION",
+      "rus:чувство"
+    ],
+    [
+      "TRANSLATION",
+      "tur:duygu"
     ]
   ]
 }

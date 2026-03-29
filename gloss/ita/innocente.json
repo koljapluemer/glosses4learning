@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:23.954940Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:23.954940Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:50.113693Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:50.332587Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:50.549058Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:50.756144Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:unaware"
+    ],
+    [
+      "TRANSLATION",
+      "deu:unschuldig"
+    ],
+    [
+      "TRANSLATION",
+      "fra:innocent"
+    ],
+    [
+      "TRANSLATION",
+      "rus:невиновен"
+    ],
+    [
+      "TRANSLATION",
+      "tur:masum"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:16.412581Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:16.412581Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:16.295695Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:16.470094Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:16.671965Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:16.867016Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:gazes"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Blicke"
+    ],
+    [
+      "TRANSLATION",
+      "fra:regards"
+    ],
+    [
+      "TRANSLATION",
+      "rus:взгляды"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bakışlar"
     ]
   ]
 }

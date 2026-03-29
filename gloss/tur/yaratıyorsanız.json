@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:37:19.297553Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:43:59.886399Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:43:59.886399Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:50.727479Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:50.910017Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:51.101830Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:wenn Sie kreieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:si vous en créez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:se ne crei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:если вы создаете"
     ]
   ]
 }

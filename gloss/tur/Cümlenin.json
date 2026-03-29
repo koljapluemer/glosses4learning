@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:15:09.015331Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:29.909522Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:29.909522Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:15.748710Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:15.949525Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:16.138246Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Der Ausdruck"
+    ],
+    [
+      "TRANSLATION",
+      "fra:La phrase"
+    ],
+    [
+      "TRANSLATION",
+      "ita:La frase"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Предложение"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-11T19:17:38.345762Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:38.345762Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:10.172177Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:10.367796Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:10.564427Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:10.727680Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "deu:ertragen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:swallows"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avaler"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ingoglia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:оплата"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:07.857559Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:07.857559Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:26.005146Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:26.196864Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:26.418682Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:26.623279Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:communal cooking pot"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das Hot Pot"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le pot à bouillon"
+    ],
+    [
+      "TRANSLATION",
+      "rus:горячая посуда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oyuşturma"
     ]
   ]
 }

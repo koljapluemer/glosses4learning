@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:45:50.188198Z": "TRANSLATION_DONE:deu"
+    "2026-01-22T15:45:50.188198Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:42:05.791322Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:42:05.959161Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:42:06.133004Z": "TRANSLATION_DONE:ita"
   },
   "relationships": [
     [
@@ -35,6 +38,18 @@
     [
       "TRANSLATION",
       "ita:adesso"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ahora"
+    ],
+    [
+      "TRANSLATION",
+      "eng:now"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ora"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:34:55.217626Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:37:07.204785Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:37:07.204785Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:29.608624Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:29.757884Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:29.938834Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,14 @@
     [
       "TRANSLATION",
       "ita:dove"
+    ],
+    [
+      "TRANSLATION",
+      "spa:dónde"
+    ],
+    [
+      "TRANSLATION",
+      "rus:где"
     ]
   ]
 }

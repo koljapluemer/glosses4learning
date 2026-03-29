@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:24.455536Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:24.455536Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:43.509968Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:43.677111Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:43.847214Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:44.046225Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "fra:laissé"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verlassen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:abandonné"
+    ],
+    [
+      "TRANSLATION",
+      "rus:оставил"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bırakılmış"
     ]
   ]
 }

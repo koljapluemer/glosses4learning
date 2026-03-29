@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:16.274176Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:20:24.934211Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:24.934211Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:50.962898Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:51.144776Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:51.327027Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:sourness"
+    ],
+    [
+      "TRANSLATION",
+      "fra:(sil)"
+    ],
+    [
+      "TRANSLATION",
+      "ita:numero"
+    ],
+    [
+      "TRANSLATION",
+      "rus:си"
     ]
   ]
 }

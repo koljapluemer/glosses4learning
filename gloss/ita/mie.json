@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:53.744843Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:53.744843Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:55.794342Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:55.962509Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:56.136231Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:56.287770Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:mine"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Eier"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pâtes"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мои"
+    ],
+    [
+      "TRANSLATION",
+      "tur:benim"
     ]
   ]
 }

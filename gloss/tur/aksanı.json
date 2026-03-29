@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:17.893667Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:16:00.822440Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:16:00.822440Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:13.397766Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:13.588930Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:13.761858Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:intonation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sonorité"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il suo accento"
+    ],
+    [
+      "TRANSLATION",
+      "rus:акцент"
     ]
   ]
 }

@@ -2,7 +2,13 @@
   "content": "día",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T14:23:21.584224Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:21.740096Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:21.920348Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:22.067301Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:22.237791Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -19,6 +25,26 @@
     [
       "TRANSLATION",
       "eng:day"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tag"
+    ],
+    [
+      "TRANSLATION",
+      "fra:jour"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giorno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:день"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gün"
     ]
   ]
 }

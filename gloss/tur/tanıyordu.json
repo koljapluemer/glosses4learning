@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:54.050637Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:45:08.489568Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:45:08.489568Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:59.846342Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:00.027418Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:00.233370Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:heshe recognized"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Il la connaissait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lo conosceva"
+    ],
+    [
+      "TRANSLATION",
+      "rus:знал"
     ]
   ]
 }

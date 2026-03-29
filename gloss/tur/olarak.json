@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:37:11.010924Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:43:48.734849Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:43:48.734849Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:38:38.843083Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:39.013221Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:39.206705Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,18 @@
     [
       "TRANSLATION",
       "deu:als Teil von"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en tant que"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in qualità di"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в качестве"
     ]
   ]
 }

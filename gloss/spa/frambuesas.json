@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:00.514019Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:00.514019Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:58.183172Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:58.366464Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:58.562178Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:58.764938Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:58.962821Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:raspberry fruits"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Himbeeren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:framboises"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fragole"
+    ],
+    [
+      "TRANSLATION",
+      "rus:малина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çilek"
     ]
   ]
 }

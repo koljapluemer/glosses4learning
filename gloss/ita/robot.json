@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:36.577357Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:36.577357Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:57.840066Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:58.002090Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:58.169571Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:58.357849Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:android"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Roboter"
+    ],
+    [
+      "TRANSLATION",
+      "fra:robot"
+    ],
+    [
+      "TRANSLATION",
+      "rus:робот"
+    ],
+    [
+      "TRANSLATION",
+      "tur:robot"
     ]
   ]
 }

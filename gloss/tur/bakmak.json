@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:32.245390Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:44:42.084767Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:44:42.084767Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:45.508024Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:45.708088Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:45.894178Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,18 @@
     [
       "TRANSLATION",
       "eng:to check"
+    ],
+    [
+      "TRANSLATION",
+      "fra:regarder"
+    ],
+    [
+      "TRANSLATION",
+      "ita:osservare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:смотреть, наблюдать"
     ]
   ]
 }

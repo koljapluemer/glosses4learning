@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:54.469059Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:19.725464Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:19.725464Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:42.710018Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:42.874606Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:43.078002Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:to die"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mourir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:morire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:уйдет из жизни"
     ]
   ]
 }

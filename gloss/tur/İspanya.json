@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-02T09:13:02.856548Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:32.932592Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:32.932592Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:57.250680Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:57.450272Z": "TRANSLATION_DONE:ita"
   },
   "relationships": [
     [
@@ -32,6 +34,14 @@
     [
       "TRANSLATION",
       "rus:Испании"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Espagne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Spagna"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:42:54.497666Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:42:54.497666Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:30.720166Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:30.894814Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:31.089119Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:31.284879Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:31.477823Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:Are you aware﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wissen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous savez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Lo sai﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вы знаете"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Biliyor musun"
     ]
   ]
 }

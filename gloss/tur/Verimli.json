@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:15:54.390940Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:42.822804Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:42.822804Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:05.330615Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:05.501803Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:05.686885Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:produktiv"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Productif"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Produttivo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Плодородный"
     ]
   ]
 }

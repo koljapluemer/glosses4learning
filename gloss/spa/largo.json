@@ -2,7 +2,13 @@
   "content": "largo",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T14:24:43.543031Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:43.714829Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:43.882229Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:44.084933Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:44.283628Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -14,6 +20,26 @@
     [
       "TRANSLATION",
       "eng:long"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lang"
+    ],
+    [
+      "TRANSLATION",
+      "fra:long"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lungo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:длинный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uzun"
     ]
   ]
 }

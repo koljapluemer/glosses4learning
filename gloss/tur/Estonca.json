@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:36:40.184562Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:43:28.059507Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:43:28.059507Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:22.510580Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:22.690230Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:22.903292Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Estonian"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Estonien"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Estone"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Эстонский язык"
     ]
   ]
 }

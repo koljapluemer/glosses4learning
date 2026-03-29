@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:17:29.213655Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:12.819177Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:12.819177Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:41.774958Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:41.969052Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:42.162979Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:ins Freie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à l'extérieur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:all'esterno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:на улицу"
     ]
   ]
 }

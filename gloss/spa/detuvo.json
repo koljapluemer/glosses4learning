@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:33.443468Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:33.443468Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:08.053629Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:08.236497Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:08.400242Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:08.576161Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:08.754759Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:arrested"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verhielt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:arrêta"
+    ],
+    [
+      "TRANSLATION",
+      "ita:arrestò"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остановил"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yakaladı"
     ]
   ]
 }

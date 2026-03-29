@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:47.983274Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:47.983274Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:04.858795Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:05.034082Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:05.221376Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:05.387085Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:while losing"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verlieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en perdant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:теряя"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kaybederek"
     ]
   ]
 }

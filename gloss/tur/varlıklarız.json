@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:27.436929Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:36:22.065987Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:36:22.065987Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:25.345884Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:25.551440Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:25.769290Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:our possessions"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nos actifs"
+    ],
+    [
+      "TRANSLATION",
+      "ita:i nostri beni"
+    ],
+    [
+      "TRANSLATION",
+      "rus:наши активы"
     ]
   ]
 }

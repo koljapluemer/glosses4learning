@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:23.763900Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:40.580265Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:40.580265Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:53.848086Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:54.043256Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:54.228836Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:I won't eat"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je ne fais pas"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non lo faccio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не делаю"
     ]
   ]
 }

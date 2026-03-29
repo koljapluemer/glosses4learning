@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:32.553337Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:18.772525Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:18.772525Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:14.701160Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:14.881136Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:15.082421Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,18 @@
     [
       "TRANSLATION",
       "eng:isn't it﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:est-ce que c'est le cas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:hai ragione﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ты серьёзно﹖"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:40.543688Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:36:47.889029Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:36:47.889029Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:02.941983Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:03.151676Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:03.318474Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:in the places"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sur le terrain"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sul terreno; in giro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:на земле"
     ]
   ]
 }

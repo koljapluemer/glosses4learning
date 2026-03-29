@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:13:33.176957Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:14:52.634099Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:14:52.634099Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:00.148240Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:00.335348Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:00.505978Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:of milk"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Lait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Dal latte"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Из молока"
     ]
   ]
 }

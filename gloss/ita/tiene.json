@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:14.809474Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:14.809474Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:10.137868Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:10.309550Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:10.499435Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:10.674700Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:contains"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hat"
+    ],
+    [
+      "TRANSLATION",
+      "fra:possède"
+    ],
+    [
+      "TRANSLATION",
+      "rus:владеет, обладает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahip"
     ]
   ]
 }

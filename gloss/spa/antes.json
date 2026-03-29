@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:18.638094Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:18.638094Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:02.711342Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:02.875623Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:03.035693Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:03.226708Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:03.410255Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:previously"
+    ],
+    [
+      "TRANSLATION",
+      "deu:früher"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avant"
+    ],
+    [
+      "TRANSLATION",
+      "ita:prima"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ранее"
+    ],
+    [
+      "TRANSLATION",
+      "tur:önce"
     ]
   ]
 }

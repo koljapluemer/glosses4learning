@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:14:07.360123Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:15:31.954600Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:15:31.954600Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:40.963178Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:41.146146Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:41.323530Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:blazing"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en feu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in fiamme"
+    ],
+    [
+      "TRANSLATION",
+      "rus:горящий"
     ]
   ]
 }

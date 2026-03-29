@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:07.588502Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:07.588502Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:39.445010Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:39.617070Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:39.789139Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -75,6 +78,18 @@
     [
       "TRANSLATION",
       "fra:parles"
+    ],
+    [
+      "TRANSLATION",
+      "rus:говорить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:konuşmak"
+    ],
+    [
+      "TRANSLATION",
+      "spa:hablar"
     ]
   ]
 }

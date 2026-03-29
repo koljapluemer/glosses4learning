@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:32.046820Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:32.046820Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:11.648645Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:11.809489Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:11.986300Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:12.166829Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:vessel"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Adern"
+    ],
+    [
+      "TRANSLATION",
+      "fra:venir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сосуды"
+    ],
+    [
+      "TRANSLATION",
+      "tur:veneya"
     ]
   ]
 }

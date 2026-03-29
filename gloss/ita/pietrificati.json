@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:16.498947Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:16.498947Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:34.113386Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:34.321254Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:34.523626Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:34.696151Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:made into stone"
+    ],
+    [
+      "TRANSLATION",
+      "deu:versteinert"
+    ],
+    [
+      "TRANSLATION",
+      "fra:transformés en pierre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:замороженные в камне"
+    ],
+    [
+      "TRANSLATION",
+      "tur:taşlaşmış"
     ]
   ]
 }

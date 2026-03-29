@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:27.763909Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:27.763909Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:14.909899Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:15.080418Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:15.255826Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:15.453537Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:you make happen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie realisieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous réalisez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выполняете"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerçekleştirirsin"
     ]
   ]
 }

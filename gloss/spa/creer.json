@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:18.663422Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:18.663422Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:49.533070Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:49.727396Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:49.896901Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:50.074682Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:50.251751Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:to create"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erzeugen, schaffen, entstehen lassen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:créer"
+    ],
+    [
+      "TRANSLATION",
+      "ita:creare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:верить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:inanmak"
     ]
   ]
 }

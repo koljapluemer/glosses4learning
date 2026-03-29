@@ -3,7 +3,12 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T10:37:33.521Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T10:37:33.521Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T14:25:56.767735Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:25:56.944465Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:25:57.117314Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:25:57.299235Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:25:57.502762Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -41,6 +46,26 @@
     [
       "TRANSLATION",
       "eng:using"
+    ],
+    [
+      "TRANSLATION",
+      "deu:für"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pour"
+    ],
+    [
+      "TRANSLATION",
+      "ita:per"
+    ],
+    [
+      "TRANSLATION",
+      "rus:для"
+    ],
+    [
+      "TRANSLATION",
+      "tur:para"
     ]
   ]
 }

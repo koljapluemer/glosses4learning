@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:47:51.183966Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:47:51.183966Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:20:49.983964Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:20:50.165931Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:20:50.358574Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:20:50.545460Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:20:50.690322Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:You're"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du bist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous êtes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Sei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ты"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sen"
     ]
   ]
 }

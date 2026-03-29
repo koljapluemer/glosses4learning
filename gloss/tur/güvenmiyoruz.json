@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:43.461875Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:10.379095Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:10.379095Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:34.540833Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:34.739522Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:34.945598Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:we are not trusting"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous ne faisons pas confiance"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non abbiamo fiducia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мы не доверяем"
     ]
   ]
 }

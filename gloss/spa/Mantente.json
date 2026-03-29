@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:42:44.758066Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:42:44.758066Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:13.242015Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:13.413275Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:13.601671Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:13.796894Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:14.011505Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:Keep"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bleibe dabei"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Restez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Rimani"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Оставайтесь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Dikkatli ol"
     ]
   ]
 }

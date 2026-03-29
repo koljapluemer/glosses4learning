@@ -2,7 +2,13 @@
   "content": "ayuda",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T14:22:08.269185Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:08.447599Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:08.635926Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:08.838723Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:09.015371Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -14,6 +20,26 @@
     [
       "TRANSLATION",
       "eng:help"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aide"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aiuto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помощь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yardım"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:37:06.512234Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:31.864583Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:31.864583Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:28.217989Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:28.452490Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:28.617504Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:läuten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sonner"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il suo modo di suonare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:работать"
     ]
   ]
 }

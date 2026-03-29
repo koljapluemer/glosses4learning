@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:20:16.072134Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:08.234421Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:08.234421Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:35.900187Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:36.117608Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:36.374508Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "deu:am Ende"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en conséquence, finalement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di conseguenza; in ultima analisi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в результате, в конечном итоге"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:52.913348Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:52.913348Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:12.579652Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:12.748689Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:12.917380Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:13.138652Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:coach"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Trainer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:instructeur"
+    ],
+    [
+      "TRANSLATION",
+      "rus:инструктор"
+    ],
+    [
+      "TRANSLATION",
+      "tur:öğretmen"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:42.104894Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:42.104894Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:02.109449Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:02.280300Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:02.451002Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:02.645789Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +51,26 @@
     [
       "TRANSLATION",
       "dan:synes"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich denke"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je pense"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я думаю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:düşünüyorum"
+    ],
+    [
+      "TRANSLATION",
+      "spa:creo"
     ]
   ]
 }

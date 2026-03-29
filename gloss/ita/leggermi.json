@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:38.725970Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:38.725970Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:54.564978Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:54.743911Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:54.904950Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:55.091791Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:read it to me"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mich lesen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:me lire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прочитать меня"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bana okuyun"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:20:32.203901Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:14.058546Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:14.058546Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:10.376343Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:10.597946Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:10.812841Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Salzbehälter"
+    ],
+    [
+      "TRANSLATION",
+      "fra:saloir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:contenitore per il sale"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сольница"
     ]
   ]
 }

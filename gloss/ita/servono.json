@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:11.909771Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:11.909771Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:10.950158Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:11.127699Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:11.312716Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:11.498751Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:they serve"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dienen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sont utilisés"
+    ],
+    [
+      "TRANSLATION",
+      "rus:используются"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kullanılır"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:21.423453Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:53.262362Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:53.262362Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:35.892720Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:36.163148Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:36.387354Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "deu:täuschen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:lancer, projeter"
+    ],
+    [
+      "TRANSLATION",
+      "ita:superare, andare oltre, superare un ostacolo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:бросать издалека"
     ]
   ]
 }

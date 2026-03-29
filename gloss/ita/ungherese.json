@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:00.202603Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:00.202603Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:45.642267Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:45.819923Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:45.979054Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:46.145788Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Hungarian cuisine"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ungarisch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:hongrois"
+    ],
+    [
+      "TRANSLATION",
+      "rus:венгерский"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Macar"
     ]
   ]
 }

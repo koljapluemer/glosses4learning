@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:19:26.861871Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:53.995751Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:53.995751Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:38:24.873084Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:25.073728Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:25.267079Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Wie ist es gewesen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Comment allez-vous ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Come va﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Как дела﹖"
     ]
   ]
 }

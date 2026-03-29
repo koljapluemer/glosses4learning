@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:57.468404Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:57.468404Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:29.877838Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:30.055371Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:30.222017Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:30.398615Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:court game"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Basketball"
+    ],
+    [
+      "TRANSLATION",
+      "fra:basket-ball"
+    ],
+    [
+      "TRANSLATION",
+      "rus:баскетбол"
+    ],
+    [
+      "TRANSLATION",
+      "tur:basketbol"
     ]
   ]
 }

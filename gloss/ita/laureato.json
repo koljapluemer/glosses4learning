@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:26.204719Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:26.204719Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:45.867302Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:46.066172Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:46.263432Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:46.453801Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:finished student"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Absolvent"
+    ],
+    [
+      "TRANSLATION",
+      "fra:diplômé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:доктор наук"
+    ],
+    [
+      "TRANSLATION",
+      "tur:lisanslı"
     ]
   ]
 }

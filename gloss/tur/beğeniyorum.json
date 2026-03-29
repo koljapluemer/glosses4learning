@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:43.030284Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:58.590124Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:58.590124Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:54.264543Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:54.438637Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:54.662351Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,26 @@
     [
       "TRANSLATION",
       "deu:ich finde es gut"
+    ],
+    [
+      "TRANSLATION",
+      "spa:gusta"
+    ],
+    [
+      "TRANSLATION",
+      "srp:sviđa"
+    ],
+    [
+      "TRANSLATION",
+      "fra:J'aime"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Mi piace"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мне это очень нравится"
     ]
   ]
 }

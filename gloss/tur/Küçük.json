@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T15:25:01.265914Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:25:57.595476Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:25:57.595476Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:40.208533Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:40.406656Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:40.613376Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:gering"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Petit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Piccolo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Маленький"
     ]
   ]
 }

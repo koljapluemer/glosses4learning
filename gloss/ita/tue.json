@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:42.970554Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:42.970554Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:32.387802Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:32.545777Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:32.708523Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:32.894522Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:of you"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausführen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mort"
+    ],
+    [
+      "TRANSLATION",
+      "rus:твоё"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sizin"
     ]
   ]
 }

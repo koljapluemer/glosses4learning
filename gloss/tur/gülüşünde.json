@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:42.576793Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:07.921248Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:07.921248Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:30.826805Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:31.003754Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:31.224814Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:within your smile"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dans son sourire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nel suo sorriso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в его улыбке"
     ]
   ]
 }

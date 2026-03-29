@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:56.737694Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:56.737694Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:12:09.931918Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:12:10.093137Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:12:10.285811Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:12:10.460391Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:trophy"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Preis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:prix"
+    ],
+    [
+      "TRANSLATION",
+      "rus:награда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ödül"
     ]
   ]
 }

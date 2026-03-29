@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:59.415890Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:59.415890Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:18.509200Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:18.675118Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:18.864445Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +50,22 @@
     [
       "TRANSLATION",
       "fra:serait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:будет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olabilirdi"
+    ],
+    [
+      "TRANSLATION",
+      "spa:sería"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olurdu"
     ]
   ]
 }

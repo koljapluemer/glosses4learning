@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:00:30.838197Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:00:30.838197Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:12:37.640102Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:12:37.812118Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:12:38.027727Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:12:38.223448Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:emotional"
+    ],
+    [
+      "TRANSLATION",
+      "deu:psychologisch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:psychologique"
+    ],
+    [
+      "TRANSLATION",
+      "rus:психологический"
+    ],
+    [
+      "TRANSLATION",
+      "tur:psikolojik"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ruhsal"
     ]
   ]
 }

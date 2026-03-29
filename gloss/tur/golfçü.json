@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:01.780475Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:30.326997Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:30.326997Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:23.168181Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:23.383951Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:23.598131Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Golfspieler"
+    ],
+    [
+      "TRANSLATION",
+      "fra:golfeur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giocatore di golf"
+    ],
+    [
+      "TRANSLATION",
+      "rus:гольфист"
     ]
   ]
 }

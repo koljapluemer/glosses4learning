@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:49.979511Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:49.979511Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:06.330212Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:06.513467Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:06.696874Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:06.916932Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:we are going to lose"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir werden verlieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous allons perdre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мы проиграем"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kaybedeceğiz"
     ]
   ]
 }

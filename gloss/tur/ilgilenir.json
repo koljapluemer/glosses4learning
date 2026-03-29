@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:50.768675Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:24.715556Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:24.715556Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:55.586191Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:55.788497Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:55.971040Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:to concern oneself with"
+    ],
+    [
+      "TRANSLATION",
+      "fra:intéressé(e)"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Interessatoa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:интересуется"
     ]
   ]
 }

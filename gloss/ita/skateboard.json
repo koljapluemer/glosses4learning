@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:35.070123Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:35.070123Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:30.608778Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:30.783556Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:30.989147Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:31.150508Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:skate deck"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Skateboard"
+    ],
+    [
+      "TRANSLATION",
+      "fra:skateboard"
+    ],
+    [
+      "TRANSLATION",
+      "rus:скейтборд"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kaykay"
     ]
   ]
 }

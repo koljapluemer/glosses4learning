@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:26.184701Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:16:16.610086Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:16:16.610086Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:33.406676Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:33.572291Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:33.749735Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:is calling"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cherche"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sta cercando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ищет"
     ]
   ]
 }

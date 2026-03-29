@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:54.873999Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:51.756637Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:51.756637Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:59.301261Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:59.523346Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:59.742858Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:to share"
+    ],
+    [
+      "TRANSLATION",
+      "fra:partage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:condivisione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обмен, распространение"
     ]
   ]
 }

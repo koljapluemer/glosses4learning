@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:00:29.736290Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:00:29.736290Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:12:36.882061Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:12:37.076709Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:12:37.264698Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:12:37.468115Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:hallucinogens"
+    ],
+    [
+      "TRANSLATION",
+      "deu:psychedelisch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:psyédéliques"
+    ],
+    [
+      "TRANSLATION",
+      "rus:психоделические"
+    ],
+    [
+      "TRANSLATION",
+      "tur:psihedelik"
     ]
   ]
 }

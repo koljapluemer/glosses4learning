@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:13.959501Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:13.959501Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:01.083078Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:01.253787Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:01.462125Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:01.668111Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:let's test"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lassen wir es ausprobieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:essayons"
+    ],
+    [
+      "TRANSLATION",
+      "rus:давайте попробуем"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Deneyelim"
     ]
   ]
 }

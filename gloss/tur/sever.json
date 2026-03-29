@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:05.319056Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:20:08.446912Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:08.446912Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:26.265147Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:26.445959Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:26.609312Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,18 @@
     [
       "TRANSLATION",
       "epo:ŝatas"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rupture"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tagliare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:резкий"
     ]
   ]
 }

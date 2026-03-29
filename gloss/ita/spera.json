@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:11.914542Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:11.914542Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:59.724270Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:59.885945Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:00.038653Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:00.219000Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "deu:hofft"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hoffen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:espérer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:надежда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:umut"
     ]
   ]
 }

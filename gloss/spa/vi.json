@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:45:00.247026Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:45:00.247026Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:28:00.027815Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:28:00.204378Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:28:00.379058Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:28:00.550568Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:28:00.713777Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:I am going"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vi"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:voi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:шесть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:vi"
     ]
   ]
 }

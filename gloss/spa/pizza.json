@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "spa:La pizza sabe diferente cuando está fría"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pizza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pizza"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pizza"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pizza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пицца"
+    ],
+    [
+      "TRANSLATION",
+      "tur:pizz"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:26:19.548425Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:26:19.735912Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:26:19.894831Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:26:20.081916Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:26:20.270215Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:26:20.436409Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:20.824063Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:20.824063Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:26:16.720908Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:26:16.923963Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:26:17.118585Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:26:17.298132Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:26:17.493478Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +36,26 @@
     [
       "TRANSLATION",
       "eng:component"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Teil"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pièce"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pezzo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:деталь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:parça"
     ]
   ]
 }

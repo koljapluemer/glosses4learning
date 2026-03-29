@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:37:30.781506Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:39.357377Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:39.357377Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:51.945787Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:52.093763Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:52.281580Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "deu:erzeugen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fabrique"
+    ],
+    [
+      "TRANSLATION",
+      "ita:produce"
+    ],
+    [
+      "TRANSLATION",
+      "rus:производит"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:54.597389Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:54.597389Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:42.975279Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:43.176154Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:43.385048Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:43.589269Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:43.785796Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:souls"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geister"
+    ],
+    [
+      "TRANSLATION",
+      "fra:esprits"
+    ],
+    [
+      "TRANSLATION",
+      "ita:spiriti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:духи"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ruhlar"
     ]
   ]
 }

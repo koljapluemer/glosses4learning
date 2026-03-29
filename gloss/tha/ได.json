@@ -12,6 +12,38 @@
     [
       "USAGE_EXAMPLE",
       "tha:คุณสามารถทำมันได้ ไม่ใช่หรือ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Non"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Non ho ricevuto alcun testo in Thai. Per favore, fornisci il testo da tradurre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Да"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Bu kelimeyi anlamını belirtmeniz gerekiyor. Örneğin, Daim ise Sürekli, Ebedi gibi bir karşılık olabilir.)"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:32:36.082092Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:32:36.244359Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:32:36.392494Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:32:36.720307Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:32:36.890009Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:32:37.354243Z": "TRANSLATION_DONE:tur"
+  }
 }

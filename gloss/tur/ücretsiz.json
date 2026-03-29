@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:13:02.251896Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:29.654873Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:29.654873Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:50.827037Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:51.000545Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:51.186599Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:gratis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:gratuit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:gratuito"
+    ],
+    [
+      "TRANSLATION",
+      "rus:бесплатно"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:57.315959Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:02.693571Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:02.693571Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:11.447828Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:11.618817Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:11.801947Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -72,6 +75,22 @@
     [
       "TRANSLATION",
       "ita:grandi"
+    ],
+    [
+      "TRANSLATION",
+      "spa:gran"
+    ],
+    [
+      "TRANSLATION",
+      "spa:grandes"
+    ],
+    [
+      "TRANSLATION",
+      "fra:grand"
+    ],
+    [
+      "TRANSLATION",
+      "rus:большой"
     ]
   ]
 }

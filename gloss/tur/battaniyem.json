@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T14:53:43.067006Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:13.665806Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:13.665806Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:48.508485Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:48.691448Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:48.897418Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:die Bettdecke"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mon plaid"
+    ],
+    [
+      "TRANSLATION",
+      "ita:la mia coperta"
+    ],
+    [
+      "TRANSLATION",
+      "rus:одеялом"
     ]
   ]
 }

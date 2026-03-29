@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:48.544721Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:48.544721Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:22.597880Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:22.781786Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:22.977149Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:23.146206Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:tranquility"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ruh, Frieden, Stille"
+    ],
+    [
+      "TRANSLATION",
+      "fra:paix"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ритм, темп"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hız"
     ]
   ]
 }

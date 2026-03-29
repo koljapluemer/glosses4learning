@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-11T19:17:14.242590Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:14.242590Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:46.955651Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:47.149555Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:47.327718Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:47.514179Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "deu:mein Ehemann"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my husband"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mon mari"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mio marito"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мой муж"
     ]
   ]
 }

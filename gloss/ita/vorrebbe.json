@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:47.758148Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:47.758148Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:54.046411Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:54.258262Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:54.443539Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:54.624339Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,26 @@
     [
       "TRANSLATION",
       "deu:möchte"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ersiees würde"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aimerait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хотел бы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:iste"
+    ],
+    [
+      "TRANSLATION",
+      "spa:quiere"
     ]
   ]
 }

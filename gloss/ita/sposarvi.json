@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:21.846494Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:21.846494Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:09.591001Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:09.801123Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:09.986387Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:10.192471Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to wed you"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ihre Ehe"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous offrir ma main en mariage"
+    ],
+    [
+      "TRANSLATION",
+      "rus:жениться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sizi sarılmak"
     ]
   ]
 }

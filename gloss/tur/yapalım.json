@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-11T19:17:36.010741Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:36.010741Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:44.640824Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:44.848611Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:45.039476Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:45.223711Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "fra:faisons"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's do it"
+    ],
+    [
+      "TRANSLATION",
+      "fra:allons-y"
+    ],
+    [
+      "TRANSLATION",
+      "ita:facciamo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сделаем"
     ]
   ]
 }

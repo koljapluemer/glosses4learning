@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:17:33.622420Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:13.648685Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:13.648685Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:46.586566Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:46.780959Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:46.964979Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,34 @@
     [
       "TRANSLATION",
       "fra:manque"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mancano"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mancare"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mancava"
+    ],
+    [
+      "TRANSLATION",
+      "fra:manquant"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mancante"
+    ],
+    [
+      "TRANSLATION",
+      "rus:неполный"
+    ],
+    [
+      "TRANSLATION",
+      "yid:געפֿעלן"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:40.266097Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:40.266097Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:17.110304Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:17.284282Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:17.458766Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:17.634498Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:17.787665Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:hurt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schmerz"
+    ],
+    [
+      "TRANSLATION",
+      "fra:douleur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dolore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:боль"
+    ],
+    [
+      "TRANSLATION",
+      "tur:acı"
     ]
   ]
 }

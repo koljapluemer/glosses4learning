@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2025-12-28T14:52:38.563167Z": "TRANSLATION_DONE:eng",
-    "2026-03-29T14:06:09.518650Z": "TRANSLATION_DONE:fra"
+    "2026-03-29T14:06:09.518650Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:09.729478Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:09.917123Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -116,6 +118,22 @@
     [
       "TRANSLATION",
       "fra:j'ai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у меня есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahipim"
+    ],
+    [
+      "TRANSLATION",
+      "mkd:имам"
+    ],
+    [
+      "TRANSLATION",
+      "spa:tengo"
     ]
   ]
 }

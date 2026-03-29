@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:40.229856Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:28.511576Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:28.511576Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:25.438295Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:25.613007Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:25.788587Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -52,6 +55,18 @@
     [
       "TRANSLATION",
       "ita:causato"
+    ],
+    [
+      "TRANSLATION",
+      "ita:perché"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ragione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:почему"
     ]
   ]
 }

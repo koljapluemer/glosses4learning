@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:33.060472Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:33.060472Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:39.442393Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:39.626396Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:39.822055Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:40.016717Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:heavy hand tool"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hammer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:marteau"
+    ],
+    [
+      "TRANSLATION",
+      "rus:молоток"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çekiç"
     ]
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "content": "kata",
+  "language": "zsm",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "zsm:Saya tahu awak akan kata tak boleh"
+    ],
+    [
+      "TRANSLATION",
+      "eng:word"
+    ],
+    [
+      "TRANSLATION",
+      "eng:say"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speak"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tell"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T14:44:24.147849Z": "TRANSLATION_DONE:eng"
+  }
+}

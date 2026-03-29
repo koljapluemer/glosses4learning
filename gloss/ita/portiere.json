@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:34.855131Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:34.855131Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:51.705529Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:51.889863Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:52.060213Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:52.226964Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:doorman"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rezeptionistin"
+    ],
+    [
+      "TRANSLATION",
+      "fra:porteuse"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сторож"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kaleci"
     ]
   ]
 }

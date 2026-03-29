@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:52.930371Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:50.220157Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:50.220157Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:56.957651Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:57.167315Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:57.367009Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:you are my child"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Tu es mon fils"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Sei mio figlio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ты мой сын"
     ]
   ]
 }

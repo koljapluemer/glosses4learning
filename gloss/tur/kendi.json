@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-11T19:17:13.515765Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:13.515765Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:38.385537Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:38.556345Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:38.708809Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,22 @@
     [
       "TRANSLATION",
       "ita:sua"
+    ],
+    [
+      "TRANSLATION",
+      "ita:propria"
+    ],
+    [
+      "TRANSLATION",
+      "eng:own"
+    ],
+    [
+      "TRANSLATION",
+      "fra:propre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:собственный"
     ]
   ]
 }

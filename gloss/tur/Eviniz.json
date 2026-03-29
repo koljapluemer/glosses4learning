@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:15:15.778444Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:32.805667Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:32.805667Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:23.652547Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:23.831023Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:24.024474Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Ihr Zuhause"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Votre maison"
+    ],
+    [
+      "TRANSLATION",
+      "ita:La vostra casa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ваш дом"
     ]
   ]
 }

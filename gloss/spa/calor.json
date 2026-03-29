@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:10:43.037192Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:10:43.037192Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:24.916276Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:25.147754Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:25.345092Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:25.543881Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:25.726976Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:hot"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wärme"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chaleur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:calore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:тепло"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ısı"
     ]
   ]
 }

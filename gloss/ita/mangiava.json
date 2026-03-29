@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:27.734840Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:27.734840Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:34.355870Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:34.554446Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:34.732793Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:34.906734Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:heshe ate"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ersie aß"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il mangeait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:он ел"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yiyordu"
     ]
   ]
 }

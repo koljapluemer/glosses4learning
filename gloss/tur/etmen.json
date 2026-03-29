@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:13:40.355977Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:15:04.533421Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:15:04.533421Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:53.278862Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:53.454874Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:53.645944Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:to consume"
+    ],
+    [
+      "TRANSLATION",
+      "fra:etmen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:etmen"
+    ],
+    [
+      "TRANSLATION",
+      "rus:эмен"
     ]
   ]
 }

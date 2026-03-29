@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:18.828541Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:56.039070Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:56.039070Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:32.046771Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:32.249804Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:32.476077Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:it was confusing"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il contenait différents éléments"
+    ],
+    [
+      "TRANSLATION",
+      "ita:era un miscuglio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:состоял из разных элементов"
     ]
   ]
 }

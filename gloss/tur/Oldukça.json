@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T14:53:27.363836Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:01.375315Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:01.375315Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:47.705136Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:47.890110Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:48.041600Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "deu:eher"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Assez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Molto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Очень"
     ]
   ]
 }

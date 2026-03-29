@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:47.199580Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:44.773903Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:44.773903Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:22.593058Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:22.758142Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:22.944432Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:verweilen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rester"
+    ],
+    [
+      "TRANSLATION",
+      "ita:rimanere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:оставаться"
     ]
   ]
 }

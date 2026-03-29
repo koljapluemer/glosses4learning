@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:20.168936Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:20.168936Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:28.401002Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:28.593008Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:28.776605Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:28.977116Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:will not be there"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es wird fehlen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:manquera"
+    ],
+    [
+      "TRANSLATION",
+      "rus:будет отсутствовать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eksik olacaktır"
     ]
   ]
 }

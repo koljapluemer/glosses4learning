@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:15.391241Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:15.391241Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:15.517670Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:15.714784Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:15.891489Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:16.101407Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to satisfy hunger"
+    ],
+    [
+      "TRANSLATION",
+      "deu:auszahlen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:assurer un revenu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обеспечивать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bulanıklaştırmak, karartmak"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:01.967379Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:46.202976Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:46.202976Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:15.101536Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:15.303805Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:15.473469Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Platte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:l'album"
+    ],
+    [
+      "TRANSLATION",
+      "ita:l'album"
+    ],
+    [
+      "TRANSLATION",
+      "rus:альбом"
     ]
   ]
 }

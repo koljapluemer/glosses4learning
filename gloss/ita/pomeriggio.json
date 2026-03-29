@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:29.400867Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:29.400867Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:47.312591Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:47.504136Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:47.698273Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:47.909936Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:post-noon"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nachmittag"
+    ],
+    [
+      "TRANSLATION",
+      "fra:après-midi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:после обеда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:öğleden sonra"
     ]
   ]
 }

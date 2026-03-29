@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:07.730728Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:07.730728Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:05.391365Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:05.554442Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:05.725460Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:05.914485Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:extremely"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schrecklich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:horriblement"
+    ],
+    [
+      "TRANSLATION",
+      "rus:страшно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şiddetle"
     ]
   ]
 }

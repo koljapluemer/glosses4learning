@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:28.302143Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:28.954289Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:28.954289Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:09.102908Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:09.329541Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:09.573778Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:sie werden verhaften"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ceux qui seront arrêtés"
+    ],
+    [
+      "TRANSLATION",
+      "ita:persone da arrestare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:те, кого будут арестовывать"
     ]
   ]
 }

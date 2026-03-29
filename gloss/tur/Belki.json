@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:36:38.244024Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:43:26.200005Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:43:26.200005Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:07.216825Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:07.408264Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:07.588860Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,18 @@
     [
       "TRANSLATION",
       "ita:Forse__split4"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Peut-être"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Forse"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Возможно"
     ]
   ]
 }

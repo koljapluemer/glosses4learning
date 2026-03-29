@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:59.130465Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:59.130465Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:37.750357Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:37.908851Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:38.073426Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:38.221130Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:dumb"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dumm"
+    ],
+    [
+      "TRANSLATION",
+      "fra:idiots"
+    ],
+    [
+      "TRANSLATION",
+      "rus:глупы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:aptallar"
     ]
   ]
 }

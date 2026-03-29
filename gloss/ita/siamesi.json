@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:20.305743Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:20.305743Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:17.757364Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:17.934427Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:18.103972Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:18.301164Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Siamese language"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Siamesisch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:singhalais"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сиамские"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Siyam kedisi"
     ]
   ]
 }

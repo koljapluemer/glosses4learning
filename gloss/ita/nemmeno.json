@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:56:35.734204Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:56:35.734204Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:09:28.571506Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:09:28.748739Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:09:28.940882Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:09:29.115569Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:not a single one"
+    ],
+    [
+      "TRANSLATION",
+      "deu:auch nicht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pas davantage"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нисколько"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bile değil"
     ]
   ]
 }

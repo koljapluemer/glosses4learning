@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:48.223396Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:48.223396Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:30.891084Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:31.117062Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:31.310228Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:31.492952Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:31.713774Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:magnitude"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unvorstellbarkeit, Größenordnung, Ausmaß"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ampleur, immensité"
+    ],
+    [
+      "TRANSLATION",
+      "ita:enormità"
+    ],
+    [
+      "TRANSLATION",
+      "rus:огромность"
+    ],
+    [
+      "TRANSLATION",
+      "tur:büyüklük, cümbüş"
     ]
   ]
 }

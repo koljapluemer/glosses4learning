@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:51.399087Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:12.451333Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:12.451333Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:36.758425Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:36.962439Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:37.153964Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:my failure to resolve"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ma résolution"
+    ],
+    [
+      "TRANSLATION",
+      "ita:la mia incapacità di risolvere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:решение проблемы"
     ]
   ]
 }

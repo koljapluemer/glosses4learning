@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:21.530733Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:21.530733Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:54.134887Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:54.320008Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:54.502862Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:54.694392Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:54.875385Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:whenever"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wenn"
+    ],
+    [
+      "TRANSLATION",
+      "fra:quand"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:когда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ne zaman"
     ]
   ]
 }

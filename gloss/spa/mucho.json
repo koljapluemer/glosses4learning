@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:10.379945Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:10.379945Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:25:21.897823Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:25:22.043735Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:25:22.207206Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:25:22.371602Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:25:22.550828Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +40,26 @@
     [
       "TRANSLATION",
       "eng:very"
+    ],
+    [
+      "TRANSLATION",
+      "deu:viel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:beaucoup"
+    ],
+    [
+      "TRANSLATION",
+      "ita:molto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:много"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çok"
     ]
   ]
 }

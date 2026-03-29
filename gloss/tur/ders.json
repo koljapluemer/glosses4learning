@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T15:25:11.180225Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:22.675556Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:22.675556Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:23.847268Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:24.038180Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:24.198826Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "ita:corso"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lezione"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cours"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лекция"
     ]
   ]
 }

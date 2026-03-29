@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-02T09:19:10.784491Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:50.923457Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:50.923457Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:38:04.301527Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:04.468840Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -60,6 +62,18 @@
     [
       "TRANSLATION",
       "ita:cattive"
+    ],
+    [
+      "TRANSLATION",
+      "spa:malo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:cattivo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:плохой"
     ]
   ]
 }

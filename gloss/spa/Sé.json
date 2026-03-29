@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:09.921727Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:09.921727Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:34.469112Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:34.662222Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:34.829155Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:35.011344Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:35.215321Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:Know"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich weiß"
+    ],
+    [
+      "TRANSLATION",
+      "fra:S'il vous plaît"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Lo so"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я знаю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Biliyorum"
     ]
   ]
 }

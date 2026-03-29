@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:37:41.840685Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:44.771118Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:44.771118Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:42:06.864727Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:42:07.052965Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:42:07.248382Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:von der Flasche"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dans une bouteille"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dalla bottiglia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:из бутылки"
     ]
   ]
 }

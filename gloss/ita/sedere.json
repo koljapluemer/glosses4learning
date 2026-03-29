@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:03:40.063354Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:03:40.063354Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:51.476812Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:51.687932Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:51.868005Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:52.052287Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to take a seat"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sitzen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:s'asseoir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сидеть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oturmak"
     ]
   ]
 }

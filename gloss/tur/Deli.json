@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:42.961279Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:10.664198Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:10.664198Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:17.529256Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:17.773492Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:17.977142Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,18 @@
     [
       "TRANSLATION",
       "eng:insane"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Folie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Negozio di alimentari"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Безумный"
     ]
   ]
 }

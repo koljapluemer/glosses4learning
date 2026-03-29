@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:17:41.972593Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:17.125630Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:17.125630Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:57.980886Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:58.189655Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:58.372359Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "deu:Bildung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:son"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il suo percorso di studi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:образование"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:24.194691Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:24.194691Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:02.484253Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:02.676738Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:02.877428Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:03.078329Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:03.264219Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:to say to himher"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ihm sagen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:lui dire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dirglielo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказать ему"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ona söylemek"
     ]
   ]
 }

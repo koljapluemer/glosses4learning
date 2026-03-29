@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:05.346837Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:47.509977Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:47.509977Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:17.376214Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:17.553139Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:17.752715Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:Seuche"
+    ],
+    [
+      "TRANSLATION",
+      "fra:irritabilité"
+    ],
+    [
+      "TRANSLATION",
+      "ita:invidia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:злопамятность"
     ]
   ]
 }

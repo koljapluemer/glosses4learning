@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:41.406713Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:41.406713Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:08.800827Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:08.975440Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:09.127179Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:09.318540Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:09.494646Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:having occurred"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gewesen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:être"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sono"
+    ],
+    [
+      "TRANSLATION",
+      "rus:были"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmuş"
     ]
   ]
 }

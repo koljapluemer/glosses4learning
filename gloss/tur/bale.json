@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:36.118925Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:16:32.688913Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:16:32.688913Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:46.632844Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:46.823378Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:47.001258Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "eng:fine"
+    ],
+    [
+      "TRANSLATION",
+      "fra:danse"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ballo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:балет"
     ]
   ]
 }

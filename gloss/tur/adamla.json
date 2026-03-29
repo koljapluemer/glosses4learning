@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:16.458756Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:59.613533Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:59.613533Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:11.871598Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:12.029408Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:12.206701Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "eng:in a manly way"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avec cet homme"
+    ],
+    [
+      "TRANSLATION",
+      "ita:con un uomo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:с человеком"
     ]
   ]
 }

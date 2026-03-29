@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:42.302491Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:42.302491Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:56.611089Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:56.777990Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:56.939893Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:57.116622Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,26 @@
     [
       "TRANSLATION",
       "fra:puis-je"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich kann"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je peux"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я могу"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapabilirim"
+    ],
+    [
+      "TRANSLATION",
+      "spa:puedo"
     ]
   ]
 }

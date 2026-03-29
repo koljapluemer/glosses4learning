@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:43.504686Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:35.781199Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:35.781199Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:38.288661Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:38.473990Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:38.686224Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:I will not be able to"
+    ],
+    [
+      "TRANSLATION",
+      "fra:que ce soit impossible"
+    ],
+    [
+      "TRANSLATION",
+      "ita:che non è possibile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:что я не могу"
     ]
   ]
 }

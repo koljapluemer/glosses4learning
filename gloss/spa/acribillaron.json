@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:08.157468Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:08.157468Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:49.525312Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:49.747636Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:49.975016Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:50.182677Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:50.423385Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:riddled with bullets"
+    ],
+    [
+      "TRANSLATION",
+      "deu:präzise getroffen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ont attaqué méthodiquement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:li hanno colpito con precisione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:очень тщательно изучили"
+    ],
+    [
+      "TRANSLATION",
+      "tur:detaylı bir şekilde yaraladılar"
     ]
   ]
 }

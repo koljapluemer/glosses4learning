@@ -5,7 +5,12 @@
   "logs": {
     "2025-12-11T12:55:08.974219Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-14T21:19:37.060Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
-    "2025-12-14T21:20:06.654Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+    "2025-12-14T21:20:06.654Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2026-03-29T14:21:36.398984Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:36.582585Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:36.758442Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:36.940167Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:37.140494Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -32,6 +37,26 @@
     [
       "TRANSLATION",
       "eng:It"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:À toi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:A te"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Тебе"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sen"
     ]
   ]
 }

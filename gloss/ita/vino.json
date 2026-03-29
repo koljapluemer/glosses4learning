@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:14.311485Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:14.311485Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:32.227555Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:32.407435Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:32.571655Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "deu:Wein"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vin"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вино"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şarap"
     ]
   ]
 }

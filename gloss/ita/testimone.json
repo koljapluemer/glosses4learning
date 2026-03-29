@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:10.219922Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:10.219922Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:07.421839Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:07.583520Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:07.755526Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:07.912608Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:attester"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zeuge"
+    ],
+    [
+      "TRANSLATION",
+      "fra:témoin"
+    ],
+    [
+      "TRANSLATION",
+      "rus:свидетель"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şahit"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:51.427349Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:51.427349Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:27.992371Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:28.166611Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:28.339298Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:28.532201Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:28.713016Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +36,26 @@
     [
       "TRANSLATION",
       "eng:we had"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich hatte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il avait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aveva"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я имел"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahip olmak"
     ]
   ]
 }

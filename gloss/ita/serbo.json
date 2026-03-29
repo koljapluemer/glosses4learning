@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:06.789796Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:06.789796Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:06.621783Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:06.803441Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:06.994094Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:07.165931Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I serve as"
+    ],
+    [
+      "TRANSLATION",
+      "deu:serbisch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:serbe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сербский"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sırp"
     ]
   ]
 }

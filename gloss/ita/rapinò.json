@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:23.185508Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:23.185508Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:11.806221Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:11.995341Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:12.192614Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:12.370021Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:heshe stole from"
+    ],
+    [
+      "TRANSLATION",
+      "deu:raubte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:volé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:украл"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çalmak"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:19:57.694621Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:03.302912Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:03.302912Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:07.529465Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:07.735705Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:07.945023Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "deu:zu Ihrem Vergnügen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Pour votre confort"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Per il vostro comfort"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Для вашего комфорта"
     ]
   ]
 }

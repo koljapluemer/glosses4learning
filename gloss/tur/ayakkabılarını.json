@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:22.345021Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:53.882268Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:53.882268Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:37.060389Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:37.276367Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:37.465874Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:die Schuhe"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ses chaussures"
+    ],
+    [
+      "TRANSLATION",
+      "ita:le sue scarpe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:её обувь"
     ]
   ]
 }

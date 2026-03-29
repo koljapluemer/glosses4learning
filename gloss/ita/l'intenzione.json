@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:09.193501Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:09.193501Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:28.742380Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:28.916399Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:29.094878Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:29.292124Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,18 @@
     [
       "TRANSLATION",
       "fra:l'intention"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Absicht"
+    ],
+    [
+      "TRANSLATION",
+      "rus:намерение"
+    ],
+    [
+      "TRANSLATION",
+      "tur:amaç"
     ]
   ]
 }

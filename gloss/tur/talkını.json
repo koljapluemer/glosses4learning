@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-11T19:17:25.370147Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:25.370147Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:56.346574Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:56.523073Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:56.709672Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:56.888199Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "deu:Lamm"
+    ],
+    [
+      "TRANSLATION",
+      "eng:conversation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:saîne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:la conversazione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:разговор"
     ]
   ]
 }

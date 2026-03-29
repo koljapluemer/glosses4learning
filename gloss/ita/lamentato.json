@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:16.979961Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:16.979961Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:36.587958Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:36.760390Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:36.944362Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:37.117455Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:expressed sorrow for"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bedauert"
+    ],
+    [
+      "TRANSLATION",
+      "fra:malheureusement"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сожалению"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kınanması gereken"
     ]
   ]
 }

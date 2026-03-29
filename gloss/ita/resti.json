@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:44.867526Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:44.867526Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:25.868620Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:26.041945Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:26.230864Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:26.442976Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:remnants"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Überreste"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ce qui reste"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остатки"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kalanlar, artıkları"
     ]
   ]
 }

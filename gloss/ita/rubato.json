@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:38.520256Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:38.520256Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:00.188664Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:00.399513Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:00.695701Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:00.897170Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:expressive timing"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vorweggenommen, mit Variationen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:volé, emprunté"
+    ],
+    [
+      "TRANSLATION",
+      "rus:«Rubato» (свободный, непредсказуемый)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çalınmış"
     ]
   ]
 }

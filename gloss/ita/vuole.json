@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:57.717697Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:57.717697Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:19:01.682501Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:19:01.867015Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:19:02.039281Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:19:02.206123Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -63,6 +67,22 @@
     [
       "TRANSLATION",
       "epo:volas"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ersie möchte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:veut"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хочет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:istiyor"
     ]
   ]
 }

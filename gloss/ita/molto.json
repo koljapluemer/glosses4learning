@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:56:08.225734Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:56:08.225734Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:09:07.848150Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:09:08.010931Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:09:08.187019Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -135,6 +138,30 @@
     [
       "TRANSLATION",
       "fra:très"
+    ],
+    [
+      "TRANSLATION",
+      "rus:очень"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çok"
+    ],
+    [
+      "TRANSLATION",
+      "spa:mucho"
+    ],
+    [
+      "TRANSLATION",
+      "spa:muy"
+    ],
+    [
+      "TRANSLATION",
+      "tha:มาก"
+    ],
+    [
+      "TRANSLATION",
+      "tur:pek"
     ]
   ]
 }

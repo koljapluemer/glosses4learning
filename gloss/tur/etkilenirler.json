@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:21.486712Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:38.429745Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:38.429745Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:52.158809Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:52.361220Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:52.573895Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:they are influenced"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils sont affectés"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sono influenzati"
+    ],
+    [
+      "TRANSLATION",
+      "rus:они подвержены влиянию"
     ]
   ]
 }

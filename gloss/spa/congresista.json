@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:17.789297Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:17.789297Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:45.831336Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:46.024467Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:46.227042Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:46.418476Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:46.601383Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:legislator"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Abgeordneter"
+    ],
+    [
+      "TRANSLATION",
+      "fra:député"
+    ],
+    [
+      "TRANSLATION",
+      "ita:deputato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:депутат"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kongre üyesi"
     ]
   ]
 }

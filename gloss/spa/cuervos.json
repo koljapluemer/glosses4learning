@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:29.303571Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:29.303571Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:55.927842Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:56.113966Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:56.300628Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:56.478849Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:56.662902Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:ravens"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Raben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:corbeaux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:corvi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вороны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kargalar"
     ]
   ]
 }

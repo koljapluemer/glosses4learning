@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:37.312012Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:37.312012Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:05.948029Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:06.134462Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:06.323229Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:06.522623Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:06.692755Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:be aware"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wissen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:savoir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:conoscere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:определить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:SEPA"
     ]
   ]
 }

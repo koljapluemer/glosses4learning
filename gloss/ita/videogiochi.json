@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:07.149509Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:07.149509Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:26.953223Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:27.173347Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:27.404791Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:27.593699Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:interactive entertainment"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Videospiele"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Jeux vidéo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:видеоигры"
+    ],
+    [
+      "TRANSLATION",
+      "tur:video oyunları"
     ]
   ]
 }

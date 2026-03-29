@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:42.420607Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:42.420607Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:02.916615Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:03.090685Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:03.265360Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:03.443974Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:03.604585Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:G7 summit"
+    ],
+    [
+      "TRANSLATION",
+      "deu:G7"
+    ],
+    [
+      "TRANSLATION",
+      "fra:G7"
+    ],
+    [
+      "TRANSLATION",
+      "ita:G7"
+    ],
+    [
+      "TRANSLATION",
+      "rus:G7"
+    ],
+    [
+      "TRANSLATION",
+      "tur:G7"
     ]
   ]
 }

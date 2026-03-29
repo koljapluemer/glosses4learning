@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:13.421917Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:13.421917Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:24.180257Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:24.363717Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:24.551804Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:24.749481Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:24.926598Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:stunning"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wunderschön"
+    ],
+    [
+      "TRANSLATION",
+      "fra:magnifiques"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bellissime"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прекрасные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:harika"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:29.562616Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:14:51.517592Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:14:51.517592Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:32:57.205263Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:32:57.381983Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:32:57.571751Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:Antibiotic drugs"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Antibiotiques"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Antibiotici"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Антибиотики"
     ]
   ]
 }

@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:04.934471Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:04.934471Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:00.526794Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:00.689711Z": "TRANSLATION_DONE:fra"
   },
   "relationships": [
     [
@@ -139,6 +141,34 @@
     [
       "TRANSLATION",
       "fra:cette"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cela"
+    ],
+    [
+      "TRANSLATION",
+      "spa:esta"
+    ],
+    [
+      "TRANSLATION",
+      "spa:esto"
+    ],
+    [
+      "TRANSLATION",
+      "tat:бул"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bu"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bunun"
     ]
   ]
 }

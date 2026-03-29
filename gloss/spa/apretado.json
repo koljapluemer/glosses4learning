@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:13.228909Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:13.228909Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:03.592522Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:03.775625Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:03.982369Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:04.184486Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:04.388535Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:constricted"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eng, dicht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:serré"
+    ],
+    [
+      "TRANSLATION",
+      "ita:compatto, stretto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:плотно упакованный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sıkılmış"
     ]
   ]
 }

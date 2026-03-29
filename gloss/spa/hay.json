@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:49.384482Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:49.384482Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:20.451003Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:20.645839Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:20.862614Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:21.046680Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:21.219003Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +36,26 @@
     [
       "TRANSLATION",
       "eng:there exists"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es gibt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il y a"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ci sono"
+    ],
+    [
+      "TRANSLATION",
+      "rus:есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hay"
     ]
   ]
 }

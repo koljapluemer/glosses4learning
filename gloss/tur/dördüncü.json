@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:17:24.195733Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:10.666274Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:10.666274Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:36.296717Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:36.484704Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:36.647955Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:der vierte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:quatrième"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quarto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:четвертый"
     ]
   ]
 }

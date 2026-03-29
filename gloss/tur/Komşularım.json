@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:56.083461Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:31.351122Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:31.351122Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:37.409559Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:37.619776Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:37.812210Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:The neighbors"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mes voisins"
+    ],
+    [
+      "TRANSLATION",
+      "ita:I miei vicini"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мои соседи"
     ]
   ]
 }

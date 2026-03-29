@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:36.173527Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:36.173527Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:31.337541Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:31.556009Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:31.732666Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:31.912319Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:stop doing that"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hör auf"
+    ],
+    [
+      "TRANSLATION",
+      "fra:arrêtez-vous"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остановитесь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bunu bırakın"
     ]
   ]
 }

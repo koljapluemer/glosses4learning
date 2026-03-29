@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:29.822586Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:29.822586Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:14.393896Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:14.577469Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:14.750657Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:14.947058Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:15.133979Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:I would tell"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich würde sagen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je dirais"
+    ],
+    [
+      "TRANSLATION",
+      "ita:direi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я бы сказал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dediğim"
     ]
   ]
 }

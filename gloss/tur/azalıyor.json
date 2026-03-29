@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:33:55.825583Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:36:46.327410Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:36:46.327410Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:40.508994Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:40.721466Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:40.942065Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:declining"
+    ],
+    [
+      "TRANSLATION",
+      "fra:diminue"
+    ],
+    [
+      "TRANSLATION",
+      "ita:diminuisce, sta diminuendo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:исчезает, угасает"
     ]
   ]
 }

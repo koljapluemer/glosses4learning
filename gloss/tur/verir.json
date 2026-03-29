@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-11T19:17:33.236359Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:33.236359Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:34.114672Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:34.320586Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:34.546069Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:34.752648Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "deu:liefern"
+    ],
+    [
+      "TRANSLATION",
+      "eng:provides"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fournir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fornirà"
+    ],
+    [
+      "TRANSLATION",
+      "rus:предоставляет"
     ]
   ]
 }

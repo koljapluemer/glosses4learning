@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:03:23.681611Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:03:23.681611Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:40.127887Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:40.300757Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:40.467885Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:40.656478Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:forgetting"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vergiss"
+    ],
+    [
+      "TRANSLATION",
+      "fra:oublier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:забыть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Anlaşma"
     ]
   ]
 }

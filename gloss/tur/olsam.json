@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:13:59.521818Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:15:23.790972Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:15:23.790972Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:44.531186Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:44.727414Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:44.937069Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:if I had been"
+    ],
+    [
+      "TRANSLATION",
+      "fra:si"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Se fossi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Если бы я был"
     ]
   ]
 }

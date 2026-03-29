@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:14.117515Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:51.440968Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:51.440968Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:24.778269Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:24.993122Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:25.181831Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:I won't remain"
+    ],
+    [
+      "TRANSLATION",
+      "fra:de ne rester"
+    ],
+    [
+      "TRANSLATION",
+      "ita:la mia assenza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остаться"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:46.679428Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:44:58.899079Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:44:58.899079Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:27.039003Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:27.218461Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:27.397955Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "cat:odia"
+    ],
+    [
+      "TRANSLATION",
+      "fra:respiration"
+    ],
+    [
+      "TRANSLATION",
+      "ita:respiro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:дыхание"
     ]
   ]
 }

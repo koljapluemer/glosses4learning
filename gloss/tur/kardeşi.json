@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:17.211101Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:11.962699Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:11.962699Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:29.069308Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:29.260568Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:29.438020Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:Geschwister"
+    ],
+    [
+      "TRANSLATION",
+      "fra:son frère"
+    ],
+    [
+      "TRANSLATION",
+      "ita:suo fratello"
+    ],
+    [
+      "TRANSLATION",
+      "rus:брат"
     ]
   ]
 }

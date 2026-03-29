@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:32.785954Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:32.785954Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:18.442386Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:18.643699Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:18.837916Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:19.008789Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:reggae rhythm"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reggae"
+    ],
+    [
+      "TRANSLATION",
+      "fra:reggae"
+    ],
+    [
+      "TRANSLATION",
+      "rus:реггей"
+    ],
+    [
+      "TRANSLATION",
+      "tur:reggae"
     ]
   ]
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:A Mary non piace guardarsi allo specchio"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spiegel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mirror"
+    ],
+    [
+      "TRANSLATION",
+      "fra:miroir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:зеркало"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ayna"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:15:57.376685Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:57.551361Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:57.721597Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:57.921869Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:58.098418Z": "TRANSLATION_DONE:tur"
+  }
 }

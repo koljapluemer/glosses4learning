@@ -4,7 +4,12 @@
   "transcriptions": {},
   "logs": {
     "2025-12-16T11:44:24.628Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-16T11:44:40.607Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+    "2025-12-16T11:44:40.607Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2026-03-29T14:23:10.788650Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:10.967212Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:11.154641Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:11.339941Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:11.501543Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -30,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:challenging"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schwierig"
+    ],
+    [
+      "TRANSLATION",
+      "fra:difficile"
+    ],
+    [
+      "TRANSLATION",
+      "ita:difficile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сложный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zor"
     ]
   ]
 }

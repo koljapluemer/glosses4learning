@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:50.771539Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:50.771539Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:03.751022Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:03.930091Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:04.127184Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:04.317677Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to lay off"
+    ],
+    [
+      "TRANSLATION",
+      "deu:entlassen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:licencier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:увольнять"
+    ],
+    [
+      "TRANSLATION",
+      "tur:işten çıkarma"
     ]
   ]
 }

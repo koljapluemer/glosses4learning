@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:08.835635Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:08.835635Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:21.290747Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:21.466362Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:21.645149Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:21.808789Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:21.968402Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:mind"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kopf"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tête"
+    ],
+    [
+      "TRANSLATION",
+      "ita:testa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:голова"
+    ],
+    [
+      "TRANSLATION",
+      "tur:baş"
     ]
   ]
 }

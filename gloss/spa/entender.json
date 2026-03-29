@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:49.276156Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:49.276156Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:31.871485Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:32.054991Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:32.236318Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:32.436991Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:32.616459Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:to grasp"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:comprendre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:capire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:понимать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anlamak"
     ]
   ]
 }

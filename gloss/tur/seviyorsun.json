@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:45:47.050723Z": "TRANSLATION_DONE:deu"
+    "2026-01-22T15:45:47.050723Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:26.818547Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:27.012805Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:27.199386Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:27.393345Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "deu:du magst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't love you"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je t'aime"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ti voglio bene"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ты не любишь"
     ]
   ]
 }

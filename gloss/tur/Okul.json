@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:13:31.283328Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:14:49.970946Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:14:49.970946Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:47.154738Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:47.344540Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:47.532878Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:educational institution"
+    ],
+    [
+      "TRANSLATION",
+      "fra:École"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Scuola"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Школа"
     ]
   ]
 }

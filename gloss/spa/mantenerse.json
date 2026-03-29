@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:05.976170Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:05.976170Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:25:05.579386Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:25:05.768801Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:25:05.926534Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:25:06.150847Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:25:06.371263Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:to keep oneself"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sich erhalten, aufrechterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:s'en tenir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mantenersi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поддерживать, сохранять"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sürdürmek, devam etmek"
     ]
   ]
 }

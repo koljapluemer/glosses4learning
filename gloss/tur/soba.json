@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:26.283459Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:22.812810Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:22.812810Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:33.764793Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:33.941213Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:34.118161Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:Herd"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ramen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:spaghetti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кастрюля"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:30.533741Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:30.533741Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:54.167577Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:54.362964Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:54.551858Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:54.746361Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:recovered"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefunden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:retrouvé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:найден"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yeniden bulundu"
     ]
   ]
 }

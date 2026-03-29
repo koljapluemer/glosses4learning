@@ -20,6 +20,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:A Mary non piace per nulla il prezzemolo"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Petersilie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:parsley"
+    ],
+    [
+      "TRANSLATION",
+      "fra:persil"
+    ],
+    [
+      "TRANSLATION",
+      "rus:петрушка"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Maydanoz"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:12:22.038304Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:12:22.214954Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:12:22.382078Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:12:22.572638Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:12:22.756930Z": "TRANSLATION_DONE:tur"
+  }
 }

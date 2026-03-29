@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:53.472836Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:53.472836Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:39.364536Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:39.541912Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:39.721790Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:39.896178Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,18 @@
     [
       "TRANSLATION",
       "deu:umgebracht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tué"
+    ],
+    [
+      "TRANSLATION",
+      "rus:убит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ölü"
     ]
   ]
 }

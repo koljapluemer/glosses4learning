@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:23.180743Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:23.180743Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:04.354305Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:04.554776Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:04.762135Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:04.945763Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:you arrived"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dass ersiees angekommen ist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:qu'il est arrivé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:che era arrivatoa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прибыл"
     ]
   ]
 }

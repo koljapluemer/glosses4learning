@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:55.200487Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:55.200487Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:11.613330Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:11.779183Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:11.971253Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:12.170515Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "eng:on the other hand"
+    ],
+    [
+      "TRANSLATION",
+      "deu:allerdings"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cependant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:однако"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ancak"
     ]
   ]
 }

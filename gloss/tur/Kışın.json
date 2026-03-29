@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-22T15:45:34.244542Z": "TRANSLATION_DONE:deu",
-    "2026-01-27T14:53:24.157793Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:53:24.157793Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:40.809148Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:40.982129Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:41.160269Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:during winter"
+    ],
+    [
+      "TRANSLATION",
+      "fra:En hiver"
+    ],
+    [
+      "TRANSLATION",
+      "ita:In inverno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Зимой"
     ]
   ]
 }

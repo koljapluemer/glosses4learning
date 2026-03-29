@@ -80,6 +80,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:A Mary non piaceva sua madre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es war angenehmangemessengut"
+    ],
+    [
+      "TRANSLATION",
+      "eng:it liked"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il plaisait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нравилось"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beğeniyordu"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:11:20.287913Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:20.471415Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:20.668184Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:20.860383Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:21.070161Z": "TRANSLATION_DONE:tur"
+  }
 }

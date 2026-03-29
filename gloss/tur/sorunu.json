@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:12.179454Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:20:20.223239Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:20.223239Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:40.097005Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:40.261237Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:40.479082Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:the trouble"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le problème"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il problema"
+    ],
+    [
+      "TRANSLATION",
+      "rus:проблему"
     ]
   ]
 }

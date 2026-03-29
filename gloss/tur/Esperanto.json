@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:46.042950Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:15.084637Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:15.084637Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:21.871979Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:22.073074Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:22.295524Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Esperanto language"
+    ],
+    [
+      "TRANSLATION",
+      "ita:l'esperanto"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Espéranto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Esperanto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Эсперанто"
     ]
   ]
 }

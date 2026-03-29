@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "spa:Quiero oír lo que dice Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hören"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to hear"
+    ],
+    [
+      "TRANSLATION",
+      "fra:entendre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sentire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:услышать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:duyma"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:25:52.385368Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:25:52.579259Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:25:52.748404Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:25:52.942659Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:25:53.125613Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:25:53.311467Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:51.070000Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:51.070000Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:19.078555Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:19.259794Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:19.449820Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:19.665065Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:is going to be"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wird"
+    ],
+    [
+      "TRANSLATION",
+      "fra:arrivera"
+    ],
+    [
+      "TRANSLATION",
+      "rus:будет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerçekleşecek"
     ]
   ]
 }

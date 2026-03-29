@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:15.758104Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:15.758104Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:21.465476Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:21.647971Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:21.854402Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:22.078794Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:spell"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fluch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mauvaise étoile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:проклятие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Lanet, lanetleme"
     ]
   ]
 }

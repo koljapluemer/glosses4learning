@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:48.832996Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:48.832996Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:53.230718Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:53.411904Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:53.562966Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:53.734859Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:halfway"
+    ],
+    [
+      "TRANSLATION",
+      "deu:halb"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mi-chemin"
+    ],
+    [
+      "TRANSLATION",
+      "rus:половина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:orta"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çeyrek"
     ]
   ]
 }

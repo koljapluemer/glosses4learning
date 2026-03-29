@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:06:17.272436Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:06:17.272436Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:49.071642Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:49.286275Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:49.495912Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:49.669764Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:clever"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erwachen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:éveillé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пробужден"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uyan"
     ]
   ]
 }

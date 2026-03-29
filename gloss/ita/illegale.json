@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:49.431833Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:49.431833Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:18.492924Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:18.675736Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:18.882978Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:19.088797Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:prohibited"
+    ],
+    [
+      "TRANSLATION",
+      "deu:illegal"
+    ],
+    [
+      "TRANSLATION",
+      "fra:illégal"
+    ],
+    [
+      "TRANSLATION",
+      "rus:незаконный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yasal olmayan"
     ]
   ]
 }

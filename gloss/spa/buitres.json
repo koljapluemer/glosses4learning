@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:26.558235Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:26.558235Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:19.412816Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:19.605453Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:19.803216Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:19.999917Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:20.177635Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:opportunists"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wölfe"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aigles"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avvoltoie"
+    ],
+    [
+      "TRANSLATION",
+      "rus:стрелы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kartal"
     ]
   ]
 }

@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:25.728789Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:25.728789Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:41.288155Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:41.460448Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:41.651597Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:41.834306Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:42.027002Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:pillar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spalte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:colonne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:colonna"
+    ],
+    [
+      "TRANSLATION",
+      "rus:столб"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sütun"
     ]
   ]
 }

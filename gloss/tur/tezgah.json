@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:20.474001Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:20:30.668671Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:30.668671Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:07.183450Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:07.423226Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:07.657028Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:workbench"
+    ],
+    [
+      "TRANSLATION",
+      "fra:établi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:banco, banco da mostra"
+    ],
+    [
+      "TRANSLATION",
+      "rus:стол, прилавок"
     ]
   ]
 }

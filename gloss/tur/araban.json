@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-11T19:16:58.445475Z": "TRANSLATION_DONE:deu",
-    "2026-01-27T14:53:40.029978Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:53:40.029978Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:29.849300Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:30.001799Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:30.199838Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:the car"
+    ],
+    [
+      "TRANSLATION",
+      "fra:voiture"
+    ],
+    [
+      "TRANSLATION",
+      "ita:auto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:автомобиль"
     ]
   ]
 }

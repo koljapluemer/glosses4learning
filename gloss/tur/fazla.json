@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-03T07:34:18.563827Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:36:54.629289Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:36:54.629289Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:01.049721Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:01.243784Z": "TRANSLATION_DONE:ita"
   },
   "relationships": [
     [
@@ -56,6 +58,18 @@
     [
       "TRANSLATION",
       "ita:eccessivo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:troppo"
+    ],
+    [
+      "TRANSLATION",
+      "fra:trop"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in eccesso"
     ]
   ]
 }

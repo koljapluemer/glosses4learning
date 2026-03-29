@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:57.738843Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:54.418486Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:54.418486Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:04.389224Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:04.581708Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:04.772118Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:political affairs"
+    ],
+    [
+      "TRANSLATION",
+      "fra:politique"
+    ],
+    [
+      "TRANSLATION",
+      "ita:politica"
+    ],
+    [
+      "TRANSLATION",
+      "rus:политика"
     ]
   ]
 }

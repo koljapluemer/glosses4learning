@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:31.392079Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:31.392079Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:48.838053Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:49.004756Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:49.199920Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:49.385025Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:appeal"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beliebtheit"
+    ],
+    [
+      "TRANSLATION",
+      "fra:popularité"
+    ],
+    [
+      "TRANSLATION",
+      "rus:популярность"
+    ],
+    [
+      "TRANSLATION",
+      "tur:popülerlik"
     ]
   ]
 }

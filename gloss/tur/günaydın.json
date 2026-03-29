@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:33.834069Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:33.834069Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:31.434250Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:31.599454Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:31.786543Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:31.982125Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:morning"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Guten Morgen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Bonjour"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Buongiorno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Доброе утро"
     ]
   ]
 }

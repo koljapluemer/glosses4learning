@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T15:25:14.578440Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:24.892425Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:24.892425Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:31.482590Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:31.650536Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:31.828505Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Entbindung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:naissance"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nascita"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рождение"
     ]
   ]
 }

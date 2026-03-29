@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:10:41.497359Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:10:41.497359Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:23.125973Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:23.282524Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:23.459543Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:23.618189Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:23.781209Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:café"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kaffee"
+    ],
+    [
+      "TRANSLATION",
+      "fra:café"
+    ],
+    [
+      "TRANSLATION",
+      "ita:caffè"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кофе"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kafe"
     ]
   ]
 }

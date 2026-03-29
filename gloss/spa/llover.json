@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:02.866982Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:02.866982Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:57.765814Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:57.946472Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:58.129656Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:58.347353Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:58.555951Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:to fall (as rain)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:regnen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pleuvoir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:piovere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:падать (дождь)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yağmur yağmak"
     ]
   ]
 }

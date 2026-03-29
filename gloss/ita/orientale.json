@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:35.853171Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:35.853171Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:13.579086Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:13.745975Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:13.891909Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:14.052596Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:eastern-style"
+    ],
+    [
+      "TRANSLATION",
+      "deu:östlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:oriental"
+    ],
+    [
+      "TRANSLATION",
+      "rus:восточный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Doğu"
     ]
   ]
 }

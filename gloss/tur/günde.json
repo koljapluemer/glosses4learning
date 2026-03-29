@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:08.639146Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:32.118420Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:32.118420Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:32.749904Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:32.958623Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:33.144590Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:täglich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pendant la journée"
+    ],
+    [
+      "TRANSLATION",
+      "ita:durante il giorno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в течение дня"
     ]
   ]
 }

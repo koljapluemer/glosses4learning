@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:42.123721Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:43.331103Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:43.331103Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:15.878913Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:16.096854Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:16.335709Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:das Trinken vermeiden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ne pas lui donner à manger"
+    ],
+    [
+      "TRANSLATION",
+      "ita:che non ne consumi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не давать емуей пить"
     ]
   ]
 }

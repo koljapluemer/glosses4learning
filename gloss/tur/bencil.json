@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T14:53:44.674988Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:16.018528Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:16.018528Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:52.678598Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:52.859775Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:53.052983Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Stift"
+    ],
+    [
+      "TRANSLATION",
+      "fra:égoïste"
+    ],
+    [
+      "TRANSLATION",
+      "ita:egoista"
+    ],
+    [
+      "TRANSLATION",
+      "rus:эгоистичный"
     ]
   ]
 }

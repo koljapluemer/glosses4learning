@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:24.253521Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:06.193345Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:06.193345Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:54.350950Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:54.544571Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:54.762509Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:we can talk"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Nous communiquerons"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ci risentiamo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мы пообщаемся"
     ]
   ]
 }

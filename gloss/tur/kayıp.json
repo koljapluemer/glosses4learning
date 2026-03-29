@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:56.665089Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:45.811353Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:45.811353Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:34.825041Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:34.990883Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:35.188513Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,22 @@
     [
       "TRANSLATION",
       "fra:perte"
+    ],
+    [
+      "TRANSLATION",
+      "ita:perso"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sconfitta"
+    ],
+    [
+      "TRANSLATION",
+      "fra:perdu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:утерянный"
     ]
   ]
 }

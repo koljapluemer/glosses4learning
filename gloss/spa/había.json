@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:08.318857Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:08.318857Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:14.165328Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:14.363741Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:14.548519Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:14.741672Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:14.930149Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:had"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es gabexistierte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il y avait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:c'era"
+    ],
+    [
+      "TRANSLATION",
+      "rus:было"
+    ],
+    [
+      "TRANSLATION",
+      "tur:vardı"
     ]
   ]
 }

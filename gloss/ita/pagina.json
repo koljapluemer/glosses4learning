@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:55.611110Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:55.611110Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:27.756322Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:27.953418Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:28.149001Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +38,18 @@
     [
       "TRANSLATION",
       "deu:Seite"
+    ],
+    [
+      "TRANSLATION",
+      "fra:page"
+    ],
+    [
+      "TRANSLATION",
+      "rus:страница"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sayfa"
     ]
   ]
 }

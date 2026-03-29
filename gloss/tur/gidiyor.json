@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:13:43.103291Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:15:09.466235Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:15:09.466235Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:16.444562Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:16.633553Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:16.822003Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "epo:iras"
+    ],
+    [
+      "TRANSLATION",
+      "fra:partant, s'en va"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sta andando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:движется"
     ]
   ]
 }

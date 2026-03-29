@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-11T19:17:27.929685Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:27.929685Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:05.450640Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:05.640622Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:05.831172Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:06.017969Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "deu:das Gegenteil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the other side"
+    ],
+    [
+      "TRANSLATION",
+      "fra:l'inverse"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lato opposto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обратную сторону"
     ]
   ]
 }

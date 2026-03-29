@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:33:44.758285Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:36:43.972631Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:36:43.972631Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:08.613125Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:08.780226Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:08.989669Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:Gee"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Piéton"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Pedone"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Дворник"
     ]
   ]
 }

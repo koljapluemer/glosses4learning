@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:37.383243Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:37.383243Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:28.721010Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:28.898844Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:29.093772Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:29.245974Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:to get hold of them"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie zu finden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:les trouver"
+    ],
+    [
+      "TRANSLATION",
+      "rus:найти их"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bulunan"
     ]
   ]
 }

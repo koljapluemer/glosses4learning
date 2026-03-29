@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:41.492805Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:41.492805Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:23.911773Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:24.094362Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:24.283056Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:24.525100Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:was situated"
+    ],
+    [
+      "TRANSLATION",
+      "deu:war dabei"
+    ],
+    [
+      "TRANSLATION",
+      "fra:était"
+    ],
+    [
+      "TRANSLATION",
+      "rus:стоял"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bekliyorduduruyordu"
     ]
   ]
 }

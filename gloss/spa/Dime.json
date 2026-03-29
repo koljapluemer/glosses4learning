@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:42:31.756477Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:42:31.756477Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:20:44.475651Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:20:44.685229Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:20:44.892411Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:20:45.082610Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:20:45.288622Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:Speak to me"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sag es mir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Dis-moi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Dimmi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Скажи мне"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bana söyle"
     ]
   ]
 }

@@ -20,9 +20,34 @@
     [
       "USAGE_EXAMPLE",
       "nob:Jeg snakker ikke japansk"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nein"
+    ],
+    [
+      "TRANSLATION",
+      "fra:non"
+    ],
+    [
+      "TRANSLATION",
+      "ita:no"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hayır"
     ]
   ],
   "logs": {
-    "2026-03-28T16:45:38.890742Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:45:38.890742Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:20:25.731883Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:20:25.896590Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:20:26.057553Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:20:26.215233Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:20:26.387379Z": "TRANSLATION_DONE:tur"
   }
 }

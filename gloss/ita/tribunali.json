@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:33.077864Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:33.077864Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:26.007687Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:26.185087Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:26.353087Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:26.559133Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:judicial body"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gerichte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tribunaux"
+    ],
+    [
+      "TRANSLATION",
+      "rus:суды"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mahkemeler"
     ]
   ]
 }

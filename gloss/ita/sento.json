@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:02.251909Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:02.251909Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:04.502987Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:04.696378Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:04.891138Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:05.079641Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "deu:fühle"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich fühle"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je ressens"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я чувствую"
+    ],
+    [
+      "TRANSLATION",
+      "tur:duyuyorum"
+    ],
+    [
+      "TRANSLATION",
+      "spa:siento"
     ]
   ]
 }

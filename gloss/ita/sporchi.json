@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:19.725280Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:19.725280Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:07.182924Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:07.373260Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:07.553987Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:07.737727Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "deu:schmutzigen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verschmutzt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:salessale"
+    ],
+    [
+      "TRANSLATION",
+      "rus:грязные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kirli"
     ]
   ]
 }

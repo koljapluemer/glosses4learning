@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:20.467554Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:20.467554Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:08.854085Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:09.049908Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:09.217103Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:09.393200Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to marry them"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sich mit jemandem verloben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le convolier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:жениться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:evlenmek"
     ]
   ]
 }

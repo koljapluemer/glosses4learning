@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:20.005448Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:20.005448Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:55.889815Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:56.100018Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:56.290467Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:56.484839Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:you did eat"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das, was ich getan habe"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ce qu'il a fait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ho fatto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:что ты сделал"
     ]
   ]
 }

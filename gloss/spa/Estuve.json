@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:47:54.381206Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:47:54.381206Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:20:57.846957Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:20:58.015008Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:20:58.186337Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:20:58.373173Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:20:58.559506Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:I have been"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich war"
+    ],
+    [
+      "TRANSLATION",
+      "fra:J'ai été"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Sono stato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я был"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ben bulundum"
     ]
   ]
 }

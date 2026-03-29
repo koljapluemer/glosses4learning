@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:28.591072Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:28.591072Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:51.381240Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:51.571805Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:51.752572Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:51.954499Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:52.156033Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:they will review"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kritisch bewertenauswerten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils critiqueront"
+    ],
+    [
+      "TRANSLATION",
+      "ita:criticheranno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:критиковать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eleştirecekler"
     ]
   ]
 }

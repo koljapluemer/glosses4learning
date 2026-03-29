@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:35:11.705000Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:37:13.367702Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:37:13.367702Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:51.499038Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:51.668384Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:51.857464Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,14 @@
     [
       "TRANSLATION",
       "ita:caldo"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chaud"
+    ],
+    [
+      "TRANSLATION",
+      "rus:тепло"
     ]
   ]
 }

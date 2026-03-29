@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:59.141101Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:45:12.550220Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:45:12.550220Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:48.988503Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:49.157280Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:49.338841Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:you made"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous l'avez fait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:hai fatto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы сделали"
     ]
   ]
 }

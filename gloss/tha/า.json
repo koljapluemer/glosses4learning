@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "tha:ฉันต้องการเวลามากกว่านี้"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bitte geben Sie den Thai-Text an, den Sie übersetzt haben möchten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:(No text provided)"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Sans texte"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Non c'è testo da tradurre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:(Без текста)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Bu kısım boş olduğu için, herhangi bir çeviri yapılmamıştır.)"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:31:42.173881Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:31:42.383707Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:31:42.580693Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:31:42.825165Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:31:43.023304Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:31:43.342372Z": "TRANSLATION_DONE:tur"
+  }
 }

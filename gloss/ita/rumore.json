@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:39.704846Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:39.704846Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:01.079062Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:01.254908Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:01.442654Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:01.637902Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:commotion"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gerücht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rumeur"
+    ],
+    [
+      "TRANSLATION",
+      "rus:шум"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dedikodu"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ruido"
     ]
   ]
 }

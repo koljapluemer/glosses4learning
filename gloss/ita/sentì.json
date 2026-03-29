@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:03.614818Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:03.614818Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:05.254454Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:05.401434Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:05.558291Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:05.750342Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "deu:hörte"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erfuhr"
+    ],
+    [
+      "TRANSLATION",
+      "fra:a senti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:услышал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:duydu"
     ]
   ]
 }

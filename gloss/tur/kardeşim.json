@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "tur:Tom benim üvey erkek kardeşim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mein Bruder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my brother"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mon frère"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mio fratello"
+    ],
+    [
+      "TRANSLATION",
+      "rus:брат"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:37:29.613781Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:29.811388Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:30.005208Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:30.158906Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:30.322073Z": "TRANSLATION_DONE:rus"
+  }
 }

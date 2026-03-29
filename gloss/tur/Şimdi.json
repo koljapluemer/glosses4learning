@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:39.502200Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:41.013487Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:41.013487Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:42:00.627957Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:42:00.764779Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:42:00.925557Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -52,6 +55,10 @@
     [
       "TRANSLATION",
       "ita:Ora"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Сейчас"
     ]
   ]
 }

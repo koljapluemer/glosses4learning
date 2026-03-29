@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:23.163434Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:23.163434Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:49.693894Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:49.876002Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:50.058335Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:50.245218Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:bistro"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Restaurant"
+    ],
+    [
+      "TRANSLATION",
+      "fra:restaurant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ресторан"
+    ],
+    [
+      "TRANSLATION",
+      "tur:restoran"
     ]
   ]
 }

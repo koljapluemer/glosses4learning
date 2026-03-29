@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:14:01.013489Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:15:25.644648Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:15:25.644648Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:58.720553Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:58.919679Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:59.110252Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:excerpt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le passage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il passaggio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:проход"
     ]
   ]
 }

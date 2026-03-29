@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:37:17.704298Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:37.203731Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:37.203731Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:40.865971Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:41.056812Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:41.233388Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:deine Belohnung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:son récompense"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il suo premio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:награду"
     ]
   ]
 }

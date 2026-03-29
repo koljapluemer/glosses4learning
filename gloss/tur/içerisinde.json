@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:15.058774Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:10.427012Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:10.427012Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:14.709956Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:14.898261Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:15.086334Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,18 @@
     [
       "TRANSLATION",
       "deu:im"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à l'intérieur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:all'interno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:внутри"
     ]
   ]
 }

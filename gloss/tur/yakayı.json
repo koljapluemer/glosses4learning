@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:45:11.875661Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:14:06.656676Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:14:06.656676Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:39.876303Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:40.066632Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:40.236783Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:der Hals"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le col"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il colletto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:воротник"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:45:43.965542Z": "TRANSLATION_DONE:deu"
+    "2026-01-22T15:45:43.965542Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:52.120970Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:52.296989Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:52.456531Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:52.652933Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "deu:redet nicht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It doesn't speak"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ne dit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non parla"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не разговаривает"
     ]
   ]
 }

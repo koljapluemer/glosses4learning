@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:52.465232Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:52.465232Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:28.877436Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:29.043946Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:29.215760Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:29.375262Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:29.547683Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:conclude"
+    ],
+    [
+      "TRANSLATION",
+      "deu:endet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:termine"
+    ],
+    [
+      "TRANSLATION",
+      "ita:termina"
+    ],
+    [
+      "TRANSLATION",
+      "rus:заканчивается"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sonuç"
     ]
   ]
 }

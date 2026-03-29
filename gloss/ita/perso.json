@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:51.617935Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:51.617935Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:08.643942Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:08.811802Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:09.022366Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:09.210959Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -67,6 +71,22 @@
     [
       "TRANSLATION",
       "fra:perdues"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verloren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:personne"
+    ],
+    [
+      "TRANSLATION",
+      "rus:потерян"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kayıp"
     ]
   ]
 }

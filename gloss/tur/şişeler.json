@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:13:06.851959Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:41.126501Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:41.126501Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:42:06.320855Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:42:06.481749Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:42:06.657457Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:flasks"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bouteilles"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bottiglie"
+    ],
+    [
+      "TRANSLATION",
+      "rus:бутылки"
     ]
   ]
 }

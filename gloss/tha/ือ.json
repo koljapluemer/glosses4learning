@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "tha:คุณสามารถทำมันได้ ไม่ใช่หรือ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bitte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Non"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Silenzio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:(Без контекста, невозможно дать точный перевод)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Bu ifade için uygun bir çeviri bulunmamaktadır. Lütfen daha fazla bağlam sağlayın.)"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:31:43.517631Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:31:43.690568Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:31:43.867428Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:31:44.060339Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:31:44.331332Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:31:44.677565Z": "TRANSLATION_DONE:tur"
+  }
 }

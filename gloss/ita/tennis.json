@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:05.210839Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:05.210839Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:03.829466Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:03.984383Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:04.137095Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:04.298358Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:tennis match"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tennis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tennis"
+    ],
+    [
+      "TRANSLATION",
+      "rus:теннис"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tenis"
     ]
   ]
 }

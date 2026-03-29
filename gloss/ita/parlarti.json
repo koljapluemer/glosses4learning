@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:09.231216Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:09.231216Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:40.003098Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:40.176983Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:40.381213Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:40.587380Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to converse with you"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mit Ihnen sprechen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous parler"
+    ],
+    [
+      "TRANSLATION",
+      "rus:говорить с вами"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ile konuşmak"
     ]
   ]
 }

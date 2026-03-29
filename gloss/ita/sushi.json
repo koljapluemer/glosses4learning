@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:06:14.777813Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:06:14.777813Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:46.692456Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:46.875817Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:47.026989Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:47.197124Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:sliced raw fish on rice"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sushi"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sushi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:суши"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sushi"
     ]
   ]
 }

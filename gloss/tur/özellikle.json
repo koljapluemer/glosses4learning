@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:57.234611Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:23.196225Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:23.196225Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:46.844447Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:47.017314Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:47.209959Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "deu:besonders"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en particulier"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in particolare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:особенно"
     ]
   ]
 }

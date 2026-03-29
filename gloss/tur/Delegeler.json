@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:15:09.834131Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:30.635697Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:30.635697Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:16.939888Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:17.121784Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:17.321566Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Vertreter"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Délégués"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Delegati"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Делегаты"
     ]
   ]
 }

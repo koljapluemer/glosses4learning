@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:54.635365Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:54.635365Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:58.400232Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:58.575592Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:58.754944Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:58.936504Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:to poll"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wählen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:voter"
+    ],
+    [
+      "TRANSLATION",
+      "rus:голосовать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oy kullanmak"
     ]
   ]
 }

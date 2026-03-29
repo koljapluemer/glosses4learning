@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:10.555157Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:10.555157Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:09:54.213475Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:09:54.422297Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:09:54.608962Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:09:54.791936Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:taken"
+    ],
+    [
+      "TRANSLATION",
+      "deu:belegt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:occupé(e)"
+    ],
+    [
+      "TRANSLATION",
+      "rus:занята"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kullanılıyor"
     ]
   ]
 }

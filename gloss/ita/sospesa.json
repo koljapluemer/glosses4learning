@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:01.900993Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:01.900993Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:50.455103Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:50.635357Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:50.839884Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:51.050754Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:on hold"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgesetzt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:suspendue"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остановлена"
+    ],
+    [
+      "TRANSLATION",
+      "tur:askıya alınmış"
     ]
   ]
 }

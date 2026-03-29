@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:37:20.233540Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:44:00.611191Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:44:00.611191Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:56.431697Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:56.668895Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:56.883934Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:hättet schreiben müssen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Il aurait dû pouvoir écrire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Doveva essere in grado di scrivere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:он должен уметь писать"
     ]
   ]
 }

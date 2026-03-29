@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:34:10.001344Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:36:51.246128Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:36:51.246128Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:33.902024Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:34.057229Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:34.239048Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "fra:bain"
+    ],
+    [
+      "TRANSLATION",
+      "fra:douche"
+    ],
+    [
+      "TRANSLATION",
+      "ita:doccia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:душ"
     ]
   ]
 }

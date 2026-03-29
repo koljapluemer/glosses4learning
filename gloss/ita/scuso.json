@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:03:36.054057Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:03:36.054057Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:48.760737Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:48.942257Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:49.132211Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:49.328271Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I'm sorry"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Entschuldigung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Excusez-moi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:извините"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Affedirin"
     ]
   ]
 }

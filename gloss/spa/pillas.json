@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:21.539648Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:21.539648Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:26:17.699187Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:26:17.876747Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:26:18.044229Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:26:18.244198Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:26:18.436441Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:you grab"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Flaschen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pièces"
+    ],
+    [
+      "TRANSLATION",
+      "ita:furto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:заболевания"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çorbalar"
     ]
   ]
 }

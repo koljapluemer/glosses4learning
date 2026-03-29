@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:14.102875Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:56.438188Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:56.438188Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:09.175871Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:09.368841Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:09.559569Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "eng:elderly"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vieil"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Anziano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Пожилой"
     ]
   ]
 }

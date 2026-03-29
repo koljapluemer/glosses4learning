@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:46.282964Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:46.282964Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:26.823448Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:27.017746Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:27.227391Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:27.431957Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:27.621209Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:selection"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hat ausgewählt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:a choisi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ha scelto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выбрал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:se seçti"
     ]
   ]
 }

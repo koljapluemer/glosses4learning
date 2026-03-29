@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:28.629576Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:28.629576Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:22.584183Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:22.751975Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:22.938746Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:23.103328Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:13"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dreizehn"
+    ],
+    [
+      "TRANSLATION",
+      "fra:treize"
+    ],
+    [
+      "TRANSLATION",
+      "rus:тринадцать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:on üçüncü"
     ]
   ]
 }

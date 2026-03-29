@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-02T09:09:11.028083Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:51.763797Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:51.763797Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:34:03.346186Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:03.500797Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -84,6 +86,14 @@
     [
       "TRANSLATION",
       "ita:Tom"
+    ],
+    [
+      "TRANSLATION",
+      "fra:De Tom"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Тома"
     ]
   ]
 }

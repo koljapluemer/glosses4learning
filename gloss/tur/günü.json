@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:35.435666Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:35.435666Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:33.305839Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:33.469566Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:33.621715Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:33.781183Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:the day"
+    ],
+    [
+      "TRANSLATION",
+      "deu:der Tag"
+    ],
+    [
+      "TRANSLATION",
+      "fra:la journée"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il giorno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:день"
     ]
   ]
 }

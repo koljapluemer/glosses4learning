@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:20.513908Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:20.513908Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:04.577832Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:04.760422Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:04.933227Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:05.094831Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:respectable"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ehrlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:honnête"
+    ],
+    [
+      "TRANSLATION",
+      "rus:честный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dürüst"
     ]
   ]
 }

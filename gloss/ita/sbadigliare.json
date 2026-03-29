@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:03:02.229959Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:03:02.229959Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:20.488364Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:20.667788Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:20.867792Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:21.092379Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to unclip"
+    ],
+    [
+      "TRANSLATION",
+      "deu:stöhnen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:soupirer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:закатывать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uğultamak, homurdamak"
     ]
   ]
 }

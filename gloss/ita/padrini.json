@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:50.588535Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:50.588535Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:24.048901Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:24.250642Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:24.456624Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:24.709657Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:guardians"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Trauzeugen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:parrains"
+    ],
+    [
+      "TRANSLATION",
+      "rus:свидетели"
+    ],
+    [
+      "TRANSLATION",
+      "tur:damadıngelinin akıl hocası"
     ]
   ]
 }

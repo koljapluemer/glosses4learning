@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:14:09.744280Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:15:33.747941Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:15:33.747941Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:02.386039Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:02.567648Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:02.748607Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -64,6 +67,22 @@
     [
       "TRANSLATION",
       "fra:venue"
+    ],
+    [
+      "TRANSLATION",
+      "ita:posto"
+    ],
+    [
+      "TRANSLATION",
+      "tha:แห่ง"
+    ],
+    [
+      "TRANSLATION",
+      "ita:luogo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:место"
     ]
   ]
 }

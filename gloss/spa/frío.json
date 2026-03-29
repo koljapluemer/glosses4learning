@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:41.602580Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:41.602580Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:01.156930Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:01.326736Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:01.502766Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:01.677660Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:01.842961Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:cool"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kalt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:froid"
+    ],
+    [
+      "TRANSLATION",
+      "ita:freddo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:холод"
+    ],
+    [
+      "TRANSLATION",
+      "tur:soğuk"
     ]
   ]
 }

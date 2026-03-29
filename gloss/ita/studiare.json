@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:57.481253Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:57.481253Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:36.229761Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:36.402887Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:36.594484Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:36.830803Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,22 @@
     [
       "TRANSLATION",
       "eng:to review"
+    ],
+    [
+      "TRANSLATION",
+      "deu:studieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:étudier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:изучать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:incelemek, araştırmak, öğrenmek"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:45.060858Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:18:16.425189Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:18:16.425189Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:37.188844Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:37.352912Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:37.533284Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -44,6 +47,18 @@
     [
       "TRANSLATION",
       "deu:still"
+    ],
+    [
+      "TRANSLATION",
+      "fra:belle-sœur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nonna"
+    ],
+    [
+      "TRANSLATION",
+      "rus:тетя"
     ]
   ]
 }

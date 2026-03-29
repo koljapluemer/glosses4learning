@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:33.469594Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:33.469594Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:12.378269Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:12.561743Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:12.747816Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:12.946985Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:on the way"
+    ],
+    [
+      "TRANSLATION",
+      "deu:im Gange"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en cours"
+    ],
+    [
+      "TRANSLATION",
+      "rus:по мере продвижения"
+    ],
+    [
+      "TRANSLATION",
+      "tur:geliyorum"
     ]
   ]
 }

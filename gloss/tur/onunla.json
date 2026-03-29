@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:19:46.797652Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:00.646062Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:00.646062Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:38:50.698352Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:50.897119Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:51.081059Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "deu:mit ihr"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avec luielle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:con luilei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:с ним"
     ]
   ]
 }

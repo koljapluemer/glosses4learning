@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:02:28.537572Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:02:28.537572Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:51.844923Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:52.015210Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:52.213228Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:52.374943Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,18 @@
     [
       "TRANSLATION",
       "fra:retard"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verspätung"
+    ],
+    [
+      "TRANSLATION",
+      "rus:задержка"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gecikme"
     ]
   ]
 }

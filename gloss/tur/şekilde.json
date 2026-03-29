@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:37:39.395701Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:44.065285Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:44.065285Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:42:04.687884Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:42:04.885413Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:42:05.084404Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,18 @@
     [
       "TRANSLATION",
       "deu:Methode"
+    ],
+    [
+      "TRANSLATION",
+      "fra:de cette manière"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in questo modo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в таком виде"
     ]
   ]
 }

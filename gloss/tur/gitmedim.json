@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:17:59.012590Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:29.049531Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:29.049531Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:18.765264Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:18.987710Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:19.236045Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:ich habe nicht gegeben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je n'y suis pas allé(e)"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Non sono andatoa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я не пошёлне поехала"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:05:44.144190Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:05:44.144190Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:16:26.061775Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:16:26.246314Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:16:26.416190Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:16:26.600850Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,18 @@
     [
       "TRANSLATION",
       "fra:étoiles"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Positionen"
+    ],
+    [
+      "TRANSLATION",
+      "rus:звезды"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yıldızlar"
     ]
   ]
 }

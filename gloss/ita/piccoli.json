@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:12.199966Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:12.199966Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:30.663583Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:30.831966Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:31.029240Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:31.214505Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,18 @@
     [
       "TRANSLATION",
       "fra:petits"
+    ],
+    [
+      "TRANSLATION",
+      "deu:klein"
+    ],
+    [
+      "TRANSLATION",
+      "rus:маленькие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:küçük"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:49.591591Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:49.591591Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:41.698392Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:41.871394Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:42.039319Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:42.225567Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -79,6 +83,38 @@
     [
       "TRANSLATION",
       "fra:seules"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausschließlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:seul"
+    ],
+    [
+      "TRANSLATION",
+      "rus:только"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yalnız"
+    ],
+    [
+      "TRANSLATION",
+      "lat:solum"
+    ],
+    [
+      "TRANSLATION",
+      "spa:solo"
+    ],
+    [
+      "TRANSLATION",
+      "srp:sam"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sola"
     ]
   ]
 }

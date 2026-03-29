@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:59.227172Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:59.227172Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:54.646841Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:54.824924Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:55.023169Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:55.207339Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:55.384293Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:sashes"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fenster"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fenêtres"
+    ],
+    [
+      "TRANSLATION",
+      "ita:finestre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:окна"
+    ],
+    [
+      "TRANSLATION",
+      "tur:pencereler"
     ]
   ]
 }

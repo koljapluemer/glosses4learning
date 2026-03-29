@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:26.047282Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:26.047282Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:14.266940Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:14.444535Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:14.652728Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:14.868213Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:if we can go"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wenn wir es könnten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:si nous pouvions"
+    ],
+    [
+      "TRANSLATION",
+      "ita:se potessimo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:если бы мы могли"
     ]
   ]
 }

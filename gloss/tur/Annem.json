@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-22T15:45:31.274737Z": "TRANSLATION_DONE:deu",
-    "2026-01-27T14:53:09.444699Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:53:09.444699Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:32:56.103259Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:32:56.295466Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:32:56.479370Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:Mom"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Ma mère"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Mia madre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Моя мама"
     ]
   ]
 }

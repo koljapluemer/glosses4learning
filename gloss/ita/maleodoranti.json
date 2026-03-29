@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:16.987257Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:16.987257Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:22.245038Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:22.453000Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:22.704145Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:22.918398Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:masculine deodorants"
+    ],
+    [
+      "TRANSLATION",
+      "deu:riechend"
+    ],
+    [
+      "TRANSLATION",
+      "fra:qui dégagent une odeur forte"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вызывающие неприятный запах"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kötü kokulu"
     ]
   ]
 }

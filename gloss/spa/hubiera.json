@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:16.817269Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:16.817269Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:29.710434Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:29.898087Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:30.094549Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:30.268420Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:30.439095Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:had (subjunctive)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hätte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aurais"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avrei voluto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должен был"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olabilirdi"
     ]
   ]
 }

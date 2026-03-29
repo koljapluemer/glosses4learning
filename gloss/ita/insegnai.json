@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:25.879152Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:25.879152Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:51.809765Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:52.045098Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:52.252540Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:52.469962Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I trained"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich unterrichtete"
+    ],
+    [
+      "TRANSLATION",
+      "fra:j'enseignais"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я преподавал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:öğrettim"
     ]
   ]
 }

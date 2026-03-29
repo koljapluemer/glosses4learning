@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:A Mary non piaceva il suo sandwich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sandwich"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sandwich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sandwich"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сэндвич"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sandviç"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:14:12.115380Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:14:12.268675Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:14:12.424988Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:14:12.602914Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:14:12.800424Z": "TRANSLATION_DONE:tur"
+  }
 }

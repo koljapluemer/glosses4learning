@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:04.363919Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:04.363919Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:30.744203Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:31.011678Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:31.229942Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:31.439384Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:perpetually"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ständig"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en permanencesans interruptionconstammenten continu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:непрерывно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sürekli olarak"
     ]
   ]
 }

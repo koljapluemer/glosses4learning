@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:47.659137Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:47.659137Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:15.994935Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:16.186404Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:16.359365Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:16.545515Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:16.713828Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:they make"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie tun"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils font"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lo fanno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:делают"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapıyorlar"
     ]
   ]
 }

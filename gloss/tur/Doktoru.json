@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:15:11.586494Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:32.284522Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:32.284522Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:18.782856Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:18.996676Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:19.168359Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Doktor"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Le médecin"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Il dottore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Доктор"
     ]
   ]
 }

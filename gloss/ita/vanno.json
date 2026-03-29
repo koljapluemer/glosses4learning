@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:15.512616Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:15.512616Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:59.347750Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:59.539396Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:59.712842Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:59.873941Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:they do go"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:s'en vont"
+    ],
+    [
+      "TRANSLATION",
+      "rus:идут"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gidiyorlar"
     ]
   ]
 }

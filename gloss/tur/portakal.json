@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:19:55.135209Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:02.181060Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:02.181060Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:04.948000Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:05.125731Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:05.305981Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Apfelsine"
+    ],
+    [
+      "TRANSLATION",
+      "fra:orange"
+    ],
+    [
+      "TRANSLATION",
+      "ita:arancia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:апельсин"
     ]
   ]
 }

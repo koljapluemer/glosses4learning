@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:29.469215Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:54.507126Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:54.507126Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:12.916653Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:13.104975Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:13.298103Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:excursion"
+    ],
+    [
+      "TRANSLATION",
+      "fra:voyage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:viaggio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:путешествие"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:58:00.953072Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:58:00.953072Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:31.999411Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:32.211781Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:32.404535Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:32.574328Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,18 @@
     [
       "TRANSLATION",
       "fra:perroquet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Papagei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:попугай"
+    ],
+    [
+      "TRANSLATION",
+      "tur:papağan"
     ]
   ]
 }

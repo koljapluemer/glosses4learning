@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:45:14.129253Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:14:09.111722Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:14:09.111722Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:40:51.891746Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:52.050172Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:52.247443Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,14 @@
     [
       "TRANSLATION",
       "ita:domani"
+    ],
+    [
+      "TRANSLATION",
+      "spa:mañana"
+    ],
+    [
+      "TRANSLATION",
+      "rus:завтра"
     ]
   ]
 }

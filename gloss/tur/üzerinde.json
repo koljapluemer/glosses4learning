@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-02T09:37:31.491403Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:40.177643Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:40.177643Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:55.094039Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:55.300671Z": "TRANSLATION_DONE:ita"
   },
   "relationships": [
     [
@@ -60,6 +62,14 @@
     [
       "TRANSLATION",
       "fra:sur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sulla"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sopra"
     ]
   ]
 }

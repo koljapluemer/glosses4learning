@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:55.817476Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:55.817476Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:12:08.288344Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:12:08.468231Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:12:08.643022Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:12:08.831784Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:chosen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bevorzugt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:préféré"
+    ],
+    [
+      "TRANSLATION",
+      "rus:предпочтительный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tercih edilen"
     ]
   ]
 }

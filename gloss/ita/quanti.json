@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:00:49.879167Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:00:49.879167Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:12:52.697684Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:12:52.843348Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:12:52.987535Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:12:53.155878Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:what quantity"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wie viele"
+    ],
+    [
+      "TRANSLATION",
+      "fra:combien"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сколько"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kaç"
     ]
   ]
 }

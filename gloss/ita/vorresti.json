@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:49.781100Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:49.781100Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:55.337892Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:55.526068Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:55.702668Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:55.949762Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "fra:aimeriez"
+    ],
+    [
+      "TRANSLATION",
+      "deu:würdest du"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aimerais-tu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хотите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İstiyorsunuz, değil mi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "tur:istersin"
     ]
   ]
 }

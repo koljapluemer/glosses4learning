@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:47:45.632120Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:47:45.632120Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:20:41.430855Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:20:41.632076Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:20:41.823629Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:20:42.027226Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:20:42.265860Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:You have to"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie müssen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous devez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Devi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вы должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bunu yapmalısın"
     ]
   ]
 }

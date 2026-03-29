@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:14:05.939397Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T08:15:31.228645Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T08:15:31.228645Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:36.187649Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:36.369707Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:36.564811Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,14 @@
     [
       "TRANSLATION",
       "fra:donner"
+    ],
+    [
+      "TRANSLATION",
+      "ita:offrire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:предоставить"
     ]
   ]
 }

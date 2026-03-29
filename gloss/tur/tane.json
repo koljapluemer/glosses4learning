@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:45:06.559594Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:14:03.179515Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:14:03.179515Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:39:57.790868Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:57.960036Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:58.118181Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,18 @@
     [
       "TRANSLATION",
       "deu:Leib"
+    ],
+    [
+      "TRANSLATION",
+      "fra:un"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pezzi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:штук"
     ]
   ]
 }

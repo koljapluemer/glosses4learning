@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:14.487879Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:14.487879Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:09:57.536005Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:09:57.701252Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:09:57.890386Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:09:58.091890Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "ina:odia"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hass"
+    ],
+    [
+      "TRANSLATION",
+      "fra:haine"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ненависть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:nefret"
     ]
   ]
 }

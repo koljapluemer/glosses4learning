@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:50.271161Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:37:09.686616Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:37:09.686616Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:41:33.441914Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:33.626141Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:33.816169Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:kids"
+    ],
+    [
+      "TRANSLATION",
+      "fra:les enfants"
+    ],
+    [
+      "TRANSLATION",
+      "ita:i bambini"
+    ],
+    [
+      "TRANSLATION",
+      "rus:детей"
     ]
   ]
 }

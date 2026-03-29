@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:11.902056Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:51.937739Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:51.937739Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:25.425644Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:25.615771Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:25.789276Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,22 @@
     [
       "TRANSLATION",
       "deu:Sinn"
+    ],
+    [
+      "TRANSLATION",
+      "ita:significa"
+    ],
+    [
+      "TRANSLATION",
+      "fra:signification"
+    ],
+    [
+      "TRANSLATION",
+      "ita:significato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:значение"
     ]
   ]
 }

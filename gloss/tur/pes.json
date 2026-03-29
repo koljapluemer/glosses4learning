@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:56.509939Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:53.092463Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:53.092463Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:02.263929Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:02.441709Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:02.638093Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:leg"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pied"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pesce"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рыба"
     ]
   ]
 }

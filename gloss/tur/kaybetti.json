@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:44:52.825536Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T08:13:52.411451Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T08:13:52.411451Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:34.278341Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:34.462748Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:34.655050Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "fra:manquez"
+    ],
+    [
+      "TRANSLATION",
+      "fra:a perdu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ha perso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:проиграл"
     ]
   ]
 }

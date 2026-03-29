@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T15:25:10.020054Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:22.060485Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:22.060485Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:19.046847Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:19.229468Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:19.481636Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:wenn du dich nicht benimmst"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Si vous ne le faites pas"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Se non agirai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Если вы не будете вести себя определенным образом"
     ]
   ]
 }

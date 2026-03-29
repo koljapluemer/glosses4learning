@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:11:31.934429Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:19:17.963409Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:19:17.963409Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:38:14.079235Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:14.277589Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:14.464401Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:designers"
+    ],
+    [
+      "TRANSLATION",
+      "fra:architectes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:architetti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:архитекторы"
     ]
   ]
 }

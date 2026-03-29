@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:08:16.736262Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:08:16.736262Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:00.030294Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:00.211215Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:00.395216Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:00.575444Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to take pride in"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mir fehlen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ne pas avoir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:забывать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eldiven"
     ]
   ]
 }

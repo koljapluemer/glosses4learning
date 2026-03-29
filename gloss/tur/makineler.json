@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:19:12.228196Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:51.838721Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:51.838721Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:38:08.544149Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:38:08.735107Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:38:08.919380Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Geräte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:machines"
+    ],
+    [
+      "TRANSLATION",
+      "ita:macchinari"
+    ],
+    [
+      "TRANSLATION",
+      "rus:машины"
     ]
   ]
 }

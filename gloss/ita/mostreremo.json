@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:56:18.121166Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:56:18.121166Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:09:13.934216Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:09:14.091670Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:09:14.276118Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:09:14.479373Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:we will present"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir werden zeigen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous allons montrer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мы продемонстрируем"
+    ],
+    [
+      "TRANSLATION",
+      "tur:göstereceğiz"
     ]
   ]
 }

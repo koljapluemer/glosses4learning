@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:10.627567Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:19.588745Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:19.588745Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:27.766355Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:27.938521Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:28.124040Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:it is expressed"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Il est nécessaire de le faire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dildir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:определяет"
     ]
   ]
 }

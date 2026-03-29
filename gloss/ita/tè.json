@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:52.445592Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:52.445592Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:38.675872Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:38.854034Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:39.017657Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:39.196652Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,30 @@
     [
       "TRANSLATION",
       "eng:infusion"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tee"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chaud"
+    ],
+    [
+      "TRANSLATION",
+      "rus:чай"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çay"
+    ],
+    [
+      "TRANSLATION",
+      "mkd:чај"
+    ],
+    [
+      "TRANSLATION",
+      "spa:té"
     ]
   ]
 }

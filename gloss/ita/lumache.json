@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:58.451386Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:58.451386Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:09.657741Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:09.843159Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:10.011448Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:10.183601Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:shellfish"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schnecken"
+    ],
+    [
+      "TRANSLATION",
+      "fra:escargots"
+    ],
+    [
+      "TRANSLATION",
+      "rus:улитки"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tortallar"
     ]
   ]
 }

@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:15:31.949616Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:37.334887Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:37.334887Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:37.978901Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:38.170509Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:38.343762Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:Musikveranstaltung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Concert"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Concerto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Концерт"
     ]
   ]
 }

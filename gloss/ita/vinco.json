@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:09:13.464689Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:09:13.464689Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:18:31.523303Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:18:31.696160Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:18:31.885772Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:18:32.066768Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I defeat"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich gewinne"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je gagne"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я побеждаю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kazanırım"
     ]
   ]
 }

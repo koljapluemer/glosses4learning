@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:09:05.294590Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:45.377601Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:45.377601Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:56.371684Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:56.515094Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:56.690965Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -76,6 +79,26 @@
     [
       "TRANSLATION",
       "ita:Tua"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Eres"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Te"
+    ],
+    [
+      "TRANSLATION",
+      "tha:คุณ"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ты"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:00.219661Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:00.219661Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:15.993788Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:16.169977Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:16.361038Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:16.566946Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -79,6 +83,22 @@
     [
       "TRANSLATION",
       "eng:they are liked by them"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mir gefallen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils plaisent"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мне нравятся"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Beğeniyor"
     ]
   ]
 }

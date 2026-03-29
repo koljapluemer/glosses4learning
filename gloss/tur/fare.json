@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:20.760230Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:20.760230Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:59.658441Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:35:59.822414Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:59.988550Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:00.155487Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:cost"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ratón"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fahrt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:payer"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:плата"
     ]
   ]
 }

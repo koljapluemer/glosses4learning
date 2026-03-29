@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:14:50.799855Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:27.357792Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:27.357792Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:32:54.757655Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:32:54.964832Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:32:55.214099Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Person in den Sechzigern"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Soixante ans"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Sessantennale"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Шестдесятилетний"
     ]
   ]
 }

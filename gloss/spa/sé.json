@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:46.110830Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:46.110830Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:19.699632Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:19.871849Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:20.048386Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:20.238897Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:20.420363Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:I am aware"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich weiß"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:so"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я знаю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Biliyorum"
     ]
   ]
 }

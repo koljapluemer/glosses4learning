@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:42:35.655933Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:42:35.655933Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:20:52.660921Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:20:52.838844Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:20:53.018717Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:20:53.215851Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:20:53.411235Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:Type"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schreiben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Écrivez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Scrivere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Напишите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yazın"
     ]
   ]
 }

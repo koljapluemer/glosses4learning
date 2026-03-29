@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:21.292995Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:21.292995Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:07.349350Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:07.533973Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:07.727573Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:07.899920Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:08.099707Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:fowl"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vögel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:oiseaux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:uccelli"
+    ],
+    [
+      "TRANSLATION",
+      "rus:птицы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kuşlar"
     ]
   ]
 }

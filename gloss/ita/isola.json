@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:53:49.431727Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:53:49.431727Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:10.448354Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:10.628164Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:10.823019Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:10.992480Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:islet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Insel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:île"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остров"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ada"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:04:37.411860Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:04:37.411860Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:15:32.086006Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:15:32.264109Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:15:32.447291Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:15:32.626377Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,26 @@
     [
       "TRANSLATION",
       "eng:in that way"
+    ],
+    [
+      "TRANSLATION",
+      "deu:also"
+    ],
+    [
+      "TRANSLATION",
+      "fra:donc"
+    ],
+    [
+      "TRANSLATION",
+      "rus:так"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yani"
+    ],
+    [
+      "TRANSLATION",
+      "spa:sé"
     ]
   ]
 }

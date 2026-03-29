@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:30.877168Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:36:30.821521Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:36:30.821521Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:40:40.418577Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:40:40.615473Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:40:40.803872Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "eng:about lies"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mensonges"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dalle menzogne"
+    ],
+    [
+      "TRANSLATION",
+      "rus:От лжи"
     ]
   ]
 }

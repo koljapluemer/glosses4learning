@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:18:19.083264Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:34:36.170113Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:34:36.170113Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:42.564554Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:42.765268Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:42.957374Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:meines Lebens"
+    ],
+    [
+      "TRANSLATION",
+      "fra:de ma vie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:La mia vita"
+    ],
+    [
+      "TRANSLATION",
+      "rus:моей жизни"
     ]
   ]
 }

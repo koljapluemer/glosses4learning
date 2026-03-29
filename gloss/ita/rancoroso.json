@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:20.307049Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:20.307049Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:09.512500Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:09.719848Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:09.924985Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:10.155952Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:vindictive"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verbittert"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mécontent, rancunier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:злобный, обиженный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kavgacı, kinli"
     ]
   ]
 }

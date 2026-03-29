@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:43:26.814651Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:44:37.185301Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:44:37.185301Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:19.401852Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:19.627416Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:19.833618Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "eng:ninth"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Dix-neuf"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Dokuza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Девять"
     ]
   ]
 }

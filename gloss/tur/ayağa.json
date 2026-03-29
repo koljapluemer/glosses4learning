@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:16:23.166696Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:54.498656Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:54.498656Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:37.645036Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:37.835488Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:37.996382Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:auf die Beine kommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sur les pieds"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in piedi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:на ноги"
     ]
   ]
 }

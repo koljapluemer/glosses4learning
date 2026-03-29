@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:15:41.867612Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:33:41.379074Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:33:41.379074Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:33:52.602711Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:52.770710Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:52.952400Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:Polizei"
+    ],
+    [
+      "TRANSLATION",
+      "fra:La police"
+    ],
+    [
+      "TRANSLATION",
+      "ita:La polizia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Полиция"
     ]
   ]
 }

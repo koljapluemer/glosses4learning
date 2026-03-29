@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:52.866976Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:52.866976Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:22.752742Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:22.938990Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:23.139999Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:23.355305Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:lernen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:apprendre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:учиться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:öğrenmek"
     ]
   ]
 }

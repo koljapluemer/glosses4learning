@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:19.064508Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:19.064508Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:32.747284Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:32.929796Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:33.114446Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:33.309790Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:33.506556Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:chick"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mädchen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fille"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ragazza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:девочка"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kız"
     ]
   ]
 }

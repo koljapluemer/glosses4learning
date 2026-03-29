@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:01:26.537663Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:01:26.537663Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:13:14.111574Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:13:14.328038Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:13:14.543464Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:13:14.729280Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:discriminators"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rassisten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:les partisans du racisme"
+    ],
+    [
+      "TRANSLATION",
+      "rus:разбивать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:razzist"
     ]
   ]
 }

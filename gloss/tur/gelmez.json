@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T08:15:07.740758Z": "TRANSLATION_DONE:eng",
-    "2026-01-11T19:17:07.091286Z": "TRANSLATION_DONE:deu"
+    "2026-01-11T19:17:07.091286Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:06.846559Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:07.048771Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:07.207350Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:wird nicht kommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ineffable"
+    ],
+    [
+      "TRANSLATION",
+      "ita:impossibile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:невозможно"
     ]
   ]
 }

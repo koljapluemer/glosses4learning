@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:26.540138Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:26.540138Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:46.796865Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:46.964375Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:47.136160Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:47.331286Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:47.516988Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +24,26 @@
     [
       "TRANSLATION",
       "eng:contrary"
+    ],
+    [
+      "TRANSLATION",
+      "deu:im Gegensatz"
+    ],
+    [
+      "TRANSLATION",
+      "fra:inversement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:opposto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:наоборот"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zıt"
     ]
   ]
 }

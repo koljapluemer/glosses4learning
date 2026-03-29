@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "tur:Tom ve ben bu sabah konuştuk"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir haben gesprochen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We spoke"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous avons parlé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:abbiamo parlato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мы разговаривали"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:37:52.827422Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:37:53.025023Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:37:53.230122Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:37:53.422504Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:37:53.601460Z": "TRANSLATION_DONE:rus"
+  }
 }

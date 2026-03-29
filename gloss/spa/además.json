@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:48:10.845487Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:48:10.845487Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:21:51.521405Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:21:51.707745Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:21:51.878594Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:21:52.036232Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:21:52.221121Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:moreover"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zusätzlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:de plus"
+    ],
+    [
+      "TRANSLATION",
+      "ita:inoltre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Кроме того"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ayrıca"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:25:22.362103Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:25:22.362103Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:01.933822Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:36:02.100641Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:02.291299Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:02.468015Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:soccer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fußball"
+    ],
+    [
+      "TRANSLATION",
+      "fra:au football"
+    ],
+    [
+      "TRANSLATION",
+      "ita:al calcio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:футболу"
     ]
   ]
 }

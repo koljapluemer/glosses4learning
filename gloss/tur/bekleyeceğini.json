@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-27T15:25:08.434301Z": "TRANSLATION_DONE:eng",
-    "2026-01-27T15:26:14.482656Z": "TRANSLATION_DONE:deu"
+    "2026-01-27T15:26:14.482656Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:34:51.994691Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:34:52.188414Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:34:52.338615Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -28,6 +31,18 @@
     [
       "TRANSLATION",
       "deu:du wirst erwarten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:qu'il attend"
+    ],
+    [
+      "TRANSLATION",
+      "ita:che dovrà aspettare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ждать"
     ]
   ]
 }

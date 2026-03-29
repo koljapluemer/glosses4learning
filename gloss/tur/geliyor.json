@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:10:25.042179Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:17:45.471913Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:17:45.471913Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:36:05.736491Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:36:05.913041Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:36:06.066060Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,14 @@
     [
       "TRANSLATION",
       "ita:arriva"
+    ],
+    [
+      "TRANSLATION",
+      "fra:arrive, arrive bientôt"
+    ],
+    [
+      "TRANSLATION",
+      "rus:приходит"
     ]
   ]
 }

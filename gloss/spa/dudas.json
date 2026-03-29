@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:41.875688Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:41.875688Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:23:19.864605Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:23:20.025766Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:23:20.188845Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:23:20.365841Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:23:20.561352Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:concerns"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zweifel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:doutes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dubbi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сомнения"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Şüpheler"
     ]
   ]
 }

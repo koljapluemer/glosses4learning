@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:37:16.854057Z": "TRANSLATION_DONE:eng",
-    "2026-01-03T07:35:36.482527Z": "TRANSLATION_DONE:deu"
+    "2026-01-03T07:35:36.482527Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:41:40.240121Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:41:40.480663Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:41:40.671060Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -32,6 +35,18 @@
     [
       "TRANSLATION",
       "deu:in der Lage sein zu bezahlen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peut être payé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:può essere pagato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:возможно оплатить"
     ]
   ]
 }

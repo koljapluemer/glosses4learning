@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:22:30.430461Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:22:30.430461Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:56.841020Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:57.029591Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:57.212377Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:57.392763Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:57.596643Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:fault"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schuld"
+    ],
+    [
+      "TRANSLATION",
+      "fra:responsabilité"
+    ],
+    [
+      "TRANSLATION",
+      "ita:colpa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:suçluluk"
     ]
   ]
 }

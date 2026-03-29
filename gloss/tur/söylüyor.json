@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:12:15.661296Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:20:24.222935Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:20:24.222935Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:39:48.566738Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:39:48.752764Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:39:48.940344Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -48,6 +51,18 @@
     [
       "TRANSLATION",
       "eng:is telling"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il dit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:afferma"
+    ],
+    [
+      "TRANSLATION",
+      "rus:говорит"
     ]
   ]
 }

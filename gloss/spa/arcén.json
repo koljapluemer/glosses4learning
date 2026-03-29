@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:05.356918Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:05.356918Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:05.483236Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:05.646681Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:05.837636Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:06.024150Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:06.217346Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:verge"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rampen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:piste"
+    ],
+    [
+      "TRANSLATION",
+      "ita:parco"
+    ],
+    [
+      "TRANSLATION",
+      "rus:бордюр"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yüksek nokta"
     ]
   ]
 }

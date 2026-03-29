@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:59:03.904102Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:59:03.904102Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:11:22.148507Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:11:22.343611Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:11:22.527494Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:11:22.740844Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "eng:found appealing"
+    ],
+    [
+      "TRANSLATION",
+      "deu:angenehm"
+    ],
+    [
+      "TRANSLATION",
+      "fra:apprécié"
+    ],
+    [
+      "TRANSLATION",
+      "rus:понравилось"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beğenildi"
     ]
   ]
 }

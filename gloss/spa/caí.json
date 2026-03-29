@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:11.689496Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:11.689496Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:22:29.732874Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:22:29.915430Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:22:30.120544Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:22:30.329215Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:22:30.528302Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +28,26 @@
     [
       "TRANSLATION",
       "eng:I dropped"
+    ],
+    [
+      "TRANSLATION",
+      "deu:fiel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tomber"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sono caduto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я упал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:düştüm"
     ]
   ]
 }

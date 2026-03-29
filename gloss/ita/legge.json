@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:54:34.895498Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:54:34.895498Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:07:52.473038Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:07:52.660092Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:07:52.830495Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:07:52.985950Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:legislation"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gesetz"
+    ],
+    [
+      "TRANSLATION",
+      "fra:loi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:закон"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yasa"
+    ],
+    [
+      "TRANSLATION",
+      "spa:leyó"
     ]
   ]
 }

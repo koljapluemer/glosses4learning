@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:00:02.694544Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:00:02.694544Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:12:15.472999Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:12:15.653660Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:12:15.844483Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:12:16.035776Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "deu:zugerichtet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zubereitet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:préparé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:подготовленный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Hazırlanmış"
     ]
   ]
 }

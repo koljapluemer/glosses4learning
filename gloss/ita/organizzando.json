@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:57:32.520430Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:57:32.520430Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:10:11.408470Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:10:11.586419Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:10:11.758017Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:10:11.952821Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:setting up"
+    ],
+    [
+      "TRANSLATION",
+      "deu:durch die Organisation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en organisant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:организуя"
+    ],
+    [
+      "TRANSLATION",
+      "tur:düzenleyerek"
     ]
   ]
 }

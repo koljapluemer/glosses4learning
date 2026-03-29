@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-02T09:08:46.758867Z": "TRANSLATION_DONE:deu",
-    "2026-01-02T09:15:16.502204Z": "TRANSLATION_DONE:eng"
+    "2026-01-02T09:15:16.502204Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:33:24.202977Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:33:24.365454Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:33:24.528011Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -40,6 +43,14 @@
     [
       "TRANSLATION",
       "ita:Se"
+    ],
+    [
+      "TRANSLATION",
+      "tha:ถ้า"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Если"
     ]
   ]
 }

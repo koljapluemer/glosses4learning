@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:44:58.507798Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:44:58.507798Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:27:52.720884Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:27:52.898697Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:27:53.054991Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:27:53.245199Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:27:53.436381Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:you all go"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gehen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:allez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vadano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пожалуйста"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yayan"
     ]
   ]
 }

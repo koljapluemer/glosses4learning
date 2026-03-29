@@ -6,7 +6,10 @@
   ],
   "logs": {
     "2026-01-03T07:34:15.385200Z": "TRANSLATION_DONE:deu",
-    "2026-01-03T07:36:53.702780Z": "TRANSLATION_DONE:eng"
+    "2026-01-03T07:36:53.702780Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:35:55.285286Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:35:55.458529Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:35:55.664920Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -36,6 +39,18 @@
     [
       "TRANSLATION",
       "eng:hesheit has eaten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:atteint"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ho fatto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:достигнуто"
     ]
   ]
 }

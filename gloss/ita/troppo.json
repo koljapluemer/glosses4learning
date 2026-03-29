@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T15:07:33.812923Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T15:07:33.812923Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:17:26.730947Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:17:26.907951Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:17:27.062511Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:17:27.225238Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -67,6 +71,18 @@
     [
       "TRANSLATION",
       "fra:trop"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zu viel"
+    ],
+    [
+      "TRANSLATION",
+      "rus:слишком"
+    ],
+    [
+      "TRANSLATION",
+      "tur:fazla"
     ]
   ]
 }

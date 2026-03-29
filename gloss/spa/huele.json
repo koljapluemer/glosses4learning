@@ -5,7 +5,12 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-22T15:43:53.283120Z": "TRANSLATION_DONE:eng"
+    "2026-01-22T15:43:53.283120Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:24:31.601872Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:24:31.798259Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:24:31.989114Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:24:32.165065Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:24:32.357224Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +32,26 @@
     [
       "TRANSLATION",
       "eng:odor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geruch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:odeur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ha un odore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:запах"
+    ],
+    [
+      "TRANSLATION",
+      "tur:koku"
     ]
   ]
 }

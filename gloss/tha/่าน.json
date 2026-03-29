@@ -8,6 +8,38 @@
     [
       "USAGE_EXAMPLE",
       "tha:ฉันต้องการเวลามากกว่านี้"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Keine Übersetzung möglich, da der Text ่าน keine Bedeutung hat"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Inhaler"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Non ho capito"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Невозможно перевести"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Bu ifade için uygun bir çeviri bulunmamaktadır. Lütfen daha fazla bağlam sağlayın.)"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:32:50.292463Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:32:50.482965Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:32:50.678063Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:32:50.881654Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T14:32:51.089142Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:32:51.447596Z": "TRANSLATION_DONE:tur"
+  }
 }

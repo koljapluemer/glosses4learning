@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:55:02.537341Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:55:02.537341Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:08:12.531252Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:08:12.693241Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:08:12.883984Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:08:13.064658Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:lone wolf"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wolf"
+    ],
+    [
+      "TRANSLATION",
+      "fra:loup"
+    ],
+    [
+      "TRANSLATION",
+      "rus:волк"
+    ],
+    [
+      "TRANSLATION",
+      "tur:aslan"
     ]
   ]
 }
