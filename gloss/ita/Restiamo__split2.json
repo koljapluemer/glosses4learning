@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:50.221447Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:50.221447Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:17.140041Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:17.323201Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:17.511894Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:17.717681Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Let's remain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bleiben wir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Restons"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Давайте останемся"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kalalım"
     ]
   ]
 }

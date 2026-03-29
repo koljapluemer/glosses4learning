@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:41.853478Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:41.853478Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:37.672665Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:37.832480Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:38.032407Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:38.192088Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Have"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Prenez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Prendi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Возьмите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Al"
     ]
   ]
 }

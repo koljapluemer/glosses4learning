@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:09.550987Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:09.550987Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:34.317745Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:34.497887Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:34.686027Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:34.853640Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -67,6 +71,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout cela appartient au passé maintenant"
+    ],
+    [
+      "TRANSLATION",
+      "deu:auf"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ay"
     ]
   ]
 }

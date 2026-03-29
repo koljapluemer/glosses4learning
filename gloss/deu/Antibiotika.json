@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:25.811130Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:25.811130Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:27.072097Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:27.250381Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:27.442856Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:antibiotic drugs"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Antibiotiques"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Antibiotici"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Антибиотики"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:30.101738Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:30.101738Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:40.450632Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:40.609548Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:40.797422Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:40.981112Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich danke Ihnen für alles, was Sie heute für mich getan haben!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:obtenu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ottenuto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:получено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:alınmış"
     ]
   ]
 }

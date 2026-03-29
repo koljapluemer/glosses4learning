@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:19.522331Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:19.522331Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:46.284156Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:46.463198Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:46.631660Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:46.808717Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Es hat ja niemand gesagt, dass du nicht dein Bestes gegeben hättest"
+    ],
+    [
+      "TRANSLATION",
+      "fra:personne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nessuno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:никто"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kimse"
     ]
   ]
 }

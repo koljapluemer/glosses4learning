@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:06.839882Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:06.839882Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:12.409827Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:12.574678Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:12.765884Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:12.919248Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Seine Mitschüler machen sich immer über diesen Jungen lustig"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Le fleuve Seine"
+    ],
+    [
+      "TRANSLATION",
+      "ita:I suoi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Его"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Onun"
     ]
   ]
 }

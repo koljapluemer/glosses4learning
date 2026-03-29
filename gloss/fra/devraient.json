@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles ne devraient pas avoir confiance en Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sollten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:should"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dovrebbero"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerekmeli"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:53.808585Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:53.990134Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:54.166171Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:54.358975Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:54.569919Z": "TRANSLATION_DONE:tur"
+  }
 }

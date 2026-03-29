@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les grands hommes ne sont pas toujours sages"
+    ],
+    [
+      "TRANSLATION",
+      "deu:groß"
+    ],
+    [
+      "TRANSLATION",
+      "ita:grandi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:огромные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:büyük"
     ]
   ],
   "logs": {
-    "2026-03-28T15:42:51.700280Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:42:51.700280Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:36:32.244969Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:36:32.430568Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:36:32.604478Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:36:32.785189Z": "TRANSLATION_DONE:tur"
   }
 }

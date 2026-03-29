@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:01.353142Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:01.353142Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:30.943936Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:31.129245Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:31.315219Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:31.510297Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:make an effort"
+    ],
+    [
+      "TRANSLATION",
+      "fra:essais"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tentativi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:попытки"
+    ],
+    [
+      "TRANSLATION",
+      "tur:denemeler"
     ]
   ]
 }

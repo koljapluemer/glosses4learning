@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:55.520479Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:55.520479Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:30:32.181124Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:30:32.351422Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:30:32.518899Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:30:32.732815Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Toutes les étudiantes sont rentrées chez elles"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bei"
+    ],
+    [
+      "TRANSLATION",
+      "ita:presso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şirket içinde"
     ]
   ]
 }

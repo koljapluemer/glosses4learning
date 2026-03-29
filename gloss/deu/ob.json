@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:28.680606Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:28.680606Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:52.638017Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:52.803885Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -35,6 +37,14 @@
     [
       "USAGE_EXAMPLE",
       "deu:Die Frage ist, ob meine Eltern damit einverstanden sein werden oder nicht"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a seconda di"
+    ],
+    [
+      "TRANSLATION",
+      "rus:об"
     ]
   ]
 }

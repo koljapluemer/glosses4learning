@@ -2,7 +2,12 @@
   "content": "Dorf",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T13:12:13.762214Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:13.931405Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:14.110131Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:14.285335Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -19,6 +24,22 @@
     [
       "TRANSLATION",
       "eng:town"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Village"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Villaggio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Деревня"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Köy"
     ]
   ]
 }

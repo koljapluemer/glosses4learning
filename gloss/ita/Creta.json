@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:34:43.450750Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:34:43.450750Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:41.481713Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:41.676496Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:41.863732Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:42.034276Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Ceramic material"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kreta"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Crète"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Крит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kreta"
     ]
   ]
 }

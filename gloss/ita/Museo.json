@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:39.249751Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:39.249751Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:24.531826Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:24.753233Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:24.939418Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:25.140562Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Cultural institution"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Museum"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Musée"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Музей"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Müze"
     ]
   ]
 }

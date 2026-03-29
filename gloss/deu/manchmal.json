@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Dieser Schüler gibt manchmal vor, krank zu sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sometimes"
+    ],
+    [
+      "TRANSLATION",
+      "fra:parfois"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a volte"
+    ],
+    [
+      "TRANSLATION",
+      "rus:иногда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bazen"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:21:22.229189Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:22.425384Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:22.611561Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:22.790810Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:22.959606Z": "TRANSLATION_DONE:tur"
+  }
 }

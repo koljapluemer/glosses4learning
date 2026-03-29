@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:10.202720Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:10.202720Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:01.171181Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:01.376324Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:01.573430Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:01.759676Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -55,6 +59,22 @@
     [
       "TRANSLATION",
       "eng:Epoch"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es war"
+    ],
+    [
+      "TRANSLATION",
+      "fra:C'était"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Это было"
+    ],
+    [
+      "TRANSLATION",
+      "tur:O zaman"
     ]
   ]
 }

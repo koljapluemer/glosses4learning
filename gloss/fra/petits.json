@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les billets se sont vendus comme des petits pains"
+    ],
+    [
+      "TRANSLATION",
+      "deu:klein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:small"
+    ],
+    [
+      "TRANSLATION",
+      "ita:piccoli"
+    ],
+    [
+      "TRANSLATION",
+      "rus:маленькие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:küçük"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:42:26.714064Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:26.859977Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:42:27.010738Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:27.183285Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:27.338803Z": "TRANSLATION_DONE:tur"
+  }
 }

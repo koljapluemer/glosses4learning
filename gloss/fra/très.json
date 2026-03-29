@@ -76,9 +76,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je suis dans une très belle maison"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sehr"
+    ],
+    [
+      "TRANSLATION",
+      "ita:molto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:очень"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çok"
     ]
   ],
   "logs": {
-    "2026-03-28T15:38:45.205626Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:45.205626Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:21.292012Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:21.467820Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:21.632117Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:21.784369Z": "TRANSLATION_DONE:tur"
   }
 }

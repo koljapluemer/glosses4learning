@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:06.339128Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:06.339128Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:56.941249Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:57.090390Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:57.268573Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:57.433201Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -55,6 +59,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Bist du mit deinen Hausaufgaben schon fertig﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le vô"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tuo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:твои"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sana"
     ]
   ]
 }

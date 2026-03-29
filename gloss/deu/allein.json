@@ -25,9 +25,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe euch doch gesagt, daß ihr allein kommen sollt!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:seul"
+    ],
+    [
+      "TRANSLATION",
+      "ita:da soloa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:один"
+    ],
+    [
+      "TRANSLATION",
+      "fra:seule"
+    ],
+    [
+      "TRANSLATION",
+      "fra:seules"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:16:39.067728Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:39.270709Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:39.466273Z": "TRANSLATION_DONE:rus"
+  }
 }

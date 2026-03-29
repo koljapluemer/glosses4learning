@@ -32,9 +32,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elle parlait beaucoup, mais ne disait rien"
+    ],
+    [
+      "TRANSLATION",
+      "deu:aber"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sondern"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tuttavia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:но"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ancak"
     ]
   ],
   "logs": {
-    "2026-03-28T15:41:46.366798Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:41:46.366798Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:52.763809Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:52.947168Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:53.089042Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:38:53.273327Z": "TRANSLATION_DONE:tur"
   }
 }

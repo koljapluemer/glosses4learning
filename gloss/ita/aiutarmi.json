@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:42:57.864992Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:42:57.864992Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:03.947982Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:04.136756Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:04.344318Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:04.538097Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:support me"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mir helfen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aidez-moi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помогите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yardım et"
     ]
   ]
 }

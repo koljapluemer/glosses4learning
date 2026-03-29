@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:51.125097Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:51.125097Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:37.648206Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:37.841122Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:38.094703Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:38.340399Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:troublesome"
+    ],
+    [
+      "TRANSLATION",
+      "deu:anspruchsvoll"
+    ],
+    [
+      "TRANSLATION",
+      "fra:exigeant, pointilleux"
+    ],
+    [
+      "TRANSLATION",
+      "rus:требовательные, придирчивые"
+    ],
+    [
+      "TRANSLATION",
+      "tur:detaylara çok dikkat eden, seçici"
     ]
   ]
 }

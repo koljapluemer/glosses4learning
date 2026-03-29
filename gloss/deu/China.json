@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:44:24.851634Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:44:24.851634Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:01.945655Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:02.131036Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:02.298790Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:02.487368Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:People's Republic of China"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Chine"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Cina"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Китай"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Çin"
     ]
   ]
 }

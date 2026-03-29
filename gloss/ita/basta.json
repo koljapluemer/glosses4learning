@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:52.736798Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:52.736798Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:38.277802Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:38.478900Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:38.648077Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:38.851629Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:stop"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgeschieden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:suffit"
+    ],
+    [
+      "TRANSLATION",
+      "rus:достаточно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yeter"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:52.710513Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:52.710513Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:44.947034Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:45.134971Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:45.307711Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:45.492371Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:travel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:conduis"
+    ],
+    [
+      "TRANSLATION",
+      "ita:guida"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вожу"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sürüş"
     ]
   ]
 }

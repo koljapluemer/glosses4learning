@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:39.380192Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:39.380192Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:17.288959Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:17.449213Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:17.637905Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:17.847779Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:easily breakable"
+    ],
+    [
+      "TRANSLATION",
+      "deu:brüchig"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fragile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хрупкий"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kırılgan"
     ]
   ]
 }

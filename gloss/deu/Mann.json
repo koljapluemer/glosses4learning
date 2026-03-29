@@ -36,9 +36,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Dieser Mann kann sich nicht selbst umgebracht haben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Homme"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Uomo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мужчина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Erkek"
+    ],
+    [
+      "TRANSLATION",
+      "fra:homme"
     ]
   ],
   "logs": {
-    "2026-03-28T16:37:02.622574Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:37:02.622574Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:09.694035Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:09.863358Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:10.059669Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:10.231588Z": "TRANSLATION_DONE:tur"
   }
 }

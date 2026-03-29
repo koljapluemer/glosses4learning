@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Vous n'êtes pas aussi jeunes que Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sind Sie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:are you"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non siete"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:siz"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:40:26.939396Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:27.114488Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:40:27.284242Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:27.437536Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:40:27.616305Z": "TRANSLATION_DONE:tur"
+  }
 }

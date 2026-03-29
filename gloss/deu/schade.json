@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:45.544661Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:45.544661Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:08.048123Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:08.221715Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:08.415034Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "eng:what a waste"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dommage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:perdita"
+    ],
+    [
+      "TRANSLATION",
+      "rus:страшно"
     ]
   ]
 }

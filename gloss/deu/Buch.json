@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:44:23.310266Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:44:23.310266Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:58.268619Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:58.483626Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:58.703778Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:11:58.897858Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ihnen wird dieses Buch wahrscheinlich nicht gefallen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Livre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Libro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Книга"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kitap"
+    ],
+    [
+      "TRANSLATION",
+      "fra:livre"
+    ],
+    [
+      "TRANSLATION",
+      "hrv:knjiga"
     ]
   ]
 }

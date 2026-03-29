@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:33.281310Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:33.281310Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:19.850922Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:20.015942Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:20.219034Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:20.412566Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,34 @@
     [
       "TRANSLATION",
       "eng:they possessed"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hatten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aient"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avaient"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie hatten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils avaient"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у них было"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahip olmalarıydı"
     ]
   ]
 }

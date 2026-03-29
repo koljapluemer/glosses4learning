@@ -9,9 +9,35 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai sauté le petit-déjeuner, alors j'ai faim"
+    ],
+    [
+      "TRANSLATION",
+      "dan:så"
+    ],
+    [
+      "TRANSLATION",
+      "deu:also"
+    ],
+    [
+      "TRANSLATION",
+      "eng:so"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quindi"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o zaman"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:27:34.977619Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:35.138218Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:35.311001Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:35.488886Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:36.210021Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:36.210021Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:05.664103Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:05.911977Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:06.161862Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:06.431390Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:cream of semolina"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Purée de grains de blé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Zuppa di farina d'avena"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Крупа, сваренная в воде"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mısır yulafı çorbası"
     ]
   ]
 }

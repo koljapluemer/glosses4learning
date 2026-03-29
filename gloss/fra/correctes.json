@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ces phrases sont-elles correctes ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:korrekt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:corrected"
+    ],
+    [
+      "TRANSLATION",
+      "ita:corretti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:исправлены"
+    ],
+    [
+      "TRANSLATION",
+      "tur:doğrulanmış"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:31:48.702541Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:48.866683Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:49.059058Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:49.266907Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:49.486786Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:37.285881Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:37.285881Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:14.424367Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:14.627321Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:14.829698Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:15.038091Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:North African dish"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Couscous"
+    ],
+    [
+      "TRANSLATION",
+      "fra:couscous"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кускус"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kus kus"
     ]
   ]
 }

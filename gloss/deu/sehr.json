@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:56.020996Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:56.020996Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:20.614719Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:20.781096Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:20.977774Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -63,6 +66,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Meine Großmutter väterlicherseite ist der Teezeremonie sehr zugetan"
+    ],
+    [
+      "TRANSLATION",
+      "fra:très"
+    ],
+    [
+      "TRANSLATION",
+      "ita:molto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:очень"
     ]
   ]
 }

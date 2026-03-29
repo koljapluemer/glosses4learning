@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:42.473755Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:42.473755Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:47.061219Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:47.229468Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:47.402866Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:47.575405Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,26 @@
     [
       "TRANSLATION",
       "eng:to what place"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wo"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wohin"
+    ],
+    [
+      "TRANSLATION",
+      "fra:où"
+    ],
+    [
+      "TRANSLATION",
+      "rus:где"
+    ],
+    [
+      "TRANSLATION",
+      "tur:nerede"
     ]
   ]
 }

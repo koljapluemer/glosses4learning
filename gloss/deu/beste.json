@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-20T14:23:08.515Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-20T14:23:22.241Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-20T14:23:22.241Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:17:34.847956Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:35.066760Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:35.270316Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:35.461205Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -30,6 +34,30 @@
     [
       "TRANSLATION",
       "eng:finest"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le meilleur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:migliore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лучший"
+    ],
+    [
+      "TRANSLATION",
+      "tur:en iyi"
+    ],
+    [
+      "TRANSLATION",
+      "fra:meilleures"
+    ],
+    [
+      "TRANSLATION",
+      "fra:meilleurs"
     ]
   ]
 }

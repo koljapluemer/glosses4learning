@@ -13,9 +13,36 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das passiert nur einmal alle hundert Jahre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:happens"
+    ],
+    [
+      "TRANSLATION",
+      "fra:se produit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:accade"
+    ],
+    [
+      "TRANSLATION",
+      "rus:происходит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oluyor"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:21:54.940328Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:55.113766Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:55.304914Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:55.499648Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:55.666603Z": "TRANSLATION_DONE:tur"
+  }
 }

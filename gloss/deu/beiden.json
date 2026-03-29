@@ -24,9 +24,29 @@
     [
       "USAGE_EXAMPLE",
       "deu:Diese beiden Angelegenheiten hängen nicht miteinander zusammen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:les deux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:entrambi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обоим"
+    ],
+    [
+      "TRANSLATION",
+      "tur:her ikisi"
     ]
   ],
   "logs": {
-    "2026-03-28T16:38:09.080733Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:38:09.080733Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:21.917654Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:22.100504Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:22.276332Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:22.459829Z": "TRANSLATION_DONE:tur"
   }
 }

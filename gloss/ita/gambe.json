@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:49.417685Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:49.417685Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:28.442589Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:28.617470Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:28.785690Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:28.961420Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:lower limbs"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beine"
+    ],
+    [
+      "TRANSLATION",
+      "fra:jambe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ноги"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bacaklar"
     ]
   ]
 }

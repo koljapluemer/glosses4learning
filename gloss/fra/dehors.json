@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette maison est en dehors du réseau électrique"
+    ],
+    [
+      "TRANSLATION",
+      "deu:außen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:outside"
+    ],
+    [
+      "TRANSLATION",
+      "ita:esterno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:снаружи"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dış"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:30.506030Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:30.695036Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:30.852830Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:31.024054Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:31.218213Z": "TRANSLATION_DONE:tur"
+  }
 }

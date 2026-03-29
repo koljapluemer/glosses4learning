@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:36.251986Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:36.251986Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:08.213808Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:08.400452Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:08.572639Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -63,6 +66,22 @@
     [
       "TRANSLATION",
       "deu:Hast"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hast"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous avez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у тебя есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:evet"
     ]
   ]
 }

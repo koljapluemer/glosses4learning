@@ -21,9 +21,36 @@
     [
       "USAGE_EXAMPLE",
       "fra:La maison est assurée contre les incendies"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gegen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:against"
+    ],
+    [
+      "TRANSLATION",
+      "ita:contro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:против"
+    ],
+    [
+      "TRANSLATION",
+      "tur:karşısında, karşına"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:31:38.963983Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:39.126599Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:39.292259Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:39.471755Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:39.704385Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -192,6 +192,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce que vous voulez manger une pizza végétarienne ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Is"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Est"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Оценка"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Est"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:25:23.461620Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:23.630538Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:23.823433Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:24.013158Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:24.200086Z": "TRANSLATION_DONE:tur"
+  }
 }

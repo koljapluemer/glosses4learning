@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:56.006169Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:56.006169Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:32.078910Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:32.267254Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:32.474488Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:32.678634Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:they could grasp"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstanden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ils comprennent"
+    ],
+    [
+      "TRANSLATION",
+      "rus:понимали"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anlayın"
     ]
   ]
 }

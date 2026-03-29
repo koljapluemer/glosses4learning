@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:47:05.041719Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:47:05.041719Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:31.212359Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:31.390782Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:31.578079Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:31.774344Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:behaving"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verhalten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:agissant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ведя себя"
+    ],
+    [
+      "TRANSLATION",
+      "tur:davranış"
     ]
   ]
 }

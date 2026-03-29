@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:40.870753Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:40.870753Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:01.630603Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:01.796633Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:02.001912Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:02.186935Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Romance-speaking"
+    ],
+    [
+      "TRANSLATION",
+      "fra:roman"
+    ],
+    [
+      "TRANSLATION",
+      "ita:romanico"
+    ],
+    [
+      "TRANSLATION",
+      "rus:романский"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Roma tarzı"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:08.068898Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:08.068898Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:48.094053Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:48.274940Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:48.485567Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:48.693626Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:contacts"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Lentilles de contact"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Lenti a contatto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Контактные линзы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kontakt lensleri"
     ]
   ]
 }

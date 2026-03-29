@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:45.071631Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:45.071631Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:04.623344Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:04.812199Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:04.979726Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:05.165688Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,30 @@
     [
       "TRANSLATION",
       "eng:around"
+    ],
+    [
+      "TRANSLATION",
+      "fra:environ"
+    ],
+    [
+      "TRANSLATION",
+      "ita:approssimativamente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:примерно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yaklaşık olarak"
+    ],
+    [
+      "TRANSLATION",
+      "ita:approssimativo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:circa"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:49.745088Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:49.745088Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:00.234701Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:00.415043Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:00.593004Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:00.780444Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:they are required to"
+    ],
+    [
+      "TRANSLATION",
+      "deu:müssen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:doivent"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerekiyor"
     ]
   ]
 }

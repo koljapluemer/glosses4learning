@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:24.944897Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:24.944897Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:06.050169Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:06.247576Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:06.400956Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:06.583582Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:might be"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vielleicht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peut-être"
+    ],
+    [
+      "TRANSLATION",
+      "rus:возможно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:belki"
     ]
   ]
 }

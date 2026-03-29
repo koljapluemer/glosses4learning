@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je voudrais une salade, s'il vous plaît"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Salat"
+    ],
+    [
+      "TRANSLATION",
+      "eng:salad"
+    ],
+    [
+      "TRANSLATION",
+      "ita:insalata"
+    ],
+    [
+      "TRANSLATION",
+      "rus:салат"
+    ],
+    [
+      "TRANSLATION",
+      "tur:salata"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:46:39.610626Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:39.785607Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:39.970781Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:46:40.176416Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:46:40.390389Z": "TRANSLATION_DONE:tur"
+  }
 }

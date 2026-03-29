@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:57.952111Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:57.952111Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:53.499742Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:53.673753Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:53.857765Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:54.057752Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:precipitation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Pluie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Pioggia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Дождь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yağmur"
     ]
   ]
 }

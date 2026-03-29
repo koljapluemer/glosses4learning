@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:58.647813Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:58.647813Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:55.132699Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:55.314945Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:55.506290Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:55.698028Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:fuming"
+    ],
+    [
+      "TRANSLATION",
+      "deu:stark gewürzt, scharf"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en colère"
+    ],
+    [
+      "TRANSLATION",
+      "rus:острая"
+    ],
+    [
+      "TRANSLATION",
+      "tur:acı, kızgın"
     ]
   ]
 }

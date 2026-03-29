@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'est une ville à croissance rapide"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wachstum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:growth"
+    ],
+    [
+      "TRANSLATION",
+      "ita:crescita"
+    ],
+    [
+      "TRANSLATION",
+      "rus:рост"
+    ],
+    [
+      "TRANSLATION",
+      "tur:büyüme"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:03.445547Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:03.630916Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:03.819358Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:04.025583Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:04.221915Z": "TRANSLATION_DONE:tur"
+  }
 }

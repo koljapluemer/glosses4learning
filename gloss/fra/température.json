@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Quelle est la température de l'air aujourd'hui ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Temperatur"
+    ],
+    [
+      "TRANSLATION",
+      "eng:temperature"
+    ],
+    [
+      "TRANSLATION",
+      "ita:temperatura"
+    ],
+    [
+      "TRANSLATION",
+      "rus:температура"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sıcaklık"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:48:41.289645Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:48:41.463719Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:48:41.614007Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:48:41.779170Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:48:41.960283Z": "TRANSLATION_DONE:tur"
+  }
 }

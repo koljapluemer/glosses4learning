@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:10.663000Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:10.663000Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:13.586040Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:13.792952Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:14.020761Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:14.203705Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Togliatti municipality"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Togliatti"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Togliatti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Тольятти"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tolya"
     ]
   ]
 }

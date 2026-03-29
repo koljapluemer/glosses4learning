@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:15.664484Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:15.664484Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:08.625262Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:08.821200Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:09.005407Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:09.209497Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:looked forward to"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erwartet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:attendu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ожидаемый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bekleniyordu"
     ]
   ]
 }

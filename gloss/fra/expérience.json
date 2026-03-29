@@ -32,9 +32,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je sais que c'est une expérience"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erfahrung"
+    ],
+    [
+      "TRANSLATION",
+      "ita:esperienza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:опыт"
+    ],
+    [
+      "TRANSLATION",
+      "tur:deneyim"
     ]
   ],
   "logs": {
-    "2026-03-28T15:39:11.214460Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:39:11.214460Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:35:10.792138Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:35:10.967400Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:35:11.176895Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:35:11.348006Z": "TRANSLATION_DONE:tur"
   }
 }

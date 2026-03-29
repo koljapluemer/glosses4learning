@@ -36,9 +36,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne restez pas plantée là. Dites quelque chose !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sagen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Dite"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Скажите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Değerinizi belirtin"
     ]
   ],
   "logs": {
-    "2026-03-28T15:44:59.184712Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:44:59.184712Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:17.493553Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:17.703178Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:17.900288Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:18.126535Z": "TRANSLATION_DONE:tur"
   }
 }

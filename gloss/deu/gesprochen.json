@@ -8,6 +8,37 @@
     [
       "USAGE_EXAMPLE",
       "deu:Habt ihr seitdem mal wieder miteinander gesprochen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spoken"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:detto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказано"
+    ],
+    [
+      "TRANSLATION",
+      "tur:konuşulan"
+    ],
+    [
+      "TRANSLATION",
+      "fra:parlé"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:19:36.343869Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:36.523440Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:36.671524Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:36.841826Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:37.036666Z": "TRANSLATION_DONE:tur"
+  }
 }

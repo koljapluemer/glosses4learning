@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:47.924273Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:47.924273Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:55.726169Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:55.896541Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:56.063715Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:56.242631Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -207,6 +211,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne plaisantez même pas à ce sujet !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Non"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Не"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ne"
     ]
   ]
 }

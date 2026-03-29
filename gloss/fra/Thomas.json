@@ -13,9 +13,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce que Thomas est encore en train de travailler﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Thomas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Thomas"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Thomas"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Thomas"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:26:38.718541Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:26:38.883507Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:26:39.033800Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:26:39.204071Z": "TRANSLATION_DONE:tur"
+  }
 }

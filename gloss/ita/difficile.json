@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:58.603770Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:58.603770Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:06.743927Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:06.946637Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:07.145096Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:07.316090Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "eng:tough"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schwerer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:difficile"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schwierig"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сложный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zor"
     ]
   ]
 }

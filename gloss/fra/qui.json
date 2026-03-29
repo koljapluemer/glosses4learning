@@ -228,9 +228,19 @@
     [
       "USAGE_EXAMPLE",
       "fra:Quelle est la dent qui fait mal ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wer"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kim"
     ]
   ],
   "logs": {
-    "2026-03-28T15:38:32.199956Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:32.199956Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:43.689323Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:43.885566Z": "TRANSLATION_DONE:tur"
   }
 }

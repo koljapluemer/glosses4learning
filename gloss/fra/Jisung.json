@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:41.066514Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:41.066514Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:34.454259Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:34.652956Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:34.882156Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:35.034208Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Jisung (name)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jisung"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Jisung"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Джисунг"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Jisung"
     ]
   ]
 }

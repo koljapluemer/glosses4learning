@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das sind Künstler, die sich alles selbst beigebracht haben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Artist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Artiste"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Artista"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Художник"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sanatçı"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:13:52.042519Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:52.220032Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:52.387376Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:52.583833Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:52.783876Z": "TRANSLATION_DONE:tur"
+  }
 }

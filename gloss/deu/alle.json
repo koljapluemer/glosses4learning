@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:16.368861Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:16.368861Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:38.715219Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:38.879972Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -75,6 +77,22 @@
     [
       "TRANSLATION",
       "dan:alle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a tutti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:все"
+    ],
+    [
+      "TRANSLATION",
+      "fra:toutes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:alle"
     ]
   ]
 }

@@ -20,9 +20,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne suis pas à la maison les dimanches"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sonntage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:domeniche"
+    ],
+    [
+      "TRANSLATION",
+      "rus:воскресенье"
+    ],
+    [
+      "TRANSLATION",
+      "tur:pazar"
     ]
   ],
   "logs": {
-    "2026-03-28T15:38:17.864075Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:17.864075Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:02.441693Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:02.622485Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:02.806755Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:02.977897Z": "TRANSLATION_DONE:tur"
   }
 }

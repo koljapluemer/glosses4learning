@@ -24,9 +24,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom a dit que les choses se sont bien passées"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vergangenen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:passate"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прошедшие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:geçmiş"
     ]
   ],
   "logs": {
-    "2026-03-28T15:49:20.554941Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:49:20.554941Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:42:04.249906Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:04.418462Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:04.578996Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:04.743013Z": "TRANSLATION_DONE:tur"
   }
 }

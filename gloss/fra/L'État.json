@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:41.875052Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:41.875052Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:37.939126Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:38.127954Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:38.335430Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:38.505476Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:The Government"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Der Staat"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Lo Stato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Государство"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Devlet"
     ]
   ]
 }

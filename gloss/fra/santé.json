@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les jus de fruits sont très mauvais pour la santé"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gesundheit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:health"
+    ],
+    [
+      "TRANSLATION",
+      "ita:salute"
+    ],
+    [
+      "TRANSLATION",
+      "rus:здоровье"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sağlık"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:46:48.113826Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:48.268722Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:48.448985Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:46:48.654235Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:46:48.874030Z": "TRANSLATION_DONE:tur"
+  }
 }

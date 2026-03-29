@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:44:22.421827Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:44:22.421827Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:47.127329Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:47.282663Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -35,6 +37,14 @@
     [
       "TRANSLATION",
       "ita:retribuzione"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Paiement"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Оплата"
     ]
   ]
 }

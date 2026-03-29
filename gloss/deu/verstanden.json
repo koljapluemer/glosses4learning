@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:58.822088Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:58.822088Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:28.375607Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:28.548458Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:28.735326Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +42,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Sie haben mich nicht verstanden. Ich meinte etwas anderes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:compreso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:понято"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anlaşıldı"
+    ],
+    [
+      "TRANSLATION",
+      "fra:compris"
+    ],
+    [
+      "TRANSLATION",
+      "fra:entendus"
+    ],
+    [
+      "TRANSLATION",
+      "ita:capissero"
     ]
   ]
 }

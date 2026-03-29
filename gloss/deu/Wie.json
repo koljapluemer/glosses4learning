@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-19T10:11:55.964Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-19T10:12:04.330Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-19T10:12:04.330Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:16:15.900112Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:16.058565Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:16.233815Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:16.408163Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -58,6 +62,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wie viele Stunden haben Sie in dieser Woche gearbeitet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Comment"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Come"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Как"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Nasıl"
+    ],
+    [
+      "TRANSLATION",
+      "fra:As"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Qu"
+    ],
+    [
+      "TRANSLATION",
+      "hrv:Kako"
     ]
   ]
 }

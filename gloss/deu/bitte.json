@@ -4,7 +4,10 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.933867Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.887755Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.887755Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:17:42.636700Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:42.795619Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:42.991609Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -33,6 +36,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Könntet ihr das bitte noch einmal langsam wiederholen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:s'il vous plaît"
+    ],
+    [
+      "TRANSLATION",
+      "ita:per favore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пожалуйста"
     ]
   ]
 }

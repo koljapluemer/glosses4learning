@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:10.373547Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:10.373547Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:03.464532Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:03.622090Z": "TRANSLATION_DONE:ita"
   },
   "relationships": [
     [
@@ -115,6 +117,14 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe ihn für deinen Bruder gehalten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pour"
+    ],
+    [
+      "TRANSLATION",
+      "ita:per"
     ]
   ]
 }

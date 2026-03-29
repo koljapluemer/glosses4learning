@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:40.123837Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:40.123837Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:33.443321Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:33.602320Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:33.798349Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -35,6 +38,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich kann mich nicht erinnern, dieses Fenster geöffnet zu haben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rappeler"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ricordare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помнить"
     ]
   ]
 }

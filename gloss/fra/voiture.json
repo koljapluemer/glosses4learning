@@ -68,9 +68,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Il conduit une voiture, n'est-ce pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:auto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:автомобиль"
+    ],
+    [
+      "TRANSLATION",
+      "tur:araba"
     ]
   ],
   "logs": {
-    "2026-03-28T15:40:15.025125Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:40:15.025125Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:50:21.394336Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:50:21.551691Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:50:21.747351Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:50:21.912505Z": "TRANSLATION_DONE:tur"
   }
 }

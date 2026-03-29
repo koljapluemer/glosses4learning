@@ -60,9 +60,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Quelque chose d'embarrassant s'est produit la semaine dernière"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Woche"
+    ],
+    [
+      "TRANSLATION",
+      "ita:settimana"
+    ],
+    [
+      "TRANSLATION",
+      "rus:неделя"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hafta"
     ]
   ],
   "logs": {
-    "2026-03-28T15:41:29.251921Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:41:29.251921Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:47:10.825119Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:47:11.015706Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:47:11.207382Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:47:11.411125Z": "TRANSLATION_DONE:tur"
   }
 }

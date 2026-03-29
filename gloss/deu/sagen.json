@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:42.607130Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:42.607130Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:04.722595Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:04.884696Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:05.082334Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -75,6 +78,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Es hätte mir jemand sagen sollen, dass sie gegangen ist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказать"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dicesse"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dite"
     ]
   ]
 }

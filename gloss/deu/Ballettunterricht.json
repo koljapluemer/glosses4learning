@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:35.584918Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:35.584918Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:38.904731Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:39.093863Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:39.285550Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:11:39.485276Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:ballet lessons"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Cours de danse classique"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Lezioni di danza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Уроки балета"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Balet dersleri"
     ]
   ]
 }

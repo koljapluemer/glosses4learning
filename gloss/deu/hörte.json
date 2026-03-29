@@ -20,9 +20,29 @@
     [
       "USAGE_EXAMPLE",
       "deu:Der Hund meines Nachbarn hörte nicht auf zu bellen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:a entendu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sentì"
+    ],
+    [
+      "TRANSLATION",
+      "rus:услышал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:duydu"
     ]
   ],
   "logs": {
-    "2026-03-28T16:33:15.185919Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:33:15.185919Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:23.640912Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:23.820036Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:24.025152Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:24.226717Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -60,9 +60,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Quelle est la dent qui fait mal ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mal"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einmal"
+    ],
+    [
+      "TRANSLATION",
+      "ita:male"
+    ],
+    [
+      "TRANSLATION",
+      "rus:плохо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mall"
     ]
   ],
   "logs": {
-    "2026-03-28T15:49:17.972324Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:49:17.972324Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:56.538056Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:56.696218Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:56.857404Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:38:57.021245Z": "TRANSLATION_DONE:tur"
   }
 }

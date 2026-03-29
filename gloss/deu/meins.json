@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das ist nicht Ihr Geld, sondern meins"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mine"
+    ],
+    [
+      "TRANSLATION",
+      "fra:les miens"
+    ],
+    [
+      "TRANSLATION",
+      "ita:miei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мои"
+    ],
+    [
+      "TRANSLATION",
+      "tur:benim"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:21:27.438257Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:27.649303Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:27.822523Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:27.997481Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:28.186172Z": "TRANSLATION_DONE:tur"
+  }
 }

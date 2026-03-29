@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je n'ai pas encore fini mon petit-déjeuner"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das ist das Ende"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fine"
+    ],
+    [
+      "TRANSLATION",
+      "rus:закончено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bitti"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:35:50.841434Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:35:51.035459Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:35:51.239163Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:35:51.438635Z": "TRANSLATION_DONE:tur"
+  }
 }

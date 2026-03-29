@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:38:08.858981Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:38:08.858981Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:30.839359Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:31.016991Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:31.205988Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:31.397584Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Lower yourself"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Absteigen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Descendez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Спустись"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İniş"
     ]
   ]
 }

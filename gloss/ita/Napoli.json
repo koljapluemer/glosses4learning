@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:40.684284Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:40.684284Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:25.321424Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:25.501976Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:25.688709Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:25.879003Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:City of Naples"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Neapel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Naples"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Неаполь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Napoli"
     ]
   ]
 }

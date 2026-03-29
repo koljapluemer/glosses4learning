@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:43.225392Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:43.225392Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:47.759215Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:47.941255Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:48.090535Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:48.283565Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:you need to"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie müssen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous devez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вам необходимо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapmanız gerekiyor"
     ]
   ]
 }

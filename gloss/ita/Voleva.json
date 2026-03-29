@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:31.264553Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:31.264553Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:30.148355Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:30.325627Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:30.505870Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:30.679641Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:HeShe desired"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er wollte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Il voulait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Он хотел"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İstiyordu"
     ]
   ]
 }

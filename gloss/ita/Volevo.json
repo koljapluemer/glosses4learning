@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:32.177939Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:32.177939Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:30.867884Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:31.066087Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:31.279630Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:31.474286Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I have wanted"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich wollte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je voulais"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я хотел(а)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Benim yapmak istediğim"
     ]
   ]
 }

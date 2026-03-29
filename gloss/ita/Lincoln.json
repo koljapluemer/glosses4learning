@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:20:59.089258Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:20:59.089258Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:05.390440Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:05.530341Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:05.713719Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:05.866544Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Lincoln Memorial"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lincoln"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Lincoln"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Линкольн"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Lincoln"
     ]
   ]
 }

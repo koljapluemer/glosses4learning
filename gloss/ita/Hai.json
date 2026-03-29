@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:35.766544Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:35.766544Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:22.016587Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:22.198448Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:22.386068Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:22.548511Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,22 @@
     [
       "TRANSLATION",
       "eng:Affirmative"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous avez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:У вас есть﹖"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Evet"
     ]
   ]
 }

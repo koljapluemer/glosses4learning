@@ -21,12 +21,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je sais qu'ils sont toujours en vie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vita"
+    ],
+    [
+      "TRANSLATION",
+      "rus:жизнь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yaşam"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:49:34.971801Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:49:34.971801Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:58.832796Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:59.037794Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:59.231707Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:45.523573Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:45.523573Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:00.583325Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:00.754808Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:00.947113Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:01.135484Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich hab diesen Job mit der Hilfe meines Lehrers bekommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avoir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ho"
+    ],
+    [
+      "TRANSLATION",
+      "rus:иметь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bilgi"
     ]
   ]
 }

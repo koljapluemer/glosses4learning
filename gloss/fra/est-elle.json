@@ -16,6 +16,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette maison est-elle à vendre ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ist es﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is it"
+    ],
+    [
+      "TRANSLATION",
+      "ita:è"
+    ],
+    [
+      "TRANSLATION",
+      "rus:является ли она"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o mu﹖"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:34:53.115353Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:34:53.300131Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:53.484614Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:34:53.699333Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:53.888508Z": "TRANSLATION_DONE:tur"
+  }
 }

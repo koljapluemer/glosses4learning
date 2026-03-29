@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:30.420318Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:30.420318Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:29.377343Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:29.556967Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:29.749363Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:29.966827Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:Are you wanting"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Möchten Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous souhaitez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Хотите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İstiyorsunuz﹖"
     ]
   ]
 }

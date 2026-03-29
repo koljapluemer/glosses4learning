@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom hat sich über meinen Akzent lustig gemacht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:amusant"
+    ],
+    [
+      "TRANSLATION",
+      "ita:divertente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:весело"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eğlenceli"
     ]
   ],
   "logs": {
-    "2026-03-28T16:40:53.542125Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:40:53.542125Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:15.114620Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:15.303482Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:15.472573Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:15.701351Z": "TRANSLATION_DONE:tur"
   }
 }

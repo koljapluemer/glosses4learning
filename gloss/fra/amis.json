@@ -32,9 +32,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ils sont restés amis toutes leurs vies"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Freunde"
+    ],
+    [
+      "TRANSLATION",
+      "ita:amici"
+    ],
+    [
+      "TRANSLATION",
+      "rus:друзья"
+    ],
+    [
+      "TRANSLATION",
+      "tur:arkadaşlar"
     ]
   ],
   "logs": {
-    "2026-03-28T15:42:36.226930Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:42:36.226930Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:38.909734Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:39.085041Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:39.280827Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:27:39.462096Z": "TRANSLATION_DONE:tur"
   }
 }

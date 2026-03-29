@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:23.046919Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:23.046919Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:05.676849Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:05.856901Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:06.047538Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:06.236745Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:allocation of funds"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haushaltsplan"
+    ],
+    [
+      "TRANSLATION",
+      "fra:budget"
+    ],
+    [
+      "TRANSLATION",
+      "rus:бюджет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bütçe"
     ]
   ]
 }

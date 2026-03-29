@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:46.948544Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:46.948544Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:06.010569Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:06.175466Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:06.345520Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:06.545145Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Du kannst nicht vorsichtig genug bei der Wahl deiner Freunde sein"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Élection"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Elezione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Выборы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Seçim"
     ]
   ]
 }

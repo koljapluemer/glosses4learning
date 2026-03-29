@@ -13,9 +13,39 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir waren schon immer gut miteinander befreundet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:were"
+    ],
+    [
+      "TRANSLATION",
+      "ita:erano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:были"
+    ],
+    [
+      "TRANSLATION",
+      "tur:var"
+    ],
+    [
+      "TRANSLATION",
+      "fra:étaient"
+    ],
+    [
+      "TRANSLATION",
+      "fra:étions"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:23:45.322683Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:45.497705Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:45.669834Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:45.832043Z": "TRANSLATION_DONE:tur"
+  }
 }

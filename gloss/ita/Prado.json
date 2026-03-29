@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:26.567258Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:26.567258Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:55.908081Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:56.116835Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:56.296817Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:56.475898Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Pasture"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Prado"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Prado"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Прадо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Prado"
     ]
   ]
 }

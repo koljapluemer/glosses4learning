@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:22.798514Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:22.798514Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:56.829607Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:56.977986Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:57.164204Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:57.355729Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:much appreciated"
+    ],
+    [
+      "TRANSLATION",
+      "deu:danke"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vielen Dank"
+    ],
+    [
+      "TRANSLATION",
+      "fra:merci"
+    ],
+    [
+      "TRANSLATION",
+      "rus:спасибо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:teşekkür ederim"
     ]
   ]
 }

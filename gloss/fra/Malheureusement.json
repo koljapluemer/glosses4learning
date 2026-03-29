@@ -24,6 +24,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Malheureusement, je ne peux pas accepter votre invitation"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leider"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Unfortunately"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Purtroppo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:К сожалению"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ne yazık ki"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:25:47.306949Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:47.474381Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:47.653105Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:47.842435Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:48.027627Z": "TRANSLATION_DONE:tur"
+  }
 }

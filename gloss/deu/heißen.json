@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:54.345996Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:54.345996Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:10.701167Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:10.899423Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:11.099836Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:11.299926Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to be named"
+    ],
+    [
+      "TRANSLATION",
+      "fra:s'appeler"
+    ],
+    [
+      "TRANSLATION",
+      "ita:essere chiamati"
+    ],
+    [
+      "TRANSLATION",
+      "rus:называться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:isimleri"
     ]
   ]
 }

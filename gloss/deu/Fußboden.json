@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:42.793002Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:42.793002Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:45.644451Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:45.805589Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:46.000896Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:46.173091Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:flooring"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Sols"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Pavimento"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Пол"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Zemin"
     ]
   ]
 }

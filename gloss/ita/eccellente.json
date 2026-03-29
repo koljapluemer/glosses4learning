@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:53.291434Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:53.291434Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:55.295485Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:55.448712Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:55.652618Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:55.850943Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:exceptional"
+    ],
+    [
+      "TRANSLATION",
+      "fra:excellente"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgezeichnet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:excellent"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отличный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mükemmel"
     ]
   ]
 }

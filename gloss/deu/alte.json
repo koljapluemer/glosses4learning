@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:52.724493Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:52.724493Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:50.777229Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:50.973084Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:51.148600Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:51.334792Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wenn man dieses glückliche alte Paar sieht, wird einem warm ums Herz"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ancien"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vecchi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:старый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eski"
     ]
   ]
 }

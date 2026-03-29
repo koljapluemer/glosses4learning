@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:03.284085Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:03.284085Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:24.155412Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:24.349887Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:24.537518Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -91,6 +94,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Du hättest meine Briefe beantworten sollen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:les miens"
+    ],
+    [
+      "TRANSLATION",
+      "ita:i miei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мои"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mes"
     ]
   ]
 }

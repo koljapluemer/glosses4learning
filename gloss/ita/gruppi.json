@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:24.179360Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:24.179360Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:58.280246Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:58.434895Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:58.599581Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:58.759883Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:sets"
+    ],
+    [
+      "TRANSLATION",
+      "fra:partis"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gruppen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:groupes"
+    ],
+    [
+      "TRANSLATION",
+      "rus:группы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gruplar"
     ]
   ]
 }

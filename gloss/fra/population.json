@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:La population de cette ville est en pleine augmentation"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bevölkerung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:population"
+    ],
+    [
+      "TRANSLATION",
+      "ita:popolazione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:население"
+    ],
+    [
+      "TRANSLATION",
+      "tur:nüfus"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:43:08.028920Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:08.189907Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:08.364384Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:08.525088Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:08.717743Z": "TRANSLATION_DONE:tur"
+  }
 }

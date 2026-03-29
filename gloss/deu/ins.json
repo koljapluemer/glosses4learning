@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.792494Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.725072Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.725072Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:20:28.772782Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:28.923753Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:29.067087Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:29.370343Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -13,6 +17,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Er wird etwas dagegen einzuwenden haben, dass du ins Ausland gehst"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ins"
+    ],
+    [
+      "TRANSLATION",
+      "ita:inns"
+    ],
+    [
+      "TRANSLATION",
+      "rus:инс"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Bu kelimeye uygun bir karşılık veya açıklama eklenmelidir)"
     ]
   ]
 }

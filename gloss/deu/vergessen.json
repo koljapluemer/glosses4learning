@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:52.135305Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:52.135305Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:19.468901Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:19.677333Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:19.882160Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:20.069800Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -59,6 +63,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom hat vergessen, seine Hausaufgaben zu machen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:oublier"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dimenticare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:забыть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:unutmak"
+    ],
+    [
+      "TRANSLATION",
+      "fra:oublié"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dimentica"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dimenticate"
     ]
   ]
 }

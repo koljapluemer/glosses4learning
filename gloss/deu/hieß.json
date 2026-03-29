@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:58.777986Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:58.777986Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:15.942683Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:16.156861Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:16.355386Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:16.565041Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:was named"
+    ],
+    [
+      "TRANSLATION",
+      "fra:portait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aveva il nome di"
+    ],
+    [
+      "TRANSLATION",
+      "rus:назывался"
+    ],
+    [
+      "TRANSLATION",
+      "tur:adını taşıyordu"
     ]
   ]
 }

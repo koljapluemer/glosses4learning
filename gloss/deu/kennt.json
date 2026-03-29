@@ -13,9 +13,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom kennt seine Schulfreunde nicht besonders gut"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is familiar with"
+    ],
+    [
+      "TRANSLATION",
+      "fra:connaît"
+    ],
+    [
+      "TRANSLATION",
+      "ita:conosce"
+    ],
+    [
+      "TRANSLATION",
+      "rus:знает"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:20:48.961463Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:49.137656Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:49.330323Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:49.515535Z": "TRANSLATION_DONE:rus"
+  }
 }

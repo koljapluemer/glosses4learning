@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:42.392383Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:42.392383Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:28.307021Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:28.520165Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:28.701612Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:28.898178Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,30 @@
     [
       "TRANSLATION",
       "eng:toilet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bain"
+    ],
+    [
+      "TRANSLATION",
+      "fra:toilette"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Badezimmer"
+    ],
+    [
+      "TRANSLATION",
+      "fra:salle de bain"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ванная"
+    ],
+    [
+      "TRANSLATION",
+      "tur:banyo"
     ]
   ]
 }

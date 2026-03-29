@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai entendu dire que vous ne mangiez pas de viande"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fleisch"
+    ],
+    [
+      "TRANSLATION",
+      "eng:meat"
+    ],
+    [
+      "TRANSLATION",
+      "ita:carne"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мясо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:et"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:49:54.293259Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:54.453505Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:54.627551Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:54.792315Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:54.962876Z": "TRANSLATION_DONE:tur"
+  }
 }

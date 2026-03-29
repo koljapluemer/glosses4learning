@@ -4,7 +4,8 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.907253Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.871086Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.871086Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:21:20.105920Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -37,6 +38,10 @@
     [
       "TRANSLATION",
       "fra:fait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:осуществляет"
     ]
   ]
 }

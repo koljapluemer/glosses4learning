@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:45:37.654466Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:45:37.654466Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:52:43.665164Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:52:43.863208Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:52:44.050188Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:52:44.212123Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:step one"
+    ],
+    [
+      "TRANSLATION",
+      "deu:1. Schritt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Étape 1"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Первый шаг"
+    ],
+    [
+      "TRANSLATION",
+      "tur:1. adım"
     ]
   ]
 }

@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom und Maria haben sich den ganzen Nachmittag unterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:entièrement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:intero"
+    ],
+    [
+      "TRANSLATION",
+      "rus:полностью"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tüm"
     ]
   ],
   "logs": {
-    "2026-03-28T16:41:21.294034Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:41:21.294034Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:04.725708Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:04.883632Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:05.053671Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:05.218307Z": "TRANSLATION_DONE:tur"
   }
 }

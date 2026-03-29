@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:46.226010Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:46.226010Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:34.209949Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:34.386153Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:34.546977Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:34.734628Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:would you make"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wären Sie in der Lage"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vous feriez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы бы сделали"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapardınız"
     ]
   ]
 }

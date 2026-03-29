@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:36.752246Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:36.752246Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:36.775044Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:36.973337Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:37.156940Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:37.372275Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:traveling"
+    ],
+    [
+      "TRANSLATION",
+      "deu:im Gange"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en allant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:иду"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yürürken"
     ]
   ]
 }

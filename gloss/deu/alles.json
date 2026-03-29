@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:17.157954Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:17.157954Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:40.553286Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:40.738285Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:40.915797Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -63,6 +66,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das sind Künstler, die sich alles selbst beigebracht haben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tout"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tutto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:все"
+    ],
+    [
+      "TRANSLATION",
+      "fra:toute"
     ]
   ]
 }

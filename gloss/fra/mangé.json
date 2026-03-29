@@ -20,9 +20,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Il a mangé tout ce qu'il y avait dans son assiette"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gegessen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mangiato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:съел"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yendi"
     ]
   ],
   "logs": {
-    "2026-03-28T15:44:21.096058Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:44:21.096058Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:39:08.561484Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:39:08.751928Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:39:08.929669Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:39:09.080861Z": "TRANSLATION_DONE:tur"
   }
 }

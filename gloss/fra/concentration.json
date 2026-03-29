@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les jeunes enfants ont une faible capacité de concentration"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Konzentration"
+    ],
+    [
+      "TRANSLATION",
+      "ita:concentrazione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:концентрация"
+    ],
+    [
+      "TRANSLATION",
+      "tur:odaklanma"
     ]
   ],
   "logs": {
-    "2026-03-28T15:44:30.606695Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:44:30.606695Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:12.051348Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:12.214017Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:12.379950Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:12.568741Z": "TRANSLATION_DONE:tur"
   }
 }

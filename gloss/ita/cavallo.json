@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:13.219856Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:13.219856Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:47.139856Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:47.331551Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:47.520167Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:47.717336Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:mare"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pferd"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cheval"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лошадь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:at, eşek"
     ]
   ]
 }

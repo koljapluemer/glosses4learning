@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:18.258940Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:18.258940Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:03.933771Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:04.108728Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:04.309072Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:04.508982Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne pensais pas que tu me le dirais"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich würde sagen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avrei detto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказал бы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dediklerim"
     ]
   ]
 }

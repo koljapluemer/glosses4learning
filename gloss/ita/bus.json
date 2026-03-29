@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:28.624451Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:28.624451Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:10.151882Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:10.348205Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:10.557811Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:10.757498Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:transit bus"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bus"
+    ],
+    [
+      "TRANSLATION",
+      "fra:autobus"
+    ],
+    [
+      "TRANSLATION",
+      "rus:автобус"
+    ],
+    [
+      "TRANSLATION",
+      "tur:otobüs"
     ]
   ]
 }

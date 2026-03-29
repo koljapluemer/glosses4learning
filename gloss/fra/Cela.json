@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:33.745398Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:33.745398Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:58.440028Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:58.597384Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:58.767116Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -67,6 +70,50 @@
     [
       "TRANSLATION",
       "dan:Dette"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dies"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dieses"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Questo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bu"
+    ],
+    [
+      "TRANSLATION",
+      "hrv:Ovo"
+    ],
+    [
+      "TRANSLATION",
+      "ina:Isto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ciò"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Lo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Quella"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Questa"
     ]
   ]
 }

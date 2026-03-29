@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:01.742321Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:01.742321Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:28.948346Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:29.121553Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:29.297503Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +50,18 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ainsi, il en est ainsi de la lamentation d'une mère"
+    ],
+    [
+      "TRANSLATION",
+      "deu:also"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quindi"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bu durumda"
     ]
   ]
 }

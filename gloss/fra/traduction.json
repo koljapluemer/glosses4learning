@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Toutes les nuances sont perdues dans la traduction"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Übersetzung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:translation"
+    ],
+    [
+      "TRANSLATION",
+      "ita:traduzione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:перевод"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çeviri"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:49:05.466481Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:05.620467Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:05.776832Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:05.971120Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:06.128485Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -9,9 +9,39 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das passiert nur einmal alle hundert Jahre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Years"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Années"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Anni"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Годы"
+    ],
+    [
+      "TRANSLATION",
+      "fra:années"
+    ],
+    [
+      "TRANSLATION",
+      "ita:anni"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:13:29.581518Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:29.750704Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:29.923378Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:30.098462Z": "TRANSLATION_DONE:rus"
+  }
 }

@@ -12,6 +12,37 @@
     [
       "USAGE_EXAMPLE",
       "deu:Vielleicht sollten Sie wieder nach Hause gehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:should"
+    ],
+    [
+      "TRANSLATION",
+      "fra:devraient"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dovrebbero"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmalıdır"
+    ],
+    [
+      "TRANSLATION",
+      "fra:devrions"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:22:36.145796Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:36.335306Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:36.553556Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:36.747974Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:36.955876Z": "TRANSLATION_DONE:tur"
+  }
 }

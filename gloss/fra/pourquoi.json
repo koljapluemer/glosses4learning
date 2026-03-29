@@ -52,9 +52,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne sais pas vraiment pourquoi"
+    ],
+    [
+      "TRANSLATION",
+      "deu:warum"
+    ],
+    [
+      "TRANSLATION",
+      "ita:perché"
+    ],
+    [
+      "TRANSLATION",
+      "rus:почему"
+    ],
+    [
+      "TRANSLATION",
+      "tur:neden"
     ]
   ],
   "logs": {
-    "2026-03-28T15:37:12.450105Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:37:12.450105Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:19.711823Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:19.900158Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:20.062753Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:20.248451Z": "TRANSLATION_DONE:tur"
   }
 }

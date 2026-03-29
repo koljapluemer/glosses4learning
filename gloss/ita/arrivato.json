@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:06.028980Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:06.028980Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:01.092470Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:01.268108Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:01.477377Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:01.645221Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:got here"
+    ],
+    [
+      "TRANSLATION",
+      "deu:angekommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:arrivé"
+    ],
+    [
+      "TRANSLATION",
+      "fra:venu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прибыло"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Varış"
     ]
   ]
 }

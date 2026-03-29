@@ -10,7 +10,10 @@
     "2025-12-12T14:10:54.626276Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:11:37.133334Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:19:15.167838Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:36.904232Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.904232Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:21:48.788171Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:48.959447Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:49.122937Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -143,6 +146,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe über Ihren Vorschlag noch einmal nachgedacht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:encore"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ancora"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ещё"
     ]
   ]
 }

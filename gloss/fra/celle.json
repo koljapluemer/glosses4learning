@@ -9,9 +9,36 @@
     [
       "USAGE_EXAMPLE",
       "fra:La maison de Tom n'est pas loin de celle de Mary"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dieses"
+    ],
+    [
+      "TRANSLATION",
+      "eng:that one"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quelle"
+    ],
+    [
+      "TRANSLATION",
+      "rus:эта"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:30:00.047058Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:30:00.225027Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:30:00.384309Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:30:00.550986Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:30:00.719603Z": "TRANSLATION_DONE:tur"
+  }
 }

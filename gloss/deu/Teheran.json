@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:26.500224Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:26.500224Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:37.797799Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:37.967631Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:38.149296Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:38.318870Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Teheran"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Teheran"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Teheran"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Тегеран"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tehrán"
     ]
   ]
 }

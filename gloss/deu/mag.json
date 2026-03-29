@@ -3,7 +3,10 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:34:59.487064Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:59.487064Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:20.309723Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:20.503040Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:20.688370Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -52,6 +55,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Was auch der Grund gewesen sein mag, sie haben nicht geheiratet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fantastique"
+    ],
+    [
+      "TRANSLATION",
+      "rus:желает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sevmek"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aime"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aimes"
     ]
   ]
 }

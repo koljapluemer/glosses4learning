@@ -13,9 +13,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das Reisen war seine größte Freude, und so starb er denn auch auf einer Reise"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Trip"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Voyage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Viaggio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Путешествие"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:14:54.230364Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:54.402426Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:54.591595Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:54.783494Z": "TRANSLATION_DONE:rus"
+  }
 }

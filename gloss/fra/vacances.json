@@ -24,6 +24,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout le monde pense que Tom est en vacances"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Urlaub"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vacations"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vacanze"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отпуск"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tatiller"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:49:32.903478Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:33.092605Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:33.242981Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:33.414731Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:33.579060Z": "TRANSLATION_DONE:tur"
+  }
 }

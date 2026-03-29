@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:25.076351Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:25.076351Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:38.887337Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:39.034145Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:39.226950Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:39.401275Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Er hätte seinen alten Freund besuchen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Ami"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Amico"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Друг"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Arkadaş"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ami"
+    ],
+    [
+      "TRANSLATION",
+      "ita:amico"
     ]
   ]
 }

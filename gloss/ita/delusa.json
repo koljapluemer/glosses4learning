@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:38.464523Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:38.464523Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:50.893604Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:51.090998Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:51.289094Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:51.542435Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:dismayed"
+    ],
+    [
+      "TRANSLATION",
+      "deu:enttäuscht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:déçu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:разочарованный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hayal kırıklığına uğramış"
     ]
   ]
 }

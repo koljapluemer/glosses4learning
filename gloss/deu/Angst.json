@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:25.045784Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:25.045784Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:25.615869Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:25.805034Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:25.956352Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:11:26.135378Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,30 @@
     [
       "TRANSLATION",
       "eng:dread"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Peur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Paura"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Страх"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Korku"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ansia"
     ]
   ]
 }

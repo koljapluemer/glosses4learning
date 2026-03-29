@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'est une route en très mauvais état et dangereuse"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefährlich"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dangerous"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pericoloso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:опасная"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tehlikeli"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:27.061590Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:27.246750Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:27.436831Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:27.618143Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:27.821903Z": "TRANSLATION_DONE:tur"
+  }
 }

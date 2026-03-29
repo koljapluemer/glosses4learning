@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:46.449041Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:46.449041Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:11.210479Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:11.363978Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -59,6 +61,26 @@
     [
       "TRANSLATION",
       "fra:mauvaise"
+    ],
+    [
+      "TRANSLATION",
+      "ita:cattivo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:плохо"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mauvais"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mauvaises"
+    ],
+    [
+      "TRANSLATION",
+      "ita:cattive"
     ]
   ]
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:La maison est partie pour une bouchée de pain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bissen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:small portion"
+    ],
+    [
+      "TRANSLATION",
+      "ita:porzione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:порция"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bir parça"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:29:39.418132Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:29:39.616059Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:29:39.808219Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:29:39.990441Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:29:40.154277Z": "TRANSLATION_DONE:tur"
+  }
 }

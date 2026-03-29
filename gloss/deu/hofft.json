@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:59.591696Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:59.591696Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:19.011359Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:19.196798Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:19.365030Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:19.560434Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:is hoping"
+    ],
+    [
+      "TRANSLATION",
+      "fra:espère"
+    ],
+    [
+      "TRANSLATION",
+      "ita:spera"
+    ],
+    [
+      "TRANSLATION",
+      "rus:надеется"
+    ],
+    [
+      "TRANSLATION",
+      "tur:umut ediyor"
     ]
   ]
 }

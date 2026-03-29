@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:22.895596Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:22.895596Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:12.551917Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:12.763468Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:12.990304Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:13.204234Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:market stand"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Étals de marché"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Bancarella di mercato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Прилавок на рынке"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Pazar Standı"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:32.685574Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:32.685574Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:01.852591Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:02.030354Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:02.223940Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:02.399469Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Gib mir bitte meinen geliehenen Gegenstand wieder zurück"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Donnez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Fornisci"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Предоставьте"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Verilen"
     ]
   ]
 }

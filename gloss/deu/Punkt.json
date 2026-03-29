@@ -9,9 +9,35 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir sind doch an einem Punkt angelangt, wo uns Tom mal gern haben kann"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Point"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Point"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Punto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Точка"
+    ],
+    [
+      "TRANSLATION",
+      "fra:point"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:14:51.718416Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:51.878668Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:52.057121Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:52.226768Z": "TRANSLATION_DONE:rus"
+  }
 }

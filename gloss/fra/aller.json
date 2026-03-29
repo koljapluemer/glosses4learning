@@ -53,12 +53,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce que tu aimes aller travailler ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gehen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:andare"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gitmek"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:39:40.911425Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:39:40.911425Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:32.812610Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:33.009788Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:33.189654Z": "TRANSLATION_DONE:tur"
   }
 }

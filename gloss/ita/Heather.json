@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:20:40.690655Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:20:40.690655Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:24.026223Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:24.199641Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:24.386687Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:24.549149Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Erica"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Heather"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Heather"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Гейзер"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Heather"
     ]
   ]
 }

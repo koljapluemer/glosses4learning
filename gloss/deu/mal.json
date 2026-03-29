@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:00.578666Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:00.578666Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:20.855493Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:21.050036Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:21.218463Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:21.383296Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir sind doch an einem Punkt angelangt, wo uns Tom mal gern haben kann"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mal"
+    ],
+    [
+      "TRANSLATION",
+      "ita:occasionalmente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:иногда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bir kez"
     ]
   ]
 }

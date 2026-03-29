@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:12.383969Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:12.383969Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:30.404710Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:30.586202Z": "TRANSLATION_DONE:ita"
   },
   "relationships": [
     [
@@ -99,6 +101,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich kann nicht glauben, dass es wirklich so einfach ist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:donc"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quindi"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tellement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:così"
     ]
   ]
 }

@@ -4,7 +4,9 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.949732Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.905885Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.905885Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:22:15.730304Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:15.904617Z": "TRANSLATION_DONE:ita"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -89,6 +91,14 @@
     [
       "USAGE_EXAMPLE",
       "deu:Sie hatten dieses Problem früher schon einmal"
+    ],
+    [
+      "TRANSLATION",
+      "fra:déjà"
+    ],
+    [
+      "TRANSLATION",
+      "ita:già"
     ]
   ]
 }

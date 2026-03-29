@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Diesen Sommer werde ich mit dem Fahrrad durch Europa reisen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:travel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:voyager"
+    ],
+    [
+      "TRANSLATION",
+      "ita:viaggiare"
+    ],
+    [
+      "TRANSLATION",
+      "tur:seyahat"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:21:59.125251Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:59.299903Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:59.486320Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:59.655630Z": "TRANSLATION_DONE:tur"
+  }
 }

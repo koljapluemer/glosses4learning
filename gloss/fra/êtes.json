@@ -88,9 +88,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Vous êtes toutes de nouvelles étudiantes"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sind Sie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:siete"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:siz"
     ]
   ],
   "logs": {
-    "2026-03-28T15:42:03.969333Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:42:03.969333Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:51:32.717509Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:51:32.907251Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:51:33.064451Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:51:33.236318Z": "TRANSLATION_DONE:tur"
   }
 }

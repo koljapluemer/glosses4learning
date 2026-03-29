@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:18.729063Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:18.729063Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:06.591642Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:06.773542Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -111,6 +113,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Sie hatten dieses Problem früher schon einmal"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ce"
+    ],
+    [
+      "TRANSLATION",
+      "rus:это"
+    ],
+    [
+      "TRANSLATION",
+      "fra:celle-ci"
+    ],
+    [
+      "TRANSLATION",
+      "fra:celle"
     ]
   ]
 }

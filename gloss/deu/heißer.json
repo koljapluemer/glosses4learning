@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:55.249524Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:55.249524Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:11.481340Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:11.674028Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:11.898795Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:12.070883Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:spicy"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chaud"
+    ],
+    [
+      "TRANSLATION",
+      "ita:caldo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:горячий"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sıcak"
     ]
   ]
 }

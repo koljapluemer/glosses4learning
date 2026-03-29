@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:58.207821Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:58.207821Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:49.414811Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:49.584371Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:49.760434Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:49.935926Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich kann die Klitoris meiner Freundin nicht finden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:découvrir, trouver"
+    ],
+    [
+      "TRANSLATION",
+      "ita:trovare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:находить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bulmak"
+    ],
+    [
+      "TRANSLATION",
+      "fra:trouvent"
     ]
   ]
 }

@@ -4,7 +4,10 @@
   "transcriptions": {},
   "logs": {
     "2025-12-20T14:23:08.519Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-20T14:23:22.246Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-20T14:23:22.246Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:20:14.912461Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:15.066585Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:15.232412Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -70,6 +73,30 @@
     [
       "TRANSLATION",
       "cat:aquí"
+    ],
+    [
+      "TRANSLATION",
+      "fra:hier"
+    ],
+    [
+      "TRANSLATION",
+      "ita:qui"
+    ],
+    [
+      "TRANSLATION",
+      "rus:здесь"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ci"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ici"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ecco"
     ]
   ]
 }

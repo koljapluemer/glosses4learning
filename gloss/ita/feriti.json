@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:00.254538Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:00.254538Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:45.426092Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:45.600783Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:45.776981Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:45.963938Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:hurt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verletzte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:blessés"
+    ],
+    [
+      "TRANSLATION",
+      "rus:раненые"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yaralılar"
     ]
   ]
 }

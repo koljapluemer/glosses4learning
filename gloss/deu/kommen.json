@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:32.873439Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:32.873439Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:53.874321Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:54.049049Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:54.215728Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:54.405689Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +51,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe euch doch gesagt, daß ihr allein kommen sollt!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:arriver, se présenter"
+    ],
+    [
+      "TRANSLATION",
+      "ita:arrivare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:приходить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gelmek"
+    ],
+    [
+      "TRANSLATION",
+      "fra:viennent"
+    ],
+    [
+      "TRANSLATION",
+      "fra:viens"
+    ],
+    [
+      "TRANSLATION",
+      "ita:arrivano"
     ]
   ]
 }

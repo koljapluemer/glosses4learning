@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom et moi-même ne savons pas parler français"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Seifen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sapone"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мыло"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sabunlar"
     ]
   ],
   "logs": {
-    "2026-03-28T15:50:13.037298Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:50:13.037298Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:47:01.937892Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:47:02.103276Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:47:02.251372Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:47:02.441252Z": "TRANSLATION_DONE:tur"
   }
 }

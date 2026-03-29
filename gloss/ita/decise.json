@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:26.909655Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:26.909655Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:41.108741Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:41.298951Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:41.472159Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:41.670701Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:concluded"
+    ],
+    [
+      "TRANSLATION",
+      "deu:entschlossen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:déterminé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:решительный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kararlı"
     ]
   ]
 }

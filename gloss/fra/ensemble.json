@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:32.493169Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:32.493169Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:27.706090Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:27.920673Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -63,6 +65,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ils ne resteront pas longtemps ensemble"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gemeinsam"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zusammen"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вместе"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bütün"
     ]
   ]
 }

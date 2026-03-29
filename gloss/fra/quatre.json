@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette maison a quatre salles de bain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vier"
+    ],
+    [
+      "TRANSLATION",
+      "eng:four"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quattro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:четыре"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dört"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:44:33.954577Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:34.105961Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:34.264207Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:34.453934Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:44:34.591379Z": "TRANSLATION_DONE:tur"
+  }
 }

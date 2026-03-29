@@ -8,6 +8,37 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je pense que c'est une hypothèse raisonnable"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vernünftig"
+    ],
+    [
+      "TRANSLATION",
+      "deu:angemessen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reasonable"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ragionevole"
+    ],
+    [
+      "TRANSLATION",
+      "rus:разумный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:makul"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:44:49.740510Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:49.921356Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:50.107840Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:50.288068Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:44:50.456861Z": "TRANSLATION_DONE:tur"
+  }
 }

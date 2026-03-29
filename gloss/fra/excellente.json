@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je pense que c'est une excellente idée"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgezeichnet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:excellent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:eccellente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отлично"
+    ],
+    [
+      "TRANSLATION",
+      "tur:harika"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:35:00.226494Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:35:00.396862Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:35:00.590884Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:35:00.805421Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:35:00.985268Z": "TRANSLATION_DONE:tur"
+  }
 }

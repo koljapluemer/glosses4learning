@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-20T13:12:32.633Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-20T13:12:54.520Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
-    "2025-12-20T13:13:22.607Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-20T13:13:22.607Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:17:55.862647Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:56.054535Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -79,6 +81,14 @@
     [
       "USAGE_EXAMPLE",
       "deu:Dies ist nicht dein Haus, sondern meins"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tuo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:твоё"
     ]
   ]
 }

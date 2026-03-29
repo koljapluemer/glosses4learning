@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:44.173567Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:44.173567Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:40.169554Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:40.339060Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:40.550794Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:40.744926Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:despite the fact that"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Bien que"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Nonostante"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Несмотря на то, что"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bununla birlikte"
     ]
   ]
 }

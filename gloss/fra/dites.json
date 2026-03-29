@@ -40,9 +40,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne me dites pas ce que je sais !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dite"
+    ],
+    [
+      "TRANSLATION",
+      "rus:скажите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:deyin"
     ]
   ],
   "logs": {
-    "2026-03-28T15:42:46.057026Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:42:46.057026Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:28.041112Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:28.235260Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:28.412454Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:28.578394Z": "TRANSLATION_DONE:tur"
   }
 }

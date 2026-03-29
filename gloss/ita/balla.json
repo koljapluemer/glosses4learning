@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:43.211394Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:43.211394Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:29.094579Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:29.291039Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:29.481733Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:29.651041Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:a dance event"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tanzt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tanzen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:danse"
+    ],
+    [
+      "TRANSLATION",
+      "rus:танец"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dans"
     ]
   ]
 }

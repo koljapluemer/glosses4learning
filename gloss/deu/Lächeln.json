@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:16.060223Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:16.060223Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:03.398255Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:03.570439Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:03.761494Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:03.982946Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to smile"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Sourire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Sorriso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Улыбка"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Gülümseme"
     ]
   ]
 }

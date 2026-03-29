@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:42.901829Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:42.901829Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:57.649641Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:57.835973Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:58.022409Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -59,6 +62,46 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir waren schon immer gut miteinander befreundet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bien"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bene"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хорошо"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bon"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bonne"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bonnes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:buon"
+    ],
+    [
+      "TRANSLATION",
+      "ita:buona"
+    ],
+    [
+      "TRANSLATION",
+      "ita:buono"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fine"
     ]
   ]
 }

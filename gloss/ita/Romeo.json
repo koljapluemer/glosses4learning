@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:58.688700Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:58.688700Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:23.152899Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:23.347311Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:23.536774Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:23.705071Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Romeo (a romantic figure)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Romeo"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Roméo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ромео"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Romeo"
     ]
   ]
 }

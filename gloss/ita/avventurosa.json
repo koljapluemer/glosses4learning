@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:37.681595Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:37.681595Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:23.705935Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:23.885697Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:24.101395Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:24.291245Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:venturesome"
+    ],
+    [
+      "TRANSLATION",
+      "deu:abenteuerlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aventureux"
+    ],
+    [
+      "TRANSLATION",
+      "rus:приключенческий"
+    ],
+    [
+      "TRANSLATION",
+      "tur:macera dolu"
     ]
   ]
 }

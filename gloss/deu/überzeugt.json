@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:46.204286Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:46.204286Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:36.680935Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:36.832327Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:37.024132Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:37.215211Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:persuaded"
+    ],
+    [
+      "TRANSLATION",
+      "fra:convaincu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:convinto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:убежден"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şaşırtan"
     ]
   ]
 }

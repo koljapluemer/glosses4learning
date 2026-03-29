@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:17.268985Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:17.268985Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:18.051339Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:18.240288Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:18.422148Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:18.617361Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "ben:সমস্ত"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alles"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Toutes"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Tout"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Все"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Her şey"
     ]
   ]
 }

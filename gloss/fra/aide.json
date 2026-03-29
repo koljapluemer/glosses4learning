@@ -17,9 +17,35 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je suis certainement reconnaissant pour toute ton aide"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe"
+    ],
+    [
+      "TRANSLATION",
+      "eng:help"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aiuto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помощь"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aiuti"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:27:15.423066Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:15.597716Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:15.799327Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:15.974397Z": "TRANSLATION_DONE:rus"
+  }
 }

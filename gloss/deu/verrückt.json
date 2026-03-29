@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:56.027890Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:56.027890Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:26.291638Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:26.489711Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:26.690156Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -39,6 +42,18 @@
     [
       "TRANSLATION",
       "eng:wild"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fou, dingue"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pazzo, matto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сумасшедший"
     ]
   ]
 }

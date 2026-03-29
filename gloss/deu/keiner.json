@@ -29,12 +29,32 @@
     [
       "USAGE_EXAMPLE",
       "deu:Von meinen Schülern ist keiner durchgefallen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aucun"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nessuno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:никто"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hiç kimse"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T16:40:42.165117Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:40:42.165117Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:46.702803Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:46.891625Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:47.054041Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:47.267878Z": "TRANSLATION_DONE:tur"
   }
 }

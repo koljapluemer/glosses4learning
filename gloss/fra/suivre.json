@@ -13,9 +13,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles ne sont pas en train de suivre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verfolgen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to follow"
+    ],
+    [
+      "TRANSLATION",
+      "rus:следовать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:takip etme"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:48:15.334102Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:48:15.504204Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:48:15.651450Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:48:15.856055Z": "TRANSLATION_DONE:tur"
+  }
 }

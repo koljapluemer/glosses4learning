@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:11.183051Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:11.183051Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:42.548489Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:42.749690Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:42.963444Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:43.141160Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:„Tom hat schon wieder, und ich unterstelle ihm, mit voller Absicht, die Papiertonne dahin gestellt, wo, wie ich ihm schon tausendmal gesagt habe, die Restmülltonne stehen soll! Ich will, dass er be"
+    ],
+    [
+      "TRANSLATION",
+      "fra:complètement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:completamente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:полностью"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tamamen"
     ]
   ]
 }

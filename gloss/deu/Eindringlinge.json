@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:57.305525Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:57.305525Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:16.820553Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:17.004127Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:17.209279Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:17.459972Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:invaders"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Intrusions"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Intrusione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вторгшиеся"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İstismarcılar"
     ]
   ]
 }

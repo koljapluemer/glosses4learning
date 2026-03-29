@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:20.845785Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:20.845785Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:21.935225Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:22.121530Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:22.316312Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:22.505665Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:We observed"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir sahen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Nous avons vu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мы говорили"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Gördük"
     ]
   ]
 }

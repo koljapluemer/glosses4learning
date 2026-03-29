@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:47:14.763268Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:47:14.763268Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:38.870209Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:39.085105Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:39.286470Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:39.487374Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:they bought"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich kaufte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ilelle a acheté"
+    ],
+    [
+      "TRANSLATION",
+      "rus:купил"
+    ],
+    [
+      "TRANSLATION",
+      "tur:aldı"
     ]
   ]
 }

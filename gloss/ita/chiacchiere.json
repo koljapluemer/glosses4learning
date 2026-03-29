@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:32.062266Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:32.062266Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:52.716101Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:52.935825Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:53.169229Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:53.432392Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:banter"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gespräche, Unterhaltungen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:conversations, bavardages"
+    ],
+    [
+      "TRANSLATION",
+      "rus:беседы, разговоры"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sohbetler, gündelik konuşmalar"
     ]
   ]
 }

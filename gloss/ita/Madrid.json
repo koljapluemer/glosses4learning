@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:27.066724Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:27.066724Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:12.174553Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:12.326989Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:12.488744Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:12.638049Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:a cultural hub in Spain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Madrid"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Madrid"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мадрид"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Madrid"
     ]
   ]
 }

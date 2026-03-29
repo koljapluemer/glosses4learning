@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les tortues sont des reptiles"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reptilien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reptiles"
+    ],
+    [
+      "TRANSLATION",
+      "ita:rettili"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Рептилии"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sürüngenler"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:45:25.816318Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:45:26.009338Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:45:26.163343Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:45:26.363028Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:45:26.556601Z": "TRANSLATION_DONE:tur"
+  }
 }

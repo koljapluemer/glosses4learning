@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:48.439773Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:48.439773Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:12.259038Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:12.426679Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:12.609862Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:12.812640Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:severe"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mauvais"
+    ],
+    [
+      "TRANSLATION",
+      "ita:terribile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:страшные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kötü"
     ]
   ]
 }

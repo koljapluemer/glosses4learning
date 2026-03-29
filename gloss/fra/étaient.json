@@ -48,9 +48,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'étaient toutes des choses faites main"
+    ],
+    [
+      "TRANSLATION",
+      "deu:waren"
+    ],
+    [
+      "TRANSLATION",
+      "ita:erano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:были"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oluyorlardı"
     ]
   ],
   "logs": {
-    "2026-03-28T15:48:20.209732Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:48:20.209732Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:51:14.864745Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:51:15.043866Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:51:15.216849Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:51:15.395121Z": "TRANSLATION_DONE:tur"
   }
 }

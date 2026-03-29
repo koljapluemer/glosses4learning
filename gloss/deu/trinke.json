@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:37.597368Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:37.597368Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:57.127189Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:57.304068Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:57.474810Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:57.677030Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:to drink"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je bois"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bevo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пью"
+    ],
+    [
+      "TRANSLATION",
+      "tur:içiyorum"
     ]
   ]
 }

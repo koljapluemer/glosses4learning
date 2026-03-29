@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:19:16.278648Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:19:16.278648Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:47.310494Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:47.482513Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:47.673324Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:47.855962Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Da aber Johannes im Gefängnis die Werke Christi hörte, sandte er seiner Jünger zwei und ließ ihm sagen﹕ Bist du, der da kommen soll, oder sollen wir eines anderen warten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:attendre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aspettare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ждать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beklemek"
+    ],
+    [
+      "TRANSLATION",
+      "fra:attendez"
     ]
   ]
 }

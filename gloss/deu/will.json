@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:23.061411Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:23.061411Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:03.470012Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:03.618431Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:03.784462Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -39,6 +42,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich will meine Freundin wiederhaben!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sera"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avrà"
+    ],
+    [
+      "TRANSLATION",
+      "rus:будет"
     ]
   ]
 }

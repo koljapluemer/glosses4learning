@@ -24,9 +24,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Depuis la maison, j'ai entendu des sanglots"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Seit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Da"
+    ],
+    [
+      "TRANSLATION",
+      "rus:С тех пор"
+    ],
+    [
+      "TRANSLATION",
+      "tur:O zamandan beri"
     ]
   ],
   "logs": {
-    "2026-03-28T15:47:53.600018Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:47:53.600018Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:13.368769Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:13.546516Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:13.737636Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:13.926754Z": "TRANSLATION_DONE:tur"
   }
 }

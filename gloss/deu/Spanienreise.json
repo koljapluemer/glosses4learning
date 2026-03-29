@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:14.825554Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:14.825554Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:23.011486Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:23.224818Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:23.449179Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:23.677144Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Spain trip"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Voyage en Espagne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Viaggio in Spagna"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Путешествие в Испанию"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İspanya seyahati"
     ]
   ]
 }

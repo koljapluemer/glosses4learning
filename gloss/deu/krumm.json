@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:37.801073Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:37.801073Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:59.157081Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:59.349658Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:59.547917Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:59.758490Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:wavy"
+    ],
+    [
+      "TRANSLATION",
+      "fra:courbé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:curvo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:изогнутый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bükülmüş"
     ]
   ]
 }

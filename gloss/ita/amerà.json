@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:25.962508Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:25.962508Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:27.372145Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:27.540937Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:27.745500Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:27.938766Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:it will love"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erklären"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fera"
+    ],
+    [
+      "TRANSLATION",
+      "rus:объявит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:açacaktır"
     ]
   ]
 }

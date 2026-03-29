@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:23.260458Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:23.260458Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:41.266629Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:41.448572Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:41.613027Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:42.252662Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -99,6 +103,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne sais pas du tout parler anglais"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di"
+    ],
+    [
+      "TRANSLATION",
+      "rus:от"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Bu kelime, bağlamına göre farklı anlamlara gelebilir. Örneğin, du kelimesi on, o veya kendine gibi anlamlara gelebilir. Lütfen daha fazla bağlam sağlayın.)"
     ]
   ]
 }

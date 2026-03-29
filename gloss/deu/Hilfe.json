@@ -4,7 +4,10 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.930245Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.890505Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.890505Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:13:18.823300Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:18.977222Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:19.179859Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -41,6 +44,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich hab diesen Job mit der Hilfe meines Lehrers bekommen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Aide"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Aiuto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Помощь"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aide"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aiuto"
     ]
   ]
 }

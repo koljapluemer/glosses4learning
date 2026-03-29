@@ -24,9 +24,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Comment avez-vous répondu à cette question ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geantwortet"
+    ],
+    [
+      "TRANSLATION",
+      "ita:risposta"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ответил"
+    ],
+    [
+      "TRANSLATION",
+      "tur:cevap verilmiş"
     ]
   ],
   "logs": {
-    "2026-03-28T15:45:45.912557Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:45:45.912557Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:11.236126Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:11.399590Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:46:11.581634Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:46:11.761189Z": "TRANSLATION_DONE:tur"
   }
 }

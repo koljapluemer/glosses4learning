@@ -17,9 +17,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ce n'est pas une seule phrase, c'en est deux"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ausdruck"
+    ],
+    [
+      "TRANSLATION",
+      "ita:espressione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:фраза"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ifade"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:42:35.489991Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:35.692721Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:35.867268Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:36.033655Z": "TRANSLATION_DONE:tur"
+  }
 }

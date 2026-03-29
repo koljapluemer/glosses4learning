@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:08.819861Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:08.819861Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:28.975942Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:29.146607Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:29.307018Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:29.495867Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "USAGE_EXAMPLE",
       "fra:Pourquoi ne pas attendre jusqu'à demain ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:warten"
+    ],
+    [
+      "TRANSLATION",
+      "deu:warten auf"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aspettare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ждать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beklemek"
     ]
   ]
 }

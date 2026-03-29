@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce que quelqu'un peut ouvrir une fenêtre, s'il vous plaît ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:öffnen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aprire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:открыть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:açmak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:24.403921Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:24.591797Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:24.750116Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:24.903204Z": "TRANSLATION_DONE:tur"
+  }
 }

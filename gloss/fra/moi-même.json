@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom et moi-même ne savons pas parler français"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mich selbst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:myself"
+    ],
+    [
+      "TRANSLATION",
+      "ita:anche me"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я сам"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ben de"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:39:48.815147Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:39:48.969703Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:39:49.152247Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:39:49.315411Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:39:49.476102Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,10 @@
   "logs": {
     "2025-12-20T13:12:32.635Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-20T13:12:54.522Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
-    "2025-12-20T13:13:22.608Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-20T13:13:22.608Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:19:19.198984Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:19.359833Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:19.526551Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -47,6 +50,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wenn man einem Gemeinen gut zuredet, geht das zum einen Ohr hinein und zum anderen wieder hinaus"
+    ],
+    [
+      "TRANSLATION",
+      "fra:va"
+    ],
+    [
+      "TRANSLATION",
+      "ita:va"
+    ],
+    [
+      "TRANSLATION",
+      "rus:идёт"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vais"
     ]
   ]
 }

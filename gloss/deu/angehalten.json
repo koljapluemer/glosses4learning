@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom ist wegen Geschwindigkeitsüberschreitung angehalten worden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:respecté"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sospeso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остановлен"
+    ],
+    [
+      "TRANSLATION",
+      "tur:durdurulmuş"
     ]
   ],
   "logs": {
-    "2026-03-28T16:41:31.225845Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:41:31.225845Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:56.048607Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:56.248767Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:56.419463Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:56.626391Z": "TRANSLATION_DONE:tur"
   }
 }

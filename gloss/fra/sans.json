@@ -45,12 +45,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tu ne peux pas faire de briques sans paille"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ohne"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmadan"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:42:29.660278Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:42:29.660278Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:46.808751Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:46.987994Z": "TRANSLATION_DONE:tur"
   }
 }

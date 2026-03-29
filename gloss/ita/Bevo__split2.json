@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:32:21.825730Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:32:21.825730Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:14.752707Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:14.926644Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:15.105376Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:15.289566Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:I consume"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bevo"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Bevo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Bevо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bevo"
     ]
   ]
 }

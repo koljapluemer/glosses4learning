@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:21.542749Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:21.542749Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:51.790296Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:51.942519Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:52.164214Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:52.433380Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I might"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich kann"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je peux"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я могу"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bunu yapabilir miyim﹖"
     ]
   ]
 }

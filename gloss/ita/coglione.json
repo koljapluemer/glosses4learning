@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:45.398401Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:45.398401Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:13.205791Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:13.393364Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:13.619584Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:13.836380Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:dumbass"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verrückter, Idiot"
+    ],
+    [
+      "TRANSLATION",
+      "fra:imbécile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:дурак, идиот"
+    ],
+    [
+      "TRANSLATION",
+      "tur:salak, aptal"
     ]
   ]
 }

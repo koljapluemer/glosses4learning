@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ce sont des hommes libres ﹖ Quelle blague !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:frei"
+    ],
+    [
+      "TRANSLATION",
+      "eng:free"
+    ],
+    [
+      "TRANSLATION",
+      "ita:liberi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:свободные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:serbest"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:38:25.945806Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:26.115672Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:26.264074Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:26.425487Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:38:26.591525Z": "TRANSLATION_DONE:tur"
+  }
 }

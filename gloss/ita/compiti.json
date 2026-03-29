@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:47:01.662261Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:47:01.662261Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:28.047009Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:28.249959Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:28.433958Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:28.650853Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:schoolwork"
+    ],
+    [
+      "TRANSLATION",
+      "fra:devoirs"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufgaben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tâches"
+    ],
+    [
+      "TRANSLATION",
+      "rus:задания"
+    ],
+    [
+      "TRANSLATION",
+      "tur:görevler"
     ]
   ]
 }

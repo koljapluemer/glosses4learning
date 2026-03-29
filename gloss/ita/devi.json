@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:47.640152Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:47.640152Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:58.917321Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:59.101588Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:59.287891Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +38,26 @@
     [
       "TRANSLATION",
       "deu:sollst"
+    ],
+    [
+      "TRANSLATION",
+      "deu:musst"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mußt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:doit"
+    ],
+    [
+      "TRANSLATION",
+      "rus:необходимо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerekiyor"
     ]
   ]
 }

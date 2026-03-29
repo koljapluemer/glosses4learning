@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:41.173111Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:41.173111Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:19.147112Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:19.328935Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:19.516406Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:19.689393Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:lorry"
+    ],
+    [
+      "TRANSLATION",
+      "deu:LKW"
+    ],
+    [
+      "TRANSLATION",
+      "fra:camion"
+    ],
+    [
+      "TRANSLATION",
+      "rus:грузовик"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tır"
     ]
   ]
 }

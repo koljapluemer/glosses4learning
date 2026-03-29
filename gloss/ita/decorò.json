@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:29.313990Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:29.313990Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:43.379976Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:43.588239Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:43.778419Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:43.971068Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:heshe ornamented"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dekoriert"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il a décoré"
+    ],
+    [
+      "TRANSLATION",
+      "rus:украсил"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dekor etti"
     ]
   ]
 }

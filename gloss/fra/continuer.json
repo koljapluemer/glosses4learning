@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles ne peuvent pas continuer sans Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weiterführen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:continue"
+    ],
+    [
+      "TRANSLATION",
+      "rus:продолжать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:devam etmek"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:31:34.721417Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:34.906344Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:35.087896Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:35.265510Z": "TRANSLATION_DONE:tur"
+  }
 }

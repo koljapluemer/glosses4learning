@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:16.657815Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:16.657815Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:50.212176Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:50.427076Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:50.602655Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:50.802772Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:hunting"
+    ],
+    [
+      "TRANSLATION",
+      "deu:suchen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en quête de"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поиск"
+    ],
+    [
+      "TRANSLATION",
+      "tur:arayan"
     ]
   ]
 }

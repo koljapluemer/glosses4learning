@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:44:28.219103Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:44:28.219103Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:41.710093Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:41.906723Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:42.088554Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:42.249146Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:purchase"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Acheter"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Acquisto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Покупаю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Satın al"
     ]
   ]
 }

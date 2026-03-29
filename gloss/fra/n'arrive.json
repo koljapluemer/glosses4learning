@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:S'il vous plaît, nettoyez cette pièce avant que tout le monde n'arrive"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non succede"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не происходит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmaz"
     ]
   ],
   "logs": {
-    "2026-03-28T15:45:03.794410Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:45:03.794410Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:40:14.330115Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:14.484887Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:14.645189Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:40:14.817405Z": "TRANSLATION_DONE:tur"
   }
 }

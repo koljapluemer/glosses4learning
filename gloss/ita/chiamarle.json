@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:21.916485Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:21.916485Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:54.368806Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:54.568278Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:54.774665Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:54.980496Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to call it"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie anrufen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:l'appeler"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвонить ей"
+    ],
+    [
+      "TRANSLATION",
+      "tur:onurlandırmak"
     ]
   ]
 }

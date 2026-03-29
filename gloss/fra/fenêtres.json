@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette maison a des fenêtres en double vitrage"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fenster"
+    ],
+    [
+      "TRANSLATION",
+      "eng:windows"
+    ],
+    [
+      "TRANSLATION",
+      "ita:finestre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:окна"
+    ],
+    [
+      "TRANSLATION",
+      "tur:pencereler"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:35:36.605713Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:35:36.787925Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:35:36.966087Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:35:37.133993Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:35:37.317979Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:38.313067Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:38.313067Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:16.777691Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:16.959002Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:17.153338Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:17.339254Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:to think"
+    ],
+    [
+      "TRANSLATION",
+      "deu:glauben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:croire"
+    ],
+    [
+      "TRANSLATION",
+      "fra:crois"
+    ],
+    [
+      "TRANSLATION",
+      "rus:верить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:inanmak"
     ]
   ]
 }

@@ -4,7 +4,9 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.793843Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.726471Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.726471Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:19:17.131811Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:17.324561Z": "TRANSLATION_DONE:ita"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -45,6 +47,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Vielleicht sollten Sie wieder nach Hause gehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aller"
+    ],
+    [
+      "TRANSLATION",
+      "ita:andare"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vont"
+    ],
+    [
+      "TRANSLATION",
+      "ita:camminare"
     ]
   ]
 }

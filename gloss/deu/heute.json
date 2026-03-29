@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.941804Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.904772Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.904772Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:20:14.236770Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:14.379301Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:14.559614Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:14.738902Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -41,6 +45,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich danke Ihnen für alles, was Sie heute für mich getan haben!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aujourd'hui"
+    ],
+    [
+      "TRANSLATION",
+      "ita:oggi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сегодня"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bugün"
     ]
   ]
 }

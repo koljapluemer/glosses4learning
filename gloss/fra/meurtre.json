@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:La plupart des gens pensent que le meurtre est mauvais"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mord"
+    ],
+    [
+      "TRANSLATION",
+      "eng:murder"
+    ],
+    [
+      "TRANSLATION",
+      "ita:omicidio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:убийство"
+    ],
+    [
+      "TRANSLATION",
+      "tur:cinayet"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:39:39.108102Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:39:39.275687Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:39:39.442096Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:39:39.636556Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:39:39.825209Z": "TRANSLATION_DONE:tur"
+  }
 }

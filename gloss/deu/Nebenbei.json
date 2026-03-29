@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:47.311585Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:47.311585Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:34.025078Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:34.195864Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:34.387694Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:34.558646Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:meanwhile"
+    ],
+    [
+      "TRANSLATION",
+      "fra:En aparté"
+    ],
+    [
+      "TRANSLATION",
+      "ita:A margine"
+    ],
+    [
+      "TRANSLATION",
+      "rus:В качестве дополнения"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ek olarak"
     ]
   ]
 }

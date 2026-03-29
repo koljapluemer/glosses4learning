@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:12.425982Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:12.425982Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:31.404811Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:31.591930Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:31.794790Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:31.990502Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -83,6 +87,26 @@
     [
       "USAGE_EXAMPLE",
       "fra:À quelle heure est notre réunion demain ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:morgen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:domani"
+    ],
+    [
+      "TRANSLATION",
+      "rus:завтра"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yarın"
+    ],
+    [
+      "TRANSLATION",
+      "ina:odia"
     ]
   ]
 }

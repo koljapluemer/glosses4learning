@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:32.504756Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:32.504756Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:02.668974Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:02.876967Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:03.081979Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:03.294203Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:In all likelihood"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wahrscheinlich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Probablement"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Скорее всего"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Muhtemelen"
     ]
   ]
 }

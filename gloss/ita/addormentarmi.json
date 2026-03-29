@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:42:48.212473Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:42:48.212473Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:54.721716Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:54.927510Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:55.148559Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:55.357107Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to drift off"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mich verwöhnen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:me bercer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:убаюкать меня"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uyandır"
     ]
   ]
 }

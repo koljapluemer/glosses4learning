@@ -32,9 +32,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les questions stupides n'existent pas"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es gibt keine"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non esistono"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не существуют"
+    ],
+    [
+      "TRANSLATION",
+      "tur:var olmayan"
     ]
   ],
   "logs": {
-    "2026-03-28T15:40:00.470216Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:40:00.470216Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:40:21.995297Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:22.142610Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:22.297138Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:40:22.451445Z": "TRANSLATION_DONE:tur"
   }
 }

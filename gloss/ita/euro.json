@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:100 euro per tutto il giorno"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Euro"
+    ],
+    [
+      "TRANSLATION",
+      "eng:euro"
+    ],
+    [
+      "TRANSLATION",
+      "fra:euro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:евро"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Euro"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:04:17.373187Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:17.552298Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:17.729297Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:17.891120Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:18.071127Z": "TRANSLATION_DONE:tur"
+  }
 }

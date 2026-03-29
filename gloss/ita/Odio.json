@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:48.945404Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:48.945404Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:32.111491Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:32.296231Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:32.451326Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:32.633809Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "eng:Dislike"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich hasse"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je déteste"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я ненавижу"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Korkarım"
     ]
   ]
 }

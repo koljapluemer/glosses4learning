@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:42:26.742085Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:42:26.742085Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:37.088839Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:37.264162Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:37.516004Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:37.699624Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Yellowstone region"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Yellowstone"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Yellowstone"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Гранд-Каньон (Yellowstone)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yellowstone"
     ]
   ]
 }

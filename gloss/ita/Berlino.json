@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:20:27.058972Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:20:27.058972Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:11.604436Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:11.798643Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:12.004759Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:12.200090Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "eng:the capital of Germany"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Berlin"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Berlin"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Берлин"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Berlin"
     ]
   ]
 }

@@ -153,12 +153,35 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ce n'est pas comme cela qu'elle fonctionne"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Diesen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dieser"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Questo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Это"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:38:23.803321Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:23.803321Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:57.299059Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:24:57.465860Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:57.625251Z": "TRANSLATION_DONE:rus"
   }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:49.866547Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:49.866547Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:07.591980Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:07.766438Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:07.934567Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:08.091073Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -67,6 +71,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Vielleicht hast du diesen Witz schon einmal gehört"
+    ],
+    [
+      "TRANSLATION",
+      "fra:as"
+    ],
+    [
+      "TRANSLATION",
+      "ita:hai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у тебя есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hasta"
     ]
   ]
 }

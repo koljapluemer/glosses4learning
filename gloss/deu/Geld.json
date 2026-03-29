@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:30.535165Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:30.535165Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:54.981953Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:55.175735Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:55.370501Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:55.531648Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das ist nicht Ihr Geld, sondern meins"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Argent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Denaro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Деньги"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Para"
+    ],
+    [
+      "TRANSLATION",
+      "fra:argent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:denaro"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:56.410888Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:56.410888Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:05.256956Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:05.440888Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:05.649994Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:05.813853Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:offered"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gegeben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:a donné"
+    ],
+    [
+      "TRANSLATION",
+      "rus:предоставил"
+    ],
+    [
+      "TRANSLATION",
+      "tur:verdi"
     ]
   ]
 }

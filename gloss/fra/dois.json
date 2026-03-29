@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Et par-dessus tout, tu dois travailler maintenant"
+    ],
+    [
+      "TRANSLATION",
+      "eng:must"
+    ],
+    [
+      "TRANSLATION",
+      "ita:due"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нужно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:malı"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:33:29.714792Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:29.902689Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:30.075204Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:30.228122Z": "TRANSLATION_DONE:tur"
+  }
 }

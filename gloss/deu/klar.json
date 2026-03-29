@@ -29,12 +29,31 @@
     [
       "TRANSLATION",
       "eng:plain"
+    ],
+    [
+      "TRANSLATION",
+      "fra:clair"
+    ],
+    [
+      "TRANSLATION",
+      "ita:chiaro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ясно"
+    ],
+    [
+      "TRANSLATION",
+      "fra:claire"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T16:37:43.687720Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:37:43.687720Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:49.670139Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:49.874222Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:50.059362Z": "TRANSLATION_DONE:rus"
   }
 }

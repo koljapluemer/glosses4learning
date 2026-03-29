@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:34.704143Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:34.704143Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:35.691034Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:35.876486Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:36.062356Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +38,26 @@
     [
       "TRANSLATION",
       "fra:même"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sogar"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aussi"
+    ],
+    [
+      "TRANSLATION",
+      "deu:auch"
+    ],
+    [
+      "TRANSLATION",
+      "rus:также"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ayrıca"
     ]
   ]
 }

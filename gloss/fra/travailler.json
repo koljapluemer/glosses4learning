@@ -69,12 +69,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cela fait bizarre de ne pas travailler"
+    ],
+    [
+      "TRANSLATION",
+      "deu:arbeiten"
+    ],
+    [
+      "TRANSLATION",
+      "rus:работать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çalışmak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:42:08.989574Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:42:08.989574Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:13.535013Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:13.722521Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:13.905380Z": "TRANSLATION_DONE:tur"
   }
 }

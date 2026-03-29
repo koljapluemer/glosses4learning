@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:28:16.164603Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:28:16.164603Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:00.182733Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:00.371087Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:00.543437Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:00.738026Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Let's go__tr2"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir gingen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Nous nous sommes promenés"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Андаммо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yolculuğumuz"
     ]
   ]
 }

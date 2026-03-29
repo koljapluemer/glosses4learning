@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Veuillez saisir une adresse électronique valide"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bitte"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Si prega"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Пожалуйста"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Lütfen"
     ]
   ],
   "logs": {
-    "2026-03-28T15:49:48.003208Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:49:48.003208Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:26:45.557547Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:26:45.746061Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:26:45.925957Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:26:46.126440Z": "TRANSLATION_DONE:tur"
   }
 }

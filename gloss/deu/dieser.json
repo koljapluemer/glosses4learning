@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:18.037910Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:18.037910Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:06.075505Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:06.234252Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:06.429927Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -67,6 +70,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Die Zeitungen haben von dieser Neuigkeit nicht berichtet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ce"
+    ],
+    [
+      "TRANSLATION",
+      "ita:questo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:этот"
     ]
   ]
 }

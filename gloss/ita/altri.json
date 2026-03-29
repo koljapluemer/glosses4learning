@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:18.319930Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:18.319930Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:20.563522Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:20.727271Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:20.903231Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:21.093803Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,34 @@
     [
       "TRANSLATION",
       "eng:additional ones"
+    ],
+    [
+      "TRANSLATION",
+      "deu:anderen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:andern"
+    ],
+    [
+      "TRANSLATION",
+      "fra:autres"
+    ],
+    [
+      "TRANSLATION",
+      "fra:d'autre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:andere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:другие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:diğer"
     ]
   ]
 }

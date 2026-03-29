@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Der Vorname meines Mannes ist Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mannes"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mannes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Mannes"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Маннес"
+    ],
+    [
+      "TRANSLATION",
+      "tur:مانس"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:14:10.405112Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:10.578993Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:10.724664Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:10.914942Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:11.087394Z": "TRANSLATION_DONE:tur"
+  }
 }

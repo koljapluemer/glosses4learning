@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:La population de cette ville est en pleine augmentation"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erhöhung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:increase"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aumento"
+    ],
+    [
+      "TRANSLATION",
+      "rus:увеличение"
+    ],
+    [
+      "TRANSLATION",
+      "tur:artış"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:28:35.793410Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:35.980950Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:36.161809Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:36.356882Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:36.553384Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:28.329092Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:28.329092Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:51.528544Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:51.707321Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:51.959830Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:52.161828Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:antonym"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Antithèse"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Contraparte"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Противоположная сторона"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Karşı taraf"
     ]
   ]
 }

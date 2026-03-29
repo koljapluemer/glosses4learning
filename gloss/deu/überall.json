@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:44.468290Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:44.468290Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:32.775708Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:32.946584Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:33.136014Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:33.308531Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:in all places"
+    ],
+    [
+      "TRANSLATION",
+      "fra:partout"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ovunque"
+    ],
+    [
+      "TRANSLATION",
+      "rus:везде"
+    ],
+    [
+      "TRANSLATION",
+      "tur:her yerde"
     ]
   ]
 }

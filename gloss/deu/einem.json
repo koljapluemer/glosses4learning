@@ -3,7 +3,11 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:32:32.555003Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:32.555003Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:16.495599Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:16.639306Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:16.839667Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:17.001033Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -72,6 +76,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Maria gab Tom mit einem Blick zu verstehen, daß sie im Bilde war"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à un"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a"
+    ],
+    [
+      "TRANSLATION",
+      "rus:одному"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bir"
     ]
   ]
 }

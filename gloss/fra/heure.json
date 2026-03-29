@@ -49,12 +49,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:À quelle heure est notre réunion demain ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:час"
+    ],
+    [
+      "TRANSLATION",
+      "tur:saat"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:47:06.469035Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:47:06.469035Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:36:44.644842Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:36:44.830559Z": "TRANSLATION_DONE:tur"
   }
 }

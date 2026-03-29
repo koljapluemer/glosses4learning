@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:21.462038Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:21.462038Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:03.833776Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:04.057528Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:04.282996Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:04.497784Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:physical therapists"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Physiotherapeuten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:kinésithérapeutes"
+    ],
+    [
+      "TRANSLATION",
+      "rus:физиотерапевты"
+    ],
+    [
+      "TRANSLATION",
+      "tur:fizyoterapist"
     ]
   ]
 }

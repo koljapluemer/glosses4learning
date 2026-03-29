@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:28.989532Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:28.989532Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:39.042130Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:39.232951Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:39.441308Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:39.636666Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:drum kit"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Akku"
+    ],
+    [
+      "TRANSLATION",
+      "fra:batterie"
+    ],
+    [
+      "TRANSLATION",
+      "rus:аккумулятор"
+    ],
+    [
+      "TRANSLATION",
+      "tur:pil"
     ]
   ]
 }

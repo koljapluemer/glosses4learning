@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:45.691751Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:45.691751Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:41.661403Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:41.835344Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:42.012829Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:42.186599Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Man"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Grand-père"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Nonno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Дедушка"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Dedem"
     ]
   ]
 }

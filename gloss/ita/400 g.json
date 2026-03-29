@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:10:20.403305Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:10:20.403305Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:52:48.236002Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:52:48.418942Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:52:48.609487Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:52:48.795538Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:400 g"
+    ],
+    [
+      "TRANSLATION",
+      "deu:400 g"
+    ],
+    [
+      "TRANSLATION",
+      "fra:400 g"
+    ],
+    [
+      "TRANSLATION",
+      "rus:400 г"
+    ],
+    [
+      "TRANSLATION",
+      "tur:400 gram"
     ]
   ]
 }

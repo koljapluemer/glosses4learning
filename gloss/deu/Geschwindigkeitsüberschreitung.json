@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom ist wegen Geschwindigkeitsüberschreitung angehalten worden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Speeding"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Excès de vitesse"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Superamento dei limiti di velocità"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Превышение скорости"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Hız sınırını aşma"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:12:59.357335Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:59.555983Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:59.764064Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:59.978032Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:00.188892Z": "TRANSLATION_DONE:tur"
+  }
 }

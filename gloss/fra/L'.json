@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:L'anglais est une langue parlée dans le monde entier"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The"
+    ],
+    [
+      "TRANSLATION",
+      "ita:L'"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:L"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:25:36.131644Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:36.316770Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:36.488056Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:36.663728Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:36.819169Z": "TRANSLATION_DONE:tur"
+  }
 }

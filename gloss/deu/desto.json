@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:10.334480Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:10.334480Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:03.230341Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:03.391301Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:03.585281Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:03.744288Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:the more... the more"
+    ],
+    [
+      "TRANSLATION",
+      "fra:desto"
+    ],
+    [
+      "TRANSLATION",
+      "ita:da questo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:из-за этого"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bu nedenle"
     ]
   ]
 }

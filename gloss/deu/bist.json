@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:53.460374Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:53.460374Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:41.879558Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:42.074792Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:42.242083Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:42.410613Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich bin froh, dass du sicher zu Hause angekommen bist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:êtes-vous"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:быть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bist"
     ]
   ]
 }

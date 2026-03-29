@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:09.150420Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:09.150420Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:54.177144Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:54.410790Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:54.611479Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:54.829898Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:The lecturer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Der LehrerDie Lehrerin"
+    ],
+    [
+      "TRANSLATION",
+      "fra:L'enseignant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Учитель"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Öğretmen"
     ]
   ]
 }

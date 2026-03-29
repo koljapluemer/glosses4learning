@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'est vraiment une question intéressante"
+    ],
+    [
+      "TRANSLATION",
+      "deu:interessant"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interesting"
+    ],
+    [
+      "TRANSLATION",
+      "ita:interessante"
+    ],
+    [
+      "TRANSLATION",
+      "rus:интересно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ilginç"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:37:25.994479Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:37:26.154682Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:37:26.320607Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:37:26.494111Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:37:26.698702Z": "TRANSLATION_DONE:tur"
+  }
 }

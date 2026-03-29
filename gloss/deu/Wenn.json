@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:56.965284Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:56.965284Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:12.711711Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:12.897659Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:13.078017Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -51,6 +54,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wenn du einmal Vater bist, wirst du es verstehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Si"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Quando"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Если"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Quand"
+    ],
+    [
+      "TRANSLATION",
+      "fra:S'il"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Se"
     ]
   ]
 }

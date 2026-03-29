@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:23:58.802137Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:23:58.802137Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:24.108114Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:24.277904Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:24.457421Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:24.637777Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne peux pas faire sans tes conseils"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ratschläge"
+    ],
+    [
+      "TRANSLATION",
+      "ita:consigli"
+    ],
+    [
+      "TRANSLATION",
+      "rus:советы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:öneriler"
     ]
   ]
 }

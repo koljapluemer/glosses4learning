@@ -333,12 +333,32 @@
     [
       "USAGE_EXAMPLE",
       "fra:La maison est assurée contre les incendies"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haus"
+    ],
+    [
+      "TRANSLATION",
+      "ita:casa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:дом"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ev"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:41:04.982430Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:41:04.982430Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:53.417973Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:53.583943Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:53.736625Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:38:53.898656Z": "TRANSLATION_DONE:tur"
   }
 }

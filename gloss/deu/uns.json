@@ -4,7 +4,9 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.797150Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.729974Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.729974Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:23:06.513026Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:06.706946Z": "TRANSLATION_DONE:ita"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -49,6 +51,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir sind doch an einem Punkt angelangt, wo uns Tom mal gern haben kann"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous"
+    ],
+    [
+      "TRANSLATION",
+      "ita:noi"
+    ],
+    [
+      "TRANSLATION",
+      "fra:uns"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ci"
+    ],
+    [
+      "TRANSLATION",
+      "ita:farci"
     ]
   ]
 }

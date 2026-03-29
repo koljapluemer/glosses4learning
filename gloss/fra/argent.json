@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:05.842993Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:05.842993Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:01.546530Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:01.740080Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:01.971308Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:02.136987Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles n'ont pas demandé son argent"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geld"
+    ],
+    [
+      "TRANSLATION",
+      "ita:denaro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:деньги"
+    ],
+    [
+      "TRANSLATION",
+      "tur:para"
     ]
   ]
 }

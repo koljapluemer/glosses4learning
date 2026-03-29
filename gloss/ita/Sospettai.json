@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:38:42.508114Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:38:42.508114Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:53.823199Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:54.016422Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:54.195408Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:54.415395Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I suspected it"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich hatte den Verdacht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je doutais"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я подозревал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Şüphelendim"
     ]
   ]
 }

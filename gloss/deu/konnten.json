@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:34.817937Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:34.817937Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:55.844366Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:56.066685Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:56.235130Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "rus:могли"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ont pu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:furono in grado di"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başardılar"
     ]
   ]
 }

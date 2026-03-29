@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:41.185363Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:41.185363Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:27.199809Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:27.357029Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:27.552239Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:27.723974Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:are counting"
+    ],
+    [
+      "TRANSLATION",
+      "fra:comptez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:conteggi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:считаешь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:say"
     ]
   ]
 }

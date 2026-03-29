@@ -32,6 +32,37 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe seinen Brief letzte Woche erhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Summary"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Résumé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Riepilogo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Краткое изложение"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Özet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:lettre"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:11:53.583243Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:53.745573Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:53.916129Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:54.113207Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:11:54.301873Z": "TRANSLATION_DONE:tur"
+  }
 }

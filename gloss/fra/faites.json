@@ -96,9 +96,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne vous faites pas de souci. Je ne vais nulle part"
+    ],
+    [
+      "TRANSLATION",
+      "deu:machen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fate"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выполняйте"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapın"
     ]
   ],
   "logs": {
-    "2026-03-28T15:46:23.778026Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:46:23.778026Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:35:26.368197Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:35:26.547045Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:35:26.731468Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:35:26.931393Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:55.661865Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:55.661865Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:33.172989Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:33.345969Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:33.542932Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:33.708244Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:covetous"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verliebt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:jaloux"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ревнивый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gelose"
     ]
   ]
 }

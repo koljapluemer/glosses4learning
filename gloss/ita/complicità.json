@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:47:04.118587Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:47:04.118587Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:30.395361Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:30.589134Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:30.790776Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:31.024085Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:connivance"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zusammenarbeit, Beteiligung"
+    ],
+    [
+      "TRANSLATION",
+      "fra:collaboration"
+    ],
+    [
+      "TRANSLATION",
+      "rus:соучастие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:işbirliği, ortak suç"
     ]
   ]
 }

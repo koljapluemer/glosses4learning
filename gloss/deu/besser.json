@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:45.960534Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:45.960534Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:33.289582Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:33.473420Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:33.633327Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:33.832318Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "dan:bedre"
+    ],
+    [
+      "TRANSLATION",
+      "fra:meilleur"
+    ],
+    [
+      "TRANSLATION",
+      "ita:migliore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лучше"
+    ],
+    [
+      "TRANSLATION",
+      "tur:daha iyi"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mieux"
     ]
   ]
 }

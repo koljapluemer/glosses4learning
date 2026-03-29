@@ -48,6 +48,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne sais pas si bien que ça le français"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Französisch"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French"
+    ],
+    [
+      "TRANSLATION",
+      "ita:francese"
+    ],
+    [
+      "TRANSLATION",
+      "rus:французский"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Fransızca"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:36:04.916118Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:36:05.111822Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:36:05.308764Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:36:05.549220Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:36:05.772886Z": "TRANSLATION_DONE:tur"
+  }
 }

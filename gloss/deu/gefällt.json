@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:14.112965Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:14.112965Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:11.526383Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:11.705132Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:11.899279Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "ita:piace"
+    ],
+    [
+      "TRANSLATION",
+      "fra:plait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нравится"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beğenildi"
     ]
   ]
 }

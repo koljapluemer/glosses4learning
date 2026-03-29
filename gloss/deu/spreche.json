@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:19.542934Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:19.542934Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:40.955073Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:41.154061Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:41.355113Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:41.561952Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:converse"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je parle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:parlo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:говорю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:konuşurum"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:05.031722Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:05.031722Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:29.081486Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:29.312454Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:29.482684Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:29.676839Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:unusual"
+    ],
+    [
+      "TRANSLATION",
+      "fra:étrange"
+    ],
+    [
+      "TRANSLATION",
+      "ita:strane, bizzarre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:странные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tuhaf"
     ]
   ]
 }

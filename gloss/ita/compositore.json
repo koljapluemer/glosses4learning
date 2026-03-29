@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:47:05.824034Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:47:05.824034Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:31.979057Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:32.188577Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:32.382881Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:32.571136Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:producer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Komponist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:compositeur"
+    ],
+    [
+      "TRANSLATION",
+      "rus:композитор"
+    ],
+    [
+      "TRANSLATION",
+      "tur:besteci"
     ]
   ]
 }

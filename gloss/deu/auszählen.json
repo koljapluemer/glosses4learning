@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:31.556724Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:31.556724Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:11.456122Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:11.632637Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:11.799366Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:12.028189Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to enumerate"
+    ],
+    [
+      "TRANSLATION",
+      "fra:compter"
+    ],
+    [
+      "TRANSLATION",
+      "ita:contare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пересчитывать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:saymak, listelemek"
     ]
   ]
 }

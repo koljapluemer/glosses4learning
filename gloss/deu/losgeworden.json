@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:51.814753Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:51.814753Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:14.376294Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:14.564410Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:14.746022Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:14.952944Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:freed from"
+    ],
+    [
+      "TRANSLATION",
+      "fra:déchu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:perso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ушедший"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başlamış"
     ]
   ]
 }

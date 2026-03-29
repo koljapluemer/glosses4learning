@@ -8,6 +8,37 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ils fabriquent des jouets dans cette usine"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spielzeug"
+    ],
+    [
+      "TRANSLATION",
+      "eng:toys"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giocattoli"
+    ],
+    [
+      "TRANSLATION",
+      "rus:игрушки"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oyuncaklar"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giocherelli"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:37:39.594219Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:37:39.751125Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:37:39.926672Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:37:40.121785Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:37:40.295641Z": "TRANSLATION_DONE:tur"
+  }
 }

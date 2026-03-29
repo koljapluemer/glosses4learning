@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:20.408240Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:20.408240Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:11.771954Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:11.950349Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:12.133338Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:12.318347Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to argue"
+    ],
+    [
+      "TRANSLATION",
+      "deu:diskutieren"
+    ],
+    [
+      "TRANSLATION",
+      "ita:discutere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обсуждать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tartışmak"
     ]
   ]
 }

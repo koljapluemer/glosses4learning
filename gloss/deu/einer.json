@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:59.384076Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:59.384076Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:17.718156Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:17.890833Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:18.049942Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:18.231119Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +51,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das hast du schon vor einer halben Stunde gesagt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:un"
+    ],
+    [
+      "TRANSLATION",
+      "ita:uno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:один"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:l'une"
     ]
   ]
 }

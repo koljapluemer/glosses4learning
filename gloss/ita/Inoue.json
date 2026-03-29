@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:20:48.212799Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:20:48.212799Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:33.286011Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:33.440047Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:33.615362Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:33.795795Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Inoue (family name)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Inoue"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Inoue"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Иноуэ"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İnoue"
     ]
   ]
 }

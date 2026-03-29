@@ -16,6 +16,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'est une route en très mauvais état et dangereuse"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Route"
+    ],
+    [
+      "TRANSLATION",
+      "eng:path"
+    ],
+    [
+      "TRANSLATION",
+      "ita:percorso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:маршрут"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yol"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:45:58.930075Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:45:59.074630Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:45:59.217568Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:45:59.379873Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:45:59.547580Z": "TRANSLATION_DONE:tur"
+  }
 }

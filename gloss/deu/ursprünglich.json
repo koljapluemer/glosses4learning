@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:48.756452Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:48.756452Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:12.516079Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:12.692176Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:12.899131Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:13.102231Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:primarily"
+    ],
+    [
+      "TRANSLATION",
+      "fra:initialement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:originariamente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:первоначально"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ilk olarak"
+    ],
+    [
+      "TRANSLATION",
+      "fra:d'origine"
     ]
   ]
 }

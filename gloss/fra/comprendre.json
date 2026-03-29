@@ -21,12 +21,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne peux-tu pas comprendre que c'est impossible ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstehen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:capire"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anlamak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:50:07.362077Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:50:07.362077Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:06.891109Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:07.065069Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:07.216060Z": "TRANSLATION_DONE:tur"
   }
 }

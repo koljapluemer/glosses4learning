@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:04.309950Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:04.309950Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:26.734004Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:26.901035Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:27.098147Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:27.286776Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich bin mir sicher, dass Tom Ihnen gefallen wird"
+    ],
+    [
+      "TRANSLATION",
+      "fra:assuré"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sicuro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:безопасно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:güvenli"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sûr"
+    ],
+    [
+      "TRANSLATION",
+      "gle:chónaí"
     ]
   ]
 }

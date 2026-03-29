@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:04.911743Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:04.911743Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:56.872386Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:57.059143Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:57.231284Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:27:57.445409Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'est une bonne chose que j'ai appris l'anglais"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erlernt"
+    ],
+    [
+      "TRANSLATION",
+      "ita:imparato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выучено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:öğrenildi"
     ]
   ]
 }

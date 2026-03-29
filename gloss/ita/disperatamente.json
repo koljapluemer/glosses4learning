@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:14.481104Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:14.481104Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:20.200738Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:20.414442Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:20.616032Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:20.819388Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:frantically"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verzweifelt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:désespérément"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отчаянно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çaresizce"
     ]
   ]
 }

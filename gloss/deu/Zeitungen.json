@@ -8,6 +8,37 @@
     [
       "USAGE_EXAMPLE",
       "deu:Die Zeitungen haben von dieser Neuigkeit nicht berichtet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Newspapers"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Journaux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Giornali"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Газеты"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Gazeteler"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giornali"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:16:30.895695Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:31.090106Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:31.262276Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:31.461557Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:31.635529Z": "TRANSLATION_DONE:tur"
+  }
 }

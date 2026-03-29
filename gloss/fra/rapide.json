@@ -8,6 +8,37 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'est une ville à croissance rapide"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schnelles"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schnell"
+    ],
+    [
+      "TRANSLATION",
+      "eng:quick"
+    ],
+    [
+      "TRANSLATION",
+      "ita:veloce"
+    ],
+    [
+      "TRANSLATION",
+      "rus:быстрый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hızlı"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:44:53.444349Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:53.618867Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:53.764825Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:53.940382Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:44:54.100899Z": "TRANSLATION_DONE:tur"
+  }
 }

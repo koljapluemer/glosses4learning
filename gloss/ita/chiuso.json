@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:34.318589Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:34.318589Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:03.570130Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:03.766191Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:03.967371Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:04.161946Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:sealed"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geschlossen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fermé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:закрыто"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kapalı"
     ]
   ]
 }

@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:50.915948Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:50.915948Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:47.213745Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:47.387018Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:47.586704Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -27,6 +30,18 @@
     [
       "TRANSLATION",
       "eng:political affairs"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Politique"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Politica"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Политика"
     ]
   ]
 }

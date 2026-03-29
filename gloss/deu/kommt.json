@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:33.794110Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:33.794110Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:55.318713Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:55.469274Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:55.671695Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -47,6 +50,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:„Was machen wir denn, wenn die Müllabfuhr diese Woche nicht kommt﹖“ – „Darüber mache ich mir überhaupt keine Sorgen.“"
+    ],
+    [
+      "TRANSLATION",
+      "fra:arrive"
+    ],
+    [
+      "TRANSLATION",
+      "ita:arriva"
+    ],
+    [
+      "TRANSLATION",
+      "rus:приходит"
     ]
   ]
 }

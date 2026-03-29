@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:38:25.076633Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:38:25.076633Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:44.313225Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:44.479477Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:44.652315Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:44.832139Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I am present"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je suis"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Benim"
     ]
   ]
 }

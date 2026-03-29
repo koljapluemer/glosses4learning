@@ -36,9 +36,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:As-tu pris un petit-déjeuner ce matin ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:genommen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:preso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:захвачен"
+    ],
+    [
+      "TRANSLATION",
+      "tur:alınmış"
     ]
   ],
   "logs": {
-    "2026-03-28T15:47:43.459609Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:47:43.459609Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:41.880669Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:42.037939Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:42.227819Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:42.401463Z": "TRANSLATION_DONE:tur"
   }
 }

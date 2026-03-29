@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:14.382620Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:14.382620Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:36.775100Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:37.020486Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:37.212478Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:37.494874Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to take off"
+    ],
+    [
+      "TRANSLATION",
+      "fra:partir, quitter"
+    ],
+    [
+      "TRANSLATION",
+      "ita:partire, andare via"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отправление"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yolculuğa çıkmak, ayrılmak"
     ]
   ]
 }

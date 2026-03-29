@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:35.077589Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:35.077589Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:17.752063Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:17.909538Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:18.077293Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "tur:Oldukça"
+    ],
+    [
+      "TRANSLATION",
+      "fra:assez"
+    ],
+    [
+      "TRANSLATION",
+      "ita:abbastanza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в значительной степени"
     ]
   ]
 }

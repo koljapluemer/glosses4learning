@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:53.008249Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:53.008249Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:50.443197Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:50.602423Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:50.787869Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:50.945690Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:bee species"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Apis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:API"
+    ],
+    [
+      "TRANSLATION",
+      "rus:API"
+    ],
+    [
+      "TRANSLATION",
+      "tur:API"
     ]
   ]
 }

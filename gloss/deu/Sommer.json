@@ -13,9 +13,35 @@
     [
       "USAGE_EXAMPLE",
       "deu:Diesen Sommer werde ich mit dem Fahrrad durch Europa reisen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Summer"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Estate"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Лето"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yaz"
+    ],
+    [
+      "TRANSLATION",
+      "ita:estate"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:15:19.023287Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:19.187812Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:19.352206Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:19.543664Z": "TRANSLATION_DONE:tur"
+  }
 }

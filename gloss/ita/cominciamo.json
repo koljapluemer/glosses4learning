@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:55.812626Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:55.812626Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:21.537115Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:21.748011Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:21.937173Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:22.119844Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:we'll start"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lasst uns beginnen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:commençons"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Начнём"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başlayalım"
     ]
   ]
 }

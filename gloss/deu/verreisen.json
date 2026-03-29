@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:In diesem Sommer werden wir gemeinsam verreisen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to travel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:voyager"
+    ],
+    [
+      "TRANSLATION",
+      "ita:partire, andare via"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отправляться в путешествие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:seyahat etme"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:23:25.296071Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:25.467564Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:25.663454Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:25.889135Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:26.079609Z": "TRANSLATION_DONE:tur"
+  }
 }

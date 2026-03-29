@@ -41,12 +41,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Nous avons passé une mauvaise journée"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tag"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giorno"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gün"
+    ],
+    [
+      "TRANSLATION",
+      "ita:giornata"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:41:52.605388Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:41:52.605388Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:37:42.065122Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:37:42.233135Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:37:42.409185Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:44.020792Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:44.020792Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:31.698564Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:31.905623Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:32.105627Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:32.324596Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to procure"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fournir, assurer"
+    ],
+    [
+      "TRANSLATION",
+      "ita:assicurare, fornire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обеспечить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sağlamak, temin etmek"
     ]
   ]
 }

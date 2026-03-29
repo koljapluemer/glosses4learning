@@ -228,6 +228,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles n'ont pas travaillé ce soir"
+    ],
+    [
+      "TRANSLATION",
+      "deu:n'"
+    ],
+    [
+      "TRANSLATION",
+      "eng:no"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нет"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:40:10.137337Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:10.317866Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:40:10.493446Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:10.671632Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:40:10.848804Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:tur"
+  }
 }

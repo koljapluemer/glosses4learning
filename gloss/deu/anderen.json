@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:23.741400Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:23.741400Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:53.863967Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:54.036350Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:54.224115Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:54.406061Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom hat Maria mit einem anderen Mann zusammen gesehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aux autres"
+    ],
+    [
+      "TRANSLATION",
+      "ita:altri"
+    ],
+    [
+      "TRANSLATION",
+      "rus:другим"
+    ],
+    [
+      "TRANSLATION",
+      "tur:diğerlerine"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:11:08.849931Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:11:08.849931Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:50.472567Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:24:50.661845Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:50.816815Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:50.987219Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Aujourd'hui nous sommes présents ; demain, qui sait ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Heute"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Oggi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Сегодня"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bugün"
     ]
   ]
 }

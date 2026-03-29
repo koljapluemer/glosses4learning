@@ -3,7 +3,11 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:37:31.584572Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:31.584572Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:13.206150Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:13.392649Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:13.572705Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:13.764375Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -32,6 +36,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich wurde von der Polizei angehalten und bekam einen Strafzettel für zu schnelles Fahren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:est devenu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:è stato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:стало"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oldu"
+    ],
+    [
+      "TRANSLATION",
+      "fra:devenue"
+    ],
+    [
+      "TRANSLATION",
+      "ita:diventata"
     ]
   ]
 }

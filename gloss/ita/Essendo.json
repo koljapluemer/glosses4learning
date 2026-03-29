@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:14.876984Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:14.876984Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:04.932843Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:05.084818Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:05.261722Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:05.448738Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:In being"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Da es"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Étant donné"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Поскольку"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Olan"
     ]
   ]
 }

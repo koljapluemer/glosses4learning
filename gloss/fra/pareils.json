@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ces deux-là sont exactement pareils"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ebenfalls"
+    ],
+    [
+      "TRANSLATION",
+      "eng:similar"
+    ],
+    [
+      "TRANSLATION",
+      "ita:simili"
+    ],
+    [
+      "TRANSLATION",
+      "rus:аналогичные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:aynı şekilde"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:31.495523Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:31.673851Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:41:31.842986Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:32.043617Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:32.229091Z": "TRANSLATION_DONE:tur"
+  }
 }

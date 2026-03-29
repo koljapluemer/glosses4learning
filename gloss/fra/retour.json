@@ -21,9 +21,35 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les États-Unis d'Amérique des grandes entreprises sont de retour"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zurück"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rückgabe"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ritorno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:возврат"
+    ],
+    [
+      "TRANSLATION",
+      "tur:geri dönüş"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:45:43.601870Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:45:43.793219Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:45:43.985435Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:45:44.176229Z": "TRANSLATION_DONE:tur"
+  }
 }

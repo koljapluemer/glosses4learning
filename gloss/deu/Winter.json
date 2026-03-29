@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:01.826635Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:01.826635Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:17.812119Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:17.984443Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:18.168610Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:18.325224Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir haben diesen Winter einen Schneemann gebaut"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Hiver"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Inverno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Зима"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kış"
     ]
   ]
 }

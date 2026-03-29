@@ -9,9 +9,40 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe seinen Brief letzte Woche erhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:last"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dernier"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ultimo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:последний"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sonuncu"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dernières"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:21:08.276669Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:08.427381Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:08.589462Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:08.760381Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:08.955158Z": "TRANSLATION_DONE:tur"
+  }
 }

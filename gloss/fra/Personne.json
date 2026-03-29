@@ -20,6 +20,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Personne n'est venu prendre de tes nouvelles hier ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Person"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Person"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Persona"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Человек"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Birey"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:26:10.848632Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:26:11.024170Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:26:11.189755Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:26:11.375804Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:26:11.533295Z": "TRANSLATION_DONE:tur"
+  }
 }

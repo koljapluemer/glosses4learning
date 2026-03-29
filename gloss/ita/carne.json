@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:02.077239Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:02.077239Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:37.327330Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:37.502465Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:37.691131Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:37.871075Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:protein"
+    ],
+    [
+      "TRANSLATION",
+      "fra:viande"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fleisch"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мясо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:et"
     ]
   ]
 }

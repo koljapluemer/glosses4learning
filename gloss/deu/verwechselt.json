@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Diese beiden Wörter können leicht miteinander verwechselt werden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:confused"
+    ],
+    [
+      "TRANSLATION",
+      "fra:confus"
+    ],
+    [
+      "TRANSLATION",
+      "ita:confuso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:путает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:karıştırılmış"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:23:32.989190Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:33.153065Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:33.324190Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:33.511498Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:33.701550Z": "TRANSLATION_DONE:tur"
+  }
 }

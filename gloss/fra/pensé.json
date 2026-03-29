@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je n'ai pas pensé que quiconque était à la maison"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gedacht"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pensato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:подумано"
+    ],
+    [
+      "TRANSLATION",
+      "tur:düşünülmüş"
     ]
   ],
   "logs": {
-    "2026-03-28T15:50:25.602890Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:50:25.602890Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:42:17.240758Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:17.424778Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:17.605226Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:17.800374Z": "TRANSLATION_DONE:tur"
   }
 }

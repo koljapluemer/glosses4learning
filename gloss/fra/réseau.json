@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette maison est en dehors du réseau électrique"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Netzwerk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:network"
+    ],
+    [
+      "TRANSLATION",
+      "ita:rete"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сеть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ağ"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:46:12.622895Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:12.779072Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:12.937025Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:46:13.125192Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:46:13.290053Z": "TRANSLATION_DONE:tur"
+  }
 }

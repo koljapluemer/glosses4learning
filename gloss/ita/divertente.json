@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:26.069855Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:26.069855Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:32.840666Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:33.022751Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:33.260182Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:33.479880Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:enjoyable"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lustig"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lustig, unterhaltsam"
+    ],
+    [
+      "TRANSLATION",
+      "fra:amusant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:весёлый, забавный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eğlenceli"
     ]
   ]
 }

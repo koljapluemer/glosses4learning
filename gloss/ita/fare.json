@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:41.936852Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:41.936852Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:30.758248Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:30.928993Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:31.094701Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -59,6 +62,22 @@
     [
       "TRANSLATION",
       "eng:do"
+    ],
+    [
+      "TRANSLATION",
+      "deu:machen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tun"
+    ],
+    [
+      "TRANSLATION",
+      "fra:faire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:делать"
     ]
   ]
 }

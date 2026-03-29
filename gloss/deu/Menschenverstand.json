@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:28.217434Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:28.217434Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:18.726061Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:18.939593Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:19.161968Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:19.363403Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Hoffen wir, dass sich der gesunde Menschenverstand durchsetzt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Raison humaine"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ragionamento umano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Человеческий разум"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İnsan zekası"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:28.791357Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:28.791357Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:17.768868Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:17.960101Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:18.158507Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:18.394879Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:You all will play"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wollen Sie spielen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous allez jouer"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вы будете играть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Oyun oynayacak mısınız﹖"
     ]
   ]
 }

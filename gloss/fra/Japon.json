@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette marchandise n'est pas vendue au Japon"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Japan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Japan"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Giappone"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Япония"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Japon"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:25:33.507381Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:33.687488Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:33.888370Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:34.067614Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:34.252446Z": "TRANSLATION_DONE:tur"
+  }
 }

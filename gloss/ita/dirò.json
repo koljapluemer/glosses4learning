@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:10.937124Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:10.937124Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:17.802677Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:17.988799Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:18.167190Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:18.376208Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I will declare"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich werde sagen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je dirai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я скажу"
+    ],
+    [
+      "TRANSLATION",
+      "tur:söyleyeceğim"
     ]
   ]
 }

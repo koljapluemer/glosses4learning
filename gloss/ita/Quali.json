@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:37.218667Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:37.218667Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:06.647636Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:06.847849Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:07.012591Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:07.202962Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:What sort of"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Quelles"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Quels"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Welche"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Какие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Neler"
     ]
   ]
 }

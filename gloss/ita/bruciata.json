@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:21.404019Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:21.404019Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:04.182332Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:04.384635Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:04.589633Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:04.786846Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:singed"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verbrannt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:brûlée"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сгоревший"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yakılmış"
     ]
   ]
 }

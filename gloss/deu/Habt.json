@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:37.812329Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:37.812329Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:11.241350Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:11.423936Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:11.601473Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:11.791761Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Habt ihr meinen Computer eingeschaltet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Avez-vous"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Avete"
+    ],
+    [
+      "TRANSLATION",
+      "rus:У вас есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Lütfen"
     ]
   ]
 }

@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:58.461600Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:58.461600Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:07.942841Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:08.148670Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:08.309396Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -67,6 +70,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das könnt ihr doch nicht wirklich ernst meinen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:oui"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tuttavia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:да"
     ]
   ]
 }

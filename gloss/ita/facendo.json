@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:25.775869Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:25.775869Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:18.925207Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:19.091027Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:19.275063Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:19.451755Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:executing"
+    ],
+    [
+      "TRANSLATION",
+      "deu:durch Ausführen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en faisant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:делая"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yaparken"
     ]
   ]
 }

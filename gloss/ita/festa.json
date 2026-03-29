@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:05.178438Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:05.178438Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:48.966383Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:49.114017Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:49.306748Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:49.466627Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -51,6 +55,26 @@
     [
       "TRANSLATION",
       "eng:festival"
+    ],
+    [
+      "TRANSLATION",
+      "deu:fest"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fête"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Feier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:праздник"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kutlama"
     ]
   ]
 }

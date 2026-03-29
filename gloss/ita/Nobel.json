@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:09.879731Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:09.879731Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:28.257813Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:28.430829Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:28.632642Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:28.834293Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Nobel laureate"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nobel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Nobel"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Нобелевская"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Nobel"
     ]
   ]
 }

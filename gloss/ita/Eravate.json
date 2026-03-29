@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:12.241782Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:12.241782Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:02.692338Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:02.895382Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:03.070869Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:03.277596Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:You had been"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haben Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous étiez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вы были"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Siz miydiniz﹖"
     ]
   ]
 }

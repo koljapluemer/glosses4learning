@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:32.404617Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:32.404617Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:33.417420Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:33.571949Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:33.740568Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -27,6 +30,22 @@
     [
       "TRANSLATION",
       "eng:sight"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Yeux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Occhi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Глаза"
+    ],
+    [
+      "TRANSLATION",
+      "fra:yeux"
     ]
   ]
 }

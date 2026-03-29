@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom m'a demandé où est-ce-que je travaillais"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich arbeitete"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was working"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lavoravo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:работал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çalışıyordum"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:49:11.068094Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:11.257416Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:11.429201Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:11.575009Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:11.764905Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -41,12 +41,30 @@
     [
       "USAGE_EXAMPLE",
       "fra:On peut ne pas être d'accord avec cette prise de position"
+    ],
+    [
+      "TRANSLATION",
+      "deu:in Ordnung"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хорошо"
+    ],
+    [
+      "TRANSLATION",
+      "ita:d'accordo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dai"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:43:40.636537Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:43:40.636537Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:14.595394Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:14.780419Z": "TRANSLATION_DONE:rus"
   }
 }

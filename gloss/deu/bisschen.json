@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:52.719596Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:52.719596Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:41.105983Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:41.301929Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:41.478449Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:41.679697Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:a bit"
+    ],
+    [
+      "TRANSLATION",
+      "fra:un peu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:un po'"
+    ],
+    [
+      "TRANSLATION",
+      "rus:немного"
+    ],
+    [
+      "TRANSLATION",
+      "tur:biraz"
     ]
   ]
 }

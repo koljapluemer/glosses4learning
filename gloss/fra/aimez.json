@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce que vous aimez votre nouvelle maison ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mögen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I like"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mi piace"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нравится"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beğenirsin"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:27:27.134168Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:27.323983Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:27.519887Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:27.711131Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:27:27.919810Z": "TRANSLATION_DONE:tur"
+  }
 }

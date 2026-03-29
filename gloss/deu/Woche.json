@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:05.217338Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:05.217338Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:21.918618Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:22.112320Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:22.282952Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -51,6 +54,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe seinen Brief letzte Woche erhalten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Semaine"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Settimana"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Неделя"
+    ],
+    [
+      "TRANSLATION",
+      "fra:semaine"
     ]
   ]
 }

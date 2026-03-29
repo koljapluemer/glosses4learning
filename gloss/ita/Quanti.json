@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:41.108867Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:41.108867Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:09.548410Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:09.738742Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:09.939373Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:10.119116Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "TRANSLATION",
       "eng:What is the cost﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie viele﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Combien"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Сколько﹖"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kaç tane﹖"
     ]
   ]
 }

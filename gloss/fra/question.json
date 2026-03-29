@@ -92,9 +92,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout n'est pas une question d'argent"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frage"
+    ],
+    [
+      "TRANSLATION",
+      "ita:domanda"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вопрос"
+    ],
+    [
+      "TRANSLATION",
+      "tur:soru"
+    ],
+    [
+      "TRANSLATION",
+      "hye:հարցին"
     ]
   ],
   "logs": {
-    "2026-03-28T15:37:42.761110Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:37:42.761110Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:41.249893Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:41.435272Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:41.616275Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:44:41.794516Z": "TRANSLATION_DONE:tur"
   }
 }

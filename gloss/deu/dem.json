@@ -10,7 +10,11 @@
     "2025-12-12T14:10:54.601536Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:11:37.112384Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:19:15.176433Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:36.896186Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.896186Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:17:58.976621Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:59.141068Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:59.297947Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:59.481424Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -67,6 +71,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Diesen Sommer werde ich mit dem Fahrrad durch Europa reisen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dem"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a"
+    ],
+    [
+      "TRANSLATION",
+      "rus:этому"
+    ],
+    [
+      "TRANSLATION",
+      "tur:belirtilen"
     ]
   ]
 }

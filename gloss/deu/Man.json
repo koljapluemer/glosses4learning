@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:21.036067Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:21.036067Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:08.977117Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:09.170753Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:09.346917Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:09.520318Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Man kann nichts von dem, was dieser Typ sagt, Glauben schenken"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Homme"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Uomo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мужчина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Adam"
     ]
   ]
 }

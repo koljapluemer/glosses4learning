@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:38:58.055039Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:38:58.055039Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:03.648374Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:03.851344Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:04.067623Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:04.277567Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Dedicate yourself to learning"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lernen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Étudiez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Изучайте"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Çalışın"
     ]
   ]
 }

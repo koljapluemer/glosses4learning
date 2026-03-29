@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Haben Sie schon einmal jemanden in Französisch unterrichtet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:taught"
+    ],
+    [
+      "TRANSLATION",
+      "fra:enseigné"
+    ],
+    [
+      "TRANSLATION",
+      "ita:insegnato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обучение"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:23:07.792607Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:07.966415Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:08.175364Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:08.352394Z": "TRANSLATION_DONE:rus"
+  }
 }

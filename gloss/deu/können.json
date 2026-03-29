@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:38.913722Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:38.913722Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:59.928408Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:00.102160Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:00.312516Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:00.467265Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -51,6 +55,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Kinder haben manchmal Freunde, die nur sie sehen können"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peuvent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:possono"
+    ],
+    [
+      "TRANSLATION",
+      "rus:могут"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapabilir"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peux"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pouvez"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pouvons"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:47:20.195466Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:47:20.195466Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:43.489959Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:43.644074Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:43.864061Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:44.065047Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:channel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:conduit"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leitungs"
+    ],
+    [
+      "TRANSLATION",
+      "fra:canal"
+    ],
+    [
+      "TRANSLATION",
+      "rus:труба, канал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tüp, kanal"
     ]
   ]
 }

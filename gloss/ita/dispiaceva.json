@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:A Mary non dispiaceva vivere da sola"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es war unangenehm"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was disappointed"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Cela lui déplaissait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:это вызывало сожаление"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Onur duyuyordu"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:03:22.749641Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:22.959918Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:23.166213Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:23.379686Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:23.603538Z": "TRANSLATION_DONE:tur"
+  }
 }

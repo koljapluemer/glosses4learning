@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "ita:A Mary non piace guardarsi allo specchio"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sich schützen, aufpassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to watch out"
+    ],
+    [
+      "TRANSLATION",
+      "fra:se protéger"
+    ],
+    [
+      "TRANSLATION",
+      "rus:остерегаться, быть бдительным"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dikkat etmek, göz önünde bulundurmak"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T14:06:02.007142Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:02.180660Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:02.364552Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:02.615796Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:02.868478Z": "TRANSLATION_DONE:tur"
+  }
 }

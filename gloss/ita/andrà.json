@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:43.203543Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:43.203543Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:41.937603Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:42.133510Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:42.309272Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:42.519879Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:is about to go"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wird funktionierenerfolgensich entwickeln"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il fonctionnera"
+    ],
+    [
+      "TRANSLATION",
+      "rus:будет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerçekleşecek"
     ]
   ]
 }

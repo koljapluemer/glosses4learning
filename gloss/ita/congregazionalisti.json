@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:34.760148Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:34.760148Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:45.121045Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:45.364239Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:45.585723Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:45.810774Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Congregational churches"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Konfessionelle"
+    ],
+    [
+      "TRANSLATION",
+      "fra:membres d'une congrégation"
+    ],
+    [
+      "TRANSLATION",
+      "rus:члены церковных общин"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kilise içinde faaliyet gösteren"
     ]
   ]
 }

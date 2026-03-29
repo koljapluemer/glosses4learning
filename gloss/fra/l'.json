@@ -61,9 +61,26 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne pensais pas que vous me l'auriez dit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the"
+    ],
+    [
+      "TRANSLATION",
+      "ita:il"
+    ],
+    [
+      "TRANSLATION",
+      "rus:l"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:37:49.584339Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:37:49.744581Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:37:49.924165Z": "TRANSLATION_DONE:rus"
+  }
 }

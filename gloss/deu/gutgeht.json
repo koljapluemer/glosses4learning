@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Hat Tom auf dich den Eindruck gemacht, dass es ihm gutgeht﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That's great!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ça va bien"
+    ],
+    [
+      "TRANSLATION",
+      "ita:va bene"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хорошо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:iyidir"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:19:59.658836Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:59.839967Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:00.036950Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:00.207890Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:00.399899Z": "TRANSLATION_DONE:tur"
+  }
 }

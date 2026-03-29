@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:11.741231Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:11.741231Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:16.577143Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:16.775028Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:16.932990Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:17.126040Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich danke Ihnen, dass Sie sich zu dieser Sitzung eingefunden haben!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Réunion"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Riunione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Заседание"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Toplantı"
     ]
   ]
 }

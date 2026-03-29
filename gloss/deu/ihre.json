@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:06.965475Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:06.965475Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:26.724164Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:26.905011Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -43,6 +45,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Von Schimpansen sind Fälle bekannt, wo sie ihre Halter übel zugerichtet haben"
+    ],
+    [
+      "TRANSLATION",
+      "ita:loro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:их"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Leurs"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ses"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vos"
     ]
   ]
 }

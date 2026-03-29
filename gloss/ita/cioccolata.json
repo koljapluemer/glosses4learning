@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:37.814352Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:37.814352Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:06.412809Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:06.620780Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:06.825004Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:07.013158Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:cocoa"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schokolade"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chocolat"
+    ],
+    [
+      "TRANSLATION",
+      "rus:шоколад"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çikolata"
     ]
   ]
 }

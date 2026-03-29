@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:58.844797Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:58.844797Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:34.402154Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:34.610927Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:34.797388Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:yoghurt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Yaourt"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Yogurt"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Йогурт"
     ]
   ]
 }

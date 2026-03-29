@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:21.917320Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:21.917320Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:24.741952Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:24.970970Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:25.165062Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:25.328928Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wann haben Sie das letztemal einen Hörtest gemacht﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:réalisé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:realizzato, completato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сделано"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapıldı"
     ]
   ]
 }

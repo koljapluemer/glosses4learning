@@ -3,7 +3,10 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:36:14.453182Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:14.453182Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:34.714485Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:34.892232Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:35.072203Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -60,6 +63,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Er hätte seinen alten Freund besuchen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dovrebbero"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerekiyor"
     ]
   ]
 }

@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:16.302847Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:16.302847Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:53.053577Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:53.237739Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:53.416381Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -63,6 +66,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:„Tom, dein Magen knurrt.“ – „Ja, ich weiß. Ich habe auch den ganzen Tag noch nichts zu beißen bekommen.“ – „O du Ärmster!“"
+    ],
+    [
+      "TRANSLATION",
+      "fra:blanc"
+    ],
+    [
+      "TRANSLATION",
+      "ita:bianco"
+    ],
+    [
+      "TRANSLATION",
+      "rus:белый"
+    ],
+    [
+      "TRANSLATION",
+      "fra:blanches"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sait"
     ]
   ]
 }

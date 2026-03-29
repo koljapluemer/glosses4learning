@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:42:32.647826Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:42:32.647826Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:41.682617Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:41.844631Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:42.017022Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:42.209573Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +51,26 @@
     [
       "TRANSLATION",
       "eng:we possess"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avons"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir haben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nous avons"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bizim"
     ]
   ]
 }

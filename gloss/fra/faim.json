@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai sauté le petit-déjeuner, alors j'ai faim"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hunger"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fame"
+    ],
+    [
+      "TRANSLATION",
+      "rus:голод"
+    ],
+    [
+      "TRANSLATION",
+      "tur:açlık"
     ]
   ],
   "logs": {
-    "2026-03-28T15:44:20.277027Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:44:20.277027Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:35:17.135152Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:35:17.346418Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:35:17.551623Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:35:17.746004Z": "TRANSLATION_DONE:tur"
   }
 }

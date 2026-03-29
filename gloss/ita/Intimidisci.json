@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:48.269945Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:48.269945Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:35.458137Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:35.628109Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:35.849517Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:36.029410Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to threaten"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bedrohen, einschüchtern"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Intimider"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Угрожать, запугивать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Korkut"
     ]
   ]
 }

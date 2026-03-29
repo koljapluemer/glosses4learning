@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:55.999634Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:55.999634Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:52.714712Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:52.900404Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:53.128605Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:53.362219Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:heshe was resting"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich stützte mich"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je soutenais"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поддерживал, опирался"
+    ],
+    [
+      "TRANSLATION",
+      "tur:destek veriyordum"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:07.887978Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:07.887978Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:20.547403Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:20.735923Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:20.940646Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:21.152545Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to secure"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sicherstellen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:garantire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обеспечивать, гарантировать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:garanti etmek, sağlamak"
     ]
   ]
 }

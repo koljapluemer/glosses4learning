@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:07.733031Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:07.733031Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:27.079639Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:27.265293Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:27.438386Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:27.609496Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir haben seine Arbeit mit ihrer verglichen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à elle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:suo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вашему"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sizin"
     ]
   ]
 }

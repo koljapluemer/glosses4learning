@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:43.558916Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:43.558916Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:42.077248Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:42.256317Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:42.408847Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -59,6 +62,30 @@
     [
       "USAGE_EXAMPLE",
       "fra:Le bonheur ne consiste pas seulement à posséder de nombreux biens"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Der"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Il"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ле"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:L'"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Le"
     ]
   ]
 }

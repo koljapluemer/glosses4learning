@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:42:28.962245Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:42:28.962245Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:38.490230Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:38.696671Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:38.903499Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:39.110505Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:as a result of"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wegen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:aufgrund von"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à cause de"
+    ],
+    [
+      "TRANSLATION",
+      "rus:из-за"
+    ],
+    [
+      "TRANSLATION",
+      "tur:nedeniyle"
     ]
   ]
 }

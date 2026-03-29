@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:44:26.640008Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:44:26.640008Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:38.076999Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:38.266393Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:38.480348Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:38.690515Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das Reisen war seine größte Freude, und so starb er denn auch auf einer Reise"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Joie"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Gioia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Радость"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mutluluk"
     ]
   ]
 }

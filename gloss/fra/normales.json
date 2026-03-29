@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles sont toutes normales"
+    ],
+    [
+      "TRANSLATION",
+      "deu:normal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:normal"
+    ],
+    [
+      "TRANSLATION",
+      "ita:normali"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нормальные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:normal"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:40:48.354617Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:48.544244Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:40:48.733860Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:48.926982Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:40:49.106137Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -2,7 +2,12 @@
   "content": "welcher",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T13:23:54.268712Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:54.453086Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:54.621563Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:54.759394Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -23,6 +28,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:„Tom hat schon wieder, und ich unterstelle ihm, mit voller Absicht, die Papiertonne dahin gestellt, wo, wie ich ihm schon tausendmal gesagt habe, die Restmülltonne stehen soll! Ich will, dass er be"
+    ],
+    [
+      "TRANSLATION",
+      "fra:quel"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quale"
+    ],
+    [
+      "TRANSLATION",
+      "rus:какой"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hangi"
     ]
   ]
 }

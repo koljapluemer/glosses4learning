@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:00.493229Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:00.493229Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:50.758848Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:50.939912Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:51.100205Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:51.261836Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:ensuing"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ci-après"
+    ],
+    [
+      "TRANSLATION",
+      "ita:successivi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:следующие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:aşağıdaki"
+    ],
+    [
+      "TRANSLATION",
+      "fra:suivantes"
     ]
   ]
 }

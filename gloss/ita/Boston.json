@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:32:22.760566Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:32:22.760566Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:17.581578Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:17.787380Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:17.990658Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:18.194703Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -51,6 +55,22 @@
     [
       "TRANSLATION",
       "eng:The Hub"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Boston"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Boston"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Бостон"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Boston"
     ]
   ]
 }

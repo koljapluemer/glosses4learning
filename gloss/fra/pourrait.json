@@ -21,9 +21,35 @@
     [
       "USAGE_EXAMPLE",
       "fra:Il se pourrait qu'elle soit sérieusement malade"
+    ],
+    [
+      "TRANSLATION",
+      "deu:könnt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:könnte"
+    ],
+    [
+      "TRANSLATION",
+      "ita:potrebbe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:может"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mümkün olabilir"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:43:22.202548Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:22.371311Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:22.552047Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:22.756045Z": "TRANSLATION_DONE:tur"
+  }
 }

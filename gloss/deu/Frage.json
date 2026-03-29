@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:21.779364Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:21.779364Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:35.531710Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:35.707328Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:35.895449Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:36.069923Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -47,6 +51,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Warum antwortest du nicht auf meine Frage﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Question"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Domanda"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вопрос"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Soru"
+    ],
+    [
+      "TRANSLATION",
+      "fra:question"
+    ],
+    [
+      "TRANSLATION",
+      "hye:հարցին"
+    ],
+    [
+      "TRANSLATION",
+      "ita:domanda"
     ]
   ]
 }

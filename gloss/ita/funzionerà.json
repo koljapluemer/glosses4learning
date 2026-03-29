@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:47.229355Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:47.229355Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:25.288064Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:25.461334Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:25.639674Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:25.793596Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:it will run"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es wird funktionieren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il fonctionnera"
+    ],
+    [
+      "TRANSLATION",
+      "rus:работает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Çalışacak"
     ]
   ]
 }

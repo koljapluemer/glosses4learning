@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:51.226349Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:51.226349Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:36.975623Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:37.134879Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:37.314039Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:37.463313Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "bul:Джак"
+    ],
+    [
+      "TRANSLATION",
+      "ina:Jack"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jack"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Jack"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Джек"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Jack"
     ]
   ]
 }

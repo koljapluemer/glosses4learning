@@ -72,9 +72,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout le monde sait que nous détestons Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weiß"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:знает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:biliyor"
     ]
   ],
   "logs": {
-    "2026-03-28T15:40:12.778683Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:40:12.778683Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:38.867482Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:39.052981Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:46:39.230970Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:46:39.423426Z": "TRANSLATION_DONE:tur"
   }
 }

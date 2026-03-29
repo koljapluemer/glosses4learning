@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:53.625716Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:53.625716Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:31.720618Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:31.902431Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:32.085780Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:32.249635Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:frozen dessert"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Eis"
+    ],
+    [
+      "TRANSLATION",
+      "fra:glace"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мороженое"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dondurma"
     ]
   ]
 }

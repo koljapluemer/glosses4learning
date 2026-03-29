@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Des choses étranges ont eu lieu dans cette maison"
+    ],
+    [
+      "TRANSLATION",
+      "deu:EU"
+    ],
+    [
+      "TRANSLATION",
+      "eng:eu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:eu"
+    ],
+    [
+      "TRANSLATION",
+      "rus:eu"
+    ],
+    [
+      "TRANSLATION",
+      "tur:evet"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:34:55.763241Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:34:55.967715Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:56.133640Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:34:56.328835Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:56.523900Z": "TRANSLATION_DONE:tur"
+  }
 }

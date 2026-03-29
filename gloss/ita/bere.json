@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:57.880315Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:57.880315Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:43.488208Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:43.657105Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:43.847809Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:44.020986Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:consume liquid"
+    ],
+    [
+      "TRANSLATION",
+      "fra:buvait"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bere"
+    ],
+    [
+      "TRANSLATION",
+      "fra:boire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:забирать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:su"
     ]
   ]
 }

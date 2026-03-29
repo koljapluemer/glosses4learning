@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:12.476506Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:12.476506Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:34.708849Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:34.866529Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:35.051511Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:35.244535Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:„Alle Mitglieder des Lehrerkollegiums haben sich ab sofort täglich um sieben Uhr, eine Stunde vor Unterrichtsbeginn, in der Turnhalle zum Frühsport einzufinden.“ — „Wer hat das angeordnet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à partir de"
+    ],
+    [
+      "TRANSLATION",
+      "ita:da"
+    ],
+    [
+      "TRANSLATION",
+      "rus:от"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başlangıç"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dai"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dal"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dalle"
     ]
   ]
 }

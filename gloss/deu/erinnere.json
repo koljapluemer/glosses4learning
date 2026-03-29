@@ -16,6 +16,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich erinnere mich, diesen Brief eingeworfen zu haben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remind"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rappeler"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ricorda"
+    ],
+    [
+      "TRANSLATION",
+      "rus:напоминать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hatmayı hatırlat"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:18:32.524761Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:32.695120Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:32.864102Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:33.074131Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:33.285714Z": "TRANSLATION_DONE:tur"
+  }
 }

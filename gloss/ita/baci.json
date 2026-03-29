@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:26.624975Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:26.624975Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:26.009891Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:26.203201Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:26.403627Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:26.604401Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:pecks"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Küsse"
+    ],
+    [
+      "TRANSLATION",
+      "fra:baisers"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поцелуи"
+    ],
+    [
+      "TRANSLATION",
+      "tur:abladayı"
     ]
   ]
 }

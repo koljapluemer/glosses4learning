@@ -17,9 +17,35 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne pourrais simplement pas laisser ça arriver"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ankommen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:arrivare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прибыть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerçekleşmek, meydana gelmek, ortaya çıkmak"
+    ],
+    [
+      "TRANSLATION",
+      "hrv:doći"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:28:05.974886Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:06.158408Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:06.365394Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:06.654092Z": "TRANSLATION_DONE:tur"
+  }
 }

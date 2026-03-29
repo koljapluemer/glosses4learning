@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:56.290966Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:56.290966Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:52.431109Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:52.619161Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:52.806731Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:fume"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Fumée"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Fumo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Дым"
     ]
   ]
 }

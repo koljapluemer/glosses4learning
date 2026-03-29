@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:02.230816Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:02.230816Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:01.905993Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:02.060769Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:02.242456Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:vessels"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Navires"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Navi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Корабли"
     ]
   ]
 }

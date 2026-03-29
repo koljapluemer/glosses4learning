@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Habt ihr meinen gespeicherten Spielstand überschrieben﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:overwritten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:remplacé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sovrapposto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:переопределено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yeniden adlandırılmış"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:24:34.816786Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:35.014078Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:35.212850Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:35.402766Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:35.579093Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:34.660860Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:34.660860Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:25.854577Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:26.079077Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:26.249383Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:26.414353Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:relations"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Familienmitglieder"
+    ],
+    [
+      "TRANSLATION",
+      "fra:membres de la famille"
+    ],
+    [
+      "TRANSLATION",
+      "rus:родственные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Aile üyeleri"
     ]
   ]
 }

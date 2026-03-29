@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Mary a chanté des chansons à son fils pour qu'il s'endorme"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlafen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fall asleep"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dormire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:засыпать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uyku"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:34:20.510449Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:34:20.668354Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:20.831907Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:34:21.022475Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:21.199107Z": "TRANSLATION_DONE:tur"
+  }
 }

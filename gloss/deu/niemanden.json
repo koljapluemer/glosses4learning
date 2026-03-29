@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:21.001946Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:21.001946Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:47.532747Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:47.703144Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:47.897152Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:48.089434Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Vergewissern Sie sich noch einmal, daß Sie niemanden vergessen haben!"
+    ],
+    [
+      "TRANSLATION",
+      "fra:personne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nessuno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:никого"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hiç kimseyi"
     ]
   ]
 }

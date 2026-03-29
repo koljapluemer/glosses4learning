@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:49.501098Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:49.501098Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:36.256774Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:36.431203Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:36.606585Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:36.789879Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:I will perform"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ferai"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich werde"
+    ],
+    [
+      "TRANSLATION",
+      "fra:je ferai"
+    ],
+    [
+      "TRANSLATION",
+      "rus:я сделаю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapacağım"
     ]
   ]
 }

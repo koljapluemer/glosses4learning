@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:11.446809Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:11.446809Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:01.949235Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:02.134554Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:02.332308Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:02.507016Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:They used to be"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es waren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Ils étaient"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Это были"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Onlardı"
     ]
   ]
 }

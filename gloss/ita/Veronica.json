@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:39:22.817202Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:39:22.817202Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:23.452554Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:23.608792Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:23.777719Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:23.951837Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Herb Veronica"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Veronica"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Veronica"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вероника"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Veronica"
     ]
   ]
 }

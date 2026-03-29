@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:32.900134Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:32.900134Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:46.362932Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:46.548602Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:46.753330Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:46.954748Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:lawbreaker"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Krimineller"
+    ],
+    [
+      "TRANSLATION",
+      "fra:délinquant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:правонарушитель"
+    ],
+    [
+      "TRANSLATION",
+      "tur:suçlu"
     ]
   ]
 }

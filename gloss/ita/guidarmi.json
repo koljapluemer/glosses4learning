@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:34.269153Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:34.269153Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:06.985108Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:07.163805Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:07.351488Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:07.546300Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to steer me"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mich leiten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:me guider"
+    ],
+    [
+      "TRANSLATION",
+      "rus:помочь мне"
+    ],
+    [
+      "TRANSLATION",
+      "tur:rehber olmak"
     ]
   ]
 }

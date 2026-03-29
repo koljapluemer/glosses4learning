@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:00.307510Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:00.307510Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:58.261440Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:58.436503Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:58.609241Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:58.796847Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,26 @@
     [
       "TRANSLATION",
       "eng:rose flowers"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Roses"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Rose"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Розы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Güller"
+    ],
+    [
+      "TRANSLATION",
+      "fra:roses"
     ]
   ]
 }

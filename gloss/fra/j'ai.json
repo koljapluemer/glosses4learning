@@ -32,9 +32,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:C'est pour cela que j'ai fait tout ça"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ho"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у меня есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Benim"
     ]
   ],
   "logs": {
-    "2026-03-28T15:41:27.000633Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:41:27.000633Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:37:31.468762Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:37:31.652985Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:37:31.867303Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:37:32.039690Z": "TRANSLATION_DONE:tur"
   }
 }

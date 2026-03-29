@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Une seule langue n'est pas suffisante"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausreichend"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sufficient"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sufficiente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:достаточно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yeterli"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:48:12.266749Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:48:12.442175Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:48:12.607390Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:48:12.789405Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:48:12.952495Z": "TRANSLATION_DONE:tur"
+  }
 }

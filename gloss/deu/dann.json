@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:01.936623Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:01.936623Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:53.911960Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:54.067902Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:54.239380Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:54.418759Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Johannes reizte Tom mit Absicht, damit dieser in solche Berserkerwut gerate, die Gitterstäbe mit bloßen Händen zu verbiegen. Als er dann frei war, erkannte er die List des Johannes und lachte über"
+    ],
+    [
+      "TRANSLATION",
+      "fra:puis"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quindi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:тогда"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sonrasında"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:44:25.593061Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:44:25.593061Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:10.232249Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:10.382020Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:10.577821Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:10.750216Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,50 @@
     [
       "USAGE_EXAMPLE",
       "deu:Diese beiden Angelegenheiten hängen nicht miteinander zusammen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Ces"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Questi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Эти"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bunlar"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Celle"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Celles-ci"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Celles"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Ceux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Quei"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Quelli"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Queste"
     ]
   ]
 }

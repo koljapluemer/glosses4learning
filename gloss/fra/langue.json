@@ -49,12 +49,36 @@
     [
       "USAGE_EXAMPLE",
       "fra:Une seule langue n'est pas suffisante"
+    ],
+    [
+      "TRANSLATION",
+      "dan:sprog"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sprache"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lingua"
+    ],
+    [
+      "TRANSLATION",
+      "rus:язык"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dil"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:38:43.415872Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:43.415872Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:14.782041Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:14.937600Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:15.108615Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:38:15.280787Z": "TRANSLATION_DONE:tur"
   }
 }

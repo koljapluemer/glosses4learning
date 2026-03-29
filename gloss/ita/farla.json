@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:47.360471Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:47.360471Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:34.900419Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:35.053169Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:35.225075Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:35.411238Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to carry it out"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das tun"
+    ],
+    [
+      "TRANSLATION",
+      "fra:la réaliser"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сделать это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:onu yap"
     ]
   ]
 }

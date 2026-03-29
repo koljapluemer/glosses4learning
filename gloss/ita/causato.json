@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:11.569621Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:11.569621Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:45.661297Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:45.861814Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:46.053348Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:46.238556Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:led to"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verursacht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:causé"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вызванный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:neden"
     ]
   ]
 }

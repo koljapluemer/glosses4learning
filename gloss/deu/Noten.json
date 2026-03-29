@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:42.571715Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:42.571715Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:38.356551Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:38.513732Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:38.685177Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:38.857027Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:notes"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Notes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Note"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ноты"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Notlar"
     ]
   ]
 }

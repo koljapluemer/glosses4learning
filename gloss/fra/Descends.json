@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom ! Descends, le petit-déjeuner est prêt !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Abwärts"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Decreases"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Scende"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Спускается"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İniyor"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:25:14.986115Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:15.155969Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:15.347894Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:15.529796Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:15.736014Z": "TRANSLATION_DONE:tur"
+  }
 }

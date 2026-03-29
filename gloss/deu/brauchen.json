@@ -13,9 +13,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das werden Sie nicht noch einmal brauchen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:need"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nécessitent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:necessitano"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerektirir"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:17:46.407547Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:46.569686Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:46.762756Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:46.947745Z": "TRANSLATION_DONE:tur"
+  }
 }

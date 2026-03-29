@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:35.560954Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:35.560954Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:48.645998Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:48.841848Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:49.039643Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:49.239207Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:of the simpleton"
+    ],
+    [
+      "TRANSLATION",
+      "deu:des Narren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:de cet idiot"
+    ],
+    [
+      "TRANSLATION",
+      "rus:безумца"
+    ],
+    [
+      "TRANSLATION",
+      "tur:aptalın"
     ]
   ]
 }

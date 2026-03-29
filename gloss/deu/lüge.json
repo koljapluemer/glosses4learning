@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:56.116025Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:56.116025Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:18.205509Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:18.407662Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:18.581625Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:18.727410Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:untruth"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mensonge"
+    ],
+    [
+      "TRANSLATION",
+      "ita:menzogna"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лож"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yalan"
     ]
   ]
 }

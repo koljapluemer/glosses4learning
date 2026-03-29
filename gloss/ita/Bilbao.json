@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:20:28.467540Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:20:28.467540Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:15.471817Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:15.654653Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:15.842902Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:16.011780Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:City in Spain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bilbao"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Bilbao"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Бильбао"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bilbao"
     ]
   ]
 }

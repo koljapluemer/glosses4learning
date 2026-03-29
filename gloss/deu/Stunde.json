@@ -21,12 +21,27 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das hast du schon vor einer halben Stunde gesagt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Heure"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ora"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Час"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T16:33:29.419198Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:33:29.419198Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:29.804601Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:29.976706Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:30.148554Z": "TRANSLATION_DONE:rus"
   }
 }

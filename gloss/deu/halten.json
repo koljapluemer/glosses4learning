@@ -13,9 +13,35 @@
     [
       "USAGE_EXAMPLE",
       "deu:Sie haben mir geholfen, mein Versprechen zu halten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:maintain"
+    ],
+    [
+      "TRANSLATION",
+      "fra:respecter, maintenir, préserver"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mantenere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:соблюдать"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tiennent"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:20:04.653321Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:04.880279Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:05.073517Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:05.253272Z": "TRANSLATION_DONE:rus"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:48.698281Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:48.698281Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:27.704737Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:27.891553Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:28.082616Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:28.256620Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:gait"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schuhspitze"
+    ],
+    [
+      "TRANSLATION",
+      "fra:jarret"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нога"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bacak"
     ]
   ]
 }

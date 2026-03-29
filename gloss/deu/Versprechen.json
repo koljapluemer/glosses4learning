@@ -13,9 +13,35 @@
     [
       "USAGE_EXAMPLE",
       "deu:Sie haben mir geholfen, mein Versprechen zu halten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Promises"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Promesse"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Обещания"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Vaatler"
+    ],
+    [
+      "TRANSLATION",
+      "fra:promesse"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:15:59.735685Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:59.893155Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:00.089524Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:00.273066Z": "TRANSLATION_DONE:tur"
+  }
 }

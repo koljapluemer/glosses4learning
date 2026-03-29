@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:17.118905Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:17.118905Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:04.223716Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:04.391737Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:04.578040Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -55,6 +58,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich kann nicht verstehen, warum sich Tom auf diese Weise verhalten hat"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ces"
+    ],
+    [
+      "TRANSLATION",
+      "ita:questi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:эти"
+    ],
+    [
+      "TRANSLATION",
+      "fra:celles-ci"
+    ],
+    [
+      "TRANSLATION",
+      "fra:celles-là"
+    ],
+    [
+      "TRANSLATION",
+      "fra:celles"
+    ],
+    [
+      "TRANSLATION",
+      "fra:ceux"
     ]
   ]
 }

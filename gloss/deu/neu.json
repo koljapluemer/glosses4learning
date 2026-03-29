@@ -3,7 +3,11 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:35:14.442832Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:14.442832Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:41.390656Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:41.587621Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:41.760731Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:41.913188Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -36,6 +40,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Du solltest diesen Bericht noch einmal neu schreiben"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nouveau"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nuovo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:новое"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yeni"
+    ],
+    [
+      "TRANSLATION",
+      "fra:neuves"
+    ],
+    [
+      "TRANSLATION",
+      "fra:nouvelle"
     ]
   ]
 }

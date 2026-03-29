@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:10.196711Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:10.196711Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:50.358077Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:50.528672Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:50.705391Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:50.919468Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Könntest du das bitte noch einmal langsam wiederholen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Pourriez-vous"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Potresti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Не могли бы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bununla ilgili"
     ]
   ]
 }

@@ -144,9 +144,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Êtes-vous en train d'écrire une lettre maintenant ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zug"
+    ],
+    [
+      "TRANSLATION",
+      "ita:treno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:поезд"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tren"
     ]
   ],
   "logs": {
-    "2026-03-28T15:40:08.151550Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:40:08.151550Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:07.847829Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:08.027597Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:08.189508Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:08.350481Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je pense qu'il ne pleuvra pas demain"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es wird regnen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:it will rain"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pioverà"
+    ],
+    [
+      "TRANSLATION",
+      "rus:будет дождь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yağmur"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:43:00.578123Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:00.774190Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:00.953137Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:01.155046Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:01.360533Z": "TRANSLATION_DONE:tur"
+  }
 }

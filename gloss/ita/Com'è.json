@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:34:32.493662Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:34:32.493662Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:33.780093Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:33.980623Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:34.177765Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:34.359799Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:How does it feel﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie ist es﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Comment ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Как дела﹖"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Nasıl"
     ]
   ]
 }

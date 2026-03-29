@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:00.811344Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:00.811344Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:22.808467Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:23.002164Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:27:23.182561Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -59,6 +62,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Mon perroquet n'aime pas les graines de tournesol"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mag"
+    ],
+    [
+      "TRANSLATION",
+      "rus:люблю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sevdi"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ama"
     ]
   ]
 }

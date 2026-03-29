@@ -36,9 +36,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:La bibliothèque s'est dotée de nombreuses nouvelles acquisitions"
+    ],
+    [
+      "TRANSLATION",
+      "deu:viele"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zahlreich"
+    ],
+    [
+      "TRANSLATION",
+      "ita:numerose"
+    ],
+    [
+      "TRANSLATION",
+      "rus:много"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çok sayıda"
     ]
   ],
   "logs": {
-    "2026-03-28T15:38:03.073266Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:03.073266Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:40:44.648628Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:44.831541Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:45.004199Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:40:45.195665Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:05.826634Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:05.826634Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:44.463307Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:44.625912Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:44.793666Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -27,6 +30,18 @@
     [
       "TRANSLATION",
       "eng:congregation"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Église"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Chiesa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Церковь"
     ]
   ]
 }

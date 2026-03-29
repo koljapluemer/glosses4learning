@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:07.219426Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:07.219426Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:16.780248Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:16.968347Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:17.143885Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:17.335064Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout n'est pas une question d'argent"
+    ],
+    [
+      "TRANSLATION",
+      "deu:aus Silber"
+    ],
+    [
+      "TRANSLATION",
+      "ita:d'argento"
+    ],
+    [
+      "TRANSLATION",
+      "rus:из серебра"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gümüş"
     ]
   ]
 }

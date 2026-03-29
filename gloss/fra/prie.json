@@ -13,9 +13,36 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je te prie de ne pas me questionner à son sujet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pray"
+    ],
+    [
+      "TRANSLATION",
+      "ita:prego"
+    ],
+    [
+      "TRANSLATION",
+      "rus:молиться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dua"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:43:39.141518Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:39.326277Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:39.496636Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:39.694213Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:39.881020Z": "TRANSLATION_DONE:tur"
+  }
 }

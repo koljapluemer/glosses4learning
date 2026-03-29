@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai un plan. Ne vous en faites pas"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Plan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:plan"
+    ],
+    [
+      "TRANSLATION",
+      "ita:piano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:план"
+    ],
+    [
+      "TRANSLATION",
+      "tur:plan"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:42:47.991345Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:48.152938Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:42:48.290520Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:48.475022Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:48.622748Z": "TRANSLATION_DONE:tur"
+  }
 }

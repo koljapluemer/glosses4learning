@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:23.047423Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:23.047423Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:37.391045Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:37.568915Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:37.744452Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:37.911441Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,30 @@
     [
       "TRANSLATION",
       "eng:wife"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Madame"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Signora"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Дама"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kadın"
+    ],
+    [
+      "TRANSLATION",
+      "fra:femme"
+    ],
+    [
+      "TRANSLATION",
+      "ita:donna"
     ]
   ]
 }

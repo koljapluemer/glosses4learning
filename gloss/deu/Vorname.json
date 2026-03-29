@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:45.012511Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:45.012511Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:03.666393Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:03.825883Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:04.015985Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:04.172858Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Der Vorname meines Mannes ist Tom"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Prénom"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Nome"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Имя"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ad"
     ]
   ]
 }

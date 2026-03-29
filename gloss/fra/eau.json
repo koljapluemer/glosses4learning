@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je n'aime pas les baquets à eau chaude"
+    ],
+    [
+      "TRANSLATION",
+      "eng:water"
+    ],
+    [
+      "TRANSLATION",
+      "ita:acqua"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вода"
+    ],
+    [
+      "TRANSLATION",
+      "tur:su"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:34:05.366386Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:05.548901Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:34:05.703601Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:05.870977Z": "TRANSLATION_DONE:tur"
+  }
 }

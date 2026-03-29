@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:18.721707Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:18.721707Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:17.115513Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:17.277702Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:17.485711Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:11:17.680019Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:shipment"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Indemnisation"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Indennizzo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Выплата при увольнении"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Emeklilik"
     ]
   ]
 }

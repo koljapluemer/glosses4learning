@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe ihr gesagt, dass sie sich mit Sonnencreme einreiben soll"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sunscreen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Crème solaire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Crema solare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Солнцезащитный крем"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Güneş kremi"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:15:19.722318Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:19.896732Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:20.086589Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:20.288868Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:20.487910Z": "TRANSLATION_DONE:tur"
+  }
 }

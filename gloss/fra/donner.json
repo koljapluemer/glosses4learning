@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:21.436328Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:21.436328Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:32.734652Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:32.887925Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:33.070729Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:33.270106Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to deliver"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geben"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:дать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:vermek"
     ]
   ]
 }

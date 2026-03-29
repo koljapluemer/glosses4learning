@@ -29,12 +29,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Der Hund meines Nachbarn hörte nicht auf zu bellen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Chien"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Cane"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Собака"
+    ],
+    [
+      "TRANSLATION",
+      "ita:cane"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T16:36:20.004752Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:36:20.004752Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:21.908578Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:22.079944Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:22.268387Z": "TRANSLATION_DONE:rus"
   }
 }

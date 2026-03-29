@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:50.308720Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:50.308720Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:36.345937Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:36.490646Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:36.656998Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:36.816571Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:Italy (nation)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Italien"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Italie"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Италия"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İtalya"
     ]
   ]
 }

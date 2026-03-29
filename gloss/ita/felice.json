@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:50:57.191030Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:50:57.191030Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:04:42.603024Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:04:42.779410Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:04:42.954002Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:04:43.117625Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,38 @@
     [
       "TRANSLATION",
       "eng:lucky"
+    ],
+    [
+      "TRANSLATION",
+      "deu:froh"
+    ],
+    [
+      "TRANSLATION",
+      "deu:fröhlich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:glücklich"
+    ],
+    [
+      "TRANSLATION",
+      "deu:glückliches"
+    ],
+    [
+      "TRANSLATION",
+      "fra:heureux"
+    ],
+    [
+      "TRANSLATION",
+      "fra:réjouis"
+    ],
+    [
+      "TRANSLATION",
+      "rus:счастливый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mutlu"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:56.755825Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:56.755825Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:45.643841Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:45.805602Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:45.991879Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:46.168454Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Kumamoto Region"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kumamoto"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Kumamoto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Кумамото"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kumamoto"
     ]
   ]
 }

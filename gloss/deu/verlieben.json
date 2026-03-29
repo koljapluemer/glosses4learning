@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:52.893267Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:52.893267Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:23.226620Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:23.383451Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:23.573767Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:23.756663Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:to become infatuated"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tomber amoureux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:innamorarsi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:влюбиться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:aşk edinmek"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:18.652785Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:18.652785Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:40.215221Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:40.410624Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:40.582462Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:40.760325Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:spiritually"
+    ],
+    [
+      "TRANSLATION",
+      "fra:spirituel"
+    ],
+    [
+      "TRANSLATION",
+      "ita:spirituale"
+    ],
+    [
+      "TRANSLATION",
+      "rus:духовный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:manevi"
     ]
   ]
 }

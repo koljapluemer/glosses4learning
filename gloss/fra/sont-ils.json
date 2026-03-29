@@ -21,9 +21,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne sont-ils pas de citoyenneté biélorusse ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:are they"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sono"
+    ],
+    [
+      "TRANSLATION",
+      "rus:являются ли они"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bunlar mı﹖"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:47:52.071253Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:47:52.251288Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:47:52.452658Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:47:52.656109Z": "TRANSLATION_DONE:tur"
+  }
 }

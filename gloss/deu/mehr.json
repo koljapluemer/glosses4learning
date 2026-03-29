@@ -4,7 +4,10 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.794818Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.727451Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.727451Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:21:23.149952Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:23.322432Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:23.486211Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -49,6 +52,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom ist schon seit Jahren von niemandem mehr gesehen worden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:plus"
+    ],
+    [
+      "TRANSLATION",
+      "ita:più"
+    ],
+    [
+      "TRANSLATION",
+      "rus:больше"
+    ],
+    [
+      "TRANSLATION",
+      "fra:davantage"
     ]
   ]
 }

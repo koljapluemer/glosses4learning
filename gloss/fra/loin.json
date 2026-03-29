@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:La maison de Tom n'est pas loin de celle de Mary"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weit entfernt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:far away"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lontano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:далеко"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uzakta"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:38:34.150520Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:34.305363Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:34.476143Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:34.665576Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:38:34.857132Z": "TRANSLATION_DONE:tur"
+  }
 }

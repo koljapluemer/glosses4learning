@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:24.402686Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:24.402686Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:59.063148Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:59.276800Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:59.487725Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:59.710946Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je suis désolé, les cartes de crédit ne sont pas acceptées"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Entschuldigung"
+    ],
+    [
+      "TRANSLATION",
+      "ita:mi dispiace"
+    ],
+    [
+      "TRANSLATION",
+      "rus:извините"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Affedersiniz"
     ]
   ]
 }

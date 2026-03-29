@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai fait la connaissance de Tom en janvier de cette année"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Januar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:January"
+    ],
+    [
+      "TRANSLATION",
+      "ita:gennaio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:январь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ocak"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:37:34.367962Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:37:34.531344Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:37:34.715352Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:37:34.896069Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:37:35.055580Z": "TRANSLATION_DONE:tur"
+  }
 }

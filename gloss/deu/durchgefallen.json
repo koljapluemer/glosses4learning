@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Von meinen Schülern ist keiner durchgefallen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:failed"
+    ],
+    [
+      "TRANSLATION",
+      "fra:échouer, ne pas réussir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fallito"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не сдал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başarısız"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:18:12.243179Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:12.473332Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:12.644511Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:12.823929Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:13.033878Z": "TRANSLATION_DONE:tur"
+  }
 }

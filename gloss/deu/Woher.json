@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:05.923119Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:05.923119Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:24.028556Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:24.199760Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:24.375872Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:24.543492Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:From where"
+    ],
+    [
+      "TRANSLATION",
+      "fra:D'où"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Da dove﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Откуда﹖"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Nerden"
     ]
   ]
 }

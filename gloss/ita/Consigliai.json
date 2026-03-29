@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:34:38.453908Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:34:38.453908Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:37.508947Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:37.678154Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:37.869131Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:38.073984Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I counseled"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich gab Empfehlungen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je recommande"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я рекомендовал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Önerdim"
     ]
   ]
 }

@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ceci est sont groupe de copains avec lesquels il déjeûne"
+    ],
+    [
+      "TRANSLATION",
+      "deu:welche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:which"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quali"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bunlar"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:38:21.183561Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:21.337416Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:21.508489Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:21.688507Z": "TRANSLATION_DONE:tur"
+  }
 }

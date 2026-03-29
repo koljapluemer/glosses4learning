@@ -32,9 +32,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout ce que je veux, c'est un petit-déjeuner"
+    ],
+    [
+      "TRANSLATION",
+      "deu:möchte"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vorrei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хочу"
+    ],
+    [
+      "TRANSLATION",
+      "tur:istiyorum"
     ]
   ],
   "logs": {
-    "2026-03-28T15:40:05.640293Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:40:05.640293Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:53.669073Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:53.825989Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:53.978111Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:54.144734Z": "TRANSLATION_DONE:tur"
   }
 }

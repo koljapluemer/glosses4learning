@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:19:01.431179Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:19:01.431179Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:33.836629Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:34.019940Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:34.199010Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:34.392728Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:struck"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vaincu, battu"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sconfitta"
+    ],
+    [
+      "TRANSLATION",
+      "rus:побежден"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yendi"
     ]
   ]
 }

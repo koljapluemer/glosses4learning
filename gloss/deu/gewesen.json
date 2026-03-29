@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Was auch der Grund gewesen sein mag, sie haben nicht geheiratet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avoir été"
+    ],
+    [
+      "TRANSLATION",
+      "ita:essere stato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:быть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmuş"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:19:41.891514Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:42.089406Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:42.276326Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:42.472307Z": "TRANSLATION_DONE:tur"
+  }
 }

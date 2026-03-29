@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:20:45.496334Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:20:45.496334Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:31.191173Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:31.347900Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:31.495326Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:31.659991Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Indian subcontinent"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Indien"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Inde"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Индия"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Hindistan"
     ]
   ]
 }

@@ -21,9 +21,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Il ne sait pas distinguer le vice de la vertu"
+    ],
+    [
+      "TRANSLATION",
+      "deu:unterscheiden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to distinguish"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отличать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ayırt etmek"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:33:26.009269Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:26.184251Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:26.387321Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:26.579824Z": "TRANSLATION_DONE:tur"
+  }
 }

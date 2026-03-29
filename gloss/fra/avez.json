@@ -20,6 +20,37 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce que vous avez entendu parler de nous ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:habt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avete"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у вас есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahipsiniz"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:28:58.666103Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:58.843179Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:59.021738Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:59.218966Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:59.390147Z": "TRANSLATION_DONE:tur"
+  }
 }

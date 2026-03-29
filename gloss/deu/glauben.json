@@ -29,12 +29,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich kann nicht glauben, dass es wirklich so einfach ist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:croire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:credere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:верить"
+    ],
+    [
+      "TRANSLATION",
+      "fra:crois"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T16:34:05.159028Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:34:05.159028Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:51.742241Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:51.916403Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:52.067985Z": "TRANSLATION_DONE:rus"
   }
 }

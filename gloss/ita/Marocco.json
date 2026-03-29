@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:30.345982Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:30.345982Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:18.095960Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:18.239646Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:18.435075Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:18.592860Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Moroccan"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Marokko"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Maroc"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Марокко"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Morocco"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:34:19.909883Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:34:19.909883Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:24.260955Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:24.467353Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:24.653774Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:24.871828Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I will try to find"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich werde versuchen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Je vais chercher"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я постараюсь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ben araştıracağım"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:01.835684Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:01.835684Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:52.079351Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:52.262854Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:52.470397Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:52.645256Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Als ich dieses kleine Geschöpf in dem Kinderwagen liegen sah, fragte, wie es denn heiße, und „Ludwig“ zur Antwort bekam, musste ich lachen und kriegte mich gar nicht wieder ein"
+    ],
+    [
+      "TRANSLATION",
+      "fra:demanda"
+    ],
+    [
+      "TRANSLATION",
+      "ita:chiedeva"
+    ],
+    [
+      "TRANSLATION",
+      "rus:спросил"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sordu"
     ]
   ]
 }

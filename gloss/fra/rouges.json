@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Toutes les pommes ne sont pas rouges"
+    ],
+    [
+      "TRANSLATION",
+      "deu:rot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:red"
+    ],
+    [
+      "TRANSLATION",
+      "ita:rossi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:красные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kırmızı"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:45:56.515808Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:45:56.667950Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:45:56.840447Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:45:57.001224Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:45:57.150877Z": "TRANSLATION_DONE:tur"
+  }
 }

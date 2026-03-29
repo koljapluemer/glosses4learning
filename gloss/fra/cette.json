@@ -325,12 +325,32 @@
     [
       "USAGE_EXAMPLE",
       "fra:Quelle est la profondeur de cette rivière ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dies"
+    ],
+    [
+      "TRANSLATION",
+      "ita:questo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bu"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:49:08.449465Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:49:08.449465Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:30:12.962051Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:30:13.116857Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:30:13.296660Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:30:13.456948Z": "TRANSLATION_DONE:tur"
   }
 }

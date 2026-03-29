@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Que se passe-t-il entre ces deux-là ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ist es erfolgreich﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:does it work﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:funziona correttamente﹖"
+    ],
+    [
+      "TRANSLATION",
+      "rus:происходит ли"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başarılı olup olmadığını"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:58.466236Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:58.657779Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:41:58.857397Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:59.066048Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:59.260926Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:34:54.292471Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:34:54.292471Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:50.385783Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:50.573129Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:50.760388Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:50.942675Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Dill weed"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dill"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Dis-le"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Скажи ей"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Dille"
     ]
   ]
 }

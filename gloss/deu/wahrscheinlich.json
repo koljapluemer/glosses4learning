@@ -13,9 +13,31 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ihnen wird dieses Buch wahrscheinlich nicht gefallen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:probably"
+    ],
+    [
+      "TRANSLATION",
+      "fra:probablement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:probabilmente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вероятно"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:23:44.094722Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:44.265185Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:44.463289Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:44.647769Z": "TRANSLATION_DONE:rus"
+  }
 }

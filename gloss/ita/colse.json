@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:51.010466Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:51.010466Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:18.397584Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:18.583740Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:18.799252Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:19.002776Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:shut down"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nah"
+    ],
+    [
+      "TRANSLATION",
+      "fra:colse"
+    ],
+    [
+      "TRANSLATION",
+      "rus:закрывать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kolse"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:42.726503Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:42.726503Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:31.326684Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:31.510546Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:31.692419Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:31.874213Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to bother"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aggrave"
+    ],
+    [
+      "TRANSLATION",
+      "ita:irritare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:раздражать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sinirlen"
     ]
   ]
 }

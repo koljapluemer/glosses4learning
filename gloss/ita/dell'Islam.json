@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:34.540833Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:34.540833Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:47.852506Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:48.067887Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:48.256379Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:48.469869Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:pertaining to Islam"
+    ],
+    [
+      "TRANSLATION",
+      "deu:des Islam"
+    ],
+    [
+      "TRANSLATION",
+      "fra:de l'Islam"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ислама"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İslam inancı"
     ]
   ]
 }

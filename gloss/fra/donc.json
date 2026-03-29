@@ -17,9 +17,30 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je regardai donc cette apparition avec des yeux tout ronds d'étonnement"
+    ],
+    [
+      "TRANSLATION",
+      "deu:so"
+    ],
+    [
+      "TRANSLATION",
+      "deu:also"
+    ],
+    [
+      "TRANSLATION",
+      "eng:therefore"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quindi"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:33:32.169014Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:32.354205Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:32.553545Z": "TRANSLATION_DONE:ita"
+  }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:22.607921Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:22.607921Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:31.602979Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:31.789621Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:31.998947Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:32.175574Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:treat"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Sucré"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Dolce"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Сладкое"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tatlı"
     ]
   ]
 }

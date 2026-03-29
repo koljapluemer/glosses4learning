@@ -97,12 +97,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cela ne devrait pas être difficile"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sein"
+    ],
+    [
+      "TRANSLATION",
+      "ita:essere"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olmak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:38:36.787222Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:36.787222Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:51:33.394590Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:51:33.576951Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:51:33.719142Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -3,7 +3,11 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:32:39.334516Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:39.334516Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:31.842647Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:32.025967Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:32.184579Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:32.345729Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -28,6 +32,22 @@
     [
       "NOTE",
       "eng:Often used in the context of products or services being available"
+    ],
+    [
+      "TRANSLATION",
+      "fra:disponible"
+    ],
+    [
+      "TRANSLATION",
+      "ita:disponibile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:доступно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mevcut"
     ]
   ]
 }

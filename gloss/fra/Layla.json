@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Sami et Layla sont de jeunes mariés"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Layla"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Layla"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Layla"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Лейла"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Leyla"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:25:41.150604Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:41.335426Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:41.523936Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:41.720280Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:41.890222Z": "TRANSLATION_DONE:tur"
+  }
 }

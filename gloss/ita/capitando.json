@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:56.955094Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:56.955094Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:32.874493Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:33.063800Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:33.271992Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:33.467419Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:by taking hold"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zufällig"
+    ],
+    [
+      "TRANSLATION",
+      "fra:accident"
+    ],
+    [
+      "TRANSLATION",
+      "rus:случалось"
+    ],
+    [
+      "TRANSLATION",
+      "tur:olması"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:05.730795Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:05.730795Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:59.197762Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:59.374393Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:59.561619Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:59.727757Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:begins"
+    ],
+    [
+      "TRANSLATION",
+      "fra:commence"
+    ],
+    [
+      "TRANSLATION",
+      "ita:inizia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:начинает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başlar"
     ]
   ]
 }

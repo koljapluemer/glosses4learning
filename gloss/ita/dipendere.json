@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:04.211169Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:04.211169Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:11.365001Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:11.540047Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:11.743761Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:11.970368Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to be contingent upon"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sich verlassen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dépendre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:зависеть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bağımlı olmak"
     ]
   ]
 }

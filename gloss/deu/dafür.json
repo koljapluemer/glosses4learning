@@ -3,7 +3,11 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:32:00.072371Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:00.072371Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:50.597489Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:50.796177Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:50.989801Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:51.144049Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -48,6 +52,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wir haben dafür gesorgt, daß das nicht passiert ist"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en échange de cela"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a questo scopo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:в обмен на это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bu konuda"
     ]
   ]
 }

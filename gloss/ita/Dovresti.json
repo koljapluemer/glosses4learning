@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:06.438751Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:06.438751Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:57.676486Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:57.860879Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:58.039643Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:58.239593Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:You are supposed to"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie sollten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous devriez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вы должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bunu yapmalısın"
     ]
   ]
 }

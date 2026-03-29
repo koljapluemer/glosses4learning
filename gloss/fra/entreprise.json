@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Le DG de cette entreprise est une femme"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unternehmen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:company"
+    ],
+    [
+      "TRANSLATION",
+      "ita:azienda"
+    ],
+    [
+      "TRANSLATION",
+      "rus:компания"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şirket"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:34:36.078619Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:34:36.237078Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:36.441082Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:34:36.646551Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:36.842920Z": "TRANSLATION_DONE:tur"
+  }
 }

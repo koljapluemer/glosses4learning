@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:32.163378Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:32.163378Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:06:05.727585Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:06:05.888835Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:06:06.060886Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:06:06.283236Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:steering"
+    ],
+    [
+      "TRANSLATION",
+      "deu:fahren"
+    ],
+    [
+      "TRANSLATION",
+      "fra:conduire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:управление"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yürütmek, kontrol etmek"
     ]
   ]
 }

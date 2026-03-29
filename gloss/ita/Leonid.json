@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:20:57.963862Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:20:57.963862Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:03.350432Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:03.508343Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:03.699737Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:03.866514Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Leonids"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leonid"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Leonid"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Леонид"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Leonid"
     ]
   ]
 }

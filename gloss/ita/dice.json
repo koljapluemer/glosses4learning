@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-28T14:48:51.829001Z": "TRANSLATION_DONE:eng",
-    "2026-01-22T15:09:59.534Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2026-01-22T15:09:59.534Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T14:03:02.295056Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:02.459185Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:02.624998Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:02.807498Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -54,6 +58,22 @@
     [
       "TRANSLATION",
       "eng:to declare"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Würfel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dés"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кость"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zarlar"
     ]
   ]
 }

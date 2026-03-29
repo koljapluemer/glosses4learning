@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elle a éprouvé de la compassion pour ces malheureux"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erlebt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:experienced"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ощущенный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:deneyim"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:51:14.126154Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:51:14.311860Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:51:14.509863Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:51:14.693961Z": "TRANSLATION_DONE:tur"
+  }
 }

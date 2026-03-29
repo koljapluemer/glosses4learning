@@ -17,9 +17,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je n'ai pas l'intention de partir en retraite pour le moment"
+    ],
+    [
+      "TRANSLATION",
+      "deu:aufbrechen, abreisen, verlassen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:partire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:уходить, уезжать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gitmek, ayrılmak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:49.402541Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:49.593978Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:49.804379Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:50.026600Z": "TRANSLATION_DONE:tur"
+  }
 }

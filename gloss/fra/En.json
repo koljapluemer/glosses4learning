@@ -29,12 +29,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:En quelle saison sommes-nous ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:In"
+    ],
+    [
+      "TRANSLATION",
+      "ita:In"
+    ],
+    [
+      "TRANSLATION",
+      "rus:В"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:39:14.891583Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:39:14.891583Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:20.203706Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:20.349783Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:25:20.507988Z": "TRANSLATION_DONE:rus"
   }
 }

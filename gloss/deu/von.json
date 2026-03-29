@@ -4,7 +4,8 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.936288Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.909316Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.909316Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:23:37.459583Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -165,6 +166,46 @@
     [
       "USAGE_EXAMPLE",
       "deu:Die Zeitungen haben von dieser Neuigkeit nicht berichtet"
+    ],
+    [
+      "TRANSLATION",
+      "rus:от"
+    ],
+    [
+      "TRANSLATION",
+      "fra:d'"
+    ],
+    [
+      "TRANSLATION",
+      "fra:d'un"
+    ],
+    [
+      "TRANSLATION",
+      "fra:d'une"
+    ],
+    [
+      "TRANSLATION",
+      "ita:degli"
+    ],
+    [
+      "TRANSLATION",
+      "ita:del"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dell'"
+    ],
+    [
+      "TRANSLATION",
+      "ita:della"
+    ],
+    [
+      "TRANSLATION",
+      "ita:delle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di"
     ]
   ]
 }

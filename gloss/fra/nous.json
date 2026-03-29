@@ -220,6 +220,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tout le monde sait que nous détestons Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:uns"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:noi"
+    ],
+    [
+      "TRANSLATION",
+      "tur:biz"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:40:52.599011Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:52.764755Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:52.939447Z": "TRANSLATION_DONE:tur"
+  }
 }

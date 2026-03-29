@@ -48,6 +48,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette idée est vraiment assez bonne"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gut"
+    ],
+    [
+      "TRANSLATION",
+      "eng:good"
+    ],
+    [
+      "TRANSLATION",
+      "ita:buono"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хорошо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:iyi"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:29:37.673396Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:29:37.855547Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:29:38.049110Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:29:38.227319Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:29:38.384300Z": "TRANSLATION_DONE:tur"
+  }
 }

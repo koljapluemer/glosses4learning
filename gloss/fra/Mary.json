@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:50:45.652924Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:50:45.652924Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:25:48.748606Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:25:48.943687Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:25:49.125173Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -63,6 +66,18 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom savait que Mary ne savait pas parler le français"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мэри"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mary"
     ]
   ]
 }

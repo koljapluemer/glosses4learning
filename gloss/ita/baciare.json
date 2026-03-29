@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:40.554078Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:40.554078Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:26.790344Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:26.984814Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:27.149824Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:27.351821Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to smooch"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kuschen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:embrasser"
+    ],
+    [
+      "TRANSLATION",
+      "rus:целовать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:öpüşmek"
     ]
   ]
 }

@@ -136,9 +136,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne sais pas si bien que ça le français"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quello"
+    ],
+    [
+      "TRANSLATION",
+      "rus:это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o, bu"
     ]
   ],
   "logs": {
-    "2026-03-28T15:37:19.194856Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:37:19.194856Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:50:57.377603Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:50:57.563076Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:50:57.749448Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:50:57.938444Z": "TRANSLATION_DONE:tur"
   }
 }

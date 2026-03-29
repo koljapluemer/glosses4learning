@@ -13,9 +13,40 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ma mère est en train de préparer le déjeuner"
+    ],
+    [
+      "TRANSLATION",
+      "deu:packen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vorbereiten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to prepare"
+    ],
+    [
+      "TRANSLATION",
+      "ita:preparare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:подготовить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hazırlamak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:44:07.762174Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:07.947786Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:08.113197Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:08.273028Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:44:08.437413Z": "TRANSLATION_DONE:tur"
+  }
 }

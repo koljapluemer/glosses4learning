@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:30.807091Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:30.807091Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:21.352505Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:21.525808Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:21.713514Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:21.888925Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:campground"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Camping"
+    ],
+    [
+      "TRANSLATION",
+      "fra:camping"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кемпинг"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kamp"
     ]
   ]
 }

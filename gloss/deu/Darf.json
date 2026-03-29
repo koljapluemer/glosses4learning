@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:49.473871Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:49.473871Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:05.807109Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:06.003922Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:06.198816Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:06.408350Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:can"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Est-ce permis﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:È permesso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Разрешено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İzin verin"
     ]
   ]
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Les chaises de la cuisine ne sont pas empilables"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Küche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cooking"
+    ],
+    [
+      "TRANSLATION",
+      "ita:cucina"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кухня"
+    ],
+    [
+      "TRANSLATION",
+      "tur:mutfak"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:06.382568Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:06.559936Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:06.773949Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:06.953190Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:07.145999Z": "TRANSLATION_DONE:tur"
+  }
 }

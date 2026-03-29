@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:28.139294Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:28.139294Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:16.212601Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:16.381264Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:16.560866Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:16.746014Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to hold"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erfolgen lassen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avoir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:определить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:elde etmek"
     ]
   ]
 }

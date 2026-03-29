@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom ne prend pas de petit-déjeuner"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nimmt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:takes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:prendere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:занимается, берет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:al"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:43:29.939546Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:30.104022Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:30.267250Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:30.488276Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:30.648584Z": "TRANSLATION_DONE:tur"
+  }
 }

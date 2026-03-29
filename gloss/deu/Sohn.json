@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:14.211259Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:14.211259Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:18.548113Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:18.699122Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:18.846982Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,22 @@
     [
       "TRANSLATION",
       "eng:child"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Fils"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Figlio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Сын"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fils"
     ]
   ]
 }

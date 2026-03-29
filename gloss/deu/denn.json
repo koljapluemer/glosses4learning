@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:09.615056Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:09.615056Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:01.106626Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:01.276381Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:01.462768Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:01.629338Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -55,6 +59,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Warum haben Sie das denn nicht vorher gesagt﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:car"
+    ],
+    [
+      "TRANSLATION",
+      "ita:perché"
+    ],
+    [
+      "TRANSLATION",
+      "rus:потому что"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çünkü"
     ]
   ]
 }

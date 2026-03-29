@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce que cette nourriture contient de la viande ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:enthält"
+    ],
+    [
+      "TRANSLATION",
+      "eng:includes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:contiene"
+    ],
+    [
+      "TRANSLATION",
+      "rus:содержит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:içerir"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:31:33.857075Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:34.002396Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:34.195663Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:34.371490Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:34.557258Z": "TRANSLATION_DONE:tur"
+  }
 }

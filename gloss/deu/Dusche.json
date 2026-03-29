@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:54.826303Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:54.826303Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:15.686050Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:15.876531Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:16.066860Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:to shower"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Douche"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Doccia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Душ"
     ]
   ]
 }

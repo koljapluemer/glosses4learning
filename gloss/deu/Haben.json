@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.932282Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.885530Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.885530Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:13:10.460569Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:10.646652Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:10.840053Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:11.028160Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -49,6 +53,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Haben Sie meinen gespeicherten Spielstand überschrieben﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Avoir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Avere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Иметь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sahip olmak"
     ]
   ]
 }

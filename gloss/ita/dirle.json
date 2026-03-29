@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:09.221842Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:09.221842Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:16.210812Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:16.396595Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:16.581331Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:16.819774Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to inform"
+    ],
+    [
+      "TRANSLATION",
+      "deu:IhmIhrer sagen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:le dire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказать ей"
+    ],
+    [
+      "TRANSLATION",
+      "tur:iletişim kurmak, konuşmak"
     ]
   ]
 }

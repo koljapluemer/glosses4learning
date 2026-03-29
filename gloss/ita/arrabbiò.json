@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:00.814424Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:00.814424Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:56.623915Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:56.803850Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:56.996794Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:57.189386Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:he lost his temper"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wütend"
+    ],
+    [
+      "TRANSLATION",
+      "fra:colère"
+    ],
+    [
+      "TRANSLATION",
+      "rus:разгневан"
+    ],
+    [
+      "TRANSLATION",
+      "tur:arrabio"
     ]
   ]
 }

@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:26.853980Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:26.853980Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:07.917272Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:34:08.091170Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:08.244269Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -79,6 +82,18 @@
     [
       "USAGE_EXAMPLE",
       "fra:Une fois qu'elle est arrivée, nous pouvons commencer"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:она"
+    ],
+    [
+      "TRANSLATION",
+      "tur:o"
     ]
   ]
 }

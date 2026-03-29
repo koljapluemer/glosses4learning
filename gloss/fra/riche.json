@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Quelle est la personne la plus riche que tu connaisses ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:reich"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wealthy"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ricco"
+    ],
+    [
+      "TRANSLATION",
+      "rus:богатый"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zengin"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:45:50.178571Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:45:50.368537Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:45:50.551857Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:45:50.748558Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:45:50.926975Z": "TRANSLATION_DONE:tur"
+  }
 }

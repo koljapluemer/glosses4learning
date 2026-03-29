@@ -24,9 +24,34 @@
     [
       "USAGE_EXAMPLE",
       "ina:Mi nomine es Jack"
+    ],
+    [
+      "TRANSLATION",
+      "deu:es"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pas"
+    ],
+    [
+      "TRANSLATION",
+      "ita:es"
+    ],
+    [
+      "TRANSLATION",
+      "rus:это"
+    ],
+    [
+      "TRANSLATION",
+      "tur:es"
     ]
   ],
   "logs": {
-    "2026-03-28T13:55:25.963447Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T13:55:25.963447Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:52:24.388356Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:52:24.567730Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:52:24.738631Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:52:24.939384Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:52:25.118371Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:08.189912Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:08.189912Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:59.678177Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:59.862981Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:00.028067Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:00.198821Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:reflect"
+    ],
+    [
+      "TRANSLATION",
+      "fra:pense"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pensa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:думаю"
+    ],
+    [
+      "TRANSLATION",
+      "tur:düşünüyorum"
+    ],
+    [
+      "TRANSLATION",
+      "fra:penses"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:33.996241Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:33.996241Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:20.611058Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:20.804825Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:21.012903Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:21.227346Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:I was having"
+    ],
+    [
+      "TRANSLATION",
+      "fra:avais"
+    ],
+    [
+      "TRANSLATION",
+      "fra:j'avais"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich hatte"
+    ],
+    [
+      "TRANSLATION",
+      "rus:у меня было"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Benim elimdeydi"
     ]
   ]
 }

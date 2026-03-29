@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:46.563379Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:46.563379Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:42.387521Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:42.586433Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:42.772211Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:orchestral group"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Orchestre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Orchestra"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Оркестр"
     ]
   ]
 }

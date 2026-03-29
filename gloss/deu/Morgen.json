@@ -10,7 +10,11 @@
     "2025-12-12T14:10:54.602103Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:11:37.113156Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:19:15.165854Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:36.884258Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.884258Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:14:27.509050Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:27.696748Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:27.878049Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:28.052317Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -55,6 +59,22 @@
     [
       "TRANSLATION",
       "deu:Morgen nachmittag"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Demain"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Domani"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Завтра"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yarın"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:24.782537Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:24.782537Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:43.025617Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:43.216188Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:43.385901Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:43.582834Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:was acquainted with"
+    ],
+    [
+      "TRANSLATION",
+      "fra:connaissait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:conosceva"
+    ],
+    [
+      "TRANSLATION",
+      "rus:знал"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tanıdıyordu"
     ]
   ]
 }

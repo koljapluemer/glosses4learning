@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:18.940976Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:18.940976Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:20.650643Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:20.855074Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:21.037048Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:21.244212Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe das hier für meine Freundin gekauft"
+    ],
+    [
+      "TRANSLATION",
+      "fra:acheté"
+    ],
+    [
+      "TRANSLATION",
+      "ita:acquistato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:приобретено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:satın alındı"
+    ],
+    [
+      "TRANSLATION",
+      "fra:achetées"
+    ],
+    [
+      "TRANSLATION",
+      "ita:comprata"
+    ],
+    [
+      "TRANSLATION",
+      "ita:comprato"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:34:48.467320Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:34:48.467320Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:46.371280Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:46.537820Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:46.717886Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:46.898335Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Female deity"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du musst"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous devez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вы должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sen"
     ]
   ]
 }

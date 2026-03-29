@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:01.311717Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:01.311717Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:21.569066Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:21.731787Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:21.924876Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:22.090600Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -59,6 +63,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Behinderte können es nicht ausstehen, wenn man sie bemitleidet"
+    ],
+    [
+      "TRANSLATION",
+      "fra:homme"
+    ],
+    [
+      "TRANSLATION",
+      "ita:uomo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мужчина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:erkek"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:38.334398Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:38.334398Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:23.744841Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:23.921184Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:24.082703Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:24.306749Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Light and airy dessert"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mousse"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mousse"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мусс"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mousse (Krem)"
     ]
   ]
 }

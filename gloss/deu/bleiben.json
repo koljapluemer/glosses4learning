@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:54.156529Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:54.156529Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:43.869219Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:44.064378Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:44.263506Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -35,6 +38,34 @@
     [
       "TRANSLATION",
       "eng:to remain"
+    ],
+    [
+      "TRANSLATION",
+      "fra:rester"
+    ],
+    [
+      "TRANSLATION",
+      "ita:rimanere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:оставаться"
+    ],
+    [
+      "TRANSLATION",
+      "fra:restent"
+    ],
+    [
+      "TRANSLATION",
+      "fra:resteras"
+    ],
+    [
+      "TRANSLATION",
+      "fra:restez"
+    ],
+    [
+      "TRANSLATION",
+      "fra:restons"
     ]
   ]
 }

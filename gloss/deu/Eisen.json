@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:59.968532Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:59.968532Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:21.072412Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:21.243456Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:21.429485Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:12:21.606012Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:steel"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Fer"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Ferro"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Железо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Demir"
     ]
   ]
 }

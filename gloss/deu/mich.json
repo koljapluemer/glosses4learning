@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:06.763366Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:06.763366Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:29.847988Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:30.018505Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -111,6 +113,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich erinnere mich, diesen Brief eingeworfen zu haben"
+    ],
+    [
+      "TRANSLATION",
+      "ita:me"
+    ],
+    [
+      "TRANSLATION",
+      "rus:меня"
+    ],
+    [
+      "TRANSLATION",
+      "fra:m'"
     ]
   ]
 }

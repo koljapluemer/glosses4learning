@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:11:10.629496Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:11:10.629496Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:26:01.161836Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:26:01.341456Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:26:01.524546Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:26:01.701983Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne serai pas à la maison pour Noël"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Weihnachten"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Natale"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Рождество"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Noel"
     ]
   ]
 }

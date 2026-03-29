@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:26.168043Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:26.168043Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:06.745377Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:06.972057Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:07.132474Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:07.324141Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:intense"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fort"
+    ],
+    [
+      "TRANSLATION",
+      "deu:stark"
+    ],
+    [
+      "TRANSLATION",
+      "fra:important, significatif, marquant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сильный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:güçlü"
     ]
   ]
 }

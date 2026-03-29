@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:28:22.393737Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:28:22.393737Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:12:36.813208Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:12:37.005421Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:12:37.218660Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -27,6 +30,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Haben Sie schon einmal jemanden in Französisch unterrichtet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Français"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Francese"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Французский"
+    ],
+    [
+      "TRANSLATION",
+      "fra:français"
     ]
   ]
 }

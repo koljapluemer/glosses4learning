@@ -21,9 +21,30 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai déjà entendu cette chanson quelque part"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bereits"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schon"
+    ],
+    [
+      "TRANSLATION",
+      "ita:già"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zaten"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:33:51.584692Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:51.760370Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:51.970744Z": "TRANSLATION_DONE:tur"
+  }
 }

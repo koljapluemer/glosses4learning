@@ -209,12 +209,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Comment se fait-il que tu ne le saches pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:se"
+    ],
+    [
+      "TRANSLATION",
+      "rus:само"
+    ],
+    [
+      "TRANSLATION",
+      "tur:se"
+    ],
+    [
+      "TRANSLATION",
+      "hrv:se"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:39:20.721883Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:39:20.721883Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:47:06.474474Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:47:06.670491Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:47:06.851176Z": "TRANSLATION_DONE:tur"
   }
 }

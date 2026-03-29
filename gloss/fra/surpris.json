@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je suis surpris que Tom ne sache pas parler français"
+    ],
+    [
+      "TRANSLATION",
+      "deu:überrascht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:surprised"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sorpreso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:удивлен"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şaşırtmak"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:48:22.351003Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:48:22.539848Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:48:22.729999Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:48:22.926429Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:48:23.109405Z": "TRANSLATION_DONE:tur"
+  }
 }

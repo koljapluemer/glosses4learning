@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:59.363142Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:59.363142Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:07.554935Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:07.755675Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:07.932952Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:08.133217Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:inform him"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sag es ihmihr"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dites-lui"
+    ],
+    [
+      "TRANSLATION",
+      "rus:скажите им"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dığlı"
     ]
   ]
 }

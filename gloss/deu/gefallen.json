@@ -24,9 +24,29 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich bin mir sicher, dass Tom Ihnen gefallen wird"
+    ],
+    [
+      "TRANSLATION",
+      "fra:plaire"
+    ],
+    [
+      "TRANSLATION",
+      "ita:piacere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:понравиться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beğenmek"
     ]
   ],
   "logs": {
-    "2026-03-28T16:41:15.353850Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:41:15.353850Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:09.432697Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:09.637127Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:09.837094Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:10.042071Z": "TRANSLATION_DONE:tur"
   }
 }

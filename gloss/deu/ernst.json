@@ -13,9 +13,35 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das könnt ihr doch nicht wirklich ernst meinen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:serious"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sérieux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:serio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:серьёзно"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sérieusement"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:18:36.842545Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:37.039999Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:37.227471Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:37.422157Z": "TRANSLATION_DONE:rus"
+  }
 }

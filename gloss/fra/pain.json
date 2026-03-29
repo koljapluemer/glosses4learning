@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Nous mangeons du pain et du beurre pour le déjeuner"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Brot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bread"
+    ],
+    [
+      "TRANSLATION",
+      "ita:pane"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хлеб"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ekmek"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:26.667817Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:26.840898Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:41:27.002397Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:27.200054Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:27.395210Z": "TRANSLATION_DONE:tur"
+  }
 }

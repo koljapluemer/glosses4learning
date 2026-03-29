@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:27.451477Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:27.451477Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:45.942124Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:46.136667Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:46.321442Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:46.507384Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Was du nicht willst, dass man dir tu, das füg auch keinem andern zu"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à personne"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nessuno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кому-либо"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hiçbirine"
     ]
   ]
 }

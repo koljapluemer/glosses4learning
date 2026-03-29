@@ -32,9 +32,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je sais que nous sommes un peu en avance"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wenig"
+    ],
+    [
+      "TRANSLATION",
+      "ita:poche"
+    ],
+    [
+      "TRANSLATION",
+      "rus:мало"
+    ],
+    [
+      "TRANSLATION",
+      "tur:az"
     ]
   ],
   "logs": {
-    "2026-03-28T15:50:29.695645Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:50:29.695645Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:42:27.511137Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:27.689313Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:27.846180Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:28.024209Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:25.083817Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:25.083817Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:30.101127Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:30.297509Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:30.482045Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:30.676065Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Habt ihr schon einmal jemandem das Leben gerettet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sauvé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:salvato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:спасено"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kurtarıldı"
     ]
   ]
 }

@@ -52,9 +52,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne parviens pas à croire qu'il vous ait embrassé"
+    ],
+    [
+      "TRANSLATION",
+      "deu:glauben"
+    ],
+    [
+      "TRANSLATION",
+      "ita:credere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:верить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:inanmak"
+    ],
+    [
+      "TRANSLATION",
+      "ita:crede"
     ]
   ],
   "logs": {
-    "2026-03-28T15:45:04.819844Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:45:04.819844Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:02.057464Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:02.226668Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:02.407167Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:02.565820Z": "TRANSLATION_DONE:tur"
   }
 }

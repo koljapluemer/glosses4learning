@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai parlé à tout le monde de ce qui s'est passé"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gesprochen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spoken"
+    ],
+    [
+      "TRANSLATION",
+      "ita:detto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сказано"
+    ],
+    [
+      "TRANSLATION",
+      "tur:konuşulmuş"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:41.849775Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:42.028713Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:41:42.188370Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:42.358848Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:42.540386Z": "TRANSLATION_DONE:tur"
+  }
 }

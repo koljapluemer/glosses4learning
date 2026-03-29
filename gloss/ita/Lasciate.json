@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:15.454576Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:15.454576Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:54:59.068452Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:54:59.237351Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:54:59.425555Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:54:59.631904Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Allow"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lassen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Laissez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Оставьте"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bırakın"
     ]
   ]
 }

@@ -53,12 +53,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tu ne devrais pas écrire dans les livres de la bibliothèque"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dovrei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:следует"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapmalıyım"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:48:27.891221Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:48:27.891221Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:55.758294Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:55.943295Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:56.159082Z": "TRANSLATION_DONE:tur"
   }
 }

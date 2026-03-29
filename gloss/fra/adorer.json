@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:00.186667Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:00.186667Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:06.819667Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:07.044591Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:07.236436Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:27:07.438736Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to cherish"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lieben, sehr mögen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:amare, apprezzare molto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:обожать, любить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sevmek, aşık olmak"
     ]
   ]
 }

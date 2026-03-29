@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne l'ai pas encore rencontré, à proprement parler"
+    ],
+    [
+      "TRANSLATION",
+      "deu:im Wesentlichen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:propriamente"
+    ],
+    [
+      "TRANSLATION",
+      "rus:правильно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:doğrusu"
     ]
   ],
   "logs": {
-    "2026-03-28T15:46:34.534761Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:46:34.534761Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:58.879643Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:59.084512Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:59.274983Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:59.468822Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Nous devrions toutes travailler ensemble"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sollten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we should"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dovremmo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должны"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapmalı mıydık"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:57.087458Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:57.255098Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:57.425248Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:57.586453Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:57.802744Z": "TRANSLATION_DONE:tur"
+  }
 }

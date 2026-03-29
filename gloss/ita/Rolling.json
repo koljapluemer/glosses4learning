@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:57.509051Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:57.509051Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:56:22.461556Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:56:22.636209Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:56:22.809025Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:56:22.989925Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Rolling action"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Walzen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Rouler"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Катание"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Kaydırma"
     ]
   ]
 }

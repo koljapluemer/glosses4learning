@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:38:53.816797Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:38:53.816797Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:01.318423Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:01.525776Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:01.714870Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:01.910805Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:I was being"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich war"
+    ],
+    [
+      "TRANSLATION",
+      "fra:J'étais"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Я был"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Ben"
     ]
   ]
 }

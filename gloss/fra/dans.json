@@ -5,7 +5,9 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:09.964432Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:09.964432Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:28.037468Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:28.223580Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -295,6 +297,26 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne me sens pas dans mon assiette aujourd’hui"
+    ],
+    [
+      "TRANSLATION",
+      "deu:im"
+    ],
+    [
+      "TRANSLATION",
+      "deu:in"
+    ],
+    [
+      "TRANSLATION",
+      "ita:all'interno di"
+    ],
+    [
+      "TRANSLATION",
+      "tur:içinde"
+    ],
+    [
+      "TRANSLATION",
+      "ina:in"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:21:01.542609Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:21:01.542609Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:10.769993Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:10.944039Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:11.138814Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:11.306050Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:Saint Teresa of Calcutta"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mutter Teresa"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mère Teresa"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мать Тереза"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Anne Teresa"
     ]
   ]
 }

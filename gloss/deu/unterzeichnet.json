@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Dieses Dokument ist noch immer nicht unterzeichnet worden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:signed"
+    ],
+    [
+      "TRANSLATION",
+      "fra:signé"
+    ],
+    [
+      "TRANSLATION",
+      "ita:firmato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:подписано"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İmzalanmış"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:23:10.723619Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:10.901386Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:11.084967Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:11.303179Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:11.535849Z": "TRANSLATION_DONE:tur"
+  }
 }

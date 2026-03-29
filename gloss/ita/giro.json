@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:52:13.673180Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:52:13.673180Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:47.286822Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:47.425662Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:47.630125Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:47.802251Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:loop"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rundfahrt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:tour"
+    ],
+    [
+      "TRANSLATION",
+      "rus:круговая дорога"
+    ],
+    [
+      "TRANSLATION",
+      "tur:tur"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:19:06.043237Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:19:06.043237Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:10.040427Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:10.221608Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:10.381256Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:10.579058Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Meine Eltern waren am letzten Wochenende nicht zu Hause"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dernier"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ultimo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:последний"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sonraki"
     ]
   ]
 }

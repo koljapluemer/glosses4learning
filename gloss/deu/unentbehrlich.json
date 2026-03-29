@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:43.841236Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:43.841236Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:03.110749Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:03.312484Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:03.490828Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "eng:vital"
+    ],
+    [
+      "TRANSLATION",
+      "fra:indispensable"
+    ],
+    [
+      "TRANSLATION",
+      "ita:essenziale, indispensabile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:необходимый"
     ]
   ]
 }

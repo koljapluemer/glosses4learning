@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Nous prenons le petit déjeuner à sept heures"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nehmen wir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's"
+    ],
+    [
+      "TRANSLATION",
+      "ita:prendiamo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:давайте"
+    ],
+    [
+      "TRANSLATION",
+      "tur:düşelim"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:43:37.254026Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:37.463648Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:37.638233Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:37.815241Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:38.006075Z": "TRANSLATION_DONE:tur"
+  }
 }

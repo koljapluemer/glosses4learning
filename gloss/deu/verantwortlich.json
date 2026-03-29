@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:49.568212Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:49.568212Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:14.054049Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:14.221554Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:14.396525Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:14.582721Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:in charge"
+    ],
+    [
+      "TRANSLATION",
+      "fra:responsable"
+    ],
+    [
+      "TRANSLATION",
+      "ita:responsabile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ответственный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sorumlu"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:38:56.577107Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:38:56.577107Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:57:02.886903Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:57:03.060070Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:57:03.236284Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:57:03.441818Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Minerals"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Steine"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Pierres"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Камни"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Taşlar"
     ]
   ]
 }

@@ -5,7 +5,10 @@
   "logs": {
     "2025-12-20T13:12:32.632Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-20T13:12:54.519Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
-    "2025-12-20T13:13:22.606Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-20T13:13:22.606Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:23:44.823760Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:44.971494Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:45.158415Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -107,6 +110,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Maria gab Tom mit einem Blick zu verstehen, daß sie im Bilde war"
+    ],
+    [
+      "TRANSLATION",
+      "fra:guerre"
+    ],
+    [
+      "TRANSLATION",
+      "ita:guerra"
+    ],
+    [
+      "TRANSLATION",
+      "rus:война"
+    ],
+    [
+      "TRANSLATION",
+      "fra:étais"
+    ],
+    [
+      "TRANSLATION",
+      "fra:était"
+    ],
+    [
+      "TRANSLATION",
+      "ita:era"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fu"
     ]
   ]
 }

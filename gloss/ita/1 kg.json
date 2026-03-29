@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:45:32.430659Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:45:32.430659Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:52:37.215330Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:52:37.384980Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:52:37.561361Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:52:37.734101Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:1 kg"
+    ],
+    [
+      "TRANSLATION",
+      "deu:1 kg"
+    ],
+    [
+      "TRANSLATION",
+      "fra:1 kg"
+    ],
+    [
+      "TRANSLATION",
+      "rus:1 килограмм"
+    ],
+    [
+      "TRANSLATION",
+      "tur:1 kilogram"
     ]
   ]
 }

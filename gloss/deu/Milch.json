@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:31.159817Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:31.159817Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:21.093934Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:21.280935Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:21.491496Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "eng:dairy"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Lait"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Latte"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Молоко"
     ]
   ]
 }

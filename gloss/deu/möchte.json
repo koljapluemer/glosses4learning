@@ -4,7 +4,9 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.795482Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.728084Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.728084Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-29T13:21:38.115681Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:38.308097Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -33,6 +35,22 @@
     [
       "TRANSLATION",
       "epo:volas"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vorrebbe"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хочу"
+    ],
+    [
+      "TRANSLATION",
+      "fra:veut"
+    ],
+    [
+      "TRANSLATION",
+      "fra:veux"
     ]
   ]
 }

@@ -20,6 +20,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tu aimes la musique classique, n'est-ce pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I like"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ti piace"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нравится"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beğenirsin"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:27:26.129139Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:27:26.321126Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:27:26.542699Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:27:26.726334Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:27:26.941885Z": "TRANSLATION_DONE:tur"
+  }
 }

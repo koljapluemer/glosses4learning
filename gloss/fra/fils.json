@@ -24,9 +24,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Mary a chanté des chansons à son fils pour qu'il s'endorme"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sohn"
+    ],
+    [
+      "TRANSLATION",
+      "ita:figlio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сын"
+    ],
+    [
+      "TRANSLATION",
+      "tur:oğul"
     ]
   ],
   "logs": {
-    "2026-03-28T15:47:29.634263Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:47:29.634263Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:35:49.178573Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:35:49.350637Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:35:49.515027Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:35:49.709728Z": "TRANSLATION_DONE:tur"
   }
 }

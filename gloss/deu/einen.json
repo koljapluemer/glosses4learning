@@ -10,7 +10,10 @@
     "2025-12-12T14:10:54.603232Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:11:37.114306Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:19:15.169446Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:36.908778Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.908778Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:18:17.185567Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:17.343850Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:17.539594Z": "TRANSLATION_DONE:rus"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -127,6 +130,18 @@
     [
       "USAGE_EXAMPLE",
       "deu:Wann haben Sie das letztemal einen Hörtest gemacht﹖"
+    ],
+    [
+      "TRANSLATION",
+      "fra:un"
+    ],
+    [
+      "TRANSLATION",
+      "ita:uno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:один"
     ]
   ]
 }

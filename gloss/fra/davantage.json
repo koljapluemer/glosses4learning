@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je pensais que nous disposions de davantage de temps"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mehr"
+    ],
+    [
+      "TRANSLATION",
+      "eng:more"
+    ],
+    [
+      "TRANSLATION",
+      "ita:più"
+    ],
+    [
+      "TRANSLATION",
+      "rus:больше"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:29.795387Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:29.961658Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:30.157164Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:30.330262Z": "TRANSLATION_DONE:rus"
+  }
 }

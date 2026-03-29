@@ -24,9 +24,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Nous voulons qu'ils rentrent à la maison"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir wollen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vorremmo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:хотим"
+    ],
+    [
+      "TRANSLATION",
+      "tur:istiyoruz"
     ]
   ],
   "logs": {
-    "2026-03-28T15:43:15.058674Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:43:15.058674Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:50:33.435292Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:50:33.603672Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:50:33.770349Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:50:33.958934Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:50.682406Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:50.682406Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:35.286024Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:35.453641Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:35.651866Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:35.833229Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:gags"
+    ],
+    [
+      "TRANSLATION",
+      "fra:blagues"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Witze, Anekdoten"
+    ],
+    [
+      "TRANSLATION",
+      "rus:шутки"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Espriler"
     ]
   ]
 }

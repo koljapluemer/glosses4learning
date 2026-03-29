@@ -56,9 +56,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je n'ai pas envie de répondre à des questions"
+    ],
+    [
+      "TRANSLATION",
+      "deu:antworten"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beantworten"
+    ],
+    [
+      "TRANSLATION",
+      "ita:rispondere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ответить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:cevap vermek"
     ]
   ],
   "logs": {
-    "2026-03-28T15:37:48.066065Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:37:48.066065Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:10.521236Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:10.693031Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:46:10.880929Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:46:11.060394Z": "TRANSLATION_DONE:tur"
   }
 }

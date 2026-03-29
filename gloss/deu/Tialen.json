@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:27.299625Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:27.299625Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:38.521056Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:38.701161Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:38.904881Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:39.098789Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to inform"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Tialen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Tialen"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Тялен"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tialen"
     ]
   ]
 }

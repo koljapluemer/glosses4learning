@@ -2,7 +2,12 @@
   "content": "besonders",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-29T13:17:30.958341Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:31.150797Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:31.321763Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:31.512001Z": "TRANSLATION_DONE:tur"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -23,6 +28,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Tom kennt seine Schulfreunde nicht besonders gut"
+    ],
+    [
+      "TRANSLATION",
+      "fra:en particulier"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in particolare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:особенно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:özellikle"
     ]
   ]
 }

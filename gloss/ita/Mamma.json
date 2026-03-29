@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:27.757839Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:27.757839Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:13.478394Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:13.631434Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:13.824071Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:13.981615Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Mum"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mama"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Maman"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мама"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Anne"
     ]
   ]
 }

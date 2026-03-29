@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ce n'est pas une seule phrase, c'en est deux"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das"
+    ],
+    [
+      "TRANSLATION",
+      "eng:that"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ne ce"
+    ],
+    [
+      "TRANSLATION",
+      "rus:из этого"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bu"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:29:47.203685Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:29:47.384450Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:29:47.578876Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:29:47.750969Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:29:47.934772Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -112,9 +112,28 @@
     [
       "USAGE_EXAMPLE",
       "fra:Est-ce qu'il te faut une couverture de plus ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mehr"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zusätzlich"
+    ],
+    [
+      "TRANSLATION",
+      "ita:inoltre"
+    ],
+    [
+      "TRANSLATION",
+      "rus:плюс"
     ]
   ],
   "logs": {
-    "2026-03-28T15:39:48.512147Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:39:48.512147Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:43:02.373967Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:43:02.554391Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:02.720715Z": "TRANSLATION_DONE:rus"
   }
 }

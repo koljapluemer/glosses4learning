@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:03.540501Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:03.540501Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:59.374278Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:59.562074Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:59.753893Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:59.933697Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:crayon"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stift"
+    ],
+    [
+      "TRANSLATION",
+      "ita:matita"
+    ],
+    [
+      "TRANSLATION",
+      "rus:карандаш"
+    ],
+    [
+      "TRANSLATION",
+      "tur:renkli kalem"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:59.608209Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:59.608209Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:26.494980Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:26.694772Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:26.905152Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:27.086018Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:delighted"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zufrieden"
+    ],
+    [
+      "TRANSLATION",
+      "fra:satisfaits"
+    ],
+    [
+      "TRANSLATION",
+      "rus:удовлетворенные"
+    ],
+    [
+      "TRANSLATION",
+      "tur:memnun"
     ]
   ]
 }

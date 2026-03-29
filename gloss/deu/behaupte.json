@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:36.029327Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:36.029327Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:17:17.914834Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:17:18.077422Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:17:18.285838Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:17:18.472886Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:maintain"
+    ],
+    [
+      "TRANSLATION",
+      "fra:affirme"
+    ],
+    [
+      "TRANSLATION",
+      "ita:afferma"
+    ],
+    [
+      "TRANSLATION",
+      "rus:утверждает"
+    ],
+    [
+      "TRANSLATION",
+      "tur:iddia ediyor"
     ]
   ]
 }

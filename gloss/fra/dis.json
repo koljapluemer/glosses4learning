@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:19.003460Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:19.003460Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:33:08.343083Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:33:08.541063Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:33:08.703695Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:33:08.890959Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -39,6 +43,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Il ne prête pas attention à ce que je lui dis"
+    ],
+    [
+      "TRANSLATION",
+      "deu:abwesend"
+    ],
+    [
+      "TRANSLATION",
+      "ita:dis"
+    ],
+    [
+      "TRANSLATION",
+      "rus:различие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:parmak"
     ]
   ]
 }

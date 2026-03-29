@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:00.134069Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:00.134069Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:08.329265Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:08.511263Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:08.675218Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:08.862371Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:dismiss"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:oublier"
+    ],
+    [
+      "TRANSLATION",
+      "rus:забудь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hatırla"
     ]
   ]
 }

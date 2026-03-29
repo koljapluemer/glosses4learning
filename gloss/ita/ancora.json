@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:35.732780Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:35.732780Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:36.233402Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:36.406974Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:36.580749Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -63,6 +66,22 @@
     [
       "TRANSLATION",
       "tur:daha"
+    ],
+    [
+      "TRANSLATION",
+      "deu:noch"
+    ],
+    [
+      "TRANSLATION",
+      "deu:still"
+    ],
+    [
+      "TRANSLATION",
+      "fra:encore"
+    ],
+    [
+      "TRANSLATION",
+      "rus:все еще"
     ]
   ]
 }

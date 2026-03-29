@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette marchandise n'est pas vendue au Japon"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verkauft"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sold"
+    ],
+    [
+      "TRANSLATION",
+      "ita:venduta"
+    ],
+    [
+      "TRANSLATION",
+      "rus:продана"
+    ],
+    [
+      "TRANSLATION",
+      "tur:satılmıştır"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:49:43.379486Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:43.556468Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:43.742373Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:43.900967Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:44.094224Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Gib mir bitte meinen geliehenen Gegenstand wieder zurück"
+    ],
+    [
+      "TRANSLATION",
+      "eng:borrowed"
+    ],
+    [
+      "TRANSLATION",
+      "fra:empruntées"
+    ],
+    [
+      "TRANSLATION",
+      "ita:presi in prestito"
+    ],
+    [
+      "TRANSLATION",
+      "rus:взятые в долг"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kiralanan"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:19:22.920074Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:23.135302Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:23.366409Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:23.574955Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:23.796141Z": "TRANSLATION_DONE:tur"
+  }
 }

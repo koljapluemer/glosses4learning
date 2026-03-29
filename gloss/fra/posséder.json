@@ -17,9 +17,26 @@
     [
       "USAGE_EXAMPLE",
       "fra:Le bonheur ne consiste pas seulement à posséder de nombreux biens"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:владеть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahip olmak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:43:18.207599Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:43:18.418364Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:43:18.641709Z": "TRANSLATION_DONE:tur"
+  }
 }

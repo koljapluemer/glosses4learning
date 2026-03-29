@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:03.782640Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:03.782640Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:40.432924Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:40.606619Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:40.779804Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -27,6 +30,26 @@
     [
       "TRANSLATION",
       "eng:kitten"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Chat"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Gatto"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Кошка"
+    ],
+    [
+      "TRANSLATION",
+      "fra:chatte"
+    ],
+    [
+      "TRANSLATION",
+      "ita:gatto"
     ]
   ]
 }

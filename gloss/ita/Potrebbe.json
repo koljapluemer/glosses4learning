@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:37:25.543259Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:37:25.543259Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:55.120939Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:55.313105Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:55.493613Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:55.713566Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,26 @@
     [
       "TRANSLATION",
       "eng:It is possible that"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Peut"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es könnte sein"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Cela pourrait être"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Возможно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mümkün olabilir"
     ]
   ]
 }

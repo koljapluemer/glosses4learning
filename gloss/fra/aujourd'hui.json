@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:51:10.445079Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:51:10.445079Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:37.682850Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:37.876312Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:38.069396Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:38.240512Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -63,6 +67,22 @@
     [
       "USAGE_EXAMPLE",
       "fra:Vous ne vous attendez pas à les voir aujourd'hui"
+    ],
+    [
+      "TRANSLATION",
+      "deu:heute"
+    ],
+    [
+      "TRANSLATION",
+      "ita:oggi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сегодня"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bugün"
     ]
   ]
 }

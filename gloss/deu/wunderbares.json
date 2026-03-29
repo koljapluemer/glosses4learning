@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:30.843384Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:30.843384Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:24:11.771473Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:24:11.979460Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:24:12.148964Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:24:12.320896Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:magnificent"
+    ],
+    [
+      "TRANSLATION",
+      "fra:merveilleux"
+    ],
+    [
+      "TRANSLATION",
+      "ita:meraviglioso"
+    ],
+    [
+      "TRANSLATION",
+      "rus:чудесный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:harika"
     ]
   ]
 }

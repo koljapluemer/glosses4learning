@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:19:08.092290Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:19:08.092290Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:37.419895Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:21:37.592099Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:21:37.758104Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:21:37.933100Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:have to"
+    ],
+    [
+      "TRANSLATION",
+      "fra:doit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:devi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нужно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapmak zorunda"
     ]
   ]
 }

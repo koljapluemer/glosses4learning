@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne cesse pas jusqu'à ce que je te le dise !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:e"
+    ],
+    [
+      "TRANSLATION",
+      "eng:e"
+    ],
+    [
+      "TRANSLATION",
+      "rus:e"
+    ],
+    [
+      "TRANSLATION",
+      "tur:e"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:34:04.673766Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:34:04.820868Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:05.006804Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:05.178952Z": "TRANSLATION_DONE:tur"
+  }
 }

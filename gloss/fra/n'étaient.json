@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tom et Mary ont dit qu'ils n'étaient pas d'accord"
+    ],
+    [
+      "TRANSLATION",
+      "deu:waren nicht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:were"
+    ],
+    [
+      "TRANSLATION",
+      "ita:non erano"
+    ],
+    [
+      "TRANSLATION",
+      "rus:не были"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sadece"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:40:24.368094Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:40:24.529826Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:40:24.685246Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:40:24.865189Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:40:25.037431Z": "TRANSLATION_DONE:tur"
+  }
 }

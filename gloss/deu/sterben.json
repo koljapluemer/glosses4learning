@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:22.771660Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:22.771660Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:46.319650Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:46.480007Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:46.682208Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,22 @@
     [
       "TRANSLATION",
       "eng:to perish"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mourir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:morire"
+    ],
+    [
+      "TRANSLATION",
+      "rus:умереть"
+    ],
+    [
+      "TRANSLATION",
+      "fra:meurent"
     ]
   ]
 }

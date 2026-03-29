@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:34:37.192199Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:34:37.192199Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:36.748682Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:36.935191Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:37.115960Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:37.298787Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Do you recognize﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kennen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous connaissez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Вы знаете﹖"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Bildiğiniz"
     ]
   ]
 }

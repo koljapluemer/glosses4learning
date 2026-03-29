@@ -21,9 +21,39 @@
     [
       "USAGE_EXAMPLE",
       "deu:Vielleicht hast du diesen Witz schon einmal gehört"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Joke"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Blague"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Battuta"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Шутка"
+    ],
+    [
+      "TRANSLATION",
+      "fra:blague"
+    ],
+    [
+      "TRANSLATION",
+      "fra:plaisanterie"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:16:19.787135Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:19.946649Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:20.117569Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:20.300322Z": "TRANSLATION_DONE:rus"
+  }
 }

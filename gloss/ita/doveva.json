@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:43.976331Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:43.976331Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:48.458703Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:48.603760Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:48.794750Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:49.005925Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,30 @@
     [
       "TRANSLATION",
       "eng:needed to"
+    ],
+    [
+      "TRANSLATION",
+      "dan:måtte"
+    ],
+    [
+      "TRANSLATION",
+      "deu:musste"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sollte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:devait"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должен был"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapması gerekiyordu"
     ]
   ]
 }

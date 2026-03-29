@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:49:20.295416Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:49:20.295416Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:03:26.317949Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:03:26.490936Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:03:26.685741Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:03:26.861006Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,30 @@
     [
       "TRANSLATION",
       "eng:to inform"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dite"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dites"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dit"
+    ],
+    [
+      "TRANSLATION",
+      "rus:скажите"
+    ],
+    [
+      "TRANSLATION",
+      "tur:deyin"
     ]
   ]
 }

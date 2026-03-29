@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:14.133785Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:14.133785Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:33.345740Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:33.560114Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:33.782303Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:33.943551Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:at some point"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à un moment donné"
+    ],
+    [
+      "TRANSLATION",
+      "ita:in un momento"
+    ],
+    [
+      "TRANSLATION",
+      "rus:когда-нибудь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bir gün"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:34.870340Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:34.870340Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:14.009186Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:14.198170Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:14.341633Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:14.533510Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:male sibling"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bruder"
+    ],
+    [
+      "TRANSLATION",
+      "fra:frère"
+    ],
+    [
+      "TRANSLATION",
+      "rus:брат"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kardeş"
     ]
   ]
 }

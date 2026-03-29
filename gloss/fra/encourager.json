@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:24:28.698541Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:24:28.698541Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:34:19.671272Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:34:19.871951Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:34:20.075253Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:34:20.284056Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to promote"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ermutigen"
+    ],
+    [
+      "TRANSLATION",
+      "ita:incoraggiare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:стимулировать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:teşvik etmek"
     ]
   ]
 }

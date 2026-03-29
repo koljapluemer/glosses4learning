@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:18.540559Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:18.540559Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:01.764684Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:01.957250Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:02.177117Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:02.374143Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:well done"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gut gemacht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:bravo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:отлично, замечательно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:teşekkürler"
     ]
   ]
 }

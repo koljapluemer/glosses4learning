@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:58.799312Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:58.799312Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:34.639450Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:34.812599Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:34.961412Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:35.137353Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -51,6 +55,22 @@
     [
       "TRANSLATION",
       "eng:progenitors"
+    ],
+    [
+      "TRANSLATION",
+      "fra:parents"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Eltern"
+    ],
+    [
+      "TRANSLATION",
+      "rus:родители"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ebeveynler"
     ]
   ]
 }

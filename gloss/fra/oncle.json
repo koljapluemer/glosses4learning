@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ces maisons sont celles de mon oncle"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Onkel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:uncle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:zio"
+    ],
+    [
+      "TRANSLATION",
+      "rus:дядя"
+    ],
+    [
+      "TRANSLATION",
+      "tur:dayı"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:12.311538Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:12.506995Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:41:12.669210Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:12.840208Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:13.025107Z": "TRANSLATION_DONE:tur"
+  }
 }

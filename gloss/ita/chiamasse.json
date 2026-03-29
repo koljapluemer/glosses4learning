@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:24.795621Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:24.795621Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:56.000760Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:56.182128Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:00:56.385452Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:56.598672Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:hesheit was calling"
+    ],
+    [
+      "TRANSLATION",
+      "deu:rufen Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:composez un appel"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвоните"
+    ],
+    [
+      "TRANSLATION",
+      "tur:lütfen arayın"
     ]
   ]
 }

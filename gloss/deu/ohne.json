@@ -5,7 +5,8 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:35:32.462021Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:35:32.462021Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:21:53.352084Z": "TRANSLATION_DONE:fra"
   },
   "relationships": [
     [
@@ -47,6 +48,10 @@
     [
       "TRANSLATION",
       "ita:senza"
+    ],
+    [
+      "TRANSLATION",
+      "fra:sans"
     ]
   ]
 }

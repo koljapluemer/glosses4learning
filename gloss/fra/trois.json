@@ -25,12 +25,27 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tu as droit à trois essais pour deviner où je me trouvais hier !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:drei"
+    ],
+    [
+      "TRANSLATION",
+      "ita:tre"
+    ],
+    [
+      "TRANSLATION",
+      "tur:üç"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:42:57.324362Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:42:57.324362Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:18.342683Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:18.504422Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:18.667741Z": "TRANSLATION_DONE:tur"
   }
 }

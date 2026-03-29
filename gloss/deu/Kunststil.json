@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:09.489726Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:09.489726Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:13:48.863981Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:13:49.040288Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:13:49.236076Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:13:49.418673Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:style of art"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Style artistique"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Stile artistico"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Стиль искусства"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sanat tarzı"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:23.938735Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:23.938735Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:42.273594Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:42.441524Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:42.645019Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:42.845182Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -71,6 +75,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das kannst du doch nicht ernst meinen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peut"
+    ],
+    [
+      "TRANSLATION",
+      "ita:puoi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:можешь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapabilirsin"
     ]
   ]
 }

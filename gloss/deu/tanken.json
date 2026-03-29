@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:19:13.106259Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:19:13.106259Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:49.836749Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:50.038868Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:50.218497Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:50.408183Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:to gas up"
+    ],
+    [
+      "TRANSLATION",
+      "fra:faire le plein"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fare il pieno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:заправляться"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yakıt almak"
     ]
   ]
 }

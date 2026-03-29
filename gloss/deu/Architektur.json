@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:27:30.028516Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:27:30.028516Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:11:30.218441Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:11:30.379575Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:11:30.576726Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:11:30.724071Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:architectural design"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Architecture"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Architettura"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Архитектура"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Mimari"
     ]
   ]
 }

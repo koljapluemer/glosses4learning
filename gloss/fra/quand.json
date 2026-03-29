@@ -21,9 +21,26 @@
     [
       "USAGE_EXAMPLE",
       "fra:Il est tombé malade quand il était jeune"
+    ],
+    [
+      "TRANSLATION",
+      "eng:when"
+    ],
+    [
+      "TRANSLATION",
+      "ita:quando"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ne zaman"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:44:32.365001Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:32.556898Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:32.755144Z": "TRANSLATION_DONE:tur"
+  }
 }

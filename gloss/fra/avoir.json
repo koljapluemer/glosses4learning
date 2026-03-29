@@ -29,9 +29,42 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles ne devraient pas avoir confiance en Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gehabt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hab"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben"
+    ],
+    [
+      "TRANSLATION",
+      "ita:avere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:иметь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sahip olmak"
+    ],
+    [
+      "TRANSLATION",
+      "ita:aver"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:29:00.475472Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:29:00.674174Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:29:00.853764Z": "TRANSLATION_DONE:tur"
+  }
 }

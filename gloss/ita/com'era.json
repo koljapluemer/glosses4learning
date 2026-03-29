@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:53.156464Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:53.156464Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:19.970429Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:20.179154Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:20.385944Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:20.571621Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:the way it was"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wie es war"
+    ],
+    [
+      "TRANSLATION",
+      "fra:comme il était"
+    ],
+    [
+      "TRANSLATION",
+      "rus:как это было"
+    ],
+    [
+      "TRANSLATION",
+      "tur:nasıl"
     ]
   ]
 }

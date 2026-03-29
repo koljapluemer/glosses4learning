@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:31:07.246273Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:31:07.246273Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:25.528087Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:25.756790Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:25.919243Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:26.125570Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:apartment entry"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Déménagement dans un appartement"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Trasloco nell'appartamento"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Переезд в квартиру"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Evden taşınma"
     ]
   ]
 }

@@ -48,6 +48,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai déjà entendu cette chanson quelque part"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einige"
+    ],
+    [
+      "TRANSLATION",
+      "eng:some"
+    ],
+    [
+      "TRANSLATION",
+      "ita:alcuni"
+    ],
+    [
+      "TRANSLATION",
+      "rus:несколько"
+    ],
+    [
+      "TRANSLATION",
+      "tur:birkaç"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:44:39.780286Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:39.962295Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:40.122345Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:40.315141Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:44:40.512333Z": "TRANSLATION_DONE:tur"
+  }
 }

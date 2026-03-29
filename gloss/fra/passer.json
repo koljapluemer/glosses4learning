@@ -64,9 +64,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je vais laisser passer pour cette fois"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vergehen, vergehen, passieren"
+    ],
+    [
+      "TRANSLATION",
+      "ita:trascorrere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:проходить, проходить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:geçmek, gerçekleşmek, yaşanmak"
     ]
   ],
   "logs": {
-    "2026-03-28T15:38:41.109396Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:38:41.109396Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:42:01.145906Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:01.331882Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:01.544281Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:01.794076Z": "TRANSLATION_DONE:tur"
   }
 }

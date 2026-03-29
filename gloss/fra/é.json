@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai emmené un sandwich pour le déjeuner"
+    ],
+    [
+      "TRANSLATION",
+      "deu:é"
+    ],
+    [
+      "TRANSLATION",
+      "eng:(This appears to be an incomplete or nonsensical phrase. A full translation is impossible without more context.)"
+    ],
+    [
+      "TRANSLATION",
+      "ita:é"
+    ],
+    [
+      "TRANSLATION",
+      "rus:э"
+    ],
+    [
+      "TRANSLATION",
+      "tur:(Bu kelimeyi anlamlandırmak için daha fazla bağlam veya bilgi gereklidir. Örneğin, bu bir kısaltma mı, bir sayı mı, yoksa başka bir şey mi﹖)"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:50:58.100047Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:50:58.447200Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:50:58.624289Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:50:58.804602Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:50:59.318634Z": "TRANSLATION_DONE:tur"
+  }
 }

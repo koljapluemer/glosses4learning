@@ -45,12 +45,32 @@
     [
       "USAGE_EXAMPLE",
       "deu:Vielleicht sollten Sie wieder nach Hause gehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:à nouveau"
+    ],
+    [
+      "TRANSLATION",
+      "ita:di nuovo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:снова"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yeniden"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T16:32:50.189792Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T16:32:50.189792Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:57.557116Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:57.745598Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:57.924127Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:58.119542Z": "TRANSLATION_DONE:tur"
   }
 }

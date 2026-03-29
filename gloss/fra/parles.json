@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Tu parles français couramment, n'est-ce pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sprechen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speak"
+    ],
+    [
+      "TRANSLATION",
+      "ita:parlare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:говорить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:konuş"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:40.304845Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:40.462697Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:41:40.631251Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:40.817199Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:40.999312Z": "TRANSLATION_DONE:tur"
+  }
 }

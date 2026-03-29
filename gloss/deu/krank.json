@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:34:36.653907Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:36.653907Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:56.925910Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:57.110059Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:57.274071Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:57.469554Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,26 @@
     [
       "USAGE_EXAMPLE",
       "deu:Dieser Schüler gibt manchmal vor, krank zu sein"
+    ],
+    [
+      "TRANSLATION",
+      "fra:malade"
+    ],
+    [
+      "TRANSLATION",
+      "ita:malato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:болен"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hastal"
+    ],
+    [
+      "TRANSLATION",
+      "ita:ammalato"
     ]
   ]
 }

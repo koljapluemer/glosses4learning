@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:06.364190Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:06.364190Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:22:28.164526Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:22:28.321273Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:22:28.492591Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:22:28.667056Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Dieses Auto sieht aus wie meines"
+    ],
+    [
+      "TRANSLATION",
+      "fra:il voit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:vede"
+    ],
+    [
+      "TRANSLATION",
+      "rus:смотрит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:görüş"
     ]
   ]
 }

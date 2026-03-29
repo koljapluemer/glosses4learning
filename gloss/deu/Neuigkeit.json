@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Die Zeitungen haben von dieser Neuigkeit nicht berichtet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:News"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Nouvelle"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Notizia"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Новость"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Yeni haber"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:14:35.240633Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:35.412594Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:35.597601Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:35.766862Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:35.940055Z": "TRANSLATION_DONE:tur"
+  }
 }

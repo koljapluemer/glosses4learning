@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:59.094319Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:59.094319Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:50.100506Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:50.267784Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:50.435752Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:50.601080Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:to feign"
+    ],
+    [
+      "TRANSLATION",
+      "fra:commencèrent"
+    ],
+    [
+      "TRANSLATION",
+      "ita:iniziarono"
+    ],
+    [
+      "TRANSLATION",
+      "rus:начали"
+    ],
+    [
+      "TRANSLATION",
+      "tur:başladılar"
     ]
   ]
 }

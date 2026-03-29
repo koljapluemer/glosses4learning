@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:33.987155Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:33.987155Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:23.749016Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:23.898958Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:24.098282Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:24.282749Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -119,6 +123,34 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich habe über Ihren Vorschlag noch einmal nachgedacht"
+    ],
+    [
+      "TRANSLATION",
+      "fra:une fois"
+    ],
+    [
+      "TRANSLATION",
+      "ita:una volta"
+    ],
+    [
+      "TRANSLATION",
+      "rus:один раз"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bir kere"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fois-ci"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fois"
+    ],
+    [
+      "TRANSLATION",
+      "fra:mal"
     ]
   ]
 }

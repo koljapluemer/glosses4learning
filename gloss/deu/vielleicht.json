@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:37:06.267575Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:37:06.267575Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:35.409037Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:35.576066Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:35.723013Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:35.890321Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich dachte, du würdest das vielleicht haben wollen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:peut-être"
+    ],
+    [
+      "TRANSLATION",
+      "ita:forse"
+    ],
+    [
+      "TRANSLATION",
+      "rus:возможно"
+    ],
+    [
+      "TRANSLATION",
+      "tur:belki"
     ]
   ]
 }

@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:32:42.792884Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:32:42.792884Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:18:36.090061Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:36.273774Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:36.455725Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:36.664046Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:to finish"
+    ],
+    [
+      "TRANSLATION",
+      "fra:réaliser, accomplir"
+    ],
+    [
+      "TRANSLATION",
+      "ita:completare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:выполнять"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gerçekleştirmek"
     ]
   ]
 }

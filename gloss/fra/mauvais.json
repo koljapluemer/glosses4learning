@@ -60,9 +60,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Il se pourrait que ce ne soit pas si mauvais"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlimme"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlecht"
+    ],
+    [
+      "TRANSLATION",
+      "ita:cattivo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:плохой"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kötü"
     ]
   ],
   "logs": {
-    "2026-03-28T15:40:58.935846Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:40:58.935846Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:39:23.536617Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:39:23.731214Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:39:23.881188Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:39:24.047920Z": "TRANSLATION_DONE:tur"
   }
 }

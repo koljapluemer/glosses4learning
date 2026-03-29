@@ -20,9 +20,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elles se sont fait un sang d'encre pour eux"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sang"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sangue"
+    ],
+    [
+      "TRANSLATION",
+      "rus:пел"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şarkı"
     ]
   ],
   "logs": {
-    "2026-03-28T15:50:45.565053Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:50:45.565053Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:46:45.174738Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:46:45.343683Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:46:45.513456Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:46:45.701490Z": "TRANSLATION_DONE:tur"
   }
 }

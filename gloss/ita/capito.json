@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:45:58.891275Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:45:58.891275Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:00:34.408551Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:00:34.600406Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:00:34.796351Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "fra:entendu"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verstanden"
+    ],
+    [
+      "TRANSLATION",
+      "rus:понял"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Anlaşıldı"
     ]
   ]
 }

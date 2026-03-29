@@ -41,9 +41,30 @@
     [
       "USAGE_EXAMPLE",
       "deu:Es hätte mir jemand sagen sollen, dass sie gegangen ist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:someone"
+    ],
+    [
+      "TRANSLATION",
+      "fra:quelqu'un"
+    ],
+    [
+      "TRANSLATION",
+      "rus:кто-то"
+    ],
+    [
+      "TRANSLATION",
+      "fra:quelqu'"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:20:37.017566Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:37.230814Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:37.409315Z": "TRANSLATION_DONE:rus"
+  }
 }

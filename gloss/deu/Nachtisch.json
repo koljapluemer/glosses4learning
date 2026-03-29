@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:38.894601Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:38.894601Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:32.554484Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:32.759372Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:32.946348Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:33.139542Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:sweet course"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Petite collation pour la nuit"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Dolcetti da notte"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Ночной перекус"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Gece yemeği"
     ]
   ]
 }

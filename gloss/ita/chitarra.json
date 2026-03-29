@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:46:32.022474Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:46:32.022474Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:01:01.312186Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:01:01.487703Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:01:01.676156Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:01:01.877094Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:musical guitar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gitarre"
+    ],
+    [
+      "TRANSLATION",
+      "fra:guitare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:гитара"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gitar"
     ]
   ]
 }

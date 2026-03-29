@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:45.992194Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:45.992194Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:05.365047Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:05.557375Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:05.736852Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -31,6 +34,18 @@
     [
       "TRANSLATION",
       "eng:astonishing"
+    ],
+    [
+      "TRANSLATION",
+      "fra:incroyable"
+    ],
+    [
+      "TRANSLATION",
+      "ita:incredibile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:невероятно"
     ]
   ]
 }

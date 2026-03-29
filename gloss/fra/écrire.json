@@ -17,9 +17,40 @@
     [
       "USAGE_EXAMPLE",
       "fra:Êtes-vous en train d'écrire une lettre maintenant ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "dan:skrive"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schreiben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to write"
+    ],
+    [
+      "TRANSLATION",
+      "ita:scrivere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:писать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yazmak"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:51:00.497634Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:51:00.695941Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:51:00.859919Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:51:01.035633Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:51:01.223269Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Cette fille avait de la beauté à revendre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verkaufen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to resell"
+    ],
+    [
+      "TRANSLATION",
+      "ita:rivendere"
+    ],
+    [
+      "TRANSLATION",
+      "rus:перепродавать"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yeniden satmak"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:45:46.289766Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:45:46.479882Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:45:46.647187Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:45:46.826664Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:45:47.054899Z": "TRANSLATION_DONE:tur"
+  }
 }

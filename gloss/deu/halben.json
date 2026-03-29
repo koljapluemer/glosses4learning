@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "deu:Das hast du schon vor einer halben Stunde gesagt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:half"
+    ],
+    [
+      "TRANSLATION",
+      "fra:moitié"
+    ],
+    [
+      "TRANSLATION",
+      "ita:metà"
+    ],
+    [
+      "TRANSLATION",
+      "rus:половина"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yarım"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:20:02.979763Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:03.180011Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:20:03.346807Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:03.534910Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:03.702544Z": "TRANSLATION_DONE:tur"
+  }
 }

@@ -4,7 +4,11 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:08:36.244902Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.910374Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.910374Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-29T13:18:51.434802Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:18:51.595321Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:18:51.745281Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:18:51.920033Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -21,6 +25,26 @@
     [
       "TRANSLATION",
       "ces:ptáte"
+    ],
+    [
+      "TRANSLATION",
+      "fra:questions"
+    ],
+    [
+      "TRANSLATION",
+      "ita:domande"
+    ],
+    [
+      "TRANSLATION",
+      "rus:вопросы"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sorular"
+    ],
+    [
+      "TRANSLATION",
+      "ita:chiedere"
     ]
   ]
 }

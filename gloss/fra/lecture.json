@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ce sont mes lunettes de lecture"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vorlesung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reading"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lezione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:лекция"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ders"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:38:19.687312Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:38:19.849317Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:38:20.016967Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:38:20.177039Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:38:20.353240Z": "TRANSLATION_DONE:tur"
+  }
 }

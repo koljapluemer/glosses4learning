@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Aujourd'hui nous sommes présents ; demain, qui sait ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vorhanden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:present"
+    ],
+    [
+      "TRANSLATION",
+      "ita:presenti"
+    ],
+    [
+      "TRANSLATION",
+      "rus:присутствующие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bu belgeler"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:44:11.945258Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:44:12.125800Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:44:12.275938Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:44:12.467160Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:44:12.630751Z": "TRANSLATION_DONE:tur"
+  }
 }

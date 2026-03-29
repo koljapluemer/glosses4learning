@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:33:37.248040Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:33:37.248040Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:19:50.291992Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:19:50.468922Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:19:50.648521Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:19:50.854474Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,22 @@
     [
       "TRANSLATION",
       "eng:move"
+    ],
+    [
+      "TRANSLATION",
+      "fra:s'en aller"
+    ],
+    [
+      "TRANSLATION",
+      "ita:andò"
+    ],
+    [
+      "TRANSLATION",
+      "rus:прошёл"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yol aldı"
     ]
   ]
 }

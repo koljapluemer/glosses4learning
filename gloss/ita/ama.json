@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:43:21.698543Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:43:21.698543Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:58:23.566247Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:58:23.765049Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:58:23.965778Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:58:24.127350Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -35,6 +39,26 @@
     [
       "TRANSLATION",
       "epo:ŝatas"
+    ],
+    [
+      "TRANSLATION",
+      "ina:ama"
+    ],
+    [
+      "TRANSLATION",
+      "deu:liebt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:aime"
+    ],
+    [
+      "TRANSLATION",
+      "rus:любит"
+    ],
+    [
+      "TRANSLATION",
+      "tur:ama"
     ]
   ]
 }

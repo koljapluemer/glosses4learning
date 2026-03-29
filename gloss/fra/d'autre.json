@@ -20,9 +20,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je ne sais pas. Veuillez demander à quelqu'un d'autre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:andere"
+    ],
+    [
+      "TRANSLATION",
+      "ita:altri"
+    ],
+    [
+      "TRANSLATION",
+      "rus:другие"
+    ],
+    [
+      "TRANSLATION",
+      "tur:diğer"
     ]
   ],
   "logs": {
-    "2026-03-28T15:46:04.405958Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:46:04.405958Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:17.534452Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:17.727840Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:17.932295Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:18.135228Z": "TRANSLATION_DONE:tur"
   }
 }

@@ -21,12 +21,36 @@
     [
       "USAGE_EXAMPLE",
       "fra:Elle se promena avant le petit-déjeuner"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vorher"
+    ],
+    [
+      "TRANSLATION",
+      "ita:prima"
+    ],
+    [
+      "TRANSLATION",
+      "rus:до"
+    ],
+    [
+      "TRANSLATION",
+      "tur:önce"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-28T15:49:10.401543Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:49:10.401543Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:54.741019Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:28:54.915866Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:55.104660Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:55.282918Z": "TRANSLATION_DONE:tur"
   }
 }

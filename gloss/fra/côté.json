@@ -9,9 +9,31 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je suis passé à côté de tellement de choses"
+    ],
+    [
+      "TRANSLATION",
+      "eng:on the side"
+    ],
+    [
+      "TRANSLATION",
+      "ita:lato"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сторона"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yan"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:10.284694Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:10.506050Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:10.697259Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:10.862832Z": "TRANSLATION_DONE:tur"
+  }
 }

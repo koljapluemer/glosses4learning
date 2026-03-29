@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:50.946206Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:50.946206Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:29.820940Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:29.988043Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:30.159476Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:30.336032Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:thug"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gangster"
+    ],
+    [
+      "TRANSLATION",
+      "fra:gangster"
+    ],
+    [
+      "TRANSLATION",
+      "rus:гангстер"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şüpheli"
     ]
   ]
 }

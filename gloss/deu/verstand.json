@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:36:57.876181Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:36:57.876181Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:23:27.657547Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:23:27.861659Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:23:28.016656Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:23:28.215168Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:comprehension"
+    ],
+    [
+      "TRANSLATION",
+      "fra:compris"
+    ],
+    [
+      "TRANSLATION",
+      "ita:comprensione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:понял"
+    ],
+    [
+      "TRANSLATION",
+      "tur:anlaydı"
     ]
   ]
 }

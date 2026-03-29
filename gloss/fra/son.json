@@ -49,9 +49,34 @@
     [
       "USAGE_EXAMPLE",
       "fra:Dis-moi ce qui ne s'est pas passé à son sujet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:seinen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sein"
+    ],
+    [
+      "TRANSLATION",
+      "rus:его"
+    ],
+    [
+      "TRANSLATION",
+      "tur:son"
+    ],
+    [
+      "TRANSLATION",
+      "gle:sa"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:47:50.870935Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:47:51.038271Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:47:51.213086Z": "TRANSLATION_DONE:tur"
+  }
 }

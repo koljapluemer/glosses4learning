@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:48.118586Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:48.118586Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:15:03.197016Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:15:03.369327Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:15:03.588135Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:15:03.770436Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Bitte halten Sie meinen Platz in der Schlange frei"
+    ],
+    [
+      "TRANSLATION",
+      "fra:File"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Coda"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Очередь"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Sıra"
     ]
   ]
 }

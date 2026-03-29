@@ -28,9 +28,29 @@
     [
       "USAGE_EXAMPLE",
       "fra:J'ai fait la connaissance de Tom en janvier de cette année"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kenntnis"
+    ],
+    [
+      "TRANSLATION",
+      "ita:conoscenza"
+    ],
+    [
+      "TRANSLATION",
+      "rus:знание"
+    ],
+    [
+      "TRANSLATION",
+      "tur:bilgi, farkındalık"
     ]
   ],
   "logs": {
-    "2026-03-28T15:41:35.939030Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T15:41:35.939030Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:31:19.998366Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:31:20.183092Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:31:20.357202Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:31:20.583624Z": "TRANSLATION_DONE:tur"
   }
 }

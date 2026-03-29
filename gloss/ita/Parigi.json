@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:36:54.207995Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:36:54.207995Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:55:35.676539Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:55:35.845514Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:55:36.001923Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:55:36.157651Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:Paris, France"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Paris"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Paris"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Париж"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Paris"
     ]
   ]
 }

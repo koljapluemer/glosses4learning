@@ -32,6 +32,37 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je passe une semaine difficile"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schwerer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schwierig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:difficult"
+    ],
+    [
+      "TRANSLATION",
+      "ita:difficile"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сложный"
+    ],
+    [
+      "TRANSLATION",
+      "tur:zor"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:32:58.940780Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:32:59.105533Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:32:59.300711Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:32:59.472856Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:32:59.633466Z": "TRANSLATION_DONE:tur"
+  }
 }

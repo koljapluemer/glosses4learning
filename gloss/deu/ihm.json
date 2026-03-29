@@ -3,7 +3,10 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {
-    "2026-01-27T14:34:03.441247Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:34:03.441247Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:20:24.548369Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:20:24.722544Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:20:24.922560Z": "TRANSLATION_DONE:tur"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -68,6 +71,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Hat Tom auf dich den Eindruck gemacht, dass es ihm gutgeht﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ita:a lui"
+    ],
+    [
+      "TRANSLATION",
+      "rus:ему"
+    ],
+    [
+      "TRANSLATION",
+      "tur:insanlık"
+    ],
+    [
+      "TRANSLATION",
+      "fra:l'a"
     ]
   ]
 }

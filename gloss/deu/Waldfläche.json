@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:18:51.912738Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:18:51.912738Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:07.484122Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:07.694556Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:07.918834Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:16:08.109122Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:forest cover"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Superficie forestière"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Area boschiva"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Площадь лесного массива"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Orman alanı"
     ]
   ]
 }

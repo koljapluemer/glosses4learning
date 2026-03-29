@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:51:19.716559Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:51:19.716559Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:05:00.630874Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:05:00.799354Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:05:00.976452Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:05:01.144032Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -23,6 +27,22 @@
     [
       "TRANSLATION",
       "eng:Finlander"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Finnisch"
+    ],
+    [
+      "TRANSLATION",
+      "fra:finlandais"
+    ],
+    [
+      "TRANSLATION",
+      "rus:финский"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Finlandiya"
     ]
   ]
 }

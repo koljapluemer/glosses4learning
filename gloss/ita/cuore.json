@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:48:05.863338Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:48:05.863338Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T14:02:25.047216Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T14:02:25.239821Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T14:02:25.429806Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T14:02:25.608882Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -31,6 +35,22 @@
     [
       "TRANSLATION",
       "eng:essence"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Herz"
+    ],
+    [
+      "TRANSLATION",
+      "fra:cœur"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сердце"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kalp"
     ]
   ]
 }

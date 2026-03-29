@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:32:17.426876Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:32:17.426876Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:09.140740Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:09.317935Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:09.491983Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:09.725272Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -43,6 +47,30 @@
     [
       "TRANSLATION",
       "eng:Have you﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Habt"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Avez-vous"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haben Sie"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Vous avez"
+    ],
+    [
+      "TRANSLATION",
+      "rus:У вас есть"
+    ],
+    [
+      "TRANSLATION",
+      "tur:İçinde"
     ]
   ]
 }

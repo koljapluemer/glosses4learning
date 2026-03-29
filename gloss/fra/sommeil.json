@@ -8,6 +8,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Le sommeil est nécessaire à une bonne santé"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schlaf"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sleep"
+    ],
+    [
+      "TRANSLATION",
+      "ita:sonno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:сон"
+    ],
+    [
+      "TRANSLATION",
+      "tur:uyku"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:47:48.141092Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:47:48.309822Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:47:48.496649Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:47:48.679492Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:47:48.869950Z": "TRANSLATION_DONE:tur"
+  }
 }

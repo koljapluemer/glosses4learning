@@ -12,6 +12,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:Je me demande pourquoi elle n'est pas venue"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ort"
+    ],
+    [
+      "TRANSLATION",
+      "eng:location"
+    ],
+    [
+      "TRANSLATION",
+      "ita:luogo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:место проведения"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yer"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:49:49.344420Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:49:49.506958Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:49:49.681437Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:49:49.840594Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:49:49.981555Z": "TRANSLATION_DONE:tur"
+  }
 }

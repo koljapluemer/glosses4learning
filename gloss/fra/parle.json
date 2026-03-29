@@ -24,6 +24,37 @@
     [
       "USAGE_EXAMPLE",
       "fra:Ne parle pas. Ils pourraient nous entendre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:spricht"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sprechen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speak"
+    ],
+    [
+      "TRANSLATION",
+      "ita:parlare"
+    ],
+    [
+      "TRANSLATION",
+      "rus:говорить"
+    ],
+    [
+      "TRANSLATION",
+      "tur:konuş"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:41:37.800345Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:41:37.966222Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:41:38.108562Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:41:38.283814Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:41:38.465637Z": "TRANSLATION_DONE:tur"
+  }
 }

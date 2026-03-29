@@ -88,6 +88,33 @@
     [
       "USAGE_EXAMPLE",
       "fra:As-tu pris un petit-déjeuner ce matin ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frühstück"
+    ],
+    [
+      "TRANSLATION",
+      "eng:breakfast"
+    ],
+    [
+      "TRANSLATION",
+      "ita:colazione"
+    ],
+    [
+      "TRANSLATION",
+      "rus:завтрак"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kahvaltı"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:42:23.391711Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:42:23.545937Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:42:23.717507Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:42:23.932463Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:42:24.111050Z": "TRANSLATION_DONE:tur"
+  }
 }

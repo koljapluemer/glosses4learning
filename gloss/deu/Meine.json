@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:29:25.505875Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:29:25.505875Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:14:15.346021Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:14:15.517772Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:14:15.696323Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:14:15.889604Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -67,6 +71,22 @@
     [
       "USAGE_EXAMPLE",
       "deu:Meine Eltern haben mir beigebracht, zu meinem Wort zu stehen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Mes"
+    ],
+    [
+      "TRANSLATION",
+      "ita:I miei"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Мои"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Benim"
     ]
   ]
 }

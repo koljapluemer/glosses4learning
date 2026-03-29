@@ -5,7 +5,10 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T14:30:59.267000Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T14:30:59.267000Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:16:15.397801Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:16:15.569495Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:16:15.726392Z": "TRANSLATION_DONE:rus"
   },
   "relationships": [
     [
@@ -23,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:climate"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Météo"
+    ],
+    [
+      "TRANSLATION",
+      "ita:Meteo"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Погода"
     ]
   ]
 }

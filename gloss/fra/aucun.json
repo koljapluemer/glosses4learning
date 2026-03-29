@@ -9,9 +9,35 @@
     [
       "USAGE_EXAMPLE",
       "fra:À partir de maintenant, plus aucun retour en arrière n'est possible"
+    ],
+    [
+      "TRANSLATION",
+      "deu:keiner"
+    ],
+    [
+      "TRANSLATION",
+      "eng:none"
+    ],
+    [
+      "TRANSLATION",
+      "ita:nessuno"
+    ],
+    [
+      "TRANSLATION",
+      "rus:нет"
+    ],
+    [
+      "TRANSLATION",
+      "tur:hiçbir"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-03-29T13:28:35.017188Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:28:35.203709Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:28:35.380675Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:28:35.576944Z": "TRANSLATION_DONE:tur"
+  }
 }

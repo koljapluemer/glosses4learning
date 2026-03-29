@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:35:07.579178Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:35:07.579178Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:53:58.394282Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:53:58.567498Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:53:58.757661Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:53:58.951488Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,22 @@
     [
       "TRANSLATION",
       "eng:throughout"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Während"
+    ],
+    [
+      "TRANSLATION",
+      "fra:Pendant"
+    ],
+    [
+      "TRANSLATION",
+      "rus:Во время"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Süre boyunca"
     ]
   ]
 }

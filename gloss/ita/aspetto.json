@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2025-12-28T14:44:16.484699Z": "TRANSLATION_DONE:eng"
+    "2025-12-28T14:44:16.484699Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:59:09.438423Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:59:09.633338Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:59:09.847855Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:59:10.085115Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -27,6 +31,26 @@
     [
       "TRANSLATION",
       "eng:feature"
+    ],
+    [
+      "TRANSLATION",
+      "fra:apparence"
+    ],
+    [
+      "TRANSLATION",
+      "fra:face"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aussehen, Erscheinung"
+    ],
+    [
+      "TRANSLATION",
+      "rus:внешний вид"
+    ],
+    [
+      "TRANSLATION",
+      "tur:görünüm, dış görünüş"
     ]
   ]
 }

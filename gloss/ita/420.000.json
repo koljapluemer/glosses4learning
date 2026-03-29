@@ -5,7 +5,11 @@
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-01-27T15:10:21.210836Z": "TRANSLATION_DONE:eng"
+    "2026-01-27T15:10:21.210836Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:52:49.023265Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:52:49.255423Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:52:49.478394Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:52:49.695548Z": "TRANSLATION_DONE:tur"
   },
   "relationships": [
     [
@@ -19,6 +23,22 @@
     [
       "TRANSLATION",
       "eng:four hundred twenty thousand"
+    ],
+    [
+      "TRANSLATION",
+      "deu:420.000"
+    ],
+    [
+      "TRANSLATION",
+      "fra:420 000"
+    ],
+    [
+      "TRANSLATION",
+      "rus:420 000"
+    ],
+    [
+      "TRANSLATION",
+      "tur:420.000"
     ]
   ]
 }
