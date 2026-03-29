@@ -1,0 +1,47 @@
+{
+  "content": "Tom et moi ne sommes habituellement pas d'accord.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rockaround (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:et"
+    ],
+    [
+      "PART",
+      "fra:moi"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:sommes"
+    ],
+    [
+      "PART",
+      "fra:habituellement"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:d'accord"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:43.288118Z": "SPLIT_DONE"
+  }
+}

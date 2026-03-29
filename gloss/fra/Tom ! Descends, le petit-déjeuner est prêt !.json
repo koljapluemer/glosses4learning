@@ -1,0 +1,39 @@
+{
+  "content": "Tom ! Descends, le petit-déjeuner est prêt !",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felix63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:Descends"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:petit-déjeuner"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:prêt"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:11.334528Z": "SPLIT_DONE"
+  }
+}

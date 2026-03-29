@@ -1,0 +1,51 @@
+{
+  "content": "Ce n'est pas une seule phrase, c'en est deux.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ce"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:seule"
+    ],
+    [
+      "PART",
+      "fra:phrase"
+    ],
+    [
+      "PART",
+      "fra:c'en"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:deux"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:39.587719Z": "SPLIT_DONE"
+  }
+}

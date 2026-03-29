@@ -1,0 +1,43 @@
+{
+  "content": "Elles ne disent pas ce qu'elles pensent.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Talwit (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elles"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:disent"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:qu'elles"
+    ],
+    [
+      "PART",
+      "fra:pensent"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:52:33.407720Z": "SPLIT_DONE"
+  }
+}

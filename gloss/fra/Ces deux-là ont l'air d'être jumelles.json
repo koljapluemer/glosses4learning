@@ -1,0 +1,39 @@
+{
+  "content": "Ces deux-là ont l'air d'être jumelles.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by anzart (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:deux-là"
+    ],
+    [
+      "PART",
+      "fra:ont"
+    ],
+    [
+      "PART",
+      "fra:l'air"
+    ],
+    [
+      "PART",
+      "fra:d'être"
+    ],
+    [
+      "PART",
+      "fra:jumelles"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:19.748002Z": "SPLIT_DONE"
+  }
+}

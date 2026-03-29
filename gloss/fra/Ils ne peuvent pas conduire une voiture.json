@@ -1,0 +1,43 @@
+{
+  "content": "Ils ne peuvent pas conduire une voiture.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ils"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:peuvent"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:conduire"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:voiture"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:56:03.790507Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "C'est une ville à croissance rapide.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:ville"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:croissance"
+    ],
+    [
+      "PART",
+      "fra:rapide"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:06.697569Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Laquelle de ces raquettes est la vôtre ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Laquelle"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:ces"
+    ],
+    [
+      "PART",
+      "fra:raquettes"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:vôtre"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:22.490428Z": "SPLIT_DONE"
+  }
+}

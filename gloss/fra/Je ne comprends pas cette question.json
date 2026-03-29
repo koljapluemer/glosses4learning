@@ -1,0 +1,39 @@
+{
+  "content": "Je ne comprends pas cette question.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:comprends"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:question"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:59:53.174910Z": "SPLIT_DONE"
+  }
+}

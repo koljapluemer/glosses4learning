@@ -1,0 +1,39 @@
+{
+  "content": "Ce sont mes lunettes de lecture.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ce"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:mes"
+    ],
+    [
+      "PART",
+      "fra:lunettes"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:lecture"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:49:54.988871Z": "SPLIT_DONE"
+  }
+}

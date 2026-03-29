@@ -1,0 +1,47 @@
+{
+  "content": "Cette citrouille, elle a une odeur de melon.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gillux (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:citrouille"
+    ],
+    [
+      "PART",
+      "fra:elle"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:odeur"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:melon"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:30.150521Z": "SPLIT_DONE"
+  }
+}

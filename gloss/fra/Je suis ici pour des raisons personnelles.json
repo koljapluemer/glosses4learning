@@ -1,0 +1,43 @@
+{
+  "content": "Je suis ici pour des raisons personnelles.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:suis"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ],
+    [
+      "PART",
+      "fra:pour"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:raisons"
+    ],
+    [
+      "PART",
+      "fra:personnelles"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:25.881807Z": "SPLIT_DONE"
+  }
+}

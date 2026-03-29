@@ -1,0 +1,39 @@
+{
+  "content": "Je ne fais pas cela, normalement.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:fais"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:cela"
+    ],
+    [
+      "PART",
+      "fra:normalement"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:08.353689Z": "SPLIT_DONE"
+  }
+}

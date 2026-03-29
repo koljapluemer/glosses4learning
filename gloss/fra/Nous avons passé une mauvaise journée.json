@@ -1,0 +1,39 @@
+{
+  "content": "Nous avons passé une mauvaise journée.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Jean_Burin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Nous"
+    ],
+    [
+      "PART",
+      "fra:avons"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:mauvaise"
+    ],
+    [
+      "PART",
+      "fra:journée"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:41.654892Z": "SPLIT_DONE"
+  }
+}

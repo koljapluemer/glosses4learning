@@ -1,0 +1,35 @@
+{
+  "content": "Ces baguettes magiques sont comestibles.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felix63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:baguettes"
+    ],
+    [
+      "PART",
+      "fra:magiques"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:comestibles"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:51:59.816937Z": "SPLIT_DONE"
+  }
+}

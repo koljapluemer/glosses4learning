@@ -1,0 +1,39 @@
+{
+  "content": "J'ai de très mauvaises nouvelles.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'"
+    ],
+    [
+      "PART",
+      "fra:ai"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:très"
+    ],
+    [
+      "PART",
+      "fra:mauvaises"
+    ],
+    [
+      "PART",
+      "fra:nouvelles"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:02.612837Z": "SPLIT_DONE"
+  }
+}

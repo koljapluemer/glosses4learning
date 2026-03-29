@@ -1,0 +1,39 @@
+{
+  "content": "Les écureuils aiment manger des noisettes.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:écureuils"
+    ],
+    [
+      "PART",
+      "fra:aiment"
+    ],
+    [
+      "PART",
+      "fra:manger"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:noisettes"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:12.262928Z": "SPLIT_DONE"
+  }
+}

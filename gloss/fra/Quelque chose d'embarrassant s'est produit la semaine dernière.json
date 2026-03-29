@@ -1,0 +1,51 @@
+{
+  "content": "Quelque chose d'embarrassant s'est produit la semaine dernière.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelque"
+    ],
+    [
+      "PART",
+      "fra:chose"
+    ],
+    [
+      "PART",
+      "fra:d'"
+    ],
+    [
+      "PART",
+      "fra:embarrassant"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:produit"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:semaine"
+    ],
+    [
+      "PART",
+      "fra:dernière"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:20.283112Z": "SPLIT_DONE"
+  }
+}

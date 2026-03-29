@@ -1,0 +1,55 @@
+{
+  "content": "Tom a dit que les choses se sont bien passées.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tieguy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:dit"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:choses"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:bien"
+    ],
+    [
+      "PART",
+      "fra:passées"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:07.582525Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tout ceci apporte de nouvelles questions.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tout"
+    ],
+    [
+      "PART",
+      "fra:ceci"
+    ],
+    [
+      "PART",
+      "fra:apporte"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:nouvelles"
+    ],
+    [
+      "PART",
+      "fra:questions"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:42.374162Z": "SPLIT_DONE"
+  }
+}

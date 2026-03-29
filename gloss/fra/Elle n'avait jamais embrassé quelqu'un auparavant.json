@@ -1,0 +1,39 @@
+{
+  "content": "Elle n'avait jamais embrassé quelqu'un auparavant.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elle"
+    ],
+    [
+      "PART",
+      "fra:n'avait"
+    ],
+    [
+      "PART",
+      "fra:jamais"
+    ],
+    [
+      "PART",
+      "fra:embrassé"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:auparavant"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:20.787889Z": "SPLIT_DONE"
+  }
+}

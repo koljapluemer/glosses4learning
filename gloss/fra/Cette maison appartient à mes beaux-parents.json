@@ -1,0 +1,39 @@
+{
+  "content": "Cette maison appartient à mes beaux-parents.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:appartient"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:mes"
+    ],
+    [
+      "PART",
+      "fra:beaux-parents"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:30.840163Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Quelle est la dent qui fait mal ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by U2FS (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelle"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:dent"
+    ],
+    [
+      "PART",
+      "fra:qui"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:mal"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:54.171886Z": "SPLIT_DONE"
+  }
+}

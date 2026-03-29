@@ -1,0 +1,39 @@
+{
+  "content": "Ils vivent dans une petite maison.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ils"
+    ],
+    [
+      "PART",
+      "fra:vivent"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:petite"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:49.884846Z": "SPLIT_DONE"
+  }
+}

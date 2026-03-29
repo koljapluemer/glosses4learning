@@ -1,0 +1,39 @@
+{
+  "content": "Passons maintenant à un autre sujet.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Passons"
+    ],
+    [
+      "PART",
+      "fra:maintenant"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:autre"
+    ],
+    [
+      "PART",
+      "fra:sujet"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:22.625440Z": "SPLIT_DONE"
+  }
+}

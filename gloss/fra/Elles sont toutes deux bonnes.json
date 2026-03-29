@@ -1,0 +1,35 @@
+{
+  "content": "Elles sont toutes deux bonnes.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elles"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:toutes"
+    ],
+    [
+      "PART",
+      "fra:deux"
+    ],
+    [
+      "PART",
+      "fra:bonnes"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:24.013708Z": "SPLIT_DONE"
+  }
+}

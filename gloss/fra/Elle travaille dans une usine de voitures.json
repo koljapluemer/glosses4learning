@@ -1,0 +1,43 @@
+{
+  "content": "Elle travaille dans une usine de voitures.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elle"
+    ],
+    [
+      "PART",
+      "fra:travaille"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:usine"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:voitures"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:51:32.016257Z": "SPLIT_DONE"
+  }
+}

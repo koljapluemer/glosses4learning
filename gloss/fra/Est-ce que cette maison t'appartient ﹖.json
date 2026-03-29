@@ -1,0 +1,43 @@
+{
+  "content": "Est-ce que cette maison t'appartient ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:t'"
+    ],
+    [
+      "PART",
+      "fra:appartient"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:06.951440Z": "SPLIT_DONE"
+  }
+}

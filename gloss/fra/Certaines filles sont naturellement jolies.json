@@ -1,0 +1,35 @@
+{
+  "content": "Certaines filles sont naturellement jolies.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Certaines"
+    ],
+    [
+      "PART",
+      "fra:filles"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:naturellement"
+    ],
+    [
+      "PART",
+      "fra:jolies"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:51:48.787439Z": "SPLIT_DONE"
+  }
+}

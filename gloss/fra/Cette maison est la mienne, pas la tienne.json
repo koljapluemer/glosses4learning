@@ -1,0 +1,43 @@
+{
+  "content": "Cette maison est la mienne, pas la tienne.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:mienne"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:tienne"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:02.537560Z": "SPLIT_DONE"
+  }
+}

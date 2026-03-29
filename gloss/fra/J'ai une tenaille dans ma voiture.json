@@ -1,0 +1,43 @@
+{
+  "content": "J'ai une tenaille dans ma voiture.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'"
+    ],
+    [
+      "PART",
+      "fra:ai"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:tenaille"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:ma"
+    ],
+    [
+      "PART",
+      "fra:voiture"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:29.889709Z": "SPLIT_DONE"
+  }
+}

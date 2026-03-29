@@ -1,0 +1,39 @@
+{
+  "content": "C'est une phrase bonne et naturelle.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:phrase"
+    ],
+    [
+      "PART",
+      "fra:bonne"
+    ],
+    [
+      "PART",
+      "fra:et"
+    ],
+    [
+      "PART",
+      "fra:naturelle"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:11.676268Z": "SPLIT_DONE"
+  }
+}

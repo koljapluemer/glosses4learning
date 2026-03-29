@@ -1,0 +1,43 @@
+{
+  "content": "Cela fait bizarre de ne pas travailler.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cela"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:bizarre"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:travailler"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:07.518750Z": "SPLIT_DONE"
+  }
+}

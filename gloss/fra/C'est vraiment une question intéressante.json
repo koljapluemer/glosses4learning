@@ -1,0 +1,35 @@
+{
+  "content": "C'est vraiment une question intéressante.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tras (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:question"
+    ],
+    [
+      "PART",
+      "fra:intéressante"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:56.086510Z": "SPLIT_DONE"
+  }
+}

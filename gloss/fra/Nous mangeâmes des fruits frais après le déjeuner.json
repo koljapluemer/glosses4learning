@@ -1,0 +1,47 @@
+{
+  "content": "Nous mangeâmes des fruits frais après le déjeuner.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Nous"
+    ],
+    [
+      "PART",
+      "fra:mangeâmes"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:fruits"
+    ],
+    [
+      "PART",
+      "fra:frais"
+    ],
+    [
+      "PART",
+      "fra:après"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:déjeuner"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:55.160568Z": "SPLIT_DONE"
+  }
+}

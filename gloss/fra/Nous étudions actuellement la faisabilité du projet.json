@@ -1,0 +1,43 @@
+{
+  "content": "Nous étudions actuellement la faisabilité du projet.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gillux (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Nous"
+    ],
+    [
+      "PART",
+      "fra:étudions"
+    ],
+    [
+      "PART",
+      "fra:actuellement"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:faisabilité"
+    ],
+    [
+      "PART",
+      "fra:du"
+    ],
+    [
+      "PART",
+      "fra:projet"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:29.971873Z": "SPLIT_DONE"
+  }
+}

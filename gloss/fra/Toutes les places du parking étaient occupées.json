@@ -1,0 +1,43 @@
+{
+  "content": "Toutes les places du parking étaient occupées.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexisslay (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Toutes"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:places"
+    ],
+    [
+      "PART",
+      "fra:du"
+    ],
+    [
+      "PART",
+      "fra:parking"
+    ],
+    [
+      "PART",
+      "fra:étaient"
+    ],
+    [
+      "PART",
+      "fra:occupées"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:56:01.322654Z": "SPLIT_DONE"
+  }
+}

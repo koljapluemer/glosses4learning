@@ -1,0 +1,39 @@
+{
+  "content": "Elles peuvent rester ici jusqu’à demain.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by madjidoumnia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elles"
+    ],
+    [
+      "PART",
+      "fra:peuvent"
+    ],
+    [
+      "PART",
+      "fra:rester"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ],
+    [
+      "PART",
+      "fra:jusqu'’"
+    ],
+    [
+      "PART",
+      "fra:demain"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:27.456546Z": "SPLIT_DONE"
+  }
+}

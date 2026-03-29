@@ -1,0 +1,51 @@
+{
+  "content": "La maison de Tom n'est pas loin de celle de Mary.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:La"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:loin"
+    ],
+    [
+      "PART",
+      "fra:celle"
+    ],
+    [
+      "PART",
+      "fra:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:49:52.476565Z": "SPLIT_DONE"
+  }
+}

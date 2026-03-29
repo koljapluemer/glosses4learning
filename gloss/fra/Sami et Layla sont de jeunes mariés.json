@@ -1,0 +1,43 @@
+{
+  "content": "Sami et Layla sont de jeunes mariés.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Sami"
+    ],
+    [
+      "PART",
+      "fra:et"
+    ],
+    [
+      "PART",
+      "fra:Layla"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:jeunes"
+    ],
+    [
+      "PART",
+      "fra:mariés"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:30.715046Z": "SPLIT_DONE"
+  }
+}

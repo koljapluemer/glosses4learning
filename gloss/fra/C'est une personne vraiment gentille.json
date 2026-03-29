@@ -1,0 +1,35 @@
+{
+  "content": "C'est une personne vraiment gentille.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dreamk33 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:personne"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:gentille"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:34.315421Z": "SPLIT_DONE"
+  }
+}

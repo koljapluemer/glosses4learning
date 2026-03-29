@@ -1,0 +1,47 @@
+{
+  "content": "Est-ce que Tom et Mary parlent français ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lucasmg123 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:et"
+    ],
+    [
+      "PART",
+      "fra:Mary"
+    ],
+    [
+      "PART",
+      "fra:parlent"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:24.320373Z": "SPLIT_DONE"
+  }
+}

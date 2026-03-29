@@ -1,0 +1,43 @@
+{
+  "content": "La maison est assurée contre les incendies.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:La"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:assurée"
+    ],
+    [
+      "PART",
+      "fra:contre"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:incendies"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:29.611221Z": "SPLIT_DONE"
+  }
+}

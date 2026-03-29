@@ -1,0 +1,35 @@
+{
+  "content": "Normalement, je prends le petit-déjeuner.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felix63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Normalement"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:prends"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:petit-déjeuner"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:56:37.896044Z": "SPLIT_DONE"
+  }
+}

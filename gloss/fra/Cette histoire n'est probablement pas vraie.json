@@ -1,0 +1,39 @@
+{
+  "content": "Cette histoire n'est probablement pas vraie.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:histoire"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:probablement"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:vraie"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:31.431091Z": "SPLIT_DONE"
+  }
+}

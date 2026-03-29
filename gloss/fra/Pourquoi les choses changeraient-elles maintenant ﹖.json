@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi les choses changeraient-elles maintenant ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SadeceTurkce (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:choses"
+    ],
+    [
+      "PART",
+      "fra:changeraient"
+    ],
+    [
+      "PART",
+      "fra:elles"
+    ],
+    [
+      "PART",
+      "fra:maintenant"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:56:55.410589Z": "SPLIT_DONE"
+  }
+}

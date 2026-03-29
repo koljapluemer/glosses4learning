@@ -1,0 +1,43 @@
+{
+  "content": "Ce n'est pas comme cela qu'elle fonctionne.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ce"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:comme"
+    ],
+    [
+      "PART",
+      "fra:cela"
+    ],
+    [
+      "PART",
+      "fra:qu'elle"
+    ],
+    [
+      "PART",
+      "fra:fonctionne"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:08.392951Z": "SPLIT_DONE"
+  }
+}

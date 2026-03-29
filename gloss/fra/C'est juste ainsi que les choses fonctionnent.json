@@ -1,0 +1,43 @@
+{
+  "content": "C'est juste ainsi que les choses fonctionnent.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:juste"
+    ],
+    [
+      "PART",
+      "fra:ainsi"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:choses"
+    ],
+    [
+      "PART",
+      "fra:fonctionnent"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:22.739005Z": "SPLIT_DONE"
+  }
+}

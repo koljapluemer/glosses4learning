@@ -1,0 +1,39 @@
+{
+  "content": "Elle s'est vraiment surpassée cette fois-ci.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elle"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:surpassée"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:fois-ci"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:07.779189Z": "SPLIT_DONE"
+  }
+}

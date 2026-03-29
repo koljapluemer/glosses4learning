@@ -1,0 +1,39 @@
+{
+  "content": "Tout cela appartient au passé maintenant.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tout"
+    ],
+    [
+      "PART",
+      "fra:cela"
+    ],
+    [
+      "PART",
+      "fra:appartient"
+    ],
+    [
+      "PART",
+      "fra:au"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:maintenant"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:15.388912Z": "SPLIT_DONE"
+  }
+}

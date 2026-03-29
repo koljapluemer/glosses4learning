@@ -1,0 +1,39 @@
+{
+  "content": "Avez-vous l'habitude de prendre un petit-déjeuner ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Avez-vous"
+    ],
+    [
+      "PART",
+      "fra:l'habitude"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:prendre"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:petit-déjeuner"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:52:46.131791Z": "SPLIT_DONE"
+  }
+}

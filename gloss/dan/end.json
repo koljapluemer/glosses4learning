@@ -24,9 +24,34 @@
     [
       "TRANSLATION",
       "eng:terminate"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ende"
+    ],
+    [
+      "TRANSLATION",
+      "fra:fin"
+    ],
+    [
+      "TRANSLATION",
+      "ita:fine"
+    ],
+    [
+      "TRANSLATION",
+      "rus:конец"
+    ],
+    [
+      "TRANSLATION",
+      "tur:son"
     ]
   ],
   "logs": {
-    "2026-03-28T13:50:09.532357Z": "TRANSLATION_DONE:eng"
+    "2026-03-28T13:50:09.532357Z": "TRANSLATION_DONE:eng",
+    "2026-03-29T13:09:18.496930Z": "TRANSLATION_DONE:deu",
+    "2026-03-29T13:09:18.666772Z": "TRANSLATION_DONE:fra",
+    "2026-03-29T13:09:18.847662Z": "TRANSLATION_DONE:ita",
+    "2026-03-29T13:09:19.010332Z": "TRANSLATION_DONE:rus",
+    "2026-03-29T13:09:19.173962Z": "TRANSLATION_DONE:tur"
   }
 }

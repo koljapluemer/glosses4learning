@@ -1,0 +1,43 @@
+{
+  "content": "Et par-dessus tout, tu dois travailler maintenant.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tras (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Et"
+    ],
+    [
+      "PART",
+      "fra:par-dessus"
+    ],
+    [
+      "PART",
+      "fra:tout"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:dois"
+    ],
+    [
+      "PART",
+      "fra:travailler"
+    ],
+    [
+      "PART",
+      "fra:maintenant"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:19.948676Z": "SPLIT_DONE"
+  }
+}

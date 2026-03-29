@@ -1,0 +1,43 @@
+{
+  "content": "À quelle heure est notre rendez-vous demain ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:À"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:heure"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:notre"
+    ],
+    [
+      "PART",
+      "fra:rendez-vous"
+    ],
+    [
+      "PART",
+      "fra:demain"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:08.683576Z": "SPLIT_DONE"
+  }
+}

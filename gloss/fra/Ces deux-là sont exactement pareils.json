@@ -1,0 +1,35 @@
+{
+  "content": "Ces deux-là sont exactement pareils.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:deux-là"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:exactement"
+    ],
+    [
+      "PART",
+      "fra:pareils"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:59:36.887240Z": "SPLIT_DONE"
+  }
+}

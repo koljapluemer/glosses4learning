@@ -1,0 +1,39 @@
+{
+  "content": "Cette montre est d'une grande valeur.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Archibald (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:montre"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:d'une"
+    ],
+    [
+      "PART",
+      "fra:grande"
+    ],
+    [
+      "PART",
+      "fra:valeur"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:09.591695Z": "SPLIT_DONE"
+  }
+}

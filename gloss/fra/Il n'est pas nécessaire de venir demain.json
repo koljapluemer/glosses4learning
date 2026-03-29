@@ -1,0 +1,43 @@
+{
+  "content": "Il n'est pas nécessaire de venir demain.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Il"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:nécessaire"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:venir"
+    ],
+    [
+      "PART",
+      "fra:demain"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:57:26.706750Z": "SPLIT_DONE"
+  }
+}

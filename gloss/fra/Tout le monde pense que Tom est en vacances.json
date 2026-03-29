@@ -1,0 +1,51 @@
+{
+  "content": "Tout le monde pense que Tom est en vacances.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by genes1s (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tout"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:monde"
+    ],
+    [
+      "PART",
+      "fra:pense"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:en"
+    ],
+    [
+      "PART",
+      "fra:vacances"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:57.524825Z": "SPLIT_DONE"
+  }
+}

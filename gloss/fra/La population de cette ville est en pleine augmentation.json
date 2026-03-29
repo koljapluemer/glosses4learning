@@ -1,0 +1,51 @@
+{
+  "content": "La population de cette ville est en pleine augmentation.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Corvus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:La"
+    ],
+    [
+      "PART",
+      "fra:population"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:ville"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:en"
+    ],
+    [
+      "PART",
+      "fra:pleine"
+    ],
+    [
+      "PART",
+      "fra:augmentation"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:25.719773Z": "SPLIT_DONE"
+  }
+}

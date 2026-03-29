@@ -1,0 +1,43 @@
+{
+  "content": "Cela fait une différence, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cela"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:différence"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:49.666892Z": "SPLIT_DONE"
+  }
+}

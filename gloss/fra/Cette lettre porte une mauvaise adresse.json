@@ -1,0 +1,39 @@
+{
+  "content": "Cette lettre porte une mauvaise adresse.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gall (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:lettre"
+    ],
+    [
+      "PART",
+      "fra:porte"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:mauvaise"
+    ],
+    [
+      "PART",
+      "fra:adresse"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:48.717643Z": "SPLIT_DONE"
+  }
+}

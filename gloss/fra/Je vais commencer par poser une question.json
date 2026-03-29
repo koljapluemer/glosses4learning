@@ -1,0 +1,43 @@
+{
+  "content": "Je vais commencer par poser une question.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:vais"
+    ],
+    [
+      "PART",
+      "fra:commencer"
+    ],
+    [
+      "PART",
+      "fra:par"
+    ],
+    [
+      "PART",
+      "fra:poser"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:question"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:25.965628Z": "SPLIT_DONE"
+  }
+}

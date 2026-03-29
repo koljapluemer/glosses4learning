@@ -1,0 +1,55 @@
+{
+  "content": "Dis à Tom que je ne suis pas à la maison.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Dis"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:suis"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:51:33.746128Z": "SPLIT_DONE"
+  }
+}

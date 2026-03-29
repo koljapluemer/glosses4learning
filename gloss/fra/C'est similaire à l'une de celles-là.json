@@ -1,0 +1,39 @@
+{
+  "content": "C'est similaire à l'une de celles-là.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:similaire"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:l'une"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:celles-là"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:44:14.436178Z": "SPLIT_DONE"
+  }
+}

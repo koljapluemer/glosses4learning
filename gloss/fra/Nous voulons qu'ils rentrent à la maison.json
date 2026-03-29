@@ -1,0 +1,43 @@
+{
+  "content": "Nous voulons qu'ils rentrent à la maison.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Olcyx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Nous"
+    ],
+    [
+      "PART",
+      "fra:voulons"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:rentrent"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:23.313456Z": "SPLIT_DONE"
+  }
+}

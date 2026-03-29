@@ -1,0 +1,51 @@
+{
+  "content": "J'ai passé la matinée à écrire des lettres.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'"
+    ],
+    [
+      "PART",
+      "fra:ai"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:matinée"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:écrire"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:lettres"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:07.601933Z": "SPLIT_DONE"
+  }
+}

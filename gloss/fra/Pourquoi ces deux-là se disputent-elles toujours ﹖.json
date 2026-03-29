@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi ces deux-là se disputent-elles toujours ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:ces"
+    ],
+    [
+      "PART",
+      "fra:deux-là"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:disputent-elles"
+    ],
+    [
+      "PART",
+      "fra:toujours"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:44:11.722549Z": "SPLIT_DONE"
+  }
+}

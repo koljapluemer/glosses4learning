@@ -1,0 +1,43 @@
+{
+  "content": "Je pense que c'est une excellente idée.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arnxy20 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:pense"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:c'est"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:excellente"
+    ],
+    [
+      "PART",
+      "fra:idée"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:59:14.059501Z": "SPLIT_DONE"
+  }
+}

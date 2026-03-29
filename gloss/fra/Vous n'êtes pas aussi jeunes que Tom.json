@@ -1,0 +1,43 @@
+{
+  "content": "Vous n'êtes pas aussi jeunes que Tom.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vous"
+    ],
+    [
+      "PART",
+      "fra:n'êtes"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:aussi"
+    ],
+    [
+      "PART",
+      "fra:jeunes"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:45.631206Z": "SPLIT_DONE"
+  }
+}

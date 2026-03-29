@@ -1,0 +1,51 @@
+{
+  "content": "C'est une route en très mauvais état et dangereuse.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:route"
+    ],
+    [
+      "PART",
+      "fra:en"
+    ],
+    [
+      "PART",
+      "fra:très"
+    ],
+    [
+      "PART",
+      "fra:mauvais"
+    ],
+    [
+      "PART",
+      "fra:état"
+    ],
+    [
+      "PART",
+      "fra:et"
+    ],
+    [
+      "PART",
+      "fra:dangereuse"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:58.792651Z": "SPLIT_DONE"
+  }
+}

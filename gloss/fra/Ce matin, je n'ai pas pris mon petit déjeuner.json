@@ -1,0 +1,55 @@
+{
+  "content": "Ce matin, je n'ai pas pris mon petit déjeuner.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ce"
+    ],
+    [
+      "PART",
+      "fra:matin"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:n'"
+    ],
+    [
+      "PART",
+      "fra:ai"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:pris"
+    ],
+    [
+      "PART",
+      "fra:mon"
+    ],
+    [
+      "PART",
+      "fra:petit"
+    ],
+    [
+      "PART",
+      "fra:déjeuner"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:49:59.185406Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "De quelle taille sont ces chaussures ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:De"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:taille"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:ces"
+    ],
+    [
+      "PART",
+      "fra:chaussures"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:18.031317Z": "SPLIT_DONE"
+  }
+}

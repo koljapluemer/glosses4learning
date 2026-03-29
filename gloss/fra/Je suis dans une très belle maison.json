@@ -1,0 +1,43 @@
+{
+  "content": "Je suis dans une très belle maison.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:suis"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:très"
+    ],
+    [
+      "PART",
+      "fra:belle"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:20.588154Z": "SPLIT_DONE"
+  }
+}

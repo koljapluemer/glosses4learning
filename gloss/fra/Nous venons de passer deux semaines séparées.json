@@ -1,0 +1,43 @@
+{
+  "content": "Nous venons de passer deux semaines séparées.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Nous"
+    ],
+    [
+      "PART",
+      "fra:venons"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:passer"
+    ],
+    [
+      "PART",
+      "fra:deux"
+    ],
+    [
+      "PART",
+      "fra:semaines"
+    ],
+    [
+      "PART",
+      "fra:séparées"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:40.699767Z": "SPLIT_DONE"
+  }
+}

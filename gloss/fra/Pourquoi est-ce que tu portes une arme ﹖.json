@@ -1,0 +1,43 @@
+{
+  "content": "Pourquoi est-ce que tu portes une arme ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:portes"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:arme"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:21.886657Z": "SPLIT_DONE"
+  }
+}

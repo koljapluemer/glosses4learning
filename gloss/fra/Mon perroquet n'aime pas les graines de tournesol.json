@@ -1,0 +1,51 @@
+{
+  "content": "Mon perroquet n'aime pas les graines de tournesol.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Mon"
+    ],
+    [
+      "PART",
+      "fra:perroquet"
+    ],
+    [
+      "PART",
+      "fra:n'"
+    ],
+    [
+      "PART",
+      "fra:aime"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:graines"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:tournesol"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:52.578663Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Comment va tout le monde, à la maison ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:va"
+    ],
+    [
+      "PART",
+      "fra:tout"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:monde"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:59:25.002369Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Vous ne saviez vraiment pas, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vous"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:saviez"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:32.762290Z": "SPLIT_DONE"
+  }
+}

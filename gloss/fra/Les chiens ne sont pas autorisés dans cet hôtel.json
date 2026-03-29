@@ -1,0 +1,51 @@
+{
+  "content": "Les chiens ne sont pas autorisés dans cet hôtel.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rockaround (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:chiens"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:autorisés"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:cet"
+    ],
+    [
+      "PART",
+      "fra:hôtel"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:59:59.100490Z": "SPLIT_DONE"
+  }
+}

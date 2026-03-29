@@ -1,0 +1,55 @@
+{
+  "content": "L'anglais est une langue parlée dans le monde entier.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jakov (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:L'"
+    ],
+    [
+      "PART",
+      "fra:anglais"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:langue"
+    ],
+    [
+      "PART",
+      "fra:parlée"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:monde"
+    ],
+    [
+      "PART",
+      "fra:entier"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:02.263502Z": "SPLIT_DONE"
+  }
+}

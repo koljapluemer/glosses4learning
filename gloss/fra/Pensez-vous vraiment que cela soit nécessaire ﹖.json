@@ -1,0 +1,43 @@
+{
+  "content": "Pensez-vous vraiment que cela soit nécessaire ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pensez"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:cela"
+    ],
+    [
+      "PART",
+      "fra:soit"
+    ],
+    [
+      "PART",
+      "fra:nécessaire"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:54.291840Z": "SPLIT_DONE"
+  }
+}

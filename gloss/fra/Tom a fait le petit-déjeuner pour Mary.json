@@ -1,0 +1,43 @@
+{
+  "content": "Tom a fait le petit-déjeuner pour Mary.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:petit-déjeuner"
+    ],
+    [
+      "PART",
+      "fra:pour"
+    ],
+    [
+      "PART",
+      "fra:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:17.241770Z": "SPLIT_DONE"
+  }
+}

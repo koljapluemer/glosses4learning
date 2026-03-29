@@ -1,0 +1,39 @@
+{
+  "content": "Je passais mes vacances en Tunisie.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:passais"
+    ],
+    [
+      "PART",
+      "fra:mes"
+    ],
+    [
+      "PART",
+      "fra:vacances"
+    ],
+    [
+      "PART",
+      "fra:en"
+    ],
+    [
+      "PART",
+      "fra:Tunisie"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:19.942282Z": "SPLIT_DONE"
+  }
+}

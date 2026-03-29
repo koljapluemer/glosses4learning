@@ -1,0 +1,39 @@
+{
+  "content": "Ils parlent français, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tras (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ils"
+    ],
+    [
+      "PART",
+      "fra:parlent"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:53:47.151901Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Elle passe une mauvaise journée.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by glossboss (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elle"
+    ],
+    [
+      "PART",
+      "fra:passe"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:mauvaise"
+    ],
+    [
+      "PART",
+      "fra:journée"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:51:31.187919Z": "SPLIT_DONE"
+  }
+}

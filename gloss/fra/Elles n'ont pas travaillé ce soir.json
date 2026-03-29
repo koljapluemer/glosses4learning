@@ -1,0 +1,43 @@
+{
+  "content": "Elles n'ont pas travaillé ce soir.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Igider (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elles"
+    ],
+    [
+      "PART",
+      "fra:n'"
+    ],
+    [
+      "PART",
+      "fra:ont"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:travaillé"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:soir"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:35.525473Z": "SPLIT_DONE"
+  }
+}

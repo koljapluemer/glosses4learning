@@ -1,0 +1,51 @@
+{
+  "content": "Êtes-vous en train d'écrire une lettre maintenant ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Petrus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Êtes"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:en"
+    ],
+    [
+      "PART",
+      "fra:train"
+    ],
+    [
+      "PART",
+      "fra:d'"
+    ],
+    [
+      "PART",
+      "fra:écrire"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:lettre"
+    ],
+    [
+      "PART",
+      "fra:maintenant"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:03:33.978179Z": "SPLIT_DONE"
+  }
+}

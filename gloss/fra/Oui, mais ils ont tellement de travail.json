@@ -1,0 +1,43 @@
+{
+  "content": "Oui, mais ils ont tellement de travail.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by josivangoncalves (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Oui"
+    ],
+    [
+      "PART",
+      "fra:mais"
+    ],
+    [
+      "PART",
+      "fra:ils"
+    ],
+    [
+      "PART",
+      "fra:ont"
+    ],
+    [
+      "PART",
+      "fra:tellement"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:travail"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:56:02.991030Z": "SPLIT_DONE"
+  }
+}

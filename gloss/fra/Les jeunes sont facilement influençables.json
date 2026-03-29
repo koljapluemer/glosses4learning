@@ -1,0 +1,35 @@
+{
+  "content": "Les jeunes sont facilement influençables.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Blabla (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:jeunes"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:facilement"
+    ],
+    [
+      "PART",
+      "fra:influencables"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:51:24.452532Z": "SPLIT_DONE"
+  }
+}

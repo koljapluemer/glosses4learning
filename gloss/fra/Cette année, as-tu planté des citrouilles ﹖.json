@@ -1,0 +1,43 @@
+{
+  "content": "Cette année, as-tu planté des citrouilles ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:année"
+    ],
+    [
+      "PART",
+      "fra:as"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:planté"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:citrouilles"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:52:40.382295Z": "SPLIT_DONE"
+  }
+}

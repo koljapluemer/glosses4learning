@@ -1,0 +1,43 @@
+{
+  "content": "J'ai acheté les dernières places disponibles.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'"
+    ],
+    [
+      "PART",
+      "fra:ai"
+    ],
+    [
+      "PART",
+      "fra:acheté"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:dernières"
+    ],
+    [
+      "PART",
+      "fra:places"
+    ],
+    [
+      "PART",
+      "fra:disponibles"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:01.362819Z": "SPLIT_DONE"
+  }
+}

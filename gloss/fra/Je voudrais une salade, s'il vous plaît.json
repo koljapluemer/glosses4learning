@@ -1,0 +1,43 @@
+{
+  "content": "Je voudrais une salade, s'il vous plaît.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felix63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:voudrais"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:salade"
+    ],
+    [
+      "PART",
+      "fra:s'il"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:plaît"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:44.894343Z": "SPLIT_DONE"
+  }
+}

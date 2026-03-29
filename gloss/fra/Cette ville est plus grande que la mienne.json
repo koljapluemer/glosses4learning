@@ -1,0 +1,47 @@
+{
+  "content": "Cette ville est plus grande que la mienne.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:ville"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:plus"
+    ],
+    [
+      "PART",
+      "fra:grande"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:mienne"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:58:00.409514Z": "SPLIT_DONE"
+  }
+}

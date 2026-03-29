@@ -1,0 +1,51 @@
+{
+  "content": "Vous êtes les étudiants de Tom, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vous"
+    ],
+    [
+      "PART",
+      "fra:êtes"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:étudiants"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:28.381942Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "C'est comme ça que ça se passe habituellement.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:comme"
+    ],
+    [
+      "PART",
+      "fra:ça"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:passe"
+    ],
+    [
+      "PART",
+      "fra:habituellement"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:52:14.232147Z": "SPLIT_DONE"
+  }
+}

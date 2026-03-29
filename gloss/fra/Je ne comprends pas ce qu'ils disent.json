@@ -1,0 +1,43 @@
+{
+  "content": "Je ne comprends pas ce qu'ils disent.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by glossboss (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:comprends"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:disent"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:57:37.623185Z": "SPLIT_DONE"
+  }
+}

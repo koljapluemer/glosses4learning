@@ -1,0 +1,35 @@
+{
+  "content": "Cette maison est-elle à vendre ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:est-elle"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:vendre"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:03.889699Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Tom m'a demandé où est-ce-que je travaillais.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Gib (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:m'"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:demandé"
+    ],
+    [
+      "PART",
+      "fra:où"
+    ],
+    [
+      "PART",
+      "fra:est-ce-que"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:travaillais"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:54:36.479526Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "La maison est partie pour une bouchée de pain.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:La"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:partie"
+    ],
+    [
+      "PART",
+      "fra:pour"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:bouchée"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:pain"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:31.014841Z": "SPLIT_DONE"
+  }
+}

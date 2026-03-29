@@ -1,0 +1,39 @@
+{
+  "content": "Combien de personnes sont ici actuellement ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by AlgideAmygdale (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Combien"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:personnes"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ],
+    [
+      "PART",
+      "fra:actuellement"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:48.040579Z": "SPLIT_DONE"
+  }
+}

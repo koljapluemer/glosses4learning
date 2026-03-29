@@ -1,0 +1,31 @@
+{
+  "content": "Ces phrases sont-elles correctes ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by anzart (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:phrases"
+    ],
+    [
+      "PART",
+      "fra:sont-elles"
+    ],
+    [
+      "PART",
+      "fra:correctes"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:02:59.173594Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ces maisons sont celles de mon oncle.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:maisons"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:celles"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:mon"
+    ],
+    [
+      "PART",
+      "fra:oncle"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:50:55.981333Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Apprendre une langue n'est pas facile.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Apprendre"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:langue"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:facile"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:59:43.553060Z": "SPLIT_DONE"
+  }
+}

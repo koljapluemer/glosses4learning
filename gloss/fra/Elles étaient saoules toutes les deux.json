@@ -1,0 +1,39 @@
+{
+  "content": "Elles étaient saoules toutes les deux.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elles"
+    ],
+    [
+      "PART",
+      "fra:étaient"
+    ],
+    [
+      "PART",
+      "fra:saoules"
+    ],
+    [
+      "PART",
+      "fra:toutes"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:deux"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:21.414820Z": "SPLIT_DONE"
+  }
+}

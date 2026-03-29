@@ -1,0 +1,51 @@
+{
+  "content": "Tom et Mary ont dit qu'ils n'étaient pas d'accord.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by blizb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:et"
+    ],
+    [
+      "PART",
+      "fra:Mary"
+    ],
+    [
+      "PART",
+      "fra:ont"
+    ],
+    [
+      "PART",
+      "fra:dit"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:n'étaient"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:d'accord"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:52:23.935735Z": "SPLIT_DONE"
+  }
+}

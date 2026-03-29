@@ -1,0 +1,39 @@
+{
+  "content": "Ces photos sont vraiment très belles.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:photos"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:très"
+    ],
+    [
+      "PART",
+      "fra:belles"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:01:04.697115Z": "SPLIT_DONE"
+  }
+}

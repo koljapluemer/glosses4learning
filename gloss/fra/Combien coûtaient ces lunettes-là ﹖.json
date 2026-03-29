@@ -1,0 +1,31 @@
+{
+  "content": "Combien coûtaient ces lunettes-là ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ninefi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Combien"
+    ],
+    [
+      "PART",
+      "fra:côtaient"
+    ],
+    [
+      "PART",
+      "fra:ces"
+    ],
+    [
+      "PART",
+      "fra:lunettes-là"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T12:55:57.191364Z": "SPLIT_DONE"
+  }
+}

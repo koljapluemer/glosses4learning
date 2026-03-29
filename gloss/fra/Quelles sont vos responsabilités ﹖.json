@@ -1,0 +1,31 @@
+{
+  "content": "Quelles sont vos responsabilités ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelles"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:vos"
+    ],
+    [
+      "PART",
+      "fra:responsabilités"
+    ]
+  ],
+  "logs": {
+    "2026-03-29T13:00:37.844690Z": "SPLIT_DONE"
+  }
+}
