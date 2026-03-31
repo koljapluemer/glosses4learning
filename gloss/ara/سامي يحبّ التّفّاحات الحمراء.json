@@ -1,0 +1,31 @@
+{
+  "content": "سامي يحبّ التّفّاحات الحمراء.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:سامي"
+    ],
+    [
+      "PART",
+      "ara:يحبّ"
+    ],
+    [
+      "PART",
+      "ara:التّفّاحات"
+    ],
+    [
+      "PART",
+      "ara:الحمراء"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:08:24.886132Z": "SPLIT_DONE"
+  }
+}

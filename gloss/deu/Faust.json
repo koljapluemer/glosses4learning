@@ -9,7 +9,9 @@
     "2026-03-29T13:12:32.652085Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:32.846086Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:33.047620Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:33.217298Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:33.217298Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:09.190578Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:09.414137Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -43,6 +45,14 @@
     [
       "TRANSLATION",
       "tur:Faust"
+    ],
+    [
+      "TRANSLATION",
+      "kor:파우스트"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Фауст"
     ]
   ]
 }

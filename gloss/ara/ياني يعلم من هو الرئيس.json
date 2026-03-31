@@ -1,0 +1,35 @@
+{
+  "content": "ياني يعلم من هو الرئيس.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ياني"
+    ],
+    [
+      "PART",
+      "ara:يعلم"
+    ],
+    [
+      "PART",
+      "ara:من"
+    ],
+    [
+      "PART",
+      "ara:هو"
+    ],
+    [
+      "PART",
+      "ara:الرئيس"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:08:35.954356Z": "SPLIT_DONE"
+  }
+}

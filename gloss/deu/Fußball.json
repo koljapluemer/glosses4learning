@@ -9,7 +9,9 @@
     "2026-03-29T13:12:44.124561Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:44.318239Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:44.510907Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:44.690344Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:44.690344Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:15.812509Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:16.003875Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -47,6 +49,14 @@
     [
       "TRANSLATION",
       "tur:futbola"
+    ],
+    [
+      "TRANSLATION",
+      "kor:축구"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Футбол"
     ]
   ]
 }

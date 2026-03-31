@@ -9,7 +9,9 @@
     "2026-03-29T13:12:37.391045Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:37.568915Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:37.744452Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:37.911441Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:37.911441Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:12.446102Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:12.622790Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -63,6 +65,14 @@
     [
       "TRANSLATION",
       "ita:moglie"
+    ],
+    [
+      "TRANSLATION",
+      "kor:여성"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Пані"
     ]
   ]
 }

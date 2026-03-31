@@ -8,7 +8,9 @@
     "2026-01-27T14:28:03.551301Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:12:25.517303Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:25.687866Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:12:25.854380Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:12:25.854380Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:05.185037Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:05.366953Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -50,6 +52,14 @@
     [
       "TRANSLATION",
       "fra:expérience"
+    ],
+    [
+      "TRANSLATION",
+      "kor:경험"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Досвід"
     ]
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "content": "هو يعلم العربية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by atitarev (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هو"
+    ],
+    [
+      "PART",
+      "ara:يعلم"
+    ],
+    [
+      "PART",
+      "ara:العربية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:10:04.437879Z": "SPLIT_DONE"
+  }
+}

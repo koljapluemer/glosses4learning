@@ -9,7 +9,9 @@
     "2026-03-29T13:11:58.268619Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:58.483626Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:58.703778Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:58.897858Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:58.897858Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:50.583984Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:50.765957Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -63,6 +65,14 @@
     [
       "TRANSLATION",
       "ita:libro"
+    ],
+    [
+      "TRANSLATION",
+      "kor:책"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Книга"
     ]
   ]
 }

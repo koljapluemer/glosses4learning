@@ -9,7 +9,9 @@
     "2026-03-29T13:11:21.750536Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:21.922648Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:22.095643Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:22.243166Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:22.243166Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:31.722137Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:31.916904Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -47,6 +49,14 @@
     [
       "TRANSLATION",
       "tur:Alt"
+    ],
+    [
+      "TRANSLATION",
+      "kor:오래된"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Старий"
     ]
   ]
 }

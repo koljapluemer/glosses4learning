@@ -9,7 +9,9 @@
     "2026-03-29T13:12:24.754343Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:24.951980Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:25.145544Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:25.323432Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:25.323432Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:04.405572Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:04.612720Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -47,6 +49,14 @@
     [
       "TRANSLATION",
       "tur:Affedersin"
+    ],
+    [
+      "TRANSLATION",
+      "kor:죄송합니다"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вибачте"
     ]
   ]
 }

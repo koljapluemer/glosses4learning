@@ -1,0 +1,35 @@
+{
+  "content": "لم يتناول الغذاء.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لم"
+    ],
+    [
+      "PART",
+      "ara:يتناول"
+    ],
+    [
+      "PART",
+      "ara:ال"
+    ],
+    [
+      "PART",
+      "ara:غذاء"
+    ],
+    [
+      "PART",
+      "ara:ء"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:10:20.976705Z": "SPLIT_DONE"
+  }
+}

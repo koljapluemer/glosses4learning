@@ -9,7 +9,9 @@
     "2026-03-29T13:13:01.852591Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:02.030354Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:02.223940Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:02.399469Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:02.399469Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:25.300821Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:25.506193Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -47,6 +49,14 @@
     [
       "TRANSLATION",
       "tur:Verilen"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주세요"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дайте"
     ]
   ]
 }

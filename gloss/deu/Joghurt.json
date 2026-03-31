@@ -8,7 +8,9 @@
     "2026-01-27T14:28:58.844797Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:13:34.402154Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:34.610927Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:13:34.797388Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:13:34.797388Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:43.567391Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:43.785792Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -38,6 +40,14 @@
     [
       "TRANSLATION",
       "rus:Йогурт"
+    ],
+    [
+      "TRANSLATION",
+      "kor:요거트"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Йогурт"
     ]
   ]
 }

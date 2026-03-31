@@ -8,7 +8,9 @@
     "2026-01-27T14:28:08.360699Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:12:28.614733Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:28.800565Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:28.993375Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:28.993375Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:06.937685Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:07.119383Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -130,6 +132,18 @@
     [
       "TRANSLATION",
       "spa:Es"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그것"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es gibt da etwas, wovon ich meine, dass du es wissen solltest"
     ]
   ]
 }

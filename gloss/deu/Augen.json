@@ -8,7 +8,9 @@
     "2026-01-27T14:27:32.404617Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:11:33.417420Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:33.571949Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:11:33.740568Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:11:33.740568Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:38.094424Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:38.265293Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -50,6 +52,14 @@
     [
       "TRANSLATION",
       "ita:occhi"
+    ],
+    [
+      "TRANSLATION",
+      "kor:눈"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Очі"
     ]
   ]
 }

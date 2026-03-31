@@ -1,0 +1,39 @@
+{
+  "content": "تاكشي يكتب مذكرة يومية باللغة الإنجليزية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:تاكشي"
+    ],
+    [
+      "PART",
+      "ara:يكتب"
+    ],
+    [
+      "PART",
+      "ara:مذكرة"
+    ],
+    [
+      "PART",
+      "ara:يومية"
+    ],
+    [
+      "PART",
+      "ara:باللغة"
+    ],
+    [
+      "PART",
+      "ara:الإنجليزية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:08:12.858655Z": "SPLIT_DONE"
+  }
+}

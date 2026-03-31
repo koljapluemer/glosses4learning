@@ -1,0 +1,31 @@
+{
+  "content": "هذا كتاب توم المفضل.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Safa_Alfulaij (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هذا"
+    ],
+    [
+      "PART",
+      "ara:كتاب"
+    ],
+    [
+      "PART",
+      "ara:توم"
+    ],
+    [
+      "PART",
+      "ara:المفضل"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:09:59.328064Z": "SPLIT_DONE"
+  }
+}

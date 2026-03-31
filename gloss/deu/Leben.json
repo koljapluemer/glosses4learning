@@ -12,7 +12,9 @@
     "2026-03-28T09:39:16.750071Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:39:17.881174Z": "TRANSLATION_DONE:kab",
     "2026-03-28T09:39:18.797743Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T09:39:19.514370Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T09:39:19.514370Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:54.943005Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:55.125250Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -102,6 +104,14 @@
     [
       "TRANSLATION",
       "ita:vite"
+    ],
+    [
+      "TRANSLATION",
+      "kor:삶"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Життя"
     ]
   ]
 }

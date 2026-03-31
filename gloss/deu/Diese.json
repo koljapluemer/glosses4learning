@@ -9,7 +9,9 @@
     "2026-03-29T13:12:10.232249Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:10.382020Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:10.577821Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:10.750216Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:10.750216Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:56.881999Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:57.055998Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -79,6 +81,14 @@
     [
       "TRANSLATION",
       "ita:Queste"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "أنا أعيش في المملكة المتحدة.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MisterBrown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنا"
+    ],
+    [
+      "PART",
+      "ara:أعيش"
+    ],
+    [
+      "PART",
+      "ara:في"
+    ],
+    [
+      "PART",
+      "ara:المملكة"
+    ],
+    [
+      "PART",
+      "ara:المتحدة"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:10:26.819862Z": "SPLIT_DONE"
+  }
+}

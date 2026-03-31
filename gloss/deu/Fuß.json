@@ -9,7 +9,9 @@
     "2026-03-29T13:12:43.402516Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:43.594111Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:43.747237Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:43.923452Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:43.923452Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:15.460230Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:15.650265Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:Ayak"
+    ],
+    [
+      "TRANSLATION",
+      "kor:발"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Нога"
     ]
   ]
 }

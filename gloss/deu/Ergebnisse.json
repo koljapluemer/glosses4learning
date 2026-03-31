@@ -8,7 +8,9 @@
     "2026-01-27T14:28:05.700328Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:12:26.553734Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:26.728773Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:12:26.901695Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:12:26.901695Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:05.883132Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:06.043600Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -46,6 +48,14 @@
     [
       "TRANSLATION",
       "ita:risultati"
+    ],
+    [
+      "TRANSLATION",
+      "kor:결과"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Результати"
     ]
   ]
 }

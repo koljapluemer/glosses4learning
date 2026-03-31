@@ -2,7 +2,8 @@
   "content": "Aggiungetelo.",
   "language": "ita",
   "tags": [
-    "eng:tatoeba-sentence"
+    "eng:tatoeba-sentence",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -11,6 +12,10 @@
     [
       "TRANSLATION",
       "eng:Add it"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:Aggiungetelo al mio conto"
     ]
   ]
 }

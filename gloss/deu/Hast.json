@@ -12,7 +12,9 @@
     "2026-03-28T10:55:24.431206Z": "TRANSLATION_DONE:ita",
     "2026-03-28T10:55:25.357971Z": "TRANSLATION_DONE:kab",
     "2026-03-28T10:55:26.131428Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T10:55:26.943595Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T10:55:26.943595Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:31.879826Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:32.075723Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -102,6 +104,14 @@
     [
       "TRANSLATION",
       "tur:bulunmak"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~ 했어요"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Маєте"
     ]
   ]
 }

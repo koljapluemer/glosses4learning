@@ -10,7 +10,8 @@
     "2026-03-29T14:23:32.987685Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:23:33.139840Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:23:33.312730Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:23:33.496716Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:23:33.496716Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:20:47.717173Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,14 @@
     [
       "TRANSLATION",
       "tur:giriş"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вхід"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вхідний квиток"
     ]
   ]
 }

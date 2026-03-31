@@ -9,7 +9,9 @@
     "2026-03-29T13:13:22.465531Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:22.630990Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:22.831834Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:22.996430Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:22.996430Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:35.881001Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:36.079397Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -47,6 +49,14 @@
     [
       "TRANSLATION",
       "ita:cani"
+    ],
+    [
+      "TRANSLATION",
+      "kor:개"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Собаки"
     ]
   ]
 }

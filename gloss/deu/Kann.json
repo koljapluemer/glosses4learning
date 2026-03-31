@@ -9,7 +9,9 @@
     "2026-03-29T13:13:39.184567Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:39.355721Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:39.517909Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:39.713201Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:39.713201Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:46.180808Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:46.353516Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -51,6 +53,14 @@
     [
       "TRANSLATION",
       "ita:Può__split2"
+    ],
+    [
+      "TRANSLATION",
+      "kor:가능"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Може"
     ]
   ]
 }

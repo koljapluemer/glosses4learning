@@ -9,7 +9,9 @@
     "2026-03-28T13:50:49.061099Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:50:50.257601Z": "TRANSLATION_DONE:ita",
     "2026-03-28T13:50:51.109602Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T13:50:52.235572Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T13:50:52.235572Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:37.454022Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:37.676729Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -91,6 +93,14 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich bin mir sicher, dass Tom Ihnen gefallen wird"
+    ],
+    [
+      "TRANSLATION",
+      "kor:여러 분께"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Для вас"
     ]
   ]
 }

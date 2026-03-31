@@ -1,0 +1,31 @@
+{
+  "content": "ذلك الجبن ليس أصفرا.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ذلك"
+    ],
+    [
+      "PART",
+      "ara:الجبن"
+    ],
+    [
+      "PART",
+      "ara:ليس"
+    ],
+    [
+      "PART",
+      "ara:أصفرا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:09:31.450944Z": "SPLIT_DONE"
+  }
+}

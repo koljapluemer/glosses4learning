@@ -8,7 +8,9 @@
     "2026-01-27T14:28:09.896869Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:12:29.724036Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:29.902990Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:12:30.087968Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:12:30.087968Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:07.677518Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:07.857530Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -38,6 +40,14 @@
     [
       "TRANSLATION",
       "rus:Совы"
+    ],
+    [
+      "TRANSLATION",
+      "kor:부엉"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сови"
     ]
   ]
 }

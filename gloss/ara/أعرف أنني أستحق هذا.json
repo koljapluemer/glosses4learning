@@ -1,0 +1,31 @@
+{
+  "content": "أعرف أنني أستحق هذا.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Abdellahi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أعرف"
+    ],
+    [
+      "PART",
+      "ara:أن"
+    ],
+    [
+      "PART",
+      "ara:أستحق"
+    ],
+    [
+      "PART",
+      "ara:هذا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:08:41.024415Z": "SPLIT_DONE"
+  }
+}

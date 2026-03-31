@@ -9,7 +9,9 @@
     "2026-03-29T13:13:03.413241Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:03.585295Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:03.757284Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:03.907059Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:03.907059Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:26.107295Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:26.283875Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -55,6 +57,14 @@
     [
       "TRANSLATION",
       "tur:İman"
+    ],
+    [
+      "TRANSLATION",
+      "kor:믿음"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Віра"
     ]
   ]
 }

@@ -8,7 +8,9 @@
     "2026-01-27T14:27:38.152826Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:11:47.441284Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:47.628031Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:11:47.832528Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:11:47.832528Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:45.012746Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:45.214897Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -42,6 +44,14 @@
     [
       "TRANSLATION",
       "rus:Отношения"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관계"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Відносини"
     ]
   ]
 }

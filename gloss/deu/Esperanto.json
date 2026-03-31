@@ -8,7 +8,9 @@
     "2026-01-27T14:28:09.185928Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:12:29.182489Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:29.376166Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:12:29.548400Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:12:29.548400Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:07.324480Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:07.503912Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -42,6 +44,14 @@
     [
       "TRANSLATION",
       "ita:l'esperanto"
+    ],
+    [
+      "TRANSLATION",
+      "kor:에스페란토"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Есперанто"
     ]
   ]
 }

@@ -8,7 +8,9 @@
     "2026-01-27T14:28:22.393737Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:12:36.813208Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:37.005421Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:12:37.218660Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:12:37.218660Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:12.071651Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:12.273076Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -50,6 +52,14 @@
     [
       "TRANSLATION",
       "spa:francés"
+    ],
+    [
+      "TRANSLATION",
+      "kor:프랑스어"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Французька мова"
     ]
   ]
 }

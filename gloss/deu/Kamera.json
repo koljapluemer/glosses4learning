@@ -8,7 +8,9 @@
     "2026-01-27T14:29:01.272126Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:13:37.887478Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:38.082710Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:13:38.248133Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:13:38.248133Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:45.424587Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:45.613495Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -50,6 +52,14 @@
     [
       "TRANSLATION",
       "ita:camera"
+    ],
+    [
+      "TRANSLATION",
+      "kor:카메라"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Камера"
     ]
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "content": "كنتُ أريدُ تعلم الأمازيغية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MisterBrown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:كنتُ"
+    ],
+    [
+      "PART",
+      "ara:أريدُ"
+    ],
+    [
+      "PART",
+      "ara:تعلم"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:08:24.131968Z": "SPLIT_DONE"
+  }
+}

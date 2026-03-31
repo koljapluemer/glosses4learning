@@ -9,7 +9,9 @@
     "2026-03-29T13:11:57.460905Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:57.633798Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:57.827927Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:58.056255Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:58.056255Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:50.229630Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:50.427830Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -51,6 +53,14 @@
     [
       "TRANSLATION",
       "fra:frères"
+    ],
+    [
+      "TRANSLATION",
+      "kor:형제들"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Брати"
     ]
   ]
 }

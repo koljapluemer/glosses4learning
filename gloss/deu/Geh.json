@@ -8,7 +8,9 @@
     "2026-01-27T14:28:29.046008Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:12:52.325135Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:52.496071Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:12:52.671744Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:12:52.671744Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:19.920959Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:20.103414Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -46,6 +48,14 @@
     [
       "TRANSLATION",
       "rus:Идите"
+    ],
+    [
+      "TRANSLATION",
+      "kor:가세요"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Іди"
     ]
   ]
 }

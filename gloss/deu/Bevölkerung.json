@@ -8,7 +8,9 @@
     "2026-01-27T14:27:37.200290Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:11:46.591147Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:46.783778Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:11:46.940709Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:11:46.940709Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:44.343396Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:44.502228Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -50,6 +52,14 @@
     [
       "TRANSLATION",
       "fra:population"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인구"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Населення"
     ]
   ]
 }

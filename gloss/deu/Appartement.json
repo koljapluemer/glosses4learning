@@ -9,7 +9,9 @@
     "2026-03-29T13:11:29.028333Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:29.212339Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:29.389731Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:29.566024Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:29.566024Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:35.579616Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:35.773874Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:Daire"
+    ],
+    [
+      "TRANSLATION",
+      "kor:아파트"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Квартира"
     ]
   ]
 }

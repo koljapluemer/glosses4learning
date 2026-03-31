@@ -9,7 +9,9 @@
     "2026-03-29T13:12:22.512100Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:22.661115Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:22.836938Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:23.015912Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:23.015912Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:03.216671Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:03.398575Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -59,6 +61,14 @@
     [
       "TRANSLATION",
       "tha:สุด"
+    ],
+    [
+      "TRANSLATION",
+      "kor:마무리"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Кінець"
     ]
   ]
 }

@@ -9,7 +9,9 @@
     "2026-03-29T13:13:16.672983Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:16.849448Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:17.018059Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:17.213771Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:17.213771Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:32.957232Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:33.143696Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -75,6 +77,14 @@
     [
       "TRANSLATION",
       "fra:devoirs"
+    ],
+    [
+      "TRANSLATION",
+      "kor:숙제"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Домашнє завдання"
     ]
   ]
 }

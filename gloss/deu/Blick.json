@@ -9,7 +9,9 @@
     "2026-03-29T13:11:50.892156Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:51.048572Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:51.226607Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:51.403786Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:51.403786Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:46.843100Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:47.020388Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -51,6 +53,14 @@
     [
       "TRANSLATION",
       "tur:Görüş"
+    ],
+    [
+      "TRANSLATION",
+      "kor:전망"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Погляд"
     ]
   ]
 }

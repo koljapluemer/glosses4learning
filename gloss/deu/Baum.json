@@ -8,7 +8,9 @@
     "2026-01-27T14:27:36.259308Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:11:39.661895Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:39.846489Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:11:40.034908Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:11:40.034908Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:40.964947Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:41.136142Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -42,6 +44,14 @@
     [
       "TRANSLATION",
       "spa:árbol"
+    ],
+    [
+      "TRANSLATION",
+      "kor:나무"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дерево"
     ]
   ]
 }

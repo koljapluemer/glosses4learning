@@ -9,7 +9,9 @@
     "2026-03-29T13:11:49.691715Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:49.861959Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:50.027703Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:50.175595Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:50.175595Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:46.130420Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:46.316363Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -55,6 +57,14 @@
     [
       "TRANSLATION",
       "tur:Bist"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Біст"
     ]
   ]
 }

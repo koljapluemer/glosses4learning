@@ -3,11 +3,17 @@
   "language": "deu",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:ingredients"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin gerade mit dem Kaufen einer Zutaten fertig für das Abendessen geworden"
     ]
   ]
 }

@@ -9,7 +9,9 @@
     "2026-03-29T13:13:47.313829Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:47.522561Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:47.705093Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:47.874456Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:47.874456Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:50.625267Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:50.863222Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:Bagaj"
+    ],
+    [
+      "TRANSLATION",
+      "kor:트렁크"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Багажний відсік"
     ]
   ]
 }

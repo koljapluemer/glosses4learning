@@ -1,0 +1,35 @@
+{
+  "content": "هذا اللبلاب لديه جذور صغيرة.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هذا"
+    ],
+    [
+      "PART",
+      "ara:اللبلاب"
+    ],
+    [
+      "PART",
+      "ara:لديه"
+    ],
+    [
+      "PART",
+      "ara:جذور"
+    ],
+    [
+      "PART",
+      "ara:صغيرة"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:10:28.309784Z": "SPLIT_DONE"
+  }
+}

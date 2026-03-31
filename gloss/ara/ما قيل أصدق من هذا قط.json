@@ -1,0 +1,39 @@
+{
+  "content": "ما قيل أصدق من هذا قط.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Samer (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ما"
+    ],
+    [
+      "PART",
+      "ara:قيل"
+    ],
+    [
+      "PART",
+      "ara:أصدق"
+    ],
+    [
+      "PART",
+      "ara:من"
+    ],
+    [
+      "PART",
+      "ara:هذا"
+    ],
+    [
+      "PART",
+      "ara:قط"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:09:48.382276Z": "SPLIT_DONE"
+  }
+}

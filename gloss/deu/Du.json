@@ -9,7 +9,9 @@
     "2026-03-29T13:12:15.025449Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:15.175082Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:15.335165Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:15.492166Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:15.492166Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:59.376860Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:59.562688Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -139,6 +141,14 @@
     [
       "TRANSLATION",
       "ita:Stai__split2"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ти"
     ]
   ]
 }

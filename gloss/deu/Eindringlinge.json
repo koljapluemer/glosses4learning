@@ -9,7 +9,9 @@
     "2026-03-29T13:12:16.820553Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:17.004127Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:17.209279Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:17.459972Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:17.459972Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:00.526753Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:00.751954Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:İstismarcılar"
+    ],
+    [
+      "TRANSLATION",
+      "kor:침입자"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Іноземні агенти"
     ]
   ]
 }

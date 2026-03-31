@@ -1,0 +1,31 @@
+{
+  "content": "إنه يتكلم اليابانية جيداً.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:إنه"
+    ],
+    [
+      "PART",
+      "ara:يتكلم"
+    ],
+    [
+      "PART",
+      "ara:اليابانية"
+    ],
+    [
+      "PART",
+      "ara:جيدا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:09:20.012238Z": "SPLIT_DONE"
+  }
+}

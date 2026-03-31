@@ -9,7 +9,9 @@
     "2026-03-29T13:13:52.956594Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:53.133219Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:53.311227Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:53.504701Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:53.504701Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:53.450285Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:53.649076Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -55,6 +57,14 @@
     [
       "TRANSLATION",
       "fra:magasin"
+    ],
+    [
+      "TRANSLATION",
+      "kor:쇼핑"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Магазин"
     ]
   ]
 }

@@ -8,7 +8,9 @@
     "2026-01-27T14:44:21.533632Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:11:29.737028Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:29.911450Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:11:30.073645Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:11:30.073645Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:35.927452Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:36.102125Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -86,6 +88,14 @@
     [
       "TRANSLATION",
       "tha:งาน"
+    ],
+    [
+      "TRANSLATION",
+      "kor:일"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Робота"
     ]
   ]
 }

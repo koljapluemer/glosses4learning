@@ -9,7 +9,9 @@
     "2026-03-29T13:12:27.884740Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:28.045623Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:28.240356Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:28.429442Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:28.429442Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:06.549655Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:06.765463Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -47,6 +49,14 @@
     [
       "TRANSLATION",
       "tur:İzin verir"
+    ],
+    [
+      "TRANSLATION",
+      "kor:허용"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дозволяють"
     ]
   ]
 }

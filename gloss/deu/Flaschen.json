@@ -11,7 +11,9 @@
     "2026-03-28T09:39:04.768884Z": "TRANSLATION_DONE:fra",
     "2026-03-28T09:39:05.587959Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:39:06.513365Z": "TRANSLATION_DONE:kab",
-    "2026-03-28T09:39:07.532251Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T09:39:07.532251Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:10.605781Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:10.788133Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -81,6 +83,14 @@
     [
       "TRANSLATION",
       "spa:pillas"
+    ],
+    [
+      "TRANSLATION",
+      "kor:병"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Пластикові пляшки"
     ]
   ]
 }

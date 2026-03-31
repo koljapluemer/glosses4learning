@@ -8,7 +8,9 @@
     "2026-01-27T14:27:25.811130Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:11:27.072097Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:27.250381Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:11:27.442856Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:11:27.442856Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:34.462181Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:34.682455Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -38,6 +40,14 @@
     [
       "TRANSLATION",
       "rus:Антибиотики"
+    ],
+    [
+      "TRANSLATION",
+      "kor:항생제"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Антибіотики"
     ]
   ]
 }

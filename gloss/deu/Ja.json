@@ -8,7 +8,9 @@
     "2026-01-27T14:28:52.922458Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:13:28.548974Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:28.737105Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:13:28.911203Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:13:28.911203Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:40.440544Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:40.602958Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -98,6 +100,14 @@
     [
       "TRANSLATION",
       "tha:ใช่"
+    ],
+    [
+      "TRANSLATION",
+      "kor:네"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Так"
     ]
   ]
 }

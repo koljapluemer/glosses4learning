@@ -8,7 +8,9 @@
     "2026-01-27T14:27:45.055301Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:11:56.158914Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:56.335184Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:11:56.507658Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:11:56.507658Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:49.499927Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:49.694945Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -74,6 +76,14 @@
     [
       "TRANSLATION",
       "spa:hermano"
+    ],
+    [
+      "TRANSLATION",
+      "kor:형"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Брате"
     ]
   ]
 }

@@ -12,7 +12,9 @@
     "2026-03-28T10:55:49.111447Z": "TRANSLATION_DONE:ita",
     "2026-03-28T10:55:50.135659Z": "TRANSLATION_DONE:kab",
     "2026-03-28T10:55:51.262679Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T10:55:52.229192Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T10:55:52.229192Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:09.585814Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:09.780976Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -118,6 +120,14 @@
     [
       "TRANSLATION",
       "spa:mis"
+    ],
+    [
+      "TRANSLATION",
+      "kor:오류"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Помилки"
     ]
   ]
 }

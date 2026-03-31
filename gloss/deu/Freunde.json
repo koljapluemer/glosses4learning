@@ -9,7 +9,9 @@
     "2026-03-29T13:12:39.586628Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:39.774469Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:39.931093Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:40.106225Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:40.106225Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:13.544633Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:13.736669Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -99,6 +101,14 @@
     [
       "TRANSLATION",
       "spa:amigos"
+    ],
+    [
+      "TRANSLATION",
+      "kor:친구들"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Друзі"
     ]
   ]
 }

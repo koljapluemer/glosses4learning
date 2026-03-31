@@ -9,7 +9,9 @@
     "2026-03-28T13:34:19.582544Z": "TRANSLATION_DONE:epo",
     "2026-03-28T13:34:20.293093Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:34:20.832373Z": "TRANSLATION_DONE:ita",
-    "2026-03-28T13:34:21.629288Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T13:34:21.629288Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:16:30.343219Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:30.511709Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -71,6 +73,14 @@
     [
       "TRANSLATION",
       "spa:acento"
+    ],
+    [
+      "TRANSLATION",
+      "kor:억양"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Акцент"
     ]
   ]
 }

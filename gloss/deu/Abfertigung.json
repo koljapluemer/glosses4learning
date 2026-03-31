@@ -9,7 +9,9 @@
     "2026-03-29T13:11:17.115513Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:17.277702Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:17.485711Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:17.680019Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:17.680019Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:28.859688Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:29.067637Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -47,6 +49,14 @@
     [
       "TRANSLATION",
       "tur:Emeklilik"
+    ],
+    [
+      "TRANSLATION",
+      "kor:퇴직금"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Виплата відпустки"
     ]
   ]
 }

@@ -9,7 +9,9 @@
     "2026-03-29T13:11:30.910597Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:31.090151Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:31.290597Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:31.497787Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:31.497787Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:36.653612Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:36.849241Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:Yoksulluk"
+    ],
+    [
+      "TRANSLATION",
+      "kor:빈곤"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Бідність"
     ]
   ]
 }

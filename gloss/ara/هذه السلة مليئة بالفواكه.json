@@ -1,0 +1,31 @@
+{
+  "content": "هذه السلة مليئة بالفواكه",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Alaakhalid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هذه"
+    ],
+    [
+      "PART",
+      "ara:السلة"
+    ],
+    [
+      "PART",
+      "ara:مليئة"
+    ],
+    [
+      "PART",
+      "ara:بالفواكه"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T08:10:01.472782Z": "SPLIT_DONE"
+  }
+}

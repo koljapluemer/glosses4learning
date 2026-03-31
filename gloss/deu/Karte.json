@@ -8,7 +8,9 @@
     "2026-01-27T14:29:02.903365Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:13:39.894137Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:40.087471Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:13:40.255328Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:13:40.255328Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T08:17:46.525675Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:46.712075Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -38,6 +40,14 @@
     [
       "TRANSLATION",
       "rus:Карта"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지도"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Карта"
     ]
   ]
 }

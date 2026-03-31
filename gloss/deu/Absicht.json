@@ -9,7 +9,9 @@
     "2026-03-29T13:11:18.577136Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:18.762349Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:18.946912Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:19.119805Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:19.119805Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:29.635831Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:29.804887Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -67,6 +69,14 @@
     [
       "TRANSLATION",
       "spa:intención"
+    ],
+    [
+      "TRANSLATION",
+      "kor:목적"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Намір"
     ]
   ]
 }

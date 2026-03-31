@@ -9,7 +9,9 @@
     "2026-03-29T13:12:19.612431Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:12:19.820580Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:12:19.990191Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:12:20.191770Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:12:20.191770Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:01.719519Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:01.923174Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -43,6 +45,14 @@
     [
       "TRANSLATION",
       "tur:Giriş bileti"
+    ],
+    [
+      "TRANSLATION",
+      "kor:입장권"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Квиток"
     ]
   ]
 }

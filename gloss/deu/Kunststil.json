@@ -9,7 +9,9 @@
     "2026-03-29T13:13:48.863981Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:49.040288Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:49.236076Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:49.418673Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:49.418673Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:51.481725Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:51.703433Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:Sanat tarzı"
+    ],
+    [
+      "TRANSLATION",
+      "kor:예술 스타일"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Стиль мистецтва"
     ]
   ]
 }

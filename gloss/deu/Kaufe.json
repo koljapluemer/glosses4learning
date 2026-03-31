@@ -9,7 +9,9 @@
     "2026-03-29T13:13:41.710093Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:13:41.906723Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:13:42.088554Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:13:42.249146Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:13:42.249146Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:17:47.600954Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:17:47.788963Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:Satın al"
+    ],
+    [
+      "TRANSLATION",
+      "kor:구매"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Купуйте"
     ]
   ]
 }

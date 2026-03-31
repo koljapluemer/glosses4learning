@@ -9,7 +9,9 @@
     "2026-03-29T13:11:38.904731Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:11:39.093863Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:11:39.285550Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:11:39.485276Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:11:39.485276Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T08:16:40.617030Z": "TRANSLATION_DONE:kor",
+    "2026-03-31T08:16:40.808298Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:Balet dersleri"
+    ],
+    [
+      "TRANSLATION",
+      "kor:발레 수업"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навчання балету"
     ]
   ]
 }
