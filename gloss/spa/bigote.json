@@ -1,0 +1,33 @@
+{
+  "content": "bigote",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A las mujeres les gustan los hombres con bigote"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mustache",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Süßigkeiten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вуса",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.877754Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.893501Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.911417Z": "TRANSLATION_DONE:ukr"
+  }
+}

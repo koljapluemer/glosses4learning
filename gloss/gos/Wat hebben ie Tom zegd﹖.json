@@ -1,0 +1,35 @@
+{
+  "content": "Wat hebben ie Tom zegd?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wat"
+    ],
+    [
+      "PART",
+      "gos:hebben"
+    ],
+    [
+      "PART",
+      "gos:ie"
+    ],
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:zegd"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.387751Z": "SPLIT_DONE"
+  }
+}

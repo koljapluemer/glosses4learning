@@ -1,0 +1,35 @@
+{
+  "content": "Sein Verhalten verstimmte seine Freunde.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tickler (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sein"
+    ],
+    [
+      "PART",
+      "deu:Verhalten"
+    ],
+    [
+      "PART",
+      "deu:verstimmte"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Freunde"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.371210Z": "SPLIT_DONE"
+  }
+}

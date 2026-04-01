@@ -1,0 +1,47 @@
+{
+  "content": "Varför beter sig Tom på det här sättet?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Varför"
+    ],
+    [
+      "PART",
+      "swe:beter"
+    ],
+    [
+      "PART",
+      "swe:sig"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:sättet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.034737Z": "SPLIT_DONE"
+  }
+}

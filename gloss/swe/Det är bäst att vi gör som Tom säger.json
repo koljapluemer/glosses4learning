@@ -1,0 +1,51 @@
+{
+  "content": "Det är bäst att vi gör som Tom säger.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:bäst"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:vi"
+    ],
+    [
+      "PART",
+      "swe:gör"
+    ],
+    [
+      "PART",
+      "swe:som"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:säger"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.997275Z": "SPLIT_DONE"
+  }
+}

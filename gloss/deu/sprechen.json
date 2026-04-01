@@ -8,7 +8,9 @@
     "2026-01-27T14:36:20.289367Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:22:41.752093Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:22:41.940782Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:22:42.136454Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:22:42.136454Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:20.982250Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:21.007389Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -66,6 +68,24 @@
     [
       "TRANSLATION",
       "spa:hablar"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seit zwanzig Jahren sprechen sie nicht miteinander"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er sollte mit seinem Rechtsanwalt sprechen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Просування",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

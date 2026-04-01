@@ -1,0 +1,35 @@
+{
+  "content": "O valor padrão é zero.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:O"
+    ],
+    [
+      "PART",
+      "por:valor"
+    ],
+    [
+      "PART",
+      "por:padrão"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:zero"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.555213Z": "SPLIT_DONE"
+  }
+}

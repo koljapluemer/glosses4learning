@@ -1,0 +1,31 @@
+{
+  "content": "Le parole sono polisemiche.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Le"
+    ],
+    [
+      "PART",
+      "ita:parole"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:polisemiche"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.651988Z": "SPLIT_DONE"
+  }
+}

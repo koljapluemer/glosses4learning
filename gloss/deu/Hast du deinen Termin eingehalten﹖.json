@@ -1,0 +1,35 @@
+{
+  "content": "Hast du deinen Termin eingehalten?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Hast"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Termin"
+    ],
+    [
+      "PART",
+      "deu:eingehalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.427346Z": "SPLIT_DONE"
+  }
+}

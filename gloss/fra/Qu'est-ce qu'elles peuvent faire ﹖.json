@@ -1,0 +1,31 @@
+{
+  "content": "Qu'est-ce qu'elles peuvent faire ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'elles"
+    ],
+    [
+      "PART",
+      "fra:peuvent"
+    ],
+    [
+      "PART",
+      "fra:faire"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.145658Z": "SPLIT_DONE"
+  }
+}

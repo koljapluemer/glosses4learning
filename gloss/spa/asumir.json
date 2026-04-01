@@ -1,0 +1,33 @@
+{
+  "content": "asumir",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No puedes asumir simplemente eso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:assume",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nehmen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Прийняти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.503179Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.516568Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.532500Z": "TRANSLATION_DONE:ukr"
+  }
+}

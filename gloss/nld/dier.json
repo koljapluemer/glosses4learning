@@ -1,0 +1,25 @@
+{
+  "content": "dier",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Het paard is een gedomesticeerd dier"
+    ],
+    [
+      "TRANSLATION",
+      "eng:animal",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:De mens is het enige dier dat gebruikmaakt van vuur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:53.637648Z": "TRANSLATION_DONE:eng"
+  }
+}

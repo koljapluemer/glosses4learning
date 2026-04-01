@@ -1,0 +1,37 @@
+{
+  "content": "esperaron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los votantes esperaron en colas interminables"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos votantes esperaron por horas para votar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They've been waiting",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie haben gewartet",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони чекали",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:05.393019Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:05.415404Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:05.443593Z": "TRANSLATION_DONE:ukr"
+  }
+}

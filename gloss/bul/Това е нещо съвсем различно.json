@@ -1,0 +1,35 @@
+{
+  "content": "Това е нещо съвсем различно.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Това"
+    ],
+    [
+      "PART",
+      "bul:е"
+    ],
+    [
+      "PART",
+      "bul:нещо"
+    ],
+    [
+      "PART",
+      "bul:съвсем"
+    ],
+    [
+      "PART",
+      "bul:различно"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:56.609504Z": "SPLIT_DONE"
+  }
+}

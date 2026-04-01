@@ -1,0 +1,31 @@
+{
+  "content": "Qu'est-ce qu'ils sont devenus ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:devenus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.556160Z": "SPLIT_DONE"
+  }
+}

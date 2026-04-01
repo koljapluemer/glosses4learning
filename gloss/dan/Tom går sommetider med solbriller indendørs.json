@@ -1,0 +1,39 @@
+{
+  "content": "Tom går sommetider med solbriller indendørs.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:går"
+    ],
+    [
+      "PART",
+      "dan:sommetider"
+    ],
+    [
+      "PART",
+      "dan:med"
+    ],
+    [
+      "PART",
+      "dan:solbriller"
+    ],
+    [
+      "PART",
+      "dan:indendørs"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.540786Z": "SPLIT_DONE"
+  }
+}

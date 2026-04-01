@@ -1,0 +1,39 @@
+{
+  "content": "J'ai seulement besoin de quelques informations.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'ai"
+    ],
+    [
+      "PART",
+      "fra:seulement"
+    ],
+    [
+      "PART",
+      "fra:besoin"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:quelques"
+    ],
+    [
+      "PART",
+      "fra:informations"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.293256Z": "SPLIT_DONE"
+  }
+}

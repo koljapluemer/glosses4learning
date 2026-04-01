@@ -1,0 +1,43 @@
+{
+  "content": "Я не думаю, что это вина Тома.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by scriptin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:думаю"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:вина"
+    ],
+    [
+      "PART",
+      "rus:Тома"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.281514Z": "SPLIT_DONE"
+  }
+}

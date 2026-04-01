@@ -1,0 +1,27 @@
+{
+  "content": "camionnettes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les deux camionnettes se sont rentrées dedans"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vans",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vans",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:14.736678Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:14.880089Z": "TRANSLATION_DONE:deu"
+  }
+}

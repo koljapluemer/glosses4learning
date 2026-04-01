@@ -1,0 +1,37 @@
+{
+  "content": "entretenimiento",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos odian la música, pero adoran el entretenimiento"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El fútbol es el entretenimiento favorito de los brasileños"
+    ],
+    [
+      "TRANSLATION",
+      "eng:entertainment",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unterhaltung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:розваги",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:48.131519Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:48.154940Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:48.303849Z": "TRANSLATION_DONE:ukr"
+  }
+}

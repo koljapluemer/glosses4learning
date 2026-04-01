@@ -1,0 +1,35 @@
+{
+  "content": "Byl jsem pozván do Bostonu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lovermann (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Byl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:pozván"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:Bostonu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.655534Z": "SPLIT_DONE"
+  }
+}

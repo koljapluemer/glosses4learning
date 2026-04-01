@@ -1,0 +1,27 @@
+{
+  "content": "sidder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg sidder lige nu og drikker en øl"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sitting",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sitzung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:27.006361Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:27.049348Z": "TRANSLATION_DONE:deu"
+  }
+}

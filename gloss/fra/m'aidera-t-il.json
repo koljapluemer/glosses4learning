@@ -1,0 +1,27 @@
+{
+  "content": "m'aidera-t-il",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un ne m'aidera-t-il donc pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Will he help me﹖",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilft er mir﹖",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:35.223760Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:35.241750Z": "TRANSLATION_DONE:deu"
+  }
+}

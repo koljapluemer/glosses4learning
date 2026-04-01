@@ -10,7 +10,8 @@
     "2026-03-29T14:21:35.596672Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:21:35.807633Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:21:36.014356Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:21:36.240804Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:21:36.240804Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:20.662511Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,11 @@
     [
       "TRANSLATION",
       "tur:Televizyon"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Телевізор",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

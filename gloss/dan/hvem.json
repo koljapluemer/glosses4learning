@@ -1,0 +1,43 @@
+{
+  "content": "hvem",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg så ikke hvem der kørte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kan du gætte hvem der kommer til middag i aften﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvis du ikke ved det, hvem gør så﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:who",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er fuldstændig ligeglad med hvem der vinder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er ligeglad med hvem der vinder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:37.738094Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:37.878244Z": "TRANSLATION_DONE:deu"
+  }
+}

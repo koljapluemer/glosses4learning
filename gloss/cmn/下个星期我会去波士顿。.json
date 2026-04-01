@@ -1,0 +1,35 @@
+{
+  "content": "下个星期我会去波士顿。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BobbyLee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:下个星期"
+    ],
+    [
+      "PART",
+      "cmn:我会"
+    ],
+    [
+      "PART",
+      "cmn:去"
+    ],
+    [
+      "PART",
+      "cmn:波士顿"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.617140Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Du solltest deiner Pflicht nachkommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:solltest"
+    ],
+    [
+      "PART",
+      "deu:deiner"
+    ],
+    [
+      "PART",
+      "deu:Pflicht"
+    ],
+    [
+      "PART",
+      "deu:nachkommen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.875472Z": "SPLIT_DONE"
+  }
+}

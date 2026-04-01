@@ -1,0 +1,35 @@
+{
+  "content": "Tomnak franciául kellett volna beszélnie.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by H_Liliom (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tomnak"
+    ],
+    [
+      "PART",
+      "hun:franciául"
+    ],
+    [
+      "PART",
+      "hun:kellett"
+    ],
+    [
+      "PART",
+      "hun:volna"
+    ],
+    [
+      "PART",
+      "hun:beszélnie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.888083Z": "SPLIT_DONE"
+  }
+}

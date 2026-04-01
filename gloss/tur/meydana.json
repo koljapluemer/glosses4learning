@@ -1,0 +1,27 @@
+{
+  "content": "meydana",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun neden meydana geldiğini artık biliyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Challenge  a",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Herausforderung",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:33.992909Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:34.005823Z": "TRANSLATION_DONE:deu"
+  }
+}

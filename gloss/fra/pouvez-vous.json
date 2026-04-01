@@ -1,0 +1,27 @@
+{
+  "content": "pouvez-vous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ne pouvez-vous pas comprendre que c'est impossible ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can you",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Können Sie﹖",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:45.585360Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:45.726998Z": "TRANSLATION_DONE:deu"
+  }
+}

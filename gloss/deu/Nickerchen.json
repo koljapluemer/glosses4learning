@@ -9,7 +9,9 @@
     "2026-03-29T13:14:36.856273Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:37.060211Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:37.270451Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:37.482681Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:37.482681Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:50.413031Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:50.561990Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:Öğle ara dinmesi"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Нікер",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -7,7 +7,9 @@
     "2025-12-12T14:20:36.917415Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
     "2026-03-29T13:17:02.562304Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:02.741818Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:17:02.929009Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:17:02.929009Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:38.461409Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:38.611217Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -96,6 +98,24 @@
     [
       "TRANSLATION",
       "spa:también"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Weine doch nicht! Ich muss auch noch das Weinen anfangen, wenn du weinst"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:також",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:또한,",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:занадто"
     ]
   ]
 }

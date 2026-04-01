@@ -1,0 +1,33 @@
+{
+  "content": "Wundervolleres",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Etwas Wundervolleres kann ich mir überhaupt nicht vorstellen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:More beautiful",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Красивий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:더 아름다운",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:34.991372Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:35.008363Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:35.157786Z": "TRANSLATION_DONE:kor"
+  }
+}

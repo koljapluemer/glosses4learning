@@ -1,0 +1,27 @@
+{
+  "content": "Vidste",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vidste du at Tom studerede jura﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Known",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bekannt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:15.329326Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:15.360112Z": "TRANSLATION_DONE:deu"
+  }
+}

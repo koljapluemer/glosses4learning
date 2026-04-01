@@ -1,0 +1,33 @@
+{
+  "content": "resultado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están contentos con el resultado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:outcome",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ergebnis",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:результат",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:15.074424Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:15.220614Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:15.235714Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Cur struthiocamelus volare non potest?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Cur"
+    ],
+    [
+      "PART",
+      "lat:struthiocamelus"
+    ],
+    [
+      "PART",
+      "lat:volare"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.302433Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jag flyttar inte på mig.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:flyttar"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.817109Z": "SPLIT_DONE"
+  }
+}

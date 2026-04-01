@@ -1,0 +1,33 @@
+{
+  "content": "Sam",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sam hat nicht auf meine Nachricht geantwortet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Same",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Натюрморт",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:57.353149Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:57.373724Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:57.392367Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "betaler",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg betaler med dette betalingskort"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det betaler sig ikke at spise tastaturet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pays",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zahlungen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:49.066359Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:49.205738Z": "TRANSLATION_DONE:deu"
+  }
+}

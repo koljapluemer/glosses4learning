@@ -10,7 +10,8 @@
     "2026-03-29T14:25:13.057827Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:25:13.232316Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:25:13.388495Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:25:13.578720Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:25:13.578720Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:13.082992Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -64,6 +65,23 @@
     [
       "TRANSLATION",
       "tur:benim"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La habitación de mi hermano siempre está desordenada"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, mi padre no está en casa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo estoy contento de que Mary no sea mi esposa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Моя",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

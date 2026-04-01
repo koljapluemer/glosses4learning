@@ -1,0 +1,27 @@
+{
+  "content": "besluttet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi har besluttet at tage ingen steder hen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:decided",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Entscheidung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:18.611467Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:18.637772Z": "TRANSLATION_DONE:deu"
+  }
+}

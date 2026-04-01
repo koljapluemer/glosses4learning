@@ -1,0 +1,31 @@
+{
+  "content": "Jag tycker om lasagne.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:tycker"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:lasagne"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.809082Z": "SPLIT_DONE"
+  }
+}

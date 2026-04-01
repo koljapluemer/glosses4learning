@@ -1,0 +1,39 @@
+{
+  "content": "På hvilken planet befinder du dig?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:På"
+    ],
+    [
+      "PART",
+      "dan:hvilken"
+    ],
+    [
+      "PART",
+      "dan:planet"
+    ],
+    [
+      "PART",
+      "dan:befinder"
+    ],
+    [
+      "PART",
+      "dan:du"
+    ],
+    [
+      "PART",
+      "dan:dig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.728957Z": "SPLIT_DONE"
+  }
+}

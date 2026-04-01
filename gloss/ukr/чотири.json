@@ -1,0 +1,27 @@
+{
+  "content": "чотири",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви заплатили йому чотири долари"
+    ],
+    [
+      "TRANSLATION",
+      "eng:four",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vier",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:16.680796Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:16.694782Z": "TRANSLATION_DONE:deu"
+  }
+}

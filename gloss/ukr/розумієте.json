@@ -1,0 +1,27 @@
+{
+  "content": "розумієте",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо ви не розумієте, запитайте"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you understand",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ihr versteht",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:04.600295Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:04.615921Z": "TRANSLATION_DONE:deu"
+  }
+}

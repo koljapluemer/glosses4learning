@@ -1,0 +1,35 @@
+{
+  "content": "ненавидиш",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми розуміємо, що ти ненавидиш Тома"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you hate",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du hasst",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знаю, що ти ненавидиш інститут"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені здавалося, що ти його ненавидиш"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:03.378189Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:03.396182Z": "TRANSLATION_DONE:deu"
+  }
+}

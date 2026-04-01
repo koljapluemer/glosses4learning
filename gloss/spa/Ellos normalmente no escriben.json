@@ -1,0 +1,31 @@
+{
+  "content": "Ellos normalmente no escriben.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Lernema (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:normalmente"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:escriben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.748614Z": "SPLIT_DONE"
+  }
+}

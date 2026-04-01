@@ -1,0 +1,27 @@
+{
+  "content": "зустрічалася",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Лейла зустрічалася з іншими чоловіками"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was dating",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich war da",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:58.975077Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:58.996604Z": "TRANSLATION_DONE:deu"
+  }
+}

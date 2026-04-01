@@ -1,0 +1,31 @@
+{
+  "content": "Přijel jsem domů autobusem.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Přijel"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:domů"
+    ],
+    [
+      "PART",
+      "ces:autobusem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.656638Z": "SPLIT_DONE"
+  }
+}

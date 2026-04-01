@@ -1,0 +1,35 @@
+{
+  "content": "Poważna awaria spowodowała zatrzymanie samochodu.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by qmak (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Poważna"
+    ],
+    [
+      "PART",
+      "pol:awaria"
+    ],
+    [
+      "PART",
+      "pol:spowodowała"
+    ],
+    [
+      "PART",
+      "pol:zatrzymanie"
+    ],
+    [
+      "PART",
+      "pol:samochodu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.247026Z": "SPLIT_DONE"
+  }
+}

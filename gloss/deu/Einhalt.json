@@ -1,0 +1,33 @@
+{
+  "content": "Einhalt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es ist an der Zeit, diesem Spiel mit dem Feuer Einhalt zu gebieten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Content",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зміст",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:18.234963Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:18.256162Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:18.321201Z": "TRANSLATION_DONE:kor"
+  }
+}

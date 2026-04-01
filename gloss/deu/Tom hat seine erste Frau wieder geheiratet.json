@@ -1,0 +1,43 @@
+{
+  "content": "Tom hat seine erste Frau wieder geheiratet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:erste"
+    ],
+    [
+      "PART",
+      "deu:Frau"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:geheiratet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.488156Z": "SPLIT_DONE"
+  }
+}

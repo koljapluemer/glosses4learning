@@ -1,0 +1,35 @@
+{
+  "content": "Tämä on hänen viimeinen mahdollisuutensa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tämä"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:hänen"
+    ],
+    [
+      "PART",
+      "fin:viimeinen"
+    ],
+    [
+      "PART",
+      "fin:mahdollisuutensa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.000670Z": "SPLIT_DONE"
+  }
+}

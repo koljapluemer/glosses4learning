@@ -8,7 +8,9 @@
     "2026-01-27T14:35:22.740323Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:48.253725Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:48.433750Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:48.622657Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:48.622657Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:14.157721Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:14.178557Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,20 @@
     [
       "TRANSLATION",
       "rus:принимает"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom nimmt das Mittagessen an seinem Schreibtisch ein"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "ทุกวัน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมไม่ได้อยู่ที่นี่ทุกวัน"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณอาบน้ำทุกวันหรือไม่﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Every day",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jeden Tag",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:กรุณาให้อาหารสุนัขทุกวัน"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:15.861967Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:15.880317Z": "TRANSLATION_DONE:deu"
+  }
+}

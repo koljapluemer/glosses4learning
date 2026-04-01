@@ -1,0 +1,55 @@
+{
+  "content": "Tom wird heute Abend bestimmt die ganze Zeit hier sein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:wird"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:Abend"
+    ],
+    [
+      "PART",
+      "deu:bestimmt"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:ganze"
+    ],
+    [
+      "PART",
+      "deu:Zeit"
+    ],
+    [
+      "PART",
+      "deu:hier"
+    ],
+    [
+      "PART",
+      "deu:sein"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.327495Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "finalmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El Congreso finalmente aprobó las propuestas de Wilson"
+    ],
+    [
+      "TRANSLATION",
+      "eng:finally",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:endlich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella finalmente encontró sus llaves perdidas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:54.885924Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:54.926189Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:54.958676Z": "TRANSLATION_DONE:ukr"
+  }
+}

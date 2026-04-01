@@ -1,0 +1,39 @@
+{
+  "content": "Ellos no están en esa reunión.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Schuager (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:esa"
+    ],
+    [
+      "PART",
+      "spa:reunión"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.728179Z": "SPLIT_DONE"
+  }
+}

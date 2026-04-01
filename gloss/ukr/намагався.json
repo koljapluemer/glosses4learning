@@ -1,0 +1,39 @@
+{
+  "content": "намагався",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том намагався розмішити Мері"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том навіть не намагався"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tried",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:versucht",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я намагався бути таким, як ви"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я вже намагався це зробити"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:02.877769Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:02.892298Z": "TRANSLATION_DONE:deu"
+  }
+}

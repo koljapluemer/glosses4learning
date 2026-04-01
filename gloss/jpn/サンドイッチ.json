@@ -1,0 +1,29 @@
+{
+  "content": "サンドイッチ",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:マリアは卵のサンドイッチをいくつか作った。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sandwich",
+      "Auto-translated with argostranslate (ja→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:彼女は、彼がサンドイッチを食べているところを見た。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:ジョージのお姉さんは私にサンドイッチを作ってくれた。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:38.357336Z": "TRANSLATION_DONE:eng"
+  }
+}

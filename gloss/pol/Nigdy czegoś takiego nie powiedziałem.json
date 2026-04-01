@@ -1,0 +1,35 @@
+{
+  "content": "Nigdy czegoś takiego nie powiedziałem.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Goracykabanos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nigdy"
+    ],
+    [
+      "PART",
+      "pol:czegoś"
+    ],
+    [
+      "PART",
+      "pol:takiego"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:powiedziałem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.294535Z": "SPLIT_DONE"
+  }
+}

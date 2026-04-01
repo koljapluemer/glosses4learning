@@ -1,0 +1,31 @@
+{
+  "content": "d'attente",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Excusez-moi, c'est pour quoi cette file d'attente ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:waiting period",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wartezeit",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Une file d'attente s'est formée devant le magasin"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:18.648037Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:18.789060Z": "TRANSLATION_DONE:deu"
+  }
+}

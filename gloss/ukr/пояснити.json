@@ -1,0 +1,31 @@
+{
+  "content": "пояснити",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Як мені це пояснити﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Explain",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erklären",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви можете пояснити, що це означає﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:07.059576Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:07.077223Z": "TRANSLATION_DONE:deu"
+  }
+}

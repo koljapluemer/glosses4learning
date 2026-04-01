@@ -1,0 +1,47 @@
+{
+  "content": "Tom đã dự đoán rằng Mary sẽ thắng.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by chaule3 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:đã"
+    ],
+    [
+      "PART",
+      "vie:dự"
+    ],
+    [
+      "PART",
+      "vie:đoán"
+    ],
+    [
+      "PART",
+      "vie:rằng"
+    ],
+    [
+      "PART",
+      "vie:Mary"
+    ],
+    [
+      "PART",
+      "vie:sẽ"
+    ],
+    [
+      "PART",
+      "vie:thắng"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.085113Z": "SPLIT_DONE"
+  }
+}

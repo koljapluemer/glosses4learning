@@ -1,0 +1,47 @@
+{
+  "content": "Tom sade till Mary att han var upptagen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Nour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:sade"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:Mary"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:var"
+    ],
+    [
+      "PART",
+      "swe:upptagen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.962394Z": "SPLIT_DONE"
+  }
+}

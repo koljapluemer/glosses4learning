@@ -1,0 +1,27 @@
+{
+  "content": "разу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цього разу тобі не можна запізнюватися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:once",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einmal",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:04.296534Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:04.310269Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Wir werden gleich nach dem Abendessen abreisen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:werden"
+    ],
+    [
+      "PART",
+      "deu:gleich"
+    ],
+    [
+      "PART",
+      "deu:nach"
+    ],
+    [
+      "PART",
+      "deu:dem"
+    ],
+    [
+      "PART",
+      "deu:Abendessen"
+    ],
+    [
+      "PART",
+      "deu:abreisen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.854753Z": "SPLIT_DONE"
+  }
+}

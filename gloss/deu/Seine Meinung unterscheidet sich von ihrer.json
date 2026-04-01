@@ -1,0 +1,39 @@
+{
+  "content": "Seine Meinung unterscheidet sich von ihrer.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sudajaengi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Seine"
+    ],
+    [
+      "PART",
+      "deu:Meinung"
+    ],
+    [
+      "PART",
+      "deu:unterscheidet"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:ihrer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.506512Z": "SPLIT_DONE"
+  }
+}

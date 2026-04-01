@@ -1,0 +1,33 @@
+{
+  "content": "per",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom versuchte sich einmal im Reisen per Anhalter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:per",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당첨",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:15.431635Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:15.449042Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:15.469443Z": "TRANSLATION_DONE:kor"
+  }
+}

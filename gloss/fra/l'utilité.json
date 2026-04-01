@@ -1,0 +1,27 @@
+{
+  "content": "l'utilité",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelle est l'utilité d'une discussion ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:utility",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dienstprogramm",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:33.267684Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:33.299405Z": "TRANSLATION_DONE:deu"
+  }
+}

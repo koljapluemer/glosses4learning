@@ -1,0 +1,37 @@
+{
+  "content": "dijeron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos me lo dijeron unos días antes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos dijeron que él se portó vergonzosamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They said",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie sagten﹕",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони сказали",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.561905Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.596312Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.612287Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Ο Tom δεν καπνίζει πια.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ciccione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Ο"
+    ],
+    [
+      "PART",
+      "ell:Tom"
+    ],
+    [
+      "PART",
+      "ell:δεν"
+    ],
+    [
+      "PART",
+      "ell:καπνίζει"
+    ],
+    [
+      "PART",
+      "ell:πια"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.899552Z": "SPLIT_DONE"
+  }
+}

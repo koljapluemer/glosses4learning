@@ -1,0 +1,43 @@
+{
+  "content": "Comment se sont passées tes vacances d'été ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by slist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:passées"
+    ],
+    [
+      "PART",
+      "fra:tes"
+    ],
+    [
+      "PART",
+      "fra:vacances"
+    ],
+    [
+      "PART",
+      "fra:d'été"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.637730Z": "SPLIT_DONE"
+  }
+}

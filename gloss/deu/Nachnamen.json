@@ -1,0 +1,33 @@
+{
+  "content": "Nachnamen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich kann deinen Nachnamen nicht richtig betont aussprechen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Surname",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ім'я",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:56.541342Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:56.574042Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:56.589543Z": "TRANSLATION_DONE:kor"
+  }
+}

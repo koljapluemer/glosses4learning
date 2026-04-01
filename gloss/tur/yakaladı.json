@@ -13,6 +13,27 @@
     [
       "TRANSLATION",
       "spa:detuvo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un sorusu Mary'yi tamamen hazırlıksız yakaladı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:caught",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefangen",
+      "Auto-translated with argostranslate (tr→en→de)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.928874Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.943500Z": "TRANSLATION_DONE:deu"
+  }
 }

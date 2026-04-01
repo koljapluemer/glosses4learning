@@ -1,0 +1,33 @@
+{
+  "content": "contigo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no puedes llevarlo contigo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:with you",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mit dir",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з вами",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.904915Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.917813Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.931680Z": "TRANSLATION_DONE:ukr"
+  }
+}

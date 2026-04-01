@@ -1,0 +1,31 @@
+{
+  "content": "Hvem snakker jeg med?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gurobu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvem"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ],
+    [
+      "PART",
+      "nob:jeg"
+    ],
+    [
+      "PART",
+      "nob:med"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.298029Z": "SPLIT_DONE"
+  }
+}

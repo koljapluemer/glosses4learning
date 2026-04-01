@@ -1,0 +1,35 @@
+{
+  "content": "Quid est nomen tibi, interrogavi.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Quid"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:nomen"
+    ],
+    [
+      "PART",
+      "lat:tibi"
+    ],
+    [
+      "PART",
+      "lat:interrogavi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.329841Z": "SPLIT_DONE"
+  }
+}

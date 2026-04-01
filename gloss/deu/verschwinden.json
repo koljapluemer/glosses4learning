@@ -1,0 +1,33 @@
+{
+  "content": "verschwinden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe denen gesagt, dass sie verschwinden sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:disappear",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зникнути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:38.479637Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:38.497373Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:38.652097Z": "TRANSLATION_DONE:kor"
+  }
+}

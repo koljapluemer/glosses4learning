@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:16:03.559Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -19,6 +21,30 @@
     [
       "TRANSLATION",
       "eng:to tell"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Próbowałem powiedzieć Tomowi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom powinien powiedzieć Mary, że jest zmęczony"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Pójdę powiedzieć jej, że jesteśmy gotowi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Dlaczego mielibyście coś takiego powiedzieć﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czy ktoś jeszcze chce coś powiedzieć﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jak możesz powiedzieć coś takiego﹖"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "I morgon bitti börjar vi.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jimmyrhcp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:I"
+    ],
+    [
+      "PART",
+      "swe:morgon"
+    ],
+    [
+      "PART",
+      "swe:bitti"
+    ],
+    [
+      "PART",
+      "swe:börjar"
+    ],
+    [
+      "PART",
+      "swe:vi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.826566Z": "SPLIT_DONE"
+  }
+}

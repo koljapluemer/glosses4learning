@@ -10,7 +10,8 @@
     "2026-03-29T14:24:32.725721Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:32.899672Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:33.085777Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:33.258487Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:33.258487Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:03.894635Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -56,6 +57,19 @@
     [
       "TRANSLATION",
       "tur:önemlidir"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A ellos realmente no les importa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що стосується",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso es porque a ellos no les importa"
     ]
   ]
 }

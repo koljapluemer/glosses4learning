@@ -13,6 +13,37 @@
     [
       "TRANSLATION",
       "spa:pudo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich konnte die Zwillinge nicht auseinanderhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Antwort konnte man nicht verstehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:could have been",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чи можна було",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:수 있습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:38:06.673051Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:06.691155Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:06.707488Z": "TRANSLATION_DONE:kor"
+  }
 }

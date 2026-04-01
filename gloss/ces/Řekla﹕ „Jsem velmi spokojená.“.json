@@ -1,0 +1,31 @@
+{
+  "content": "Řekla: „Jsem velmi spokojená.“",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lalaith (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Řekla"
+    ],
+    [
+      "PART",
+      "ces:Jsem"
+    ],
+    [
+      "PART",
+      "ces:velmi"
+    ],
+    [
+      "PART",
+      "ces:spokojená"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.727704Z": "SPLIT_DONE"
+  }
+}

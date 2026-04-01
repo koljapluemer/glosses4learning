@@ -1,0 +1,41 @@
+{
+  "content": "comen",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos animales, como los tigres, comen carne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They eat",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie essen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Їжа",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos animales se comen a sus crías"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los occidentales no comen pescado crudo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:34.133294Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:34.147955Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:34.163590Z": "TRANSLATION_DONE:ukr"
+  }
+}

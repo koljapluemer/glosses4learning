@@ -1,0 +1,43 @@
+{
+  "content": "Aujourd'hui, c'est l'anniversaire de mariage de mes parents.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Aujourd'hui"
+    ],
+    [
+      "PART",
+      "fra:c'est"
+    ],
+    [
+      "PART",
+      "fra:l'anniversaire"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:mariage"
+    ],
+    [
+      "PART",
+      "fra:mes"
+    ],
+    [
+      "PART",
+      "fra:parents"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.148004Z": "SPLIT_DONE"
+  }
+}

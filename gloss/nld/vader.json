@@ -1,0 +1,25 @@
+{
+  "content": "vader",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mijn vader werd gisteren opgenomen in het ziekenhuis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik weet zeker dat je mijn vader hebt gekend"
+    ],
+    [
+      "TRANSLATION",
+      "eng:father",
+      "Auto-translated with argostranslate (nl→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:27.112427Z": "TRANSLATION_DONE:eng"
+  }
+}

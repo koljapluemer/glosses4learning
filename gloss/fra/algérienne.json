@@ -1,0 +1,27 @@
+{
+  "content": "algérienne",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Qu'est-ce qui a paralysé l'économie algérienne ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Algeria",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Algerien",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:31.174592Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:31.187108Z": "TRANSLATION_DONE:deu"
+  }
+}

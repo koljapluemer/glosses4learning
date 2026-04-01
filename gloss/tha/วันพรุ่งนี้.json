@@ -1,0 +1,31 @@
+{
+  "content": "วันพรุ่งนี้",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:การประชุมจะมีขึ้นในวันพรุ่งนี้"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tomorrow",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Morgen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:วันพรุ่งนี้เขาจะเดินทางออกจากชิคาโก้"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:17.795174Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:17.812302Z": "TRANSLATION_DONE:deu"
+  }
+}

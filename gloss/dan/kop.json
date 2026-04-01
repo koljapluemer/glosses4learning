@@ -1,0 +1,27 @@
+{
+  "content": "kop",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor taler vi ikke sammen over en kop kaffe﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cup",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tassen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:32.016966Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:32.183996Z": "TRANSLATION_DONE:deu"
+  }
+}

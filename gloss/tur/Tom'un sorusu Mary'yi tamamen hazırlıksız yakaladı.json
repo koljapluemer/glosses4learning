@@ -1,0 +1,39 @@
+{
+  "content": "Tom'un sorusu Mary'yi tamamen hazırlıksız yakaladı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:sorusu"
+    ],
+    [
+      "PART",
+      "tur:Mary'yi"
+    ],
+    [
+      "PART",
+      "tur:tamamen"
+    ],
+    [
+      "PART",
+      "tur:hazırlıksız"
+    ],
+    [
+      "PART",
+      "tur:yakaladı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.365476Z": "SPLIT_DONE"
+  }
+}

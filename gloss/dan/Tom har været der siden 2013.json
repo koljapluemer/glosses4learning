@@ -1,0 +1,39 @@
+{
+  "content": "Tom har været der siden 2013.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:været"
+    ],
+    [
+      "PART",
+      "dan:der"
+    ],
+    [
+      "PART",
+      "dan:siden"
+    ],
+    [
+      "PART",
+      "dan:2013"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.793537Z": "SPLIT_DONE"
+  }
+}

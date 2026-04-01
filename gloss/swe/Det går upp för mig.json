@@ -1,0 +1,35 @@
+{
+  "content": "Det går upp för mig.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by freddy1 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:går"
+    ],
+    [
+      "PART",
+      "swe:upp"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.815752Z": "SPLIT_DONE"
+  }
+}

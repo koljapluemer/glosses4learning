@@ -1,0 +1,27 @@
+{
+  "content": "пішла",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я пішла до школи разом із Томом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:gone",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weg",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:09.195039Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:09.206855Z": "TRANSLATION_DONE:deu"
+  }
+}

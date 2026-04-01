@@ -1,0 +1,35 @@
+{
+  "content": "Ми не дуже подобаємося Тому.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Ми"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:дуже"
+    ],
+    [
+      "PART",
+      "ukr:подобаємося"
+    ],
+    [
+      "PART",
+      "ukr:Тому"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:59.001023Z": "SPLIT_DONE"
+  }
+}

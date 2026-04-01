@@ -1,0 +1,33 @@
+{
+  "content": "delante",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él caminó vigorosamente delante de nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ahead",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weiter",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:40.831128Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:40.845568Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:40.865561Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom vet hva som ville skje.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:hva"
+    ],
+    [
+      "PART",
+      "nob:som"
+    ],
+    [
+      "PART",
+      "nob:ville"
+    ],
+    [
+      "PART",
+      "nob:skje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.321202Z": "SPLIT_DONE"
+  }
+}

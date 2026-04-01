@@ -1,0 +1,33 @@
+{
+  "content": "Blödmann",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wie ich schon gesagt habe﹕ Du bist ein Blödmann!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Son of a bitch",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Син укусу",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:아들 의 a 큰",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.871551Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.889652Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.911005Z": "TRANSLATION_DONE:kor"
+  }
+}

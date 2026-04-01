@@ -1,0 +1,47 @@
+{
+  "content": "這隻熊正在吃一個蘋果。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:這"
+    ],
+    [
+      "PART",
+      "cmn:隻"
+    ],
+    [
+      "PART",
+      "cmn:熊"
+    ],
+    [
+      "PART",
+      "cmn:正在"
+    ],
+    [
+      "PART",
+      "cmn:吃"
+    ],
+    [
+      "PART",
+      "cmn:一個"
+    ],
+    [
+      "PART",
+      "cmn:蘋果"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:21.818221Z": "SPLIT_DONE"
+  }
+}

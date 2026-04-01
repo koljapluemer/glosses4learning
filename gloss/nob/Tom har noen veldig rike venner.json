@@ -1,0 +1,39 @@
+{
+  "content": "Tom har noen veldig rike venner.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:noen"
+    ],
+    [
+      "PART",
+      "nob:veldig"
+    ],
+    [
+      "PART",
+      "nob:rike"
+    ],
+    [
+      "PART",
+      "nob:venner"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.347072Z": "SPLIT_DONE"
+  }
+}

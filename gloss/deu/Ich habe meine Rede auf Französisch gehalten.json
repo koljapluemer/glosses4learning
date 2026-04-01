@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe meine Rede auf Französisch gehalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Rede"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:Französisch"
+    ],
+    [
+      "PART",
+      "deu:gehalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.304539Z": "SPLIT_DONE"
+  }
+}

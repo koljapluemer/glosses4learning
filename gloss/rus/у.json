@@ -6,7 +6,9 @@
     "2025-12-16T14:26:46.624Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:27:06.797Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -36,6 +38,18 @@
     [
       "TRANSLATION",
       "fra:chez"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я видел, что у Тома проблемы"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Наверное, поэтому у меня до сих пор и нет никого"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Она сказала мне, чтобы я спросил у него"
     ]
   ]
 }

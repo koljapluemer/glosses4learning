@@ -1,0 +1,35 @@
+{
+  "content": "Jeg drikker vin i weekenderne.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:drikker"
+    ],
+    [
+      "PART",
+      "dan:vin"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:weekenderne"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.036876Z": "SPLIT_DONE"
+  }
+}

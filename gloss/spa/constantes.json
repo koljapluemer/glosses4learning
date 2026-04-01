@@ -1,0 +1,33 @@
+{
+  "content": "constantes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las leyes no pueden ser constantes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:constant",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:konstant",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:константи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.491770Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.504707Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.520901Z": "TRANSLATION_DONE:ukr"
+  }
+}

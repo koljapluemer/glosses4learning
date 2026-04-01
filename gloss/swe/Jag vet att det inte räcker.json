@@ -1,0 +1,39 @@
+{
+  "content": "Jag vet att det inte räcker.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:vet"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:räcker"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.818107Z": "SPLIT_DONE"
+  }
+}

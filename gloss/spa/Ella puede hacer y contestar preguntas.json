@@ -1,0 +1,39 @@
+{
+  "content": "Ella puede hacer y contestar preguntas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by newyears1985 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:puede"
+    ],
+    [
+      "PART",
+      "spa:hacer"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:contestar"
+    ],
+    [
+      "PART",
+      "spa:preguntas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.727311Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "trænet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er endnu ikke blevet trænet i at sidde på potte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:trained",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ausbildung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:49.854478Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:49.993486Z": "TRANSLATION_DONE:deu"
+  }
+}

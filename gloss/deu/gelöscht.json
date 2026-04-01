@@ -1,0 +1,33 @@
+{
+  "content": "gelöscht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe meinen Kommentar wieder gelöscht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deleted",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:видалення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:36.233533Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:36.374997Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:36.521067Z": "TRANSLATION_DONE:kor"
+  }
+}

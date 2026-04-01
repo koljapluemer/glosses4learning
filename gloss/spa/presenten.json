@@ -1,0 +1,37 @@
+{
+  "content": "presenten",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Diles que se presenten ellos mismos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:submitted",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eingereicht",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Подати заявку",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Dile a ellos que se presenten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:25.610449Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.623460Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.641266Z": "TRANSLATION_DONE:ukr"
+  }
+}

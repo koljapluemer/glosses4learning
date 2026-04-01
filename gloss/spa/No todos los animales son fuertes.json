@@ -1,0 +1,39 @@
+{
+  "content": "No todos los animales son fuertes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:No"
+    ],
+    [
+      "PART",
+      "spa:todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:fuertes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.652853Z": "SPLIT_DONE"
+  }
+}

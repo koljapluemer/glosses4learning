@@ -1,0 +1,27 @@
+{
+  "content": "latinske",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke det latinske sprog"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Latin",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Laien",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:50.574610Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:50.726127Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "muero",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Les tengo un miedo a las serpientes que me muero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I die",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich sterbe",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вмирає",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:16.503516Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:16.523233Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:16.546811Z": "TRANSLATION_DONE:ukr"
+  }
+}

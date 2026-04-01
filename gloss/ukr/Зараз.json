@@ -1,0 +1,27 @@
+{
+  "content": "Зараз",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Зараз це насправді не важливо"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Now",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jetzt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:47.460729Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:47.473813Z": "TRANSLATION_DONE:deu"
+  }
+}

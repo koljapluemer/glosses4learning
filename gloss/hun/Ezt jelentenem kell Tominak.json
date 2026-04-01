@@ -1,0 +1,31 @@
+{
+  "content": "Ezt jelentenem kell Tominak.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Ezt"
+    ],
+    [
+      "PART",
+      "hun:jelentenem"
+    ],
+    [
+      "PART",
+      "hun:kell"
+    ],
+    [
+      "PART",
+      "hun:Tominak"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.585420Z": "SPLIT_DONE"
+  }
+}

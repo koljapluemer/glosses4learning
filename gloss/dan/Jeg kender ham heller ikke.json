@@ -1,0 +1,35 @@
+{
+  "content": "Jeg kender ham heller ikke.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kender"
+    ],
+    [
+      "PART",
+      "dan:ham"
+    ],
+    [
+      "PART",
+      "dan:heller"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.041210Z": "SPLIT_DONE"
+  }
+}

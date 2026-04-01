@@ -1,0 +1,31 @@
+{
+  "content": "Odpowiedź Toma mnie zaskoczyła.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jimbojim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Odpowiedź"
+    ],
+    [
+      "PART",
+      "pol:Toma"
+    ],
+    [
+      "PART",
+      "pol:mnie"
+    ],
+    [
+      "PART",
+      "pol:zaskoczyła"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.294908Z": "SPLIT_DONE"
+  }
+}

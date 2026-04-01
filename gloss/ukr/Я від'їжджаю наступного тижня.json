@@ -1,0 +1,31 @@
+{
+  "content": "Я від'їжджаю наступного тижня.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:від'їжджаю"
+    ],
+    [
+      "PART",
+      "ukr:наступного"
+    ],
+    [
+      "PART",
+      "ukr:тижня"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:59.002221Z": "SPLIT_DONE"
+  }
+}

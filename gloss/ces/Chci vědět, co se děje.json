@@ -1,0 +1,35 @@
+{
+  "content": "Chci vědět, co se děje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Chci"
+    ],
+    [
+      "PART",
+      "ces:vědět"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:děje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.780320Z": "SPLIT_DONE"
+  }
+}

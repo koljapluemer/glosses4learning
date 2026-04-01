@@ -1,0 +1,39 @@
+{
+  "content": "ikimiz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben her ikimiz de Fransızca konuşuruz"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben ikimiz de bunu yaptık"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben ikimiz de bunu yapıyoruz"
+    ],
+    [
+      "TRANSLATION",
+      "eng:two",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zwei",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben her ikimiz de hatalar yaptık"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:32.429172Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:32.444833Z": "TRANSLATION_DONE:deu"
+  }
+}

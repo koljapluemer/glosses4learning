@@ -1,0 +1,27 @@
+{
+  "content": "farligt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville aldrig gøre noget så farligt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dangerous",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefährlich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:21.546366Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:21.573097Z": "TRANSLATION_DONE:deu"
+  }
+}

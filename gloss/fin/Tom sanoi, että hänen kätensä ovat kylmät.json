@@ -1,0 +1,43 @@
+{
+  "content": "Tom sanoi, että hänen kätensä ovat kylmät.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:sanoi"
+    ],
+    [
+      "PART",
+      "fin:että"
+    ],
+    [
+      "PART",
+      "fin:hänen"
+    ],
+    [
+      "PART",
+      "fin:kätensä"
+    ],
+    [
+      "PART",
+      "fin:ovat"
+    ],
+    [
+      "PART",
+      "fin:kylmät"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.012529Z": "SPLIT_DONE"
+  }
+}

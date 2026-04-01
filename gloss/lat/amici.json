@@ -1,0 +1,25 @@
+{
+  "content": "amici",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ubi sunt amici mei﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Vicini mei amici mei sunt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:friends",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:43:45.795003Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "這名技師組裝了這台引擎。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:這名"
+    ],
+    [
+      "PART",
+      "cmn:技師"
+    ],
+    [
+      "PART",
+      "cmn:組裝"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:這台"
+    ],
+    [
+      "PART",
+      "cmn:引擎"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.662195Z": "SPLIT_DONE"
+  }
+}

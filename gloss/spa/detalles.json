@@ -1,0 +1,33 @@
+{
+  "content": "detalles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Aquí tenéis algunos detalles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:details",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Details",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Детальніше",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.230127Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.246623Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.263350Z": "TRANSLATION_DONE:ukr"
+  }
+}

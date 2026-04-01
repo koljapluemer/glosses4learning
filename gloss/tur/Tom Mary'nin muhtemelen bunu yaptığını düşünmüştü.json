@@ -1,0 +1,39 @@
+{
+  "content": "Tom Mary'nin muhtemelen bunu yaptığını düşünmüştü.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary'nin"
+    ],
+    [
+      "PART",
+      "tur:muhtemelen"
+    ],
+    [
+      "PART",
+      "tur:bunu"
+    ],
+    [
+      "PART",
+      "tur:yaptığını"
+    ],
+    [
+      "PART",
+      "tur:düşünmüştü"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.612914Z": "SPLIT_DONE"
+  }
+}

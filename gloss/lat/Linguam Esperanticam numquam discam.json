@@ -1,0 +1,31 @@
+{
+  "content": "Linguam Esperanticam numquam discam.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Esperanticam"
+    ],
+    [
+      "PART",
+      "lat:numquam"
+    ],
+    [
+      "PART",
+      "lat:discam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.333855Z": "SPLIT_DONE"
+  }
+}

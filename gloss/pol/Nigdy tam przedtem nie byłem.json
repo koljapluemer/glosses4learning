@@ -1,0 +1,35 @@
+{
+  "content": "Nigdy tam przedtem nie byłem.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rudzielec (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nigdy"
+    ],
+    [
+      "PART",
+      "pol:tam"
+    ],
+    [
+      "PART",
+      "pol:przedtem"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:byłem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.775305Z": "SPLIT_DONE"
+  }
+}

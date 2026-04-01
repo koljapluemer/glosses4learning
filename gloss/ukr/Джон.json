@@ -1,0 +1,27 @@
+{
+  "content": "Джон",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Джон набагато вищий, ніж Мері"
+    ],
+    [
+      "TRANSLATION",
+      "eng:John",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:John",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:47.357890Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:47.372628Z": "TRANSLATION_DONE:deu"
+  }
+}

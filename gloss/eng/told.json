@@ -10,7 +10,9 @@
   ],
   "logs": {
     "2026-03-28T16:29:06.972884Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T16:29:07.888623Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T16:29:07.888623Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:39:22.158179Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:39:22.308313Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -76,6 +78,52 @@
     [
       "USAGE_EXAMPLE",
       "eng:I already told you no"
+    ],
+    [
+      "TRANSLATION",
+      "dan:fortalt"
+    ],
+    [
+      "TRANSLATION",
+      "dan:fortalte"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "fin:kertonut"
+    ],
+    [
+      "TRANSLATION",
+      "nld:verteld"
+    ],
+    [
+      "TRANSLATION",
+      "nld:vertelde"
+    ],
+    [
+      "TRANSLATION",
+      "nld:vertelden"
+    ],
+    [
+      "TRANSLATION",
+      "swe:berättade"
+    ],
+    [
+      "TRANSLATION",
+      "gos:tèlde"
+    ],
+    [
+      "TRANSLATION",
+      "gos:zegd"
     ]
   ]
 }

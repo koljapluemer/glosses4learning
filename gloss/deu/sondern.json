@@ -9,7 +9,9 @@
     "2026-03-29T13:22:38.978283Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:39.182876Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:22:39.345456Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:22:39.508604Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:22:39.508604Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:20.664989Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:20.679079Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,16 @@
     [
       "TRANSLATION",
       "tur:ama"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:але",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그러나",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

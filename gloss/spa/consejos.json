@@ -2,8 +2,13 @@
   "content": "consejos",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T13:54:01.165665Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.188468Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -13,6 +18,20 @@
     [
       "TRANSLATION",
       "eng:recommendations"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hasta los idiotas te pueden dar buenos consejos"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beratung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:поради",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

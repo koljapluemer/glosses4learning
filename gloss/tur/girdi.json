@@ -1,0 +1,31 @@
+{
+  "content": "girdi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin kazanmayacağı konusunda benimle bahse girdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Home",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin ağlamayacağı konusunda benimle iddiaya girdi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:30.778176Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:30.814511Z": "TRANSLATION_DONE:deu"
+  }
+}

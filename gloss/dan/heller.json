@@ -1,0 +1,39 @@
+{
+  "content": "heller",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan heller ikke lide cookies"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ham heller ikke"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan heller ikke lide cookier"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville heller ikke have stolet på Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:neither",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weder",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:31.056637Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:31.196671Z": "TRANSLATION_DONE:deu"
+  }
+}

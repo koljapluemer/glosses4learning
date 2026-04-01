@@ -1,0 +1,35 @@
+{
+  "content": "เรื่องจริง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทุกคนรู้ว่ามันคือเรื่องจริง"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมรู้ว่านี่คือเรื่องจริง"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณรู้ว่ามันเป็นเรื่องจริง"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It's true",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es ist wahr",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:42.669619Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:42.683341Z": "TRANSLATION_DONE:deu"
+  }
+}

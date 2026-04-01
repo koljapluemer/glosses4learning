@@ -1,0 +1,29 @@
+{
+  "content": "quam",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Hiemes in Germania frigidiores sunt quam in Italia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas potest natare melius quam Maria"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Autocinetum tuum minoris pretii est quam meum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:as much as",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:45:00.914495Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "dumt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det ville slet ikke være så dumt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det ville ikke være så dumt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Stupid",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stupid",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:03.548932Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:03.549175Z": "TRANSLATION_DONE:deu"
+  }
+}

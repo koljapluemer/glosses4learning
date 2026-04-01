@@ -1,0 +1,35 @@
+{
+  "content": "Они никогда нам не поверят.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Karok (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Они"
+    ],
+    [
+      "PART",
+      "rus:никогда"
+    ],
+    [
+      "PART",
+      "rus:нам"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:поверят"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.267792Z": "SPLIT_DONE"
+  }
+}

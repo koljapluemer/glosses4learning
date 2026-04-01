@@ -1,0 +1,43 @@
+{
+  "content": "Ich möchte dazu lieber keinen Kommentar abgeben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:möchte"
+    ],
+    [
+      "PART",
+      "deu:dazu"
+    ],
+    [
+      "PART",
+      "deu:lieber"
+    ],
+    [
+      "PART",
+      "deu:keinen"
+    ],
+    [
+      "PART",
+      "deu:Kommentar"
+    ],
+    [
+      "PART",
+      "deu:abgeben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.280376Z": "SPLIT_DONE"
+  }
+}

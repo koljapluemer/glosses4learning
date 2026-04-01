@@ -1,0 +1,39 @@
+{
+  "content": "En Tatoeba ĉiuj lingvoj estas egalaj.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:En"
+    ],
+    [
+      "PART",
+      "epo:Tatoeba"
+    ],
+    [
+      "PART",
+      "epo:ĉiuj"
+    ],
+    [
+      "PART",
+      "epo:lingvoj"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:egalaj"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:36.012145Z": "SPLIT_DONE"
+  }
+}

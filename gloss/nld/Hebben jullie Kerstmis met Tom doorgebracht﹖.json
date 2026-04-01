@@ -1,0 +1,39 @@
+{
+  "content": "Hebben jullie Kerstmis met Tom doorgebracht?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Hebben"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:Kerstmis"
+    ],
+    [
+      "PART",
+      "nld:met"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:doorgebracht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.179350Z": "SPLIT_DONE"
+  }
+}

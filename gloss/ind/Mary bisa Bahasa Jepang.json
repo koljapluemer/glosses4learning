@@ -1,0 +1,31 @@
+{
+  "content": "Mary bisa Bahasa Jepang.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by windra (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Mary"
+    ],
+    [
+      "PART",
+      "ind:bisa"
+    ],
+    [
+      "PART",
+      "ind:Bahasa"
+    ],
+    [
+      "PART",
+      "ind:Jepang"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.846391Z": "SPLIT_DONE"
+  }
+}

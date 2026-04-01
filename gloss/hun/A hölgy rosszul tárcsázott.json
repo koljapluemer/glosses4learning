@@ -1,0 +1,31 @@
+{
+  "content": "A hölgy rosszul tárcsázott.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Muelisto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:A"
+    ],
+    [
+      "PART",
+      "hun:hölgy"
+    ],
+    [
+      "PART",
+      "hun:rosszul"
+    ],
+    [
+      "PART",
+      "hun:tárcsázott"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.893046Z": "SPLIT_DONE"
+  }
+}

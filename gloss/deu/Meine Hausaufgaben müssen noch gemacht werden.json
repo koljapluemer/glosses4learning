@@ -1,0 +1,39 @@
+{
+  "content": "Meine Hausaufgaben müssen noch gemacht werden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:müssen"
+    ],
+    [
+      "PART",
+      "deu:noch"
+    ],
+    [
+      "PART",
+      "deu:gemacht"
+    ],
+    [
+      "PART",
+      "deu:werden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.255701Z": "SPLIT_DONE"
+  }
+}

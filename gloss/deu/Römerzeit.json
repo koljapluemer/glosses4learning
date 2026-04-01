@@ -9,7 +9,9 @@
     "2026-03-29T13:14:59.004239Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:59.171708Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:59.398890Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:59.608668Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:59.608668Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:01.848942Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:01.997669Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:Roma Dönemi"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Римські часи",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:로마 시대",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

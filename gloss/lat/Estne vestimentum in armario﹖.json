@@ -1,0 +1,31 @@
+{
+  "content": "Estne vestimentum in armario?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Estne"
+    ],
+    [
+      "PART",
+      "lat:vestimentum"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:armario"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.322812Z": "SPLIT_DONE"
+  }
+}

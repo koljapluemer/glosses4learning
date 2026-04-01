@@ -1,0 +1,43 @@
+{
+  "content": "Tom kann gut mit kleinen Kindern umgehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:gut"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:kleinen"
+    ],
+    [
+      "PART",
+      "deu:Kindern"
+    ],
+    [
+      "PART",
+      "deu:umgehen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.384073Z": "SPLIT_DONE"
+  }
+}

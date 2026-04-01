@@ -1,0 +1,39 @@
+{
+  "content": "Мы знаем, что вы люди занятые.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:знаем"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:вы"
+    ],
+    [
+      "PART",
+      "rus:люди"
+    ],
+    [
+      "PART",
+      "rus:занятые"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.327698Z": "SPLIT_DONE"
+  }
+}

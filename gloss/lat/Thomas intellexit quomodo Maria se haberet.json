@@ -1,0 +1,39 @@
+{
+  "content": "Thomas intellexit quomodo Maria se haberet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexlee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:intellexit"
+    ],
+    [
+      "PART",
+      "lat:quomodo"
+    ],
+    [
+      "PART",
+      "lat:Maria"
+    ],
+    [
+      "PART",
+      "lat:se"
+    ],
+    [
+      "PART",
+      "lat:haberet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.260807Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "dagevis",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kommer til at vare i dagevis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:days",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tage",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:56.389708Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:56.528689Z": "TRANSLATION_DONE:deu"
+  }
+}

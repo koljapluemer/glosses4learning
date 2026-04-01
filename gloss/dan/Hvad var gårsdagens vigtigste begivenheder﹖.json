@@ -1,0 +1,35 @@
+{
+  "content": "Hvad var gårsdagens vigtigste begivenheder?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hvad"
+    ],
+    [
+      "PART",
+      "dan:var"
+    ],
+    [
+      "PART",
+      "dan:gårsdagens"
+    ],
+    [
+      "PART",
+      "dan:vigtigste"
+    ],
+    [
+      "PART",
+      "dan:begivenheder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.808575Z": "SPLIT_DONE"
+  }
+}

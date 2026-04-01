@@ -1,0 +1,33 @@
+{
+  "content": "Typs",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Verhalten dieses Typs war sehr seltsam"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Types",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Типи",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:25.692542Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:25.713789Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:25.735270Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -13,6 +13,41 @@
     [
       "TRANSLATION",
       "ita:notizia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir haben noch keine Nachricht erhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Message",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Новини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sam hat nicht auf meine Nachricht geantwortet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Deine Nachricht ist gerade bei mir angekommen"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:35:48.052795Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:48.201180Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:48.241124Z": "TRANSLATION_DONE:kor"
+  }
 }

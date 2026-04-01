@@ -1,0 +1,37 @@
+{
+  "content": "profesores",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Unos buenos padres son los mejores profesores"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos profesores pelan patatas mientras enseñan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:teachers",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lehrer",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Викладачі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:26.143129Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:26.196353Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:26.210388Z": "TRANSLATION_DONE:ukr"
+  }
+}

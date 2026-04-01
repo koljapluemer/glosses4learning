@@ -1,0 +1,43 @@
+{
+  "content": "Qu'est-ce que vous regardez, tous les deux ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:regardez"
+    ],
+    [
+      "PART",
+      "fra:tous"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:deux"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.243598Z": "SPLIT_DONE"
+  }
+}

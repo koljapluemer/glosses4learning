@@ -1,0 +1,43 @@
+{
+  "content": "Et Didymus et Maria linguam Gallicam discunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Et"
+    ],
+    [
+      "PART",
+      "lat:Didymus"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:Maria"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Gallicam"
+    ],
+    [
+      "PART",
+      "lat:discunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.332055Z": "SPLIT_DONE"
+  }
+}

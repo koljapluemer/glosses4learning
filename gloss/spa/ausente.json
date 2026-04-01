@@ -1,0 +1,33 @@
+{
+  "content": "ausente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, ella está ausente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:absent",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:fehlen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:немає",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:27.767170Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:27.785284Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:27.801929Z": "TRANSLATION_DONE:ukr"
+  }
+}

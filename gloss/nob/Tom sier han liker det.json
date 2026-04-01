@@ -1,0 +1,35 @@
+{
+  "content": "Tom sier han liker det.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User71743 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:sier"
+    ],
+    [
+      "PART",
+      "nob:han"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.215769Z": "SPLIT_DONE"
+  }
+}

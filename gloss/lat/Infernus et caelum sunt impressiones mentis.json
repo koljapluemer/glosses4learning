@@ -1,0 +1,39 @@
+{
+  "content": "Infernus et caelum sunt impressiones mentis.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Infernus"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:caelum"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ],
+    [
+      "PART",
+      "lat:impressiones"
+    ],
+    [
+      "PART",
+      "lat:mentis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.329161Z": "SPLIT_DONE"
+  }
+}

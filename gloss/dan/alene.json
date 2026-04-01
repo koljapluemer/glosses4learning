@@ -1,0 +1,35 @@
+{
+  "content": "alene",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke gøre det alene"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg bryder mig ikke om at være alene hjemme"
+    ],
+    [
+      "TRANSLATION",
+      "eng:alone",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:allein",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kalman bryder sig ikke om at være alene hjemme"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:41.808299Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:41.948097Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Неправильна",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Неправильна постава може спричинити багато проблем"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wrong",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwarz",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:53.307283Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:53.322631Z": "TRANSLATION_DONE:deu"
+  }
+}

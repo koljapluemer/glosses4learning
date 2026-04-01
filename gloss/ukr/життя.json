@@ -1,0 +1,31 @@
+{
+  "content": "життя",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Його життя у небезпеці"
+    ],
+    [
+      "TRANSLATION",
+      "eng:life",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leben",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:vida"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.354304Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.370444Z": "TRANSLATION_DONE:deu"
+  }
+}

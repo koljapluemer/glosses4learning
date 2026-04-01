@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe seine Worte einfach wiederholt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Worte"
+    ],
+    [
+      "PART",
+      "deu:einfach"
+    ],
+    [
+      "PART",
+      "deu:wiederholt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.428130Z": "SPLIT_DONE"
+  }
+}

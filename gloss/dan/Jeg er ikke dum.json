@@ -1,0 +1,31 @@
+{
+  "content": "Jeg er ikke dum.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:dum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.128251Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Wie binnen n biezunder gezelschop.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wie"
+    ],
+    [
+      "PART",
+      "gos:binnen"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:biezunder"
+    ],
+    [
+      "PART",
+      "gos:gezelschop"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.351366Z": "SPLIT_DONE"
+  }
+}

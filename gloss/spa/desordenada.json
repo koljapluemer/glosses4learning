@@ -1,0 +1,33 @@
+{
+  "content": "desordenada",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La habitación de mi hermano siempre está desordenada"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Untidy",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ungerade",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Неприємний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:42.059711Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:42.077268Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:42.099482Z": "TRANSLATION_DONE:ukr"
+  }
+}

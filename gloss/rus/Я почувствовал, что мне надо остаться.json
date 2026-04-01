@@ -1,0 +1,39 @@
+{
+  "content": "Я почувствовал, что мне надо остаться.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:почувствовал"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:надо"
+    ],
+    [
+      "PART",
+      "rus:остаться"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.279183Z": "SPLIT_DONE"
+  }
+}

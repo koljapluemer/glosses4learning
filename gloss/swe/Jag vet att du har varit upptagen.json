@@ -1,0 +1,43 @@
+{
+  "content": "Jag vet att du har varit upptagen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:vet"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:varit"
+    ],
+    [
+      "PART",
+      "swe:upptagen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.950622Z": "SPLIT_DONE"
+  }
+}

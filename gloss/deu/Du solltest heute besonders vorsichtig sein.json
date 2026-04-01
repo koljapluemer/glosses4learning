@@ -1,0 +1,39 @@
+{
+  "content": "Du solltest heute besonders vorsichtig sein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by grbwsk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:solltest"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:besonders"
+    ],
+    [
+      "PART",
+      "deu:vorsichtig"
+    ],
+    [
+      "PART",
+      "deu:sein"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.511506Z": "SPLIT_DONE"
+  }
+}

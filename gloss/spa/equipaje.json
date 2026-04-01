@@ -10,7 +10,8 @@
     "2026-03-29T14:23:34.803099Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:23:34.987254Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:23:35.160837Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:23:35.337916Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:23:35.337916Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:48.545749Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,11 @@
     [
       "TRANSLATION",
       "tur:bagaj"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:багаж",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

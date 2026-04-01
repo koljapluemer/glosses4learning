@@ -1,0 +1,27 @@
+{
+  "content": "yerdeyiz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kimsenin yaşamadığı, şehirden uzakta bir yerdeyiz"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Location",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Standort",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:51.353552Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:51.369001Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -9,7 +9,9 @@
     "2026-03-29T13:20:31.046724Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:31.245518Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:31.443965Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:31.621504Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:31.621504Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:00.554065Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:00.703081Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -55,6 +57,20 @@
     [
       "TRANSLATION",
       "ita:interessa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du wirst etwas finden, das dich interessiert"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зацікавлених сторін",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련기관",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

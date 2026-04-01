@@ -1,0 +1,39 @@
+{
+  "content": "Du sollst deine Hausaufgaben jetzt machen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:sollst"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:jetzt"
+    ],
+    [
+      "PART",
+      "deu:machen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.183055Z": "SPLIT_DONE"
+  }
+}

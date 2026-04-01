@@ -1,0 +1,37 @@
+{
+  "content": "autos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente de hoy no puede estar sin sus autos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A muchos estadounidenses les gustan los autos veloces"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cars",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Autos",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:авто",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.726198Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.740080Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.757276Z": "TRANSLATION_DONE:ukr"
+  }
+}

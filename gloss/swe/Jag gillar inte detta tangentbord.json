@@ -1,0 +1,35 @@
+{
+  "content": "Jag gillar inte detta tangentbord.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:gillar"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:detta"
+    ],
+    [
+      "PART",
+      "swe:tangentbord"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.030484Z": "SPLIT_DONE"
+  }
+}

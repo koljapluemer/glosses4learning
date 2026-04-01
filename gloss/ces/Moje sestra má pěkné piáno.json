@@ -1,0 +1,35 @@
+{
+  "content": "Moje sestra má pěkné piáno.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mbm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:sestra"
+    ],
+    [
+      "PART",
+      "ces:má"
+    ],
+    [
+      "PART",
+      "ces:pěkné"
+    ],
+    [
+      "PART",
+      "ces:piáno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.763548Z": "SPLIT_DONE"
+  }
+}

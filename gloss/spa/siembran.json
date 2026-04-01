@@ -1,0 +1,33 @@
+{
+  "content": "siembran",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los granjeros siembran semillas de cereales en primavera"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they sow",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sieSie säen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони сіють",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:33.478860Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:33.498820Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:33.518296Z": "TRANSLATION_DONE:ukr"
+  }
+}

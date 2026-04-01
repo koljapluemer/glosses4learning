@@ -1,0 +1,45 @@
+{
+  "content": "meningen",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag förstår inte den här meningen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The meaning",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Var det du som översatte den här meningen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Du kan inte ersätta kommat med en punkt i den här meningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Har du översatt den här meningen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Var vänlig ta bort den här meningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Du måste memorera den här meningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Den här meningen förmedlar en lögn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:58.788695Z": "TRANSLATION_DONE:eng"
+  }
+}

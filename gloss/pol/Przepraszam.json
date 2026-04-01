@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:20:25.016Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -35,6 +37,10 @@
     [
       "TRANSLATION",
       "eng:I apologize"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Przepraszam za bałagan"
     ]
   ]
 }

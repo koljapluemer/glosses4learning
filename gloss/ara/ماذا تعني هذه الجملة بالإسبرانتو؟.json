@@ -1,0 +1,35 @@
+{
+  "content": "ماذا تعني هذه الجملة بالإسبرانتو؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ماذا"
+    ],
+    [
+      "PART",
+      "ara:تعني"
+    ],
+    [
+      "PART",
+      "ara:هذه"
+    ],
+    [
+      "PART",
+      "ara:الجملة"
+    ],
+    [
+      "PART",
+      "ara:بالإسبرانتو"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.719913Z": "SPLIT_DONE"
+  }
+}

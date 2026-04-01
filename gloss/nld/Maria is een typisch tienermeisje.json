@@ -1,0 +1,35 @@
+{
+  "content": "Maria is een typisch tienermeisje.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Raizin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Maria"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:typisch"
+    ],
+    [
+      "PART",
+      "nld:tienermeisje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.194388Z": "SPLIT_DONE"
+  }
+}

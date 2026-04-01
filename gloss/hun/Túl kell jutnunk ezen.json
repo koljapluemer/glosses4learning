@@ -1,0 +1,31 @@
+{
+  "content": "Túl kell jutnunk ezen.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kiseva33 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Túl"
+    ],
+    [
+      "PART",
+      "hun:kell"
+    ],
+    [
+      "PART",
+      "hun:jutnunk"
+    ],
+    [
+      "PART",
+      "hun:ezen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.907056Z": "SPLIT_DONE"
+  }
+}

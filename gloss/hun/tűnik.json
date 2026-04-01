@@ -1,0 +1,29 @@
+{
+  "content": "tűnik",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Tom ismerősnek tűnik"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Nagyon fáradtnak tűnik Nancy"
+    ],
+    [
+      "TRANSLATION",
+      "eng:seems",
+      "Auto-translated with argostranslate (hu→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Nem igazán tűnik úgy, mintha sikerült volna meggyőzni Tomit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:49:00.144518Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Der",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ikke noget med at komme for sent denne gang"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der har ikke været noget aftalt spil med Rusland"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ikke noget, vi ikke kan gøre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Da",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ikke noget galt med din computer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:25.123914Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:25.267043Z": "TRANSLATION_DONE:deu"
+  }
+}

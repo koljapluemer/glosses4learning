@@ -1,0 +1,39 @@
+{
+  "content": "s'agit",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il ne s'agit jamais d'extra-terrestres, jusqu'à ce qu'il s'en agisse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ist",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'agit d'une ridicule et superfétatoire suite de Fibonacci de syllabes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'agit en quelque sorte de ce qui ne s'est pas produit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je suis sûr qu'il s'agit seulement d'un malentendu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:50.253406Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:50.407878Z": "TRANSLATION_DONE:deu"
+  }
+}

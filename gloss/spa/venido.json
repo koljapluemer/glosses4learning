@@ -1,0 +1,33 @@
+{
+  "content": "venido",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes suerte de que Tom no haya venido"
+    ],
+    [
+      "TRANSLATION",
+      "eng:come",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Komm!",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.587963Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.605227Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.623475Z": "TRANSLATION_DONE:ukr"
+  }
+}

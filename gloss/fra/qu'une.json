@@ -1,0 +1,39 @@
+{
+  "content": "qu'une",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:La fête organisée par Trang était à peu près aussi excitante qu'une veillée funèbre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:one",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eine",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être n'est-ce qu'une coïncidence"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être que ce n'est qu'une coïncidence"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être n'était-ce qu'une coïncidence"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:48.452255Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:48.597665Z": "TRANSLATION_DONE:deu"
+  }
+}

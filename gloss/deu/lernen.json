@@ -8,7 +8,9 @@
     "2026-01-27T14:34:44.647377Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:07.720547Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:07.924881Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:08.095245Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:08.095245Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:08.489501Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:08.507572Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,24 @@
     [
       "TRANSLATION",
       "rus:учиться"
+    ],
+    [
+      "TRANSLATION",
+      "dan:lære"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навчання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한국어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дізнатися"
     ]
   ]
 }

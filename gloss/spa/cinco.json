@@ -10,7 +10,8 @@
     "2026-03-29T14:22:34.922619Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:35.119109Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:35.291952Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:35.474954Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:35.474954Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:33.426804Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,19 @@
     [
       "TRANSLATION",
       "tur:beş"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Usualmente Tom se queda en hoteles cinco estrellas"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:п",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele quedarse en hoteles de cinco estrellas"
     ]
   ]
 }

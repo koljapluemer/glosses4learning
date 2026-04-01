@@ -1,0 +1,35 @@
+{
+  "content": "shoppe",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg elsker at shoppe i dette butikscenter"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg elsker at shoppe i dette indkøbscenter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Shopping",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Einkauf",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De fleste kvinder elsker at shoppe"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:26.455293Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:26.591904Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "betale",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du kommer til at betale for det du har gjort!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor gik du uden at betale﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pay",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zahl",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:48.806235Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:48.941891Z": "TRANSLATION_DONE:deu"
+  }
+}

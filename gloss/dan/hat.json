@@ -1,0 +1,35 @@
+{
+  "content": "hat",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor kan Tom godt lide at gå med hat﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hat",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hut",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom går sommetider med hat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vinden blæste hans hat af"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:29.556680Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:29.715912Z": "TRANSLATION_DONE:deu"
+  }
+}

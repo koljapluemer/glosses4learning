@@ -1,0 +1,39 @@
+{
+  "content": "Jeg vil gerne tale fransk flydende.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:gerne"
+    ],
+    [
+      "PART",
+      "dan:tale"
+    ],
+    [
+      "PART",
+      "dan:fransk"
+    ],
+    [
+      "PART",
+      "dan:flydende"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.848889Z": "SPLIT_DONE"
+  }
+}

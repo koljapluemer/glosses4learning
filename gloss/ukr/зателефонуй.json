@@ -1,0 +1,39 @@
+{
+  "content": "зателефонуй",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо щось трапиться, зателефонуй мені"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Call",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Anruf",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо вона тобі потрібна, зателефонуй до неї"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо це знову трапиться, зателефонуй мені"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо щось станеться, зателефонуй мені"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:58.363686Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:58.377421Z": "TRANSLATION_DONE:deu"
+  }
+}

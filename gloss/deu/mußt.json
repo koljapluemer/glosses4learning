@@ -9,7 +9,9 @@
     "2026-03-29T13:21:37.419895Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:37.592099Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:21:37.758104Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:21:37.933100Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:21:37.933100Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:12.370573Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:12.387345Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,24 @@
     [
       "TRANSLATION",
       "tur:yapmak zorunda"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du mußt dich deinem Alter entsprechend verhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du mußt diesen Bericht noch einmal neu schreiben"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:필수",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

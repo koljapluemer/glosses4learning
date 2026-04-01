@@ -1,0 +1,35 @@
+{
+  "content": "Alguém sabe o idioma japonês?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Alguém"
+    ],
+    [
+      "PART",
+      "por:sabe"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:idioma"
+    ],
+    [
+      "PART",
+      "por:japonês"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.530138Z": "SPLIT_DONE"
+  }
+}

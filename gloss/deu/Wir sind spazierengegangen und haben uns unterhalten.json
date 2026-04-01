@@ -1,0 +1,43 @@
+{
+  "content": "Wir sind spazierengegangen und haben uns unterhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "PART",
+      "deu:spazierengegangen"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:uns"
+    ],
+    [
+      "PART",
+      "deu:unterhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.413314Z": "SPLIT_DONE"
+  }
+}

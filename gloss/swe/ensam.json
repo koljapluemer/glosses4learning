@@ -1,0 +1,33 @@
+{
+  "content": "ensam",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Han är ensam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag vill inte vara ensam"
+    ],
+    [
+      "TRANSLATION",
+      "eng:alone alone",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag kommer känna mig ensam när du har gått"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag är för mig själv, men jag känner mig inte ensam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:51.262186Z": "TRANSLATION_DONE:eng"
+  }
+}

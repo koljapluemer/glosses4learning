@@ -1,0 +1,39 @@
+{
+  "content": "Tom'dan başka bunu hiç kimse yapmadı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'dan"
+    ],
+    [
+      "PART",
+      "tur:başka"
+    ],
+    [
+      "PART",
+      "tur:bunu"
+    ],
+    [
+      "PART",
+      "tur:hiç"
+    ],
+    [
+      "PART",
+      "tur:kimse"
+    ],
+    [
+      "PART",
+      "tur:yapmadı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.322568Z": "SPLIT_DONE"
+  }
+}

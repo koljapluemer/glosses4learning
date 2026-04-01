@@ -1,0 +1,43 @@
+{
+  "content": "私の犬はかわいいです。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by islandisto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "jpn:私"
+    ],
+    [
+      "PART",
+      "jpn:の"
+    ],
+    [
+      "PART",
+      "jpn:犬"
+    ],
+    [
+      "PART",
+      "jpn:は"
+    ],
+    [
+      "PART",
+      "jpn:かわいい"
+    ],
+    [
+      "PART",
+      "jpn:です"
+    ],
+    [
+      "PART",
+      "jpn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:18.941970Z": "SPLIT_DONE"
+  }
+}

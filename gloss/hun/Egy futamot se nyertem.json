@@ -1,0 +1,31 @@
+{
+  "content": "Egy futamot se nyertem.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Blaha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Egy"
+    ],
+    [
+      "PART",
+      "hun:futamot"
+    ],
+    [
+      "PART",
+      "hun:se"
+    ],
+    [
+      "PART",
+      "hun:nyertem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.913841Z": "SPLIT_DONE"
+  }
+}

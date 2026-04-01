@@ -1,0 +1,39 @@
+{
+  "content": "Напомни Тому, чтобы он мне позвонил!",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alina88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Напомни"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.537076Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "content": "Existenz",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie haben seiner Existenz gnadenlos ein Ende gesetzt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr habt seiner Existenz gnadenlos ein Ende gesetzt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du hast seiner Existenz gnadenlos ein Ende gesetzt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Existence",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Закінчення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:19.553665Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:19.590741Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:19.740790Z": "TRANSLATION_DONE:kor"
+  }
+}

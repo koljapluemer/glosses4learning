@@ -1,0 +1,35 @@
+{
+  "content": "Quelqu'un peut-il traduire cette phrase ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Archibald (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:peut-il"
+    ],
+    [
+      "PART",
+      "fra:traduire"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:phrase"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.355197Z": "SPLIT_DONE"
+  }
+}

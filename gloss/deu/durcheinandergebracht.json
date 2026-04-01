@@ -1,0 +1,33 @@
+{
+  "content": "durcheinandergebracht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich glaube, diese Frage hat Tom durcheinandergebracht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:insulated",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ізольований",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:절연 저항",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:06.725672Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:06.749293Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:06.769461Z": "TRANSLATION_DONE:kor"
+  }
+}

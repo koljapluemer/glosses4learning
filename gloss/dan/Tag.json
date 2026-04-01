@@ -1,0 +1,31 @@
+{
+  "content": "Tag",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tag ikke det Tom siger, for gode varer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tag",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tag",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tag det fra hinanden hvis det er nødvendigt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:37.185179Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:37.326374Z": "TRANSLATION_DONE:deu"
+  }
+}

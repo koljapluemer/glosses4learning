@@ -1,0 +1,35 @@
+{
+  "content": "Jeg forstår ikke denne setningen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by beeccy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:forstår"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:setningen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.320349Z": "SPLIT_DONE"
+  }
+}

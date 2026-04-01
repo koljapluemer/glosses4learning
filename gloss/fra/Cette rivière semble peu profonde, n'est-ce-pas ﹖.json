@@ -1,0 +1,39 @@
+{
+  "content": "Cette rivière semble peu profonde, n'est-ce-pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:rivière"
+    ],
+    [
+      "PART",
+      "fra:semble"
+    ],
+    [
+      "PART",
+      "fra:peu"
+    ],
+    [
+      "PART",
+      "fra:profonde"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce-pas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.477247Z": "SPLIT_DONE"
+  }
+}

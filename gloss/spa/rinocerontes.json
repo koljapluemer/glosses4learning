@@ -1,0 +1,33 @@
+{
+  "content": "rinocerontes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los rinocerontes pueden ser una amenaza mortal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Rhinoceros",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rhinoceros",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Риноцерос",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:15.257154Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:15.275409Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:15.295843Z": "TRANSLATION_DONE:ukr"
+  }
+}

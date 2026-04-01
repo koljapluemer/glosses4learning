@@ -1,0 +1,27 @@
+{
+  "content": "lavet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvis bare jeg havde lavet mine hjemmeopgaver!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:made",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hergestellt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:33.260780Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:33.409957Z": "TRANSLATION_DONE:deu"
+  }
+}

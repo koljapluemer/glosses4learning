@@ -1,0 +1,47 @@
+{
+  "content": "Tom hat das mit seinem Vater zusammen gebaut.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:seinem"
+    ],
+    [
+      "PART",
+      "deu:Vater"
+    ],
+    [
+      "PART",
+      "deu:zusammen"
+    ],
+    [
+      "PART",
+      "deu:gebaut"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.791195Z": "SPLIT_DONE"
+  }
+}

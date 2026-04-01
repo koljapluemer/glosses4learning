@@ -1,0 +1,39 @@
+{
+  "content": "Nikdo jiný než Tom neznal pravdu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nikdo"
+    ],
+    [
+      "PART",
+      "ces:jiný"
+    ],
+    [
+      "PART",
+      "ces:než"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:neznal"
+    ],
+    [
+      "PART",
+      "ces:pravdu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.178636Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "forstår",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg gad vide, om du forstår det"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg forstår overhovedet ikke fransk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom forstår sig ikke på moderne teknologi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:understand",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstehen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:13.274255Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:13.274604Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Ezt soha nem fogom elfelejteni.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Ezt"
+    ],
+    [
+      "PART",
+      "hun:soha"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:fogom"
+    ],
+    [
+      "PART",
+      "hun:elfelejteni"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.647810Z": "SPLIT_DONE"
+  }
+}

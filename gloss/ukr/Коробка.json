@@ -1,0 +1,27 @@
+{
+  "content": "Коробка",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Коробка не була пуста"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Box",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Feld",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:47.622624Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:47.635331Z": "TRANSLATION_DONE:deu"
+  }
+}

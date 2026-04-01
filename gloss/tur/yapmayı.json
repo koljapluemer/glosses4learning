@@ -1,0 +1,31 @@
+{
+  "content": "yapmayı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bunu yapmayı en sonunda kabul etti"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bunu yapmayı bir daha hiç denemedi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Doing",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tun",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:41.078046Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:41.091681Z": "TRANSLATION_DONE:deu"
+  }
+}

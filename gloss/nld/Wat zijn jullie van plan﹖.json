@@ -1,0 +1,35 @@
+{
+  "content": "Wat zijn jullie van plan?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:plan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.188610Z": "SPLIT_DONE"
+  }
+}

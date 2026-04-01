@@ -1,0 +1,33 @@
+{
+  "content": "aquella",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay que meterle más presión a aquella rueda"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:26.419284Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:26.438076Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:26.452700Z": "TRANSLATION_DONE:ukr"
+  }
+}

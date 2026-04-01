@@ -1,0 +1,35 @@
+{
+  "content": "Το γουρούνι θηλάζει τα χοιρίδια.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Το"
+    ],
+    [
+      "PART",
+      "ell:γουρούνι"
+    ],
+    [
+      "PART",
+      "ell:θηλάζει"
+    ],
+    [
+      "PART",
+      "ell:τα"
+    ],
+    [
+      "PART",
+      "ell:χοιρίδια"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.938273Z": "SPLIT_DONE"
+  }
+}

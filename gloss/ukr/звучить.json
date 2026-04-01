@@ -1,0 +1,31 @@
+{
+  "content": "звучить",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Для мене це звучить як повна тарабарщина"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Чому це ім'я звучить так, ніби я його знаю﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sounds",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geräusche",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:59.568929Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:59.584399Z": "TRANSLATION_DONE:deu"
+  }
+}

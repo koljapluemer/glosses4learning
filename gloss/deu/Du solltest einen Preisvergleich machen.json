@@ -1,0 +1,35 @@
+{
+  "content": "Du solltest einen Preisvergleich machen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zurich899 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:solltest"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:Preisvergleich"
+    ],
+    [
+      "PART",
+      "deu:machen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.496758Z": "SPLIT_DONE"
+  }
+}

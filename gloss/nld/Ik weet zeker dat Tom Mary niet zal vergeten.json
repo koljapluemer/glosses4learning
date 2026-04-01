@@ -1,0 +1,51 @@
+{
+  "content": "Ik weet zeker dat Tom Mary niet zal vergeten.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:weet"
+    ],
+    [
+      "PART",
+      "nld:zeker"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:Mary"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:zal"
+    ],
+    [
+      "PART",
+      "nld:vergeten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.042646Z": "SPLIT_DONE"
+  }
+}

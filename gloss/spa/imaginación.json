@@ -1,0 +1,33 @@
+{
+  "content": "imaginación",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La imaginación es más importante que el conocimiento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:imagination",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Phantasie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:фантазії",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:03.821261Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:03.839606Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:03.857379Z": "TRANSLATION_DONE:ukr"
+  }
+}

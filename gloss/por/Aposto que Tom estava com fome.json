@@ -1,0 +1,39 @@
+{
+  "content": "Aposto que Tom estava com fome.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Advanced (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Aposto"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:estava"
+    ],
+    [
+      "PART",
+      "por:com"
+    ],
+    [
+      "PART",
+      "por:fome"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.534208Z": "SPLIT_DONE"
+  }
+}

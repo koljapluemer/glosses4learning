@@ -1,0 +1,35 @@
+{
+  "content": "Czy to jest rozsądne zachowanie?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BeataB (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:to"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:rozsądne"
+    ],
+    [
+      "PART",
+      "pol:zachowanie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.277212Z": "SPLIT_DONE"
+  }
+}

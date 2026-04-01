@@ -1,0 +1,31 @@
+{
+  "content": "Všechno jsem Tomovi ukázal.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Všechno"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:ukázal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.182338Z": "SPLIT_DONE"
+  }
+}

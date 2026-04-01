@@ -1,0 +1,27 @@
+{
+  "content": "detaljer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil ikke gå i detaljer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:details",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Details",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:59.125339Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:59.293761Z": "TRANSLATION_DONE:deu"
+  }
+}

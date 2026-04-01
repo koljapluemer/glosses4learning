@@ -1,0 +1,27 @@
+{
+  "content": "закінчить",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я очікував, що Том це закінчить"
+    ],
+    [
+      "TRANSLATION",
+      "eng:finish",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Oberfläche",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.820411Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.833606Z": "TRANSLATION_DONE:deu"
+  }
+}

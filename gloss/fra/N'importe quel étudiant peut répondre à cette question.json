@@ -1,0 +1,47 @@
+{
+  "content": "N'importe quel étudiant peut répondre à cette question.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:N'importe"
+    ],
+    [
+      "PART",
+      "fra:quel"
+    ],
+    [
+      "PART",
+      "fra:étudiant"
+    ],
+    [
+      "PART",
+      "fra:peut"
+    ],
+    [
+      "PART",
+      "fra:répondre"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:question"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.549144Z": "SPLIT_DONE"
+  }
+}

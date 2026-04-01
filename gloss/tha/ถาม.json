@@ -1,0 +1,31 @@
+{
+  "content": "ถาม",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ถามอะไรก็ได้ที่คุณต้องการ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ask",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frag",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันขอถามได้มั้ยว่าทำไม﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:14.487065Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:14.505186Z": "TRANSLATION_DONE:deu"
+  }
+}

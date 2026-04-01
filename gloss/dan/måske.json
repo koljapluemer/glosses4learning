@@ -1,0 +1,31 @@
+{
+  "content": "måske",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi ankommer måske før det begynder at regne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi ankommer måske før det regner"
+    ],
+    [
+      "TRANSLATION",
+      "eng:maybe",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vielleicht",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:36.272992Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:36.301306Z": "TRANSLATION_DONE:deu"
+  }
+}

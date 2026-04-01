@@ -1,0 +1,43 @@
+{
+  "content": "потрібна",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я потрібна Мері"
+    ],
+    [
+      "TRANSLATION",
+      "eng:required",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erforderlich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо вона тобі потрібна, зателефонуй до неї"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Зателефонуйте мені, якщо вам буде потрібна допомога"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Зателефонуй мені, якщо тобі буде потрібна допомога"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зателефоную, якщо ти будеш нам потрібна"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:06.734129Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:06.734543Z": "TRANSLATION_DONE:deu"
+  }
+}

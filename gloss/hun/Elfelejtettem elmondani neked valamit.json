@@ -1,0 +1,31 @@
+{
+  "content": "Elfelejtettem elmondani neked valamit.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by H_Liliom (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Elfelejtettem"
+    ],
+    [
+      "PART",
+      "hun:elmondani"
+    ],
+    [
+      "PART",
+      "hun:neked"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.611754Z": "SPLIT_DONE"
+  }
+}

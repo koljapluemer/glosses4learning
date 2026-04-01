@@ -1,0 +1,39 @@
+{
+  "content": "Diese Schuhe haben ein Jahr gehalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kayro (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Diese"
+    ],
+    [
+      "PART",
+      "deu:Schuhe"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:Jahr"
+    ],
+    [
+      "PART",
+      "deu:gehalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.849477Z": "SPLIT_DONE"
+  }
+}

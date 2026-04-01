@@ -1,0 +1,31 @@
+{
+  "content": "Plastfolie tillverkas av polyethylen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Plastfolie"
+    ],
+    [
+      "PART",
+      "swe:tillverkas"
+    ],
+    [
+      "PART",
+      "swe:av"
+    ],
+    [
+      "PART",
+      "swe:polyethylen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.806638Z": "SPLIT_DONE"
+  }
+}

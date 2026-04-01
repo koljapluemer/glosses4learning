@@ -1,0 +1,21 @@
+{
+  "content": "poema",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Hoc poema non intellego"
+    ],
+    [
+      "TRANSLATION",
+      "eng:poem",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:55.331383Z": "TRANSLATION_DONE:eng"
+  }
+}

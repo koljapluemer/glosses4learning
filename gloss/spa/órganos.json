@@ -1,0 +1,33 @@
+{
+  "content": "órganos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunas religiones están en contra de la donación de órganos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:organs",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Organe",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:органи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:19.125615Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:19.139909Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:19.153749Z": "TRANSLATION_DONE:ukr"
+  }
+}

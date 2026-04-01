@@ -1,0 +1,27 @@
+{
+  "content": "missiles",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:De nombreux missiles nucléaires se sont abattus sur l'humanité"
+    ],
+    [
+      "TRANSLATION",
+      "eng:missiles",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Raketen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:36.570397Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:36.719790Z": "TRANSLATION_DONE:deu"
+  }
+}

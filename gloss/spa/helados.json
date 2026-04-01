@@ -1,0 +1,33 @@
+{
+  "content": "helados",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me gustan los helados con cobertura de chocolate"
+    ],
+    [
+      "TRANSLATION",
+      "eng:frosted",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frost",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зрілий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:00.528003Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:00.545862Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:00.567678Z": "TRANSLATION_DONE:ukr"
+  }
+}

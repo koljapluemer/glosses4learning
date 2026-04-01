@@ -1,0 +1,31 @@
+{
+  "content": "вікна",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тримайте вікна відчиненими"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ventanas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:windows",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fenster",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:55.001755Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:55.017794Z": "TRANSLATION_DONE:deu"
+  }
+}

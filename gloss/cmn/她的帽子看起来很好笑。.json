@@ -1,0 +1,43 @@
+{
+  "content": "她的帽子看起来很好笑。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by garthberry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:她"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:帽子"
+    ],
+    [
+      "PART",
+      "cmn:看起来"
+    ],
+    [
+      "PART",
+      "cmn:很"
+    ],
+    [
+      "PART",
+      "cmn:好笑"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:16.584329Z": "SPLIT_DONE"
+  }
+}

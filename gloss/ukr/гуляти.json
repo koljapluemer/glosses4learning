@@ -1,0 +1,27 @@
+{
+  "content": "гуляти",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Самі пішов гуляти"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Off you go",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Los",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:55.833665Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:55.848944Z": "TRANSLATION_DONE:deu"
+  }
+}

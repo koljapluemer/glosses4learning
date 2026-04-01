@@ -1,0 +1,33 @@
+{
+  "content": "mismas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Para algunas personas, Dios es ellas mismas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:same",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gleich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:й",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.941248Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:09.953960Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:09.970505Z": "TRANSLATION_DONE:ukr"
+  }
+}

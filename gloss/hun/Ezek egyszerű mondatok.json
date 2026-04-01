@@ -1,0 +1,27 @@
+{
+  "content": "Ezek egyszerű mondatok.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aleksandro40 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Ezek"
+    ],
+    [
+      "PART",
+      "hun:egyszerű"
+    ],
+    [
+      "PART",
+      "hun:mondatok"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.905916Z": "SPLIT_DONE"
+  }
+}

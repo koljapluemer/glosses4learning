@@ -1,0 +1,39 @@
+{
+  "content": "Tomasz powiedział mi, że był smutny.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lato365 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tomasz"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:był"
+    ],
+    [
+      "PART",
+      "pol:smutny"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.298439Z": "SPLIT_DONE"
+  }
+}

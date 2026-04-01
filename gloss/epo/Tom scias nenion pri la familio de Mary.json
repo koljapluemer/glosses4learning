@@ -1,0 +1,47 @@
+{
+  "content": "Tom scias nenion pri la familio de Mary.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Alois (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Tom"
+    ],
+    [
+      "PART",
+      "epo:scias"
+    ],
+    [
+      "PART",
+      "epo:nenion"
+    ],
+    [
+      "PART",
+      "epo:pri"
+    ],
+    [
+      "PART",
+      "epo:la"
+    ],
+    [
+      "PART",
+      "epo:familio"
+    ],
+    [
+      "PART",
+      "epo:de"
+    ],
+    [
+      "PART",
+      "epo:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:36.108669Z": "SPLIT_DONE"
+  }
+}

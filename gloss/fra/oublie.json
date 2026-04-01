@@ -1,0 +1,27 @@
+{
+  "content": "oublie",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce n'est pas quelque chose que l'on oublie facilement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Forget it",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vergiss es",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:42.014548Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:42.160031Z": "TRANSLATION_DONE:deu"
+  }
+}

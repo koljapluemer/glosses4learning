@@ -1,0 +1,27 @@
+{
+  "content": "L'eau",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'eau et l'huile sont toutes deux des liquides"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Water",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wasser",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:06.067010Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:06.113042Z": "TRANSLATION_DONE:deu"
+  }
+}

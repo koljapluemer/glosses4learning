@@ -1,0 +1,35 @@
+{
+  "content": "verden",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er en vidunderlig verden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Undertiden forekommer verden at være meningsløs"
+    ],
+    [
+      "TRANSLATION",
+      "eng:world",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Welt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Velkommen til den virkelige verden!"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:59.622246Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:59.852955Z": "TRANSLATION_DONE:deu"
+  }
+}

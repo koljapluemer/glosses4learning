@@ -1,0 +1,25 @@
+{
+  "content": "вчерашнего",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мы со вчерашнего дня Тома не видели"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мы не видели Тома со вчерашнего дня"
+    ],
+    [
+      "TRANSLATION",
+      "eng:yesterday",
+      "Auto-translated with argostranslate (ru→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:02.559417Z": "TRANSLATION_DONE:eng"
+  }
+}

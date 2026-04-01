@@ -1,0 +1,47 @@
+{
+  "content": "Haben Sie schon einmal jemanden so richtig geliebt?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:schon"
+    ],
+    [
+      "PART",
+      "deu:einmal"
+    ],
+    [
+      "PART",
+      "deu:jemanden"
+    ],
+    [
+      "PART",
+      "deu:so"
+    ],
+    [
+      "PART",
+      "deu:richtig"
+    ],
+    [
+      "PART",
+      "deu:geliebt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.548691Z": "SPLIT_DONE"
+  }
+}

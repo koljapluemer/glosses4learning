@@ -1,0 +1,43 @@
+{
+  "content": "Вы сказали мне, чтобы я это сделал.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Вы"
+    ],
+    [
+      "PART",
+      "rus:сказали"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:я"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:сделал"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.677258Z": "SPLIT_DONE"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:21:25.293480Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:21:25.461942Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:21:25.632752Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:21:25.777588Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:21:25.777588Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:19.747118Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:Ne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Que levanten las manos los que lo hayan entendido"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

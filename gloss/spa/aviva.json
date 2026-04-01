@@ -1,0 +1,33 @@
+{
+  "content": "aviva",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La ausencia es al amor lo que al fuego el aire﹕ que apaga el pequeño y aviva el grande"
+    ],
+    [
+      "TRANSLATION",
+      "eng:aviva",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aviva",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Українська",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:27.898593Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:28.044413Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:28.066086Z": "TRANSLATION_DONE:ukr"
+  }
+}

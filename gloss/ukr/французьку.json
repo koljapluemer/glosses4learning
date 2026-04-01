@@ -1,0 +1,27 @@
+{
+  "content": "французьку",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том сказав, що йому подобається викладати французьку"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Französisch",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:07.552973Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:07.553466Z": "TRANSLATION_DONE:deu"
+  }
+}

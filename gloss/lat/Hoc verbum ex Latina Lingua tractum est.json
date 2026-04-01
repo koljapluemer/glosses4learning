@@ -1,0 +1,43 @@
+{
+  "content": "Hoc verbum ex Latina Lingua tractum est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hoc"
+    ],
+    [
+      "PART",
+      "lat:verbum"
+    ],
+    [
+      "PART",
+      "lat:ex"
+    ],
+    [
+      "PART",
+      "lat:Latina"
+    ],
+    [
+      "PART",
+      "lat:Lingua"
+    ],
+    [
+      "PART",
+      "lat:tractum"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.317692Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom zrobił coś bardzo głupiego.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by stagos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:zrobił"
+    ],
+    [
+      "PART",
+      "pol:coś"
+    ],
+    [
+      "PART",
+      "pol:bardzo"
+    ],
+    [
+      "PART",
+      "pol:głupiego"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.762424Z": "SPLIT_DONE"
+  }
+}

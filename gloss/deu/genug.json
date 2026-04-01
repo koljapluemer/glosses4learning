@@ -8,7 +8,9 @@
     "2026-01-27T14:33:23.752709Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:19:26.752931Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:26.911822Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:19:27.119871Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:19:27.119871Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:37.615903Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:37.690289Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,20 @@
     [
       "TRANSLATION",
       "rus:достаточно"
+    ],
+    [
+      "TRANSLATION",
+      "dan:nok"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:досить",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Tato toaleta je dočasně uzavřena.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tato"
+    ],
+    [
+      "PART",
+      "ces:toaleta"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:dočasně"
+    ],
+    [
+      "PART",
+      "ces:uzavřena"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.077195Z": "SPLIT_DONE"
+  }
+}

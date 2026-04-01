@@ -1,0 +1,39 @@
+{
+  "content": "¿Qué películas están en cartelera ahora?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by teskmon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Qué"
+    ],
+    [
+      "PART",
+      "spa:películas"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:cartelera"
+    ],
+    [
+      "PART",
+      "spa:ahora"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.667132Z": "SPLIT_DONE"
+  }
+}

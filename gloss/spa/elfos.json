@@ -1,0 +1,33 @@
+{
+  "content": "elfos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No todos los elfos son miserables"
+    ],
+    [
+      "TRANSLATION",
+      "eng:elves",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Elfen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ельфи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.427517Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.442588Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.460694Z": "TRANSLATION_DONE:ukr"
+  }
+}

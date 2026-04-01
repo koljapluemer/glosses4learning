@@ -1,0 +1,39 @@
+{
+  "content": "Mien man holdt nait van mie.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Mien"
+    ],
+    [
+      "PART",
+      "gos:man"
+    ],
+    [
+      "PART",
+      "gos:holdt"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ],
+    [
+      "PART",
+      "gos:van"
+    ],
+    [
+      "PART",
+      "gos:mie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.423026Z": "SPLIT_DONE"
+  }
+}

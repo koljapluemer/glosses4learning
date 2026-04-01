@@ -1,0 +1,33 @@
+{
+  "content": "asesinó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella supuestamente le asesinó"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He killed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er hat getötet",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Він загинув",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.407022Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.423367Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.442737Z": "TRANSLATION_DONE:ukr"
+  }
+}

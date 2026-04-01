@@ -1,0 +1,31 @@
+{
+  "content": "interesseret",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vidste ikke at du var interesseret"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vidste ikke du var interesseret"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interested",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Interesse",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:43.106192Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:43.247450Z": "TRANSLATION_DONE:deu"
+  }
+}

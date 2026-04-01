@@ -1,0 +1,35 @@
+{
+  "content": "Я весь день прав одяг.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ahha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:весь"
+    ],
+    [
+      "PART",
+      "ukr:день"
+    ],
+    [
+      "PART",
+      "ukr:прав"
+    ],
+    [
+      "PART",
+      "ukr:одяг"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.996607Z": "SPLIT_DONE"
+  }
+}

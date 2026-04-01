@@ -1,0 +1,33 @@
+{
+  "content": "opciones",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos que considerar todas las opciones"
+    ],
+    [
+      "TRANSLATION",
+      "eng:options",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Optionen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Параметри",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:11.472255Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:11.485622Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.627703Z": "TRANSLATION_DONE:ukr"
+  }
+}

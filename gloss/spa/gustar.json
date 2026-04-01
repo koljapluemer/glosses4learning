@@ -5,9 +5,13 @@
   "logs": {
     "2025-12-14T21:19:30.916Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-14T21:19:37.061Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
-    "2025-12-14T21:20:06.655Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+    "2025-12-14T21:20:06.655Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2026-03-31T12:52:58.260044Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:58.277365Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "relationships": [
@@ -18,6 +22,20 @@
     [
       "TRANSLATION",
       "eng:to please"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me suele gustar lo mismo que a ustedes"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Як",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

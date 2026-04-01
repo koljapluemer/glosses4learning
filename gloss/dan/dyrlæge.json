@@ -1,0 +1,33 @@
+{
+  "content": "dyrlæge",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ønsker ikke at blive dyrlæge"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tierarzt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Veterinär"
+    ],
+    [
+      "TRANSLATION",
+      "eng:veterinarian"
+    ],
+    [
+      "TRANSLATION",
+      "eng:veterinary doctor"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:29:57.235676Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T07:29:58.988739Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:23:13.692761Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:23:13.840090Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:23:13.999906Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:23:14.192739Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:23:14.192739Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:42.589987Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:verdi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom se dio cuenta de que a Mary le temblaban las manos"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:р",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

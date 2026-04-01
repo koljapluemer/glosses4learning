@@ -1,0 +1,35 @@
+{
+  "content": "Moje učitelka je velmi přísná.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:učitelka"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:velmi"
+    ],
+    [
+      "PART",
+      "ces:přísná"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.739041Z": "SPLIT_DONE"
+  }
+}

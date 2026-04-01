@@ -1,0 +1,31 @@
+{
+  "content": "Oletko koskaan imenyt munaa?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Johannes_S (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:koskaan"
+    ],
+    [
+      "PART",
+      "fin:imenyt"
+    ],
+    [
+      "PART",
+      "fin:munaa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.025452Z": "SPLIT_DONE"
+  }
+}

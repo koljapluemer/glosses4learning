@@ -1,0 +1,31 @@
+{
+  "content": "interessant",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kan godt lide at gøre sig interessant"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interesting",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:interessant",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun kan godt lide at gøre sig interessant"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:42.839947Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:42.978920Z": "TRANSLATION_DONE:deu"
+  }
+}

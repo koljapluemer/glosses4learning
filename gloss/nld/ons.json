@@ -1,0 +1,29 @@
+{
+  "content": "ons",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:De meisjes hebben ons hartelijk begroet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Us",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ze vertelden ons dat ze zouden meewerken"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Dat is wat ze ons hebben verteld"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:58.323244Z": "TRANSLATION_DONE:eng"
+  }
+}

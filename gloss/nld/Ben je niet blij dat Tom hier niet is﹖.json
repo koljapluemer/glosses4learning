@@ -1,0 +1,47 @@
+{
+  "content": "Ben je niet blij dat Tom hier niet is?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by otterbaskets (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:blij"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:hier"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.163315Z": "SPLIT_DONE"
+  }
+}

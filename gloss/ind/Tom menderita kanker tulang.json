@@ -1,0 +1,31 @@
+{
+  "content": "Tom menderita kanker tulang.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:menderita"
+    ],
+    [
+      "PART",
+      "ind:kanker"
+    ],
+    [
+      "PART",
+      "ind:tulang"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.874726Z": "SPLIT_DONE"
+  }
+}

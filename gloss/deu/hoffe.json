@@ -1,0 +1,41 @@
+{
+  "content": "hoffe",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hoffe, Sie werden seine Unterstützung erhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hoffe, du wirst seine Unterstützung bekommen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hoffe, dass es deinen Eltern gutgeht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hope",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Надія",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:54.773436Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:54.924288Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:55.071817Z": "TRANSLATION_DONE:kor"
+  }
+}

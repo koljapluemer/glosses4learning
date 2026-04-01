@@ -1,0 +1,27 @@
+{
+  "content": "biografen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Sommetider går jeg i biografen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cinema",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kino",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:18.759300Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:18.904346Z": "TRANSLATION_DONE:deu"
+  }
+}

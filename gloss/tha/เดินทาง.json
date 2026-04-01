@@ -1,0 +1,35 @@
+{
+  "content": "เดินทาง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เหลือเวลาอีกกี่ชั่วโมงกว่าจะเดินทางไปถึง﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Travel",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reisen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:วันพรุ่งนี้เขาจะเดินทางออกจากชิคาโก้"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผู้คนมากมายชอบที่จะเดินทาง"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:21.197890Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:21.341332Z": "TRANSLATION_DONE:deu"
+  }
+}

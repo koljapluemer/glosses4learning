@@ -1,0 +1,35 @@
+{
+  "content": "Jeg vet hvordan dette fungerer.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:hvordan"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ],
+    [
+      "PART",
+      "nob:fungerer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.268280Z": "SPLIT_DONE"
+  }
+}

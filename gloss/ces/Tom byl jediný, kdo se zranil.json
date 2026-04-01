@@ -1,0 +1,39 @@
+{
+  "content": "Tom byl jediný, kdo se zranil.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:jediný"
+    ],
+    [
+      "PART",
+      "ces:kdo"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:zranil"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.726133Z": "SPLIT_DONE"
+  }
+}

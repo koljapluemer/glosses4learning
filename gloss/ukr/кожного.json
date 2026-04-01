@@ -1,0 +1,31 @@
+{
+  "content": "кожного",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він працює вісім годин кожного дня"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том кожного дня туди ходить"
+    ],
+    [
+      "TRANSLATION",
+      "eng:each",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:jeweils",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.733023Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.745132Z": "TRANSLATION_DONE:deu"
+  }
+}

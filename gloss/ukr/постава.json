@@ -1,0 +1,27 @@
+{
+  "content": "постава",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Неправильна постава може спричинити багато проблем"
+    ],
+    [
+      "TRANSLATION",
+      "eng:posture",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haltung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:03.537043Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:03.552307Z": "TRANSLATION_DONE:deu"
+  }
+}

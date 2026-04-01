@@ -1,0 +1,27 @@
+{
+  "content": "знаменитий",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том насолоджується тим, що він знаменитий"
+    ],
+    [
+      "TRANSLATION",
+      "eng:famous",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:berühmt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.082618Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.096995Z": "TRANSLATION_DONE:deu"
+  }
+}

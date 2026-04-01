@@ -1,0 +1,33 @@
+{
+  "content": "davonlassen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du hättest deine Finger davonlassen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Not applicable",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Не застосовується",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:적용되지 않음",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:00.067500Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:00.217525Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:00.367363Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "casó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se casó sin que sus padres lo supieran"
+    ],
+    [
+      "TRANSLATION",
+      "eng:married",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verheiratet",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зрілі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.915999Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:00.066475Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:00.082851Z": "TRANSLATION_DONE:ukr"
+  }
+}

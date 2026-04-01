@@ -1,0 +1,41 @@
+{
+  "content": "lunes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy libre todos los días menos el lunes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos hasta las dos y media de la tarde del lunes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Monday",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Montag",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Понеділок",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele comer fuera de casa los lunes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:09.503221Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:09.521918Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:09.579819Z": "TRANSLATION_DONE:ukr"
+  }
+}

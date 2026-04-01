@@ -1,0 +1,37 @@
+{
+  "content": "oss",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Allan har lämnat oss"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom visade oss hur"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom lät oss gå"
+    ],
+    [
+      "TRANSLATION",
+      "eng:us us",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det är orsaken till varför vi skilde oss"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det var ingen som ville ta emot oss"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:01.216917Z": "TRANSLATION_DONE:eng"
+  }
+}

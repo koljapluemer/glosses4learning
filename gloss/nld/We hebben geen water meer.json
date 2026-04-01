@@ -1,0 +1,35 @@
+{
+  "content": "We hebben geen water meer.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:We"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:water"
+    ],
+    [
+      "PART",
+      "nld:meer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.076260Z": "SPLIT_DONE"
+  }
+}

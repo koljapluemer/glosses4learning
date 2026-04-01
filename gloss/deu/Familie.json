@@ -4,9 +4,13 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.796831Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.729672Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.729672Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T11:35:20.110866Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:20.255806Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -15,6 +19,24 @@
     [
       "TRANSLATION",
       "ita:famiglia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du hättest es deiner Familie sagen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сім'я",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Machen Sie sich über Ihre Familie keine Gedanken"
     ]
   ]
 }

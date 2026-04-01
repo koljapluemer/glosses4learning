@@ -1,0 +1,39 @@
+{
+  "content": "Tôi hỏi \"tên mày là gì?\".",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by trieuho (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tôi"
+    ],
+    [
+      "PART",
+      "vie:hỏi"
+    ],
+    [
+      "PART",
+      "vie:tên"
+    ],
+    [
+      "PART",
+      "vie:mày"
+    ],
+    [
+      "PART",
+      "vie:là"
+    ],
+    [
+      "PART",
+      "vie:gì"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.026080Z": "SPLIT_DONE"
+  }
+}

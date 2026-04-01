@@ -1,0 +1,27 @@
+{
+  "content": "vejen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad er der i vejen, Mary﹖ Det ved jeg ikke"
+    ],
+    [
+      "TRANSLATION",
+      "eng:road",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Straße",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:57.534709Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:57.677885Z": "TRANSLATION_DONE:deu"
+  }
+}

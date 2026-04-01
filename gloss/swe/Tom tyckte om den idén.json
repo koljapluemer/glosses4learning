@@ -1,0 +1,35 @@
+{
+  "content": "Tom tyckte om den idén.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:tyckte"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:idén"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.804237Z": "SPLIT_DONE"
+  }
+}

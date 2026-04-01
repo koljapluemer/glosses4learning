@@ -1,0 +1,34 @@
+{
+  "content": "dokter",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Is joen pa n dokter﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "gos:Hou hait mien dokter﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "gos:Is dien pa n dokter﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:doctor",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:physician",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:09:48.467575Z": "TRANSLATION_DONE:eng"
+  }
+}

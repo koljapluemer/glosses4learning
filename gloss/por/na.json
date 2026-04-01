@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T11:30:57.915Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -27,6 +29,30 @@
     [
       "TRANSLATION",
       "eng:at the"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Ela trabalhou na Bélgica"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Eu encontrei o Tom na rua"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Isto aqui na primavera é um paraíso"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Tom deixou o telefone na escola"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Ainda estou na casa dos meus pais"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Tom não está acostumado com a vida na cidade"
     ]
   ]
 }

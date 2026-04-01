@@ -1,0 +1,33 @@
+{
+  "content": "pepinos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los pepinos están emparentados con las sandías"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cucumbers",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gurken",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:огірки",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:22.521367Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:22.545249Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:22.692084Z": "TRANSLATION_DONE:ukr"
+  }
+}

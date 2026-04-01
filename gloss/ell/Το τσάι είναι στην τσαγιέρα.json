@@ -1,0 +1,35 @@
+{
+  "content": "Το τσάι είναι στην τσαγιέρα.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Το"
+    ],
+    [
+      "PART",
+      "ell:τσάι"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:στην"
+    ],
+    [
+      "PART",
+      "ell:τσαγιέρα"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:06.632719Z": "SPLIT_DONE"
+  }
+}

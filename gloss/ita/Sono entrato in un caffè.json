@@ -1,0 +1,35 @@
+{
+  "content": "Sono entrato in un caffè.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ml_tatoeba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:entrato"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:caffè"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.846258Z": "SPLIT_DONE"
+  }
+}

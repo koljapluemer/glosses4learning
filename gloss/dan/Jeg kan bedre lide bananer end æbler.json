@@ -1,0 +1,43 @@
+{
+  "content": "Jeg kan bedre lide bananer end æbler.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:bedre"
+    ],
+    [
+      "PART",
+      "dan:lide"
+    ],
+    [
+      "PART",
+      "dan:bananer"
+    ],
+    [
+      "PART",
+      "dan:end"
+    ],
+    [
+      "PART",
+      "dan:æbler"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.016893Z": "SPLIT_DONE"
+  }
+}

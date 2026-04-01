@@ -1,0 +1,35 @@
+{
+  "content": "Ellos asisten a encuentros culturales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:asisten"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:encuentros"
+    ],
+    [
+      "PART",
+      "spa:culturales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.765752Z": "SPLIT_DONE"
+  }
+}

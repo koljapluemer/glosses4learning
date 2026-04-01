@@ -1,0 +1,33 @@
+{
+  "content": "vocales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A menudo confundo las vocales del castellano"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vowels",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vokale",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Рушники",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:44.057057Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:44.074970Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:44.096391Z": "TRANSLATION_DONE:ukr"
+  }
+}

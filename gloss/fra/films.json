@@ -1,0 +1,27 @@
+{
+  "content": "films",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quels sont les films à l'affiche actuellement ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:films",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Filme",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:25.683190Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:25.831013Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:22:44.217020Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:44.415832Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:44.597713Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:44.775428Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:44.775428Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:34.843995Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,15 @@
     [
       "TRANSLATION",
       "tur:alışveriş"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hacer compras inteligentes requiere una meticulosa planificación"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:покупки",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

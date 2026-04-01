@@ -1,0 +1,27 @@
+{
+  "content": "виходжу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я майже не виходжу на вулицю останнім часом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm out",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin raus",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.261180Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.276126Z": "TRANSLATION_DONE:deu"
+  }
+}

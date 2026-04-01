@@ -1,0 +1,29 @@
+{
+  "content": "carne",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "por:Esta carne é de frango"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:O homem vai comer a carne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:meat",
+      "Auto-translated with argostranslate (pt→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Elas disseram que não comem carne"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:51:46.228189Z": "TRANSLATION_DONE:eng"
+  }
+}

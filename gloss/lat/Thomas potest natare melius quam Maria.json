@@ -1,0 +1,39 @@
+{
+  "content": "Thomas potest natare melius quam Maria.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ],
+    [
+      "PART",
+      "lat:natare"
+    ],
+    [
+      "PART",
+      "lat:melius"
+    ],
+    [
+      "PART",
+      "lat:quam"
+    ],
+    [
+      "PART",
+      "lat:Maria"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.347143Z": "SPLIT_DONE"
+  }
+}

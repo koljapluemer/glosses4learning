@@ -1,0 +1,35 @@
+{
+  "content": "Mungkin besok saya akan pergi.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by menyo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Mungkin"
+    ],
+    [
+      "PART",
+      "ind:besok"
+    ],
+    [
+      "PART",
+      "ind:saya"
+    ],
+    [
+      "PART",
+      "ind:akan"
+    ],
+    [
+      "PART",
+      "ind:pergi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.859927Z": "SPLIT_DONE"
+  }
+}

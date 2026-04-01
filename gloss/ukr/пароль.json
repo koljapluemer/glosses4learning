@@ -1,0 +1,27 @@
+{
+  "content": "пароль",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том змінив пароль"
+    ],
+    [
+      "TRANSLATION",
+      "eng:password",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Passwort vergessen﹖",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:05.001385Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:05.016000Z": "TRANSLATION_DONE:deu"
+  }
+}

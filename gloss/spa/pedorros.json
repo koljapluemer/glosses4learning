@@ -1,0 +1,33 @@
+{
+  "content": "pedorros",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los discursos del presidente son sumamente pedorros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Farms",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Betriebe",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ферма",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.063297Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.078004Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:12.099908Z": "TRANSLATION_DONE:ukr"
+  }
+}

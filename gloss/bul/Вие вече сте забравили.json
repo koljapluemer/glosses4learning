@@ -1,0 +1,31 @@
+{
+  "content": "Вие вече сте забравили.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Вие"
+    ],
+    [
+      "PART",
+      "bul:вече"
+    ],
+    [
+      "PART",
+      "bul:сте"
+    ],
+    [
+      "PART",
+      "bul:забравили"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:56.601821Z": "SPLIT_DONE"
+  }
+}

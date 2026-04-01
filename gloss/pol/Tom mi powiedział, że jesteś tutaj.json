@@ -1,0 +1,39 @@
+{
+  "content": "Tom mi powiedział, że jesteś tutaj.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilberry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ],
+    [
+      "PART",
+      "pol:tutaj"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.209222Z": "SPLIT_DONE"
+  }
+}

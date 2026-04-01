@@ -1,0 +1,33 @@
+{
+  "content": "malas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo malas noticias para ellos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bad",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlecht",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:поганий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.828701Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.842442Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.858586Z": "TRANSLATION_DONE:ukr"
+  }
+}

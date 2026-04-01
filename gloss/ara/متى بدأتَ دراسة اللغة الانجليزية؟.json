@@ -1,0 +1,35 @@
+{
+  "content": "متى بدأتَ دراسة اللغة الانجليزية؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Asma (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:متى"
+    ],
+    [
+      "PART",
+      "ara:بدأت"
+    ],
+    [
+      "PART",
+      "ara:دراسة"
+    ],
+    [
+      "PART",
+      "ara:اللغة"
+    ],
+    [
+      "PART",
+      "ara:الانجليزية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.563648Z": "SPLIT_DONE"
+  }
+}

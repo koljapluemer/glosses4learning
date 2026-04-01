@@ -1,0 +1,27 @@
+{
+  "content": "yardımda",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ne yazık ki, artık sana yardımda bulunamam"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Help",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:42.465724Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:42.482324Z": "TRANSLATION_DONE:deu"
+  }
+}

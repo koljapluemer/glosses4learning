@@ -8,7 +8,9 @@
     "2026-01-27T14:30:34.485940Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:46.585653Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:46.760779Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:46.921010Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:46.921010Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:26.279835Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:26.307150Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -54,6 +56,36 @@
     [
       "TRANSLATION",
       "fra:montre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hätte eigentlich um 2.30 Uhr wieder hier sein sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Abendessen wird um 18﹕30 Uhr fertig sein"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Годинники",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:시계",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Irgendetwas stimmt nicht mit meiner Uhr"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden gegen 11﹕00 Uhr wieder zu Hause sein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Uhr hat deinem Großvater gehört"
     ]
   ]
 }

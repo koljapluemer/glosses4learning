@@ -1,0 +1,31 @@
+{
+  "content": "Тому понадобится больше денег.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sharptoothed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:понадобится"
+    ],
+    [
+      "PART",
+      "rus:больше"
+    ],
+    [
+      "PART",
+      "rus:денег"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.671629Z": "SPLIT_DONE"
+  }
+}

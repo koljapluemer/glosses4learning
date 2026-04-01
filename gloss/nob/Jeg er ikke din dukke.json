@@ -1,0 +1,35 @@
+{
+  "content": "Jeg er ikke din dukke.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:din"
+    ],
+    [
+      "PART",
+      "nob:dukke"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.197018Z": "SPLIT_DONE"
+  }
+}

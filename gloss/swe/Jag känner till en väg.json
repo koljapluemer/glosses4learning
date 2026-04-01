@@ -1,0 +1,35 @@
+{
+  "content": "Jag känner till en väg.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:känner"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:väg"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.804657Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "เสียง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมคิดว่าผมได้ยินเสียงทอมไอ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันสามารถได้ยินเสียงคุณ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Voice",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stimme",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:พวกเขาได้ยินเสียงร้องไห้"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:22.522376Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:22.536629Z": "TRANSLATION_DONE:deu"
+  }
+}

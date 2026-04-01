@@ -1,0 +1,33 @@
+{
+  "content": "desafortunadas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella simpatizó con aquellas desafortunadas personas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Unlucky",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unglücklich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Нейлон",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:41.036642Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:41.056026Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:41.079272Z": "TRANSLATION_DONE:ukr"
+  }
+}

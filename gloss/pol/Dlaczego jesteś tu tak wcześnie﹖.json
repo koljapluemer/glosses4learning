@@ -1,0 +1,35 @@
+{
+  "content": "Dlaczego jesteś tu tak wcześnie?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by evabarczak (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Dlaczego"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ],
+    [
+      "PART",
+      "pol:tu"
+    ],
+    [
+      "PART",
+      "pol:tak"
+    ],
+    [
+      "PART",
+      "pol:wcześnie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.261717Z": "SPLIT_DONE"
+  }
+}

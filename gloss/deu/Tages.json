@@ -1,0 +1,41 @@
+{
+  "content": "Tages",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielleicht wirst du mich eines Tages verstehen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielleicht verstehst du das eines schönen Tages mal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielleicht versteht ihr das eines schönen Tages mal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Day",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:День народження",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor: 이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:19.837082Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:19.858420Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:19.927604Z": "TRANSLATION_DONE:kor"
+  }
+}

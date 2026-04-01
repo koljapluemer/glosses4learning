@@ -1,0 +1,33 @@
+{
+  "content": "geredet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ken hat gestern mit seinen Freunden geredet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spoken",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вся в соку",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:38.751111Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:38.818830Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:38.963330Z": "TRANSLATION_DONE:kor"
+  }
+}

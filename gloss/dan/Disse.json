@@ -1,0 +1,27 @@
+{
+  "content": "Disse",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Disse handsker holdt hendes hænder varme"
+    ],
+    [
+      "TRANSLATION",
+      "eng:These",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Diese",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:10.323891Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:10.472770Z": "TRANSLATION_DONE:deu"
+  }
+}

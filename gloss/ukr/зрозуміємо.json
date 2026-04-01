@@ -1,0 +1,27 @@
+{
+  "content": "зрозуміємо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо ти не зможеш прийти, ми зрозуміємо"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We understand",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir verstehen es",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.207439Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.224850Z": "TRANSLATION_DONE:deu"
+  }
+}

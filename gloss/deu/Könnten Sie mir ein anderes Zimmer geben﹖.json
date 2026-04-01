@@ -1,0 +1,43 @@
+{
+  "content": "Könnten Sie mir ein anderes Zimmer geben?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Fingerhut (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Könnten"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:anderes"
+    ],
+    [
+      "PART",
+      "deu:Zimmer"
+    ],
+    [
+      "PART",
+      "deu:geben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.396805Z": "SPLIT_DONE"
+  }
+}

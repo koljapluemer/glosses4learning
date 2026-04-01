@@ -1,0 +1,33 @@
+{
+  "content": "Selbstachtung",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr Verhalten verletzte meine Selbstachtung"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Self-employment",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Самопідбір",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:각자 employment",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:09.496969Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:09.561275Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:09.715111Z": "TRANSLATION_DONE:kor"
+  }
+}

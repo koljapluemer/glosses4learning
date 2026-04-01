@@ -1,0 +1,39 @@
+{
+  "content": "Ingen vet, unntatt Tom og meg.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User84539 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Ingen"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:unntatt"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:og"
+    ],
+    [
+      "PART",
+      "nob:meg"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.338427Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Том каза, че вие ще знаете.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Том"
+    ],
+    [
+      "PART",
+      "bul:каза"
+    ],
+    [
+      "PART",
+      "bul:че"
+    ],
+    [
+      "PART",
+      "bul:вие"
+    ],
+    [
+      "PART",
+      "bul:ще"
+    ],
+    [
+      "PART",
+      "bul:знаете"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:02.800719Z": "SPLIT_DONE"
+  }
+}

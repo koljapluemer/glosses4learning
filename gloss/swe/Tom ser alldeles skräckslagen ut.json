@@ -1,0 +1,35 @@
+{
+  "content": "Tom ser alldeles skräckslagen ut.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:ser"
+    ],
+    [
+      "PART",
+      "swe:alldeles"
+    ],
+    [
+      "PART",
+      "swe:skräckslagen"
+    ],
+    [
+      "PART",
+      "swe:ut"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.856333Z": "SPLIT_DONE"
+  }
+}

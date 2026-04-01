@@ -1,0 +1,27 @@
+{
+  "content": "piger",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke nogen af de to piger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:girls",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mädchen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:16.224431Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:16.399766Z": "TRANSLATION_DONE:deu"
+  }
+}

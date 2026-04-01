@@ -1,0 +1,33 @@
+{
+  "content": "Zusammenhang",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:In was für einem Zusammenhang ist das gesagt worden﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Reference",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Посилання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:36.062533Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:36.081269Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:36.099164Z": "TRANSLATION_DONE:kor"
+  }
+}

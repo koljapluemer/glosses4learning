@@ -1,0 +1,27 @@
+{
+  "content": "Прошу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Прошу зробити це сьогодні, якщо це можливо"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Please",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bitte",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:53.576146Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:53.592429Z": "TRANSLATION_DONE:deu"
+  }
+}

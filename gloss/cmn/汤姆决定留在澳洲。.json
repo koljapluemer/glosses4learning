@@ -1,0 +1,35 @@
+{
+  "content": "汤姆决定留在澳洲。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BobbyLee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:决定"
+    ],
+    [
+      "PART",
+      "cmn:留在"
+    ],
+    [
+      "PART",
+      "cmn:澳洲"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.693668Z": "SPLIT_DONE"
+  }
+}

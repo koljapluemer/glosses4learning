@@ -1,0 +1,35 @@
+{
+  "content": "Tom muhtemelen bunu yapmaktan hoşlanmayacaktır.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:muhtemelen"
+    ],
+    [
+      "PART",
+      "tur:bunu"
+    ],
+    [
+      "PART",
+      "tur:yapmaktan"
+    ],
+    [
+      "PART",
+      "tur:hoşlanmayacaktır"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.363751Z": "SPLIT_DONE"
+  }
+}

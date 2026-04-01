@@ -1,0 +1,35 @@
+{
+  "content": "Tomi on nyt vetänyt viimeisensä.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Johannes_S (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tomi"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:nyt"
+    ],
+    [
+      "PART",
+      "fin:vetänyt"
+    ],
+    [
+      "PART",
+      "fin:viimeisensä"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:09.949959Z": "SPLIT_DONE"
+  }
+}

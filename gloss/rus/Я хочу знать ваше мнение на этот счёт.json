@@ -1,0 +1,47 @@
+{
+  "content": "Я хочу знать ваше мнение на этот счёт.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:хочу"
+    ],
+    [
+      "PART",
+      "rus:знать"
+    ],
+    [
+      "PART",
+      "rus:ваше"
+    ],
+    [
+      "PART",
+      "rus:мнение"
+    ],
+    [
+      "PART",
+      "rus:на"
+    ],
+    [
+      "PART",
+      "rus:этот"
+    ],
+    [
+      "PART",
+      "rus:счёт"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.319426Z": "SPLIT_DONE"
+  }
+}

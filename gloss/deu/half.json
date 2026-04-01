@@ -1,0 +1,33 @@
+{
+  "content": "half",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich half Tom beim Ausladen seines Transporters"
+    ],
+    [
+      "TRANSLATION",
+      "eng:help",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Допомога",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:01.833740Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:01.854162Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:01.870356Z": "TRANSLATION_DONE:kor"
+  }
+}

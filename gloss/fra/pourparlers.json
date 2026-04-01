@@ -1,0 +1,27 @@
+{
+  "content": "pourparlers",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce sont eux qui auront des pourparlers, demain"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Talks",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gespräche",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:37.361985Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:37.374689Z": "TRANSLATION_DONE:deu"
+  }
+}

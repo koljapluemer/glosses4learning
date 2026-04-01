@@ -1,0 +1,35 @@
+{
+  "content": "Tom mengatakan semua orang melakukannya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lewis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:mengatakan"
+    ],
+    [
+      "PART",
+      "ind:semua"
+    ],
+    [
+      "PART",
+      "ind:orang"
+    ],
+    [
+      "PART",
+      "ind:melakukannya"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:26.904868Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "Wilson",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El Congreso finalmente aprobó las propuestas de Wilson"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wilson",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wilson",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вільсон",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No todos los estadounidenses compartían la opinión de Wilson"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:21.866090Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:22.011121Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:22.027966Z": "TRANSLATION_DONE:ukr"
+  }
+}

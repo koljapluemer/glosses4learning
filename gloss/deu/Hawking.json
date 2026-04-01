@@ -1,0 +1,33 @@
+{
+  "content": "Hawking",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hawking wandte sich wieder seinen Studien zu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Hawking",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Закупи",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:24.587915Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:24.618558Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:24.767680Z": "TRANSLATION_DONE:kor"
+  }
+}

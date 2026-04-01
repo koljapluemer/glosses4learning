@@ -1,0 +1,27 @@
+{
+  "content": "manteau",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi est-ce que tu portes un manteau ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:coat",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mantel",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:35.646062Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:35.662106Z": "TRANSLATION_DONE:deu"
+  }
+}

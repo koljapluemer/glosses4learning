@@ -1,0 +1,53 @@
+{
+  "content": "deportes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él está muy interesado en los deportes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los deportes son buenos para tu salud"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Tomás no se le dan bien los deportes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Tom no se le dan muy bien los deportes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me gusta más la música que los deportes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sports",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sport",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:спорт",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A la mayoría de los estudiantes les gustan los deportes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:40.987008Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:41.003432Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:41.019074Z": "TRANSLATION_DONE:ukr"
+  }
+}

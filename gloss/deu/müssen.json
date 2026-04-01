@@ -5,7 +5,9 @@
   "logs": {
     "2026-01-27T14:35:13.710899Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:39.395417Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:39.575078Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:39.575078Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:12.707289Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:12.725031Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -54,6 +56,48 @@
     [
       "TRANSLATION",
       "fra:doivent"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie müssen diesen Bericht noch einmal neu schreiben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es war kein Spaziergang im Park, sich mit Ziri auseinandersetzen zu müssen"
+    ],
+    [
+      "TRANSLATION",
+      "dan:skal"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:requiere"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Hausaufgaben müssen noch gemacht werden"
+    ],
+    [
+      "TRANSLATION",
+      "dan:Skal"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:повинен"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:повинні"
     ]
   ]
 }

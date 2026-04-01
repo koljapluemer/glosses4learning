@@ -1,0 +1,31 @@
+{
+  "content": "besvare",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke besvare dette spørgsmål"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke besvare det spørgsmål"
+    ],
+    [
+      "TRANSLATION",
+      "eng:answer",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Antwort",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:48.540183Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:48.679380Z": "TRANSLATION_DONE:deu"
+  }
+}

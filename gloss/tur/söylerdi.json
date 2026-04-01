@@ -1,0 +1,27 @@
+{
+  "content": "söylerdi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Neden Tom onun hakkında yalan söylerdi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:said",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte﹕",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:38.910428Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:38.924257Z": "TRANSLATION_DONE:deu"
+  }
+}

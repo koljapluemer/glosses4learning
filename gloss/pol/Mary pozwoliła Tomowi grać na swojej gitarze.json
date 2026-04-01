@@ -1,0 +1,43 @@
+{
+  "content": "Mary pozwoliła Tomowi grać na swojej gitarze.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:pozwoliła"
+    ],
+    [
+      "PART",
+      "pol:Tomowi"
+    ],
+    [
+      "PART",
+      "pol:grać"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:swojej"
+    ],
+    [
+      "PART",
+      "pol:gitarze"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.260896Z": "SPLIT_DONE"
+  }
+}

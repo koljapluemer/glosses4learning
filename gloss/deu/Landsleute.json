@@ -1,0 +1,33 @@
+{
+  "content": "Landsleute",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:„Was sind seine Freunde für Landsleute﹖“ – „Das sind Australier.“"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Farmers",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Фермери",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사 소개",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:32.077966Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:32.139837Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:32.287354Z": "TRANSLATION_DONE:kor"
+  }
+}

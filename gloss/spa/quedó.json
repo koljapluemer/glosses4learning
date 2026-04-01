@@ -1,0 +1,33 @@
+{
+  "content": "quedó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella quedó determinada en ir a la universidad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It's been",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es war",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це був",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:27.879510Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:27.893252Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:27.905607Z": "TRANSLATION_DONE:ukr"
+  }
+}

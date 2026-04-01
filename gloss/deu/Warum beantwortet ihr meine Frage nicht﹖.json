@@ -1,0 +1,39 @@
+{
+  "content": "Warum beantwortet ihr meine Frage nicht?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Warum"
+    ],
+    [
+      "PART",
+      "deu:beantwortet"
+    ],
+    [
+      "PART",
+      "deu:ihr"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Frage"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.186562Z": "SPLIT_DONE"
+  }
+}

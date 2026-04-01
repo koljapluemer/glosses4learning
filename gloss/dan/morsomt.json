@@ -1,0 +1,27 @@
+{
+  "content": "morsomt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er ikke morsomt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Funny",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Komisch",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:01.391440Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:01.572754Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Fraans is mien moudertoal.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Fraans"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:mien"
+    ],
+    [
+      "PART",
+      "gos:moudertoal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.365355Z": "SPLIT_DONE"
+  }
+}

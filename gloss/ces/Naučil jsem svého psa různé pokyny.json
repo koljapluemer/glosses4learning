@@ -1,0 +1,39 @@
+{
+  "content": "Naučil jsem svého psa různé pokyny.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Naučil"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:svého"
+    ],
+    [
+      "PART",
+      "ces:psa"
+    ],
+    [
+      "PART",
+      "ces:různé"
+    ],
+    [
+      "PART",
+      "ces:pokyny"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.174766Z": "SPLIT_DONE"
+  }
+}

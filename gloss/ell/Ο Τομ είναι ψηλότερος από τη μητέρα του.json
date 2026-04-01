@@ -1,0 +1,47 @@
+{
+  "content": "Ο Τομ είναι ψηλότερος από τη μητέρα του.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Ο"
+    ],
+    [
+      "PART",
+      "ell:Τομ"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:ψηλότερος"
+    ],
+    [
+      "PART",
+      "ell:από"
+    ],
+    [
+      "PART",
+      "ell:τη"
+    ],
+    [
+      "PART",
+      "ell:μητέρα"
+    ],
+    [
+      "PART",
+      "ell:του"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:09.597710Z": "SPLIT_DONE"
+  }
+}

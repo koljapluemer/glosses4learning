@@ -1,0 +1,35 @@
+{
+  "content": "Zobaczymy się jutro w szkole.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by konrad509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Zobaczymy"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:jutro"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:szkole"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.778521Z": "SPLIT_DONE"
+  }
+}

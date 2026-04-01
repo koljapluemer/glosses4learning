@@ -1,0 +1,33 @@
+{
+  "content": "considerables",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él tiene unos ingresos considerables"
+    ],
+    [
+      "TRANSLATION",
+      "eng:significant",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:signifikant",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:значна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.208551Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.223106Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.239208Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "s'introduisent",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les pirates informatiques s'introduisent dans les ordinateurs sans autorisation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:enter",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geben Sie",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:37.999910Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.014437Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:20:51.051737Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:20:51.228399Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:20:51.384978Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:20:51.570748Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:20:51.570748Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:16.944522Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,15 @@
     [
       "TRANSLATION",
       "tur:Bu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Es absolutamente necesario que encontremos a los asesinos"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

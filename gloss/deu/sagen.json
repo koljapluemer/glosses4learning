@@ -8,7 +8,9 @@
     "2026-01-27T14:35:42.607130Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:22:04.722595Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:04.884696Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:22:05.082334Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:22:05.082334Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:17.066803Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:17.068095Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -106,6 +108,56 @@
     [
       "TRANSLATION",
       "tur:söyleyip"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte versprechen Sie, daß Sie es niemandem sagen werden!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Können Sie es ihr bitte an meiner statt sagen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du es ihr bitte an meiner Stelle sagen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Versprechen Sie mir, dass Sie ihr nichts sagen werden!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin gekommen, um zu sagen, dass es mir leid tut"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest Tom besser sagen, dass es dir leid tut"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du hättest es deiner Familie sagen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "dan:fortælle"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про це",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:söyleyecek"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Willst du damit sagen, Tom wäre gar kein Kanadier﹖"
     ]
   ]
 }

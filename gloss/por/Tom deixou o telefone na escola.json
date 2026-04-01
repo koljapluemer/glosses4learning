@@ -1,0 +1,39 @@
+{
+  "content": "Tom deixou o telefone na escola.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:deixou"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:telefone"
+    ],
+    [
+      "PART",
+      "por:na"
+    ],
+    [
+      "PART",
+      "por:escola"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.574741Z": "SPLIT_DONE"
+  }
+}

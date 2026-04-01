@@ -1,0 +1,27 @@
+{
+  "content": "Polisler",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Polisler hiç kimsenin izini bulamadı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Police",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Polizei",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:45.220622Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:45.234665Z": "TRANSLATION_DONE:deu"
+  }
+}

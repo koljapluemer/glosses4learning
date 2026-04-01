@@ -1,0 +1,35 @@
+{
+  "content": "responsables",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce sont elles qui ont été responsables de l'accident"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Responsible",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verantwortlich",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce sont elles qui furent responsables de l'accident"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce sont eux qui ont été responsables de l'accident"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:48.949521Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:48.966729Z": "TRANSLATION_DONE:deu"
+  }
+}

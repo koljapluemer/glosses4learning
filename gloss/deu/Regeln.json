@@ -8,7 +8,9 @@
     "2026-01-27T14:29:57.197491Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:14:52.988899Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:53.159307Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:14:53.326110Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:14:53.326110Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:35:59.902541Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:00.051351Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,24 @@
     [
       "TRANSLATION",
       "rus:Правила"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das sind die Regeln; verhalten Sie sich entsprechend"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Правила",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:계정 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tha:กฎ"
     ]
   ]
 }

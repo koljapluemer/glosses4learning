@@ -1,0 +1,31 @@
+{
+  "content": "husker",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg forventer ikke at du husker det"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg husker ikke ordret hvad Tom sagde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remember",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erinnern Sie sich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:37.335583Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:37.335913Z": "TRANSLATION_DONE:deu"
+  }
+}

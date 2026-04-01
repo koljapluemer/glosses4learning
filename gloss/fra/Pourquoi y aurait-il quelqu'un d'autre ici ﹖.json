@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi y aurait-il quelqu'un d'autre ici ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by always (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:y"
+    ],
+    [
+      "PART",
+      "fra:aurait-il"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:d'autre"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.288365Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "dumme",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Folk i dette land er dumme"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Stupid",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stupid",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:03.261046Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:03.410895Z": "TRANSLATION_DONE:deu"
+  }
+}

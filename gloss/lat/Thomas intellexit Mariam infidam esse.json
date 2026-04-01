@@ -1,0 +1,35 @@
+{
+  "content": "Thomas intellexit Mariam infidam esse.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:intellexit"
+    ],
+    [
+      "PART",
+      "lat:Mariam"
+    ],
+    [
+      "PART",
+      "lat:infidam"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.331908Z": "SPLIT_DONE"
+  }
+}

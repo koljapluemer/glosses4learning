@@ -1,0 +1,35 @@
+{
+  "content": "Heb je een watermeloen gekocht?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Heb"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:watermeloen"
+    ],
+    [
+      "PART",
+      "nld:gekocht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.220194Z": "SPLIT_DONE"
+  }
+}

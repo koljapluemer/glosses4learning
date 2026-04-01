@@ -1,0 +1,41 @@
+{
+  "content": "instand",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie das Thermostat wieder instand gesetzt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr das Thermostat wieder instand gesetzt﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:insured",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:застрахований",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Können Sie meinen Rechner wieder instand setzen﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:59.878245Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:59.902954Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:59.928629Z": "TRANSLATION_DONE:kor"
+  }
+}

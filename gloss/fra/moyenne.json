@@ -1,0 +1,27 @@
+{
+  "content": "moyenne",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tout le monde croit qu'il est au-dessus de la moyenne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Medium",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittel",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:35.882419Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:35.895999Z": "TRANSLATION_DONE:deu"
+  }
+}

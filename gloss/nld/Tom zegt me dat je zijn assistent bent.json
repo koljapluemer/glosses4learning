@@ -1,0 +1,47 @@
+{
+  "content": "Tom zegt me dat je zijn assistent bent.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Raizin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:zegt"
+    ],
+    [
+      "PART",
+      "nld:me"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:assistent"
+    ],
+    [
+      "PART",
+      "nld:bent"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.152932Z": "SPLIT_DONE"
+  }
+}

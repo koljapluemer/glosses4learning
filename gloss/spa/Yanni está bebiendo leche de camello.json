@@ -1,0 +1,39 @@
+{
+  "content": "Yanni está bebiendo leche de camello.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Seael (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Yanni"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:bebiendo"
+    ],
+    [
+      "PART",
+      "spa:leche"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:camello"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.672819Z": "SPLIT_DONE"
+  }
+}

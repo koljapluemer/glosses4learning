@@ -1,0 +1,43 @@
+{
+  "content": "Ich glaube, diese Frage hat Tom durcheinandergebracht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by list (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:glaube"
+    ],
+    [
+      "PART",
+      "deu:diese"
+    ],
+    [
+      "PART",
+      "deu:Frage"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:durcheinandergebracht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.563410Z": "SPLIT_DONE"
+  }
+}

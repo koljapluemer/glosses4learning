@@ -1,0 +1,27 @@
+{
+  "content": "birbirimize",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve benim birbirimize ihtiyacımız var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Other News",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Weitere News",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:45.886784Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:45.900078Z": "TRANSLATION_DONE:deu"
+  }
+}

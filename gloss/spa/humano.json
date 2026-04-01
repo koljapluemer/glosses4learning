@@ -1,0 +1,33 @@
+{
+  "content": "humano",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué sería del ser humano sin los animales﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:human rights",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Menschenrechte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Права людини",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:03.268928Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:03.422746Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:03.486276Z": "TRANSLATION_DONE:ukr"
+  }
+}

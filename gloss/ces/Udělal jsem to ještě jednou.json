@@ -1,0 +1,35 @@
+{
+  "content": "Udělal jsem to ještě jednou.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Udělal"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:to"
+    ],
+    [
+      "PART",
+      "ces:ještě"
+    ],
+    [
+      "PART",
+      "ces:jednou"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.763999Z": "SPLIT_DONE"
+  }
+}

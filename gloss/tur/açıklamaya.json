@@ -1,0 +1,35 @@
+{
+  "content": "açıklamaya",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un özgeçmişi herhangi bir açıklamaya ihtiyaç duymuyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:description",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beschreibung",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hiç kimsenin bir açıklamaya ihtiyacı olmayacak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un kaydı herhangi bir açıklamaya ihtiyaç duymuyor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:27.755449Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.769724Z": "TRANSLATION_DONE:deu"
+  }
+}

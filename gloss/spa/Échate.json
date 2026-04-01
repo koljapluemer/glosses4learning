@@ -1,0 +1,33 @@
+{
+  "content": "Échate",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Échate una siesta y espera por la buena suerte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Pull up",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zieh hoch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Витягувати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:44.453344Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:44.472341Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:44.493198Z": "TRANSLATION_DONE:ukr"
+  }
+}

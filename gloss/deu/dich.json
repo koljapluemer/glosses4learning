@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:32:13.642734Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:03.893144Z": "TRANSLATION_DONE:fra",
-    "2026-03-29T13:18:04.064959Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:18:04.064959Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:03.246831Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:03.394111Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -65,6 +67,72 @@
     [
       "TRANSLATION",
       "tur:seni"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du mußt dich deinem Alter entsprechend verhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was hat dich davon abgehalten gestern zu kommen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe dich für deinen Vater gehalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was hat dich davon abgehalten früher zu kommen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es tut mir leid, dass ich dich falsch verstanden habe!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du wirst etwas finden, das dich interessiert"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest dich besser von einem Arzt untersuchen lassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest dich von ihr fernhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es ist gut, dass wir dich wiederhaben!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kann sein, dass er dich falsch verstanden hat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du ein Geheimnis für dich behalten﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es war mir eine Ehre, dich getroffen zu haben und ich freue mich, von dir zu hören"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du kannst dich nicht auf seine Hilfe verlassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest dich auf dein Bauchgefühl verlassen"
     ]
   ]
 }

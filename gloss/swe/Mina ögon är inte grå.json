@@ -1,0 +1,35 @@
+{
+  "content": "Mina ögon är inte grå.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Mina"
+    ],
+    [
+      "PART",
+      "swe:ögon"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:grå"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.835939Z": "SPLIT_DONE"
+  }
+}

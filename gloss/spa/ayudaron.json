@@ -1,0 +1,33 @@
+{
+  "content": "ayudaron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las mejoras en la tecnología les ayudaron a triunfar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They helped",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie haben geholfen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони допомогли",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.820916Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.839166Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.859778Z": "TRANSLATION_DONE:ukr"
+  }
+}

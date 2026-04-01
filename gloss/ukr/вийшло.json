@@ -1,0 +1,31 @@
+{
+  "content": "вийшло",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Як так вийшло, що я не зателефонував Мері﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цікаво, як так вийшло, що ніхто мені не сказав"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I did",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ja",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.050094Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.066717Z": "TRANSLATION_DONE:deu"
+  }
+}

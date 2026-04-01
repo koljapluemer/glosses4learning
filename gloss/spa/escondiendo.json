@@ -1,0 +1,33 @@
+{
+  "content": "escondiendo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué otra cosa están escondiendo ellos﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hiding",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstecken",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:05.060619Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:05.075800Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:05.092743Z": "TRANSLATION_DONE:ukr"
+  }
+}

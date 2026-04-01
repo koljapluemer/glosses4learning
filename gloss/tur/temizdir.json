@@ -1,0 +1,27 @@
+{
+  "content": "temizdir",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un yatak odası benimkinden daha temizdir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clean",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sauber",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.145054Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.165276Z": "TRANSLATION_DONE:deu"
+  }
+}

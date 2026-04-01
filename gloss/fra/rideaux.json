@@ -1,0 +1,27 @@
+{
+  "content": "rideaux",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un peut-il fermer les rideaux ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:curtains",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vorhänge",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:49.423338Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:49.440700Z": "TRANSLATION_DONE:deu"
+  }
+}

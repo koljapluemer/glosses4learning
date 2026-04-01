@@ -1,0 +1,39 @@
+{
+  "content": "Мне нужно, чтобы она это увидела.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:нужно"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:увидела"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.231713Z": "SPLIT_DONE"
+  }
+}

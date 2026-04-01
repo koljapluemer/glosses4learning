@@ -1,0 +1,39 @@
+{
+  "content": "Ella tiene algunos bonitos muebles antiguos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:tiene"
+    ],
+    [
+      "PART",
+      "spa:algunos"
+    ],
+    [
+      "PART",
+      "spa:bonitos"
+    ],
+    [
+      "PART",
+      "spa:muebles"
+    ],
+    [
+      "PART",
+      "spa:antiguos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.622959Z": "SPLIT_DONE"
+  }
+}

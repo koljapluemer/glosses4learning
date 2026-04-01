@@ -1,0 +1,27 @@
+{
+  "content": "by",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han kender denne by ud og ind"
+    ],
+    [
+      "TRANSLATION",
+      "eng:city",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stadt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:19.819038Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:19.849017Z": "TRANSLATION_DONE:deu"
+  }
+}

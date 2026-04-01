@@ -1,0 +1,39 @@
+{
+  "content": "Tom é um dos meus assistentes.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ajdavidl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:um"
+    ],
+    [
+      "PART",
+      "por:dos"
+    ],
+    [
+      "PART",
+      "por:meus"
+    ],
+    [
+      "PART",
+      "por:assistentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.554892Z": "SPLIT_DONE"
+  }
+}

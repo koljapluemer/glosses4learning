@@ -1,0 +1,35 @@
+{
+  "content": "Том тебе сегодня вечером позвонит.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:тебе"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:вечером"
+    ],
+    [
+      "PART",
+      "rus:позвонит"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.683286Z": "SPLIT_DONE"
+  }
+}

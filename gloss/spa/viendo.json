@@ -1,0 +1,41 @@
+{
+  "content": "viendo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su hermano siempre está viendo la televisión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:watching",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zu sehen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:веб камера",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ahora Tom no está viendo la televisión"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él estaba viendo televisión anoche"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:43.654516Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:43.671902Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:43.688764Z": "TRANSLATION_DONE:ukr"
+  }
+}

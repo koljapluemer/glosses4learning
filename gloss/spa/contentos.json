@@ -1,0 +1,37 @@
+{
+  "content": "contentos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los padres de Tomás no estaban contentos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:happy",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:glücklich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:щасливий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están contentos con el resultado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.854744Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.872409Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.887084Z": "TRANSLATION_DONE:ukr"
+  }
+}

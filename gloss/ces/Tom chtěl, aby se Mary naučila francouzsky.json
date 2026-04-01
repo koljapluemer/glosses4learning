@@ -1,0 +1,43 @@
+{
+  "content": "Tom chtěl, aby se Mary naučila francouzsky.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:chtěl"
+    ],
+    [
+      "PART",
+      "ces:aby"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:naučila"
+    ],
+    [
+      "PART",
+      "ces:francouzsky"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.063784Z": "SPLIT_DONE"
+  }
+}

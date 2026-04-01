@@ -1,0 +1,31 @@
+{
+  "content": "vidunderligt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg elsker fred. Er fred ikke vidunderligt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Noget vidunderligt skete i dag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wonderful",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wunderbar",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:01.682209Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:01.682513Z": "TRANSLATION_DONE:deu"
+  }
+}

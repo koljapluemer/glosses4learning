@@ -1,0 +1,33 @@
+{
+  "content": "Verkaufen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Verkaufen Sie Computer, die schon einmal einen Besitzer hatten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sale",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розпродаж",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:29.982071Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:29.996140Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:30.173350Z": "TRANSLATION_DONE:kor"
+  }
+}

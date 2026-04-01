@@ -1,0 +1,39 @@
+{
+  "content": "Tom troede ikke, jeg ville overleve.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SeaLiteral (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:troede"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:jeg"
+    ],
+    [
+      "PART",
+      "dan:ville"
+    ],
+    [
+      "PART",
+      "dan:overleve"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.557437Z": "SPLIT_DONE"
+  }
+}

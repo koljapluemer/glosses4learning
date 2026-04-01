@@ -1,0 +1,31 @@
+{
+  "content": "Proaten joe over ons?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Proaten"
+    ],
+    [
+      "PART",
+      "gos:joe"
+    ],
+    [
+      "PART",
+      "gos:over"
+    ],
+    [
+      "PART",
+      "gos:ons"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.684709Z": "SPLIT_DONE"
+  }
+}

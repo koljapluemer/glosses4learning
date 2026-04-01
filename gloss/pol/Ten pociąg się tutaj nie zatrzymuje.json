@@ -1,0 +1,39 @@
+{
+  "content": "Ten pociąg się tutaj nie zatrzymuje.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Ten"
+    ],
+    [
+      "PART",
+      "pol:pociąg"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:tutaj"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:zatrzymuje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.239032Z": "SPLIT_DONE"
+  }
+}

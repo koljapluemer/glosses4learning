@@ -1,0 +1,27 @@
+{
+  "content": "bestilte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er ikke hvad jeg bestilte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ordered",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bestellschein",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:48.276331Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:48.415637Z": "TRANSLATION_DONE:deu"
+  }
+}

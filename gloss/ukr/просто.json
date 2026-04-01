@@ -1,0 +1,43 @@
+{
+  "content": "просто",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не думаю, що це настільки просто"
+    ],
+    [
+      "TRANSLATION",
+      "eng:simple",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einfach",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Як би там не було, я просто не можу прийняти це"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви не можете просто так взяти й піти"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я просто не можу повірити, що це сталося"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не можна ось так просто узагальнювати"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:09.020384Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:09.035367Z": "TRANSLATION_DONE:deu"
+  }
+}

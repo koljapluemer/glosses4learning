@@ -1,0 +1,27 @@
+{
+  "content": "французькою",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я думаю, Том добре говорить французькою"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Französisch",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:14.891637Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:14.922891Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Tomova snacha je učitelka.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tomova"
+    ],
+    [
+      "PART",
+      "ces:snacha"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:učitelka"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.730853Z": "SPLIT_DONE"
+  }
+}

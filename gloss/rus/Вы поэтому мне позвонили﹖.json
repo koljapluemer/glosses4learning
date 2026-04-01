@@ -1,0 +1,31 @@
+{
+  "content": "Вы поэтому мне позвонили?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Вы"
+    ],
+    [
+      "PART",
+      "rus:поэтому"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонили"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.562768Z": "SPLIT_DONE"
+  }
+}

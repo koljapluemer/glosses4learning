@@ -1,0 +1,31 @@
+{
+  "content": "робитиму",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви знаєте, що я цього не робитиму"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти знаєш, що я цього не робитиму"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Will do",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wille",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:04.353734Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:04.369158Z": "TRANSLATION_DONE:deu"
+  }
+}

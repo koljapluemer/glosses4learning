@@ -1,0 +1,39 @@
+{
+  "content": "Tom jobber ikke for oss lenger.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:jobber"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:for"
+    ],
+    [
+      "PART",
+      "nob:oss"
+    ],
+    [
+      "PART",
+      "nob:lenger"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.254244Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Tom benimmt sich fast nie seinem Alter entsprechend.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:benimmt"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:fast"
+    ],
+    [
+      "PART",
+      "deu:nie"
+    ],
+    [
+      "PART",
+      "deu:seinem"
+    ],
+    [
+      "PART",
+      "deu:Alter"
+    ],
+    [
+      "PART",
+      "deu:entsprechend"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.373597Z": "SPLIT_DONE"
+  }
+}

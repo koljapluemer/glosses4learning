@@ -1,0 +1,35 @@
+{
+  "content": "Det snöar nästan aldrig här.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:snöar"
+    ],
+    [
+      "PART",
+      "swe:nästan"
+    ],
+    [
+      "PART",
+      "swe:aldrig"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.856644Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jeg kender ikke den dame.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kender"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:den"
+    ],
+    [
+      "PART",
+      "dan:dame"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.120341Z": "SPLIT_DONE"
+  }
+}

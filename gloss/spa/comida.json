@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T10:41:48.699Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T10:41:48.699Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:52:34.369717Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:34.385616Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -23,6 +27,20 @@
     [
       "TRANSLATION",
       "eng:meal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están preparando una comida para nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lebensmittel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Харчування",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "content": "кіт",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мій кіт голодний"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cat",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Katze",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:00.403329Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:00.416521Z": "TRANSLATION_DONE:deu"
+  }
+}

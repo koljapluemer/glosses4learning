@@ -1,0 +1,35 @@
+{
+  "content": "Той ми показа нейната снимка.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ednorog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Той"
+    ],
+    [
+      "PART",
+      "bul:ми"
+    ],
+    [
+      "PART",
+      "bul:показа"
+    ],
+    [
+      "PART",
+      "bul:нейната"
+    ],
+    [
+      "PART",
+      "bul:снимка"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:56.479881Z": "SPLIT_DONE"
+  }
+}

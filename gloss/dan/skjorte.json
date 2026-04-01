@@ -1,0 +1,31 @@
+{
+  "content": "skjorte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ønsker ikke at købe denne skjorte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil ikke købe denne skjorte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shirt",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hemd",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:31.654569Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:31.796972Z": "TRANSLATION_DONE:deu"
+  }
+}

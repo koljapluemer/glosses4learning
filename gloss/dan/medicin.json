@@ -1,0 +1,43 @@
+{
+  "content": "medicin",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det her er den medicin, jeg tager"
+    ],
+    [
+      "TRANSLATION",
+      "eng:medicine",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Medizin",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne medicin vil lindre dine smerter"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne medicin vil lindre smerterne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er på tide at jeg tager min medicin"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg tager medicin mod ondt i hovedet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:55.922852Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:56.060998Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Ненавиджу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ненавиджу таких як він поліцейських"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ненавиджу робити вигляд, що мені цікаво"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I hate you",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich hasse dich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:53.264762Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:53.292463Z": "TRANSLATION_DONE:deu"
+  }
+}

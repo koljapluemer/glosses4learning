@@ -1,0 +1,31 @@
+{
+  "content": "Чому ви такі задоволені?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Чому"
+    ],
+    [
+      "PART",
+      "ukr:ви"
+    ],
+    [
+      "PART",
+      "ukr:такі"
+    ],
+    [
+      "PART",
+      "ukr:задоволені"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.985579Z": "SPLIT_DONE"
+  }
+}

@@ -2,8 +2,13 @@
   "content": "hablando",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:52:58.801834Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:58.816215Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -29,6 +34,20 @@
     [
       "TRANSLATION",
       "eng:speaking"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que ellos están hablando de nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "deu:reden",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

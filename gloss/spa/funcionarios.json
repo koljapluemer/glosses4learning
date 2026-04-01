@@ -1,0 +1,33 @@
+{
+  "content": "funcionarios",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Puede que algunos funcionarios hayan sido corrompidos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:officials",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beamte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:посадових осіб",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.130797Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.144145Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.160033Z": "TRANSLATION_DONE:ukr"
+  }
+}

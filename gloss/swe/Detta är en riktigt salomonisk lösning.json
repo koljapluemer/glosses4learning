@@ -1,0 +1,39 @@
+{
+  "content": "Detta är en riktigt salomonisk lösning.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mr_vile (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Detta"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:riktigt"
+    ],
+    [
+      "PART",
+      "swe:salomonisk"
+    ],
+    [
+      "PART",
+      "swe:lösning"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.975583Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "tonede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms bil har tonede vinduer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:toned",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:getrocknet",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:48.061410Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:48.210843Z": "TRANSLATION_DONE:deu"
+  }
+}

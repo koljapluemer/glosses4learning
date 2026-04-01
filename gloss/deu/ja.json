@@ -8,7 +8,9 @@
     "2026-01-27T14:34:15.677451Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:20:34.101159Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:34.294220Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:20:34.461032Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:20:34.461032Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:01.901958Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:01.925020Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -70,6 +72,20 @@
     [
       "TRANSLATION",
       "srp:da"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du machst ja einen niedergeschlagenen Eindruck. Was ist denn los﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:й",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

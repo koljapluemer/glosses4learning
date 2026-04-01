@@ -1,0 +1,33 @@
+{
+  "content": "Waschen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Waschen Sie seine Wunde mit diesem Antiseptikum aus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Washing",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Миття",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:31.907053Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:31.925044Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:31.944879Z": "TRANSLATION_DONE:kor"
+  }
+}

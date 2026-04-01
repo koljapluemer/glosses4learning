@@ -1,0 +1,31 @@
+{
+  "content": "Linguam Francogallicam non doceo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Francogallicam"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:doceo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.293963Z": "SPLIT_DONE"
+  }
+}

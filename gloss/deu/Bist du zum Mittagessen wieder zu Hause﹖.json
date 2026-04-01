@@ -1,0 +1,43 @@
+{
+  "content": "Bist du zum Mittagessen wieder zu Hause?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Bist"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:zum"
+    ],
+    [
+      "PART",
+      "deu:Mittagessen"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:Hause"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.404096Z": "SPLIT_DONE"
+  }
+}

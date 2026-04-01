@@ -1,0 +1,33 @@
+{
+  "content": "pint",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Bierkrug enthält ein pint. Aber wie viel mag das sein﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pine",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сосни",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사이트 맵",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:15.776396Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:15.794206Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:15.814991Z": "TRANSLATION_DONE:kor"
+  }
+}

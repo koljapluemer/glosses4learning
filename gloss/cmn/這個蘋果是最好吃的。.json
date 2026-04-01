@@ -1,0 +1,43 @@
+{
+  "content": "這個蘋果是最好吃的。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickyeow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:這個"
+    ],
+    [
+      "PART",
+      "cmn:蘋果"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:最"
+    ],
+    [
+      "PART",
+      "cmn:好吃"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:21.770865Z": "SPLIT_DONE"
+  }
+}

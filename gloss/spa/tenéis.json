@@ -1,0 +1,33 @@
+{
+  "content": "tenéis",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Aquí tenéis algunos detalles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:17.424929Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:17.437772Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.471131Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "tamazight",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Qu'est-ce qui t'a aidé à apprendre le tamazight ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tamazight",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tamazight",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.860872Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.878992Z": "TRANSLATION_DONE:deu"
+  }
+}

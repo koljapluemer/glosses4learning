@@ -1,0 +1,35 @@
+{
+  "content": "Aku berhutang 10 dolar padamu.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Aku"
+    ],
+    [
+      "PART",
+      "ind:berhutang"
+    ],
+    [
+      "PART",
+      "ind:10"
+    ],
+    [
+      "PART",
+      "ind:dolar"
+    ],
+    [
+      "PART",
+      "ind:padamu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.857095Z": "SPLIT_DONE"
+  }
+}

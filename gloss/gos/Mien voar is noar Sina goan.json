@@ -1,0 +1,39 @@
+{
+  "content": "Mien voar is noar Sina goan.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Mien"
+    ],
+    [
+      "PART",
+      "gos:voar"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:noar"
+    ],
+    [
+      "PART",
+      "gos:Sina"
+    ],
+    [
+      "PART",
+      "gos:goan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.427870Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "вийти",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знав, що мені слід було за неї вийти"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знав, що мені слід було за нього вийти"
+    ],
+    [
+      "TRANSLATION",
+      "eng:exit",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ausgang",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.017150Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.030675Z": "TRANSLATION_DONE:deu"
+  }
+}

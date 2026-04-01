@@ -1,0 +1,35 @@
+{
+  "content": "Non dubito quin laetus sit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Non"
+    ],
+    [
+      "PART",
+      "lat:dubito"
+    ],
+    [
+      "PART",
+      "lat:quin"
+    ],
+    [
+      "PART",
+      "lat:laetus"
+    ],
+    [
+      "PART",
+      "lat:sit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.383006Z": "SPLIT_DONE"
+  }
+}

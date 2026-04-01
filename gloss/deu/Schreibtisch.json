@@ -1,0 +1,37 @@
+{
+  "content": "Schreibtisch",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom nimmt das Mittagessen an seinem Schreibtisch ein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er isst das Mittagessen an seinem Schreibtisch"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Desk",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Настільний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사 소개",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:05.852274Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:05.883708Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:06.037816Z": "TRANSLATION_DONE:kor"
+  }
+}

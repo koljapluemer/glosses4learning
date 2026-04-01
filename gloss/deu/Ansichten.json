@@ -1,0 +1,37 @@
+{
+  "content": "Ansichten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihre Ansichten unterscheiden sich von meinen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihre Ansichten unterscheiden sich von meiner"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Views",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Погляд",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:13.061703Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:13.120642Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:13.157345Z": "TRANSLATION_DONE:kor"
+  }
+}

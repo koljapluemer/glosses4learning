@@ -1,0 +1,33 @@
+{
+  "content": "Abitur",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:In diesem Frühjahr hat er sein Abitur gemacht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Abitur",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Абітур",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:아비투르",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:11.331156Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:11.471309Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:11.513695Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "A Maria está comendo fondue.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:A"
+    ],
+    [
+      "PART",
+      "por:Maria"
+    ],
+    [
+      "PART",
+      "por:está"
+    ],
+    [
+      "PART",
+      "por:comendo"
+    ],
+    [
+      "PART",
+      "por:fondue"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.567594Z": "SPLIT_DONE"
+  }
+}

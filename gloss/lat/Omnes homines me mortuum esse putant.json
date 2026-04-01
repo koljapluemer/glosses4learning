@@ -1,0 +1,39 @@
+{
+  "content": "Omnes homines me mortuum esse putant.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soweli_Elepanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Omnes"
+    ],
+    [
+      "PART",
+      "lat:homines"
+    ],
+    [
+      "PART",
+      "lat:me"
+    ],
+    [
+      "PART",
+      "lat:mortuum"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ],
+    [
+      "PART",
+      "lat:putant"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.348602Z": "SPLIT_DONE"
+  }
+}

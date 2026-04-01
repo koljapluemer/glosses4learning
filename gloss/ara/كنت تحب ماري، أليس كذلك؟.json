@@ -1,0 +1,35 @@
+{
+  "content": "كنت تحب ماري، أليس كذلك؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:كنت"
+    ],
+    [
+      "PART",
+      "ara:تحب"
+    ],
+    [
+      "PART",
+      "ara:ماري"
+    ],
+    [
+      "PART",
+      "ara:أليس"
+    ],
+    [
+      "PART",
+      "ara:كذلك"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.015466Z": "SPLIT_DONE"
+  }
+}

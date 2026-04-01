@@ -1,0 +1,31 @@
+{
+  "content": "wast",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Tom wast zien hannen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you've got",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you're",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:17:32.674036Z": "TRANSLATION_DONE:eng"
+  }
+}

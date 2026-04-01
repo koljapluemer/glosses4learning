@@ -1,0 +1,35 @@
+{
+  "content": "هل تستطيع التحدث باللغة الانجليزية؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Alaakhalid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هل"
+    ],
+    [
+      "PART",
+      "ara:تستطيع"
+    ],
+    [
+      "PART",
+      "ara:التحدث"
+    ],
+    [
+      "PART",
+      "ara:باللغة"
+    ],
+    [
+      "PART",
+      "ara:الانجليزية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.658728Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tôi đã ăn bữa sáng trễ.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tucm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tôi"
+    ],
+    [
+      "PART",
+      "vie:đã"
+    ],
+    [
+      "PART",
+      "vie:ăn"
+    ],
+    [
+      "PART",
+      "vie:bữa"
+    ],
+    [
+      "PART",
+      "vie:sáng"
+    ],
+    [
+      "PART",
+      "vie:trễ"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:06.992181Z": "SPLIT_DONE"
+  }
+}

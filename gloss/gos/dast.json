@@ -1,0 +1,30 @@
+{
+  "content": "dast",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Ik bin zo bliede dast doe leefst"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "gos:Gain wonder dast muide bist!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:that",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:which",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:09:29.040378Z": "TRANSLATION_DONE:eng"
+  }
+}

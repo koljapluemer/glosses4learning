@@ -1,0 +1,43 @@
+{
+  "content": "Tom Mary'nin bunu neden yaptığını merak ediyordu.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary'nin"
+    ],
+    [
+      "PART",
+      "tur:bunu"
+    ],
+    [
+      "PART",
+      "tur:neden"
+    ],
+    [
+      "PART",
+      "tur:yaptığını"
+    ],
+    [
+      "PART",
+      "tur:merak"
+    ],
+    [
+      "PART",
+      "tur:ediyordu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.299743Z": "SPLIT_DONE"
+  }
+}

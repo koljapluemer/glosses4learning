@@ -1,0 +1,45 @@
+{
+  "content": "mirando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hermano menor está mirando la televisión"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su hermano está siempre mirando televisión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:watching",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zu sehen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:веб камера",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaba mirando la televisión medio dormido"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Porque están mirando televisión"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:14.347835Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:14.364915Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:14.381154Z": "TRANSLATION_DONE:ukr"
+  }
+}

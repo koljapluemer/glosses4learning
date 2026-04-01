@@ -1,0 +1,65 @@
+{
+  "content": "media",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que estar allí antes de las dos y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que saberlo antes de las dos y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos hasta las dos y media de la tarde del lunes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mean",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos una reserva para las seis y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo una reservación para las seis y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos radares calculan tu velocidad media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Puedes quedarte hasta las dos y media﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No te puedes ir a casa hasta las dos y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pensé que tenía hasta las dos y media"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:11.267984Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:11.415334Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:11.439549Z": "TRANSLATION_DONE:ukr"
+  }
+}

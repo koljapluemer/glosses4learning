@@ -1,0 +1,43 @@
+{
+  "content": "Wir werden deine Hilfe heute nicht brauchen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dasbeispielholz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:werden"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Hilfe"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:brauchen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.428990Z": "SPLIT_DONE"
+  }
+}

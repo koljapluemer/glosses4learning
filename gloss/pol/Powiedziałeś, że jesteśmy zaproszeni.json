@@ -1,0 +1,31 @@
+{
+  "content": "Powiedziałeś, że jesteśmy zaproszeni.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Powiedziałeś"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:jesteśmy"
+    ],
+    [
+      "PART",
+      "pol:zaproszeni"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.222732Z": "SPLIT_DONE"
+  }
+}

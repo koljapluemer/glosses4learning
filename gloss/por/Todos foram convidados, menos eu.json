@@ -1,0 +1,35 @@
+{
+  "content": "Todos foram convidados, menos eu.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:foram"
+    ],
+    [
+      "PART",
+      "por:convidados"
+    ],
+    [
+      "PART",
+      "por:menos"
+    ],
+    [
+      "PART",
+      "por:eu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.503548Z": "SPLIT_DONE"
+  }
+}

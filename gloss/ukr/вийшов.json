@@ -1,0 +1,27 @@
+{
+  "content": "вийшов",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він вийшов за мого брата"
+    ],
+    [
+      "TRANSLATION",
+      "eng:out",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Raus!",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:54.077821Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:54.096246Z": "TRANSLATION_DONE:deu"
+  }
+}

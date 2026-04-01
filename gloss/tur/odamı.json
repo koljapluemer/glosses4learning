@@ -1,0 +1,27 @@
+{
+  "content": "odamı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un benim soyunma odamı kullanmasına izin verin"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My room",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mein Zimmer",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:34.605979Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:34.746055Z": "TRANSLATION_DONE:deu"
+  }
+}

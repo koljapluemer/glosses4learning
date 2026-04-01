@@ -1,0 +1,27 @@
+{
+  "content": "французька",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Моя французька не така вже й погана"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Französisch",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:07.519522Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:07.536160Z": "TRANSLATION_DONE:deu"
+  }
+}

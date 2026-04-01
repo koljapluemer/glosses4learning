@@ -1,0 +1,35 @@
+{
+  "content": "Olette Tomille kolmesataa dollaria velkaa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Olette"
+    ],
+    [
+      "PART",
+      "fin:Tomille"
+    ],
+    [
+      "PART",
+      "fin:kolmesataa"
+    ],
+    [
+      "PART",
+      "fin:dollaria"
+    ],
+    [
+      "PART",
+      "fin:velkaa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:09.987492Z": "SPLIT_DONE"
+  }
+}

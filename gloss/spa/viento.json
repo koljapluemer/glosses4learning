@@ -1,0 +1,33 @@
+{
+  "content": "viento",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay que medir la velocidad del viento con exactitud"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wind",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wind",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вітер",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:43.706255Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:43.722298Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:43.737762Z": "TRANSLATION_DONE:ukr"
+  }
+}

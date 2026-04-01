@@ -1,0 +1,35 @@
+{
+  "content": "Tom'un ebeveynleri benimkilerden daha yaşlı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:ebeveynleri"
+    ],
+    [
+      "PART",
+      "tur:benimkilerden"
+    ],
+    [
+      "PART",
+      "tur:daha"
+    ],
+    [
+      "PART",
+      "tur:yaşlı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.325165Z": "SPLIT_DONE"
+  }
+}

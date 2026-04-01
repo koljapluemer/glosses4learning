@@ -2,8 +2,14 @@
   "content": "schön",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T11:38:18.758878Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:18.775888Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:18.791840Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -76,6 +82,29 @@
     [
       "TRANSLATION",
       "spa:linda"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:„Was ist das hier bitte schön für ein ohrenbetäubender Lärm﹖“ – „Es läuft halt Musik.“"
+    ],
+    [
+      "TRANSLATION",
+      "eng:beautiful",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:красиві",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:гарна"
     ]
   ]
 }

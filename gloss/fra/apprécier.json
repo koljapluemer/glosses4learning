@@ -1,0 +1,31 @@
+{
+  "content": "apprécier",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Comment quiconque pourrait ne pas apprécier cela ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:appreciate",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Danke",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Comment peux-tu ne pas apprécier les chevaux ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:12.461620Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:12.617023Z": "TRANSLATION_DONE:deu"
+  }
+}

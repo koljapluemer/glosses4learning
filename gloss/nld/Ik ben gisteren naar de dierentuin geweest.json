@@ -1,0 +1,43 @@
+{
+  "content": "Ik ben gisteren naar de dierentuin geweest.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:naar"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:dierentuin"
+    ],
+    [
+      "PART",
+      "nld:geweest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.085859Z": "SPLIT_DONE"
+  }
+}

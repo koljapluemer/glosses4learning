@@ -1,0 +1,33 @@
+{
+  "content": "Anhalter",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom versuchte sich einmal im Reisen per Anhalter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Holder",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Продавець",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:12.665040Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:12.810732Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:12.835947Z": "TRANSLATION_DONE:kor"
+  }
+}

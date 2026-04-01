@@ -1,0 +1,39 @@
+{
+  "content": "Meine Ansicht unterscheidet von der Ihren.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Ansicht"
+    ],
+    [
+      "PART",
+      "deu:unterscheidet"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:der"
+    ],
+    [
+      "PART",
+      "deu:Ihren"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.454681Z": "SPLIT_DONE"
+  }
+}

@@ -12,7 +12,9 @@
     "2026-03-28T10:56:43.484963Z": "TRANSLATION_DONE:ita",
     "2026-03-28T10:56:44.408239Z": "TRANSLATION_DONE:kab",
     "2026-03-28T10:56:45.637032Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T10:56:46.967442Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T10:56:46.967442Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:15.847175Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:15.875479Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -86,6 +88,16 @@
     [
       "TRANSLATION",
       "tur:nasihat"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сермон",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

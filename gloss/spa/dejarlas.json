@@ -1,0 +1,33 @@
+{
+  "content": "dejarlas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunas cosas es mejor dejarlas sin hacer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:leave them",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lasst sie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:залишити їх",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:02.625362Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:02.645159Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:02.661045Z": "TRANSLATION_DONE:ukr"
+  }
+}

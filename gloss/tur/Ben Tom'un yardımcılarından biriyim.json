@@ -1,0 +1,31 @@
+{
+  "content": "Ben Tom'un yardımcılarından biriyim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Ben"
+    ],
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:yardımcılarından"
+    ],
+    [
+      "PART",
+      "tur:biriyim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.360928Z": "SPLIT_DONE"
+  }
+}

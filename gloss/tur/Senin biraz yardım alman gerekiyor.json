@@ -1,0 +1,35 @@
+{
+  "content": "Senin biraz yardım alman gerekiyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Senin"
+    ],
+    [
+      "PART",
+      "tur:biraz"
+    ],
+    [
+      "PART",
+      "tur:yardım"
+    ],
+    [
+      "PART",
+      "tur:alman"
+    ],
+    [
+      "PART",
+      "tur:gerekiyor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.310630Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Я тобі щось покажу.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:тобі"
+    ],
+    [
+      "PART",
+      "ukr:щось"
+    ],
+    [
+      "PART",
+      "ukr:покажу"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.982309Z": "SPLIT_DONE"
+  }
+}

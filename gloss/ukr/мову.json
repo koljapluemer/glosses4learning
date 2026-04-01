@@ -1,0 +1,27 @@
+{
+  "content": "мову",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я докладаю неабияких зусиль, щоб вивчити англійську мову"
+    ],
+    [
+      "TRANSLATION",
+      "eng:language",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sprache",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.776123Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.789495Z": "TRANSLATION_DONE:deu"
+  }
+}

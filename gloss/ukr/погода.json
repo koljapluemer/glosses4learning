@@ -1,0 +1,27 @@
+{
+  "content": "погода",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми повинні їхати завтра, якщо буде хороша погода"
+    ],
+    [
+      "TRANSLATION",
+      "eng:weather",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wetter",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:02.886740Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:02.901420Z": "TRANSLATION_DONE:deu"
+  }
+}

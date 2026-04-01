@@ -1,0 +1,31 @@
+{
+  "content": "vandet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har endnu ikke vandet blomsterne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har ikke vandet blomsterne endnu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:water",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wasser",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:56.207478Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:56.207782Z": "TRANSLATION_DONE:deu"
+  }
+}

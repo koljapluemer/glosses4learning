@@ -1,0 +1,39 @@
+{
+  "content": "Diese Uhr hat deinem Großvater gehört.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Diese"
+    ],
+    [
+      "PART",
+      "deu:Uhr"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:deinem"
+    ],
+    [
+      "PART",
+      "deu:Großvater"
+    ],
+    [
+      "PART",
+      "deu:gehört"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.402146Z": "SPLIT_DONE"
+  }
+}

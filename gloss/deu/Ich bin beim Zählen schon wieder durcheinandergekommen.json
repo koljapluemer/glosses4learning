@@ -1,0 +1,43 @@
+{
+  "content": "Ich bin beim Zählen schon wieder durcheinandergekommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:beim"
+    ],
+    [
+      "PART",
+      "deu:Zählen"
+    ],
+    [
+      "PART",
+      "deu:schon"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:durcheinandergekommen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.192917Z": "SPLIT_DONE"
+  }
+}

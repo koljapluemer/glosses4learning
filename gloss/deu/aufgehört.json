@@ -1,0 +1,33 @@
+{
+  "content": "aufgehört",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum hast du mit deiner Arbeit aufgehört﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ceased",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Припинено",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.745798Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.765400Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.782959Z": "TRANSLATION_DONE:kor"
+  }
+}

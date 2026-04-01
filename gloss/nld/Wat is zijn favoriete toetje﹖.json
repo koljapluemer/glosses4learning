@@ -1,0 +1,35 @@
+{
+  "content": "Wat is zijn favoriete toetje?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:favoriete"
+    ],
+    [
+      "PART",
+      "nld:toetje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.171596Z": "SPLIT_DONE"
+  }
+}

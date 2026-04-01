@@ -1,0 +1,35 @@
+{
+  "content": "En miljard människor talar engelska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:En"
+    ],
+    [
+      "PART",
+      "swe:miljard"
+    ],
+    [
+      "PART",
+      "swe:människor"
+    ],
+    [
+      "PART",
+      "swe:talar"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.852992Z": "SPLIT_DONE"
+  }
+}

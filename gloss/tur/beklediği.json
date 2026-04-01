@@ -1,0 +1,27 @@
+{
+  "content": "beklediği",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu hiç kimsenin beklediği bir şey değildi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:waiting",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:warten",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:45.713958Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:45.728867Z": "TRANSLATION_DONE:deu"
+  }
+}

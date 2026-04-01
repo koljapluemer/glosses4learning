@@ -1,0 +1,39 @@
+{
+  "content": "Ik drink mien kovvie mit suker.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ik"
+    ],
+    [
+      "PART",
+      "gos:drink"
+    ],
+    [
+      "PART",
+      "gos:mien"
+    ],
+    [
+      "PART",
+      "gos:kovvie"
+    ],
+    [
+      "PART",
+      "gos:mit"
+    ],
+    [
+      "PART",
+      "gos:suker"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.430529Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "videre",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du kan ikke gå videre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ønsker ikke at læse videre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Forsøg ikke at sende aben videre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:further",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weiter",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:00.783346Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:00.923103Z": "TRANSLATION_DONE:deu"
+  }
+}

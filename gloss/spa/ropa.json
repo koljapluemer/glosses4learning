@@ -2,8 +2,13 @@
   "content": "ropa",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:53:28.933372Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:28.949855Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -13,6 +18,20 @@
     [
       "TRANSLATION",
       "eng:outfit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los paseantes están vestidos con ropa de verano"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bekleidung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Одяг",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

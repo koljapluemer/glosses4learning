@@ -1,0 +1,27 @@
+{
+  "content": "udleveret",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom vil ikke blive udleveret til Australien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:released",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:veröffentlicht",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:49.382468Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:49.396807Z": "TRANSLATION_DONE:deu"
+  }
+}

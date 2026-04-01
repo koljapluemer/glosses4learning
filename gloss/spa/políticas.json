@@ -1,0 +1,33 @@
+{
+  "content": "políticas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las políticas del gobierno fracasaron miserablemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:policies",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Politik",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:політика",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:24.339683Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:24.352522Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:24.368677Z": "TRANSLATION_DONE:ukr"
+  }
+}

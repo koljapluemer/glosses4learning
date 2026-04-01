@@ -1,0 +1,51 @@
+{
+  "content": "Tom hat sich von seiner ersten Frau scheiden lassen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:seiner"
+    ],
+    [
+      "PART",
+      "deu:ersten"
+    ],
+    [
+      "PART",
+      "deu:Frau"
+    ],
+    [
+      "PART",
+      "deu:scheiden"
+    ],
+    [
+      "PART",
+      "deu:lassen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.379774Z": "SPLIT_DONE"
+  }
+}

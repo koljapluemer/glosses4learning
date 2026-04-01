@@ -8,7 +8,9 @@
     "2026-01-27T14:37:26.452378Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:24:06.913342Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:07.073298Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:24:07.233315Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:24:07.233315Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:45.235463Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:45.255277Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -62,6 +64,32 @@
     [
       "TRANSLATION",
       "spa:dónde"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hast du etwas gefunden, wo du erst mal unterkommen kannst﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie etwas gefunden, wo Sie erst mal unterkommen können﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr etwas gefunden, wo ihr erst mal unterkommen könnt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie etwas gefunden, wo du bleiben kannst﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:де",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

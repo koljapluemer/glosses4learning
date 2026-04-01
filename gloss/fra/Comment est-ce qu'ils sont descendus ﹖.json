@@ -1,0 +1,35 @@
+{
+  "content": "Comment est-ce qu'ils sont descendus ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:descendus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.452203Z": "SPLIT_DONE"
+  }
+}

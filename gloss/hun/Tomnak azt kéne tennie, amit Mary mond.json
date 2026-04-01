@@ -1,0 +1,43 @@
+{
+  "content": "Tomnak azt kéne tennie, amit Mary mond.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Trillian (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tomnak"
+    ],
+    [
+      "PART",
+      "hun:azt"
+    ],
+    [
+      "PART",
+      "hun:kéne"
+    ],
+    [
+      "PART",
+      "hun:tennie"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:Mary"
+    ],
+    [
+      "PART",
+      "hun:mond"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.603390Z": "SPLIT_DONE"
+  }
+}

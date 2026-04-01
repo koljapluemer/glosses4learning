@@ -1,0 +1,31 @@
+{
+  "content": "взяли",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тома взяли на роботу"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мене взяли до команди"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Take",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nehmen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:53.866425Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:53.880711Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:32:47.400877Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:40.495819Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:18:40.654267Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:18:40.654267Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:19.207983Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:19.358631Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -65,6 +67,16 @@
     [
       "TRANSLATION",
       "tha:กิน"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Етно",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:₢ 킹",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

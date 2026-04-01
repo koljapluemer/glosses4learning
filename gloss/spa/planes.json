@@ -1,0 +1,33 @@
+{
+  "content": "planes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mis planes fracasaron miserablemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:plans",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pläne",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Плани",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.849737Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.866184Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:12.880190Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "afviser",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du afviser altid det jeg foreslår"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du afviser altid hvad jeg foreslår"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reject",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ablehnung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:41.240184Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:41.377499Z": "TRANSLATION_DONE:deu"
+  }
+}

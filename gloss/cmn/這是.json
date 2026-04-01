@@ -1,0 +1,33 @@
+{
+  "content": "這是",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這是環保型產品。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這是箇小鎮。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這是一所公立學校。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This is",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這是什麼時候發生的？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:10.498135Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Num quis sine tumultu irasci potest?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Num"
+    ],
+    [
+      "PART",
+      "lat:quis"
+    ],
+    [
+      "PART",
+      "lat:sine"
+    ],
+    [
+      "PART",
+      "lat:tumultu"
+    ],
+    [
+      "PART",
+      "lat:irasci"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.287236Z": "SPLIT_DONE"
+  }
+}

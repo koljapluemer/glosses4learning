@@ -1,0 +1,31 @@
+{
+  "content": "Nevím, kdo je zapojený.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nevím"
+    ],
+    [
+      "PART",
+      "ces:kdo"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:zapojený"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.103640Z": "SPLIT_DONE"
+  }
+}

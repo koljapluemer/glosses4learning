@@ -1,0 +1,39 @@
+{
+  "content": "Jag talar franska med mina lärare.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:talar"
+    ],
+    [
+      "PART",
+      "swe:franska"
+    ],
+    [
+      "PART",
+      "swe:med"
+    ],
+    [
+      "PART",
+      "swe:mina"
+    ],
+    [
+      "PART",
+      "swe:lärare"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.956544Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "ชื่อจริง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ไม่มีใครรู้ชื่อจริงของเขา"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันไม่รู้จักชื่อจริงของเธอ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Real name",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Echter Name",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:33.082632Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:33.164944Z": "TRANSLATION_DONE:deu"
+  }
+}

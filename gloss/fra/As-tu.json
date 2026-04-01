@@ -1,0 +1,27 @@
+{
+  "content": "As-tu",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:As-tu le sentiment que les anniversaires sont importants ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Have you",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:- Ja",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:30.023062Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:30.050760Z": "TRANSLATION_DONE:deu"
+  }
+}

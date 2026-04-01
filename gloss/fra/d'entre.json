@@ -1,0 +1,27 @@
+{
+  "content": "d'entre",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vous pouvez choisir n'importe laquelle d'entre elles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:von",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:19.766862Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:19.910626Z": "TRANSLATION_DONE:deu"
+  }
+}

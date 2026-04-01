@@ -1,0 +1,39 @@
+{
+  "content": "Har du översatt den här meningen?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SilasNordgren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Har"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:översatt"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:meningen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.888293Z": "SPLIT_DONE"
+  }
+}

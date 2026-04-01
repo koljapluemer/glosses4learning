@@ -1,0 +1,43 @@
+{
+  "content": "Czy Tom powiedział ci, co się stało?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:ci"
+    ],
+    [
+      "PART",
+      "pol:co"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:stało"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.305515Z": "SPLIT_DONE"
+  }
+}

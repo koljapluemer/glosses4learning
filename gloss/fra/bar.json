@@ -5,6 +5,27 @@
     [
       "TRANSLATION",
       "tat:бар"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce qu'il y avait quelqu'un dans le bar ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bar",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bar",
+      "Auto-translated with argostranslate (fr→en→de)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T13:52:31.658626Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:31.671520Z": "TRANSLATION_DONE:deu"
+  }
 }

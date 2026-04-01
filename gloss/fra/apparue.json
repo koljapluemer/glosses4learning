@@ -1,0 +1,27 @@
+{
+  "content": "apparue",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:De quelle manière l'eau est-elle apparue sur Terre ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:appeared",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erschienen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:31.263842Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:31.276674Z": "TRANSLATION_DONE:deu"
+  }
+}

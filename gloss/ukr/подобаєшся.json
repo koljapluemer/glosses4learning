@@ -1,0 +1,27 @@
+{
+  "content": "подобаєшся",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знаю, що ти подобаєшся Тому"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I like it",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mir gefällt es",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:05.886524Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:05.903070Z": "TRANSLATION_DONE:deu"
+  }
+}

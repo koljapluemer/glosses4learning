@@ -1,0 +1,27 @@
+{
+  "content": "Americani sunt ineruditi.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Americani"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ],
+    [
+      "PART",
+      "lat:ineruditi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.318204Z": "SPLIT_DONE"
+  }
+}

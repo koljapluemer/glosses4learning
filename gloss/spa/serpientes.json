@@ -1,0 +1,53 @@
+{
+  "content": "serpientes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Les tengo un miedo a las serpientes que me muero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:snakes",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schlangen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:свінгери",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Le gustan los animales peculiares, como las serpientes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella no les tiene miedo a las serpientes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella le tiene un gran miedo a las serpientes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A ella no le dan miedo las serpientes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Les tengo un miedo terrible a las serpientes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:33.029869Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:33.060475Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:33.110671Z": "TRANSLATION_DONE:ukr"
+  }
+}

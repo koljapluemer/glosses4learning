@@ -1,0 +1,31 @@
+{
+  "content": "هي تكتب بالكتابة الأمازيغية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amghar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هي"
+    ],
+    [
+      "PART",
+      "ara:تكتب"
+    ],
+    [
+      "PART",
+      "ara:بالكتابة"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.685765Z": "SPLIT_DONE"
+  }
+}

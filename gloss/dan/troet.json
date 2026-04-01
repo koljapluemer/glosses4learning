@@ -1,0 +1,27 @@
+{
+  "content": "troet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville ønske at jeg ikke havde troet på Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Thought",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gedanken",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:48.704406Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:48.861622Z": "TRANSLATION_DONE:deu"
+  }
+}

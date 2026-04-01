@@ -1,0 +1,39 @@
+{
+  "content": "Jeg er ikke enig med deg.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:enig"
+    ],
+    [
+      "PART",
+      "nob:med"
+    ],
+    [
+      "PART",
+      "nob:deg"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.243186Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Ми з Томом тренуємося разом.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Ми"
+    ],
+    [
+      "PART",
+      "ukr:з"
+    ],
+    [
+      "PART",
+      "ukr:Томом"
+    ],
+    [
+      "PART",
+      "ukr:тренуємося"
+    ],
+    [
+      "PART",
+      "ukr:разом"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.995774Z": "SPLIT_DONE"
+  }
+}

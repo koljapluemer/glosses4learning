@@ -1,0 +1,33 @@
+{
+  "content": "recte",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin Thomas recte dicat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin recte dicas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin recte dicat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin recte dicant"
+    ],
+    [
+      "TRANSLATION",
+      "eng:correctly",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:45:03.638681Z": "TRANSLATION_DONE:eng"
+  }
+}

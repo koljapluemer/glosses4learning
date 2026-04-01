@@ -1,0 +1,43 @@
+{
+  "content": "Warum antworten Sie nicht auf meine Frage?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Warum"
+    ],
+    [
+      "PART",
+      "deu:antworten"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Frage"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.412318Z": "SPLIT_DONE"
+  }
+}

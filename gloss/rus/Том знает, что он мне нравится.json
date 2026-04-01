@@ -1,0 +1,39 @@
+{
+  "content": "Том знает, что он мне нравится.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:знает"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:нравится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.294102Z": "SPLIT_DONE"
+  }
+}

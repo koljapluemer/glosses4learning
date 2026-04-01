@@ -1,0 +1,35 @@
+{
+  "content": "aften",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kan du gætte hvem der kommer til middag i aften﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Her til aften var det bælgmørkt udenfor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:night",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nacht",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg tager ingen steder hen i aften"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:40.947790Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:41.115734Z": "TRANSLATION_DONE:deu"
+  }
+}

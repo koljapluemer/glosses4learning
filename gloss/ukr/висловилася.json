@@ -1,0 +1,27 @@
+{
+  "content": "висловилася",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я висловилася"
+    ],
+    [
+      "TRANSLATION",
+      "eng:spoken",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gesprochen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:54.140452Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:54.155867Z": "TRANSLATION_DONE:deu"
+  }
+}

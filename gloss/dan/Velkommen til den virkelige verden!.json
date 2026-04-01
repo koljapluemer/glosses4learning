@@ -1,0 +1,35 @@
+{
+  "content": "Velkommen til den virkelige verden!",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Velkommen"
+    ],
+    [
+      "PART",
+      "dan:til"
+    ],
+    [
+      "PART",
+      "dan:den"
+    ],
+    [
+      "PART",
+      "dan:virkelige"
+    ],
+    [
+      "PART",
+      "dan:verden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.682173Z": "SPLIT_DONE"
+  }
+}

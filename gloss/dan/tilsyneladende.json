@@ -1,0 +1,27 @@
+{
+  "content": "tilsyneladende",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han vidste tilsyneladende alt om mig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:apparently",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:anscheinend",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:47.883766Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:48.030455Z": "TRANSLATION_DONE:deu"
+  }
+}

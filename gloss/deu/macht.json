@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-12T13:52:07.907253Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-12T14:20:36.871086Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
-    "2026-03-29T13:21:20.105920Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:20.105920Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:10.311547Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:10.327602Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -42,6 +44,44 @@
     [
       "TRANSLATION",
       "rus:осуществляет"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom macht in diesem Jahr seinen Abschluss"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es macht mir großen Spaß, mich mit dir zu unterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:потужність",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:힘 힘",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom macht immer noch seine Hausaufgaben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom macht sich andauernd um seine Tochter Sorgen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom macht gerade seine Französisch-Hausaufgaben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er macht das aus reiner Schikane, weil er genau weiß, daß ich mich darüber ärgere"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er macht sich über seine Geheimratsecken Sorgen"
     ]
   ]
 }

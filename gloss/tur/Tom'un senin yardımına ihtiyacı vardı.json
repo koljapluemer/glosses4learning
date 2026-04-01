@@ -1,0 +1,35 @@
+{
+  "content": "Tom'un senin yardımına ihtiyacı vardı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:senin"
+    ],
+    [
+      "PART",
+      "tur:yardımına"
+    ],
+    [
+      "PART",
+      "tur:ihtiyacı"
+    ],
+    [
+      "PART",
+      "tur:vardı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.589363Z": "SPLIT_DONE"
+  }
+}

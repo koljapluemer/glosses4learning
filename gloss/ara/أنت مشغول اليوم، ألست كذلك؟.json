@@ -1,0 +1,35 @@
+{
+  "content": "أنت مشغول اليوم، ألست كذلك؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by A_N_H (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنت"
+    ],
+    [
+      "PART",
+      "ara:مشغول"
+    ],
+    [
+      "PART",
+      "ara:اليوم"
+    ],
+    [
+      "PART",
+      "ara:ألست"
+    ],
+    [
+      "PART",
+      "ara:كذلك"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.055639Z": "SPLIT_DONE"
+  }
+}

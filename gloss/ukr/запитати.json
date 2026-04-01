@@ -1,0 +1,27 @@
+{
+  "content": "запитати",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені слід було запитати"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ask",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frage stellen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.903219Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.917895Z": "TRANSLATION_DONE:deu"
+  }
+}

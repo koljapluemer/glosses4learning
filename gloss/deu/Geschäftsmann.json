@@ -1,0 +1,33 @@
+{
+  "content": "Geschäftsmann",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom ist ein wohlhabender Bostoner Geschäftsmann"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Businessman",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Бізнесмен",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사업영역",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:54.852002Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:54.870421Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:54.887253Z": "TRANSLATION_DONE:kor"
+  }
+}

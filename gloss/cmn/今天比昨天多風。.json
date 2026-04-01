@@ -1,0 +1,35 @@
+{
+  "content": "今天比昨天多風。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:今天"
+    ],
+    [
+      "PART",
+      "cmn:比"
+    ],
+    [
+      "PART",
+      "cmn:昨天"
+    ],
+    [
+      "PART",
+      "cmn:多風"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.626690Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Она сказала, что чувствует себя неловко.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Proxima5 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Она"
+    ],
+    [
+      "PART",
+      "rus:сказала"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:чувствует"
+    ],
+    [
+      "PART",
+      "rus:себя"
+    ],
+    [
+      "PART",
+      "rus:неловко"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.320083Z": "SPLIT_DONE"
+  }
+}

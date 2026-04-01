@@ -1,0 +1,39 @@
+{
+  "content": "Ben je allergisch voor een medicijn?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:allergisch"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:medicijn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.148807Z": "SPLIT_DONE"
+  }
+}

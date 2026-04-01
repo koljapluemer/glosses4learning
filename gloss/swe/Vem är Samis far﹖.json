@@ -1,0 +1,31 @@
+{
+  "content": "Vem är Samis far?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickrobson (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vem"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:Samis"
+    ],
+    [
+      "PART",
+      "swe:far"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.849180Z": "SPLIT_DONE"
+  }
+}

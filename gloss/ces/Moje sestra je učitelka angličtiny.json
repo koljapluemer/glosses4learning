@@ -1,0 +1,35 @@
+{
+  "content": "Moje sestra je učitelka angličtiny.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lipao (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:sestra"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:učitelka"
+    ],
+    [
+      "PART",
+      "ces:angličtiny"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.726762Z": "SPLIT_DONE"
+  }
+}

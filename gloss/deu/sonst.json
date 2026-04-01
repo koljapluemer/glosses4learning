@@ -2,8 +2,14 @@
   "content": "sonst",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T11:38:20.692686Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:20.709419Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:20.724897Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -16,6 +22,25 @@
     [
       "NOTE",
       "eng:can mean 'otherwise' in some contexts, but can also imply 'or else'"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wer kann sonst noch meine Frage beantworten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:otherwise",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:В іншому випадку",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

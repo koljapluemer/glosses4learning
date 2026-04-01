@@ -1,0 +1,31 @@
+{
+  "content": "Ella fue brutalmente asesinada.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by DarkHollow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:fue"
+    ],
+    [
+      "PART",
+      "spa:brutalmente"
+    ],
+    [
+      "PART",
+      "spa:asesinada"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.685689Z": "SPLIT_DONE"
+  }
+}

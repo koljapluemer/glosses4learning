@@ -1,0 +1,31 @@
+{
+  "content": "billeder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Gid jeg havde taget nogle flere billeder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har tænkt mig at tage nogle billeder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:images",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bilder",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:18.653281Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:18.727201Z": "TRANSLATION_DONE:deu"
+  }
+}

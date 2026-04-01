@@ -1,0 +1,39 @@
+{
+  "content": "Quelle autre raison pourrait-il y avoir ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelle"
+    ],
+    [
+      "PART",
+      "fra:autre"
+    ],
+    [
+      "PART",
+      "fra:raison"
+    ],
+    [
+      "PART",
+      "fra:pourrait-il"
+    ],
+    [
+      "PART",
+      "fra:y"
+    ],
+    [
+      "PART",
+      "fra:avoir"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.282308Z": "SPLIT_DONE"
+  }
+}

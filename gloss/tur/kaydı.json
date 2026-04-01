@@ -1,0 +1,27 @@
+{
+  "content": "kaydı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un kaydı herhangi bir açıklamaya ihtiyaç duymuyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Registration",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Anmeldung",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:48.505305Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:48.525803Z": "TRANSLATION_DONE:deu"
+  }
+}

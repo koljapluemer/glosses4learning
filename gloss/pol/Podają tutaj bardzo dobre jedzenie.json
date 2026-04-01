@@ -1,0 +1,35 @@
+{
+  "content": "Podają tutaj bardzo dobre jedzenie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilberry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Podają"
+    ],
+    [
+      "PART",
+      "pol:tutaj"
+    ],
+    [
+      "PART",
+      "pol:bardzo"
+    ],
+    [
+      "PART",
+      "pol:dobre"
+    ],
+    [
+      "PART",
+      "pol:jedzenie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.230467Z": "SPLIT_DONE"
+  }
+}

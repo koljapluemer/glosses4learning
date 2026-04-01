@@ -1,0 +1,43 @@
+{
+  "content": "Han slog sig ner på en stol.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:slog"
+    ],
+    [
+      "PART",
+      "swe:sig"
+    ],
+    [
+      "PART",
+      "swe:ner"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:stol"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.816386Z": "SPLIT_DONE"
+  }
+}

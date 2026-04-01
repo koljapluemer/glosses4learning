@@ -1,0 +1,39 @@
+{
+  "content": "Tom houdt natuurlijk van zijn kinderen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OpenSystemenHOGent (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:natuurlijk"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.132423Z": "SPLIT_DONE"
+  }
+}

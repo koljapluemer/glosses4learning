@@ -1,0 +1,33 @@
+{
+  "content": "Netzbrief",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hat noch jemand diesen Netzbrief erhalten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Net",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про компанію",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:49.485418Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:49.509801Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:49.665484Z": "TRANSLATION_DONE:kor"
+  }
+}

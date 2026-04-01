@@ -1,0 +1,47 @@
+{
+  "content": "Tom é um dos meus colegas de classe.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ajdavidl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:um"
+    ],
+    [
+      "PART",
+      "por:dos"
+    ],
+    [
+      "PART",
+      "por:meus"
+    ],
+    [
+      "PART",
+      "por:colegas"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:classe"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.477190Z": "SPLIT_DONE"
+  }
+}

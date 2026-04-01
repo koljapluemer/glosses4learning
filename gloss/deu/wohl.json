@@ -1,0 +1,37 @@
+{
+  "content": "wohl",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange Sie wohl durchhalten werden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange ihr wohl durchhalten werdet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:probably",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Тим",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:아마",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:45.288450Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:45.302540Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:45.318340Z": "TRANSLATION_DONE:kor"
+  }
+}

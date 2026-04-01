@@ -4,9 +4,13 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T14:20:42.793195Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:44.725790Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T14:20:44.725790Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T11:38:17.144451Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:17.160792Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -23,6 +27,28 @@
     [
       "TRANSLATION",
       "ita:disse"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich sagte doch, dass ihr euch darum keine Sorgen machen sollt"
+    ],
+    [
+      "TRANSLATION",
+      "dan:fortalt"
+    ],
+    [
+      "TRANSLATION",
+      "dan:fortalte"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:- сказав він",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그는 말했다",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

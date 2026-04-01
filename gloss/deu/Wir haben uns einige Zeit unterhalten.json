@@ -1,0 +1,39 @@
+{
+  "content": "Wir haben uns einige Zeit unterhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:uns"
+    ],
+    [
+      "PART",
+      "deu:einige"
+    ],
+    [
+      "PART",
+      "deu:Zeit"
+    ],
+    [
+      "PART",
+      "deu:unterhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.494873Z": "SPLIT_DONE"
+  }
+}

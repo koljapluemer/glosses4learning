@@ -1,0 +1,37 @@
+{
+  "content": "inconsistentes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las rimas infantiles son textos deliberadamente inconsistentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los tests de personalidad me dan resultados inconsistentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Inconsistent",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Inkonsistent",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Непристойна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:04.190531Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:04.347837Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:04.408758Z": "TRANSLATION_DONE:ukr"
+  }
+}

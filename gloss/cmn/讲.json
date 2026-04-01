@@ -1,0 +1,29 @@
+{
+  "content": "讲",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:为什么我们现在不能讲？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Speak",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她给我讲了一个有趣的故事。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:他跟我讲了他的人生故事。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:02.702986Z": "TRANSLATION_DONE:eng"
+  }
+}

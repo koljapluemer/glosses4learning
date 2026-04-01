@@ -1,0 +1,39 @@
+{
+  "content": "Jeg vil aldrig nogensinde drikke igen.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:aldrig"
+    ],
+    [
+      "PART",
+      "dan:nogensinde"
+    ],
+    [
+      "PART",
+      "dan:drikke"
+    ],
+    [
+      "PART",
+      "dan:igen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.774875Z": "SPLIT_DONE"
+  }
+}

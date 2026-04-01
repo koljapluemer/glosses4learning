@@ -2,7 +2,8 @@
   "content": "Ulac.",
   "language": "kab",
   "tags": [
-    "eng:tatoeba-sentence"
+    "eng:tatoeba-sentence",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Sentence from Tatoeba by Igider (CC-BY 2.0 FR)"
@@ -11,6 +12,49 @@
     [
       "TRANSLATION",
       "deu:Es gibt nichts"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ulac turart deg tayri"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ulac d acu iteddun deg-s"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ulac amdan i yellan deg leɛqel-is ara ixedmen ayenni"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ulac ccek dakken mary tḥemmel ismed-ines"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "kab:Ulac ayen yezmer Tom ad t-ibeddel tura"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There is none",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It doesn't exist",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:No way",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Not available",
+      "Auto-translated with gpt-4o-mini"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-31T15:31:09.810355Z": "TRANSLATION_DONE:eng"
+  }
 }

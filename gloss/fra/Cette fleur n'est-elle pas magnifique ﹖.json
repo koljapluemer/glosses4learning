@@ -1,0 +1,35 @@
+{
+  "content": "Cette fleur n'est-elle pas magnifique ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marisa2404 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:fleur"
+    ],
+    [
+      "PART",
+      "fra:n'est-elle"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:magnifique"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.239917Z": "SPLIT_DONE"
+  }
+}

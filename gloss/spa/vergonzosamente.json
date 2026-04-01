@@ -1,0 +1,33 @@
+{
+  "content": "vergonzosamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos dijeron que él se portó vergonzosamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Shame",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Scham",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Кошик",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.722933Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.739715Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.759434Z": "TRANSLATION_DONE:ukr"
+  }
+}

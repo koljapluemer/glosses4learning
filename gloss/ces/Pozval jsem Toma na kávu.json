@@ -1,0 +1,35 @@
+{
+  "content": "Pozval jsem Toma na kávu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Pozval"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:kávu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.598322Z": "SPLIT_DONE"
+  }
+}

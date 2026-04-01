@@ -1,0 +1,27 @@
+{
+  "content": "frem",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den første der kommer frem, vinder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:forward",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vorwärts",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:23.523275Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:23.548079Z": "TRANSLATION_DONE:deu"
+  }
+}

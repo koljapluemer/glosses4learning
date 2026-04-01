@@ -10,7 +10,8 @@
     "2026-03-29T14:27:54.824924Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:27:55.023169Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:27:55.207339Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:27:55.384293Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:27:55.384293Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:42.983708Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,15 @@
     [
       "TRANSLATION",
       "tur:pencereler"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вікна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los submarinos grandes tienen ventanas pequeñas"
     ]
   ]
 }

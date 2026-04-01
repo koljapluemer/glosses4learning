@@ -1,0 +1,33 @@
+{
+  "content": "geniales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo unos amigos geniales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:great",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:großartig",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:великий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.315181Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.328760Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.344970Z": "TRANSLATION_DONE:ukr"
+  }
+}

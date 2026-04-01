@@ -8,7 +8,9 @@
     "2026-01-27T15:18:58.461600Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:07.942841Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:08.148670Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:18:08.309396Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:18:08.309396Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:04.904696Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:05.050831Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -82,6 +84,28 @@
     [
       "TRANSLATION",
       "rus:да"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich sagte doch, dass ihr euch darum keine Sorgen machen sollt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Weine doch nicht! Ich muss auch noch das Weinen anfangen, wenn du weinst"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Im Sommer gibt es doch nichts Schöneres als eine Wassermelone!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

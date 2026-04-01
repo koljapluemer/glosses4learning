@@ -1,0 +1,35 @@
+{
+  "content": "Omnes inter se amplexae sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Omnes"
+    ],
+    [
+      "PART",
+      "lat:inter"
+    ],
+    [
+      "PART",
+      "lat:se"
+    ],
+    [
+      "PART",
+      "lat:amplexae"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.335344Z": "SPLIT_DONE"
+  }
+}

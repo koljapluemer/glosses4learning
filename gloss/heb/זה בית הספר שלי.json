@@ -1,0 +1,31 @@
+{
+  "content": "זה בית הספר שלי.",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "heb:זה"
+    ],
+    [
+      "PART",
+      "heb:בית"
+    ],
+    [
+      "PART",
+      "heb:הספר"
+    ],
+    [
+      "PART",
+      "heb:שלי"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:36.537691Z": "SPLIT_DONE"
+  }
+}

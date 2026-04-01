@@ -1,0 +1,33 @@
+{
+  "content": "entendimiento",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Una buena pronunciación es muy importante para el entendimiento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:understanding",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verständnis",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розуміння",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:47.435263Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:47.450279Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:47.591928Z": "TRANSLATION_DONE:ukr"
+  }
+}

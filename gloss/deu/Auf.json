@@ -1,0 +1,45 @@
+{
+  "content": "Auf",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat nicht einmal „Auf Wiedersehen!“ gesagt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:On",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:에 의해",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:На"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Auf sein Versprechen kann man sich nicht verlassen"
+    ],
+    [
+      "TRANSLATION",
+      "dan:På"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:13.810798Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:13.850665Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:13.997387Z": "TRANSLATION_DONE:kor"
+  }
+}

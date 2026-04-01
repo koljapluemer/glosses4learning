@@ -1,0 +1,27 @@
+{
+  "content": "prestation",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Sa prestation n'a pas été à la hauteur des attentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:benefit",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leistung",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:45.979020Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:46.122530Z": "TRANSLATION_DONE:deu"
+  }
+}

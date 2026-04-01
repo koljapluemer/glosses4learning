@@ -1,0 +1,35 @@
+{
+  "content": "أنت لا تهتم بالحيوانات الأليفة.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by suhaib (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنت"
+    ],
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:تهتم"
+    ],
+    [
+      "PART",
+      "ara:بالحيوانات"
+    ],
+    [
+      "PART",
+      "ara:الأليفة"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.661842Z": "SPLIT_DONE"
+  }
+}

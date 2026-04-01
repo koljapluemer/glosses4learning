@@ -1,0 +1,27 @@
+{
+  "content": "grillent",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les grille-pains ne grillent pas le pain, ce sont les gens qui le font"
+    ],
+    [
+      "TRANSLATION",
+      "eng:grill",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Grill",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:27.389503Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:27.538597Z": "TRANSLATION_DONE:deu"
+  }
+}

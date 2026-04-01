@@ -1,0 +1,47 @@
+{
+  "content": "Me gustan los helados con cobertura de chocolate.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wallebot (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:gustan"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:helados"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:cobertura"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:chocolate"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.630675Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Tom felkészületlennek érezte magát.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by H_Liliom (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:felkészületlennek"
+    ],
+    [
+      "PART",
+      "hun:érezte"
+    ],
+    [
+      "PART",
+      "hun:magát"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.618720Z": "SPLIT_DONE"
+  }
+}

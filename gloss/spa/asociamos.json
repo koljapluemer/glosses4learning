@@ -1,0 +1,33 @@
+{
+  "content": "asociamos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Por lo general asociamos a los estadounidenses con la libertad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we associate",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir assoziierten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ми асоціюємо",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:27.250091Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:27.386303Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:27.532377Z": "TRANSLATION_DONE:ukr"
+  }
+}

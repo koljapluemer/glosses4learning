@@ -1,0 +1,43 @@
+{
+  "content": "Pourquoi n'êtes-vous pas venu tout de suite ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:n'êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:venu"
+    ],
+    [
+      "PART",
+      "fra:tout"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:suite"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.091621Z": "SPLIT_DONE"
+  }
+}

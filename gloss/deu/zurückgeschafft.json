@@ -1,0 +1,33 @@
+{
+  "content": "zurückgeschafft",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin froh, dass wir es noch rechtzeitig zurückgeschafft haben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:made back",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:назад",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:맨 위로",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:46.882753Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:46.900423Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:46.916182Z": "TRANSLATION_DONE:kor"
+  }
+}

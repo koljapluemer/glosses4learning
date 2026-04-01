@@ -1,0 +1,43 @@
+{
+  "content": "Las personas grandes no siempre son fuertes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Las"
+    ],
+    [
+      "PART",
+      "spa:personas"
+    ],
+    [
+      "PART",
+      "spa:grandes"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:siempre"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:fuertes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.723712Z": "SPLIT_DONE"
+  }
+}

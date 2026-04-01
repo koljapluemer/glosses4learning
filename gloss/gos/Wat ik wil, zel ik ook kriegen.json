@@ -1,0 +1,39 @@
+{
+  "content": "Wat ik wil, zel ik ook kriegen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wat"
+    ],
+    [
+      "PART",
+      "gos:ik"
+    ],
+    [
+      "PART",
+      "gos:wil"
+    ],
+    [
+      "PART",
+      "gos:zel"
+    ],
+    [
+      "PART",
+      "gos:ook"
+    ],
+    [
+      "PART",
+      "gos:kriegen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.412478Z": "SPLIT_DONE"
+  }
+}

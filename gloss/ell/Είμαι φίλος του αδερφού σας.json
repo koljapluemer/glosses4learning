@@ -1,0 +1,35 @@
+{
+  "content": "Είμαι φίλος του αδερφού σας.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Είμαι"
+    ],
+    [
+      "PART",
+      "ell:φίλος"
+    ],
+    [
+      "PART",
+      "ell:του"
+    ],
+    [
+      "PART",
+      "ell:αδερφού"
+    ],
+    [
+      "PART",
+      "ell:σας"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.933346Z": "SPLIT_DONE"
+  }
+}

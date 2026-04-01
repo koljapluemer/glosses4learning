@@ -1,0 +1,33 @@
+{
+  "content": "mens",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Je bent een fantastisch mens"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Je bent een onmogelijk mens"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Je bent geen slecht mens"
+    ],
+    [
+      "TRANSLATION",
+      "eng:human",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:De mens is het enige dier dat gebruikmaakt van vuur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:56.926975Z": "TRANSLATION_DONE:eng"
+  }
+}

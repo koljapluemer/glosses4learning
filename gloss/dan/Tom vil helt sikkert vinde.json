@@ -1,0 +1,35 @@
+{
+  "content": "Tom vil helt sikkert vinde.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:helt"
+    ],
+    [
+      "PART",
+      "dan:sikkert"
+    ],
+    [
+      "PART",
+      "dan:vinde"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.679722Z": "SPLIT_DONE"
+  }
+}

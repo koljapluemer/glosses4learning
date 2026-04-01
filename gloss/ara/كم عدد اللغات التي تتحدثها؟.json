@@ -1,0 +1,35 @@
+{
+  "content": "كم عدد اللغات التي تتحدثها؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by atitarev (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:كم"
+    ],
+    [
+      "PART",
+      "ara:عدد"
+    ],
+    [
+      "PART",
+      "ara:اللغات"
+    ],
+    [
+      "PART",
+      "ara:التي"
+    ],
+    [
+      "PART",
+      "ara:تتحدثها"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:19.022846Z": "SPLIT_DONE"
+  }
+}

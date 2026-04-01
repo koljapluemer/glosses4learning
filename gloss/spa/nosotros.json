@@ -2,12 +2,63 @@
   "content": "nosotros",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:53:19.267100Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:19.281377Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:we"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos nosotros odiamos la televisión y los ordenadores"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que ellos están hablando de nosotros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los animales tienen instintos, nosotros tenemos impuestos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él caminó vigorosamente delante de nosotros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están preparando una comida para nosotros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las tensiones eran muy fuertes entre nosotros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Están claramente en contra de nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ми",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos lo hacen más rápido que nosotros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están tan cansados como nosotros"
     ]
   ]
 }

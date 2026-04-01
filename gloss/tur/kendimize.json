@@ -1,0 +1,27 @@
+{
+  "content": "kendimize",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunun neden olduğunu kendimize soralım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ourselves News",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir haben uns",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:33.083068Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:33.102548Z": "TRANSLATION_DONE:deu"
+  }
+}

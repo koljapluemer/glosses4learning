@@ -1,0 +1,31 @@
+{
+  "content": "mémoriser",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que tu peux mémoriser dix millions de phrases ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:memorize",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:memorieren",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que vous pouvez mémoriser dix millions de phrases ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:38.443705Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:38.466789Z": "TRANSLATION_DONE:deu"
+  }
+}

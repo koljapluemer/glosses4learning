@@ -1,0 +1,27 @@
+{
+  "content": "makalesi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun makalesi benimkinden daha iyidir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:article",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Artikel",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:48.931063Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:48.943766Z": "TRANSLATION_DONE:deu"
+  }
+}

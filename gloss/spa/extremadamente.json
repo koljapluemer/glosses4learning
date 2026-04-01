@@ -1,0 +1,37 @@
+{
+  "content": "extremadamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las dimensiones del átomo son extremadamente pequeñas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:extremely",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:extrem",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вкрай",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella está extremadamente orgullosa de su hijo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:53.559125Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:53.575127Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:53.724155Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "muchos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las peleas de gallos son ilegales en muchos países"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A muchos estadounidenses les gustan los autos veloces"
+    ],
+    [
+      "TRANSLATION",
+      "eng:many",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:viele",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:багато",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.416892Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.417349Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.417670Z": "TRANSLATION_DONE:ukr"
+  }
+}

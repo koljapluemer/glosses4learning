@@ -1,0 +1,39 @@
+{
+  "content": "Tom ve benim buna ihtiyacımız var.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:ve"
+    ],
+    [
+      "PART",
+      "tur:benim"
+    ],
+    [
+      "PART",
+      "tur:buna"
+    ],
+    [
+      "PART",
+      "tur:ihtiyacımız"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.631815Z": "SPLIT_DONE"
+  }
+}

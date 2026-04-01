@@ -1,0 +1,31 @@
+{
+  "content": "vermeyecek",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom kimsenin bunu yapmasına izin vermeyecek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom birinin Mary'ye yardım etmesine izin vermeyecek"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.568124Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.583119Z": "TRANSLATION_DONE:deu"
+  }
+}

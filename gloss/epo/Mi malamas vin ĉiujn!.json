@@ -1,0 +1,31 @@
+{
+  "content": "Mi malamas vin ĉiujn!",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:malamas"
+    ],
+    [
+      "PART",
+      "epo:vin"
+    ],
+    [
+      "PART",
+      "epo:ĉiujn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:59.749003Z": "SPLIT_DONE"
+  }
+}

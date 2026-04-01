@@ -1,0 +1,33 @@
+{
+  "content": "Ahora",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ahora Tom no está viendo la televisión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Now",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jetzt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Віджети",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:55.699049Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:55.713071Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:55.741634Z": "TRANSLATION_DONE:ukr"
+  }
+}

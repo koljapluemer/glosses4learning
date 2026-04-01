@@ -1,0 +1,29 @@
+{
+  "content": "otázku",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Na otázku jsi odpověděl jenom ty"
+    ],
+    [
+      "TRANSLATION",
+      "eng:question",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Jakýkoliv student může na tuto otázku odpovědět"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Na tuto otázku je těžké odpovědět"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:28.879269Z": "TRANSLATION_DONE:eng"
+  }
+}

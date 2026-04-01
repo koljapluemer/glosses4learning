@@ -1,0 +1,35 @@
+{
+  "content": "هذه الكلمات ليست على القافية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by issadouba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هذه"
+    ],
+    [
+      "PART",
+      "ara:الكلمات"
+    ],
+    [
+      "PART",
+      "ara:ليست"
+    ],
+    [
+      "PART",
+      "ara:على"
+    ],
+    [
+      "PART",
+      "ara:القافية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:42.993878Z": "SPLIT_DONE"
+  }
+}

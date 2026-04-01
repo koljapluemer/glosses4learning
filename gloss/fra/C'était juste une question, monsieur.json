@@ -1,0 +1,35 @@
+{
+  "content": "C'était juste une question, monsieur.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LdjuherTaqvaylit (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'était"
+    ],
+    [
+      "PART",
+      "fra:juste"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:question"
+    ],
+    [
+      "PART",
+      "fra:monsieur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.043112Z": "SPLIT_DONE"
+  }
+}

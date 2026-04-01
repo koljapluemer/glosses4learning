@@ -1,0 +1,27 @@
+{
+  "content": "Tento semafor nefunguje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tento"
+    ],
+    [
+      "PART",
+      "ces:semafor"
+    ],
+    [
+      "PART",
+      "ces:nefunguje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.784850Z": "SPLIT_DONE"
+  }
+}

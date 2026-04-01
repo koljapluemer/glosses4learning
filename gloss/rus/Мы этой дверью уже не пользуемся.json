@@ -1,0 +1,39 @@
+{
+  "content": "Мы этой дверью уже не пользуемся.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:этой"
+    ],
+    [
+      "PART",
+      "rus:дверью"
+    ],
+    [
+      "PART",
+      "rus:уже"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:пользуемся"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.253393Z": "SPLIT_DONE"
+  }
+}

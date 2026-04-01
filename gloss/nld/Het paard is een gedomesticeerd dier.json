@@ -1,0 +1,39 @@
+{
+  "content": "Het paard is een gedomesticeerd dier.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Het"
+    ],
+    [
+      "PART",
+      "nld:paard"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:gedomesticeerd"
+    ],
+    [
+      "PART",
+      "nld:dier"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.186707Z": "SPLIT_DONE"
+  }
+}

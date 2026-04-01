@@ -1,0 +1,31 @@
+{
+  "content": "Mieszkamy na szóstym piętrze.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fau (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Mieszkamy"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:szóstym"
+    ],
+    [
+      "PART",
+      "pol:piętrze"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.779449Z": "SPLIT_DONE"
+  }
+}

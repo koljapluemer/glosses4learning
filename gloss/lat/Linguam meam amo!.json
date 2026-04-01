@@ -1,0 +1,27 @@
+{
+  "content": "Linguam meam amo!",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:amo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.355366Z": "SPLIT_DONE"
+  }
+}

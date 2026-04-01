@@ -1,0 +1,33 @@
+{
+  "content": "partes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los teléfonos móviles están ahora en todas partes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:parts",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Teile",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Комплекти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:21.604123Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:21.620980Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:21.637461Z": "TRANSLATION_DONE:ukr"
+  }
+}

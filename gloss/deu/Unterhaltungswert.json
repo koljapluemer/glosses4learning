@@ -1,0 +1,33 @@
+{
+  "content": "Unterhaltungswert",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Spiel hat einen hohen Unterhaltungswert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Entertainment value",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розваги",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:엔터테인먼트 값",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:28.162788Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:28.310248Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:28.332517Z": "TRANSLATION_DONE:kor"
+  }
+}

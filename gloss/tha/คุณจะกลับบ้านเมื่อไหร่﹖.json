@@ -1,0 +1,35 @@
+{
+  "content": "คุณจะกลับบ้านเมื่อไหร่?",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:คุณ"
+    ],
+    [
+      "PART",
+      "tha:จะ"
+    ],
+    [
+      "PART",
+      "tha:กลับบ้าน"
+    ],
+    [
+      "PART",
+      "tha:เมื่อไหร่"
+    ],
+    [
+      "PART",
+      "tha:﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:57.279902Z": "SPLIT_DONE"
+  }
+}

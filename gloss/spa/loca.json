@@ -1,0 +1,37 @@
+{
+  "content": "loca",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella está completamente loca por él"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella está totalmente loca por él"
+    ],
+    [
+      "TRANSLATION",
+      "eng:crazy",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verrückt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:божевільний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:08.897211Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:09.050729Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:09.073454Z": "TRANSLATION_DONE:ukr"
+  }
+}

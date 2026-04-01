@@ -8,7 +8,9 @@
     "2026-01-27T14:36:21.108405Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:22:42.315231Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:42.483550Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:22:42.674770Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:22:42.674770Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:21.038821Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:21.060299Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,20 @@
     [
       "TRANSLATION",
       "rus:говорит"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розмови",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:розмовляє"
     ]
   ]
 }

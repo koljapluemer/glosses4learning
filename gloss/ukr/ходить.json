@@ -1,0 +1,31 @@
+{
+  "content": "ходить",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том ходить до школи разом із Мері"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том кожного дня туди ходить"
+    ],
+    [
+      "TRANSLATION",
+      "eng:walk",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spaziergänge",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:15.405715Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:15.422318Z": "TRANSLATION_DONE:deu"
+  }
+}

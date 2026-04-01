@@ -1,0 +1,35 @@
+{
+  "content": "Ich benutze meinen gesunden Menschenverstand.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pne (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:benutze"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:gesunden"
+    ],
+    [
+      "PART",
+      "deu:Menschenverstand"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.876234Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg kender det helt rigtige sted.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kender"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:helt"
+    ],
+    [
+      "PART",
+      "dan:rigtige"
+    ],
+    [
+      "PART",
+      "dan:sted"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.102066Z": "SPLIT_DONE"
+  }
+}

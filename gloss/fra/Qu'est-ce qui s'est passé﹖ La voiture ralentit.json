@@ -1,0 +1,43 @@
+{
+  "content": "Qu'est-ce qui s'est passé? La voiture ralentit.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:qui"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:La"
+    ],
+    [
+      "PART",
+      "fra:voiture"
+    ],
+    [
+      "PART",
+      "fra:ralentit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.029223Z": "SPLIT_DONE"
+  }
+}

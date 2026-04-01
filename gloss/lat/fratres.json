@@ -1,0 +1,29 @@
+{
+  "content": "fratres",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Omnes homines fratres sunt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Matertera mea fratres et sorores non habet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Amita mea fratres sororesque non habet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:brothers",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:16.050221Z": "TRANSLATION_DONE:eng"
+  }
+}

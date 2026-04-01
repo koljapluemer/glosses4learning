@@ -1,0 +1,37 @@
+{
+  "content": "Welpen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir haben diesen Welpen noch keine Namen gegeben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Welpen haben noch keinen Namen bekommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Puppies",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Аксесуари",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 상품",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:32.734408Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:32.752647Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:32.767323Z": "TRANSLATION_DONE:kor"
+  }
+}

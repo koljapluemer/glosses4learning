@@ -1,0 +1,31 @@
+{
+  "content": "ชั้นเรียน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ชั้นเรียนจะเริ่มขึ้นอีกครั้งในไม่ช้า"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Class",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Klasse",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เขาเป็นมิตรกับทุกคนในชั้นเรียน"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:11.806135Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:11.823405Z": "TRANSLATION_DONE:deu"
+  }
+}

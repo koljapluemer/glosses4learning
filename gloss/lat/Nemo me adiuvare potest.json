@@ -1,0 +1,31 @@
+{
+  "content": "Nemo me adiuvare potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nemo"
+    ],
+    [
+      "PART",
+      "lat:me"
+    ],
+    [
+      "PART",
+      "lat:adiuvare"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.283325Z": "SPLIT_DONE"
+  }
+}

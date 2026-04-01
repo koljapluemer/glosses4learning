@@ -1,0 +1,33 @@
+{
+  "content": "wirft",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ein solches Verhalten wirft Probleme auf"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we have",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ми маємо",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:우리는 있습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:04.801822Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:04.818145Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:04.966408Z": "TRANSLATION_DONE:kor"
+  }
+}

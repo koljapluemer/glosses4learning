@@ -10,7 +10,9 @@
     "2026-03-28T13:34:31.644453Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:34:32.563070Z": "TRANSLATION_DONE:ita",
     "2026-03-28T13:34:33.688468Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T13:34:34.507068Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T13:34:34.507068Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:07.856025Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:07.875387Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -64,6 +66,16 @@
     [
       "TRANSLATION",
       "tur:gülmekte"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Уроки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

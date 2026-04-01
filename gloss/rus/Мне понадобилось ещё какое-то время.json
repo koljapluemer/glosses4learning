@@ -1,0 +1,35 @@
+{
+  "content": "Мне понадобилось ещё какое-то время.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:понадобилось"
+    ],
+    [
+      "PART",
+      "rus:ещё"
+    ],
+    [
+      "PART",
+      "rus:какое-то"
+    ],
+    [
+      "PART",
+      "rus:время"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.301641Z": "SPLIT_DONE"
+  }
+}

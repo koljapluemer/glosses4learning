@@ -1,0 +1,33 @@
+{
+  "content": "mayúsculas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:En alemán, todos los sustantivos se escriben con mayúsculas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:capital letters",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Großbuchstaben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:літери капіталу",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:11.164656Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:11.181846Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:11.199320Z": "TRANSLATION_DONE:ukr"
+  }
+}

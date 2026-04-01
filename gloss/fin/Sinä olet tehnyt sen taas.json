@@ -1,0 +1,35 @@
+{
+  "content": "Sinä olet tehnyt sen taas.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Sinä"
+    ],
+    [
+      "PART",
+      "fin:olet"
+    ],
+    [
+      "PART",
+      "fin:tehnyt"
+    ],
+    [
+      "PART",
+      "fin:sen"
+    ],
+    [
+      "PART",
+      "fin:taas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:09.987087Z": "SPLIT_DONE"
+  }
+}

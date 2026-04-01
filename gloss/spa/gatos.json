@@ -1,0 +1,33 @@
+{
+  "content": "gatos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los gatos pueden ser criaturas muy territoriales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cats",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Katzen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кішки",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.267824Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.281200Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.297478Z": "TRANSLATION_DONE:ukr"
+  }
+}

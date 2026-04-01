@@ -1,0 +1,35 @@
+{
+  "content": "Forstår du hva jeg mener?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Forstår"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:hva"
+    ],
+    [
+      "PART",
+      "nob:jeg"
+    ],
+    [
+      "PART",
+      "nob:mener"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.235793Z": "SPLIT_DONE"
+  }
+}

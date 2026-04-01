@@ -1,0 +1,27 @@
+{
+  "content": "bebek",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Annem benim için bir oyuncak bebek yaptı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:baby",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Baby",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:27.943612Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.958710Z": "TRANSLATION_DONE:deu"
+  }
+}

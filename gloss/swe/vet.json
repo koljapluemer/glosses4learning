@@ -1,0 +1,33 @@
+{
+  "content": "vet",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag vet att det inte räcker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:know know",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag vet att det där inte är Toms underskrift"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag vet att du har varit upptagen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Vi vet inte hur eller varför"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:05.974923Z": "TRANSLATION_DONE:eng"
+  }
+}

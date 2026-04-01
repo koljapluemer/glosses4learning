@@ -1,0 +1,27 @@
+{
+  "content": "skamme",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du skal ikke skamme dig over det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Shame",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schade",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:30.545502Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:30.701421Z": "TRANSLATION_DONE:deu"
+  }
+}

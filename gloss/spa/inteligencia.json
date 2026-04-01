@@ -1,0 +1,33 @@
+{
+  "content": "inteligencia",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La inteligencia de los seres humanos evolucionó"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Intelligence",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Intelligenz",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Аналітика",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.845935Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.863211Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.881774Z": "TRANSLATION_DONE:ukr"
+  }
+}

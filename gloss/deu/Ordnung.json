@@ -9,7 +9,9 @@
     "2026-03-29T13:14:42.970428Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:43.160385Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:43.353998Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:43.515294Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:43.515294Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:53.313894Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:53.345551Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,28 @@
     [
       "TRANSLATION",
       "tur:Düzen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du musst in deinem Zimmer Ordnung halten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mit dieser Maschine ist irgendetwas nicht in Ordnung"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Alles ist in Ordnung, machen Sie sich keine Sorgen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Замовити",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "content": "маєш",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Боюся, ти не маєш рації"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you have",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:01.254499Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:01.269945Z": "TRANSLATION_DONE:deu"
+  }
+}

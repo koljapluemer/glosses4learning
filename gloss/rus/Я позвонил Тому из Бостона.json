@@ -1,0 +1,35 @@
+{
+  "content": "Я позвонил Тому из Бостона.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:из"
+    ],
+    [
+      "PART",
+      "rus:Бостона"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.522393Z": "SPLIT_DONE"
+  }
+}

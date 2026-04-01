@@ -1,0 +1,27 @@
+{
+  "content": "Sig",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Sig til Tom at du ikke kan gøre det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Say",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sag mal",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:35.352832Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:35.530791Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg kan overhovedet ikke tale fransk.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:overhovedet"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:tale"
+    ],
+    [
+      "PART",
+      "dan:fransk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.004605Z": "SPLIT_DONE"
+  }
+}

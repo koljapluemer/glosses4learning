@@ -1,0 +1,39 @@
+{
+  "content": "\"¿Estás trabajando?\" - \"No, estoy solamente estudiando.\"",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gianich73 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Estás"
+    ],
+    [
+      "PART",
+      "spa:trabajando"
+    ],
+    [
+      "PART",
+      "spa:No"
+    ],
+    [
+      "PART",
+      "spa:estoy"
+    ],
+    [
+      "PART",
+      "spa:solamente"
+    ],
+    [
+      "PART",
+      "spa:estudiando"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.691625Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Han är ensam.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:ensam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.803947Z": "SPLIT_DONE"
+  }
+}

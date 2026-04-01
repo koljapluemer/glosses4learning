@@ -1,0 +1,31 @@
+{
+  "content": "Estudar idiomas é demais!",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ricardo14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Estudar"
+    ],
+    [
+      "PART",
+      "por:idiomas"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:demais"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.556421Z": "SPLIT_DONE"
+  }
+}

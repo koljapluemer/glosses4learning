@@ -1,0 +1,33 @@
+{
+  "content": "crías",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos animales se comen a sus crías"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Retirement",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ruhestand",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Відновити",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:02.268332Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:02.281484Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:02.300186Z": "TRANSLATION_DONE:ukr"
+  }
+}

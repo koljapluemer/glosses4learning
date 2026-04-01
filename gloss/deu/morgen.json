@@ -8,7 +8,9 @@
     "2026-01-27T14:35:10.862297Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:35.176839Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:35.341412Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:35.520300Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:35.520300Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:12.175673Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:12.193325Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -58,6 +60,16 @@
     [
       "TRANSLATION",
       "spa:mañana"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:내 계정",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "content": "Tom'un özgeçmişi herhangi bir açıklamaya ihtiyaç duymuyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:özgeçmişi"
+    ],
+    [
+      "PART",
+      "tur:herhangi"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:açıklamaya"
+    ],
+    [
+      "PART",
+      "tur:ihtiyaç"
+    ],
+    [
+      "PART",
+      "tur:duymuyor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.353568Z": "SPLIT_DONE"
+  }
+}

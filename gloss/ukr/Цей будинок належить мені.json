@@ -1,0 +1,31 @@
+{
+  "content": "Цей будинок належить мені.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Цей"
+    ],
+    [
+      "PART",
+      "ukr:будинок"
+    ],
+    [
+      "PART",
+      "ukr:належить"
+    ],
+    [
+      "PART",
+      "ukr:мені"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.961843Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "medens",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Nogle lærere skræller kartofler medens de underviser"
+    ],
+    [
+      "TRANSLATION",
+      "eng:While",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Während",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:34.686580Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:34.833047Z": "TRANSLATION_DONE:deu"
+  }
+}

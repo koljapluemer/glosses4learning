@@ -1,0 +1,37 @@
+{
+  "content": "tenga",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no creo que ella tenga éxito"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay una posibilidad de que ella tenga éxito"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:38.151542Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:38.152219Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:38.152490Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "hiérarchie",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les entreprises japonaises mettent l'accent sur la hiérarchie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hierarchy",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hierarchie",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:34.275193Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:34.293042Z": "TRANSLATION_DONE:deu"
+  }
+}

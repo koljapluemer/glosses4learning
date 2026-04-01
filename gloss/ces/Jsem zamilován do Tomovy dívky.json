@@ -1,0 +1,35 @@
+{
+  "content": "Jsem zamilován do Tomovy dívky.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lipao (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Jsem"
+    ],
+    [
+      "PART",
+      "ces:zamilován"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:Tomovy"
+    ],
+    [
+      "PART",
+      "ces:dívky"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.118323Z": "SPLIT_DONE"
+  }
+}

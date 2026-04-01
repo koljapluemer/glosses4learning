@@ -1,0 +1,35 @@
+{
+  "content": "Todos los estudiantes estaban presentes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:estaban"
+    ],
+    [
+      "PART",
+      "spa:presentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.712136Z": "SPLIT_DONE"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:23:48.879743Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:23:49.079713Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:23:49.282344Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:23:49.494570Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:23:49.494570Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:52.973081Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,11 @@
     [
       "TRANSLATION",
       "tur:patlama"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вибух",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

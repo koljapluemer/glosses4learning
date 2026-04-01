@@ -1,0 +1,57 @@
+{
+  "content": "estaba",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El pelo largo de Jessie estaba completamente mojado"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom dijo que él estaba completamente desorientado"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella no estaba bailando con él en ese momento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich war",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я був",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su largo cabello estaba completamente mojado"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El hombre mayor estaba sentado completamente solo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom estaba desesperado por los sentimientos de Mary"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él estaba viendo televisión anoche"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:50.637098Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:50.652867Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:50.799497Z": "TRANSLATION_DONE:ukr"
+  }
+}

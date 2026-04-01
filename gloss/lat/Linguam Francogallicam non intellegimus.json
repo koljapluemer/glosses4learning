@@ -1,0 +1,31 @@
+{
+  "content": "Linguam Francogallicam non intellegimus.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Francogallicam"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:intellegimus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.267390Z": "SPLIT_DONE"
+  }
+}

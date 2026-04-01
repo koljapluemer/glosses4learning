@@ -1,0 +1,35 @@
+{
+  "content": "Onun söylediği hiçbir şeyi anlayamıyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Onun"
+    ],
+    [
+      "PART",
+      "tur:söylediği"
+    ],
+    [
+      "PART",
+      "tur:hiçbir"
+    ],
+    [
+      "PART",
+      "tur:şeyi"
+    ],
+    [
+      "PART",
+      "tur:anlayamıyorum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.583886Z": "SPLIT_DONE"
+  }
+}

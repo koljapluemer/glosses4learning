@@ -1,0 +1,37 @@
+{
+  "content": "allá",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La naturaleza está más allá del control de los mortales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Da",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навігація",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El pueblo está más allá de aquellos árboles"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:25.025868Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:25.039070Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:25.058103Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Dubito num Thomas te amet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Dubito"
+    ],
+    [
+      "PART",
+      "lat:num"
+    ],
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:te"
+    ],
+    [
+      "PART",
+      "lat:amet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.382653Z": "SPLIT_DONE"
+  }
+}

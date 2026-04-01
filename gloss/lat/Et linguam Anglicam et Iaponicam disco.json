@@ -1,0 +1,39 @@
+{
+  "content": "Et linguam Anglicam et Iaponicam disco.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Et"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Anglicam"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:Iaponicam"
+    ],
+    [
+      "PART",
+      "lat:disco"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.275825Z": "SPLIT_DONE"
+  }
+}

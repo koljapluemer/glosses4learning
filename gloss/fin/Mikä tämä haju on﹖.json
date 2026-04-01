@@ -1,0 +1,31 @@
+{
+  "content": "Mikä tämä haju on?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by RosaMariaH (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Mikä"
+    ],
+    [
+      "PART",
+      "fin:tämä"
+    ],
+    [
+      "PART",
+      "fin:haju"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.910347Z": "SPLIT_DONE"
+  }
+}

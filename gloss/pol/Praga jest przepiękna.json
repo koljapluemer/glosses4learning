@@ -1,0 +1,27 @@
+{
+  "content": "Praga jest przepiękna.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Praga"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:przepiękna"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.803886Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "sac-à-main",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai fait l'acquisition d'un nouveau sac-à-main"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Handbag",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Handtasche",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.058258Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.075508Z": "TRANSLATION_DONE:deu"
+  }
+}

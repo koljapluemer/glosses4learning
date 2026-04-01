@@ -1,0 +1,27 @@
+{
+  "content": "питав",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я вас питав﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I asked",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe gefragt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:05.127449Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:05.275948Z": "TRANSLATION_DONE:deu"
+  }
+}

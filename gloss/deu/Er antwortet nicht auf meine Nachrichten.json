@@ -1,0 +1,39 @@
+{
+  "content": "Er antwortet nicht auf meine Nachrichten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Er"
+    ],
+    [
+      "PART",
+      "deu:antwortet"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Nachrichten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.254710Z": "SPLIT_DONE"
+  }
+}

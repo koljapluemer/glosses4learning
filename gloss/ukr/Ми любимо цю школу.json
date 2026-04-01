@@ -1,0 +1,31 @@
+{
+  "content": "Ми любимо цю школу.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Anjy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Ми"
+    ],
+    [
+      "PART",
+      "ukr:любимо"
+    ],
+    [
+      "PART",
+      "ukr:цю"
+    ],
+    [
+      "PART",
+      "ukr:школу"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.960823Z": "SPLIT_DONE"
+  }
+}

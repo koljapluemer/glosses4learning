@@ -1,0 +1,39 @@
+{
+  "content": "Él caminó vigorosamente delante de nosotros.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Él"
+    ],
+    [
+      "PART",
+      "spa:caminó"
+    ],
+    [
+      "PART",
+      "spa:vigorosamente"
+    ],
+    [
+      "PART",
+      "spa:delante"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:nosotros"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.627274Z": "SPLIT_DONE"
+  }
+}

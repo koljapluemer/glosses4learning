@@ -1,0 +1,31 @@
+{
+  "content": "Aku sedang menulis artikel.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Aku"
+    ],
+    [
+      "PART",
+      "ind:sedang"
+    ],
+    [
+      "PART",
+      "ind:menulis"
+    ],
+    [
+      "PART",
+      "ind:artikel"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.871736Z": "SPLIT_DONE"
+  }
+}

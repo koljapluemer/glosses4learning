@@ -1,0 +1,39 @@
+{
+  "content": "لا يعلم ياني ما هو اليوم.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:يعلم"
+    ],
+    [
+      "PART",
+      "ara:ياني"
+    ],
+    [
+      "PART",
+      "ara:ما"
+    ],
+    [
+      "PART",
+      "ara:هو"
+    ],
+    [
+      "PART",
+      "ara:اليوم"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.018384Z": "SPLIT_DONE"
+  }
+}

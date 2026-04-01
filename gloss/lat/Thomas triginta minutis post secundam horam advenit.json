@@ -1,0 +1,43 @@
+{
+  "content": "Thomas triginta minutis post secundam horam advenit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:triginta"
+    ],
+    [
+      "PART",
+      "lat:minutis"
+    ],
+    [
+      "PART",
+      "lat:post"
+    ],
+    [
+      "PART",
+      "lat:secundam"
+    ],
+    [
+      "PART",
+      "lat:horam"
+    ],
+    [
+      "PART",
+      "lat:advenit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.280466Z": "SPLIT_DONE"
+  }
+}

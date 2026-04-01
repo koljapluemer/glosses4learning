@@ -1,0 +1,33 @@
+{
+  "content": "Genesung",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Medikament könnte zu seiner Genesung beitragen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Recovery",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Відновлення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:23.615546Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:23.762753Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:23.806315Z": "TRANSLATION_DONE:kor"
+  }
+}

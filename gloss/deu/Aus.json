@@ -1,0 +1,41 @@
+{
+  "content": "Aus",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Aus Ihnen ist eine wunderschöne Frau geworden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:From",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:З",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вимкнула"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Aus welchen Grund bist du in meinem Schlafzimmer﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:14.016188Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:14.164281Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:14.220382Z": "TRANSLATION_DONE:kor"
+  }
+}

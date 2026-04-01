@@ -1,0 +1,37 @@
+{
+  "content": "Schlimmes",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie schon wieder etwas Schlimmes getan﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Bad",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Поганий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr schon wieder etwas Schlimmes getan﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:04.455999Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:04.608007Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:04.758755Z": "TRANSLATION_DONE:kor"
+  }
+}

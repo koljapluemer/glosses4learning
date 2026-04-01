@@ -1,0 +1,35 @@
+{
+  "content": "Dit is een verstandige benadering.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:verstandige"
+    ],
+    [
+      "PART",
+      "nld:benadering"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.209481Z": "SPLIT_DONE"
+  }
+}

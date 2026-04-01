@@ -1,0 +1,39 @@
+{
+  "content": "Málem jsem zapomněl, že Tom existuje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Málem"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:zapomněl"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:existuje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.593187Z": "SPLIT_DONE"
+  }
+}

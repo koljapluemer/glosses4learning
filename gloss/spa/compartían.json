@@ -1,0 +1,33 @@
+{
+  "content": "compartían",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No todos los estadounidenses compartían la opinión de Wilson"
+    ],
+    [
+      "TRANSLATION",
+      "eng:share",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Anteil",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:00.465368Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:00.465808Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:00.466232Z": "TRANSLATION_DONE:ukr"
+  }
+}

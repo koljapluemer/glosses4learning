@@ -1,0 +1,43 @@
+{
+  "content": "Ella es realmente una chica muy amable.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pchamorro (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:realmente"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:chica"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:amable"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.673646Z": "SPLIT_DONE"
+  }
+}

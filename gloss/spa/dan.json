@@ -1,0 +1,45 @@
+{
+  "content": "dan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los tests de personalidad me dan resultados inconsistentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Tomás no se le dan bien los deportes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Tom no se le dan muy bien los deportes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:give",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:давати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A ella no le dan miedo las serpientes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:38.445544Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:38.509386Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:38.527359Z": "TRANSLATION_DONE:ukr"
+  }
+}

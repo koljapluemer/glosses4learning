@@ -1,0 +1,33 @@
+{
+  "content": "colores",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las señales tienen colores diferentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:colors",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Farben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:колір",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:00.329099Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:00.343969Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:00.358025Z": "TRANSLATION_DONE:ukr"
+  }
+}

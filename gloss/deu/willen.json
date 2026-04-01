@@ -1,0 +1,33 @@
+{
+  "content": "willen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom opferte sich um seines Freundes willen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you have not",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:у вас немає",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은 없습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:44.766026Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:44.781891Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:44.796342Z": "TRANSLATION_DONE:kor"
+  }
+}

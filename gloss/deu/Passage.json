@@ -8,7 +8,9 @@
     "2026-01-27T14:29:49.277521Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:14:45.948017Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:46.142150Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:14:46.323601Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:14:46.323601Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:35:54.377915Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:54.525497Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,16 @@
     [
       "TRANSLATION",
       "rus:Отрывок"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проживання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:패스워드",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

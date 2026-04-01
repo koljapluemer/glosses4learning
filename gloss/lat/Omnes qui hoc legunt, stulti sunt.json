@@ -1,0 +1,39 @@
+{
+  "content": "Omnes qui hoc legunt, stulti sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Omnes"
+    ],
+    [
+      "PART",
+      "lat:qui"
+    ],
+    [
+      "PART",
+      "lat:hoc"
+    ],
+    [
+      "PART",
+      "lat:legunt"
+    ],
+    [
+      "PART",
+      "lat:stulti"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.351222Z": "SPLIT_DONE"
+  }
+}

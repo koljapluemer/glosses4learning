@@ -1,0 +1,27 @@
+{
+  "content": "зброю",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Яйця можна використати як зброю"
+    ],
+    [
+      "TRANSLATION",
+      "eng:weapons",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Waffen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:58.846017Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:59.441629Z": "TRANSLATION_DONE:deu"
+  }
+}

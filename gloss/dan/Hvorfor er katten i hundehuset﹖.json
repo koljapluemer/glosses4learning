@@ -1,0 +1,35 @@
+{
+  "content": "Hvorfor er katten i hundehuset?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hvorfor"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:katten"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:hundehuset"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.736545Z": "SPLIT_DONE"
+  }
+}

@@ -5,6 +5,35 @@
     [
       "TRANSLATION",
       "spa:culpa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я гадаю, це провина мого сусіда"
+    ],
+    [
+      "TRANSLATION",
+      "eng:guilty",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schuldig",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Скажи Тому, що це не моя провина"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не кажу, що це провина Тома"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:55:08.043896Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:08.059598Z": "TRANSLATION_DONE:deu"
+  }
 }

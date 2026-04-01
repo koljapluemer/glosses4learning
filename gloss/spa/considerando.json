@@ -1,0 +1,33 @@
+{
+  "content": "considerando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy considerando irme con ellos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:recital",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erwägungsgrund",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:абзаци",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.457072Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.472496Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.493432Z": "TRANSLATION_DONE:ukr"
+  }
+}

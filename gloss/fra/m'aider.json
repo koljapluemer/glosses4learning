@@ -1,0 +1,27 @@
+{
+  "content": "m'aider",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un peut-il m'aider, je vous prie ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Help me",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe!",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:35.228324Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:35.377996Z": "TRANSLATION_DONE:deu"
+  }
+}

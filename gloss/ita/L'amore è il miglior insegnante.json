@@ -1,0 +1,35 @@
+{
+  "content": "L'amore è il miglior insegnante.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:L'amore"
+    ],
+    [
+      "PART",
+      "ita:è"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:miglior"
+    ],
+    [
+      "PART",
+      "ita:insegnante"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.799563Z": "SPLIT_DONE"
+  }
+}

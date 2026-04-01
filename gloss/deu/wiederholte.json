@@ -1,0 +1,33 @@
+{
+  "content": "wiederholte",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er wiederholte seinen Vornamen langsam"
+    ],
+    [
+      "TRANSLATION",
+      "eng:repeated",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:повторне",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:반복되는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:04.697892Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:04.718078Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:04.735743Z": "TRANSLATION_DONE:kor"
+  }
+}

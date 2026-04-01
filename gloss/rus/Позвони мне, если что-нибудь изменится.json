@@ -1,0 +1,35 @@
+{
+  "content": "Позвони мне, если что-нибудь изменится.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Позвони"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:если"
+    ],
+    [
+      "PART",
+      "rus:что-нибудь"
+    ],
+    [
+      "PART",
+      "rus:изменится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.577478Z": "SPLIT_DONE"
+  }
+}

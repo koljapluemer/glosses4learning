@@ -10,7 +10,8 @@
     "2026-03-29T14:22:23.282524Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:23.459543Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:23.618189Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:23.781209Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:23.781209Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:30.848867Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,15 @@
     [
       "TRANSLATION",
       "tur:kafe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:En general a los estadounidenses les gusta mucho el café"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кава",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

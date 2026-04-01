@@ -1,0 +1,47 @@
+{
+  "content": "A todos los estudiantes les gustan las vacaciones.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:A"
+    ],
+    [
+      "PART",
+      "spa:todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:les"
+    ],
+    [
+      "PART",
+      "spa:gustan"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:vacaciones"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.648180Z": "SPLIT_DONE"
+  }
+}

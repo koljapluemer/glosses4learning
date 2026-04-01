@@ -1,0 +1,39 @@
+{
+  "content": "ความผิด",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:มันไม่ใช่ความผิดของฉัน"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Guilty",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schuldig",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:มันเป็นความผิดของฉันทั้งหมด"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:นั่นไม่ใช่ความผิดของฉัน"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทั้งหมดเป็นความผิดของผม"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:10.141577Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:10.296082Z": "TRANSLATION_DONE:deu"
+  }
+}

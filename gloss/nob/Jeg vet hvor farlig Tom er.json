@@ -1,0 +1,39 @@
+{
+  "content": "Jeg vet hvor farlig Tom er.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by KimiP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:hvor"
+    ],
+    [
+      "PART",
+      "nob:farlig"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.182851Z": "SPLIT_DONE"
+  }
+}

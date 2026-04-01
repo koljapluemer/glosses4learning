@@ -6,7 +6,9 @@
     "2025-12-16T14:17:43.684Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:17:52.979Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +26,10 @@
     [
       "TRANSLATION",
       "eng:those"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Gdzie je włożyłeś﹖"
     ]
   ]
 }

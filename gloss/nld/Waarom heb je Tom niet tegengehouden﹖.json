@@ -1,0 +1,39 @@
+{
+  "content": "Waarom heb je Tom niet tegengehouden?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarom"
+    ],
+    [
+      "PART",
+      "nld:heb"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:tegengehouden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.058868Z": "SPLIT_DONE"
+  }
+}

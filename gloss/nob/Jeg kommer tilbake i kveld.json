@@ -1,0 +1,35 @@
+{
+  "content": "Jeg kommer tilbake i kveld.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:kommer"
+    ],
+    [
+      "PART",
+      "nob:tilbake"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:kveld"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.293842Z": "SPLIT_DONE"
+  }
+}

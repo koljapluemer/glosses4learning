@@ -1,0 +1,31 @@
+{
+  "content": "Рішення",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Рішення за Томом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Solution",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lösung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beschloss"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:49.694349Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:49.708837Z": "TRANSLATION_DONE:deu"
+  }
+}

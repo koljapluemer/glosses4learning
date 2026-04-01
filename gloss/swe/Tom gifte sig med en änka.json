@@ -1,0 +1,39 @@
+{
+  "content": "Tom gifte sig med en änka.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:gifte"
+    ],
+    [
+      "PART",
+      "swe:sig"
+    ],
+    [
+      "PART",
+      "swe:med"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:änka"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.828087Z": "SPLIT_DONE"
+  }
+}

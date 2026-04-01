@@ -1,0 +1,33 @@
+{
+  "content": "juegan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La televisión y los periódicos juegan papeles complementarios"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Play",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spielen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Грати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:06.915182Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:06.928150Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:06.942366Z": "TRANSLATION_DONE:ukr"
+  }
+}

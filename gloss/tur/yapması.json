@@ -1,0 +1,31 @@
+{
+  "content": "yapması",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un bunu yapması konusunda biraz tecrübesi var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Home",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un Mary'nin söylediği şeyi yapması gerekir"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:40.841593Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:40.855555Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Je moeder houdt van je.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Je"
+    ],
+    [
+      "PART",
+      "nld:moeder"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.208895Z": "SPLIT_DONE"
+  }
+}

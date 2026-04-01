@@ -1,0 +1,27 @@
+{
+  "content": "udvej",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er sikker på at jeg vil finde en udvej"
+    ],
+    [
+      "TRANSLATION",
+      "eng:escape;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Flucht;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:52.830387Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:52.971566Z": "TRANSLATION_DONE:deu"
+  }
+}

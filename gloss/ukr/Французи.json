@@ -1,0 +1,27 @@
+{
+  "content": "Французи",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Французи — наші друзі"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Französisch",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:50.674312Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:50.689036Z": "TRANSLATION_DONE:deu"
+  }
+}

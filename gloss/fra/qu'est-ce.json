@@ -1,0 +1,39 @@
+{
+  "content": "qu'est-ce",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom, qu'est-ce qui ne va pas ﹖ Vous avez l'air pâle"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Mais qu'est-ce que c'était difficile !"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom, qu'est-ce qui ne va pas ﹖ Tu as l'air pâle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What is it﹖",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Was ist los﹖",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Mais qu'est-ce que c'était que ça ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:48.275419Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:48.304707Z": "TRANSLATION_DONE:deu"
+  }
+}

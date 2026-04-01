@@ -1,0 +1,43 @@
+{
+  "content": "Всё произошло не так, как мы надеялись.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Всё"
+    ],
+    [
+      "PART",
+      "rus:произошло"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:так"
+    ],
+    [
+      "PART",
+      "rus:как"
+    ],
+    [
+      "PART",
+      "rus:мы"
+    ],
+    [
+      "PART",
+      "rus:надеялись"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.232512Z": "SPLIT_DONE"
+  }
+}

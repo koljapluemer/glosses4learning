@@ -1,0 +1,35 @@
+{
+  "content": "Thomas Mariam innocentem esse dicit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:Mariam"
+    ],
+    [
+      "PART",
+      "lat:innocentem"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ],
+    [
+      "PART",
+      "lat:dicit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.317253Z": "SPLIT_DONE"
+  }
+}

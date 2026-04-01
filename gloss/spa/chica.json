@@ -10,7 +10,8 @@
     "2026-03-29T14:22:32.929796Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:33.114446Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:33.309790Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:33.506556Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:33.506556Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:33.182310Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:kız"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дівчина",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es realmente una chica muy amable"
     ]
   ]
 }

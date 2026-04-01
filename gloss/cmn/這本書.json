@@ -1,0 +1,21 @@
+{
+  "content": "這本書",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這本書看起來很有趣。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This book",
+      "Auto-translated with argostranslate (zh→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:06.477818Z": "TRANSLATION_DONE:eng"
+  }
+}

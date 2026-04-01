@@ -1,0 +1,27 @@
+{
+  "content": "intelligente",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er ikke alle hunde, der er intelligente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:intelligent",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:intelligent",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:30.056060Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:30.081314Z": "TRANSLATION_DONE:deu"
+  }
+}

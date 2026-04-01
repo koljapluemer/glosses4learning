@@ -1,0 +1,35 @@
+{
+  "content": "vidunderlig",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Sikken vidunderlig dag"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er en vidunderlig verden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Sikke en vidunderlig opfindelse!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wonderful",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wunderbar",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:01.268737Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:01.461496Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "t'attends",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ne t'attends pas à ce que les autres t'aident"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wait for you",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warte auf dich",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.823231Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.840911Z": "TRANSLATION_DONE:deu"
+  }
+}

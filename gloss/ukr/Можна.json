@@ -1,0 +1,39 @@
+{
+  "content": "Можна",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна мені тут почекати﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yes",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ja",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна поставити тобі одне запитання﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна поставити вам одне запитання﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна мені поставити особисте запитання﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:48.529630Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:48.552767Z": "TRANSLATION_DONE:deu"
+  }
+}

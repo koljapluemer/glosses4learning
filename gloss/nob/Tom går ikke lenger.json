@@ -1,0 +1,31 @@
+{
+  "content": "Tom går ikke lenger.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yomawaru (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:går"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:lenger"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.322171Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "patatas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos profesores pelan patatas mientras enseñan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Potato",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kartoffeln",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Картопля",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:21.954403Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:21.968450Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:21.985180Z": "TRANSLATION_DONE:ukr"
+  }
+}

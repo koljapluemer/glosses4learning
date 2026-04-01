@@ -1,0 +1,27 @@
+{
+  "content": "hundene",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil pudse hundene på dig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dogs",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hunde",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:28.315939Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:28.476042Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "terminar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo algunos deberes por terminar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:end",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ende",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кінець",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos ni siquiera pueden terminar primaria"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:39.229683Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:39.246439Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:39.265158Z": "TRANSLATION_DONE:ukr"
+  }
+}

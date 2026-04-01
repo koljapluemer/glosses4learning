@@ -1,0 +1,43 @@
+{
+  "content": "Det her er den medicin, jeg tager.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Det"
+    ],
+    [
+      "PART",
+      "dan:her"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:den"
+    ],
+    [
+      "PART",
+      "dan:medicin"
+    ],
+    [
+      "PART",
+      "dan:jeg"
+    ],
+    [
+      "PART",
+      "dan:tager"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.684915Z": "SPLIT_DONE"
+  }
+}

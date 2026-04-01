@@ -1,0 +1,43 @@
+{
+  "content": "Jeg vet jeg er skyldig i dette.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:jeg"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:skyldig"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.289581Z": "SPLIT_DONE"
+  }
+}

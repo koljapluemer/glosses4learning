@@ -1,0 +1,39 @@
+{
+  "content": "Han använder alltid en exklusiv aftershave.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:använder"
+    ],
+    [
+      "PART",
+      "swe:alltid"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:exklusiv"
+    ],
+    [
+      "PART",
+      "swe:aftershave"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.833442Z": "SPLIT_DONE"
+  }
+}

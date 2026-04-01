@@ -1,0 +1,35 @@
+{
+  "content": "Tom går sommetider med hat.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:går"
+    ],
+    [
+      "PART",
+      "dan:sommetider"
+    ],
+    [
+      "PART",
+      "dan:med"
+    ],
+    [
+      "PART",
+      "dan:hat"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.776683Z": "SPLIT_DONE"
+  }
+}

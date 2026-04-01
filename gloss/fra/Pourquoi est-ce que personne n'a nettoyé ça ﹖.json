@@ -1,0 +1,43 @@
+{
+  "content": "Pourquoi est-ce que personne n'a nettoyé ça ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:personne"
+    ],
+    [
+      "PART",
+      "fra:n'a"
+    ],
+    [
+      "PART",
+      "fra:nettoyé"
+    ],
+    [
+      "PART",
+      "fra:ça"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.020424Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Det är viktigt att berätta sanningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:viktigt"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:berätta"
+    ],
+    [
+      "PART",
+      "swe:sanningen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.915803Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Jeg kan godt lide det catalanske sprog.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:godt"
+    ],
+    [
+      "PART",
+      "dan:lide"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:catalanske"
+    ],
+    [
+      "PART",
+      "dan:sprog"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.048304Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Dia lebih baik daripada saya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dbahasa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Dia"
+    ],
+    [
+      "PART",
+      "ind:lebih"
+    ],
+    [
+      "PART",
+      "ind:baik"
+    ],
+    [
+      "PART",
+      "ind:daripada"
+    ],
+    [
+      "PART",
+      "ind:saya"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:26.915791Z": "SPLIT_DONE"
+  }
+}

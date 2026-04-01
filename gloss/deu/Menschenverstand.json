@@ -9,7 +9,9 @@
     "2026-03-29T13:14:18.726061Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:18.939593Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:19.161968Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:19.363403Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:19.363403Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:41.484453Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:41.631182Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,20 @@
     [
       "TRANSLATION",
       "tur:İnsan zekası"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich benutze meinen gesunden Menschenverstand"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Людина",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인간이",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

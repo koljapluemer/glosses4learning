@@ -1,0 +1,39 @@
+{
+  "content": "Tom Mary'nin hapishaneden kaçmasına yardım etti.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary'nin"
+    ],
+    [
+      "PART",
+      "tur:hapishaneden"
+    ],
+    [
+      "PART",
+      "tur:kaçmasına"
+    ],
+    [
+      "PART",
+      "tur:yardım"
+    ],
+    [
+      "PART",
+      "tur:etti"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.362000Z": "SPLIT_DONE"
+  }
+}

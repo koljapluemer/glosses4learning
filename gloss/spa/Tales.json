@@ -1,0 +1,33 @@
+{
+  "content": "Tales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tales cosas siempre suceden inesperadamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Such",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Solche",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Схожі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.460905Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.473974Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.489990Z": "TRANSLATION_DONE:ukr"
+  }
+}

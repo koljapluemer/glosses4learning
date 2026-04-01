@@ -1,0 +1,31 @@
+{
+  "content": "不要讨厌我。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by grindeldore (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:不要"
+    ],
+    [
+      "PART",
+      "cmn:讨厌"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.632323Z": "SPLIT_DONE"
+  }
+}

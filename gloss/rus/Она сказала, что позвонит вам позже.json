@@ -1,0 +1,39 @@
+{
+  "content": "Она сказала, что позвонит вам позже.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Она"
+    ],
+    [
+      "PART",
+      "rus:сказала"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:позвонит"
+    ],
+    [
+      "PART",
+      "rus:вам"
+    ],
+    [
+      "PART",
+      "rus:позже"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.651257Z": "SPLIT_DONE"
+  }
+}

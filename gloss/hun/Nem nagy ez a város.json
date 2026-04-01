@@ -1,0 +1,35 @@
+{
+  "content": "Nem nagy ez a város.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Nem"
+    ],
+    [
+      "PART",
+      "hun:nagy"
+    ],
+    [
+      "PART",
+      "hun:ez"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:város"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.885294Z": "SPLIT_DONE"
+  }
+}

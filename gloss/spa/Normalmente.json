@@ -1,0 +1,41 @@
+{
+  "content": "Normalmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Normalmente los hombres son más altos que las mujeres"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Normalmente estoy de acuerdo con ella"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Normalmente ellos no se quedaban por mucho"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Normally",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Normalerweise",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Нормально",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:19.150559Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:19.165771Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:19.184699Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Quis in lecto meo dormit?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Quis"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:lecto"
+    ],
+    [
+      "PART",
+      "lat:meo"
+    ],
+    [
+      "PART",
+      "lat:dormit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.381609Z": "SPLIT_DONE"
+  }
+}

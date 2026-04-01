@@ -1,0 +1,35 @@
+{
+  "content": "Tom nedokázal ovládnout své emoce.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:nedokázal"
+    ],
+    [
+      "PART",
+      "ces:ovládnout"
+    ],
+    [
+      "PART",
+      "ces:své"
+    ],
+    [
+      "PART",
+      "ces:emoce"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.196092Z": "SPLIT_DONE"
+  }
+}

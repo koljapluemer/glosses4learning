@@ -1,0 +1,33 @@
+{
+  "content": "van",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos van a la iglesia todos los domingos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Go",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Los!",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.468336Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.485071Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.505872Z": "TRANSLATION_DONE:ukr"
+  }
+}

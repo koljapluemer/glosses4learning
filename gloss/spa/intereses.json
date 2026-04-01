@@ -1,0 +1,33 @@
+{
+  "content": "intereses",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom y Mary comparten algunos intereses"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interest",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zinssatz",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відповідальність",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.950954Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.967328Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.983812Z": "TRANSLATION_DONE:ukr"
+  }
+}

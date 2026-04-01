@@ -1,0 +1,43 @@
+{
+  "content": "Tom'un anne ve babası onun için endişeleniyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:anne"
+    ],
+    [
+      "PART",
+      "tur:ve"
+    ],
+    [
+      "PART",
+      "tur:babası"
+    ],
+    [
+      "PART",
+      "tur:onun"
+    ],
+    [
+      "PART",
+      "tur:için"
+    ],
+    [
+      "PART",
+      "tur:endişeleniyor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.275127Z": "SPLIT_DONE"
+  }
+}

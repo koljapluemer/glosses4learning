@@ -1,0 +1,33 @@
+{
+  "content": "löst",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hör auf zu weinen! Damit löst du überhaupt nichts!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:release",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Видання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:09.951096Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:09.967989Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:09.989359Z": "TRANSLATION_DONE:kor"
+  }
+}

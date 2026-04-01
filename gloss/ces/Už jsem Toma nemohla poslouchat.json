@@ -1,0 +1,35 @@
+{
+  "content": "Už jsem Toma nemohla poslouchat.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Už"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:nemohla"
+    ],
+    [
+      "PART",
+      "ces:poslouchat"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.648893Z": "SPLIT_DONE"
+  }
+}

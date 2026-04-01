@@ -1,0 +1,27 @@
+{
+  "content": "допоміг",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том нам усім допоміг"
+    ],
+    [
+      "TRANSLATION",
+      "eng:help",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:56.890895Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:56.904458Z": "TRANSLATION_DONE:deu"
+  }
+}

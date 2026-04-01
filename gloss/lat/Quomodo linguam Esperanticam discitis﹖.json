@@ -1,0 +1,31 @@
+{
+  "content": "Quomodo linguam Esperanticam discitis?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Quomodo"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Esperanticam"
+    ],
+    [
+      "PART",
+      "lat:discitis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.247035Z": "SPLIT_DONE"
+  }
+}

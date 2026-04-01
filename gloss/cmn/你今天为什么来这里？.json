@@ -1,0 +1,39 @@
+{
+  "content": "你今天为什么来这里？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vortarulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:今天"
+    ],
+    [
+      "PART",
+      "cmn:为什么"
+    ],
+    [
+      "PART",
+      "cmn:来"
+    ],
+    [
+      "PART",
+      "cmn:这里"
+    ],
+    [
+      "PART",
+      "cmn:？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.704503Z": "SPLIT_DONE"
+  }
+}

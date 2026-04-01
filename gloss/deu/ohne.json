@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-27T14:35:32.462021Z": "TRANSLATION_DONE:eng",
-    "2026-03-29T13:21:53.352084Z": "TRANSLATION_DONE:fra"
+    "2026-03-29T13:21:53.352084Z": "TRANSLATION_DONE:fra",
+    "2026-03-31T11:38:15.007383Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:15.024038Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -52,6 +54,40 @@
     [
       "TRANSLATION",
       "fra:sans"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich komme ohne seine Unterstützung nicht über die Runden"
+    ],
+    [
+      "TRANSLATION",
+      "dan:udenom"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Інше",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "fra:dépourvues"
+    ],
+    [
+      "TRANSLATION",
+      "spa:sin"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yapmadan"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Halten Sie sich in der Dunkelheit nicht ohne Begleitung auf"
     ]
   ]
 }

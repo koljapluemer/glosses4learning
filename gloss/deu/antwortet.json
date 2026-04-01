@@ -1,0 +1,41 @@
+{
+  "content": "antwortet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum antwortet ihr nicht auf meine Frage﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Answer",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Відправити",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er antwortet immer auf meine Kommentare"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er antwortet nicht auf meine Nachrichten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:38.337019Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:38.358443Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:38.377868Z": "TRANSLATION_DONE:kor"
+  }
+}

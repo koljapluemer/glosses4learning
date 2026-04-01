@@ -1,0 +1,33 @@
+{
+  "content": "日本",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私の日本語の練習の相手をしていただけますか？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私たちは日本語の歌を習いたいです。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Japanese",
+      "Auto-translated with argostranslate (ja→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムって、日本語を読んだり書いたりできるの？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:誰が日本語を身につけたいんですか。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:42.381120Z": "TRANSLATION_DONE:eng"
+  }
+}

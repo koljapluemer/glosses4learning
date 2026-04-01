@@ -1,0 +1,33 @@
+{
+  "content": "säker",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag förmodade att jag skulle vara säker här"
+    ],
+    [
+      "TRANSLATION",
+      "eng:secure",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag är inte säker på när han kommer att komma"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag är säker på att Tom inte kommer att vinna"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag är säker på att det inte är någonting"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:03.697986Z": "TRANSLATION_DONE:eng"
+  }
+}

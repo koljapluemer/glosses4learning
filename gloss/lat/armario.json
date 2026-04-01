@@ -1,0 +1,25 @@
+{
+  "content": "armario",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Vestimenta sunt in armario"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Estne vestimentum in armario﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wardrobe",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:43:48.343585Z": "TRANSLATION_DONE:eng"
+  }
+}

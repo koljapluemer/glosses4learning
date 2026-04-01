@@ -1,0 +1,27 @@
+{
+  "content": "Vi drack mycket.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vi"
+    ],
+    [
+      "PART",
+      "swe:drack"
+    ],
+    [
+      "PART",
+      "swe:mycket"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.839319Z": "SPLIT_DONE"
+  }
+}

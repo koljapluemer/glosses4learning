@@ -1,0 +1,39 @@
+{
+  "content": "Mien huus is op t pladdelaand.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Mien"
+    ],
+    [
+      "PART",
+      "gos:huus"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:op"
+    ],
+    [
+      "PART",
+      "gos:t"
+    ],
+    [
+      "PART",
+      "gos:pladdelaand"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.416732Z": "SPLIT_DONE"
+  }
+}

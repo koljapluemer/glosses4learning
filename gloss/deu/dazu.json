@@ -10,9 +10,13 @@
     "2025-12-12T14:10:54.608318Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:11:37.118781Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:19:15.164916Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:36.875002Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.875002Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-31T11:37:00.523208Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:00.666977Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -37,6 +41,32 @@
     [
       "TRANSLATION",
       "deu:in diesem Zusammenhang"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Mensch ist nicht dazu bestimmt, allein zu sein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden es nicht noch einmal dazu kommen lassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe ihn dazu gebracht, seinen Plan zu ändern"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:으로",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich möchte dazu lieber keinen Kommentar abgeben"
     ]
   ]
 }

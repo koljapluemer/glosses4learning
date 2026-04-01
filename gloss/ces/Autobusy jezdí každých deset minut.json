@@ -1,0 +1,35 @@
+{
+  "content": "Autobusy jezdí každých deset minut.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Autobusy"
+    ],
+    [
+      "PART",
+      "ces:jezdí"
+    ],
+    [
+      "PART",
+      "ces:každých"
+    ],
+    [
+      "PART",
+      "ces:deset"
+    ],
+    [
+      "PART",
+      "ces:minut"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.755883Z": "SPLIT_DONE"
+  }
+}

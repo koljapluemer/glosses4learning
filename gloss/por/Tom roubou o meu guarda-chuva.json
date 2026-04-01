@@ -1,0 +1,35 @@
+{
+  "content": "Tom roubou o meu guarda-chuva.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:roubou"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:meu"
+    ],
+    [
+      "PART",
+      "por:guarda-chuva"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.582142Z": "SPLIT_DONE"
+  }
+}

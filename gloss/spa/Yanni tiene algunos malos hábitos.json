@@ -1,0 +1,35 @@
+{
+  "content": "Yanni tiene algunos malos hábitos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Yanni"
+    ],
+    [
+      "PART",
+      "spa:tiene"
+    ],
+    [
+      "PART",
+      "spa:algunos"
+    ],
+    [
+      "PART",
+      "spa:malos"
+    ],
+    [
+      "PART",
+      "spa:hábitos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.742327Z": "SPLIT_DONE"
+  }
+}

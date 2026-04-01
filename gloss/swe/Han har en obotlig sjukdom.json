@@ -1,0 +1,35 @@
+{
+  "content": "Han har en obotlig sjukdom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:obotlig"
+    ],
+    [
+      "PART",
+      "swe:sjukdom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.844886Z": "SPLIT_DONE"
+  }
+}

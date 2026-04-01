@@ -1,0 +1,35 @@
+{
+  "content": "Jeg forsvarer ikke denne idiot.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:forsvarer"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:denne"
+    ],
+    [
+      "PART",
+      "dan:idiot"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.841372Z": "SPLIT_DONE"
+  }
+}

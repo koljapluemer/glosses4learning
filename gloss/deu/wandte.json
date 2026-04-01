@@ -1,0 +1,33 @@
+{
+  "content": "wandte",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hawking wandte sich wieder seinen Studien zu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:42.599677Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:42.614500Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:42.765130Z": "TRANSLATION_DONE:kor"
+  }
+}

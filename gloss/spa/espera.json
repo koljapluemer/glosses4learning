@@ -1,0 +1,33 @@
+{
+  "content": "espera",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Échate una siesta y espera por la buena suerte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wait",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чекати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:49.926323Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:50.076974Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:50.229687Z": "TRANSLATION_DONE:ukr"
+  }
+}

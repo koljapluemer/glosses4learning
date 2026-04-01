@@ -1,0 +1,43 @@
+{
+  "content": "Tom hat die Armbanduhr seines Großvaters verpfändet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vortarulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Armbanduhr"
+    ],
+    [
+      "PART",
+      "deu:seines"
+    ],
+    [
+      "PART",
+      "deu:Großvaters"
+    ],
+    [
+      "PART",
+      "deu:verpfändet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.818315Z": "SPLIT_DONE"
+  }
+}

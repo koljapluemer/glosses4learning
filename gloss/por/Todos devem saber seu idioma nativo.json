@@ -1,0 +1,39 @@
+{
+  "content": "Todos devem saber seu idioma nativo.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:devem"
+    ],
+    [
+      "PART",
+      "por:saber"
+    ],
+    [
+      "PART",
+      "por:seu"
+    ],
+    [
+      "PART",
+      "por:idioma"
+    ],
+    [
+      "PART",
+      "por:nativo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.532244Z": "SPLIT_DONE"
+  }
+}

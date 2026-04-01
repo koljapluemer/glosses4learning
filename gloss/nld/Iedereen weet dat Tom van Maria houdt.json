@@ -1,0 +1,43 @@
+{
+  "content": "Iedereen weet dat Tom van Maria houdt.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Iedereen"
+    ],
+    [
+      "PART",
+      "nld:weet"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:Maria"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.024128Z": "SPLIT_DONE"
+  }
+}

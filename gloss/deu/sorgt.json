@@ -1,0 +1,33 @@
+{
+  "content": "sorgt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er sorgt sich um die Gesundheit seines Vaters"
+    ],
+    [
+      "TRANSLATION",
+      "eng:care",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:догляд",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:20.740108Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:20.754179Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:20.772116Z": "TRANSLATION_DONE:kor"
+  }
+}

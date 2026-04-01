@@ -1,0 +1,35 @@
+{
+  "content": "Ki a franc az a Tom?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Ki"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:franc"
+    ],
+    [
+      "PART",
+      "hun:az"
+    ],
+    [
+      "PART",
+      "hun:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.923741Z": "SPLIT_DONE"
+  }
+}

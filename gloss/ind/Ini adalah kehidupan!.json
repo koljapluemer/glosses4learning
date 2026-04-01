@@ -1,0 +1,27 @@
+{
+  "content": "Ini adalah kehidupan!",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pi31415i (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Ini"
+    ],
+    [
+      "PART",
+      "ind:adalah"
+    ],
+    [
+      "PART",
+      "ind:kehidupan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.875793Z": "SPLIT_DONE"
+  }
+}

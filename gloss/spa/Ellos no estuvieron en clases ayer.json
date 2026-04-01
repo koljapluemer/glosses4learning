@@ -1,0 +1,39 @@
+{
+  "content": "Ellos no estuvieron en clases ayer.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:estuvieron"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:clases"
+    ],
+    [
+      "PART",
+      "spa:ayer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.667805Z": "SPLIT_DONE"
+  }
+}

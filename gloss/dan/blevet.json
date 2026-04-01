@@ -1,0 +1,39 @@
+{
+  "content": "blevet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den person som skal afløse dig, er allerede blevet valgt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er endnu ikke blevet trænet i at sidde på potte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har fortalt mig at du er blevet gift"
+    ],
+    [
+      "TRANSLATION",
+      "eng:was",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:war",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom fortalte mig at du er blevet gift"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:53.038277Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:53.070932Z": "TRANSLATION_DONE:deu"
+  }
+}

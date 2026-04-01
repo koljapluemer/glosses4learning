@@ -1,0 +1,47 @@
+{
+  "content": "Det er hvad Tom har sagt til Mary.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Det"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:hvad"
+    ],
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:sagt"
+    ],
+    [
+      "PART",
+      "dan:til"
+    ],
+    [
+      "PART",
+      "dan:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.628297Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom drikker ikke i det hele tatt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:drikker"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:hele"
+    ],
+    [
+      "PART",
+      "nob:tatt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.236248Z": "SPLIT_DONE"
+  }
+}

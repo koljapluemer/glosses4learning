@@ -1,0 +1,39 @@
+{
+  "content": "Dzieci Toma doskonale mówią po francusku.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Dzieci"
+    ],
+    [
+      "PART",
+      "pol:Toma"
+    ],
+    [
+      "PART",
+      "pol:doskonale"
+    ],
+    [
+      "PART",
+      "pol:mówią"
+    ],
+    [
+      "PART",
+      "pol:po"
+    ],
+    [
+      "PART",
+      "pol:francusku"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.263846Z": "SPLIT_DONE"
+  }
+}

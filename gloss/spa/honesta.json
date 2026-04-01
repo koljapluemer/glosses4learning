@@ -1,0 +1,33 @@
+{
+  "content": "honesta",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente honesta desprecia a aquellos que mienten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:honest",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ehrlich!",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:чесність",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:01.549770Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:01.696439Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:01.842045Z": "TRANSLATION_DONE:ukr"
+  }
+}

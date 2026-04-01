@@ -1,0 +1,33 @@
+{
+  "content": "mensajes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni está enviando mensajes de texto a alguna otra persona"
+    ],
+    [
+      "TRANSLATION",
+      "eng:messages",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nachrichten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:повідомлення",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:12.121555Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:12.135212Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:12.151607Z": "TRANSLATION_DONE:ukr"
+  }
+}

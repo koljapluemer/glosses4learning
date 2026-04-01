@@ -1,0 +1,27 @@
+{
+  "content": "nævnt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har nævnt det tidligere over for dig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mentioned",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:genannt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:07.668318Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:07.869475Z": "TRANSLATION_DONE:deu"
+  }
+}

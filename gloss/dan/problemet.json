@@ -1,0 +1,27 @@
+{
+  "content": "problemet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke identificere problemet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the problem;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das Problem;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:17.577327Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:17.769998Z": "TRANSLATION_DONE:deu"
+  }
+}

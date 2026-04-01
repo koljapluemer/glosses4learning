@@ -1,0 +1,53 @@
+{
+  "content": "Tenemos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos una fiesta mañana por la noche"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos hasta las dos y media de la tarde del lunes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos que hablar lo más pronto posible"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We have",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:У нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos una reserva para las seis y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos que hablar con ellos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos que considerar todas las opciones"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:20.748067Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:20.761383Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:20.777587Z": "TRANSLATION_DONE:ukr"
+  }
+}

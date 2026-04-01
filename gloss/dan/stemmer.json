@@ -1,0 +1,27 @@
+{
+  "content": "stemmer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du ved jo selv at det ikke stemmer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:votes",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stimmen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:38.080738Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:38.246741Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Noget vidunderligt skete i dag.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Svira (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Noget"
+    ],
+    [
+      "PART",
+      "dan:vidunderligt"
+    ],
+    [
+      "PART",
+      "dan:skete"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:dag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.651256Z": "SPLIT_DONE"
+  }
+}

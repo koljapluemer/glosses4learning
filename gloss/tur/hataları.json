@@ -1,0 +1,27 @@
+{
+  "content": "hataları",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un denemesinin birçok yazım hataları vardı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:errors",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fehler",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:47.574443Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:47.590419Z": "TRANSLATION_DONE:deu"
+  }
+}

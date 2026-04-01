@@ -1,0 +1,31 @@
+{
+  "content": "ключі",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мері загубила ключі від машини"
+    ],
+    [
+      "TRANSLATION",
+      "eng:keys",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schlüssel",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:llaves"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.607701Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.622537Z": "TRANSLATION_DONE:deu"
+  }
+}

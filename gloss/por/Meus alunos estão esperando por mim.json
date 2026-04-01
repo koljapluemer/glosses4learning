@@ -1,0 +1,39 @@
+{
+  "content": "Meus alunos estão esperando por mim.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sergiomelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meus"
+    ],
+    [
+      "PART",
+      "por:alunos"
+    ],
+    [
+      "PART",
+      "por:estão"
+    ],
+    [
+      "PART",
+      "por:esperando"
+    ],
+    [
+      "PART",
+      "por:por"
+    ],
+    [
+      "PART",
+      "por:mim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.505733Z": "SPLIT_DONE"
+  }
+}

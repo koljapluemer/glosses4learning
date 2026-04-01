@@ -1,0 +1,43 @@
+{
+  "content": "Tom powiedział, że nie jest mu zimno.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:mu"
+    ],
+    [
+      "PART",
+      "pol:zimno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.213297Z": "SPLIT_DONE"
+  }
+}

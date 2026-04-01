@@ -1,0 +1,35 @@
+{
+  "content": "Toms bil har tonede vinduer.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by M1dx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Toms"
+    ],
+    [
+      "PART",
+      "dan:bil"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:tonede"
+    ],
+    [
+      "PART",
+      "dan:vinduer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.770409Z": "SPLIT_DONE"
+  }
+}

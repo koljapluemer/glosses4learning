@@ -1,0 +1,35 @@
+{
+  "content": "Je bent een fantastisch mens.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by doemaar14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Je"
+    ],
+    [
+      "PART",
+      "nld:bent"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:fantastisch"
+    ],
+    [
+      "PART",
+      "nld:mens"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.139062Z": "SPLIT_DONE"
+  }
+}

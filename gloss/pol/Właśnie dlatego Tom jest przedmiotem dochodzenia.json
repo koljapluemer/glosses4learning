@@ -1,0 +1,39 @@
+{
+  "content": "Właśnie dlatego Tom jest przedmiotem dochodzenia.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by igxr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Właśnie"
+    ],
+    [
+      "PART",
+      "pol:dlatego"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:przedmiotem"
+    ],
+    [
+      "PART",
+      "pol:dochodzenia"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.231618Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom yezmer tura ad yesuden Mary.",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ZiriSut (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "kab:Tom"
+    ],
+    [
+      "PART",
+      "kab:yezmer"
+    ],
+    [
+      "PART",
+      "kab:tura"
+    ],
+    [
+      "PART",
+      "kab:ad"
+    ],
+    [
+      "PART",
+      "kab:yesuden"
+    ],
+    [
+      "PART",
+      "kab:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:35.821625Z": "SPLIT_DONE"
+  }
+}

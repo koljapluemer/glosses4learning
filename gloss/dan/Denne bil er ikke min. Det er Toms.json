@@ -1,0 +1,43 @@
+{
+  "content": "Denne bil er ikke min. Det er Toms.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Denne"
+    ],
+    [
+      "PART",
+      "dan:bil"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:min"
+    ],
+    [
+      "PART",
+      "dan:Det"
+    ],
+    [
+      "PART",
+      "dan:Toms"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.711135Z": "SPLIT_DONE"
+  }
+}

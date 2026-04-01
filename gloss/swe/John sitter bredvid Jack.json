@@ -1,0 +1,31 @@
+{
+  "content": "John sitter bredvid Jack.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:John"
+    ],
+    [
+      "PART",
+      "swe:sitter"
+    ],
+    [
+      "PART",
+      "swe:bredvid"
+    ],
+    [
+      "PART",
+      "swe:Jack"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.847612Z": "SPLIT_DONE"
+  }
+}

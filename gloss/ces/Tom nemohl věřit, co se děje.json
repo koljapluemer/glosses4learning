@@ -1,0 +1,39 @@
+{
+  "content": "Tom nemohl věřit, co se děje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nueby (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:nemohl"
+    ],
+    [
+      "PART",
+      "ces:věřit"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:děje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.737484Z": "SPLIT_DONE"
+  }
+}

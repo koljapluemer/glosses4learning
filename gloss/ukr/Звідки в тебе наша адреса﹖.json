@@ -1,0 +1,35 @@
+{
+  "content": "Звідки в тебе наша адреса?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Звідки"
+    ],
+    [
+      "PART",
+      "ukr:в"
+    ],
+    [
+      "PART",
+      "ukr:тебе"
+    ],
+    [
+      "PART",
+      "ukr:наша"
+    ],
+    [
+      "PART",
+      "ukr:адреса"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.963994Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "fortsætte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kan ikke fortsætte sådan her"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi kan ikke fortsætte uden Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:continue",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weiter",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kunne ikke fortsætte med at lyve over for Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:15.280496Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:15.460655Z": "TRANSLATION_DONE:deu"
+  }
+}

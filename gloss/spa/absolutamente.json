@@ -1,0 +1,33 @@
+{
+  "content": "absolutamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Es absolutamente necesario que encontremos a los asesinos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Absolutely",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Absolut",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Абсолютно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:22.197759Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:22.214087Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:22.232023Z": "TRANSLATION_DONE:ukr"
+  }
+}

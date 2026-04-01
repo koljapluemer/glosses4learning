@@ -1,0 +1,31 @@
+{
+  "content": "Tomo evidente malamas min.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Tomo"
+    ],
+    [
+      "PART",
+      "epo:evidente"
+    ],
+    [
+      "PART",
+      "epo:malamas"
+    ],
+    [
+      "PART",
+      "epo:min"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:36.142962Z": "SPLIT_DONE"
+  }
+}

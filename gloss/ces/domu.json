@@ -1,0 +1,33 @@
+{
+  "content": "domu",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Někdo se vloupal do domu Toma"
+    ],
+    [
+      "TRANSLATION",
+      "eng:home",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Toma vystěhovali z jeho domu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom zaparkoval vedle svého domu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom byl vykázán ze svého domu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:28:49.794540Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Nie mogę znaleźć mojej parasolki.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by warszk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nie"
+    ],
+    [
+      "PART",
+      "pol:mogę"
+    ],
+    [
+      "PART",
+      "pol:znaleźć"
+    ],
+    [
+      "PART",
+      "pol:mojej"
+    ],
+    [
+      "PART",
+      "pol:parasolki"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.770329Z": "SPLIT_DONE"
+  }
+}

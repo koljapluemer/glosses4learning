@@ -1,0 +1,35 @@
+{
+  "content": "Estoy considerando irme con ellos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by darinmex (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Estoy"
+    ],
+    [
+      "PART",
+      "spa:considerando"
+    ],
+    [
+      "PART",
+      "spa:irme"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:ellos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.692825Z": "SPLIT_DONE"
+  }
+}

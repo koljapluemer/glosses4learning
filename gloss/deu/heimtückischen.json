@@ -1,0 +1,33 @@
+{
+  "content": "heimtückischen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nichts wird meinen heimtückischen Plan aufhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:insidious",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зрілий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:52.285865Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:52.316692Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:52.469468Z": "TRANSLATION_DONE:kor"
+  }
+}

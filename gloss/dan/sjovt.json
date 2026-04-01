@@ -1,0 +1,31 @@
+{
+  "content": "sjovt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad er det der er så sjovt﹖ Ikke noget"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fun",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spaß",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kom nu, Tom. Det bliver sjovt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:29.015346Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:29.156517Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "forventer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg forventer ikke at du husker det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:expects",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erwartet",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:16.304082Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:16.336397Z": "TRANSLATION_DONE:deu"
+  }
+}

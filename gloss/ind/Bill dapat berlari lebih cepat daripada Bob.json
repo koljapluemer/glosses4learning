@@ -1,0 +1,43 @@
+{
+  "content": "Bill dapat berlari lebih cepat daripada Bob.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Bill"
+    ],
+    [
+      "PART",
+      "ind:dapat"
+    ],
+    [
+      "PART",
+      "ind:berlari"
+    ],
+    [
+      "PART",
+      "ind:lebih"
+    ],
+    [
+      "PART",
+      "ind:cepat"
+    ],
+    [
+      "PART",
+      "ind:daripada"
+    ],
+    [
+      "PART",
+      "ind:Bob"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.889155Z": "SPLIT_DONE"
+  }
+}

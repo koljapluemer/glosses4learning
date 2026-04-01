@@ -1,0 +1,43 @@
+{
+  "content": "Я попросил её, чтобы она позвонила вам.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:попросил"
+    ],
+    [
+      "PART",
+      "rus:её"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:позвонила"
+    ],
+    [
+      "PART",
+      "rus:вам"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.530706Z": "SPLIT_DONE"
+  }
+}

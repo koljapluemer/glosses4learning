@@ -13,7 +13,9 @@
     "2026-03-28T10:55:02.212663Z": "TRANSLATION_DONE:epo",
     "2026-03-28T10:55:03.543874Z": "TRANSLATION_DONE:fra",
     "2026-03-28T10:55:04.772947Z": "TRANSLATION_DONE:kab",
-    "2026-03-28T10:55:06.108164Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T10:55:06.108164Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:39:19.022990Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:39:19.045424Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -135,6 +137,60 @@
     [
       "TRANSLATION",
       "fra:appelle"
+    ],
+    [
+      "TRANSLATION",
+      "bul:повикване"
+    ],
+    [
+      "TRANSLATION",
+      "dan:tilkalder"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Контакти",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "pol:zawołać"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвони"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвоню"
+    ],
+    [
+      "TRANSLATION",
+      "rus:звоните"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвонили"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвоните"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвонить"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позвонишь"
+    ],
+    [
+      "TRANSLATION",
+      "spa:llaman"
     ]
   ]
 }

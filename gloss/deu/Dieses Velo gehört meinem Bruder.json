@@ -1,0 +1,35 @@
+{
+  "content": "Dieses Velo gehört meinem Bruder.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zaghawa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Dieses"
+    ],
+    [
+      "PART",
+      "deu:Velo"
+    ],
+    [
+      "PART",
+      "deu:gehört"
+    ],
+    [
+      "PART",
+      "deu:meinem"
+    ],
+    [
+      "PART",
+      "deu:Bruder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.240481Z": "SPLIT_DONE"
+  }
+}

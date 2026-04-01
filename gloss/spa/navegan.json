@@ -1,0 +1,33 @@
+{
+  "content": "navegan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos usualmente navegan en aguas apacibles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:navigate",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:navigieren",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:навігація",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.526637Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.542930Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.561137Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Kommen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kommen Sie nach Ablauf eines Jahres wieder!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Come on",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Приходьте",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:에 의해",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:29.720865Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:29.745559Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:29.769233Z": "TRANSLATION_DONE:kor"
+  }
+}

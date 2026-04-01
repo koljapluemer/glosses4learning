@@ -1,0 +1,26 @@
+{
+  "content": "dut",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Tom zien scholder dut pien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:do",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to do",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:09:57.693982Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Los animales tienen instintos, nosotros tenemos impuestos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by darinmex (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:tienen"
+    ],
+    [
+      "PART",
+      "spa:instintos"
+    ],
+    [
+      "PART",
+      "spa:nosotros"
+    ],
+    [
+      "PART",
+      "spa:tenemos"
+    ],
+    [
+      "PART",
+      "spa:impuestos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.606458Z": "SPLIT_DONE"
+  }
+}

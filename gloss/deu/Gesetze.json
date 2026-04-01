@@ -1,0 +1,37 @@
+{
+  "content": "Gesetze",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir sollten uns immer an die Gesetze halten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Law",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Законодавство",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:법적고지",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:leyes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:23.955901Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:23.995905Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:24.019610Z": "TRANSLATION_DONE:kor"
+  }
+}

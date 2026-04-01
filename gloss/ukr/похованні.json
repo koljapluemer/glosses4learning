@@ -1,0 +1,27 @@
+{
+  "content": "похованні",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том був на похованні Мері"
+    ],
+    [
+      "TRANSLATION",
+      "eng:burial",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Begräbnis",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:06.921216Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:06.938591Z": "TRANSLATION_DONE:deu"
+  }
+}

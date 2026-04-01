@@ -1,0 +1,39 @@
+{
+  "content": "Tom měl z takového dárku radost.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lovermann (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:měl"
+    ],
+    [
+      "PART",
+      "ces:z"
+    ],
+    [
+      "PART",
+      "ces:takového"
+    ],
+    [
+      "PART",
+      "ces:dárku"
+    ],
+    [
+      "PART",
+      "ces:radost"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.650960Z": "SPLIT_DONE"
+  }
+}

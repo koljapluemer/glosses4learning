@@ -1,0 +1,35 @@
+{
+  "content": "Вчера се видяхме с близнаците.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Вчера"
+    ],
+    [
+      "PART",
+      "bul:се"
+    ],
+    [
+      "PART",
+      "bul:видяхме"
+    ],
+    [
+      "PART",
+      "bul:с"
+    ],
+    [
+      "PART",
+      "bul:близнаците"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:02.165050Z": "SPLIT_DONE"
+  }
+}

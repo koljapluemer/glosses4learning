@@ -1,0 +1,51 @@
+{
+  "content": "Ik weet dat Tom me in de gaten houdt.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:weet"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:me"
+    ],
+    [
+      "PART",
+      "nld:in"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:gaten"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.028097Z": "SPLIT_DONE"
+  }
+}

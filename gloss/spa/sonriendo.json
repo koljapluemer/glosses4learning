@@ -1,0 +1,33 @@
+{
+  "content": "sonriendo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los que salen en la foto están sonriendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:smiling",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lächelnd",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сперма",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:35.560581Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:35.712499Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:35.735846Z": "TRANSLATION_DONE:ukr"
+  }
+}

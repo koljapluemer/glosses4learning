@@ -1,0 +1,21 @@
+{
+  "content": "num",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Dubito num Thomas te amet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:number",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:48.898638Z": "TRANSLATION_DONE:eng"
+  }
+}

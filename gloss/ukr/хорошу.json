@@ -1,0 +1,27 @@
+{
+  "content": "хорошу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він узяв хорошу камеру"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Good",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gut",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:15.472867Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:15.489512Z": "TRANSLATION_DONE:deu"
+  }
+}

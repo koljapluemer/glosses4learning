@@ -1,0 +1,27 @@
+{
+  "content": "Tom öppnade kontorsdörren.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:öppnade"
+    ],
+    [
+      "PART",
+      "swe:kontorsdörren"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.835575Z": "SPLIT_DONE"
+  }
+}

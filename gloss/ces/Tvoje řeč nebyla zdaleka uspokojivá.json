@@ -1,0 +1,35 @@
+{
+  "content": "Tvoje řeč nebyla zdaleka uspokojivá.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by evatr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tvoje"
+    ],
+    [
+      "PART",
+      "ces:řeč"
+    ],
+    [
+      "PART",
+      "ces:nebyla"
+    ],
+    [
+      "PART",
+      "ces:zdaleka"
+    ],
+    [
+      "PART",
+      "ces:uspokojivá"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.055925Z": "SPLIT_DONE"
+  }
+}

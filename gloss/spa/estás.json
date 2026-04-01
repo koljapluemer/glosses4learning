@@ -1,0 +1,41 @@
+{
+  "content": "estás",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay que llegar al punto de que te pregunten si estás mostrando todo tu potencial"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me parece que simplemente estás celosa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me parece que simplemente estás celoso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you are",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ihr",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:51.612092Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:51.764581Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:51.912749Z": "TRANSLATION_DONE:ukr"
+  }
+}

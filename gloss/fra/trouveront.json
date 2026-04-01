@@ -1,0 +1,27 @@
+{
+  "content": "trouveront",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être qu'elles trouveront une solution"
+    ],
+    [
+      "TRANSLATION",
+      "eng:find",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:finden",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.894098Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.907705Z": "TRANSLATION_DONE:deu"
+  }
+}

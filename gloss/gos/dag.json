@@ -1,0 +1,30 @@
+{
+  "content": "dag",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:k Heb hom dag derveur zain"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "gos:Ik bin hier de haile dag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:day",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hello",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:09:27.582149Z": "TRANSLATION_DONE:eng"
+  }
+}

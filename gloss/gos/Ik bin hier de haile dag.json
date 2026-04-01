@@ -1,0 +1,39 @@
+{
+  "content": "Ik bin hier de haile dag.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ik"
+    ],
+    [
+      "PART",
+      "gos:bin"
+    ],
+    [
+      "PART",
+      "gos:hier"
+    ],
+    [
+      "PART",
+      "gos:de"
+    ],
+    [
+      "PART",
+      "gos:haile"
+    ],
+    [
+      "PART",
+      "gos:dag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.661565Z": "SPLIT_DONE"
+  }
+}

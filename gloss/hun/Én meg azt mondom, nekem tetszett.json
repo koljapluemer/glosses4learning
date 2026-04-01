@@ -1,0 +1,39 @@
+{
+  "content": "Én meg azt mondom, nekem tetszett.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Én"
+    ],
+    [
+      "PART",
+      "hun:meg"
+    ],
+    [
+      "PART",
+      "hun:azt"
+    ],
+    [
+      "PART",
+      "hun:mondom"
+    ],
+    [
+      "PART",
+      "hun:nekem"
+    ],
+    [
+      "PART",
+      "hun:tetszett"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.909219Z": "SPLIT_DONE"
+  }
+}

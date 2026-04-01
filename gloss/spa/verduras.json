@@ -2,12 +2,35 @@
   "content": "verduras",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:53:43.267881Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:43.289749Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:vegetables"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A los niños por lo general no les gusta comer verduras"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gemüse",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:овочі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A algunos niños no les gustan las verduras"
     ]
   ]
 }

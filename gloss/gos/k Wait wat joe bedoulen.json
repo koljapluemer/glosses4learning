@@ -1,0 +1,35 @@
+{
+  "content": "k Wait wat joe bedoulen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:k"
+    ],
+    [
+      "PART",
+      "gos:Wait"
+    ],
+    [
+      "PART",
+      "gos:wat"
+    ],
+    [
+      "PART",
+      "gos:joe"
+    ],
+    [
+      "PART",
+      "gos:bedoulen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.645871Z": "SPLIT_DONE"
+  }
+}

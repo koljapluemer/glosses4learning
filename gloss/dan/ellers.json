@@ -1,0 +1,27 @@
+{
+  "content": "ellers",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem ellers har du fortalt det til﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:otherwise",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:andere",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:05.486352Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:05.625536Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "你今天上午看起來很高興。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:今天上午"
+    ],
+    [
+      "PART",
+      "cmn:看起"
+    ],
+    [
+      "PART",
+      "cmn:來"
+    ],
+    [
+      "PART",
+      "cmn:很"
+    ],
+    [
+      "PART",
+      "cmn:高興"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:16.709309Z": "SPLIT_DONE"
+  }
+}

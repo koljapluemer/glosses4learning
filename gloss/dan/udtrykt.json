@@ -1,0 +1,27 @@
+{
+  "content": "udtrykt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kunne ikke have udtrykt det bedre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:expressed",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgedrückt in",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:52.560293Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:52.701643Z": "TRANSLATION_DONE:deu"
+  }
+}

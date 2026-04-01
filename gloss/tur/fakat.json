@@ -1,0 +1,27 @@
+{
+  "content": "fakat",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu hiç kimsenin hatası değil fakat benimki"
+    ],
+    [
+      "TRANSLATION",
+      "eng:but",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:aber",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:30.154011Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:30.168879Z": "TRANSLATION_DONE:deu"
+  }
+}

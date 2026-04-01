@@ -1,0 +1,27 @@
+{
+  "content": "tungt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke. Det er for tungt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:heavy",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schwer",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:50.767537Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:50.767799Z": "TRANSLATION_DONE:deu"
+  }
+}

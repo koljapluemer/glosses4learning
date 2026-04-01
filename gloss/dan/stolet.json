@@ -1,0 +1,27 @@
+{
+  "content": "stolet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville heller ikke have stolet på Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:chair",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stuhl",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:39.753457Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:39.980800Z": "TRANSLATION_DONE:deu"
+  }
+}

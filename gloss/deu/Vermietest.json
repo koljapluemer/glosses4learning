@@ -9,7 +9,9 @@
     "2026-03-29T13:15:58.976347Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:59.168833Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:15:59.383071Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:15:59.575451Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:15:59.575451Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:30.259110Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:30.405703Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:Kiralıyorsunuz"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Оренда",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:임대",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

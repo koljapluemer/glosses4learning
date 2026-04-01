@@ -1,0 +1,33 @@
+{
+  "content": "pregunten",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay que llegar al punto de que te pregunten si estás mostrando todo tu potencial"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ask",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frage stellen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:25.441855Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.454496Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.470663Z": "TRANSLATION_DONE:ukr"
+  }
+}

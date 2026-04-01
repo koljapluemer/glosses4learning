@@ -12,7 +12,9 @@
     "2026-03-28T10:56:25.463412Z": "TRANSLATION_DONE:ita",
     "2026-03-28T10:56:26.384186Z": "TRANSLATION_DONE:kab",
     "2026-03-28T10:56:27.278725Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T10:56:27.926392Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T10:56:27.926392Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:47.587761Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:47.605044Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -86,6 +88,16 @@
     [
       "TRANSLATION",
       "tur:iki defa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:1 час",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:두 배",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

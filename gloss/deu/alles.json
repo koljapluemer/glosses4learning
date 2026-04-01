@@ -8,7 +8,9 @@
     "2026-01-27T14:31:17.157954Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:16:40.553286Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:40.738285Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:16:40.915797Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:16:40.915797Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:37.048479Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:37.066443Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -94,6 +96,48 @@
     [
       "TRANSLATION",
       "spa:todo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr solltet nicht alles glauben, was euch gesagt wird"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie sollten nicht alles glauben, was man Ihnen sagt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sind Sie sicher, dass Sie sich alles behalten﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr habt schon wieder alles falsch verstanden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Deine Antwort ist alles andere als perfekt"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:모든 것",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:şeyi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Johannes hat seinem Vater alles gesagt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Arbeit war alles andere als überflüssig"
     ]
   ]
 }

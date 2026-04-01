@@ -1,0 +1,33 @@
+{
+  "content": "excepcionalmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esta noche, la luna está excepcionalmente bella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:exceptionally",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:außergewöhnlich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:виключно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:52.608190Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:52.783318Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:52.933747Z": "TRANSLATION_DONE:ukr"
+  }
+}

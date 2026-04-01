@@ -1,0 +1,35 @@
+{
+  "content": "Eu estava desempregado naquela época.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:estava"
+    ],
+    [
+      "PART",
+      "por:desempregado"
+    ],
+    [
+      "PART",
+      "por:naquela"
+    ],
+    [
+      "PART",
+      "por:época"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.452099Z": "SPLIT_DONE"
+  }
+}

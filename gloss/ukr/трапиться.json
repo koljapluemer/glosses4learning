@@ -1,0 +1,35 @@
+{
+  "content": "трапиться",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо щось трапиться, зателефонуй мені"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It will happen",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es wird passieren",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо це знову трапиться, зателефонуй мені"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Що трапиться, якщо у нас не вийде﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:14.070093Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:14.087675Z": "TRANSLATION_DONE:deu"
+  }
+}

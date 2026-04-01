@@ -1,0 +1,35 @@
+{
+  "content": "будеш",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти будеш там﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Be",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:werde sein",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зателефоную, якщо ти будеш нам потрібний"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зателефоную, якщо ти будеш нам потрібна"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:52.488646Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:52.503499Z": "TRANSLATION_DONE:deu"
+  }
+}

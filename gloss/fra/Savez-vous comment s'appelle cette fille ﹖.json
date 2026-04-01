@@ -1,0 +1,35 @@
+{
+  "content": "Savez-vous comment s'appelle cette fille ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Savez-vous"
+    ],
+    [
+      "PART",
+      "fra:comment"
+    ],
+    [
+      "PART",
+      "fra:s'appelle"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:fille"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.638378Z": "SPLIT_DONE"
+  }
+}

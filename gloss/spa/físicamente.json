@@ -1,0 +1,37 @@
+{
+  "content": "físicamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los hombres son físicamente más fuertes que las mujeres"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las mujeres son físicamente más débiles que los hombres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:physically",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:physisch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:фізично",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:56.415146Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:56.430462Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:56.446579Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Мы надеемся, что это правда.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:надеемся"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:правда"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.317682Z": "SPLIT_DONE"
+  }
+}

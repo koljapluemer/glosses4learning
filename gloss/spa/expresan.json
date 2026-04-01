@@ -1,0 +1,33 @@
+{
+  "content": "expresan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los movimientos populares expresan el descontento popular"
+    ],
+    [
+      "TRANSLATION",
+      "eng:expressed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgedrückt in",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:виражений",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:53.052269Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:53.070455Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:53.218960Z": "TRANSLATION_DONE:ukr"
+  }
+}

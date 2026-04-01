@@ -1,0 +1,33 @@
+{
+  "content": "diversión",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, me perdí toda la diversión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fun",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spaß",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:веселощі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.814422Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.829839Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.843936Z": "TRANSLATION_DONE:ukr"
+  }
+}

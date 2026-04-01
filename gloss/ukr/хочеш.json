@@ -1,0 +1,35 @@
+{
+  "content": "хочеш",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти насправді хочеш допомогти﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти хочеш пити﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You want to",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du willst",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо хочеш, можеш не погоджуватися, Томе"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:15.548975Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:15.568291Z": "TRANSLATION_DONE:deu"
+  }
+}

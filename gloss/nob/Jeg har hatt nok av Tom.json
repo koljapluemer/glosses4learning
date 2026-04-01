@@ -1,0 +1,39 @@
+{
+  "content": "Jeg har hatt nok av Tom.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:hatt"
+    ],
+    [
+      "PART",
+      "nob:nok"
+    ],
+    [
+      "PART",
+      "nob:av"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.295787Z": "SPLIT_DONE"
+  }
+}

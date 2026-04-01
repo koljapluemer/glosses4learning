@@ -1,0 +1,33 @@
+{
+  "content": "halt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:„Was ist das hier bitte schön für ein ohrenbetäubender Lärm﹖“ – „Es läuft halt Musik.“"
+    ],
+    [
+      "TRANSLATION",
+      "eng:!",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:!",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:·",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:50.202332Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:50.268053Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:50.416698Z": "TRANSLATION_DONE:kor"
+  }
+}

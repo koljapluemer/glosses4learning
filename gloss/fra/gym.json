@@ -1,0 +1,27 @@
+{
+  "content": "gym",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que cet hôtel a une salle de gym ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:gym",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fitnessstudio",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:34.110599Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:34.255689Z": "TRANSLATION_DONE:deu"
+  }
+}

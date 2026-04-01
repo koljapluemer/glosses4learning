@@ -1,0 +1,27 @@
+{
+  "content": "Принесіть",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Принесіть мені холодної води"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Bring",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bringen Sie uns",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:49.569228Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:49.591538Z": "TRANSLATION_DONE:deu"
+  }
+}

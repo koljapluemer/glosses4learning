@@ -1,0 +1,35 @@
+{
+  "content": "Quelle genre de personne êtes-vous ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelle"
+    ],
+    [
+      "PART",
+      "fra:genre"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:personne"
+    ],
+    [
+      "PART",
+      "fra:êtes-vous"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.137318Z": "SPLIT_DONE"
+  }
+}

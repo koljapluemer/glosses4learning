@@ -1,0 +1,31 @@
+{
+  "content": "svømme",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan overhovedet ikke svømme"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De fleste mennesker, jeg kender, kan godt lide at svømme"
+    ],
+    [
+      "TRANSLATION",
+      "eng:swim",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwimmen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:42.007994Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:42.148419Z": "TRANSLATION_DONE:deu"
+  }
+}

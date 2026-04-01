@@ -1,0 +1,43 @@
+{
+  "content": "Thomas mihi dicit te esse adiutorem suum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:mihi"
+    ],
+    [
+      "PART",
+      "lat:dicit"
+    ],
+    [
+      "PART",
+      "lat:te"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ],
+    [
+      "PART",
+      "lat:adiutorem"
+    ],
+    [
+      "PART",
+      "lat:suum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.331457Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "content": "davor",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir haben Angst davor, dass es wieder passiert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:before",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이전 다음",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie keine Angst davor, sich zu verletzen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe keine Angst davor, kritisiert zu werden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habe nur keine Angst davor, Fehler zu machen!"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:00.420053Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:00.441301Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:00.482834Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Seberapa sering busnya datang?",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Seberapa"
+    ],
+    [
+      "PART",
+      "ind:sering"
+    ],
+    [
+      "PART",
+      "ind:busnya"
+    ],
+    [
+      "PART",
+      "ind:datang"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.840602Z": "SPLIT_DONE"
+  }
+}

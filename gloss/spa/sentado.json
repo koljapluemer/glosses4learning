@@ -1,0 +1,33 @@
+{
+  "content": "sentado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El hombre mayor estaba sentado completamente solo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sitting",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sitzung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сидячи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:15.829483Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:15.843876Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:15.863737Z": "TRANSLATION_DONE:ukr"
+  }
+}

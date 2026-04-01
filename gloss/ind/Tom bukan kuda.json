@@ -1,0 +1,27 @@
+{
+  "content": "Tom bukan kuda.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:bukan"
+    ],
+    [
+      "PART",
+      "ind:kuda"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.866813Z": "SPLIT_DONE"
+  }
+}

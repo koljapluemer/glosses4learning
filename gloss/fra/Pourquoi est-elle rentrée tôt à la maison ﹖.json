@@ -1,0 +1,43 @@
+{
+  "content": "Pourquoi est-elle rentrée tôt à la maison ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:est-elle"
+    ],
+    [
+      "PART",
+      "fra:rentrée"
+    ],
+    [
+      "PART",
+      "fra:tôt"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.338542Z": "SPLIT_DONE"
+  }
+}

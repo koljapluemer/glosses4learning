@@ -1,0 +1,31 @@
+{
+  "content": "Han kolade i går.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:kolade"
+    ],
+    [
+      "PART",
+      "swe:i"
+    ],
+    [
+      "PART",
+      "swe:går"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.850888Z": "SPLIT_DONE"
+  }
+}

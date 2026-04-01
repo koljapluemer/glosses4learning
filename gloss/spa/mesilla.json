@@ -1,0 +1,33 @@
+{
+  "content": "mesilla",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:En ese lado hay una mesilla de noche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:table",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tabelle",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:стіл",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:12.259855Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:12.276162Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:12.294285Z": "TRANSLATION_DONE:ukr"
+  }
+}

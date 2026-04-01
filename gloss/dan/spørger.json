@@ -1,0 +1,27 @@
+{
+  "content": "spørger",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor spørger du mig om dette﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ask",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frage stellen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:36.604299Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:36.747378Z": "TRANSLATION_DONE:deu"
+  }
+}

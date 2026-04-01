@@ -1,0 +1,43 @@
+{
+  "content": "我的一個包包不見了。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:一個"
+    ],
+    [
+      "PART",
+      "cmn:包包"
+    ],
+    [
+      "PART",
+      "cmn:不見"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:16.816638Z": "SPLIT_DONE"
+  }
+}

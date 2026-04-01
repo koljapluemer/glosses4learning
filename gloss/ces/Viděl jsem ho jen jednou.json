@@ -1,0 +1,35 @@
+{
+  "content": "Viděl jsem ho jen jednou.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Viděl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:ho"
+    ],
+    [
+      "PART",
+      "ces:jen"
+    ],
+    [
+      "PART",
+      "ces:jednou"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.644520Z": "SPLIT_DONE"
+  }
+}

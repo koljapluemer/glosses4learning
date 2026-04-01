@@ -1,0 +1,27 @@
+{
+  "content": "Я вас питав?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:вас"
+    ],
+    [
+      "PART",
+      "ukr:питав"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.992350Z": "SPLIT_DONE"
+  }
+}

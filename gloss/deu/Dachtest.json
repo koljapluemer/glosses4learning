@@ -1,0 +1,33 @@
+{
+  "content": "Dachtest",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dachtest du daran, deines zu verkaufen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:roof test",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:випробування даху",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지붕 시험",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:54.115866Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:54.133469Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:54.147392Z": "TRANSLATION_DONE:kor"
+  }
+}

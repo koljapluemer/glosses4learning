@@ -1,0 +1,39 @@
+{
+  "content": "Tom'un neden yalan söylediğini merak ediyorum.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:neden"
+    ],
+    [
+      "PART",
+      "tur:yalan"
+    ],
+    [
+      "PART",
+      "tur:söylediğini"
+    ],
+    [
+      "PART",
+      "tur:merak"
+    ],
+    [
+      "PART",
+      "tur:ediyorum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.619656Z": "SPLIT_DONE"
+  }
+}

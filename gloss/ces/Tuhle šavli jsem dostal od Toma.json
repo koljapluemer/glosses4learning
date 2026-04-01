@@ -1,0 +1,39 @@
+{
+  "content": "Tuhle šavli jsem dostal od Toma.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tuhle"
+    ],
+    [
+      "PART",
+      "ces:šavli"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:dostal"
+    ],
+    [
+      "PART",
+      "ces:od"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.599739Z": "SPLIT_DONE"
+  }
+}

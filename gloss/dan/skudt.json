@@ -1,0 +1,27 @@
+{
+  "content": "skudt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har skudt sig selv i hovedet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shot",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schuss",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:32.541568Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:32.686108Z": "TRANSLATION_DONE:deu"
+  }
+}

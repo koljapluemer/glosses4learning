@@ -1,0 +1,35 @@
+{
+  "content": "Byl jsem jeho proslovem zklamán.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Byl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:jeho"
+    ],
+    [
+      "PART",
+      "ces:proslovem"
+    ],
+    [
+      "PART",
+      "ces:zklamán"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.778611Z": "SPLIT_DONE"
+  }
+}

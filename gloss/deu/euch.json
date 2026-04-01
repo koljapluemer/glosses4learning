@@ -8,7 +8,9 @@
     "2026-01-27T14:32:48.200847Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:43.081601Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:43.237860Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:18:43.372405Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:18:43.372405Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:20.075865Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:20.099414Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -66,6 +68,32 @@
     [
       "TRANSLATION",
       "fra:vous-mêmes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich sagte doch, dass ihr euch darum keine Sorgen machen sollt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr solltet nicht alles glauben, was euch gesagt wird"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Darüber solltet ihr euch überhaupt keine Sorgen machen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Macht euch keine Gedanken. Ich sage keinem etwas"
     ]
   ]
 }

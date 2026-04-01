@@ -1,0 +1,35 @@
+{
+  "content": "Tom neden bunu yaptığını açıkladı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:neden"
+    ],
+    [
+      "PART",
+      "tur:bunu"
+    ],
+    [
+      "PART",
+      "tur:yaptığını"
+    ],
+    [
+      "PART",
+      "tur:açıkladı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.645132Z": "SPLIT_DONE"
+  }
+}

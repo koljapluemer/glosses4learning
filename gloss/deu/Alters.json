@@ -1,0 +1,37 @@
+{
+  "content": "Alters",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Angesichts seines Alters hat er sich gut geschlagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Age",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вік",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er arbeitet immer noch, trotz seines Alters"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:12.246588Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:12.246870Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:12.250678Z": "TRANSLATION_DONE:kor"
+  }
+}

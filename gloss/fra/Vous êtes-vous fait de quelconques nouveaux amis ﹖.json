@@ -1,0 +1,43 @@
+{
+  "content": "Vous êtes-vous fait de quelconques nouveaux amis ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vous"
+    ],
+    [
+      "PART",
+      "fra:êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:quelconques"
+    ],
+    [
+      "PART",
+      "fra:nouveaux"
+    ],
+    [
+      "PART",
+      "fra:amis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.112631Z": "SPLIT_DONE"
+  }
+}

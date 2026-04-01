@@ -1,0 +1,35 @@
+{
+  "content": "I miei libri sono pesanti.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:I"
+    ],
+    [
+      "PART",
+      "ita:miei"
+    ],
+    [
+      "PART",
+      "ita:libri"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:pesanti"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.925512Z": "SPLIT_DONE"
+  }
+}

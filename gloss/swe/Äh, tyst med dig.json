@@ -1,0 +1,31 @@
+{
+  "content": "Äh, tyst med dig.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by torulf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Äh"
+    ],
+    [
+      "PART",
+      "swe:tyst"
+    ],
+    [
+      "PART",
+      "swe:med"
+    ],
+    [
+      "PART",
+      "swe:dig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.853282Z": "SPLIT_DONE"
+  }
+}

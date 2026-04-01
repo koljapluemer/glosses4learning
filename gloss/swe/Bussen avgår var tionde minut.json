@@ -1,0 +1,35 @@
+{
+  "content": "Bussen avgår var tionde minut.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Bussen"
+    ],
+    [
+      "PART",
+      "swe:avgår"
+    ],
+    [
+      "PART",
+      "swe:var"
+    ],
+    [
+      "PART",
+      "swe:tionde"
+    ],
+    [
+      "PART",
+      "swe:minut"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.010917Z": "SPLIT_DONE"
+  }
+}

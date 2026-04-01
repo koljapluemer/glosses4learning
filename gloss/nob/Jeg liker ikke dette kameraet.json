@@ -1,0 +1,35 @@
+{
+  "content": "Jeg liker ikke dette kameraet.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ],
+    [
+      "PART",
+      "nob:kameraet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.274294Z": "SPLIT_DONE"
+  }
+}

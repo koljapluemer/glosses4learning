@@ -1,0 +1,33 @@
+{
+  "content": "Weitere",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Weitere Informationen erhalten Sie unter dieser Nummer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Other",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Інше",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:32.628402Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:32.642267Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:32.656869Z": "TRANSLATION_DONE:kor"
+  }
+}

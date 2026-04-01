@@ -9,6 +9,41 @@
     [
       "TRANSLATION",
       "fra:comment"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du kannst meinen Kommentar vergessen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe meinen Kommentar wieder gelöscht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Comment",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich möchte dazu lieber keinen Kommentar abgeben"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:35:30.090891Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:30.236196Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:30.721492Z": "TRANSLATION_DONE:kor"
+  }
 }

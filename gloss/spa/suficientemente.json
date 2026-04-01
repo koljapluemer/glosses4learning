@@ -1,0 +1,45 @@
+{
+  "content": "suficientemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella no es lo suficientemente buena para él"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni nunca es lo suficientemente bueno"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sufficient",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausreichend",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:достатній",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él está lo suficientemente grande para conducir"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No soy lo suficientemente bueno para ella"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:35.921047Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:35.936249Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:35.949812Z": "TRANSLATION_DONE:ukr"
+  }
+}

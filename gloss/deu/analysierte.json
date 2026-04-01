@@ -9,7 +9,9 @@
     "2026-03-29T13:16:53.080514Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:53.290441Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:53.492189Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:53.681159Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:53.681159Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:37.440045Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:37.456483Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,16 @@
     [
       "TRANSLATION",
       "tur:analiz etti"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:аналіз",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

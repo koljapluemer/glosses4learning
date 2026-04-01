@@ -1,0 +1,37 @@
+{
+  "content": "Freundes",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom opferte sich um seines Freundes willen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er bewunderte die Arbeit seines Freundes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Friends",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дружини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:21.504977Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:21.565902Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:21.715683Z": "TRANSLATION_DONE:kor"
+  }
+}

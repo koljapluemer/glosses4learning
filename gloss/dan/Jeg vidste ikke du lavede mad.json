@@ -1,0 +1,39 @@
+{
+  "content": "Jeg vidste ikke du lavede mad.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:vidste"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:du"
+    ],
+    [
+      "PART",
+      "dan:lavede"
+    ],
+    [
+      "PART",
+      "dan:mad"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.127305Z": "SPLIT_DONE"
+  }
+}

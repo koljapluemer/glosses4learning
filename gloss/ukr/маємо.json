@@ -1,0 +1,27 @@
+{
+  "content": "маємо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми маємо роботу, яку нам треба зробити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we have",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir haben",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.698258Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.713961Z": "TRANSLATION_DONE:deu"
+  }
+}

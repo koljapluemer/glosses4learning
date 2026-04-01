@@ -9,7 +9,9 @@
     "2026-03-29T13:18:19.076049Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:19.246366Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:18:19.412607Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:18:19.606213Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:18:19.606213Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:10.060613Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:10.207305Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -91,6 +93,48 @@
     [
       "TRANSLATION",
       "ita:facile"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es ist richtig einfach, sich mit Ihnen zu unterhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom wollte sich einfach nur nachbarlich verhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das ist einfach eine Frage des gesunden Menschenverstands"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe seine Worte einfach wiederholt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Fragen lassen sich einfach beantworten"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:простий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:sencillos"
+    ],
+    [
+      "TRANSLATION",
+      "spa:simplemente"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:просто"
     ]
   ]
 }

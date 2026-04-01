@@ -1,0 +1,33 @@
+{
+  "content": "elastischen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Macht es Spaß, sich an einem elastischen Band in die Tiefe stürzen zu lassen, oder ist es reiner Nervenkitzel﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:elastic elastic",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:еластична еластична",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:탄력 있는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:14.126484Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:14.152697Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:14.300455Z": "TRANSLATION_DONE:kor"
+  }
+}

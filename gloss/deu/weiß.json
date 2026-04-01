@@ -8,7 +8,9 @@
     "2026-01-27T14:37:16.302847Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:23:53.053577Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:53.237739Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:23:53.416381Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:23:53.416381Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:43.519342Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:43.533341Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -94,6 +96,24 @@
     [
       "TRANSLATION",
       "spa:sabe"
+    ],
+    [
+      "TRANSLATION",
+      "dan:kender"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:білий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:화이트",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er macht das aus reiner Schikane, weil er genau weiß, daß ich mich darüber ärgere"
     ]
   ]
 }

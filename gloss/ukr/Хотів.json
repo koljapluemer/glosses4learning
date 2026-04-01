@@ -1,0 +1,27 @@
+{
+  "content": "Хотів",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Хотів би я бути молодшим"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I wanted to",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich wollte",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:50.714494Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:50.865003Z": "TRANSLATION_DONE:deu"
+  }
+}

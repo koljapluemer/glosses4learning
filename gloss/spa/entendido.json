@@ -1,0 +1,33 @@
+{
+  "content": "entendido",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Que levanten las manos los que lo hayan entendido"
+    ],
+    [
+      "TRANSLATION",
+      "eng:understand",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstehen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розуміння",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:47.399888Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:47.415991Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:47.416357Z": "TRANSLATION_DONE:ukr"
+  }
+}

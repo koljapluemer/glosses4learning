@@ -9,7 +9,9 @@
     "2026-03-29T13:21:10.040427Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:10.221608Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:21:10.381256Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:21:10.579058Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:21:10.579058Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:08.638318Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:08.655389Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,24 @@
     [
       "TRANSLATION",
       "tur:sonraki"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat sich im letzten Monat von seiner Frau scheiden lassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie in der letzten Zeit etwas Ungewöhnliches gesehen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:останні",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Povodeň je od sebe oddělila.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Povodeň"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:od"
+    ],
+    [
+      "PART",
+      "ces:sebe"
+    ],
+    [
+      "PART",
+      "ces:oddělila"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.747328Z": "SPLIT_DONE"
+  }
+}

@@ -11,7 +11,9 @@
     "2026-03-28T10:57:06.632309Z": "TRANSLATION_DONE:fra",
     "2026-03-28T10:57:08.062840Z": "TRANSLATION_DONE:ita",
     "2026-03-28T10:57:09.393005Z": "TRANSLATION_DONE:kab",
-    "2026-03-28T10:57:10.620234Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T10:57:10.620234Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:19.401038Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:19.419661Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -121,6 +123,24 @@
     [
       "USAGE_EXAMPLE",
       "deu:Dieser Mann kann sich nicht selbst umgebracht haben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ein Lebenslauf ist nichts anderes als Werbung für sich selbst"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:втрьох",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kendimiz"
     ]
   ]
 }

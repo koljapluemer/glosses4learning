@@ -1,0 +1,27 @@
+{
+  "content": "Bliv",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Bliv hvor du er. Jeg tilkalder en ambulance"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Stay",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufenthalt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:23.645816Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:23.793326Z": "TRANSLATION_DONE:deu"
+  }
+}

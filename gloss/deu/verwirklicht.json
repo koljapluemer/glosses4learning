@@ -1,0 +1,33 @@
+{
+  "content": "verwirklicht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe den Traum meines Vaters verwirklicht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:realized",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Просування",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:- 연혁",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:41.248714Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:41.270780Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:41.293806Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Rusland",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der har ikke været noget aftalt spil med Rusland"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Russia",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Russland",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:34.811192Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:34.953265Z": "TRANSLATION_DONE:deu"
+  }
+}

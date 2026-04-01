@@ -1,0 +1,27 @@
+{
+  "content": "spørgsmålene",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom besvarede ikke spørgsmålene som Mary stillede"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the questions;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Fragen;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:44.087238Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:44.320130Z": "TRANSLATION_DONE:deu"
+  }
+}

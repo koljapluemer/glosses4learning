@@ -1,0 +1,35 @@
+{
+  "content": "Nulla mensa in cubiculo est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nulla"
+    ],
+    [
+      "PART",
+      "lat:mensa"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:cubiculo"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.341784Z": "SPLIT_DONE"
+  }
+}

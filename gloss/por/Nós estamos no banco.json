@@ -1,0 +1,31 @@
+{
+  "content": "Nós estamos no banco.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Nós"
+    ],
+    [
+      "PART",
+      "por:estamos"
+    ],
+    [
+      "PART",
+      "por:no"
+    ],
+    [
+      "PART",
+      "por:banco"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.579886Z": "SPLIT_DONE"
+  }
+}

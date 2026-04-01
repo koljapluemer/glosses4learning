@@ -1,0 +1,35 @@
+{
+  "content": "Számos nyelv használ angol szavakat.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felvideki (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Számos"
+    ],
+    [
+      "PART",
+      "hun:nyelv"
+    ],
+    [
+      "PART",
+      "hun:használ"
+    ],
+    [
+      "PART",
+      "hun:angol"
+    ],
+    [
+      "PART",
+      "hun:szavakat"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.897096Z": "SPLIT_DONE"
+  }
+}

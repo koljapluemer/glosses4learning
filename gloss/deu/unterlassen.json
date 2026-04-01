@@ -1,0 +1,33 @@
+{
+  "content": "unterlassen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Würde es Ihnen etwas ausmachen, das Rauchen zu unterlassen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:absent",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:немає",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:28.668608Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:28.838240Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:29.072937Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Цікаво",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цікаво, як так вийшло, що ніхто мені не сказав"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Interesting",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Interessant",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:53.789991Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:53.806172Z": "TRANSLATION_DONE:deu"
+  }
+}

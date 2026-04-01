@@ -1,0 +1,27 @@
+{
+  "content": "vinduer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms bil har tonede vinduer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:windows",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fenster",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:51.547402Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:51.562155Z": "TRANSLATION_DONE:deu"
+  }
+}

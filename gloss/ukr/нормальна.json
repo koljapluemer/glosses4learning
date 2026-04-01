@@ -1,0 +1,27 @@
+{
+  "content": "нормальна",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це була цілком нормальна вечірка"
+    ],
+    [
+      "TRANSLATION",
+      "eng:normal",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Normal",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:04.104909Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:04.119141Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Tom macht sich andauernd um seine Tochter Sorgen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:macht"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:andauernd"
+    ],
+    [
+      "PART",
+      "deu:um"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Tochter"
+    ],
+    [
+      "PART",
+      "deu:Sorgen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.314027Z": "SPLIT_DONE"
+  }
+}

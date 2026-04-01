@@ -9,7 +9,9 @@
     "2026-03-29T13:16:26.334374Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:26.541404Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:26.750100Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:26.956481Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:26.956481Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:34.431532Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:34.447756Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,20 @@
     [
       "TRANSLATION",
       "tur:İsteme"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wollen Sie mir damit unterstellen, daß ich Vorurteile habe﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

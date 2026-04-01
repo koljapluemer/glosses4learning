@@ -1,0 +1,43 @@
+{
+  "content": "Myslel jsem, že Tom je tvůj nepřítel.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Myslel"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:tvůj"
+    ],
+    [
+      "PART",
+      "ces:nepřítel"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.638624Z": "SPLIT_DONE"
+  }
+}

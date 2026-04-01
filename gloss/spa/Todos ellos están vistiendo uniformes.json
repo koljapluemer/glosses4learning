@@ -1,0 +1,35 @@
+{
+  "content": "Todos ellos están vistiendo uniformes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by don_ramon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Todos"
+    ],
+    [
+      "PART",
+      "spa:ellos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:vistiendo"
+    ],
+    [
+      "PART",
+      "spa:uniformes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.764540Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "content": "americanos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos odian la música, pero adoran el entretenimiento"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A la mayoría de los americanos les gustan las hamburguesas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los americanos prefieren los coches grandes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos están hartos de las mierdas de los republicanos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:American",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Amerikanisch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:американський",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos llaman pavos a las personas imprudentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:25.452229Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:25.469390Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:25.487314Z": "TRANSLATION_DONE:ukr"
+  }
+}

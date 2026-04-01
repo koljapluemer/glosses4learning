@@ -1,0 +1,33 @@
+{
+  "content": "nachdem",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde einsam sein, nachdem du gegangen bist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:after",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:після",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:후에",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:12.967209Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:12.982845Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:13.001944Z": "TRANSLATION_DONE:kor"
+  }
+}

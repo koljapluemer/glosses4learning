@@ -1,0 +1,33 @@
+{
+  "content": "Hören",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hören Sie auf, andere für Ihre Fehler verantwortlich zu machen!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Listen",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Почати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:55.349509Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:55.369786Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:55.390369Z": "TRANSLATION_DONE:kor"
+  }
+}

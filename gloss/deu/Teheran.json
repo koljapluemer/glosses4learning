@@ -9,7 +9,9 @@
     "2026-03-29T13:15:37.797799Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:37.967631Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:15:38.149296Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:15:38.318870Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:15:38.318870Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:21.180887Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:21.283195Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:Tehrán"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Тахран",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:테헤란",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

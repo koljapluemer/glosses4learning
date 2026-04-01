@@ -1,0 +1,39 @@
+{
+  "content": "Er antwortet immer auf meine Kommentare.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Er"
+    ],
+    [
+      "PART",
+      "deu:antwortet"
+    ],
+    [
+      "PART",
+      "deu:immer"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Kommentare"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.208733Z": "SPLIT_DONE"
+  }
+}

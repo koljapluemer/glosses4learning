@@ -1,0 +1,27 @@
+{
+  "content": "bedst",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er bedst du blander dig udenom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:best",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:am besten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:47.603327Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:47.633801Z": "TRANSLATION_DONE:deu"
+  }
+}

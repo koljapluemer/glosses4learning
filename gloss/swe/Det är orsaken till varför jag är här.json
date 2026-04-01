@@ -1,0 +1,43 @@
+{
+  "content": "Det är orsaken till varför jag är här.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:orsaken"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:varför"
+    ],
+    [
+      "PART",
+      "swe:jag"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.926150Z": "SPLIT_DONE"
+  }
+}

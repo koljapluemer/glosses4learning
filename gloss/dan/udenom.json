@@ -1,0 +1,27 @@
+{
+  "content": "udenom",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er bedst du blander dig udenom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:without",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ohne",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:51.708338Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:51.848035Z": "TRANSLATION_DONE:deu"
+  }
+}

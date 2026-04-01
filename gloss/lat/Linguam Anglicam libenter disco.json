@@ -1,0 +1,31 @@
+{
+  "content": "Linguam Anglicam libenter disco.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Anglicam"
+    ],
+    [
+      "PART",
+      "lat:libenter"
+    ],
+    [
+      "PART",
+      "lat:disco"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.316365Z": "SPLIT_DONE"
+  }
+}

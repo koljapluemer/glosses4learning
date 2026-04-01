@@ -10,7 +10,8 @@
     "2026-03-29T14:22:40.598189Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:40.770942Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:40.947265Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:41.102850Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:41.102850Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:34.084897Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,11 @@
     [
       "TRANSLATION",
       "tur:renk"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:колір",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

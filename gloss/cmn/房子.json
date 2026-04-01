@@ -1,0 +1,29 @@
+{
+  "content": "房子",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她住在一個很大的房子裡。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:House",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我一个人住在这个房子里。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:那幢房子看起来被遗弃了。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:12.691403Z": "TRANSLATION_DONE:eng"
+  }
+}

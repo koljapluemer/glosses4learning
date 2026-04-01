@@ -1,0 +1,35 @@
+{
+  "content": "Mary kan godt lide kvinder.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sifhg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:godt"
+    ],
+    [
+      "PART",
+      "dan:lide"
+    ],
+    [
+      "PART",
+      "dan:kvinder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.837444Z": "SPLIT_DONE"
+  }
+}

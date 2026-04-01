@@ -1,0 +1,27 @@
+{
+  "content": "сина",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том взяв сина на роботу"
+    ],
+    [
+      "TRANSLATION",
+      "eng:son",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sohn",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:11.360634Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:11.377234Z": "TRANSLATION_DONE:deu"
+  }
+}

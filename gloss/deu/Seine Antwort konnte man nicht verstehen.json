@@ -1,0 +1,39 @@
+{
+  "content": "Seine Antwort konnte man nicht verstehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Manfredo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Seine"
+    ],
+    [
+      "PART",
+      "deu:Antwort"
+    ],
+    [
+      "PART",
+      "deu:konnte"
+    ],
+    [
+      "PART",
+      "deu:man"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:verstehen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.925685Z": "SPLIT_DONE"
+  }
+}

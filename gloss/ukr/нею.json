@@ -1,0 +1,31 @@
+{
+  "content": "нею",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я пішов із нею на прогулянку"
+    ],
+    [
+      "TRANSLATION",
+      "eng:her",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ihr",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знав, що мені слід було одружитися з нею"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:03.730098Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:03.745587Z": "TRANSLATION_DONE:deu"
+  }
+}

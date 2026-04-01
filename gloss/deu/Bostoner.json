@@ -1,0 +1,33 @@
+{
+  "content": "Bostoner",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom ist ein wohlhabender Bostoner Geschäftsmann"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Бостон",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:보스턴",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.930137Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.946981Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:54.096949Z": "TRANSLATION_DONE:kor"
+  }
+}

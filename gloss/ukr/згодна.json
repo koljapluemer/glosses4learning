@@ -1,0 +1,27 @@
+{
+  "content": "згодна",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я згодна з вами"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yes",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ja",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:58.430404Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:58.444844Z": "TRANSLATION_DONE:deu"
+  }
+}

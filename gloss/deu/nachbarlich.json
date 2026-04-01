@@ -1,0 +1,33 @@
+{
+  "content": "nachbarlich",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom wollte sich einfach nur nachbarlich verhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reasonable",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:розумний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:12.788403Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:12.802314Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:12.821938Z": "TRANSLATION_DONE:kor"
+  }
+}

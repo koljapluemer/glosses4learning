@@ -10,7 +10,8 @@
     "2026-03-29T14:21:29.090307Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:21:29.245652Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:21:29.429290Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:21:29.630314Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:21:29.630314Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:20.092432Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,11 @@
     [
       "TRANSLATION",
       "tur:Kral"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Король",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Tom y Mary comparten algunos intereses.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:Mary"
+    ],
+    [
+      "PART",
+      "spa:comparten"
+    ],
+    [
+      "PART",
+      "spa:algunos"
+    ],
+    [
+      "PART",
+      "spa:intereses"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.734975Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Standpunkt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich kann deinen Standpunkt nur zu gut verstehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Position",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주요 특징",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:57.903787Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:57.921604Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:57.941274Z": "TRANSLATION_DONE:kor"
+  }
+}

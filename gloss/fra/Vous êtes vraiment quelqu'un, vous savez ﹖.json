@@ -1,0 +1,39 @@
+{
+  "content": "Vous êtes vraiment quelqu'un, vous savez ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vous"
+    ],
+    [
+      "PART",
+      "fra:êtes"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:savez"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.436094Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Estaba mirando la televisión medio dormido.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by camilou (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Estaba"
+    ],
+    [
+      "PART",
+      "spa:mirando"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:televisión"
+    ],
+    [
+      "PART",
+      "spa:medio"
+    ],
+    [
+      "PART",
+      "spa:dormido"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.631400Z": "SPLIT_DONE"
+  }
+}

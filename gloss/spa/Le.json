@@ -10,7 +10,8 @@
     "2026-03-29T14:21:08.880321Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:21:09.046901Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:21:09.216136Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:21:09.375150Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:21:09.375150Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:18.269792Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,15 @@
     [
       "TRANSLATION",
       "tur:Size"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Леся",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Le gustan los animales peculiares, como las serpientes"
     ]
   ]
 }

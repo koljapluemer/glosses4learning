@@ -1,0 +1,47 @@
+{
+  "content": "J'adore les phrases dont le sujet sont les écureuils !",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'adore"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:phrases"
+    ],
+    [
+      "PART",
+      "fra:dont"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:sujet"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:écureuils"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.690392Z": "SPLIT_DONE"
+  }
+}

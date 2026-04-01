@@ -1,0 +1,39 @@
+{
+  "content": "Tom az önce benimle konuşmaya başladı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:az"
+    ],
+    [
+      "PART",
+      "tur:önce"
+    ],
+    [
+      "PART",
+      "tur:benimle"
+    ],
+    [
+      "PART",
+      "tur:konuşmaya"
+    ],
+    [
+      "PART",
+      "tur:başladı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.628919Z": "SPLIT_DONE"
+  }
+}

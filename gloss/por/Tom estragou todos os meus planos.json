@@ -1,0 +1,39 @@
+{
+  "content": "Tom estragou todos os meus planos.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:estragou"
+    ],
+    [
+      "PART",
+      "por:todos"
+    ],
+    [
+      "PART",
+      "por:os"
+    ],
+    [
+      "PART",
+      "por:meus"
+    ],
+    [
+      "PART",
+      "por:planos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.467538Z": "SPLIT_DONE"
+  }
+}

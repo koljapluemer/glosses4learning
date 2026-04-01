@@ -1,0 +1,27 @@
+{
+  "content": "selvsikker",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun sagde, Hvor ser han selvsikker ud!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:confident",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zuversichtlich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:42.025376Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:42.167727Z": "TRANSLATION_DONE:deu"
+  }
+}

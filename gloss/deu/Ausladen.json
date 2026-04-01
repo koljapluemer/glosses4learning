@@ -1,0 +1,33 @@
+{
+  "content": "Ausladen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich half Tom beim Ausladen seines Transporters"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Loading",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Завантаження",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.300522Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.317399Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.336257Z": "TRANSLATION_DONE:kor"
+  }
+}

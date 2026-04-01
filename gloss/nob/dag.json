@@ -1,0 +1,29 @@
+{
+  "content": "dag",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg har beklageligvis ikke tid i dag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Day",
+      "Auto-translated with argostranslate (nb→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Du kommer til å glemme meg en dag"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Du trenger ikke studere i dag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:51:02.927218Z": "TRANSLATION_DONE:eng"
+  }
+}

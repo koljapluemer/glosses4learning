@@ -1,0 +1,27 @@
+{
+  "content": "A bằng B.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leucammieuvu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:A"
+    ],
+    [
+      "PART",
+      "vie:bằng"
+    ],
+    [
+      "PART",
+      "vie:B"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.045395Z": "SPLIT_DONE"
+  }
+}

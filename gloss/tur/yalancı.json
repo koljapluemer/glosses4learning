@@ -1,0 +1,27 @@
+{
+  "content": "yalancı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben onun bir yalancı olduğundan şüphelendim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tags",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schlagwörter",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:40.126149Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:40.238084Z": "TRANSLATION_DONE:deu"
+  }
+}

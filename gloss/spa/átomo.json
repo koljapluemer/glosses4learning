@@ -1,0 +1,33 @@
+{
+  "content": "átomo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las dimensiones del átomo son extremadamente pequeñas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:atom",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Atom",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:атом",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:44.915555Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:45.060811Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:45.082093Z": "TRANSLATION_DONE:ukr"
+  }
+}

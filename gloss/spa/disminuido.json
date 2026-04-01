@@ -1,0 +1,33 @@
+{
+  "content": "disminuido",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La explotación forestal ilegal ha disminuido considerablemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:decreased",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rückgang",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зниження",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:43.287391Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:43.427279Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:43.444665Z": "TRANSLATION_DONE:ukr"
+  }
+}

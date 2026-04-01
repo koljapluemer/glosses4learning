@@ -1,0 +1,47 @@
+{
+  "content": "Tom jest za bardzo zmęczony żeby się uczyć.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by thefex (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:za"
+    ],
+    [
+      "PART",
+      "pol:bardzo"
+    ],
+    [
+      "PART",
+      "pol:zmęczony"
+    ],
+    [
+      "PART",
+      "pol:żeby"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:uczyć"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.293299Z": "SPLIT_DONE"
+  }
+}

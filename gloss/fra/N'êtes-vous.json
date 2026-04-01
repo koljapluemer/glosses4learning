@@ -1,0 +1,31 @@
+{
+  "content": "N'êtes-vous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:N'êtes-vous pas trop jeunes pour fumer ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:N'êtes-vous pas intéressé par l'apprentissage du français ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are you",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:30.601186Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:30.617211Z": "TRANSLATION_DONE:deu"
+  }
+}

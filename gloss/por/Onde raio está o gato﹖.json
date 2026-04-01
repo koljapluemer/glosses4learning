@@ -1,0 +1,35 @@
+{
+  "content": "Onde raio está o gato?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by iart61 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Onde"
+    ],
+    [
+      "PART",
+      "por:raio"
+    ],
+    [
+      "PART",
+      "por:está"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:gato"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.576938Z": "SPLIT_DONE"
+  }
+}

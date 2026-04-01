@@ -1,0 +1,27 @@
+{
+  "content": "Sprekt hai Nederlaands?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GlossaMatik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Sprekt"
+    ],
+    [
+      "PART",
+      "gos:hai"
+    ],
+    [
+      "PART",
+      "gos:Nederlaands"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.672498Z": "SPLIT_DONE"
+  }
+}

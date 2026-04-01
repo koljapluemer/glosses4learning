@@ -1,0 +1,39 @@
+{
+  "content": "Tom sanoi, ettei hän saanut henkeä.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:sanoi"
+    ],
+    [
+      "PART",
+      "fin:ettei"
+    ],
+    [
+      "PART",
+      "fin:hän"
+    ],
+    [
+      "PART",
+      "fin:saanut"
+    ],
+    [
+      "PART",
+      "fin:henkeä"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.013003Z": "SPLIT_DONE"
+  }
+}

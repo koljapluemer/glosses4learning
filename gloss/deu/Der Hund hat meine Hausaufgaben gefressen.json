@@ -1,0 +1,39 @@
+{
+  "content": "Der Hund hat meine Hausaufgaben gefressen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Der"
+    ],
+    [
+      "PART",
+      "deu:Hund"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:gefressen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.312489Z": "SPLIT_DONE"
+  }
+}

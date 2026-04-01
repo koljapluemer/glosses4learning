@@ -1,0 +1,31 @@
+{
+  "content": "Proč jsem tohle nevěděl?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nueby (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Proč"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:tohle"
+    ],
+    [
+      "PART",
+      "ces:nevěděl"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.754365Z": "SPLIT_DONE"
+  }
+}

@@ -5,6 +5,37 @@
     [
       "TRANSLATION",
       "frr:fraaget"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange Sie wohl durchhalten werden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange ihr wohl durchhalten werdet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Question",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Питання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:37:23.919928Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:23.972369Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:24.000025Z": "TRANSLATION_DONE:kor"
+  }
 }

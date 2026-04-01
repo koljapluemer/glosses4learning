@@ -1,0 +1,27 @@
+{
+  "content": "dix-neuf-cents-quarante-cinq",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:La deuxième guerre mondiale s'est achevée en dix-neuf-cents-quarante-cinq"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Nineteen-hundred-forty-five",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nineteen-hundred-forty-five",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:33.195646Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:33.233849Z": "TRANSLATION_DONE:deu"
+  }
+}

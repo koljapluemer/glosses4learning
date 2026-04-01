@@ -1,0 +1,39 @@
+{
+  "content": "думаю",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не думаю, що це настільки просто"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не думаю, що Том закінчив"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я думаю, Том добре говорить французькою"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I think",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich glaube",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я думаю, що ви обидві знаєте мене"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.123875Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.141054Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "bange",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er bange for at det ikke er så let"
+    ],
+    [
+      "TRANSLATION",
+      "eng:scared",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Angst",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:47.020258Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:47.208838Z": "TRANSLATION_DONE:deu"
+  }
+}

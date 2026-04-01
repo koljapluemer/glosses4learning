@@ -1,0 +1,43 @@
+{
+  "content": "Hvordan",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvordan kan det være at han ikke dukkede op﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvordan kan jeg gøre dig gladere﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvordan sletter jeg denne oversættelse﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvordan kan nogen finde på at stjæle en rendegraver﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:How",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvordan lyder vejrudsigten for i morgen﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:30.455836Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:30.648555Z": "TRANSLATION_DONE:deu"
+  }
+}

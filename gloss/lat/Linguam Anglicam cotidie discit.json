@@ -1,0 +1,31 @@
+{
+  "content": "Linguam Anglicam cotidie discit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Anglicam"
+    ],
+    [
+      "PART",
+      "lat:cotidie"
+    ],
+    [
+      "PART",
+      "lat:discit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.302745Z": "SPLIT_DONE"
+  }
+}

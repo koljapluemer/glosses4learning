@@ -1,0 +1,33 @@
+{
+  "content": "Malt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Malt von deinen Freunden jemand﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Malt",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:солод",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기본 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:56.075154Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:56.092004Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:56.108390Z": "TRANSLATION_DONE:kor"
+  }
+}

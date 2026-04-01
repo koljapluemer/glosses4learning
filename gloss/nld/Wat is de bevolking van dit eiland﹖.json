@@ -1,0 +1,43 @@
+{
+  "content": "Wat is de bevolking van dit eiland?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SunnyMoon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:bevolking"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:dit"
+    ],
+    [
+      "PART",
+      "nld:eiland"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.217865Z": "SPLIT_DONE"
+  }
+}

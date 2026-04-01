@@ -1,0 +1,27 @@
+{
+  "content": "müdahale",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hiç kimsenin canı müdahale etmek istemiyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:News",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nachrichten",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:34.354777Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:34.368225Z": "TRANSLATION_DONE:deu"
+  }
+}

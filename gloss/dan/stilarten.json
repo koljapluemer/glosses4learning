@@ -1,0 +1,27 @@
+{
+  "content": "stilarten",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han udøvede stilarten, det naturlige forsvar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the style;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:den Stil;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:38.377544Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:38.533237Z": "TRANSLATION_DONE:deu"
+  }
+}

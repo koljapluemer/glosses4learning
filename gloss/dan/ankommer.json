@@ -1,0 +1,35 @@
+{
+  "content": "ankommer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kan være at vi ankommer før det regner"
+    ],
+    [
+      "TRANSLATION",
+      "eng:arrive",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ankunft",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi ankommer måske før det begynder at regne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi ankommer måske før det regner"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:44.553622Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:44.694131Z": "TRANSLATION_DONE:deu"
+  }
+}

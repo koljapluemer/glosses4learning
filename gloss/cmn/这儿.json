@@ -1,0 +1,33 @@
+{
+  "content": "这儿",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:他在这儿住了有一段时间了。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我可以和你一起待在这儿吗？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Here",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你从没来过这儿，对吗？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:不能在这儿睡觉，去里面睡。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:08.049809Z": "TRANSLATION_DONE:eng"
+  }
+}

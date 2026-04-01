@@ -1,0 +1,35 @@
+{
+  "content": "Apa kamu benar-benar mencintai Tom?",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by purichan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Apa"
+    ],
+    [
+      "PART",
+      "ind:kamu"
+    ],
+    [
+      "PART",
+      "ind:benar-benar"
+    ],
+    [
+      "PART",
+      "ind:mencintai"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.864578Z": "SPLIT_DONE"
+  }
+}

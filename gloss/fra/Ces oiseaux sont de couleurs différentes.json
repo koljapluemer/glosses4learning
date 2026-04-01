@@ -1,0 +1,39 @@
+{
+  "content": "Ces oiseaux sont de couleurs différentes.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:oiseaux"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:couleurs"
+    ],
+    [
+      "PART",
+      "fra:différentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.317784Z": "SPLIT_DONE"
+  }
+}

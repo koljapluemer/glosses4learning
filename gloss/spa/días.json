@@ -1,0 +1,45 @@
+{
+  "content": "días",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy libre todos los días menos el lunes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:days",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tage",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Днів",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella estudia todos los días de la mañana a la noche"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos me lo dijeron unos días antes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Él ve la televisión todos los días﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:44.886981Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:44.905113Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:45.055155Z": "TRANSLATION_DONE:ukr"
+  }
+}

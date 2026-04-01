@@ -1,0 +1,43 @@
+{
+  "content": "Я можу це зробити, чи не так?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shanghainese (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:можу"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:зробити"
+    ],
+    [
+      "PART",
+      "ukr:чи"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:так"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.947861Z": "SPLIT_DONE"
+  }
+}

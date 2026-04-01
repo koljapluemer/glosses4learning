@@ -1,0 +1,35 @@
+{
+  "content": "Het meisje heeft een muis.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Het"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ],
+    [
+      "PART",
+      "nld:heeft"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:muis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.211338Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "народилася",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я народилася у 1972-му році"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Born",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geboren",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:02.939017Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:02.953586Z": "TRANSLATION_DONE:deu"
+  }
+}

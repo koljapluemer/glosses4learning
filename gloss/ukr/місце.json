@@ -1,0 +1,31 @@
+{
+  "content": "місце",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Чому б нам не піти в якесь відлюдне місце﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тому потрібно було безпечне місце, щоб сховатися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:location",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Standort",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:01.327417Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:01.340280Z": "TRANSLATION_DONE:deu"
+  }
+}

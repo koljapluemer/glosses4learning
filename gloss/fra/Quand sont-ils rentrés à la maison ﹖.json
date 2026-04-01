@@ -1,0 +1,39 @@
+{
+  "content": "Quand sont-ils rentrés à la maison ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gasche (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quand"
+    ],
+    [
+      "PART",
+      "fra:sont-ils"
+    ],
+    [
+      "PART",
+      "fra:rentrés"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.135859Z": "SPLIT_DONE"
+  }
+}

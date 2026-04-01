@@ -1,0 +1,37 @@
+{
+  "content": "hättet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr hättet meine Briefe beantworten sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr hättet einen Rechtsanwalt einschalten sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:had",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мала",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:56.107412Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:56.107675Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:56.109776Z": "TRANSLATION_DONE:kor"
+  }
+}

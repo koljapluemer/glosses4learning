@@ -1,0 +1,39 @@
+{
+  "content": "这些苹果看起来很新鲜。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mtdot (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:这些"
+    ],
+    [
+      "PART",
+      "cmn:苹果"
+    ],
+    [
+      "PART",
+      "cmn:看起来"
+    ],
+    [
+      "PART",
+      "cmn:很"
+    ],
+    [
+      "PART",
+      "cmn:新鲜"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:16.716696Z": "SPLIT_DONE"
+  }
+}

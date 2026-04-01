@@ -1,0 +1,55 @@
+{
+  "content": "A la mayoría de los americanos les gustan las hamburguesas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:A"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:mayoría"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:americanos"
+    ],
+    [
+      "PART",
+      "spa:les"
+    ],
+    [
+      "PART",
+      "spa:gustan"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:hamburguesas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.581618Z": "SPLIT_DONE"
+  }
+}

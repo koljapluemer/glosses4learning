@@ -1,0 +1,39 @@
+{
+  "content": "Hat Tom alle deine Fragen beantwortet?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Hat"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:alle"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Fragen"
+    ],
+    [
+      "PART",
+      "deu:beantwortet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.424540Z": "SPLIT_DONE"
+  }
+}

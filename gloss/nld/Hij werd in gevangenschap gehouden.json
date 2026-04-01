@@ -1,0 +1,35 @@
+{
+  "content": "Hij werd in gevangenschap gehouden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Hij"
+    ],
+    [
+      "PART",
+      "nld:werd"
+    ],
+    [
+      "PART",
+      "nld:in"
+    ],
+    [
+      "PART",
+      "nld:gevangenschap"
+    ],
+    [
+      "PART",
+      "nld:gehouden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.119234Z": "SPLIT_DONE"
+  }
+}

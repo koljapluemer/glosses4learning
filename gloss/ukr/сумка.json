@@ -1,0 +1,27 @@
+{
+  "content": "сумка",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це не моя сумка"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bag",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tasche",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:12.463914Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:12.479039Z": "TRANSLATION_DONE:deu"
+  }
+}

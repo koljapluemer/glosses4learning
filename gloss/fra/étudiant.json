@@ -1,0 +1,27 @@
+{
+  "content": "étudiant",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:N'importe quel étudiant peut répondre à cette question"
+    ],
+    [
+      "TRANSLATION",
+      "eng:student",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schüler",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:57.907375Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:58.139734Z": "TRANSLATION_DONE:deu"
+  }
+}

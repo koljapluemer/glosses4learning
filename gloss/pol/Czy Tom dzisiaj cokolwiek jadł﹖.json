@@ -1,0 +1,35 @@
+{
+  "content": "Czy Tom dzisiaj cokolwiek jadł?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:dzisiaj"
+    ],
+    [
+      "PART",
+      "pol:cokolwiek"
+    ],
+    [
+      "PART",
+      "pol:jadł"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.805016Z": "SPLIT_DONE"
+  }
+}

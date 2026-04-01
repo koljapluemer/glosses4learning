@@ -12,7 +12,9 @@
     "2026-03-28T15:25:41.141356Z": "TRANSLATION_DONE:deu",
     "2026-03-28T15:25:42.028009Z": "TRANSLATION_DONE:fra",
     "2026-03-28T15:25:43.256450Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T15:25:45.501329Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T15:25:45.501329Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:39:20.696208Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:39:20.715427Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -86,6 +88,28 @@
     [
       "TRANSLATION",
       "tur:terk etme"
+    ],
+    [
+      "TRANSLATION",
+      "ces:odchodu"
+    ],
+    [
+      "TRANSLATION",
+      "dan:forlader"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "por:saindo"
     ]
   ]
 }

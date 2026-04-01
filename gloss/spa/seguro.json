@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T11:40:12.716Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T11:40:12.716Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:53:31.056185Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:31.072585Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -23,6 +27,24 @@
     [
       "TRANSLATION",
       "eng:confident"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que ellos están hablando de nosotros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que ellos no nos están buscando"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sicher",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

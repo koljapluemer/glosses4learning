@@ -1,0 +1,41 @@
+{
+  "content": "занятие",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я знаю, что тебе понравится это занятие"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я знал, что тебе понравится это занятие"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне никогда не нравилось это занятие"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я знаю, что вам понравится это занятие"
+    ],
+    [
+      "TRANSLATION",
+      "eng:study",
+      "Auto-translated with argostranslate (ru→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Тому, наверное, понравится это занятие"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Тому не понравилось бы это занятие"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:04.947863Z": "TRANSLATION_DONE:eng"
+  }
+}

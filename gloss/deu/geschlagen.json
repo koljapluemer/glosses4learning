@@ -9,7 +9,9 @@
     "2026-03-29T13:19:33.836629Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:34.019940Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:19:34.199010Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:19:34.392728Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:19:34.392728Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:40.428329Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:40.572736Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,20 @@
     [
       "TRANSLATION",
       "tur:yendi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Angesichts seines Alters hat er sich gut geschlagen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зрілий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

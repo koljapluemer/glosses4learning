@@ -1,0 +1,33 @@
+{
+  "content": "beantwortest",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum beantwortest du meine Frage nicht﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:be replied",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бути відповів",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:대답",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:44.565313Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:44.714098Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:44.761580Z": "TRANSLATION_DONE:kor"
+  }
+}

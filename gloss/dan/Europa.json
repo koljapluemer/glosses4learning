@@ -1,0 +1,27 @@
+{
+  "content": "Europa",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har endnu aldrig været uden for Europa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Europe",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Europa",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:25.684265Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:25.875821Z": "TRANSLATION_DONE:deu"
+  }
+}

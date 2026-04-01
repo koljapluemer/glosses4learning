@@ -9,7 +9,9 @@
     "2026-03-29T13:24:31.326684Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:31.510546Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:24:31.692419Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:24:31.874213Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:24:31.874213Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:48.101888Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:48.118748Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,20 @@
     [
       "TRANSLATION",
       "tur:sinirlen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дратівливий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er macht das aus reiner Schikane, weil er genau weiß, daß ich mich darüber ärgere"
     ]
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "content": "schema",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Mitt schema är helt galet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Schedule",
+      "Auto-translated with argostranslate (sv→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:01.987776Z": "TRANSLATION_DONE:eng"
+  }
+}

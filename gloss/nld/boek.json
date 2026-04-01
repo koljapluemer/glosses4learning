@@ -1,0 +1,33 @@
+{
+  "content": "boek",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Op dit moment ben ik bezig met het schrijven van een boek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik kan me niet herinneren je boek gelezen te hebben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik weet niet meer of ik je boek gelezen heb"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:We hebben het boek eindelijk gepubliceerd"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:53.155708Z": "TRANSLATION_DONE:eng"
+  }
+}

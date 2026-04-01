@@ -1,0 +1,39 @@
+{
+  "content": "Wat je zegt, laat me siberisch.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by PaulP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:zegt"
+    ],
+    [
+      "PART",
+      "nld:laat"
+    ],
+    [
+      "PART",
+      "nld:me"
+    ],
+    [
+      "PART",
+      "nld:siberisch"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.204155Z": "SPLIT_DONE"
+  }
+}

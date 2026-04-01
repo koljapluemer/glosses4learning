@@ -9,7 +9,9 @@
     "2026-03-29T13:16:25.528087Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:25.756790Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:25.919243Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:26.125570Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:26.125570Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:34.378738Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:34.397817Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:Evden taşınma"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Житло",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

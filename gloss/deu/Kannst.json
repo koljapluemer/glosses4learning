@@ -1,0 +1,49 @@
+{
+  "content": "Kannst",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du es ihr bitte an meiner Stelle sagen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du die Zwillinge voneinander unterscheiden﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can you﹖",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чи можна ви﹖",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은﹖",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du ein Geheimnis für dich behalten﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du bitte deinen Fuß ruhig halten﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du mir den Reißverschluss meines Kleides zuziehen﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:28.193343Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:28.226197Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:28.381517Z": "TRANSLATION_DONE:kor"
+  }
+}

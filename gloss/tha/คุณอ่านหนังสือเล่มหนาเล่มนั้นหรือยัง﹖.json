@@ -1,0 +1,43 @@
+{
+  "content": "คุณอ่านหนังสือเล่มหนาเล่มนั้นหรือยัง?",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:คุณ"
+    ],
+    [
+      "PART",
+      "tha:อ่านหนังสือ"
+    ],
+    [
+      "PART",
+      "tha:เล่ม"
+    ],
+    [
+      "PART",
+      "tha:หนา"
+    ],
+    [
+      "PART",
+      "tha:นั้น"
+    ],
+    [
+      "PART",
+      "tha:หรือยัง"
+    ],
+    [
+      "PART",
+      "tha:﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:23.848453Z": "SPLIT_DONE"
+  }
+}

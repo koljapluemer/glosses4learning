@@ -1,0 +1,27 @@
+{
+  "content": "зайняту",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том каже, що Мері не виглядала на зайняту"
+    ],
+    [
+      "TRANSLATION",
+      "eng:busy",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beschäftigt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:57.496226Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:57.496641Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "هل تتكلم الأمازيغية في المنزل؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amghar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هل"
+    ],
+    [
+      "PART",
+      "ara:تتكلم"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ],
+    [
+      "PART",
+      "ara:في"
+    ],
+    [
+      "PART",
+      "ara:المنزل"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.031242Z": "SPLIT_DONE"
+  }
+}

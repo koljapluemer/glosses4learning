@@ -1,0 +1,33 @@
+{
+  "content": "anoche",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él estaba viendo televisión anoche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Last night",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Letzte Nacht",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Погода",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.167436Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.182569Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.197127Z": "TRANSLATION_DONE:ukr"
+  }
+}

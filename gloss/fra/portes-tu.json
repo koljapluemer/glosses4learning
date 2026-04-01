@@ -1,0 +1,31 @@
+{
+  "content": "portes-tu",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi portes-tu celles-là ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Are you wearing",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du trägst",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi ne portes-tu pas de vêtements d'été ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:44.235999Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:44.391958Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Kanu",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielleicht sollte ich mein Kanu nicht verkaufen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Canoe",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Каное",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:카누",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:55.588978Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:55.606960Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:55.625490Z": "TRANSLATION_DONE:kor"
+  }
+}

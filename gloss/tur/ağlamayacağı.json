@@ -1,0 +1,27 @@
+{
+  "content": "ağlamayacağı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin ağlamayacağı konusunda benimle iddiaya girdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not cry",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht weinen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:45.682432Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:45.699307Z": "TRANSLATION_DONE:deu"
+  }
+}

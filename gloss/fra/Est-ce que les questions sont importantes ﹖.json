@@ -1,0 +1,39 @@
+{
+  "content": "Est-ce que les questions sont importantes ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pkill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:questions"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:importantes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.680641Z": "SPLIT_DONE"
+  }
+}

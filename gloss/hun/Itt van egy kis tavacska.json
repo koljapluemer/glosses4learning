@@ -1,0 +1,35 @@
+{
+  "content": "Itt van egy kis tavacska.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by urbi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Itt"
+    ],
+    [
+      "PART",
+      "hun:van"
+    ],
+    [
+      "PART",
+      "hun:egy"
+    ],
+    [
+      "PART",
+      "hun:kis"
+    ],
+    [
+      "PART",
+      "hun:tavacska"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.897546Z": "SPLIT_DONE"
+  }
+}

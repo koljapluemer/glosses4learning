@@ -1,0 +1,35 @@
+{
+  "content": "Hat jeder seine Hausaufgaben gemacht?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yorwba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Hat"
+    ],
+    [
+      "PART",
+      "deu:jeder"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:gemacht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.212157Z": "SPLIT_DONE"
+  }
+}

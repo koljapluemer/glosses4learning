@@ -1,0 +1,31 @@
+{
+  "content": "Thomas Mariam iniuste accusavit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:Mariam"
+    ],
+    [
+      "PART",
+      "lat:iniuste"
+    ],
+    [
+      "PART",
+      "lat:accusavit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.384439Z": "SPLIT_DONE"
+  }
+}

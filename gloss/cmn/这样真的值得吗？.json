@@ -1,0 +1,35 @@
+{
+  "content": "这样真的值得吗？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fucongcong (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:这样"
+    ],
+    [
+      "PART",
+      "cmn:真的"
+    ],
+    [
+      "PART",
+      "cmn:值得"
+    ],
+    [
+      "PART",
+      "cmn:吗"
+    ],
+    [
+      "PART",
+      "cmn:？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.611288Z": "SPLIT_DONE"
+  }
+}

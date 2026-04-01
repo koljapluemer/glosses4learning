@@ -1,0 +1,27 @@
+{
+  "content": "gemme",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har ingen steder, hvor han kan gemme sig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:save",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:speichern",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:21.773603Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:21.914103Z": "TRANSLATION_DONE:deu"
+  }
+}

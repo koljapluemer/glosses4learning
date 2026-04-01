@@ -1,0 +1,35 @@
+{
+  "content": "Oapen binnen gek op benoanen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Oapen"
+    ],
+    [
+      "PART",
+      "gos:binnen"
+    ],
+    [
+      "PART",
+      "gos:gek"
+    ],
+    [
+      "PART",
+      "gos:op"
+    ],
+    [
+      "PART",
+      "gos:benoanen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.677786Z": "SPLIT_DONE"
+  }
+}

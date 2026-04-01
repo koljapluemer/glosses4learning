@@ -1,0 +1,33 @@
+{
+  "content": "antiguos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella tiene algunos bonitos muebles antiguos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:old",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:alt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:старі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.212493Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.226028Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.239965Z": "TRANSLATION_DONE:ukr"
+  }
+}

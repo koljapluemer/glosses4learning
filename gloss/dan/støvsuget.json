@@ -1,0 +1,31 @@
+{
+  "content": "støvsuget",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms hund kan godt lide at blive støvsuget"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms hund nyder at blive støvsuget"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vacuum",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vakuum",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:45.042355Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:45.192001Z": "TRANSLATION_DONE:deu"
+  }
+}

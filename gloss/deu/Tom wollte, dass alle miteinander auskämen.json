@@ -1,0 +1,39 @@
+{
+  "content": "Tom wollte, dass alle miteinander auskämen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:wollte"
+    ],
+    [
+      "PART",
+      "deu:dass"
+    ],
+    [
+      "PART",
+      "deu:alle"
+    ],
+    [
+      "PART",
+      "deu:miteinander"
+    ],
+    [
+      "PART",
+      "deu:auskämen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.394123Z": "SPLIT_DONE"
+  }
+}

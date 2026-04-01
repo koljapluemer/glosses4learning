@@ -1,0 +1,35 @@
+{
+  "content": "Нам надо бы Тому позвонить.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Нам"
+    ],
+    [
+      "PART",
+      "rus:надо"
+    ],
+    [
+      "PART",
+      "rus:бы"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.667296Z": "SPLIT_DONE"
+  }
+}

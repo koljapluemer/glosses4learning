@@ -1,0 +1,39 @@
+{
+  "content": "ใช่ไหม",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ตอนนี้คุณกำลังมีปัญหาใช่ไหม"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Right﹖",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Oder﹖",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ดินสอนี้เป็นของคุณใช่ไหม﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณทานอาหารเช้าแล้วใช่ไหม"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณกำลังมองหางานใช่ไหม﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:23.677525Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:23.694835Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "ненадійним",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені здається, що Том був би ненадійним варіантом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:untrusted",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht vertrauenswürdig",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:01.943114Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:01.959994Z": "TRANSLATION_DONE:deu"
+  }
+}

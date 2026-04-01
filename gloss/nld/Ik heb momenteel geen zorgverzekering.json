@@ -1,0 +1,35 @@
+{
+  "content": "Ik heb momenteel geen zorgverzekering.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rose_d (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:heb"
+    ],
+    [
+      "PART",
+      "nld:momenteel"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:zorgverzekering"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.072784Z": "SPLIT_DONE"
+  }
+}

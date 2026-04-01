@@ -1,0 +1,39 @@
+{
+  "content": "Tom ur yezmir ara ad yemmeslay.",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Igider (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "kab:Tom"
+    ],
+    [
+      "PART",
+      "kab:ur"
+    ],
+    [
+      "PART",
+      "kab:yezmir"
+    ],
+    [
+      "PART",
+      "kab:ara"
+    ],
+    [
+      "PART",
+      "kab:ad"
+    ],
+    [
+      "PART",
+      "kab:yemmeslay"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:35.813820Z": "SPLIT_DONE"
+  }
+}

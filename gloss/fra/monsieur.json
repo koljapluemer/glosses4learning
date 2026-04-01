@@ -5,6 +5,31 @@
     [
       "TRANSLATION",
       "ita:signor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que monsieur Richard est à la maison ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sir",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Herr Präsident!",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:C'était juste une question, monsieur"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:37.105622Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:37.259879Z": "TRANSLATION_DONE:deu"
+  }
 }

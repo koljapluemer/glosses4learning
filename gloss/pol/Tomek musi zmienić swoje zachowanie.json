@@ -1,0 +1,35 @@
+{
+  "content": "Tomek musi zmienić swoje zachowanie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tomek"
+    ],
+    [
+      "PART",
+      "pol:musi"
+    ],
+    [
+      "PART",
+      "pol:zmienić"
+    ],
+    [
+      "PART",
+      "pol:swoje"
+    ],
+    [
+      "PART",
+      "pol:zachowanie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.306647Z": "SPLIT_DONE"
+  }
+}

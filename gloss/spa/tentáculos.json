@@ -1,0 +1,33 @@
+{
+  "content": "tentáculos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los animales con tentáculos son invertebrados"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tentacles",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tentakel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кепікі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:38.792850Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:38.937924Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:39.085899Z": "TRANSLATION_DONE:ukr"
+  }
+}

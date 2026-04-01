@@ -1,0 +1,47 @@
+{
+  "content": "uskyld",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne omstændighed beviser hans uskyld"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette forhold beviser hans uskyld"
+    ],
+    [
+      "TRANSLATION",
+      "eng:innocence",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unschuld",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne omstændighed beviser hendes uskyld"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette faktum beviser hendes uskyld"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne kendsgerning beviser hans uskyld"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette faktum beviser hans uskyld"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:55.332178Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:55.483671Z": "TRANSLATION_DONE:deu"
+  }
+}

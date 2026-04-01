@@ -1,0 +1,35 @@
+{
+  "content": "Ella tiene muy buenos modales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:tiene"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:buenos"
+    ],
+    [
+      "PART",
+      "spa:modales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.775631Z": "SPLIT_DONE"
+  }
+}

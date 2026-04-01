@@ -1,0 +1,33 @@
+{
+  "content": "Benehmen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er schämt sich für das Benehmen seines Sohnes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Behave",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Плеймейт",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:15.053036Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:15.203811Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:15.256102Z": "TRANSLATION_DONE:kor"
+  }
+}

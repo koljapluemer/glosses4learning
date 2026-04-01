@@ -9,7 +9,9 @@
     "2026-03-29T13:14:32.554484Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:32.759372Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:32.946348Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:33.139542Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:33.139542Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:48.724242Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:48.879110Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:Gece yemeği"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:десерти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:ღ♥ღ",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "content": "Schöneres",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Im Sommer gibt es doch nichts Schöneres als eine Wassermelone!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Beautiful",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Красивий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:07.627875Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:07.773728Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:07.877730Z": "TRANSLATION_DONE:kor"
+  }
+}

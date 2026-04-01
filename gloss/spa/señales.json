@@ -1,0 +1,37 @@
+{
+  "content": "señales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él describió con pelos y señales lo que ocurrió"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sign",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zeichen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las señales tienen colores diferentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:33.364317Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:33.377392Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:33.393793Z": "TRANSLATION_DONE:ukr"
+  }
+}

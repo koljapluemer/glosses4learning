@@ -1,0 +1,33 @@
+{
+  "content": "lenguas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las lenguas están constantemente sujetas a cambios"
+    ],
+    [
+      "TRANSLATION",
+      "eng:languages",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sprachen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мова",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.332809Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.352060Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.371270Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "fladbrystede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Mary foretrækker fladbrystede kvinder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:flattened",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:abgeflacht",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:22.071666Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:22.238420Z": "TRANSLATION_DONE:deu"
+  }
+}

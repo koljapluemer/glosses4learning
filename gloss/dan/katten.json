@@ -1,0 +1,27 @@
+{
+  "content": "katten",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor er katten i hundehuset﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cat",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Katze",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:31.410042Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:31.460887Z": "TRANSLATION_DONE:deu"
+  }
+}

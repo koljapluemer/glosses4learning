@@ -1,0 +1,27 @@
+{
+  "content": "належить",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цей будинок належить мені"
+    ],
+    [
+      "TRANSLATION",
+      "eng:member",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mitglied",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:02.794681Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:02.806979Z": "TRANSLATION_DONE:deu"
+  }
+}

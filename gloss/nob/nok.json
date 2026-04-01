@@ -1,0 +1,33 @@
+{
+  "content": "nok",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg har ikke nok penger"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg har hatt nok av Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Enough",
+      "Auto-translated with argostranslate (nb→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom har ikke gjort nok ennå"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg håper at dette er nok"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:51:07.425931Z": "TRANSLATION_DONE:eng"
+  }
+}

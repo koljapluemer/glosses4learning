@@ -1,0 +1,33 @@
+{
+  "content": "historicamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los humanos, historicamente, han sido terribles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hysterically",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hysterisch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:гістерично",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:01.098784Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:01.119214Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:01.141627Z": "TRANSLATION_DONE:ukr"
+  }
+}

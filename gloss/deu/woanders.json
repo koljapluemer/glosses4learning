@@ -1,0 +1,33 @@
+{
+  "content": "woanders",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er ist mit seinen Gedanken woanders"
+    ],
+    [
+      "TRANSLATION",
+      "eng:other",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:інші",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:04.980511Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:04.997744Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:05.013474Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Hoy",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hoy por la noche hay un espectáculo de juegos pirotécnicos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Today",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Heute",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сьогодні",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:17.757847Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:17.772034Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:17.785992Z": "TRANSLATION_DONE:ukr"
+  }
+}

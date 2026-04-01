@@ -1,0 +1,31 @@
+{
+  "content": "книжка",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ця книжка не моя"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Buch",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Її остання книжка про забруднення навколишнього середовища"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.639070Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.653135Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Я никогда не видел Тома таким разочарованным.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:никогда"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:видел"
+    ],
+    [
+      "PART",
+      "rus:Тома"
+    ],
+    [
+      "PART",
+      "rus:таким"
+    ],
+    [
+      "PART",
+      "rus:разочарованным"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.287570Z": "SPLIT_DONE"
+  }
+}

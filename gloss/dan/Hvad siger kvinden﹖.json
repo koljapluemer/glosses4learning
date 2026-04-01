@@ -1,0 +1,27 @@
+{
+  "content": "Hvad siger kvinden?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hvad"
+    ],
+    [
+      "PART",
+      "dan:siger"
+    ],
+    [
+      "PART",
+      "dan:kvinden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.741310Z": "SPLIT_DONE"
+  }
+}

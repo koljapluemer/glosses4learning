@@ -1,0 +1,31 @@
+{
+  "content": "Tom kender mange kvinder.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:kender"
+    ],
+    [
+      "PART",
+      "dan:mange"
+    ],
+    [
+      "PART",
+      "dan:kvinder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.722301Z": "SPLIT_DONE"
+  }
+}

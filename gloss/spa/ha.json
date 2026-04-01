@@ -10,7 +10,8 @@
     "2026-03-29T14:24:11.651350Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:11.822225Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:11.997261Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:12.172331Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:12.172331Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:58.587400Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -60,6 +61,19 @@
     [
       "TRANSLATION",
       "tur:evet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La explotación forestal ilegal ha disminuido considerablemente"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mary no siempre ha tenido el pelo largo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:р",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

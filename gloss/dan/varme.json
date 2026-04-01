@@ -1,0 +1,27 @@
+{
+  "content": "varme",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Disse handsker holdt hendes hænder varme"
+    ],
+    [
+      "TRANSLATION",
+      "eng:heat",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wärme",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:50.275579Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:50.293247Z": "TRANSLATION_DONE:deu"
+  }
+}

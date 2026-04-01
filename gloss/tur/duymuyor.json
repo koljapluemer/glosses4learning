@@ -1,0 +1,31 @@
+{
+  "content": "duymuyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un özgeçmişi herhangi bir açıklamaya ihtiyaç duymuyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un kaydı herhangi bir açıklamaya ihtiyaç duymuyor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:29.389944Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:29.404901Z": "TRANSLATION_DONE:deu"
+  }
+}

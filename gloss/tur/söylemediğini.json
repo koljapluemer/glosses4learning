@@ -1,0 +1,27 @@
+{
+  "content": "söylemediğini",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Neden bana kimsenin söylemediğini merak ediyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:said Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte zu Hause",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:38.726783Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:38.727194Z": "TRANSLATION_DONE:deu"
+  }
+}

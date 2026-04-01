@@ -1,0 +1,27 @@
+{
+  "content": "gætte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kan du gætte hvem der kommer til middag i aften﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:guess",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vermutlich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:26.814314Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:26.958421Z": "TRANSLATION_DONE:deu"
+  }
+}

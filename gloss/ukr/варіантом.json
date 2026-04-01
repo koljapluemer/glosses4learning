@@ -1,0 +1,27 @@
+{
+  "content": "варіантом",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені здається, що Том був би ненадійним варіантом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Alternative",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alternative",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.607248Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.620500Z": "TRANSLATION_DONE:deu"
+  }
+}

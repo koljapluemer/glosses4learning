@@ -1,0 +1,27 @@
+{
+  "content": "дати",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Будь-який студент може дати відповідь на це запитання"
+    ],
+    [
+      "TRANSLATION",
+      "eng:date",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Datum",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.899681Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.914465Z": "TRANSLATION_DONE:deu"
+  }
+}

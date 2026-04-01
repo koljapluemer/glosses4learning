@@ -1,0 +1,39 @@
+{
+  "content": "Tom kan ikke drive virksomheden ordentligt.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:drive"
+    ],
+    [
+      "PART",
+      "dan:virksomheden"
+    ],
+    [
+      "PART",
+      "dan:ordentligt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.698687Z": "SPLIT_DONE"
+  }
+}

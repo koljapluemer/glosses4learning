@@ -1,0 +1,35 @@
+{
+  "content": "أغلبنا يتحدث الأمازيغية كلغة ثانية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أغلبنا"
+    ],
+    [
+      "PART",
+      "ara:يتحدث"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ],
+    [
+      "PART",
+      "ara:كلغة"
+    ],
+    [
+      "PART",
+      "ara:ثانية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.915349Z": "SPLIT_DONE"
+  }
+}

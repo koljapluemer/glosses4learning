@@ -1,0 +1,31 @@
+{
+  "content": "kaçmasına",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin hapishaneden kaçmasına yardım etti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:escape",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Flucht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kimsenin kaçmasına yardımcı olmadık"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:32.973180Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:32.992119Z": "TRANSLATION_DONE:deu"
+  }
+}

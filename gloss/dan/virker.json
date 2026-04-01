@@ -1,0 +1,31 @@
+{
+  "content": "virker",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Min navigator virker ikke i udlandet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Min GPS-navigator virker ikke i udlandet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:working",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arbeiten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:51.701226Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:51.718195Z": "TRANSLATION_DONE:deu"
+  }
+}

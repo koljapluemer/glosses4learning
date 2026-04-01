@@ -1,0 +1,39 @@
+{
+  "content": "V tomhle domě už nikdo nebydlí.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:V"
+    ],
+    [
+      "PART",
+      "ces:tomhle"
+    ],
+    [
+      "PART",
+      "ces:domě"
+    ],
+    [
+      "PART",
+      "ces:už"
+    ],
+    [
+      "PART",
+      "ces:nikdo"
+    ],
+    [
+      "PART",
+      "ces:nebydlí"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.595481Z": "SPLIT_DONE"
+  }
+}

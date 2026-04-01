@@ -1,0 +1,27 @@
+{
+  "content": "måden",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan lide måden du smiler på"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the way",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Der Weg",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:02.527151Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:02.668203Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "ความคิด",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันไม่เข้าใจความคิดของเขา"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The idea",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Die Idee",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมคิดว่านั่นเป็นความคิดที่ดี"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:09.857653Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:10.019139Z": "TRANSLATION_DONE:deu"
+  }
+}

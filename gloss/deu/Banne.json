@@ -1,0 +1,33 @@
+{
+  "content": "Banne",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ganz im Banne meiner Gefühle brachte ich kein Wort heraus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Banne",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Кошик",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.449801Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.466478Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.485430Z": "TRANSLATION_DONE:kor"
+  }
+}

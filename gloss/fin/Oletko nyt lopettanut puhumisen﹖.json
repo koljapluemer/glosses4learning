@@ -1,0 +1,31 @@
+{
+  "content": "Oletko nyt lopettanut puhumisen?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:nyt"
+    ],
+    [
+      "PART",
+      "fin:lopettanut"
+    ],
+    [
+      "PART",
+      "fin:puhumisen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.037298Z": "SPLIT_DONE"
+  }
+}

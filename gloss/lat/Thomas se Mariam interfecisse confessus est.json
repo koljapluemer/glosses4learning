@@ -1,0 +1,39 @@
+{
+  "content": "Thomas se Mariam interfecisse confessus est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:se"
+    ],
+    [
+      "PART",
+      "lat:Mariam"
+    ],
+    [
+      "PART",
+      "lat:interfecisse"
+    ],
+    [
+      "PART",
+      "lat:confessus"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.322501Z": "SPLIT_DONE"
+  }
+}

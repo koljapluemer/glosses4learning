@@ -1,0 +1,39 @@
+{
+  "content": "Er hat sein Versprechen nicht gehalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Er"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:sein"
+    ],
+    [
+      "PART",
+      "deu:Versprechen"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:gehalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.489299Z": "SPLIT_DONE"
+  }
+}

@@ -8,7 +8,9 @@
     "2026-01-27T14:34:42.497424Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:05.142775Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:05.336241Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:05.485832Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:05.485832Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:08.165511Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:08.313266Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,24 @@
     [
       "TRANSLATION",
       "ita:vuoti"
+    ],
+    [
+      "TRANSLATION",
+      "dan:tomt"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Поза «69»",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한국어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пуста"
     ]
   ]
 }

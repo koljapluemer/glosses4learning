@@ -1,0 +1,39 @@
+{
+  "content": "Tom už je zase šťastný člověk.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:už"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:zase"
+    ],
+    [
+      "PART",
+      "ces:šťastný"
+    ],
+    [
+      "PART",
+      "ces:člověk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.625215Z": "SPLIT_DONE"
+  }
+}

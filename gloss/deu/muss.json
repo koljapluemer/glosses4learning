@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:35:11.784682Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:35.691550Z": "TRANSLATION_DONE:fra",
-    "2026-03-29T13:21:35.848546Z": "TRANSLATION_DONE:ita"
+    "2026-03-29T13:21:35.848546Z": "TRANSLATION_DONE:ita",
+    "2026-03-31T11:38:12.223263Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:12.239786Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -49,6 +51,32 @@
     [
       "TRANSLATION",
       "ita:deve"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das hier muss das Haus meines Großvaters sein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Weine doch nicht! Ich muss auch noch das Weinen anfangen, wenn du weinst"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вимоги﹕",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:참고 ﹕",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom muss mal seine Netzpräsenz auf den neuesten Stand der Dinge bringen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich muss diesen Motor auseinanderbauen"
     ]
   ]
 }

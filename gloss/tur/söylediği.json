@@ -1,0 +1,35 @@
+{
+  "content": "söylediği",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un söylediği hiçbir şeyi anlayamadım"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun söylediği hiçbir şeyi anlayamıyorum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un Mary'nin söylediği şeyi yapması gerekir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:said",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte﹕",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:50.131770Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:50.146415Z": "TRANSLATION_DONE:deu"
+  }
+}

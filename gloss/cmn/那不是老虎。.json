@@ -1,0 +1,31 @@
+{
+  "content": "那不是老虎。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aaroned (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:那"
+    ],
+    [
+      "PART",
+      "cmn:不是"
+    ],
+    [
+      "PART",
+      "cmn:老虎"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.709734Z": "SPLIT_DONE"
+  }
+}

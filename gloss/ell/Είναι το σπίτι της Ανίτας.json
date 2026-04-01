@@ -1,0 +1,35 @@
+{
+  "content": "Είναι το σπίτι της Ανίτας.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Είναι"
+    ],
+    [
+      "PART",
+      "ell:το"
+    ],
+    [
+      "PART",
+      "ell:σπίτι"
+    ],
+    [
+      "PART",
+      "ell:της"
+    ],
+    [
+      "PART",
+      "ell:Ανίτας"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:06.657105Z": "SPLIT_DONE"
+  }
+}

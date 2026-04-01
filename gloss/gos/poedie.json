@@ -1,0 +1,31 @@
+{
+  "content": "poedie",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Was Maria nait dien poedie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:little one",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:small child",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:kid",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:15:00.405934Z": "TRANSLATION_DONE:eng"
+  }
+}

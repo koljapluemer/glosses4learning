@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:16:03.560Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -19,6 +21,30 @@
     [
       "TRANSLATION",
       "eng:exist"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:To są nasze auta"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:To nie są idealne warunki"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Psy są wierne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Ręczniki są brudne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Talerze są brudne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom i Mary są prawdopodobnie Kanadyjczykami"
     ]
   ]
 }

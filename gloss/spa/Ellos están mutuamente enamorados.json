@@ -1,0 +1,31 @@
+{
+  "content": "Ellos están mutuamente enamorados.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carenas (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:mutuamente"
+    ],
+    [
+      "PART",
+      "spa:enamorados"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.705892Z": "SPLIT_DONE"
+  }
+}

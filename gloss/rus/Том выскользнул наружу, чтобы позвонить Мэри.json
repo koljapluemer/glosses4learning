@@ -1,0 +1,39 @@
+{
+  "content": "Том выскользнул наружу, чтобы позвонить Мэри.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by scriptin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:выскользнул"
+    ],
+    [
+      "PART",
+      "rus:наружу"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:Мэри"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.631256Z": "SPLIT_DONE"
+  }
+}

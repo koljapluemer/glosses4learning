@@ -1,0 +1,29 @@
+{
+  "content": "närvarande",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Presidenten är för närvarande i Miami"
+    ],
+    [
+      "TRANSLATION",
+      "eng:present",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom uppbär för närvarande inte arbetslöshetsersättning"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom tar för närvarande inte ut arbetslöshetsersättning"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:00.192111Z": "TRANSLATION_DONE:eng"
+  }
+}

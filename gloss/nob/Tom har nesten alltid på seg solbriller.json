@@ -1,0 +1,43 @@
+{
+  "content": "Tom har nesten alltid på seg solbriller.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Improbably (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:nesten"
+    ],
+    [
+      "PART",
+      "nob:alltid"
+    ],
+    [
+      "PART",
+      "nob:på"
+    ],
+    [
+      "PART",
+      "nob:seg"
+    ],
+    [
+      "PART",
+      "nob:solbriller"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.311118Z": "SPLIT_DONE"
+  }
+}

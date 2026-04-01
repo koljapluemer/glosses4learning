@@ -1,0 +1,47 @@
+{
+  "content": "Dites-moi",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi, je vous prie, ce qu'il s'est passé !"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi ce qui s'est passé cette nuit-là"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi que ce n'est pas en train d'avoir lieu !"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi, je vous prie, que vous êtes en train de plaisanter !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tell me",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sag es mir",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi que ce n'est pas en train d'arriver !"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi que c'était une blague !"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:04.646976Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:04.840332Z": "TRANSLATION_DONE:deu"
+  }
+}

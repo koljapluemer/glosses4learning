@@ -1,0 +1,35 @@
+{
+  "content": "Я й насправді багато навчаюся.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:й"
+    ],
+    [
+      "PART",
+      "ukr:насправді"
+    ],
+    [
+      "PART",
+      "ukr:багато"
+    ],
+    [
+      "PART",
+      "ukr:навчаюся"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.977858Z": "SPLIT_DONE"
+  }
+}

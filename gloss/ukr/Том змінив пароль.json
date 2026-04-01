@@ -1,0 +1,27 @@
+{
+  "content": "Том змінив пароль.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Том"
+    ],
+    [
+      "PART",
+      "ukr:змінив"
+    ],
+    [
+      "PART",
+      "ukr:пароль"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.977115Z": "SPLIT_DONE"
+  }
+}

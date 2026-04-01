@@ -1,0 +1,27 @@
+{
+  "content": "Hans",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hans reaktion var ikke overraskende overhovedet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:His",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sein",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:27.672667Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:27.812090Z": "TRANSLATION_DONE:deu"
+  }
+}

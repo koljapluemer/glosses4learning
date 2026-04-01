@@ -8,7 +8,9 @@
     "2026-01-27T14:32:45.975770Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:38.346546Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:38.542557Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:18:38.690279Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:18:38.690279Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:18.101382Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:18.101675Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,32 @@
     [
       "TRANSLATION",
       "rus:первый"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat seine erste Frau wieder geheiratet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der erste Weihnachtstag fiel in diesem Jahr auf einen Samstag"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:перший",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:1 년 전",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "dan:første"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:спочатку"
     ]
   ]
 }

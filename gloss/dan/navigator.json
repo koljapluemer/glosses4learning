@@ -1,0 +1,27 @@
+{
+  "content": "navigator",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Min navigator virker ikke i udlandet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:navigator",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:navigator",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:36.453878Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:36.655669Z": "TRANSLATION_DONE:deu"
+  }
+}

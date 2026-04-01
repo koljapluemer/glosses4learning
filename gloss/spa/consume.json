@@ -1,0 +1,33 @@
+{
+  "content": "consume",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente consume menos electricidad que antes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Comes",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kommt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Пригоди",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.588235Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.601114Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.616917Z": "TRANSLATION_DONE:ukr"
+  }
+}

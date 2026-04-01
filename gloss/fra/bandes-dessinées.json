@@ -1,0 +1,27 @@
+{
+  "content": "bandes-dessinées",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vraiment ﹖ Mon passe-temps favori est de lire des bandes-dessinées"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Drawing strips",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zeichnungsstreifen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:13.828606Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:13.980956Z": "TRANSLATION_DONE:deu"
+  }
+}

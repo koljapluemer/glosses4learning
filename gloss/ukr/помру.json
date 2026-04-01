@@ -1,0 +1,27 @@
+{
+  "content": "помру",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У мене було таке відчуття, що я зараз помру"
+    ],
+    [
+      "TRANSLATION",
+      "eng:die",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sterben",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:03.347418Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:03.360986Z": "TRANSLATION_DONE:deu"
+  }
+}

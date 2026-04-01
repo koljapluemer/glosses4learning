@@ -1,0 +1,33 @@
+{
+  "content": "árboles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El pueblo está más allá de aquellos árboles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:trees",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bäume",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дерев",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.944236Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.960204Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.978614Z": "TRANSLATION_DONE:ukr"
+  }
+}

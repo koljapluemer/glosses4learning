@@ -1,0 +1,31 @@
+{
+  "content": "indendørs",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom går sommetider med solbriller indendørs"
+    ],
+    [
+      "TRANSLATION",
+      "eng:indoors",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Innenräume",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg opholdt mig indendørs fordi det regnede"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:41.953525Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:42.095935Z": "TRANSLATION_DONE:deu"
+  }
+}

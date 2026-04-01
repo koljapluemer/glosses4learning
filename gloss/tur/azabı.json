@@ -1,0 +1,27 @@
+{
+  "content": "azabı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom yalan söylemekten hiçbir vicdan azabı çekmiyordu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:less",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weniger",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:45.433313Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:45.449935Z": "TRANSLATION_DONE:deu"
+  }
+}

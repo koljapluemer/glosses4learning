@@ -1,0 +1,51 @@
+{
+  "content": "Y a-t-il des personnes qui parlent français au Canada ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Alexs (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Y"
+    ],
+    [
+      "PART",
+      "fra:a-t-il"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:personnes"
+    ],
+    [
+      "PART",
+      "fra:qui"
+    ],
+    [
+      "PART",
+      "fra:parlent"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ],
+    [
+      "PART",
+      "fra:au"
+    ],
+    [
+      "PART",
+      "fra:Canada"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.384018Z": "SPLIT_DONE"
+  }
+}

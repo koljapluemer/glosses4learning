@@ -1,0 +1,35 @@
+{
+  "content": "ondt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Sommetider gør det ondt at sige sandheden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kommer ikke til at gøre ondt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pain",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schmerzen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg tager medicin mod ondt i hovedet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:09.752391Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:09.893271Z": "TRANSLATION_DONE:deu"
+  }
+}

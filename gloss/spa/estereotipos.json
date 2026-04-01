@@ -1,0 +1,33 @@
+{
+  "content": "estereotipos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estereotipos y la televisión están íntimamente relacionados"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stereotyping",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stereotypisierung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:стереотипи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:51.262835Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:51.289159Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:51.308333Z": "TRANSLATION_DONE:ukr"
+  }
+}

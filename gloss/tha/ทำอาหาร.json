@@ -1,0 +1,31 @@
+{
+  "content": "ทำอาหาร",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณทำอาหารนี้ได้อย่างไร"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Cooking",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kochen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ภรรยาของฉันกำลังทำอาหาร"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:15.257646Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:15.275630Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T10:38:19.182Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T10:38:19.182Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:53:15.240001Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:15.386946Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +35,20 @@
     [
       "TRANSLATION",
       "eng:instant"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella no estaba bailando con él en ese momento"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zeit",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:час",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

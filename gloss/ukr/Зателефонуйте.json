@@ -1,0 +1,31 @@
+{
+  "content": "Зателефонуйте",
+  "language": "ukr",
+  "relationships": [
+    [
+      "TRANSLATION",
+      "spa:llamará"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Зателефонуйте мені, якщо вам буде потрібна допомога"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Call me",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ruf mich an",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T13:54:52.972530Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:52.991319Z": "TRANSLATION_DONE:deu"
+  }
+}

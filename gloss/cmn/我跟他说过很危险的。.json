@@ -1,0 +1,51 @@
+{
+  "content": "我跟他说过很危险的。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User5120 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:跟"
+    ],
+    [
+      "PART",
+      "cmn:他"
+    ],
+    [
+      "PART",
+      "cmn:说"
+    ],
+    [
+      "PART",
+      "cmn:过"
+    ],
+    [
+      "PART",
+      "cmn:很"
+    ],
+    [
+      "PART",
+      "cmn:危险"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.643525Z": "SPLIT_DONE"
+  }
+}

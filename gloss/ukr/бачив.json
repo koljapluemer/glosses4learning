@@ -1,0 +1,27 @@
+{
+  "content": "бачив",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том бачив лося"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Saw",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Säge",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:51.943260Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:51.957071Z": "TRANSLATION_DONE:deu"
+  }
+}

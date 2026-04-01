@@ -1,0 +1,31 @@
+{
+  "content": "verecek",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Her şey tam zamanında istenilen sonucu verecek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:will",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wird",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunun hepsi istenilen sonucu verecek"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.392225Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.405261Z": "TRANSLATION_DONE:deu"
+  }
+}

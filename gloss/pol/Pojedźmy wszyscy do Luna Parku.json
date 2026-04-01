@@ -1,0 +1,35 @@
+{
+  "content": "Pojedźmy wszyscy do Luna Parku.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jimbojim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Pojedźmy"
+    ],
+    [
+      "PART",
+      "pol:wszyscy"
+    ],
+    [
+      "PART",
+      "pol:do"
+    ],
+    [
+      "PART",
+      "pol:Luna"
+    ],
+    [
+      "PART",
+      "pol:Parku"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.789848Z": "SPLIT_DONE"
+  }
+}

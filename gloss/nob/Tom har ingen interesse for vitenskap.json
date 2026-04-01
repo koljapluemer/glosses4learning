@@ -1,0 +1,39 @@
+{
+  "content": "Tom har ingen interesse for vitenskap.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:ingen"
+    ],
+    [
+      "PART",
+      "nob:interesse"
+    ],
+    [
+      "PART",
+      "nob:for"
+    ],
+    [
+      "PART",
+      "nob:vitenskap"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.346159Z": "SPLIT_DONE"
+  }
+}

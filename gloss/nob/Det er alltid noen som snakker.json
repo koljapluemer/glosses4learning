@@ -1,0 +1,39 @@
+{
+  "content": "Det er alltid noen som snakker.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elithyia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Det"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:alltid"
+    ],
+    [
+      "PART",
+      "nob:noen"
+    ],
+    [
+      "PART",
+      "nob:som"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.294961Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "她透過傳譯員發言。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:她"
+    ],
+    [
+      "PART",
+      "cmn:透過"
+    ],
+    [
+      "PART",
+      "cmn:傳譯員"
+    ],
+    [
+      "PART",
+      "cmn:發言"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.648043Z": "SPLIT_DONE"
+  }
+}

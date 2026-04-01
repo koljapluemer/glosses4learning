@@ -1,0 +1,35 @@
+{
+  "content": "Zien mainen tèlde nait mit.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Zien"
+    ],
+    [
+      "PART",
+      "gos:mainen"
+    ],
+    [
+      "PART",
+      "gos:tèlde"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ],
+    [
+      "PART",
+      "gos:mit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.381278Z": "SPLIT_DONE"
+  }
+}

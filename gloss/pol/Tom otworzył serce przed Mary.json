@@ -1,0 +1,35 @@
+{
+  "content": "Tom otworzył serce przed Mary.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rudzielec (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:otworzył"
+    ],
+    [
+      "PART",
+      "pol:serce"
+    ],
+    [
+      "PART",
+      "pol:przed"
+    ],
+    [
+      "PART",
+      "pol:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.777302Z": "SPLIT_DONE"
+  }
+}

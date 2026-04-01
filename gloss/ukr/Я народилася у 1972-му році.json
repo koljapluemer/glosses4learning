@@ -1,0 +1,35 @@
+{
+  "content": "Я народилася у 1972-му році.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:народилася"
+    ],
+    [
+      "PART",
+      "ukr:у"
+    ],
+    [
+      "PART",
+      "ukr:1972-му"
+    ],
+    [
+      "PART",
+      "ukr:році"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.996082Z": "SPLIT_DONE"
+  }
+}

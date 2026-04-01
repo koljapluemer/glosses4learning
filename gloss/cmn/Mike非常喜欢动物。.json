@@ -1,0 +1,35 @@
+{
+  "content": "Mike非常喜欢动物。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fucongcong (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:Mike"
+    ],
+    [
+      "PART",
+      "cmn:非常"
+    ],
+    [
+      "PART",
+      "cmn:喜欢"
+    ],
+    [
+      "PART",
+      "cmn:动物"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.603128Z": "SPLIT_DONE"
+  }
+}

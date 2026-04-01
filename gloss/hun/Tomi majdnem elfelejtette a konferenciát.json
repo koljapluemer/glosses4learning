@@ -1,0 +1,35 @@
+{
+  "content": "Tomi majdnem elfelejtette a konferenciát.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aleksandro40 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tomi"
+    ],
+    [
+      "PART",
+      "hun:majdnem"
+    ],
+    [
+      "PART",
+      "hun:elfelejtette"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:konferenciát"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.611459Z": "SPLIT_DONE"
+  }
+}

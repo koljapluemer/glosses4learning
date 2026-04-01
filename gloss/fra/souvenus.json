@@ -1,0 +1,27 @@
+{
+  "content": "souvenus",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ils se sont souvenus de ce qui s'est passé"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Remembered",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erinnerungen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.282827Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.299510Z": "TRANSLATION_DONE:deu"
+  }
+}

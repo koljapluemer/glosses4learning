@@ -1,0 +1,27 @@
+{
+  "content": "bunde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er ude hvor han ikke kan bunde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bottom",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Boden",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:54.398786Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:54.553822Z": "TRANSLATION_DONE:deu"
+  }
+}

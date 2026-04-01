@@ -1,0 +1,43 @@
+{
+  "content": "kaffe",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke den her kaffe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke kaffe uden sukker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom drikker sort kaffe uden sukker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg drikker kaffe i stedet for mælk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:coffee",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kaffee",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor taler vi ikke sammen over en kop kaffe﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:45.040325Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:45.183200Z": "TRANSLATION_DONE:deu"
+  }
+}

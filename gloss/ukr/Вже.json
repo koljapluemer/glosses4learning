@@ -1,0 +1,31 @@
+{
+  "content": "Вже",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вже по десятій"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Already",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schon",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я голубий! Вже пора звикнути до цього!"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:46.853698Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:46.864224Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Sinä olet Tomin tytär, eikö niin?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Sinä"
+    ],
+    [
+      "PART",
+      "fin:olet"
+    ],
+    [
+      "PART",
+      "fin:Tomin"
+    ],
+    [
+      "PART",
+      "fin:tytär"
+    ],
+    [
+      "PART",
+      "fin:eikö"
+    ],
+    [
+      "PART",
+      "fin:niin"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.016184Z": "SPLIT_DONE"
+  }
+}

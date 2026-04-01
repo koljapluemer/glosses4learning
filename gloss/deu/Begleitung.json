@@ -1,0 +1,33 @@
+{
+  "content": "Begleitung",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Halten Sie sich in der Dunkelheit nicht ohne Begleitung auf"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Monitoring",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Моніторинг",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.548935Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.564888Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.708407Z": "TRANSLATION_DONE:kor"
+  }
+}

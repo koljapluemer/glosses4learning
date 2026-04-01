@@ -1,0 +1,39 @@
+{
+  "content": "Tom vyprovodil Mary do jejího bytu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:vyprovodil"
+    ],
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:jejího"
+    ],
+    [
+      "PART",
+      "ces:bytu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.663167Z": "SPLIT_DONE"
+  }
+}

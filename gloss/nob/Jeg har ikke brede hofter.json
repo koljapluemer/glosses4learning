@@ -1,0 +1,35 @@
+{
+  "content": "Jeg har ikke brede hofter.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by testdog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:brede"
+    ],
+    [
+      "PART",
+      "nob:hofter"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.198808Z": "SPLIT_DONE"
+  }
+}

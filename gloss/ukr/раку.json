@@ -1,0 +1,27 @@
+{
+  "content": "раку",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Батько помер від раку легенів"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cancer",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Krebs",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:09.306673Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:09.326340Z": "TRANSLATION_DONE:deu"
+  }
+}

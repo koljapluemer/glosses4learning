@@ -1,0 +1,33 @@
+{
+  "content": "Womit",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Womit sollte ich meinen Hund füttern﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:With",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:З",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:34.530400Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:34.547688Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:34.563851Z": "TRANSLATION_DONE:kor"
+  }
+}

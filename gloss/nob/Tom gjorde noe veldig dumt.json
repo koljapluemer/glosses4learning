@@ -1,0 +1,35 @@
+{
+  "content": "Tom gjorde noe veldig dumt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danieljtah (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:gjorde"
+    ],
+    [
+      "PART",
+      "nob:noe"
+    ],
+    [
+      "PART",
+      "nob:veldig"
+    ],
+    [
+      "PART",
+      "nob:dumt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.334984Z": "SPLIT_DONE"
+  }
+}

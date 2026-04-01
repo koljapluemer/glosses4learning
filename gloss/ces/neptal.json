@@ -1,0 +1,29 @@
+{
+  "content": "neptal",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdo se na názor Toma neptal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:did not ask",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdo se Toma na nic neptal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdo se tě na tvůj názor neptal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:18.049261Z": "TRANSLATION_DONE:eng"
+  }
+}

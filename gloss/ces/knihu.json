@@ -1,0 +1,25 @@
+{
+  "content": "knihu",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Ještě jsem tuto knihu nedočetl"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Právě jsem začal číst tuto knihu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:05.165980Z": "TRANSLATION_DONE:eng"
+  }
+}

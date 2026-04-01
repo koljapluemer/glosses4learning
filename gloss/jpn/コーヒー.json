@@ -1,0 +1,25 @@
+{
+  "content": "コーヒー",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムはコーヒーのおかわりを頼んだ。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Coffee",
+      "Auto-translated with argostranslate (ja→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:あなたがコーヒーを好きだってことぐらい、知ってますよ。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:38.329313Z": "TRANSLATION_DONE:eng"
+  }
+}

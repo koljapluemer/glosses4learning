@@ -1,0 +1,33 @@
+{
+  "content": "Motor",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich muss diesen Motor auseinanderbauen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Engine",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Двигуни",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:56.350096Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:56.368359Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:56.525707Z": "TRANSLATION_DONE:kor"
+  }
+}

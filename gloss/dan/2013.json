@@ -1,0 +1,27 @@
+{
+  "content": "2013",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har været der siden 2013"
+    ],
+    [
+      "TRANSLATION",
+      "eng:2013",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:2013",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:09.145310Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:09.372578Z": "TRANSLATION_DONE:deu"
+  }
+}

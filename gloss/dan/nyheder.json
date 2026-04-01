@@ -1,0 +1,27 @@
+{
+  "content": "nyheder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har netop modtaget nogle glædelige nyheder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:news",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nachrichten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:07.109435Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:07.272694Z": "TRANSLATION_DONE:deu"
+  }
+}

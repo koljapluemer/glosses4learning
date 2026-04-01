@@ -1,0 +1,31 @@
+{
+  "content": "Naprawdę kocham moją pracę.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Naprawdę"
+    ],
+    [
+      "PART",
+      "pol:kocham"
+    ],
+    [
+      "PART",
+      "pol:moją"
+    ],
+    [
+      "PART",
+      "pol:pracę"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.805549Z": "SPLIT_DONE"
+  }
+}

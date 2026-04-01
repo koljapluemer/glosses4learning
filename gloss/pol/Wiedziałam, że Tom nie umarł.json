@@ -1,0 +1,35 @@
+{
+  "content": "Wiedziałam, że Tom nie umarł.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Wiedziałam"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:umarł"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.788449Z": "SPLIT_DONE"
+  }
+}

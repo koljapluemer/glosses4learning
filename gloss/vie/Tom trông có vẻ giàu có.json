@@ -1,0 +1,35 @@
+{
+  "content": "Tom trông có vẻ giàu có.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leucammieuvu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:trông"
+    ],
+    [
+      "PART",
+      "vie:có"
+    ],
+    [
+      "PART",
+      "vie:vẻ"
+    ],
+    [
+      "PART",
+      "vie:giàu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.096857Z": "SPLIT_DONE"
+  }
+}

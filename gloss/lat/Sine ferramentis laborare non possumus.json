@@ -1,0 +1,35 @@
+{
+  "content": "Sine ferramentis laborare non possumus.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Sine"
+    ],
+    [
+      "PART",
+      "lat:ferramentis"
+    ],
+    [
+      "PART",
+      "lat:laborare"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:possumus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.282933Z": "SPLIT_DONE"
+  }
+}

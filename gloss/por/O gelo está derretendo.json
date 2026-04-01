@@ -1,0 +1,31 @@
+{
+  "content": "O gelo está derretendo.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauliobezerra (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:O"
+    ],
+    [
+      "PART",
+      "por:gelo"
+    ],
+    [
+      "PART",
+      "por:está"
+    ],
+    [
+      "PART",
+      "por:derretendo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.523044Z": "SPLIT_DONE"
+  }
+}

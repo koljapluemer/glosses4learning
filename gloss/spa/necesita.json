@@ -1,0 +1,33 @@
+{
+  "content": "necesita",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella necesita ahora su siesta de mediodía"
+    ],
+    [
+      "TRANSLATION",
+      "eng:needs",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bedarf",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вимоги",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.709954Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.722890Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.737407Z": "TRANSLATION_DONE:ukr"
+  }
+}

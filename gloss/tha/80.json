@@ -1,0 +1,27 @@
+{
+  "content": "80",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอต้องมีอายุมากกว่า 80 ปี"
+    ],
+    [
+      "TRANSLATION",
+      "eng:80",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:80",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:08.138963Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:08.152767Z": "TRANSLATION_DONE:deu"
+  }
+}

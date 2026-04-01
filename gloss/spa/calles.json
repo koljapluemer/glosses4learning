@@ -1,0 +1,33 @@
+{
+  "content": "calles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos corrieron desnudos por las calles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:streets",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Straßen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вулиці",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.256098Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.268898Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.287321Z": "TRANSLATION_DONE:ukr"
+  }
+}

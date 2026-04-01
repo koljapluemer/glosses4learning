@@ -1,0 +1,43 @@
+{
+  "content": "Eles acenderam velas em seu (deles) quarto.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eles"
+    ],
+    [
+      "PART",
+      "por:acenderam"
+    ],
+    [
+      "PART",
+      "por:velas"
+    ],
+    [
+      "PART",
+      "por:em"
+    ],
+    [
+      "PART",
+      "por:seu"
+    ],
+    [
+      "PART",
+      "por:deles"
+    ],
+    [
+      "PART",
+      "por:quarto"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.529060Z": "SPLIT_DONE"
+  }
+}

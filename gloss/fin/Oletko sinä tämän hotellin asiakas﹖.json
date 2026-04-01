@@ -1,0 +1,35 @@
+{
+  "content": "Oletko sinä tämän hotellin asiakas?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:sinä"
+    ],
+    [
+      "PART",
+      "fin:tämän"
+    ],
+    [
+      "PART",
+      "fin:hotellin"
+    ],
+    [
+      "PART",
+      "fin:asiakas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.043691Z": "SPLIT_DONE"
+  }
+}

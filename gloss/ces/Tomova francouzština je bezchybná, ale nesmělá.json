@@ -1,0 +1,39 @@
+{
+  "content": "Tomova francouzština je bezchybná, ale nesmělá.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tomova"
+    ],
+    [
+      "PART",
+      "ces:francouzština"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:bezchybná"
+    ],
+    [
+      "PART",
+      "ces:ale"
+    ],
+    [
+      "PART",
+      "ces:nesmělá"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.057393Z": "SPLIT_DONE"
+  }
+}

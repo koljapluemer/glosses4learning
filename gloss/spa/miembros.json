@@ -1,0 +1,33 @@
+{
+  "content": "miembros",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los miembros estaban presentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:members",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mitglieder",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Учасники",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.524831Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:09.669869Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:09.684875Z": "TRANSLATION_DONE:ukr"
+  }
+}

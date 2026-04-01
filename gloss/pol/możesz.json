@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:16:03.554Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -19,6 +21,22 @@
     [
       "TRANSLATION",
       "eng:can you"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie możesz wygrać"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie możesz pozwolić, żeby to się znowu stało"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czy możesz odpowiedzieć na pytanie﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jak możesz powiedzieć coś takiego﹖"
     ]
   ]
 }

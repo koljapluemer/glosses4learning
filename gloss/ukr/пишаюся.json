@@ -1,0 +1,27 @@
+{
+  "content": "пишаюся",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я дуже пишаюся батьком"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm proud",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin stolz",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:05.332448Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:05.351888Z": "TRANSLATION_DONE:deu"
+  }
+}

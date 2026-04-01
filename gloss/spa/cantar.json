@@ -1,0 +1,33 @@
+{
+  "content": "cantar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, los elefantes no pueden cantar bien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:singing",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:singen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:співати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:31.415066Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:31.430395Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:31.447121Z": "TRANSLATION_DONE:ukr"
+  }
+}

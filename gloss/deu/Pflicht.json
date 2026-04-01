@@ -1,0 +1,33 @@
+{
+  "content": "Pflicht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest deiner Pflicht nachkommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mandatory",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мандиторія",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:55.098776Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:55.124070Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:55.148409Z": "TRANSLATION_DONE:kor"
+  }
+}

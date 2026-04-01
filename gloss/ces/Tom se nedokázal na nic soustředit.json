@@ -1,0 +1,39 @@
+{
+  "content": "Tom se nedokázal na nic soustředit.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:nedokázal"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:nic"
+    ],
+    [
+      "PART",
+      "ces:soustředit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.060865Z": "SPLIT_DONE"
+  }
+}

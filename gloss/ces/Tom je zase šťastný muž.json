@@ -1,0 +1,35 @@
+{
+  "content": "Tom je zase šťastný muž.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jejda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:zase"
+    ],
+    [
+      "PART",
+      "ces:šťastný"
+    ],
+    [
+      "PART",
+      "ces:muž"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.200665Z": "SPLIT_DONE"
+  }
+}

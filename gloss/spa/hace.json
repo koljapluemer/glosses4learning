@@ -10,7 +10,8 @@
     "2026-03-29T14:24:15.274427Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:15.453297Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:15.626480Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:15.807162Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:15.807162Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:58.907260Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,19 @@
     [
       "TRANSLATION",
       "tur:yapıyor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que irme porque se hace de noche"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni hace muy buenos sonidos de animales"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "content": "rotura",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso es simplemente una rotura del contrato"
+    ],
+    [
+      "TRANSLATION",
+      "eng:breakup",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pause",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:лаціна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:28.966783Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:28.981882Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:29.002365Z": "TRANSLATION_DONE:ukr"
+  }
+}

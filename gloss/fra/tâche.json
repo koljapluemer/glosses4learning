@@ -1,0 +1,27 @@
+{
+  "content": "tâche",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que je peux participer à cette tâche ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:task",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufgaben",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.920662Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.933218Z": "TRANSLATION_DONE:deu"
+  }
+}

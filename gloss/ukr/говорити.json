@@ -1,0 +1,27 @@
+{
+  "content": "говорити",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мері надає перевагу пацієнтам, які не можуть говорити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Speak",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sprich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.769574Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.783223Z": "TRANSLATION_DONE:deu"
+  }
+}

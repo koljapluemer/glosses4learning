@@ -1,0 +1,27 @@
+{
+  "content": "สาบาน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมสาบานว่าจะไม่ทำอย่างนั้น"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I swear",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich schwöre es",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:18.025372Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:18.041875Z": "TRANSLATION_DONE:deu"
+  }
+}

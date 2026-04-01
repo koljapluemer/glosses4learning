@@ -1,0 +1,39 @@
+{
+  "content": "Tamás megkérdezte Máriát, hogy miért hazudott.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mraz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tamás"
+    ],
+    [
+      "PART",
+      "hun:megkérdezte"
+    ],
+    [
+      "PART",
+      "hun:Máriát"
+    ],
+    [
+      "PART",
+      "hun:hogy"
+    ],
+    [
+      "PART",
+      "hun:miért"
+    ],
+    [
+      "PART",
+      "hun:hazudott"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.628997Z": "SPLIT_DONE"
+  }
+}

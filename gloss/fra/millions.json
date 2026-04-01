@@ -5,6 +5,31 @@
     [
       "TRANSLATION",
       "ita:milioni"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que tu peux mémoriser dix millions de phrases ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:million",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mio",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que vous pouvez mémoriser dix millions de phrases ﹖"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:36.279370Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:36.425850Z": "TRANSLATION_DONE:deu"
+  }
 }

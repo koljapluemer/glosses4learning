@@ -1,0 +1,43 @@
+{
+  "content": "Я рад, что ты не позвонил нам.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:рад"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:ты"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ],
+    [
+      "PART",
+      "rus:нам"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.295131Z": "SPLIT_DONE"
+  }
+}

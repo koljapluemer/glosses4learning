@@ -1,0 +1,51 @@
+{
+  "content": "c'était",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que c'était l'idée de quelqu'un d'autre ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Mais qu'est-ce que c'était difficile !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It was",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es war",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être que c'était vraiment un accident"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai demandé à tout le monde ce que c'était"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Mais qu'est-ce que c'était que ça ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Elles ont dit que c'était un accident"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi que c'était une blague !"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:14.436546Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:14.586491Z": "TRANSLATION_DONE:deu"
+  }
+}

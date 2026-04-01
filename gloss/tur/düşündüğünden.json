@@ -1,0 +1,27 @@
+{
+  "content": "düşündüğünden",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom senin düşündüğünden daha fazla önem verir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I think Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich glaube zu Hause",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:46.634289Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:46.654061Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Man",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Man kan ikke overleve uden vand"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Man siger at islam undertrykker kvinder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Man",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mann",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:12.343079Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:12.497847Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "Schauspieler",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe niemals von diesem Schauspieler gehört"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Schauspieler ließ etwas von seinem Text aus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Acting",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:03.341660Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:03.372125Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:03.399138Z": "TRANSLATION_DONE:kor"
+  }
+}

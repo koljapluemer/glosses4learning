@@ -8,7 +8,9 @@
     "2026-01-27T14:34:20.014782Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:20:39.106395Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:39.293254Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:20:39.469302Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:20:39.469302Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:02.762133Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:02.786572Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -90,6 +92,24 @@
     [
       "TRANSLATION",
       "spa:ahora"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielleicht solltest du jetzt nicht allein sein"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Віджети",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du sollst deine Hausaufgaben jetzt machen"
     ]
   ]
 }

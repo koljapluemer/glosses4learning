@@ -1,0 +1,39 @@
+{
+  "content": "Tom se mnou byl velmi spokojen.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:mnou"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:velmi"
+    ],
+    [
+      "PART",
+      "ces:spokojen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.561482Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "interrogavi",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quid est nomen tuum, interrogavi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quid est nomen tibi, interrogavi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I asked",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:28.912963Z": "TRANSLATION_DONE:eng"
+  }
+}

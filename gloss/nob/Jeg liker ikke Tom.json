@@ -1,0 +1,31 @@
+{
+  "content": "Jeg liker ikke Tom.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.226465Z": "SPLIT_DONE"
+  }
+}

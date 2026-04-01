@@ -1,0 +1,27 @@
+{
+  "content": "L'aide",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'aide internationale n'est pas équitablement répartie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Aid",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beihilfen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:30.571187Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:30.584013Z": "TRANSLATION_DONE:deu"
+  }
+}

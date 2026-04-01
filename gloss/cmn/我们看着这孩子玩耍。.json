@@ -1,0 +1,39 @@
+{
+  "content": "我们看着这孩子玩耍。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fucongcong (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:看着"
+    ],
+    [
+      "PART",
+      "cmn:这"
+    ],
+    [
+      "PART",
+      "cmn:孩子"
+    ],
+    [
+      "PART",
+      "cmn:玩耍"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:21.710919Z": "SPLIT_DONE"
+  }
+}

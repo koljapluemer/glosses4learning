@@ -1,0 +1,41 @@
+{
+  "content": "Su",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su hermano siempre está viendo la televisión"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su hermano está siempre mirando televisión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Your",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ihr",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ваше ім'я",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su largo cabello estaba completamente mojado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:20.561490Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:20.574194Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:20.594658Z": "TRANSLATION_DONE:ukr"
+  }
+}

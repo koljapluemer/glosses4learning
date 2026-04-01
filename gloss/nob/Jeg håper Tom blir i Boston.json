@@ -1,0 +1,39 @@
+{
+  "content": "Jeg håper Tom blir i Boston.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:håper"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:blir"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:Boston"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.235334Z": "SPLIT_DONE"
+  }
+}

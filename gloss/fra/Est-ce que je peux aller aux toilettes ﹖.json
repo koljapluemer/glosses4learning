@@ -1,0 +1,43 @@
+{
+  "content": "Est-ce que je peux aller aux toilettes ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felix63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:peux"
+    ],
+    [
+      "PART",
+      "fra:aller"
+    ],
+    [
+      "PART",
+      "fra:aux"
+    ],
+    [
+      "PART",
+      "fra:toilettes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.501251Z": "SPLIT_DONE"
+  }
+}

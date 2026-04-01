@@ -1,0 +1,30 @@
+{
+  "content": "Mary",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:k Bin Mary, vraauw van Tom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "gos:Tom holdt van Mary heur gezelschop"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Miriam",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:07:01.476424Z": "TRANSLATION_DONE:eng"
+  }
+}

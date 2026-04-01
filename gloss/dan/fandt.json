@@ -1,0 +1,27 @@
+{
+  "content": "fandt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det fandt jeg irriterende"
+    ],
+    [
+      "TRANSLATION",
+      "eng:found",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefunden",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:08.044386Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:08.237701Z": "TRANSLATION_DONE:deu"
+  }
+}

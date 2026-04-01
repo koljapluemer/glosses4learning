@@ -8,7 +8,9 @@
     "2026-01-27T14:32:40.123837Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:33.443321Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:33.602320Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:18:33.798349Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:18:33.798349Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:17.098326Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:17.099162Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -50,6 +52,20 @@
     [
       "TRANSLATION",
       "rus:помнить"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wenn ich das vergessen sollte, erinnern Sie mich bitte daran"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пам'ятка",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

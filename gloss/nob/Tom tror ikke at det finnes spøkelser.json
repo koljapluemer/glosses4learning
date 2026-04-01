@@ -1,0 +1,43 @@
+{
+  "content": "Tom tror ikke at det finnes spøkelser.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:tror"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:at"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:finnes"
+    ],
+    [
+      "PART",
+      "nob:spøkelser"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.206397Z": "SPLIT_DONE"
+  }
+}

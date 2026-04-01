@@ -1,0 +1,27 @@
+{
+  "content": "lavede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vidste ikke du lavede mad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:made",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hergestellt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:50.864359Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:51.011494Z": "TRANSLATION_DONE:deu"
+  }
+}

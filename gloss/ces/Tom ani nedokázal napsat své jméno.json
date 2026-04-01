@@ -1,0 +1,39 @@
+{
+  "content": "Tom ani nedokázal napsat své jméno.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:ani"
+    ],
+    [
+      "PART",
+      "ces:nedokázal"
+    ],
+    [
+      "PART",
+      "ces:napsat"
+    ],
+    [
+      "PART",
+      "ces:své"
+    ],
+    [
+      "PART",
+      "ces:jméno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.079467Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Скажите, пожалуйста, Тому, чтобы он мне позвонил.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Скажите"
+    ],
+    [
+      "PART",
+      "rus:пожалуйста"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.538341Z": "SPLIT_DONE"
+  }
+}

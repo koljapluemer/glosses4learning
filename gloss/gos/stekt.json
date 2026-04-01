@@ -1,0 +1,31 @@
+{
+  "content": "stekt",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Hai stekt keerzen aan ien zien koamer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fried",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:roasted",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:grilled",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:15:48.741074Z": "TRANSLATION_DONE:eng"
+  }
+}

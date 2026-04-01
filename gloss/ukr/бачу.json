@@ -1,0 +1,31 @@
+{
+  "content": "бачу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не бачу ніяких проблем"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я бачу, що ви сердитий"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I see",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich sehe",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:52.129386Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:52.148923Z": "TRANSLATION_DONE:deu"
+  }
+}

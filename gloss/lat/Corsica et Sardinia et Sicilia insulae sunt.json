@@ -1,0 +1,39 @@
+{
+  "content": "Corsica et Sardinia et Sicilia insulae sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soweli_Elepanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Corsica"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:Sardinia"
+    ],
+    [
+      "PART",
+      "lat:Sicilia"
+    ],
+    [
+      "PART",
+      "lat:insulae"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.366494Z": "SPLIT_DONE"
+  }
+}

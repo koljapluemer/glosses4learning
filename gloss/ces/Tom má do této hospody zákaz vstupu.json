@@ -1,0 +1,43 @@
+{
+  "content": "Tom má do této hospody zákaz vstupu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:má"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:této"
+    ],
+    [
+      "PART",
+      "ces:hospody"
+    ],
+    [
+      "PART",
+      "ces:zákaz"
+    ],
+    [
+      "PART",
+      "ces:vstupu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.125438Z": "SPLIT_DONE"
+  }
+}

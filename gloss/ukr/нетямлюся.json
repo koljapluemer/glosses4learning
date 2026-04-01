@@ -1,0 +1,27 @@
+{
+  "content": "нетямлюся",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я нетямлюся від футболу"
+    ],
+    [
+      "TRANSLATION",
+      "eng:# I'm tired #",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin müde",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:03.425022Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:03.575915Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Mój komputer się zawiesił.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Karola (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Mój"
+    ],
+    [
+      "PART",
+      "pol:komputer"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:zawiesił"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.792058Z": "SPLIT_DONE"
+  }
+}

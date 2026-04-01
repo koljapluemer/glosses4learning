@@ -1,0 +1,31 @@
+{
+  "content": "Він узяв хорошу камеру.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by uaspeaker (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Він"
+    ],
+    [
+      "PART",
+      "ukr:узяв"
+    ],
+    [
+      "PART",
+      "ukr:хорошу"
+    ],
+    [
+      "PART",
+      "ukr:камеру"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.962589Z": "SPLIT_DONE"
+  }
+}

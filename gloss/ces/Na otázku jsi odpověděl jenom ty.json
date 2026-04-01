@@ -1,0 +1,39 @@
+{
+  "content": "Na otázku jsi odpověděl jenom ty.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Na"
+    ],
+    [
+      "PART",
+      "ces:otázku"
+    ],
+    [
+      "PART",
+      "ces:jsi"
+    ],
+    [
+      "PART",
+      "ces:odpověděl"
+    ],
+    [
+      "PART",
+      "ces:jenom"
+    ],
+    [
+      "PART",
+      "ces:ty"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.590318Z": "SPLIT_DONE"
+  }
+}

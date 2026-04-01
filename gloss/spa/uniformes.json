@@ -1,0 +1,33 @@
+{
+  "content": "uniformes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos ellos están vistiendo uniformes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:uniforms",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Uniformen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:уніформи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:17.825701Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:17.838767Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.984919Z": "TRANSLATION_DONE:ukr"
+  }
+}

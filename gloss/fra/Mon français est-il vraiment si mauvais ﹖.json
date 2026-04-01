@@ -1,0 +1,39 @@
+{
+  "content": "Mon français est-il vraiment si mauvais ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rockaround (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Mon"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ],
+    [
+      "PART",
+      "fra:est-il"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:si"
+    ],
+    [
+      "PART",
+      "fra:mauvais"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.296963Z": "SPLIT_DONE"
+  }
+}

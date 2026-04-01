@@ -1,0 +1,31 @@
+{
+  "content": "บอสตัน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณมาถึงบอสตันเมื่อไหร่﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Boston",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมไม่รู้อะไรเลยเกี่ยวกับบอสตัน"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:16.455512Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:16.471806Z": "TRANSLATION_DONE:deu"
+  }
+}

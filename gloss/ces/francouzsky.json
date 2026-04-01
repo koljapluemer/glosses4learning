@@ -1,0 +1,33 @@
+{
+  "content": "francouzsky",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Jsem si dost jistý, že Tom rozumí francouzsky"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Přivítal jsem Toma francouzsky"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom chtěl, aby se Mary naučila francouzsky"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom se na nás snažil mluvit francouzsky"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:28:55.267816Z": "TRANSLATION_DONE:eng"
+  }
+}

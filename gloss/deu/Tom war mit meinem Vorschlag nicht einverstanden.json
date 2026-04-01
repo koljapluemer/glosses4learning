@@ -1,0 +1,43 @@
+{
+  "content": "Tom war mit meinem Vorschlag nicht einverstanden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:war"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:meinem"
+    ],
+    [
+      "PART",
+      "deu:Vorschlag"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:einverstanden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.477767Z": "SPLIT_DONE"
+  }
+}

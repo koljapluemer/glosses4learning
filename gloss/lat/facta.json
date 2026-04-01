@@ -1,0 +1,21 @@
+{
+  "content": "facta",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas numquam sciet quae facta sint"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deeds",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:14.086244Z": "TRANSLATION_DONE:eng"
+  }
+}

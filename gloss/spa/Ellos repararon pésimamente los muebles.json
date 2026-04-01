@@ -1,0 +1,35 @@
+{
+  "content": "Ellos repararon pésimamente los muebles.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by albrusgher (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:repararon"
+    ],
+    [
+      "PART",
+      "spa:pésimamente"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:muebles"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.628158Z": "SPLIT_DONE"
+  }
+}

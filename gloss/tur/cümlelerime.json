@@ -1,0 +1,27 @@
+{
+  "content": "cümlelerime",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Niçin kimse benim cümlelerime katkıda bulunmuyor﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sentences",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sätze",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:28.716186Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:28.730117Z": "TRANSLATION_DONE:deu"
+  }
+}

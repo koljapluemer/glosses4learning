@@ -1,0 +1,43 @@
+{
+  "content": "Él mira la tele todas las noches.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Él"
+    ],
+    [
+      "PART",
+      "spa:mira"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:tele"
+    ],
+    [
+      "PART",
+      "spa:todas"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:noches"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.698586Z": "SPLIT_DONE"
+  }
+}

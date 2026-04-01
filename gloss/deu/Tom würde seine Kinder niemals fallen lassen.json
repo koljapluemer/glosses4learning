@@ -1,0 +1,43 @@
+{
+  "content": "Tom würde seine Kinder niemals fallen lassen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:würde"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Kinder"
+    ],
+    [
+      "PART",
+      "deu:niemals"
+    ],
+    [
+      "PART",
+      "deu:fallen"
+    ],
+    [
+      "PART",
+      "deu:lassen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.449115Z": "SPLIT_DONE"
+  }
+}

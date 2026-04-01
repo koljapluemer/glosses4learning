@@ -1,0 +1,27 @@
+{
+  "content": "Лейла",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Лейла зустрічалася з іншими чоловіками"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Leila",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leila",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:48.094313Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:48.243666Z": "TRANSLATION_DONE:deu"
+  }
+}

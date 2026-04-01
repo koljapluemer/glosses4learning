@@ -1,0 +1,59 @@
+{
+  "content": "Tom hat sich im letzten Monat von seiner Frau scheiden lassen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:letzten"
+    ],
+    [
+      "PART",
+      "deu:Monat"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:seiner"
+    ],
+    [
+      "PART",
+      "deu:Frau"
+    ],
+    [
+      "PART",
+      "deu:scheiden"
+    ],
+    [
+      "PART",
+      "deu:lassen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.772300Z": "SPLIT_DONE"
+  }
+}

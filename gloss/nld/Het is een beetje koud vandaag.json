@@ -1,0 +1,39 @@
+{
+  "content": "Het is een beetje koud vandaag.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Het"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:beetje"
+    ],
+    [
+      "PART",
+      "nld:koud"
+    ],
+    [
+      "PART",
+      "nld:vandaag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.233528Z": "SPLIT_DONE"
+  }
+}

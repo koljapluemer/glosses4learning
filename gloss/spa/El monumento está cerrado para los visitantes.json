@@ -1,0 +1,43 @@
+{
+  "content": "El monumento está cerrado para los visitantes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:monumento"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:cerrado"
+    ],
+    [
+      "PART",
+      "spa:para"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:visitantes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.681293Z": "SPLIT_DONE"
+  }
+}

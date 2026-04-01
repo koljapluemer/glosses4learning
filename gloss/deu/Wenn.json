@@ -8,7 +8,9 @@
     "2026-01-27T14:30:56.965284Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:16:12.711711Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:12.897659Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:16:13.078017Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:16:13.078017Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:32.905533Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:32.922455Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -94,6 +96,28 @@
     [
       "TRANSLATION",
       "tha:เมื่อ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wenn ich das vergessen sollte, erinnern Sie mich bitte daran"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wenn du beschäftigt bist, brauchst du nicht unbedingt zu antworten"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Якщо",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wenn ich nur meine Hausaufgaben gemacht hätte!"
     ]
   ]
 }

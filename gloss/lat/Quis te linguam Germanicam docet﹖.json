@@ -1,0 +1,35 @@
+{
+  "content": "Quis te linguam Germanicam docet?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Quis"
+    ],
+    [
+      "PART",
+      "lat:te"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Germanicam"
+    ],
+    [
+      "PART",
+      "lat:docet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.257669Z": "SPLIT_DONE"
+  }
+}

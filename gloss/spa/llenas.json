@@ -1,0 +1,37 @@
+{
+  "content": "llenas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las cajas no se deben transportar totalmente llenas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las manos de Yanni estaban llenas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:filled",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefüllt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:начинка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.660173Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.676467Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.694268Z": "TRANSLATION_DONE:ukr"
+  }
+}

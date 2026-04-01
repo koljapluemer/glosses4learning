@@ -1,0 +1,35 @@
+{
+  "content": "التحدث بالإنجليزية ليس أمراً سهلاً.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:التحدث"
+    ],
+    [
+      "PART",
+      "ara:بالإنجليزية"
+    ],
+    [
+      "PART",
+      "ara:ليس"
+    ],
+    [
+      "PART",
+      "ara:أمرا"
+    ],
+    [
+      "PART",
+      "ara:سهلا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.900907Z": "SPLIT_DONE"
+  }
+}

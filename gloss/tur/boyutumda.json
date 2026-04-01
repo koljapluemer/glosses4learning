@@ -1,0 +1,27 @@
+{
+  "content": "boyutumda",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Benim boyutumda herhangi bir şey bulamadım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:size",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Größe",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:28.490767Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:28.502460Z": "TRANSLATION_DONE:deu"
+  }
+}

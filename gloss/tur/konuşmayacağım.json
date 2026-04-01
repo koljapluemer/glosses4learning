@@ -1,0 +1,31 @@
+{
+  "content": "konuşmayacağım",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Seninle bundan sonra konuşmayacağım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Not talking m",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nicht reden",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Seninle daha fazla konuşmayacağım"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:33.451216Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:33.468256Z": "TRANSLATION_DONE:deu"
+  }
+}

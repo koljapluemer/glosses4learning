@@ -1,0 +1,27 @@
+{
+  "content": "levés",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:À quelle heure vous êtes-vous levés aujourd'hui ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:raised",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erhöht",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:34.536696Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:34.678981Z": "TRANSLATION_DONE:deu"
+  }
+}

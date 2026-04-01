@@ -1,0 +1,43 @@
+{
+  "content": "Zij hebben iets voor mij verborgen gehouden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zij"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:iets"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:mij"
+    ],
+    [
+      "PART",
+      "nld:verborgen"
+    ],
+    [
+      "PART",
+      "nld:gehouden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.151925Z": "SPLIT_DONE"
+  }
+}

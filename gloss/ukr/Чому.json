@@ -1,0 +1,39 @@
+{
+  "content": "Чому",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Чому Том не розмовляє﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Чому ви такі задоволені﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Why",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warum﹖",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Чому б нам не піти в якесь відлюдне місце﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Чому це ім'я звучить так, ніби я його знаю﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:51.161231Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:51.183522Z": "TRANSLATION_DONE:deu"
+  }
+}

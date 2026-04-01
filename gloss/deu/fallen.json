@@ -1,0 +1,37 @@
+{
+  "content": "fallen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom würde seine Kinder niemals fallen lassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:falling",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:падати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kein Wort über diesen Plan fallen lassen!"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:20.723018Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:20.871475Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:21.000209Z": "TRANSLATION_DONE:kor"
+  }
+}

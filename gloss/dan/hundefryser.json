@@ -1,0 +1,27 @@
+{
+  "content": "hundefryser",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Her, tag min frakke. Du hundefryser jo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dog freezer",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hund Gefrierfach",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:27.828613Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:27.971128Z": "TRANSLATION_DONE:deu"
+  }
+}

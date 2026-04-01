@@ -1,0 +1,31 @@
+{
+  "content": "venlig",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Ville De være så venlig at komme med menukortet﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vil du være så venlig at forlade lokalet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:friendly",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:freundlich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:58.684693Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:58.829884Z": "TRANSLATION_DONE:deu"
+  }
+}

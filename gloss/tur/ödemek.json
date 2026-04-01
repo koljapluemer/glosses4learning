@@ -1,0 +1,27 @@
+{
+  "content": "ödemek",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Biz her zaman daha fazla ödemek zorundayız"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pay",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zahl",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:51.864809Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:51.876122Z": "TRANSLATION_DONE:deu"
+  }
+}

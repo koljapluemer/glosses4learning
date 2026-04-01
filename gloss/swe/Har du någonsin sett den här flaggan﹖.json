@@ -1,0 +1,43 @@
+{
+  "content": "Har du någonsin sett den här flaggan?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Har"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:någonsin"
+    ],
+    [
+      "PART",
+      "swe:sett"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:flaggan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.932642Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "calculan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos radares calculan tu velocidad media"
+    ],
+    [
+      "TRANSLATION",
+      "eng:calculation",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Berechnung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:розрахунок",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.210159Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.225673Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.240663Z": "TRANSLATION_DONE:ukr"
+  }
+}

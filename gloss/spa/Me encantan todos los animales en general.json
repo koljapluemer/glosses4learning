@@ -1,0 +1,43 @@
+{
+  "content": "Me encantan todos los animales en general.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:encantan"
+    ],
+    [
+      "PART",
+      "spa:todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:general"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.656374Z": "SPLIT_DONE"
+  }
+}

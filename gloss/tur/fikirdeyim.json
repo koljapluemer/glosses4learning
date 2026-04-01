@@ -1,0 +1,31 @@
+{
+  "content": "fikirdeyim",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben seninle aynı fikirdeyim"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onunla tamamen aynı fikirdeyim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My idea",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Meine Idee",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:47.212166Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:47.229194Z": "TRANSLATION_DONE:deu"
+  }
+}

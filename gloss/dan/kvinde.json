@@ -1,0 +1,27 @@
+{
+  "content": "kvinde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke leve uden en kvinde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:woman",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frau",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:32.555180Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:32.706913Z": "TRANSLATION_DONE:deu"
+  }
+}

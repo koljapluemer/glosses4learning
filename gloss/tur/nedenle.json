@@ -1,0 +1,27 @@
+{
+  "content": "nedenle",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu nedenle mücadele etmek zorundayız"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Therefore",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Deshalb",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:49.280265Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:49.433686Z": "TRANSLATION_DONE:deu"
+  }
+}

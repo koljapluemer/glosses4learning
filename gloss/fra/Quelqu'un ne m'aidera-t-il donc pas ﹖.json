@@ -1,0 +1,35 @@
+{
+  "content": "Quelqu'un ne m'aidera-t-il donc pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:m'aidera-t-il"
+    ],
+    [
+      "PART",
+      "fra:donc"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.059963Z": "SPLIT_DONE"
+  }
+}

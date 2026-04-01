@@ -1,0 +1,27 @@
+{
+  "content": "близький",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том був дуже близький до того, щоб це зробити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:close",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nähe",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.293711Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.307623Z": "TRANSLATION_DONE:deu"
+  }
+}

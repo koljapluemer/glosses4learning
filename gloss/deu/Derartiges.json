@@ -1,0 +1,33 @@
+{
+  "content": "Derartiges",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Etwas Derartiges wird nicht noch einmal vorkommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Such",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Схожі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:16.763503Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:16.909268Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:16.940752Z": "TRANSLATION_DONE:kor"
+  }
+}

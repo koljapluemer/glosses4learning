@@ -1,0 +1,39 @@
+{
+  "content": "Tom het körtsleden zien plof verkocht.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:het"
+    ],
+    [
+      "PART",
+      "gos:körtsleden"
+    ],
+    [
+      "PART",
+      "gos:zien"
+    ],
+    [
+      "PART",
+      "gos:plof"
+    ],
+    [
+      "PART",
+      "gos:verkocht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.394560Z": "SPLIT_DONE"
+  }
+}

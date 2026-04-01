@@ -1,0 +1,43 @@
+{
+  "content": "Tom slyšel, jak někdo křičí jeho jméno.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nueby (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:slyšel"
+    ],
+    [
+      "PART",
+      "ces:jak"
+    ],
+    [
+      "PART",
+      "ces:někdo"
+    ],
+    [
+      "PART",
+      "ces:křičí"
+    ],
+    [
+      "PART",
+      "ces:jeho"
+    ],
+    [
+      "PART",
+      "ces:jméno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.627158Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "triunfar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las mejoras en la tecnología les ayudaron a triunfar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:triumph",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Triumph",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:трійка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:17.724658Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:17.741777Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.760941Z": "TRANSLATION_DONE:ukr"
+  }
+}

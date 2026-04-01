@@ -2,8 +2,14 @@
   "content": "könnte",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T11:38:07.330349Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:07.348752Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:07.493697Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -40,6 +46,41 @@
     [
       "TRANSLATION",
       "ita:potrebbe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Medikament könnte zu seiner Genesung beitragen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es könnte sein, dass wir Tom nie mehr wiedersehen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Jemand anders könnte mir diese Nachrichten geschickt haben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es gibt nichts, was meinen Vater überzeugen könnte"
+    ],
+    [
+      "TRANSLATION",
+      "dan:kunnet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:could be",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:може бути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:수 있습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

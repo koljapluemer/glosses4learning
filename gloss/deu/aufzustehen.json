@@ -9,7 +9,9 @@
     "2026-03-29T13:17:06.973210Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:07.171301Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:17:07.335393Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:17:07.537918Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:17:07.537918Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:40.956119Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:41.107613Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:yatağa kalkmak"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

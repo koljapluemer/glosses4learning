@@ -1,0 +1,27 @@
+{
+  "content": "цим",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том усвідомив, що йому не слід цим займатися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:this",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:07.797497Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:07.811917Z": "TRANSLATION_DONE:deu"
+  }
+}

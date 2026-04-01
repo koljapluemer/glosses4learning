@@ -1,0 +1,27 @@
+{
+  "content": "danseuse",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Jusqu'à quel point êtes-vous bonne danseuse ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dancer",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tanz",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:33.033564Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:33.047860Z": "TRANSLATION_DONE:deu"
+  }
+}

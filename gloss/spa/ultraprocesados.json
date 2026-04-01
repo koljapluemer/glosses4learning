@@ -1,0 +1,33 @@
+{
+  "content": "ultraprocesados",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los alimentos ultraprocesados hacen engordar a la gente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ultraprocessed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ultraverarbeitet",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ультраобробка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:42.038264Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:42.180175Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:42.330941Z": "TRANSLATION_DONE:ukr"
+  }
+}

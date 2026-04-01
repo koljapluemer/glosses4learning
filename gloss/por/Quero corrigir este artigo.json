@@ -1,0 +1,31 @@
+{
+  "content": "Quero corrigir este artigo.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Quero"
+    ],
+    [
+      "PART",
+      "por:corrigir"
+    ],
+    [
+      "PART",
+      "por:este"
+    ],
+    [
+      "PART",
+      "por:artigo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.541288Z": "SPLIT_DONE"
+  }
+}

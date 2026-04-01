@@ -1,0 +1,33 @@
+{
+  "content": "zurecht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir wiesen ihn für sein Verhalten zurecht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to the right",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:праворуч",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:오른쪽으로",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:46.744135Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:46.758251Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:46.774416Z": "TRANSLATION_DONE:kor"
+  }
+}

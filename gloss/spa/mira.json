@@ -1,0 +1,41 @@
+{
+  "content": "mira",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mary mira televisión todas las noches"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hermano menor mira la televisión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Look",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sieh mal",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дивитися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él mira la tele todas las noches"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:13.988836Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:14.139370Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:14.199447Z": "TRANSLATION_DONE:ukr"
+  }
+}

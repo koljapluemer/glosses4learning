@@ -1,0 +1,39 @@
+{
+  "content": "O Tom comprou um dicionário chinês-japonês.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:O"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:comprou"
+    ],
+    [
+      "PART",
+      "por:um"
+    ],
+    [
+      "PART",
+      "por:dicionário"
+    ],
+    [
+      "PART",
+      "por:chinês-japonês"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.563004Z": "SPLIT_DONE"
+  }
+}

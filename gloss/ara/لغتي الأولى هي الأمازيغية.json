@@ -1,0 +1,31 @@
+{
+  "content": "لغتي الأولى هي الأمازيغية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MisterBrown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لغتي"
+    ],
+    [
+      "PART",
+      "ara:الأولى"
+    ],
+    [
+      "PART",
+      "ara:هي"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.983387Z": "SPLIT_DONE"
+  }
+}

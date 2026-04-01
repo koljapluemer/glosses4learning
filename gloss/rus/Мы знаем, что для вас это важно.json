@@ -1,0 +1,43 @@
+{
+  "content": "Мы знаем, что для вас это важно.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:знаем"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:для"
+    ],
+    [
+      "PART",
+      "rus:вас"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:важно"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.271800Z": "SPLIT_DONE"
+  }
+}

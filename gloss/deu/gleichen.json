@@ -1,0 +1,33 @@
+{
+  "content": "gleichen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir imitieren die gleichen Verhaltensweisen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:46.981838Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:46.982201Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:46.990048Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Mój żołądek jest pełny.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilberry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Mój"
+    ],
+    [
+      "PART",
+      "pol:żołądek"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:pełny"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.769359Z": "SPLIT_DONE"
+  }
+}

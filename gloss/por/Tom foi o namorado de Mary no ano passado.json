@@ -1,0 +1,51 @@
+{
+  "content": "Tom foi o namorado de Mary no ano passado.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:foi"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:namorado"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:Mary"
+    ],
+    [
+      "PART",
+      "por:no"
+    ],
+    [
+      "PART",
+      "por:ano"
+    ],
+    [
+      "PART",
+      "por:passado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.524160Z": "SPLIT_DONE"
+  }
+}

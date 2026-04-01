@@ -1,0 +1,35 @@
+{
+  "content": "Už jsem jedno kafe měl.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Už"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:jedno"
+    ],
+    [
+      "PART",
+      "ces:kafe"
+    ],
+    [
+      "PART",
+      "ces:měl"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.774857Z": "SPLIT_DONE"
+  }
+}

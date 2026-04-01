@@ -5,6 +5,27 @@
     [
       "TRANSLATION",
       "spa:cabeza"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:C'est une tête que j'ai déjà vue quelque part"
+    ],
+    [
+      "TRANSLATION",
+      "eng:head",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kopf",
+      "Auto-translated with argostranslate (fr→en→de)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:54.505634Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:54.655236Z": "TRANSLATION_DONE:deu"
+  }
 }

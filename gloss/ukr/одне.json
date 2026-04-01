@@ -1,0 +1,39 @@
+{
+  "content": "одне",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Годі вже одне одного ображати"
+    ],
+    [
+      "TRANSLATION",
+      "eng:one",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eine",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна поставити тобі одне запитання﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна поставити вам одне запитання﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дозвольте мені поставити ще одне запитання"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:04.640548Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:04.651977Z": "TRANSLATION_DONE:deu"
+  }
+}

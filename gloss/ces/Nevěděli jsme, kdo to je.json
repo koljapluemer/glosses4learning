@@ -1,0 +1,35 @@
+{
+  "content": "Nevěděli jsme, kdo to je.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nevěděli"
+    ],
+    [
+      "PART",
+      "ces:jsme"
+    ],
+    [
+      "PART",
+      "ces:kdo"
+    ],
+    [
+      "PART",
+      "ces:to"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.779764Z": "SPLIT_DONE"
+  }
+}

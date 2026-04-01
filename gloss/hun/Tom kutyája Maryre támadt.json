@@ -1,0 +1,31 @@
+{
+  "content": "Tom kutyája Maryre támadt.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:kutyája"
+    ],
+    [
+      "PART",
+      "hun:Maryre"
+    ],
+    [
+      "PART",
+      "hun:támadt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.903791Z": "SPLIT_DONE"
+  }
+}

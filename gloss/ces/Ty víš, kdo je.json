@@ -1,0 +1,31 @@
+{
+  "content": "Ty víš, kdo je.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Ty"
+    ],
+    [
+      "PART",
+      "ces:víš"
+    ],
+    [
+      "PART",
+      "ces:kdo"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.759104Z": "SPLIT_DONE"
+  }
+}

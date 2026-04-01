@@ -1,0 +1,27 @@
+{
+  "content": "meningen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad er meningen med at gøre dette﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the meaning;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Bedeutung;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:57.414685Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:57.572595Z": "TRANSLATION_DONE:deu"
+  }
+}

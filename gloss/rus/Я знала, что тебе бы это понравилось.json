@@ -1,0 +1,43 @@
+{
+  "content": "Я знала, что тебе бы это понравилось.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Olya (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:знала"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:тебе"
+    ],
+    [
+      "PART",
+      "rus:бы"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:понравилось"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.330352Z": "SPLIT_DONE"
+  }
+}

@@ -9,7 +9,9 @@
     "2026-03-29T13:14:05.560451Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:05.724380Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:05.902781Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:06.115533Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:06.115533Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:35.472986Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:35.626275Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,24 @@
     [
       "TRANSLATION",
       "fra:mensonges"
+    ],
+    [
+      "TRANSLATION",
+      "dan:lyve"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ліза",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:mentiras"
     ]
   ]
 }

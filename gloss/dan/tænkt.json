@@ -1,0 +1,27 @@
+{
+  "content": "tænkt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har tænkt mig at tage nogle billeder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thought",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gedanken",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:48.880946Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:48.943759Z": "TRANSLATION_DONE:deu"
+  }
+}

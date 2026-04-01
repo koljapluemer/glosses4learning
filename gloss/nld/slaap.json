@@ -1,0 +1,29 @@
+{
+  "content": "slaap",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Hij is in slaap gevallen op mijn schouder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ze is in slaap gevallen op mijn schouder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom is in slaap gevallen op mijn schouder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sleep",
+      "Auto-translated with argostranslate (nl→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:26.693973Z": "TRANSLATION_DONE:eng"
+  }
+}

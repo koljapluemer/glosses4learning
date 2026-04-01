@@ -1,0 +1,31 @@
+{
+  "content": "брат",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми з ним двоюрідні брат та сестра"
+    ],
+    [
+      "TRANSLATION",
+      "spa:hermano"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bro",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Brom",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:52.392204Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:52.405395Z": "TRANSLATION_DONE:deu"
+  }
+}

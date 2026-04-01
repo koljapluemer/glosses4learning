@@ -1,0 +1,43 @@
+{
+  "content": "Hans yrke är att undervisa i engelska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Hans"
+    ],
+    [
+      "PART",
+      "swe:yrke"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:undervisa"
+    ],
+    [
+      "PART",
+      "swe:i"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.907963Z": "SPLIT_DONE"
+  }
+}

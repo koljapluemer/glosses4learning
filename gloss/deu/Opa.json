@@ -9,7 +9,9 @@
     "2026-03-29T13:14:41.661403Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:41.835344Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:42.012829Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:42.186599Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:42.186599Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:53.045436Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:53.190807Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,16 @@
     [
       "TRANSLATION",
       "ita:nonno"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дідусь",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:할아버지",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "content": "люблять",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Всі люблять ці історії"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Love",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Liebe",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:00.723671Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:00.868875Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "dø",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ønskede ikke at han skulle dø"
+    ],
+    [
+      "TRANSLATION",
+      "eng:die",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sterben",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville hellere dø end gifte mig med dig!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville hellere dø end overgive mig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:03.575111Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:03.718478Z": "TRANSLATION_DONE:deu"
+  }
+}

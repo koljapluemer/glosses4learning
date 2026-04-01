@@ -1,0 +1,27 @@
+{
+  "content": "vergilerim",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Benim vergilerim senin maaşını ödüyor, değil mi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:my tax",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:meine Steuer",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.450637Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.466117Z": "TRANSLATION_DONE:deu"
+  }
+}

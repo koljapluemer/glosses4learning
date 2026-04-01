@@ -1,0 +1,35 @@
+{
+  "content": "ตอบคำถาม",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เขาไม่ได้ตอบคำถามของฉัน"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:นักเรียนคนไหนก็สามารถตอบคำถามนั้นได้"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Answer the question",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beantworte die Frage",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันตอบคำถามของเขาได้"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:12.673411Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:12.700312Z": "TRANSLATION_DONE:deu"
+  }
+}

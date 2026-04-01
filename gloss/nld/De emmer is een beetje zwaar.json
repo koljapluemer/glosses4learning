@@ -1,0 +1,39 @@
+{
+  "content": "De emmer is een beetje zwaar.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:De"
+    ],
+    [
+      "PART",
+      "nld:emmer"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:beetje"
+    ],
+    [
+      "PART",
+      "nld:zwaar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.150523Z": "SPLIT_DONE"
+  }
+}

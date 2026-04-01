@@ -1,0 +1,35 @@
+{
+  "content": "olmaması",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunun senin için zor olmaması gerekir"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun burada olmaması beni hayal kırıklığına uğrattı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un burada olmaması beni hayal kırıklığına uğrattı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:35.155277Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:35.156299Z": "TRANSLATION_DONE:deu"
+  }
+}

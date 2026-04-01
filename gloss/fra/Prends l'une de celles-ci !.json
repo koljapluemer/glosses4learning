@@ -1,0 +1,31 @@
+{
+  "content": "Prends l'une de celles-ci !",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Prends"
+    ],
+    [
+      "PART",
+      "fra:l'une"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:celles-ci"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.569310Z": "SPLIT_DONE"
+  }
+}

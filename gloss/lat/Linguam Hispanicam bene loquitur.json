@@ -1,0 +1,31 @@
+{
+  "content": "Linguam Hispanicam bene loquitur.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Hispanicam"
+    ],
+    [
+      "PART",
+      "lat:bene"
+    ],
+    [
+      "PART",
+      "lat:loquitur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.264440Z": "SPLIT_DONE"
+  }
+}

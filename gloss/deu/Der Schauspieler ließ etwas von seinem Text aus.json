@@ -1,0 +1,47 @@
+{
+  "content": "Der Schauspieler ließ etwas von seinem Text aus.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Der"
+    ],
+    [
+      "PART",
+      "deu:Schauspieler"
+    ],
+    [
+      "PART",
+      "deu:ließ"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:seinem"
+    ],
+    [
+      "PART",
+      "deu:Text"
+    ],
+    [
+      "PART",
+      "deu:aus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.383052Z": "SPLIT_DONE"
+  }
+}

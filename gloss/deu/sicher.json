@@ -9,7 +9,9 @@
     "2026-03-29T13:22:26.734004Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:26.901035Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:22:27.098147Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:22:27.286776Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:22:27.286776Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:19.579730Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:19.594989Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -71,6 +73,40 @@
     [
       "TRANSLATION",
       "gle:chónaí"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin sicher, ihr habt meinen Vater gekannt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sind Sie sicher, dass Sie sich alles behalten﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sind Sie sicher, daß Sie etwas gesehen haben﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зручності",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:안전 금고",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:seguro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin mir sicher, dass ihr euer Bestes gegeben habt"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:певен"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Eu sou acostumado a dormir mais.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ToinhoAlam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:sou"
+    ],
+    [
+      "PART",
+      "por:acostumado"
+    ],
+    [
+      "PART",
+      "por:a"
+    ],
+    [
+      "PART",
+      "por:dormir"
+    ],
+    [
+      "PART",
+      "por:mais"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.559620Z": "SPLIT_DONE"
+  }
+}

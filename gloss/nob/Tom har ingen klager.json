@@ -1,0 +1,31 @@
+{
+  "content": "Tom har ingen klager.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:ingen"
+    ],
+    [
+      "PART",
+      "nob:klager"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.331835Z": "SPLIT_DONE"
+  }
+}

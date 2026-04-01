@@ -1,0 +1,31 @@
+{
+  "content": "проблем",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не бачу ніяких проблем"
+    ],
+    [
+      "TRANSLATION",
+      "eng:problems",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Probleme",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Неправильна постава може спричинити багато проблем"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:08.016505Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:08.031395Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "straffet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Ingen vidste at Tom var en tidligere straffet person"
+    ],
+    [
+      "TRANSLATION",
+      "eng:criminal",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kriminelle",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:44.494055Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:44.635420Z": "TRANSLATION_DONE:deu"
+  }
+}

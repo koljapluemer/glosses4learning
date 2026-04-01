@@ -1,0 +1,27 @@
+{
+  "content": "списувала",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не списувала"
+    ],
+    [
+      "TRANSLATION",
+      "eng:overwrite",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Überschrift",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:11.831753Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:11.847262Z": "TRANSLATION_DONE:deu"
+  }
+}

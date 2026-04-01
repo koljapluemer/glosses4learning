@@ -1,0 +1,33 @@
+{
+  "content": "coches",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los americanos prefieren los coches grandes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cars",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Autos",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:авто",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:34.002530Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:34.016168Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:34.030679Z": "TRANSLATION_DONE:ukr"
+  }
+}

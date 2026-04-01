@@ -1,0 +1,33 @@
+{
+  "content": "Jessie",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El pelo largo de Jessie estaba completamente mojado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Jessie",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jessie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Панчохи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:18.006894Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:18.023784Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:18.041320Z": "TRANSLATION_DONE:ukr"
+  }
+}

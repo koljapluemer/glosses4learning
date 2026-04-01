@@ -1,0 +1,35 @@
+{
+  "content": "Nincs ebben a szobában semmi.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kiseva33 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Nincs"
+    ],
+    [
+      "PART",
+      "hun:ebben"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:szobában"
+    ],
+    [
+      "PART",
+      "hun:semmi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.924866Z": "SPLIT_DONE"
+  }
+}

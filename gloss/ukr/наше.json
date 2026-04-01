@@ -1,0 +1,27 @@
+{
+  "content": "наше",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми повинні спершу зробити наше домашнє завдання"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ours",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:01.661993Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:01.673673Z": "TRANSLATION_DONE:deu"
+  }
+}

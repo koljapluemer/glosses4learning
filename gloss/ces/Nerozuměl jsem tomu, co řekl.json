@@ -1,0 +1,35 @@
+{
+  "content": "Nerozuměl jsem tomu, co řekl.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nerozuměl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:tomu"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:řekl"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.087962Z": "SPLIT_DONE"
+  }
+}

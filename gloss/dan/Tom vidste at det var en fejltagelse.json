@@ -1,0 +1,43 @@
+{
+  "content": "Tom vidste at det var en fejltagelse.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:vidste"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:var"
+    ],
+    [
+      "PART",
+      "dan:en"
+    ],
+    [
+      "PART",
+      "dan:fejltagelse"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.780963Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "fortæller",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor fortæller du ikke hende det﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg fortæller dig dette i fortrolighed"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor fortæller du ikke ham det﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tells",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:16.004900Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:16.144098Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "antager",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg antager at du har googlet mig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:assume",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nehmen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:44.820438Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:44.959545Z": "TRANSLATION_DONE:deu"
+  }
+}

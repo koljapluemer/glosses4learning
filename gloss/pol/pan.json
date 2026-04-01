@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:14:22.453Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +33,14 @@
     [
       "TRANSLATION",
       "eng:Gentleman"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jest pan mądry"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Niech pan dobrze się zastanowi, zanim pan odpowie"
     ]
   ]
 }

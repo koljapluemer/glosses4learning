@@ -1,0 +1,31 @@
+{
+  "content": "Isso acontece muito comigo.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Isso"
+    ],
+    [
+      "PART",
+      "por:acontece"
+    ],
+    [
+      "PART",
+      "por:muito"
+    ],
+    [
+      "PART",
+      "por:comigo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.516750Z": "SPLIT_DONE"
+  }
+}

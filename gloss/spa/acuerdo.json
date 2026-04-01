@@ -1,0 +1,37 @@
+{
+  "content": "acuerdo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Normalmente estoy de acuerdo con ella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:agreement",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Abkommen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:договір",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy completamente de acuerdo con ello"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:22.983695Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:23.132902Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:23.150162Z": "TRANSLATION_DONE:ukr"
+  }
+}

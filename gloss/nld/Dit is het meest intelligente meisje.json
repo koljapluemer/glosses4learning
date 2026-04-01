@@ -1,0 +1,39 @@
+{
+  "content": "Dit is het meest intelligente meisje.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:meest"
+    ],
+    [
+      "PART",
+      "nld:intelligente"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.177866Z": "SPLIT_DONE"
+  }
+}

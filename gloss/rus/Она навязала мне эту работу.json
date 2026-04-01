@@ -1,0 +1,35 @@
+{
+  "content": "Она навязала мне эту работу.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Hellerick (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Она"
+    ],
+    [
+      "PART",
+      "rus:навязала"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:эту"
+    ],
+    [
+      "PART",
+      "rus:работу"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.284344Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "在家",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你在家做什麼呢？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你在家做什么？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:At home",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:無論我甚麼時候打給他，他也不在家。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我們昨天沒有待在家裡。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:51.577718Z": "TRANSLATION_DONE:eng"
+  }
+}

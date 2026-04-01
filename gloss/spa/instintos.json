@@ -1,0 +1,33 @@
+{
+  "content": "instintos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los animales tienen instintos, nosotros tenemos impuestos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:instincts",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Instinkte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:інстинкти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:05.293167Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:05.313071Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:05.334960Z": "TRANSLATION_DONE:ukr"
+  }
+}

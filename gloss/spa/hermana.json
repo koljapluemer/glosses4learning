@@ -1,0 +1,33 @@
+{
+  "content": "hermana",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hermana se está controlando el peso continuamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sister",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwester",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сестра",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:00.582657Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:00.730756Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:00.879017Z": "TRANSLATION_DONE:ukr"
+  }
+}

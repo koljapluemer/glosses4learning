@@ -1,0 +1,39 @@
+{
+  "content": "Dette medikament vil lindre dine smerter.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Dette"
+    ],
+    [
+      "PART",
+      "dan:medikament"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:lindre"
+    ],
+    [
+      "PART",
+      "dan:dine"
+    ],
+    [
+      "PART",
+      "dan:smerter"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.697582Z": "SPLIT_DONE"
+  }
+}

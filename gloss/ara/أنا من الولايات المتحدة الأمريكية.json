@@ -1,0 +1,35 @@
+{
+  "content": "أنا من الولايات المتحدة الأمريكية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Asma (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنا"
+    ],
+    [
+      "PART",
+      "ara:من"
+    ],
+    [
+      "PART",
+      "ara:الولايات"
+    ],
+    [
+      "PART",
+      "ara:المتحدة"
+    ],
+    [
+      "PART",
+      "ara:الأمريكية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:19.031902Z": "SPLIT_DONE"
+  }
+}

@@ -8,7 +8,9 @@
     "2026-01-27T14:36:00.597054Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:22:24.469271Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:22:24.662805Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:22:24.849087Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:22:24.849087Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:19.340318Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:19.356708Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -42,6 +44,16 @@
     [
       "TRANSLATION",
       "tur:başından"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Ich beantwortete Tom alle seine Fragen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:beantwortete"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:alle"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Fragen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.287080Z": "SPLIT_DONE"
+  }
+}

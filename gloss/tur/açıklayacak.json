@@ -1,0 +1,27 @@
+{
+  "content": "açıklayacak",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bunun neden olduğunu açıklayacak"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to explain",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zu erklären",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:27.784293Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.799930Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Kenapa kemarin kamu tidak masuk?",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Kenapa"
+    ],
+    [
+      "PART",
+      "ind:kemarin"
+    ],
+    [
+      "PART",
+      "ind:kamu"
+    ],
+    [
+      "PART",
+      "ind:tidak"
+    ],
+    [
+      "PART",
+      "ind:masuk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.853113Z": "SPLIT_DONE"
+  }
+}

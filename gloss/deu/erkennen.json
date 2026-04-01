@@ -1,0 +1,33 @@
+{
+  "content": "erkennen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meinerseits kann ich keinen Unterschied erkennen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:see",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Переглянути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:01.401644Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:01.417994Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:01.439102Z": "TRANSLATION_DONE:kor"
+  }
+}

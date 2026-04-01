@@ -1,0 +1,35 @@
+{
+  "content": "Wie binnen Tom zien kiender.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wie"
+    ],
+    [
+      "PART",
+      "gos:binnen"
+    ],
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:zien"
+    ],
+    [
+      "PART",
+      "gos:kiender"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.645555Z": "SPLIT_DONE"
+  }
+}

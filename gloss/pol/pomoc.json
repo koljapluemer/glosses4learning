@@ -3,7 +3,9 @@
   "language": "pol",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -13,6 +15,10 @@
     [
       "TRANSLATION",
       "eng:assistance"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Doceniam Twoją pomoc"
     ]
   ]
 }

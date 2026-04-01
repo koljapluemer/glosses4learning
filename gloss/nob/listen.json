@@ -1,0 +1,21 @@
+{
+  "content": "listen",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom har ikke sett listen ennå"
+    ],
+    [
+      "TRANSLATION",
+      "eng:list",
+      "Auto-translated with argostranslate (nb→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:32.303601Z": "TRANSLATION_DONE:eng"
+  }
+}

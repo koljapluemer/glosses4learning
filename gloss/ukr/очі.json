@@ -1,0 +1,31 @@
+{
+  "content": "очі",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Обидві дівчинки мають блакитні очі"
+    ],
+    [
+      "TRANSLATION",
+      "eng:eyes",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Augen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ojos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:04.909476Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:04.926079Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Viděl jsem, jak to Tom udělal.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Viděl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:jak"
+    ],
+    [
+      "PART",
+      "ces:to"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:udělal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.601102Z": "SPLIT_DONE"
+  }
+}

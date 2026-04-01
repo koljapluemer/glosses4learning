@@ -1,0 +1,37 @@
+{
+  "content": "durchhalten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange Sie wohl durchhalten werden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange ihr wohl durchhalten werdet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:holding",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проведення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:06.984159Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:07.132544Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:07.166126Z": "TRANSLATION_DONE:kor"
+  }
+}

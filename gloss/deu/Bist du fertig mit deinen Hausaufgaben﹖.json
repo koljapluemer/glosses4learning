@@ -1,0 +1,39 @@
+{
+  "content": "Bist du fertig mit deinen Hausaufgaben?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Bist"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:fertig"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.207738Z": "SPLIT_DONE"
+  }
+}

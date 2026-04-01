@@ -1,0 +1,39 @@
+{
+  "content": "Tom đang uống nước ép táo.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leucammieuvu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:đang"
+    ],
+    [
+      "PART",
+      "vie:uống"
+    ],
+    [
+      "PART",
+      "vie:nước"
+    ],
+    [
+      "PART",
+      "vie:ép"
+    ],
+    [
+      "PART",
+      "vie:táo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.053759Z": "SPLIT_DONE"
+  }
+}

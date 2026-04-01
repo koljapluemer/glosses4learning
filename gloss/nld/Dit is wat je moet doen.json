@@ -1,0 +1,39 @@
+{
+  "content": "Dit is wat je moet doen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:wat"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:moet"
+    ],
+    [
+      "PART",
+      "nld:doen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.191639Z": "SPLIT_DONE"
+  }
+}

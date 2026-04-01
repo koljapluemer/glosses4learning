@@ -1,0 +1,43 @@
+{
+  "content": "Pourquoi est-ce que les êtres humains sourient ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by menaud (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:êtres"
+    ],
+    [
+      "PART",
+      "fra:humains"
+    ],
+    [
+      "PART",
+      "fra:sourient"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.394069Z": "SPLIT_DONE"
+  }
+}

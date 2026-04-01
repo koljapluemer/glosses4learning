@@ -1,0 +1,47 @@
+{
+  "content": "Tom insåg att han skulle kunna bli sen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by loovjo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:insåg"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:skulle"
+    ],
+    [
+      "PART",
+      "swe:kunna"
+    ],
+    [
+      "PART",
+      "swe:bli"
+    ],
+    [
+      "PART",
+      "swe:sen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.007939Z": "SPLIT_DONE"
+  }
+}

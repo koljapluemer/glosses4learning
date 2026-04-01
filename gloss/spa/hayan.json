@@ -1,0 +1,37 @@
+{
+  "content": "hayan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Que levanten las manos los que lo hayan entendido"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Puede que algunos funcionarios hayan sido corrompidos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:00.302480Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:00.303190Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:00.303461Z": "TRANSLATION_DONE:ukr"
+  }
+}

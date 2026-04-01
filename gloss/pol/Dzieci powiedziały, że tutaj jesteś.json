@@ -1,0 +1,35 @@
+{
+  "content": "Dzieci powiedziały, że tutaj jesteś.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Miernix (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Dzieci"
+    ],
+    [
+      "PART",
+      "pol:powiedziały"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:tutaj"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.235575Z": "SPLIT_DONE"
+  }
+}

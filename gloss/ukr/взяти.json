@@ -1,0 +1,31 @@
+{
+  "content": "взяти",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можеш взяти будь-який, що тобі до сподоби"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви не можете просто так взяти й піти"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Take",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nehmen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.667624Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.668075Z": "TRANSLATION_DONE:deu"
+  }
+}

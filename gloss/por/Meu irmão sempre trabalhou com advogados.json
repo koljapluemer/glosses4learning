@@ -1,0 +1,39 @@
+{
+  "content": "Meu irmão sempre trabalhou com advogados.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by josivangoncalves (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:irmão"
+    ],
+    [
+      "PART",
+      "por:sempre"
+    ],
+    [
+      "PART",
+      "por:trabalhou"
+    ],
+    [
+      "PART",
+      "por:com"
+    ],
+    [
+      "PART",
+      "por:advogados"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.495148Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "pensamientos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los pensamientos de Yanni son normales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thoughts",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gedanken",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Думки",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.331484Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.346456Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:12.500999Z": "TRANSLATION_DONE:ukr"
+  }
+}

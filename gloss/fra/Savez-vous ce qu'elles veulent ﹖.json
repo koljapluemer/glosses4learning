@@ -1,0 +1,31 @@
+{
+  "content": "Savez-vous ce qu'elles veulent ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Savez-vous"
+    ],
+    [
+      "PART",
+      "fra:ce"
+    ],
+    [
+      "PART",
+      "fra:qu'elles"
+    ],
+    [
+      "PART",
+      "fra:veulent"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.346955Z": "SPLIT_DONE"
+  }
+}

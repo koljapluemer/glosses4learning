@@ -1,0 +1,39 @@
+{
+  "content": "Tom je třídní učitel našich dětí.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:třídní"
+    ],
+    [
+      "PART",
+      "ces:učitel"
+    ],
+    [
+      "PART",
+      "ces:našich"
+    ],
+    [
+      "PART",
+      "ces:dětí"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.753131Z": "SPLIT_DONE"
+  }
+}

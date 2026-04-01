@@ -1,0 +1,33 @@
+{
+  "content": "contestar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella puede hacer y contestar preguntas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Answer",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Antwort",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Відправити",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.649746Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.663599Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.682443Z": "TRANSLATION_DONE:ukr"
+  }
+}

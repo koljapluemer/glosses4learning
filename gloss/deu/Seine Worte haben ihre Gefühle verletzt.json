@@ -1,0 +1,39 @@
+{
+  "content": "Seine Worte haben ihre Gefühle verletzt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Seine"
+    ],
+    [
+      "PART",
+      "deu:Worte"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:ihre"
+    ],
+    [
+      "PART",
+      "deu:Gefühle"
+    ],
+    [
+      "PART",
+      "deu:verletzt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.865879Z": "SPLIT_DONE"
+  }
+}

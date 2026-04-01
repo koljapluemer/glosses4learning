@@ -1,0 +1,39 @@
+{
+  "content": "我们有多少张椅子？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:有"
+    ],
+    [
+      "PART",
+      "cmn:多少"
+    ],
+    [
+      "PART",
+      "cmn:张"
+    ],
+    [
+      "PART",
+      "cmn:椅子"
+    ],
+    [
+      "PART",
+      "cmn:？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.626050Z": "SPLIT_DONE"
+  }
+}

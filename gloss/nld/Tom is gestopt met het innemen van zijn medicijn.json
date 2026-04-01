@@ -1,0 +1,51 @@
+{
+  "content": "Tom is gestopt met het innemen van zijn medicijn.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LinguisticFusion (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:gestopt"
+    ],
+    [
+      "PART",
+      "nld:met"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:innemen"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:medicijn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.180836Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "llovido",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes suerte de que no haya llovido ayer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rain",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Regen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дощ",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:08.650970Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:08.665011Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:08.665445Z": "TRANSLATION_DONE:ukr"
+  }
+}

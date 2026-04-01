@@ -1,0 +1,33 @@
+{
+  "content": "temblaban",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom se dio cuenta de que a Mary le temblaban las manos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They were shaking",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie haben geschüttelt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони були",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:37.709356Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:37.733637Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:37.890095Z": "TRANSLATION_DONE:ukr"
+  }
+}

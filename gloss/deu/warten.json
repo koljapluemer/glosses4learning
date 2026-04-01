@@ -9,7 +9,9 @@
     "2026-03-29T13:23:47.310494Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:47.482513Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:23:47.673324Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:23:47.855962Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:23:47.855962Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:42.987362Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:43.005383Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,24 @@
     [
       "TRANSLATION",
       "fra:attendez"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Würde es Ihnen etwas ausmachen, einen Moment zu warten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:доля",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:beklediği"
     ]
   ]
 }

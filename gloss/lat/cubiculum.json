@@ -1,0 +1,29 @@
+{
+  "content": "cubiculum",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Veni in cubiculum meum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Noli in cubiculum meum ire"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ad cubiculum meum eamus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bedroom",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:43:58.209853Z": "TRANSLATION_DONE:eng"
+  }
+}

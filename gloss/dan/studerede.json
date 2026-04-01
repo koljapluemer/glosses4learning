@@ -1,0 +1,27 @@
+{
+  "content": "studerede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vidste du at Tom studerede jura﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:studied",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Studium",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:44.657287Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:44.847818Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom kan stadig læse uden briller.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:stadig"
+    ],
+    [
+      "PART",
+      "dan:læse"
+    ],
+    [
+      "PART",
+      "dan:uden"
+    ],
+    [
+      "PART",
+      "dan:briller"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.819677Z": "SPLIT_DONE"
+  }
+}

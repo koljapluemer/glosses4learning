@@ -1,0 +1,39 @@
+{
+  "content": "Los adolescentes siempre parecen tener hambre.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Seael (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:adolescentes"
+    ],
+    [
+      "PART",
+      "spa:siempre"
+    ],
+    [
+      "PART",
+      "spa:parecen"
+    ],
+    [
+      "PART",
+      "spa:tener"
+    ],
+    [
+      "PART",
+      "spa:hambre"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.655508Z": "SPLIT_DONE"
+  }
+}

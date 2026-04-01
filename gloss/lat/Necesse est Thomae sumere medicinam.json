@@ -1,0 +1,35 @@
+{
+  "content": "Necesse est Thomae sumere medicinam.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Necesse"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:Thomae"
+    ],
+    [
+      "PART",
+      "lat:sumere"
+    ],
+    [
+      "PART",
+      "lat:medicinam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.306630Z": "SPLIT_DONE"
+  }
+}

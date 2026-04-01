@@ -1,0 +1,27 @@
+{
+  "content": "forrudens",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvor nye er forrudens vinduesviskere﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:windscreen",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Windschutzscheibe",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:12.731574Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:12.872247Z": "TRANSLATION_DONE:deu"
+  }
+}

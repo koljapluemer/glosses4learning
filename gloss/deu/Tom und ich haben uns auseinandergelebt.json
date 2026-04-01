@@ -1,0 +1,39 @@
+{
+  "content": "Tom und ich haben uns auseinandergelebt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tarob (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:uns"
+    ],
+    [
+      "PART",
+      "deu:auseinandergelebt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.437596Z": "SPLIT_DONE"
+  }
+}

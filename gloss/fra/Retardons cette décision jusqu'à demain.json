@@ -1,0 +1,35 @@
+{
+  "content": "Retardons cette décision jusqu'à demain.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Retardons"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:décision"
+    ],
+    [
+      "PART",
+      "fra:jusqu'à"
+    ],
+    [
+      "PART",
+      "fra:demain"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.323065Z": "SPLIT_DONE"
+  }
+}

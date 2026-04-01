@@ -1,0 +1,39 @@
+{
+  "content": "Comment pouvons-nous acheter des marchandises britanniques ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Katastrauff (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:pouvons-nous"
+    ],
+    [
+      "PART",
+      "fra:acheter"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:marchandises"
+    ],
+    [
+      "PART",
+      "fra:britanniques"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.523425Z": "SPLIT_DONE"
+  }
+}

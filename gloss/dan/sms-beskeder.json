@@ -1,0 +1,27 @@
+{
+  "content": "sms-beskeder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun sender sms-beskeder til mig hele tiden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sms messages",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:SMS",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:43.687702Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:43.734969Z": "TRANSLATION_DONE:deu"
+  }
+}

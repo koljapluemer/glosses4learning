@@ -1,0 +1,27 @@
+{
+  "content": "opholdt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg opholdt mig indendørs fordi det regnede"
+    ],
+    [
+      "TRANSLATION",
+      "eng:held",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gehalten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:37.835450Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:37.855770Z": "TRANSLATION_DONE:deu"
+  }
+}

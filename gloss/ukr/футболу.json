@@ -1,0 +1,27 @@
+{
+  "content": "футболу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я нетямлюся від футболу"
+    ],
+    [
+      "TRANSLATION",
+      "eng:football",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fußball",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:14.989481Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:15.006358Z": "TRANSLATION_DONE:deu"
+  }
+}

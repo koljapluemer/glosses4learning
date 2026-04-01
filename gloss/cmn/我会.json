@@ -1,0 +1,25 @@
+{
+  "content": "我会",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:下个星期我会去波士顿。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:没有他的帮助，我会失败。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:11.146788Z": "TRANSLATION_DONE:eng"
+  }
+}

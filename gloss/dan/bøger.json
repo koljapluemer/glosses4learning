@@ -1,0 +1,27 @@
+{
+  "content": "bøger",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er sjældent at jeg læser franske bøger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:books",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bücher",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:19.873772Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:20.027418Z": "TRANSLATION_DONE:deu"
+  }
+}

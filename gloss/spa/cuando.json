@@ -10,7 +10,8 @@
     "2026-03-29T14:22:54.320008Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:54.502862Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:54.694392Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:54.875385Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:54.875385Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:37.699354Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:ne zaman"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Коли",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos siempre gritan cuando están enojados"
     ]
   ]
 }

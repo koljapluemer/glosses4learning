@@ -1,0 +1,27 @@
+{
+  "content": "d'elles",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Aucune d'elles n'a l'air surprise"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of them",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:von ihnen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:32.838102Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:32.862848Z": "TRANSLATION_DONE:deu"
+  }
+}

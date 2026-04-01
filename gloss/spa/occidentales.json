@@ -1,0 +1,33 @@
+{
+  "content": "occidentales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los occidentales no comen pescado crudo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Western",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Westen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Західний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:11.383936Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:11.394947Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.411607Z": "TRANSLATION_DONE:ukr"
+  }
+}

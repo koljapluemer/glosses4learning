@@ -1,0 +1,35 @@
+{
+  "content": "I pomodori sono cresciuti bene.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:I"
+    ],
+    [
+      "PART",
+      "ita:pomodori"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:cresciuti"
+    ],
+    [
+      "PART",
+      "ita:bene"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.812640Z": "SPLIT_DONE"
+  }
+}

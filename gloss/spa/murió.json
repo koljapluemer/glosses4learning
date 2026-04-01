@@ -1,0 +1,33 @@
+{
+  "content": "murió",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Milagrosamente, ninguno de ellos murió"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He died",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er starb",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Він загинув",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:16.962836Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:16.980808Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:17.132969Z": "TRANSLATION_DONE:ukr"
+  }
+}

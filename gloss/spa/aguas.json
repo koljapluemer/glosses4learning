@@ -1,0 +1,33 @@
+{
+  "content": "aguas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos usualmente navegan en aguas apacibles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:waters",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wasser",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:води",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.875816Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.889729Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.903736Z": "TRANSLATION_DONE:ukr"
+  }
+}

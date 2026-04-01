@@ -1,0 +1,31 @@
+{
+  "content": "Jest tam gdzieś toaleta?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jest"
+    ],
+    [
+      "PART",
+      "pol:tam"
+    ],
+    [
+      "PART",
+      "pol:gdzieś"
+    ],
+    [
+      "PART",
+      "pol:toaleta"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.770060Z": "SPLIT_DONE"
+  }
+}

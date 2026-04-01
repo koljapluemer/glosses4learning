@@ -1,0 +1,27 @@
+{
+  "content": "qu'un",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je savais qu'un jour, la faute m'en serait attribuée"
+    ],
+    [
+      "TRANSLATION",
+      "eng:one",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eine",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:37.705423Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:37.718685Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "modus",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er hendes modus operandi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mode",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Modus",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:00.832912Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:00.970631Z": "TRANSLATION_DONE:deu"
+  }
+}

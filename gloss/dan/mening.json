@@ -1,0 +1,27 @@
+{
+  "content": "mening",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det har aldrig været min mening at såre dig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:meaning",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bedeutung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:35.029540Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:35.059403Z": "TRANSLATION_DONE:deu"
+  }
+}

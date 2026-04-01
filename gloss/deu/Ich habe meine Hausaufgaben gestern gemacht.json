@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe meine Hausaufgaben gestern gemacht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:gestern"
+    ],
+    [
+      "PART",
+      "deu:gemacht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.259068Z": "SPLIT_DONE"
+  }
+}

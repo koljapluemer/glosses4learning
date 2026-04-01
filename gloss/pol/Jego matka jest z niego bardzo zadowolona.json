@@ -1,0 +1,43 @@
+{
+  "content": "Jego matka jest z niego bardzo zadowolona.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jego"
+    ],
+    [
+      "PART",
+      "pol:matka"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:z"
+    ],
+    [
+      "PART",
+      "pol:niego"
+    ],
+    [
+      "PART",
+      "pol:bardzo"
+    ],
+    [
+      "PART",
+      "pol:zadowolona"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.233921Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Ο Τομ είναι αδερφός της Μαίρης.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Ο"
+    ],
+    [
+      "PART",
+      "ell:Τομ"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:αδερφός"
+    ],
+    [
+      "PART",
+      "ell:της"
+    ],
+    [
+      "PART",
+      "ell:Μαίρης"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:06.511023Z": "SPLIT_DONE"
+  }
+}

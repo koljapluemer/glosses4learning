@@ -1,0 +1,27 @@
+{
+  "content": "oftest",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er som oftest mig der tager sig af opvasken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:usually",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:in der",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:08.272236Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:08.452898Z": "TRANSLATION_DONE:deu"
+  }
+}

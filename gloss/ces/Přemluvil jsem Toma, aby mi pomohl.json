@@ -1,0 +1,39 @@
+{
+  "content": "Přemluvil jsem Toma, aby mi pomohl.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Přemluvil"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:aby"
+    ],
+    [
+      "PART",
+      "ces:mi"
+    ],
+    [
+      "PART",
+      "ces:pomohl"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.098227Z": "SPLIT_DONE"
+  }
+}

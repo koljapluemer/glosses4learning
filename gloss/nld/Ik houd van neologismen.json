@@ -1,0 +1,31 @@
+{
+  "content": "Ik houd van neologismen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:houd"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:neologismen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.212663Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Они говорят, что знакомы с тобой.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Они"
+    ],
+    [
+      "PART",
+      "rus:говорят"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:знакомы"
+    ],
+    [
+      "PART",
+      "rus:с"
+    ],
+    [
+      "PART",
+      "rus:тобой"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.328316Z": "SPLIT_DONE"
+  }
+}

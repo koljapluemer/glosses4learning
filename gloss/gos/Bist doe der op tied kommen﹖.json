@@ -1,0 +1,39 @@
+{
+  "content": "Bist doe der op tied kommen?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Bist"
+    ],
+    [
+      "PART",
+      "gos:doe"
+    ],
+    [
+      "PART",
+      "gos:der"
+    ],
+    [
+      "PART",
+      "gos:op"
+    ],
+    [
+      "PART",
+      "gos:tied"
+    ],
+    [
+      "PART",
+      "gos:kommen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.353506Z": "SPLIT_DONE"
+  }
+}

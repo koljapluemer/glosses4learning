@@ -1,0 +1,31 @@
+{
+  "content": "Tom wsiadł do samochodu.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by konrad509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:wsiadł"
+    ],
+    [
+      "PART",
+      "pol:do"
+    ],
+    [
+      "PART",
+      "pol:samochodu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.783353Z": "SPLIT_DONE"
+  }
+}

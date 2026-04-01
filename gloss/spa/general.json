@@ -1,0 +1,49 @@
+{
+  "content": "general",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:En general a los estadounidenses les gusta mucho el café"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tomás, por lo general, suele comer de forma apresurada"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A los niños por lo general no les gusta comer verduras"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Por lo general asociamos a los estadounidenses con la libertad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:General",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Allgemeines",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me encantan todos los animales en general"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:56.936201Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:56.950049Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:57.098061Z": "TRANSLATION_DONE:ukr"
+  }
+}

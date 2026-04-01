@@ -1,0 +1,27 @@
+{
+  "content": "говоримо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У мене таке відчуття, що ми говоримо різними мовами"
+    ],
+    [
+      "TRANSLATION",
+      "eng:say",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagen﹕",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.743763Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.756706Z": "TRANSLATION_DONE:deu"
+  }
+}

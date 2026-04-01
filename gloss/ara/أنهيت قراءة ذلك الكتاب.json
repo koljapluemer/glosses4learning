@@ -1,0 +1,31 @@
+{
+  "content": "أنهيت قراءة ذلك الكتاب.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنهيت"
+    ],
+    [
+      "PART",
+      "ara:قراءة"
+    ],
+    [
+      "PART",
+      "ara:ذلك"
+    ],
+    [
+      "PART",
+      "ara:الكتاب"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.563975Z": "SPLIT_DONE"
+  }
+}

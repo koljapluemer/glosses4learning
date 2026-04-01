@@ -1,0 +1,27 @@
+{
+  "content": "yakındır",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Benim doğum günüm seninkine yakındır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Nearby",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:In der Nähe",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:40.084867Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:40.108176Z": "TRANSLATION_DONE:deu"
+  }
+}

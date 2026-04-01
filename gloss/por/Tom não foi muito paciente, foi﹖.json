@@ -1,0 +1,35 @@
+{
+  "content": "Tom não foi muito paciente, foi?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:não"
+    ],
+    [
+      "PART",
+      "por:foi"
+    ],
+    [
+      "PART",
+      "por:muito"
+    ],
+    [
+      "PART",
+      "por:paciente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.578488Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe gestern keine Nachrichten erhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:gestern"
+    ],
+    [
+      "PART",
+      "deu:keine"
+    ],
+    [
+      "PART",
+      "deu:Nachrichten"
+    ],
+    [
+      "PART",
+      "deu:erhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.274714Z": "SPLIT_DONE"
+  }
+}

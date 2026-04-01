@@ -8,7 +8,9 @@
     "2026-01-27T14:34:40.485286Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:03.665511Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:03.853360Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:21:04.061108Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:21:04.061108Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:08.019636Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:08.035461Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,24 @@
     [
       "TRANSLATION",
       "tha:นาน"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange Sie wohl durchhalten werden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange ihr wohl durchhalten werdet"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:довгий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:긴 수명",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

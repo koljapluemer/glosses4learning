@@ -10,7 +10,8 @@
     "2026-03-29T14:27:05.263138Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:27:05.454611Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:27:05.622291Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:27:05.775646Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:27:05.775646Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:31.020734Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,19 @@
     [
       "TRANSLATION",
       "tur:deniz"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo estoy contento de que Mary no sea mi esposa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бути",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Simplemente no creo que sea necesario"
     ]
   ]
 }

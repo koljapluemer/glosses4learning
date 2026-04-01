@@ -1,0 +1,31 @@
+{
+  "content": "Czy wczoraj było zimno?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ptr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:wczoraj"
+    ],
+    [
+      "PART",
+      "pol:było"
+    ],
+    [
+      "PART",
+      "pol:zimno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.781217Z": "SPLIT_DONE"
+  }
+}

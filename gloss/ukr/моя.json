@@ -1,0 +1,39 @@
+{
+  "content": "моя",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ця книжка не моя"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вона моя хресна"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це не моя сумка"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mine",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mine",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Скажи Тому, що це не моя провина"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:02.004704Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:02.018596Z": "TRANSLATION_DONE:deu"
+  }
+}

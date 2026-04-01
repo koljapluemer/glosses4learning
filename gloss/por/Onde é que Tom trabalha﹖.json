@@ -1,0 +1,35 @@
+{
+  "content": "Onde é que Tom trabalha?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Onde"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:trabalha"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.530990Z": "SPLIT_DONE"
+  }
+}

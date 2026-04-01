@@ -1,0 +1,33 @@
+{
+  "content": "Mary",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mary houdt van romantische komedies"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mary nam een slokje van haar warme chocolademelk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik weet zeker dat Tom Mary niet zal vergeten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom en Mary hebben meerdere kleinkinderen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:51.167529Z": "TRANSLATION_DONE:eng"
+  }
+}

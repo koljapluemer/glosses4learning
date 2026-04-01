@@ -1,0 +1,33 @@
+{
+  "content": "disminuyendo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La hegemonía global de Estados Unidos está disminuyendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:decreasing",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:abnehmen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зниження",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.767541Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.780853Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.799222Z": "TRANSLATION_DONE:ukr"
+  }
+}

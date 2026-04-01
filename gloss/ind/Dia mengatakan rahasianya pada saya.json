@@ -1,0 +1,35 @@
+{
+  "content": "Dia mengatakan rahasianya pada saya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dbahasa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Dia"
+    ],
+    [
+      "PART",
+      "ind:mengatakan"
+    ],
+    [
+      "PART",
+      "ind:rahasianya"
+    ],
+    [
+      "PART",
+      "ind:pada"
+    ],
+    [
+      "PART",
+      "ind:saya"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:26.998888Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg har forklart det til Tom.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:forklart"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:til"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.280398Z": "SPLIT_DONE"
+  }
+}

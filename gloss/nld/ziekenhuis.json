@@ -1,0 +1,29 @@
+{
+  "content": "ziekenhuis",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mijn vader werd gisteren opgenomen in het ziekenhuis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Werd Tom in het ziekenhuis opgenomen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom werd in het ziekenhuis opgenomen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hospital",
+      "Auto-translated with argostranslate (nl→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:28.226748Z": "TRANSLATION_DONE:eng"
+  }
+}

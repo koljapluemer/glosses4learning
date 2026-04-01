@@ -1,0 +1,33 @@
+{
+  "content": "semillas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los granjeros siembran semillas de cereales en primavera"
+    ],
+    [
+      "TRANSLATION",
+      "eng:seeds",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Samen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:насіння",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:31.283596Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:31.878298Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:31.899211Z": "TRANSLATION_DONE:ukr"
+  }
+}

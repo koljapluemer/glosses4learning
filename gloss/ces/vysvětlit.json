@@ -1,0 +1,29 @@
+{
+  "content": "vysvětlit",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom nedokázal pořádně vysvětlit, co se stalo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:explain",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdo nedokáže vysvětlit Tomovo náhlé zmizení"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom to nedokázal srozumitelně vysvětlit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:03.578516Z": "TRANSLATION_DONE:eng"
+  }
+}

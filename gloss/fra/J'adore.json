@@ -5,6 +5,27 @@
     [
       "TRANSLATION",
       "spa:encanta"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'adore les phrases dont le sujet sont les écureuils !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I love",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich liebe",
+      "Auto-translated with argostranslate (fr→en→de)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:05.279071Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:05.421904Z": "TRANSLATION_DONE:deu"
+  }
 }

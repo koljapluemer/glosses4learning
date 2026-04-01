@@ -9,7 +9,9 @@
     "2026-03-29T13:15:33.687955Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:33.923714Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:15:34.171240Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:15:34.389041Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:15:34.389041Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:20.093140Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:20.117256Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:Batış çubuğu"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Барель",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품특징",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "صديقي مارسيلو يكتب باللغة اللاتينية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alkhaldy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:صديقي"
+    ],
+    [
+      "PART",
+      "ara:مارسيلو"
+    ],
+    [
+      "PART",
+      "ara:يكتب"
+    ],
+    [
+      "PART",
+      "ara:باللغة"
+    ],
+    [
+      "PART",
+      "ara:اللاتينية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.006271Z": "SPLIT_DONE"
+  }
+}

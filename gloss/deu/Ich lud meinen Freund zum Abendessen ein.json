@@ -1,0 +1,43 @@
+{
+  "content": "Ich lud meinen Freund zum Abendessen ein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bonny37 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:lud"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Freund"
+    ],
+    [
+      "PART",
+      "deu:zum"
+    ],
+    [
+      "PART",
+      "deu:Abendessen"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.923957Z": "SPLIT_DONE"
+  }
+}

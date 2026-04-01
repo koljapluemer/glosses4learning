@@ -1,0 +1,39 @@
+{
+  "content": "Ty jesteś przyjacielem Tomasza, czy nie?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kosapehape (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Ty"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ],
+    [
+      "PART",
+      "pol:przyjacielem"
+    ],
+    [
+      "PART",
+      "pol:Tomasza"
+    ],
+    [
+      "PART",
+      "pol:czy"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.226812Z": "SPLIT_DONE"
+  }
+}

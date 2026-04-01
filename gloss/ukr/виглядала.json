@@ -1,0 +1,27 @@
+{
+  "content": "виглядала",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том каже, що Мері не виглядала на зайняту"
+    ],
+    [
+      "TRANSLATION",
+      "eng:She looked",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie sah aus",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.769654Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.785885Z": "TRANSLATION_DONE:deu"
+  }
+}

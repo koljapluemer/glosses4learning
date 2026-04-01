@@ -1,0 +1,27 @@
+{
+  "content": "почекати",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна мені тут почекати﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wait",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warte",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:06.992959Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:07.010085Z": "TRANSLATION_DONE:deu"
+  }
+}

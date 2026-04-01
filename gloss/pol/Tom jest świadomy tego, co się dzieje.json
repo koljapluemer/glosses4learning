@@ -1,0 +1,43 @@
+{
+  "content": "Tom jest świadomy tego, co się dzieje.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aleksandraeska (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:świadomy"
+    ],
+    [
+      "PART",
+      "pol:tego"
+    ],
+    [
+      "PART",
+      "pol:co"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:dzieje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.773030Z": "SPLIT_DONE"
+  }
+}

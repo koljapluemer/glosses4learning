@@ -1,0 +1,31 @@
+{
+  "content": "Wat is je kamernummer?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by WarmFoothills (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:kamernummer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.223463Z": "SPLIT_DONE"
+  }
+}

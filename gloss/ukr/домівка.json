@@ -1,0 +1,27 @@
+{
+  "content": "домівка",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У Тома дуже гарна домівка"
+    ],
+    [
+      "TRANSLATION",
+      "eng:home",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zuhause",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:56.770959Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:56.784801Z": "TRANSLATION_DONE:deu"
+  }
+}

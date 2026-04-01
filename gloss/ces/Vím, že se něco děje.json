@@ -1,0 +1,35 @@
+{
+  "content": "Vím, že se něco děje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lipao (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Vím"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:něco"
+    ],
+    [
+      "PART",
+      "ces:děje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.737894Z": "SPLIT_DONE"
+  }
+}

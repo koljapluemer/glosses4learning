@@ -1,0 +1,39 @@
+{
+  "content": "Tom har aldri gjort noen fortred.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by garborg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:aldri"
+    ],
+    [
+      "PART",
+      "nob:gjort"
+    ],
+    [
+      "PART",
+      "nob:noen"
+    ],
+    [
+      "PART",
+      "nob:fortred"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.286956Z": "SPLIT_DONE"
+  }
+}

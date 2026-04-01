@@ -1,0 +1,35 @@
+{
+  "content": "Die haben sich stundenlang unterhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Die"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:stundenlang"
+    ],
+    [
+      "PART",
+      "deu:unterhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.742070Z": "SPLIT_DONE"
+  }
+}

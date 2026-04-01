@@ -1,0 +1,37 @@
+{
+  "content": "Rauchen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Würde es Ihnen etwas ausmachen, das Rauchen zu unterlassen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Smoking",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Паління",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe das Rauchen vor einem Jahr aufgegeben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:58.957870Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:59.102201Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:59.133238Z": "TRANSLATION_DONE:kor"
+  }
+}

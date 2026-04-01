@@ -1,0 +1,31 @@
+{
+  "content": "لا يزالون يتكلمون بالأمازيغية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yili (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:يزالون"
+    ],
+    [
+      "PART",
+      "ara:يتكلمون"
+    ],
+    [
+      "PART",
+      "ara:بالأمازيغية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.026762Z": "SPLIT_DONE"
+  }
+}

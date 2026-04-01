@@ -1,0 +1,31 @@
+{
+  "content": "Kde je váš otec?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by slampisko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Kde"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:váš"
+    ],
+    [
+      "PART",
+      "ces:otec"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.792637Z": "SPLIT_DONE"
+  }
+}

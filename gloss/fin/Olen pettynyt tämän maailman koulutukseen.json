@@ -1,0 +1,35 @@
+{
+  "content": "Olen pettynyt tämän maailman koulutukseen.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sni (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Olen"
+    ],
+    [
+      "PART",
+      "fin:pettynyt"
+    ],
+    [
+      "PART",
+      "fin:tämän"
+    ],
+    [
+      "PART",
+      "fin:maailman"
+    ],
+    [
+      "PART",
+      "fin:koulutukseen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:09.954611Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "hårdt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom siger, han arbejder meget hårdt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hard",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hart",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:28.787404Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:28.940340Z": "TRANSLATION_DONE:deu"
+  }
+}

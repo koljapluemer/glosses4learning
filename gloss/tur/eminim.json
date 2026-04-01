@@ -1,0 +1,35 @@
+{
+  "content": "eminim",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunun sadece bir yanlış anlama olduğundan eminim"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un benimle aynı fikirde olduğundan eminim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am sure",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin sicher",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kimsenin uykulu olmadığından eminim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:29.571960Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:29.589105Z": "TRANSLATION_DONE:deu"
+  }
+}

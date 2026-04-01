@@ -1,0 +1,33 @@
+{
+  "content": "momentos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni disfruta de esos momentos profundamente personales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:moments",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Momente",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:моменти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.139580Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.153043Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.300678Z": "TRANSLATION_DONE:ukr"
+  }
+}

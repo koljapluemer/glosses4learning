@@ -8,7 +8,9 @@
     "2026-01-27T14:31:05.217338Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:16:21.918618Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:22.112320Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:16:22.282952Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:16:22.282952Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:34.108346Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:34.125505Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -74,6 +76,24 @@
     [
       "TRANSLATION",
       "ita:settimana"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie sollten nächste Woche noch einmal wiederkommen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Тижневий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주 메뉴",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тижня"
     ]
   ]
 }

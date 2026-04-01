@@ -1,0 +1,35 @@
+{
+  "content": "Nem fejeztem ki magamat jól.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Nem"
+    ],
+    [
+      "PART",
+      "hun:fejeztem"
+    ],
+    [
+      "PART",
+      "hun:ki"
+    ],
+    [
+      "PART",
+      "hun:magamat"
+    ],
+    [
+      "PART",
+      "hun:jól"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.657612Z": "SPLIT_DONE"
+  }
+}

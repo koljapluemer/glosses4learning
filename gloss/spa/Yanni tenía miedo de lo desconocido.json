@@ -1,0 +1,39 @@
+{
+  "content": "Yanni tenía miedo de lo desconocido.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Yanni"
+    ],
+    [
+      "PART",
+      "spa:tenía"
+    ],
+    [
+      "PART",
+      "spa:miedo"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:lo"
+    ],
+    [
+      "PART",
+      "spa:desconocido"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.627848Z": "SPLIT_DONE"
+  }
+}

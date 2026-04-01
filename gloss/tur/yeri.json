@@ -1,0 +1,27 @@
+{
+  "content": "yeri",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yanni'nin bundan böyle gidecek hiçbir yeri yok"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Location",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Standort",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:51.399273Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:51.399689Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Oletko ymmärtänyt yhtään mitään?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Johannes_S (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:ymmärtänyt"
+    ],
+    [
+      "PART",
+      "fin:yhtään"
+    ],
+    [
+      "PART",
+      "fin:mitään"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.019067Z": "SPLIT_DONE"
+  }
+}

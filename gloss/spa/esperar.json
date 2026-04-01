@@ -1,0 +1,33 @@
+{
+  "content": "esperar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Por lo visto hay que esperar una hora para que nos paguen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wait",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:50.409452Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:50.426687Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:50.446908Z": "TRANSLATION_DONE:ukr"
+  }
+}

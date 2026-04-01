@@ -1,0 +1,33 @@
+{
+  "content": "conducir",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él está lo suficientemente grande para conducir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:driving",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fahren",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:водіння",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:00.860920Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:00.876156Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:00.891895Z": "TRANSLATION_DONE:ukr"
+  }
+}

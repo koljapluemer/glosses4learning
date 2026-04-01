@@ -1,0 +1,33 @@
+{
+  "content": "perdí",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, me perdí toda la diversión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I lost",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe verloren",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я втратив",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.616504Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.632707Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:12.651529Z": "TRANSLATION_DONE:ukr"
+  }
+}

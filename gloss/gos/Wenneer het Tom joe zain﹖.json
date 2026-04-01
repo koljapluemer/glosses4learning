@@ -1,0 +1,35 @@
+{
+  "content": "Wenneer het Tom joe zain?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wenneer"
+    ],
+    [
+      "PART",
+      "gos:het"
+    ],
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:joe"
+    ],
+    [
+      "PART",
+      "gos:zain"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.647941Z": "SPLIT_DONE"
+  }
+}

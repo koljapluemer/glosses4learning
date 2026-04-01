@@ -1,0 +1,33 @@
+{
+  "content": "yo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se fue antes de que yo llegara a casa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Me",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:44.367817Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:44.383648Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:44.399831Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "aufgefallen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ist Ihnen das schon früher einmal aufgefallen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you have not",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:у вас немає",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은 없습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:39.181638Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:39.198450Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:39.214491Z": "TRANSLATION_DONE:kor"
+  }
+}

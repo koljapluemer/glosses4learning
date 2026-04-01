@@ -1,0 +1,43 @@
+{
+  "content": "Quels sont les films à l'affiche actuellement ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cocorico (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quels"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:films"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:l'affiche"
+    ],
+    [
+      "PART",
+      "fra:actuellement"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.494972Z": "SPLIT_DONE"
+  }
+}

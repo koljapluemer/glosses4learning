@@ -1,0 +1,35 @@
+{
+  "content": "Pourquoi les fenêtres sont-elles ouvertes ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:fenêtres"
+    ],
+    [
+      "PART",
+      "fra:sont-elles"
+    ],
+    [
+      "PART",
+      "fra:ouvertes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.636465Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "我會",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我會說日語。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:看看我會在盒子裡找到什麼﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我要是你，我會去學習。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我會在這裡把它吃了。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:11.582906Z": "TRANSLATION_DONE:eng"
+  }
+}

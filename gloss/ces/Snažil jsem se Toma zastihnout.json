@@ -1,0 +1,35 @@
+{
+  "content": "Snažil jsem se Toma zastihnout.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Snažil"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:zastihnout"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.097343Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "wäre",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Willst du damit sagen, Tom wäre gar kein Kanadier﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have you been",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:05.216867Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:05.236376Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:05.253705Z": "TRANSLATION_DONE:kor"
+  }
+}

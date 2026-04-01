@@ -1,0 +1,31 @@
+{
+  "content": "Мы наконец сегодня встретимся.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:наконец"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:встретимся"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.194527Z": "SPLIT_DONE"
+  }
+}

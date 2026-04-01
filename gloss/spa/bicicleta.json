@@ -1,0 +1,33 @@
+{
+  "content": "bicicleta",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los elefantes son animales que no saben ir en bicicleta"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bicycle",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fahrradverleih",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Велосипеди",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:29.024694Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:29.041117Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:29.056250Z": "TRANSLATION_DONE:ukr"
+  }
+}

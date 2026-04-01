@@ -1,0 +1,31 @@
+{
+  "content": "verdim",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun yerine bunu yapmaya karar verdim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:News",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nachrichten",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun bunu yapmasına izin verdim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.345980Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.360258Z": "TRANSLATION_DONE:deu"
+  }
+}

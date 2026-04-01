@@ -1,0 +1,33 @@
+{
+  "content": "Knie",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nachdem Sie Ihren Körper gedreht haben, gehen Sie bis ganz tief in die Knie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Kneeling",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Кнелінг",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:옷 입히기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:29.594653Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:29.668749Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:29.699921Z": "TRANSLATION_DONE:kor"
+  }
+}

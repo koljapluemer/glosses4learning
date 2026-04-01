@@ -1,0 +1,31 @@
+{
+  "content": "alternativer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke komme på nogen alternativer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke forestille mig nogen alternativer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:alternatives",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alternativen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:42.837443Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:42.983379Z": "TRANSLATION_DONE:deu"
+  }
+}

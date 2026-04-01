@@ -1,0 +1,27 @@
+{
+  "content": "jusqu'aux",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les femmes sont facilement émues jusqu'aux larmes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:until",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bis",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:29.890265Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:30.038114Z": "TRANSLATION_DONE:deu"
+  }
+}

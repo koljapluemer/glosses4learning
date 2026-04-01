@@ -1,0 +1,35 @@
+{
+  "content": "Wat voor meisje ben je?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.153337Z": "SPLIT_DONE"
+  }
+}

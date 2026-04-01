@@ -1,0 +1,35 @@
+{
+  "content": "Skicka en bild till mig!",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sprakify (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Skicka"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:bild"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.810928Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Honnan ismered Félixet?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Honnan"
+    ],
+    [
+      "PART",
+      "hun:ismered"
+    ],
+    [
+      "PART",
+      "hun:Félixet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.907487Z": "SPLIT_DONE"
+  }
+}

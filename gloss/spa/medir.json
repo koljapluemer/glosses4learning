@@ -1,0 +1,33 @@
+{
+  "content": "medir",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay que medir la velocidad del viento con exactitud"
+    ],
+    [
+      "TRANSLATION",
+      "eng:measure",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maßnahme",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:11.503886Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:11.519435Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:11.537404Z": "TRANSLATION_DONE:ukr"
+  }
+}

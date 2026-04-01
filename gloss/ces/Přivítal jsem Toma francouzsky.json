@@ -1,0 +1,31 @@
+{
+  "content": "Přivítal jsem Toma francouzsky.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Přivítal"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:francouzsky"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.636948Z": "SPLIT_DONE"
+  }
+}

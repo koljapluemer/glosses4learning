@@ -1,0 +1,37 @@
+{
+  "content": "Mitbewohnerin",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Mitbewohnerin hat sich über den Lärm beschwert"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich kann meine Mitbewohnerin nicht ausstehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Roommate",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Полулюкс",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:룸메이트",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:43.292881Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:43.323891Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:43.478963Z": "TRANSLATION_DONE:kor"
+  }
+}

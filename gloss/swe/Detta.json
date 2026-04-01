@@ -1,0 +1,25 @@
+{
+  "content": "Detta",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Detta är riktigt illa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This is this",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Detta är en riktigt salomonisk lösning"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:46.367022Z": "TRANSLATION_DONE:eng"
+  }
+}

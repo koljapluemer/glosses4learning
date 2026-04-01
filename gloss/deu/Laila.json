@@ -1,0 +1,33 @@
+{
+  "content": "Laila",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Laila und Sami haben sich stundenlang unterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Laila",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Лайла",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:라일라",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:31.730545Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:31.879117Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:31.933254Z": "TRANSLATION_DONE:kor"
+  }
+}

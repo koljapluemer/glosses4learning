@@ -1,0 +1,33 @@
+{
+  "content": "físico",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él es un físico que está trabajando en el teletransporte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:physical",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Körper",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:фізичний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:56.598067Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:56.615586Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:56.631454Z": "TRANSLATION_DONE:ukr"
+  }
+}

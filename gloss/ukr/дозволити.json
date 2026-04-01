@@ -1,0 +1,31 @@
+{
+  "content": "дозволити",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам слід дозволити Тому це зробити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Allow",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zulässig",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не можу дозволити, щоб це сталося"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:56.528812Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:56.544456Z": "TRANSLATION_DONE:deu"
+  }
+}

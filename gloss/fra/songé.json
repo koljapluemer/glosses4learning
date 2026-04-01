@@ -1,0 +1,27 @@
+{
+  "content": "songé",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai songé qu'il se passait quelque chose"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thought",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gedanken",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:51.529575Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:51.677415Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Eu amo vir aqui.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by heo598 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:amo"
+    ],
+    [
+      "PART",
+      "por:vir"
+    ],
+    [
+      "PART",
+      "por:aqui"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.552472Z": "SPLIT_DONE"
+  }
+}

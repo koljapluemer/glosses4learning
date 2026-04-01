@@ -1,0 +1,33 @@
+{
+  "content": "enseñan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos profesores pelan patatas mientras enseñan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:teach",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lehre",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вчити",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:47.034963Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:47.183290Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:47.200828Z": "TRANSLATION_DONE:ukr"
+  }
+}

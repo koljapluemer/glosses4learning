@@ -1,0 +1,41 @@
+{
+  "content": "puedes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no puedes llevarlo contigo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can you",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Können Sie﹖",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви можете",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No puedes asumir simplemente eso"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No te puedes ir a casa hasta las dos y media"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:26.760914Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:26.778780Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:26.794470Z": "TRANSLATION_DONE:ukr"
+  }
+}

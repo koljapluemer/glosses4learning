@@ -1,0 +1,39 @@
+{
+  "content": "Waar gaan jullie heen voor Kerstmis?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waar"
+    ],
+    [
+      "PART",
+      "nld:gaan"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:heen"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:Kerstmis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.196866Z": "SPLIT_DONE"
+  }
+}

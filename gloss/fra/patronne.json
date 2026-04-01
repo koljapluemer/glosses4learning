@@ -1,0 +1,27 @@
+{
+  "content": "patronne",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Comment se fait-il que vous ne soyez pas la patronne ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:boss",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Chef",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:37.113406Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:37.127909Z": "TRANSLATION_DONE:deu"
+  }
+}

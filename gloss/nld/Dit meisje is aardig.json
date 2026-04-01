@@ -1,0 +1,31 @@
+{
+  "content": "Dit meisje is aardig.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:aardig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.228119Z": "SPLIT_DONE"
+  }
+}

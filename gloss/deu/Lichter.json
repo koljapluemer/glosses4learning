@@ -1,0 +1,33 @@
+{
+  "content": "Lichter",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Könntest du die Lichter einschalten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Lights",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Світло",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:33.065937Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:33.086059Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:33.112249Z": "TRANSLATION_DONE:kor"
+  }
+}

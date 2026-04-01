@@ -1,0 +1,31 @@
+{
+  "content": "hunde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han elsker hunde mere end noget andet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er ikke alle hunde, der er intelligente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dogs",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hunde",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:27.614341Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:27.791409Z": "TRANSLATION_DONE:deu"
+  }
+}

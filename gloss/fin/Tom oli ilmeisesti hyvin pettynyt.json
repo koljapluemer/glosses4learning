@@ -1,0 +1,35 @@
+{
+  "content": "Tom oli ilmeisesti hyvin pettynyt.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:oli"
+    ],
+    [
+      "PART",
+      "fin:ilmeisesti"
+    ],
+    [
+      "PART",
+      "fin:hyvin"
+    ],
+    [
+      "PART",
+      "fin:pettynyt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.042791Z": "SPLIT_DONE"
+  }
+}

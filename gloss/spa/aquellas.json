@@ -1,0 +1,33 @@
+{
+  "content": "aquellas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella simpatizó con aquellas desafortunadas personas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:those",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ті, хто",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:26.470576Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:26.483545Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:26.499559Z": "TRANSLATION_DONE:ukr"
+  }
+}

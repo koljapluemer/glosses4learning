@@ -1,0 +1,27 @@
+{
+  "content": "Czym dzieckiem jesteś?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Katubeltza (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czym"
+    ],
+    [
+      "PART",
+      "pol:dzieckiem"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.791771Z": "SPLIT_DONE"
+  }
+}

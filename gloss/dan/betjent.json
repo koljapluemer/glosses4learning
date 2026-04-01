@@ -1,0 +1,27 @@
+{
+  "content": "betjent",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Fortæl hende ikke at du er betjent"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Officer",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Officer",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:49.899542Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:50.038468Z": "TRANSLATION_DONE:deu"
+  }
+}

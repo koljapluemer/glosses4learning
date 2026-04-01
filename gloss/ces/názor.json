@@ -1,0 +1,29 @@
+{
+  "content": "názor",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdo se na názor Toma neptal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Opinion",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdy jsem neměl jiný názor, než Tom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdo se tě na tvůj názor neptal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:24.440962Z": "TRANSLATION_DONE:eng"
+  }
+}

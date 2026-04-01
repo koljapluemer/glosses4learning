@@ -1,0 +1,35 @@
+{
+  "content": "Ziri frågade en annan lärare.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Ziri"
+    ],
+    [
+      "PART",
+      "swe:frågade"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:annan"
+    ],
+    [
+      "PART",
+      "swe:lärare"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.841495Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "under",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han viste mig hvor jeg skulle skrive under"
+    ],
+    [
+      "TRANSLATION",
+      "eng:below",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:unten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun nægtede at skrive under på andragendet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:54.097519Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:54.254201Z": "TRANSLATION_DONE:deu"
+  }
+}

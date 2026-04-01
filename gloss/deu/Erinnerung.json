@@ -1,0 +1,33 @@
+{
+  "content": "Erinnerung",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde deine Freundlichkeit immer in Erinnerung behalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Memory",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навігація",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기억하기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:18.641199Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:18.790305Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:18.830624Z": "TRANSLATION_DONE:kor"
+  }
+}

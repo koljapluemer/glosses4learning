@@ -1,0 +1,33 @@
+{
+  "content": "libre",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy libre todos los días menos el lunes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:free",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kostenlos",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Безкоштовно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:07.883947Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:07.900795Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:07.916276Z": "TRANSLATION_DONE:ukr"
+  }
+}

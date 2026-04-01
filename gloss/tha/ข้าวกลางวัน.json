@@ -1,0 +1,31 @@
+{
+  "content": "ข้าวกลางวัน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันยังไม่ได้กินข้าวกลางวัน"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Lunch",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittagessen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เรากำลังกินข้าวกลางวันด้วยกัน"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:09.357225Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:09.377356Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "content": "presentes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Casi todos los que estaban presentes eran mujeres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Present",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gegenwart",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No todos los estudiantes estaban presentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaban presentes todos menos uno"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los estudiantes estaban presentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaban todos presentes, menos María"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los miembros estaban presentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:25.654187Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.671004Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.819609Z": "TRANSLATION_DONE:ukr"
+  }
+}

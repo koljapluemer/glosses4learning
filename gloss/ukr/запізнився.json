@@ -1,0 +1,27 @@
+{
+  "content": "запізнився",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знову запізнився, так﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:late",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:spät",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:58.102606Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:58.117757Z": "TRANSLATION_DONE:deu"
+  }
+}

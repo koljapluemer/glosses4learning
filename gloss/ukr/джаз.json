@@ -1,0 +1,31 @@
+{
+  "content": "джаз",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том раніше любив джаз"
+    ],
+    [
+      "TRANSLATION",
+      "eng:jazz",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jazz",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені не дуже вже й подобається джаз"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:55.938407Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:55.954848Z": "TRANSLATION_DONE:deu"
+  }
+}

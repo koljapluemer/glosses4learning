@@ -1,0 +1,33 @@
+{
+  "content": "presume",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella siempre presume de su buena suerte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have been",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:werde ich ausgeschüttet haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я був",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:13.412515Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:13.431643Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:13.446235Z": "TRANSLATION_DONE:ukr"
+  }
+}

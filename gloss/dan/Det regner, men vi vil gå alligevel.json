@@ -1,0 +1,43 @@
+{
+  "content": "Det regner, men vi vil gå alligevel.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Det"
+    ],
+    [
+      "PART",
+      "dan:regner"
+    ],
+    [
+      "PART",
+      "dan:men"
+    ],
+    [
+      "PART",
+      "dan:vi"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:gå"
+    ],
+    [
+      "PART",
+      "dan:alligevel"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.857974Z": "SPLIT_DONE"
+  }
+}

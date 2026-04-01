@@ -1,0 +1,27 @@
+{
+  "content": "olacağız",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Biz senin için her zaman burada olacağız"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Company",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unternehmen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:34.792049Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:34.807927Z": "TRANSLATION_DONE:deu"
+  }
+}

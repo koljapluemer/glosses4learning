@@ -1,0 +1,43 @@
+{
+  "content": "Katzen sind im allgemeinen kleiner als Hunde.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Katzen"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:allgemeinen"
+    ],
+    [
+      "PART",
+      "deu:kleiner"
+    ],
+    [
+      "PART",
+      "deu:als"
+    ],
+    [
+      "PART",
+      "deu:Hunde"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.420353Z": "SPLIT_DONE"
+  }
+}

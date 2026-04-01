@@ -1,0 +1,35 @@
+{
+  "content": "Tom parecia um pouco confuso.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:parecia"
+    ],
+    [
+      "PART",
+      "por:um"
+    ],
+    [
+      "PART",
+      "por:pouco"
+    ],
+    [
+      "PART",
+      "por:confuso"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.573377Z": "SPLIT_DONE"
+  }
+}

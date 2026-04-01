@@ -1,0 +1,43 @@
+{
+  "content": "Wir sollten für Tom einen Anwalt einschalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:sollten"
+    ],
+    [
+      "PART",
+      "deu:für"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:Anwalt"
+    ],
+    [
+      "PART",
+      "deu:einschalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.421414Z": "SPLIT_DONE"
+  }
+}

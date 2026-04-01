@@ -1,0 +1,43 @@
+{
+  "content": "Ich denke, diese Dinge sind miteinander verbunden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Trikki (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:denke"
+    ],
+    [
+      "PART",
+      "deu:diese"
+    ],
+    [
+      "PART",
+      "deu:Dinge"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "PART",
+      "deu:miteinander"
+    ],
+    [
+      "PART",
+      "deu:verbunden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.380989Z": "SPLIT_DONE"
+  }
+}

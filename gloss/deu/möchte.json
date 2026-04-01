@@ -6,7 +6,9 @@
     "2025-12-12T14:20:42.795482Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:20:44.728084Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2026-03-29T13:21:38.115681Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:38.308097Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:38.308097Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:12.547375Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:12.571630Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -55,6 +57,20 @@
     [
       "TRANSLATION",
       "spa:quiere"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich möchte dazu lieber keinen Kommentar abgeben"
     ]
   ]
 }

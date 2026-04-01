@@ -1,0 +1,33 @@
+{
+  "content": "llegara",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se fue antes de que yo llegara a casa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'll get there",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich komme",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я тут",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:08.175172Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:08.190993Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:08.211079Z": "TRANSLATION_DONE:ukr"
+  }
+}

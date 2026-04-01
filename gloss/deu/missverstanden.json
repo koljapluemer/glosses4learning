@@ -1,0 +1,33 @@
+{
+  "content": "missverstanden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie haben meinen Brief völlig missverstanden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:misunderstood",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бетмен",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:02.966497Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:02.987187Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:03.137349Z": "TRANSLATION_DONE:kor"
+  }
+}

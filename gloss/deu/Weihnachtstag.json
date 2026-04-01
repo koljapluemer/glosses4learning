@@ -1,0 +1,33 @@
+{
+  "content": "Weihnachtstag",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der erste Weihnachtstag fiel in diesem Jahr auf einen Samstag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Christmas Day",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:День Різдва",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:크리스마스의 날",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:32.293158Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:32.308730Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:32.325325Z": "TRANSLATION_DONE:kor"
+  }
+}

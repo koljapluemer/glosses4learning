@@ -1,0 +1,43 @@
+{
+  "content": "Thomas et Maria inter se adnotationes comparaverunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:Maria"
+    ],
+    [
+      "PART",
+      "lat:inter"
+    ],
+    [
+      "PART",
+      "lat:se"
+    ],
+    [
+      "PART",
+      "lat:adnotationes"
+    ],
+    [
+      "PART",
+      "lat:comparaverunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.388213Z": "SPLIT_DONE"
+  }
+}

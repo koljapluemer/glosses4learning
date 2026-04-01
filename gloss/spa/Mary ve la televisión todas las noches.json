@@ -1,0 +1,43 @@
+{
+  "content": "Mary ve la televisión todas las noches.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Mary"
+    ],
+    [
+      "PART",
+      "spa:ve"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:televisión"
+    ],
+    [
+      "PART",
+      "spa:todas"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:noches"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.717061Z": "SPLIT_DONE"
+  }
+}

@@ -9,7 +9,9 @@
     "2026-03-29T13:20:12.242147Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:12.439038Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:12.657734Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:12.858922Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:12.858922Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:53.091722Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:53.135139Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -63,6 +65,20 @@
     [
       "TRANSLATION",
       "ita:aiutano"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Man sollte seinen Freunden helfen"
     ]
   ]
 }

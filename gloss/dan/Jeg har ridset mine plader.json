@@ -1,0 +1,35 @@
+{
+  "content": "Jeg har ridset mine plader.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:ridset"
+    ],
+    [
+      "PART",
+      "dan:mine"
+    ],
+    [
+      "PART",
+      "dan:plader"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.690770Z": "SPLIT_DONE"
+  }
+}

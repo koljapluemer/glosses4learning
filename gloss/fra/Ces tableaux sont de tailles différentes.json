@@ -1,0 +1,39 @@
+{
+  "content": "Ces tableaux sont de tailles différentes.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:tableaux"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:tailles"
+    ],
+    [
+      "PART",
+      "fra:différentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.563462Z": "SPLIT_DONE"
+  }
+}

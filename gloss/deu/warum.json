@@ -6,7 +6,9 @@
     "2026-01-27T14:37:13.128002Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:23:48.804778Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:48.994971Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:23:49.183179Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:23:49.183179Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:43.081991Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:43.097720Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -75,6 +77,20 @@
     [
       "TRANSLATION",
       "rus:почему"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was meinst du, warum das passiert ist﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чому﹖",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:왜﹖",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

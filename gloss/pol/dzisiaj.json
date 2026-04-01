@@ -6,7 +6,9 @@
     "2025-12-16T14:17:43.685Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:17:52.980Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +26,18 @@
     [
       "TRANSLATION",
       "eng:now"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czuję się dzisiaj o wiele lepiej"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Proszę spróbować dzisiaj"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czy Tom dzisiaj cokolwiek jadł﹖"
     ]
   ]
 }

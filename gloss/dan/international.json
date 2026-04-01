@@ -1,0 +1,41 @@
+{
+  "content": "international",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Glædelig international kvindedag!"
+    ],
+    [
+      "TRANSLATION",
+      "deu:international"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weltweit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:international"
+    ],
+    [
+      "TRANSLATION",
+      "eng:global"
+    ],
+    [
+      "TRANSLATION",
+      "eng:worldwide"
+    ],
+    [
+      "TRANSLATION",
+      "eng:transnational"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:29:48.953670Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T07:29:50.182336Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "abusar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas no deberían abusar de los animales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:abuse",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Missbrauch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зловживання",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.681808Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.822995Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.841307Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -11,7 +11,9 @@
     "2026-03-28T09:38:47.257403Z": "TRANSLATION_DONE:fra",
     "2026-03-28T09:38:47.975322Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:38:49.101916Z": "TRANSLATION_DONE:kab",
-    "2026-03-28T09:38:49.920966Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T09:38:49.920966Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:05.154302Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:05.300743Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -113,6 +115,28 @@
     [
       "TRANSLATION",
       "ita:qua"
+    ],
+    [
+      "TRANSLATION",
+      "dan:der"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:там",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:있음",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:туди"
+    ],
+    [
+      "TRANSLATION",
+      "tur:orada"
     ]
   ]
 }

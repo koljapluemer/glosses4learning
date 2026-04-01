@@ -1,0 +1,31 @@
+{
+  "content": "汤姆有预约。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by verdastelo9604 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:有"
+    ],
+    [
+      "PART",
+      "cmn:预约"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.620081Z": "SPLIT_DONE"
+  }
+}

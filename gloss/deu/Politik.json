@@ -8,7 +8,9 @@
     "2026-01-27T14:29:50.915948Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:14:47.213745Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:47.387018Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:14:47.586704Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:14:47.586704Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:35:56.206480Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:56.357459Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,24 @@
     [
       "TRANSLATION",
       "ita:politica"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Історія",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:- 연혁",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:política"
+    ],
+    [
+      "TRANSLATION",
+      "spa:políticas"
     ]
   ]
 }

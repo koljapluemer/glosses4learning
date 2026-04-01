@@ -13,6 +13,27 @@
     [
       "TRANSLATION",
       "nob:japansk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que tous les deux comprennent le japonais ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Japanese",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Japan",
+      "Auto-translated with argostranslate (fr→en→de)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:29.398886Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:29.542100Z": "TRANSLATION_DONE:deu"
+  }
 }

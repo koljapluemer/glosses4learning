@@ -1,0 +1,27 @@
+{
+  "content": "Jeden, dwa, trzy!",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by vxern (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jeden"
+    ],
+    [
+      "PART",
+      "pol:dwa"
+    ],
+    [
+      "PART",
+      "pol:trzy"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.780955Z": "SPLIT_DONE"
+  }
+}

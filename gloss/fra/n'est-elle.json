@@ -1,0 +1,27 @@
+{
+  "content": "n'est-elle",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Cette fleur n'est-elle pas magnifique ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is she not",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ist sie nicht",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:36.383265Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:36.401580Z": "TRANSLATION_DONE:deu"
+  }
+}

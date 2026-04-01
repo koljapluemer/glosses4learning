@@ -1,0 +1,39 @@
+{
+  "content": "Moje rodina je zde se mnou.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by imboreeed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:rodina"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:zde"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:mnou"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.796563Z": "SPLIT_DONE"
+  }
+}

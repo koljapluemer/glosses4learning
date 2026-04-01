@@ -1,0 +1,31 @@
+{
+  "content": "останнім",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Кому ви допомогли останнім часом﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:last",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Letzter Beitrag",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я майже не виходжу на вулицю останнім часом"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:04.879479Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:04.894170Z": "TRANSLATION_DONE:deu"
+  }
+}

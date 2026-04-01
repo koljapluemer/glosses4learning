@@ -1,0 +1,33 @@
+{
+  "content": "necesitaba",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella necesitaba el dinero desesperadamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I needed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich brauchte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мені потрібно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.756871Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.772171Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.788072Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "In hoc aedificio laboro.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:In"
+    ],
+    [
+      "PART",
+      "lat:hoc"
+    ],
+    [
+      "PART",
+      "lat:aedificio"
+    ],
+    [
+      "PART",
+      "lat:laboro"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.382114Z": "SPLIT_DONE"
+  }
+}

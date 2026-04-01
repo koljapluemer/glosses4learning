@@ -1,0 +1,35 @@
+{
+  "content": "Eu te devo cinco dólares.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alicup (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:te"
+    ],
+    [
+      "PART",
+      "por:devo"
+    ],
+    [
+      "PART",
+      "por:cinco"
+    ],
+    [
+      "PART",
+      "por:dólares"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.536078Z": "SPLIT_DONE"
+  }
+}

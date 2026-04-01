@@ -1,0 +1,27 @@
+{
+  "content": "bukser",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke finde mine bukser"
+    ],
+    [
+      "TRANSLATION",
+      "eng:trousers",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hosen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:54.121216Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:54.267699Z": "TRANSLATION_DONE:deu"
+  }
+}

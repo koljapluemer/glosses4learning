@@ -1,0 +1,25 @@
+{
+  "content": "morgon",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:I morgon bitti börjar vi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:morning morning morning morning",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag lovar att jag ska sluta att skjuta saker på framtiden. I morgon"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:59.041737Z": "TRANSLATION_DONE:eng"
+  }
+}

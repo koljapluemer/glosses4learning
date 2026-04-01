@@ -1,0 +1,35 @@
+{
+  "content": "Ora sono le cinque circa.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Ora"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:le"
+    ],
+    [
+      "PART",
+      "ita:cinque"
+    ],
+    [
+      "PART",
+      "ita:circa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.819865Z": "SPLIT_DONE"
+  }
+}

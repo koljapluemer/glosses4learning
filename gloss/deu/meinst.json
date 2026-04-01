@@ -1,0 +1,33 @@
+{
+  "content": "meinst",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was meinst du, warum das passiert ist﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mean",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:11.231185Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:11.252535Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:11.269402Z": "TRANSLATION_DONE:kor"
+  }
+}

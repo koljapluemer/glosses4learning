@@ -1,0 +1,31 @@
+{
+  "content": "додому",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Відправ Тома додому"
+    ],
+    [
+      "TRANSLATION",
+      "eng:home",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zuhause",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том взяв таксі, щоб повернутися додому"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:56.502011Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:56.515329Z": "TRANSLATION_DONE:deu"
+  }
+}

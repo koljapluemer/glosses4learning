@@ -1,0 +1,27 @@
+{
+  "content": "sine",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom holder fysisk afstand til sine medmennesker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:its",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:seine",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:42.379136Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:42.522407Z": "TRANSLATION_DONE:deu"
+  }
+}

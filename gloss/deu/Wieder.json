@@ -1,0 +1,33 @@
+{
+  "content": "Wieder",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wieder einmal ist Weihnachten gekommen und vorübergegangen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Again",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:33.401565Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:33.417765Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:33.433841Z": "TRANSLATION_DONE:kor"
+  }
+}

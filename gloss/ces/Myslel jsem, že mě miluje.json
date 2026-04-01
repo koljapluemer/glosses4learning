@@ -1,0 +1,35 @@
+{
+  "content": "Myslel jsem, že mě miluje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Myslel"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:mě"
+    ],
+    [
+      "PART",
+      "ces:miluje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.765493Z": "SPLIT_DONE"
+  }
+}

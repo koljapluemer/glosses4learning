@@ -1,0 +1,31 @@
+{
+  "content": "Звони, если что-то понадобится.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Звони"
+    ],
+    [
+      "PART",
+      "rus:если"
+    ],
+    [
+      "PART",
+      "rus:что-то"
+    ],
+    [
+      "PART",
+      "rus:понадобится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.598045Z": "SPLIT_DONE"
+  }
+}

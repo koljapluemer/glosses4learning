@@ -1,0 +1,35 @@
+{
+  "content": "Ο Τομ μετακόμισε στην Αυστραλία.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Ο"
+    ],
+    [
+      "PART",
+      "ell:Τομ"
+    ],
+    [
+      "PART",
+      "ell:μετακόμισε"
+    ],
+    [
+      "PART",
+      "ell:στην"
+    ],
+    [
+      "PART",
+      "ell:Αυστραλία"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:06.612807Z": "SPLIT_DONE"
+  }
+}

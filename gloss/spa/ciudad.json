@@ -2,8 +2,13 @@
   "content": "ciudad",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:52:33.796665Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:33.815560Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -13,6 +18,20 @@
     [
       "TRANSLATION",
       "eng:city"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están en el medio de los ruidos de la ciudad"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stadt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ужгород",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

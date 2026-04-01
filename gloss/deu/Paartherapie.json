@@ -1,0 +1,33 @@
+{
+  "content": "Paartherapie",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielleicht sollten Sie einmal eine Paartherapie ausprobieren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Couple therapy",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Паратерапія",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:커플 치료",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:53.694634Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:53.722343Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:53.740609Z": "TRANSLATION_DONE:kor"
+  }
+}

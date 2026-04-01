@@ -1,0 +1,39 @@
+{
+  "content": "Я думаю, Том добре говорить французькою.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:думаю"
+    ],
+    [
+      "PART",
+      "ukr:Том"
+    ],
+    [
+      "PART",
+      "ukr:добре"
+    ],
+    [
+      "PART",
+      "ukr:говорить"
+    ],
+    [
+      "PART",
+      "ukr:французькою"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.995424Z": "SPLIT_DONE"
+  }
+}

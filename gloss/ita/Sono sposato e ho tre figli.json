@@ -1,0 +1,39 @@
+{
+  "content": "Sono sposato e ho tre figli.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:sposato"
+    ],
+    [
+      "PART",
+      "ita:e"
+    ],
+    [
+      "PART",
+      "ita:ho"
+    ],
+    [
+      "PART",
+      "ita:tre"
+    ],
+    [
+      "PART",
+      "ita:figli"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.909961Z": "SPLIT_DONE"
+  }
+}

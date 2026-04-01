@@ -1,0 +1,33 @@
+{
+  "content": "非常",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:Mike非常喜欢动物。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:汤姆是一个非常好看的男人。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她是一個非常有趣的人。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Very",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她問了一個非常好的問題。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:18.577926Z": "TRANSLATION_DONE:eng"
+  }
+}

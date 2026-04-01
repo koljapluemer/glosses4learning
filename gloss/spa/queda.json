@@ -1,0 +1,33 @@
+{
+  "content": "queda",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Usualmente Tom se queda en hoteles cinco estrellas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That's it",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das ist es",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що це таке",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:27.292262Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:27.354736Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:27.528887Z": "TRANSLATION_DONE:ukr"
+  }
+}

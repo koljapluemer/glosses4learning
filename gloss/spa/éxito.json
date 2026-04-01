@@ -1,0 +1,37 @@
+{
+  "content": "éxito",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no creo que ella tenga éxito"
+    ],
+    [
+      "TRANSLATION",
+      "eng:success",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erfolgreich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Успіх",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay una posibilidad de que ella tenga éxito"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:45.133924Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:45.148793Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:45.163721Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "modales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella tiene muy buenos modales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:manners",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Manieren",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мапи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.987642Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.002646Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.019128Z": "TRANSLATION_DONE:ukr"
+  }
+}

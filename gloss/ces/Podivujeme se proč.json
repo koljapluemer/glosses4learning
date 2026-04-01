@@ -1,0 +1,27 @@
+{
+  "content": "Podivujeme se proč.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jms (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Podivujeme"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:proč"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.724466Z": "SPLIT_DONE"
+  }
+}

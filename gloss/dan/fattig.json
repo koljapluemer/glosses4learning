@@ -1,0 +1,27 @@
+{
+  "content": "fattig",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du er ikke fattig som jeg er"
+    ],
+    [
+      "TRANSLATION",
+      "eng:poor",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:arm",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:08.657644Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:08.796761Z": "TRANSLATION_DONE:deu"
+  }
+}

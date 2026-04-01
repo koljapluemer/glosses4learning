@@ -1,0 +1,39 @@
+{
+  "content": "Мне нужно, чтобы вы мне позвонили.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:нужно"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:вы"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонили"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.588283Z": "SPLIT_DONE"
+  }
+}

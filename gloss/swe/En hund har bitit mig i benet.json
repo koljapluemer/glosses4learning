@@ -1,0 +1,43 @@
+{
+  "content": "En hund har bitit mig i benet.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by viorayli (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:En"
+    ],
+    [
+      "PART",
+      "swe:hund"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:bitit"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:i"
+    ],
+    [
+      "PART",
+      "swe:benet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.802623Z": "SPLIT_DONE"
+  }
+}

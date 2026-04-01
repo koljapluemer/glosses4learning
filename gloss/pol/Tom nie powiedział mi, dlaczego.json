@@ -1,0 +1,35 @@
+{
+  "content": "Tom nie powiedział mi, dlaczego.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:dlaczego"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.278506Z": "SPLIT_DONE"
+  }
+}

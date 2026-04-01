@@ -1,0 +1,47 @@
+{
+  "content": "Lingua Hebraica et lingua Phoenicia sunt linguae Chananaeae.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Lingua"
+    ],
+    [
+      "PART",
+      "lat:Hebraica"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:lingua"
+    ],
+    [
+      "PART",
+      "lat:Phoenicia"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ],
+    [
+      "PART",
+      "lat:linguae"
+    ],
+    [
+      "PART",
+      "lat:Chananaeae"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.338509Z": "SPLIT_DONE"
+  }
+}

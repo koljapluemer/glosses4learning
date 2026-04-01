@@ -1,0 +1,39 @@
+{
+  "content": "Queste scarpe sono fatte in Italia.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ml_tatoeba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Queste"
+    ],
+    [
+      "PART",
+      "ita:scarpe"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:fatte"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:Italia"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.928310Z": "SPLIT_DONE"
+  }
+}

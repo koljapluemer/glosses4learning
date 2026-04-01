@@ -1,0 +1,37 @@
+{
+  "content": "reiner",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Macht es Spaß, sich an einem elastischen Band in die Tiefe stürzen zu lassen, oder ist es reiner Nervenkitzel﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pure",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чистий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er macht das aus reiner Schikane, weil er genau weiß, daß ich mich darüber ärgere"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:16.164547Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:16.182357Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:16.207485Z": "TRANSLATION_DONE:kor"
+  }
+}

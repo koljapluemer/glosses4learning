@@ -1,0 +1,33 @@
+{
+  "content": "fundamentales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El gobierno tiene que hacer cambios fundamentales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:core",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kern",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.175209Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.188538Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.204139Z": "TRANSLATION_DONE:ukr"
+  }
+}

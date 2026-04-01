@@ -1,0 +1,27 @@
+{
+  "content": "Vinden",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vinden blæste hans hat af"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The wind",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Der Wind",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:15.500472Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:15.646786Z": "TRANSLATION_DONE:deu"
+  }
+}

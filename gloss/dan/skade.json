@@ -1,0 +1,27 @@
+{
+  "content": "skade",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er glad for at du ikke kom til skade"
+    ],
+    [
+      "TRANSLATION",
+      "eng:damage",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schaden",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:29.584228Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:29.817345Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "llenos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los hoteles están llenos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:filled",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefüllt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:начинка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.709250Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.709640Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.709938Z": "TRANSLATION_DONE:ukr"
+  }
+}

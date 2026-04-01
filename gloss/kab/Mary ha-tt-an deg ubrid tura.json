@@ -1,0 +1,35 @@
+{
+  "content": "Mary ha-tt-an deg ubrid tura.",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Igider (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "kab:Mary"
+    ],
+    [
+      "PART",
+      "kab:ha-tt-an"
+    ],
+    [
+      "PART",
+      "kab:deg"
+    ],
+    [
+      "PART",
+      "kab:ubrid"
+    ],
+    [
+      "PART",
+      "kab:tura"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:29.173571Z": "SPLIT_DONE"
+  }
+}

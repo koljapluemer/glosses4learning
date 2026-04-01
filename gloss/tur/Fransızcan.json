@@ -1,0 +1,27 @@
+{
+  "content": "Fransızcan",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin Fransızcan benimkinden daha iyi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:English",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Englisch",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:44.790456Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:44.803332Z": "TRANSLATION_DONE:deu"
+  }
+}

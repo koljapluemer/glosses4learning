@@ -1,0 +1,35 @@
+{
+  "content": "這是一所公立學校。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by DaoSeng (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:這是"
+    ],
+    [
+      "PART",
+      "cmn:一所"
+    ],
+    [
+      "PART",
+      "cmn:公立"
+    ],
+    [
+      "PART",
+      "cmn:學校"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.695514Z": "SPLIT_DONE"
+  }
+}

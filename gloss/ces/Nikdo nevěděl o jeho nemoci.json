@@ -1,0 +1,35 @@
+{
+  "content": "Nikdo nevěděl o jeho nemoci.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lovermann (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nikdo"
+    ],
+    [
+      "PART",
+      "ces:nevěděl"
+    ],
+    [
+      "PART",
+      "ces:o"
+    ],
+    [
+      "PART",
+      "ces:jeho"
+    ],
+    [
+      "PART",
+      "ces:nemoci"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.755566Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "rødbeder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke lide rødbeder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Beetroot",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rote Rüben",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:21.098622Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:21.334514Z": "TRANSLATION_DONE:deu"
+  }
+}

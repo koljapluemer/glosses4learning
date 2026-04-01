@@ -1,0 +1,35 @@
+{
+  "content": "Jag vill lära mig standardengelska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HannesP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:vill"
+    ],
+    [
+      "PART",
+      "swe:lära"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:standardengelska"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.035484Z": "SPLIT_DONE"
+  }
+}

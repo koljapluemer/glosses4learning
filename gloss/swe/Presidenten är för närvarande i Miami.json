@@ -1,0 +1,39 @@
+{
+  "content": "Presidenten är för närvarande i Miami.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Presidenten"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:närvarande"
+    ],
+    [
+      "PART",
+      "swe:i"
+    ],
+    [
+      "PART",
+      "swe:Miami"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.840087Z": "SPLIT_DONE"
+  }
+}

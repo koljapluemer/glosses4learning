@@ -1,0 +1,35 @@
+{
+  "content": "Sono abituato a questo computer.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:abituato"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:questo"
+    ],
+    [
+      "PART",
+      "ita:computer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.739815Z": "SPLIT_DONE"
+  }
+}

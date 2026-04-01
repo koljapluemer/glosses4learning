@@ -1,0 +1,33 @@
+{
+  "content": "Pero",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pero los resultados pueden ser mortales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:But",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aber",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Але",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:56.997961Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.028400Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.042509Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "sukkersyge",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det der kan jeg ikke spise. Jeg har sukkersyge"
+    ],
+    [
+      "TRANSLATION",
+      "eng:diabetes",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Diabetes",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:41.720458Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:41.861314Z": "TRANSLATION_DONE:deu"
+  }
+}

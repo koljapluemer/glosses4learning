@@ -1,0 +1,39 @@
+{
+  "content": "你今天最好不要出門。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:今天"
+    ],
+    [
+      "PART",
+      "cmn:最好"
+    ],
+    [
+      "PART",
+      "cmn:不要"
+    ],
+    [
+      "PART",
+      "cmn:出門"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:21.671288Z": "SPLIT_DONE"
+  }
+}

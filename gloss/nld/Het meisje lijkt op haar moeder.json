@@ -1,0 +1,39 @@
+{
+  "content": "Het meisje lijkt op haar moeder.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Citrine (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Het"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ],
+    [
+      "PART",
+      "nld:lijkt"
+    ],
+    [
+      "PART",
+      "nld:op"
+    ],
+    [
+      "PART",
+      "nld:haar"
+    ],
+    [
+      "PART",
+      "nld:moeder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.170170Z": "SPLIT_DONE"
+  }
+}

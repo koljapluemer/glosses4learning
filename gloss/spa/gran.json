@@ -10,7 +10,8 @@
     "2026-03-29T14:24:06.755434Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:06.924619Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:07.106549Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:07.262858Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:07.262858Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:57.560400Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,15 @@
     [
       "TRANSLATION",
       "tur:büyük"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:великий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella le tiene un gran miedo a las serpientes"
     ]
   ]
 }

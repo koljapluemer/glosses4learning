@@ -1,0 +1,43 @@
+{
+  "content": "Iedereen weet dat je Tom geslagen hebt.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Nylez (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Iedereen"
+    ],
+    [
+      "PART",
+      "nld:weet"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:geslagen"
+    ],
+    [
+      "PART",
+      "nld:hebt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.134974Z": "SPLIT_DONE"
+  }
+}

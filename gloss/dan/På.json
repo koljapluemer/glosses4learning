@@ -1,0 +1,31 @@
+{
+  "content": "På",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:På hvilken planet befinder du dig﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:På havet herskede der i går en voldsom søgang"
+    ],
+    [
+      "TRANSLATION",
+      "eng:On",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auf",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:13.252623Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:13.402467Z": "TRANSLATION_DONE:deu"
+  }
+}

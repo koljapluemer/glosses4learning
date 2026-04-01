@@ -1,0 +1,47 @@
+{
+  "content": "Est-ce que tu as commencé à apprendre l'anglais ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Goofy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:as"
+    ],
+    [
+      "PART",
+      "fra:commencé"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:apprendre"
+    ],
+    [
+      "PART",
+      "fra:l'anglais"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.398848Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "кричати",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том був занадто переляканий, щоб кричати"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shouting",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schreien",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.426285Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.440998Z": "TRANSLATION_DONE:deu"
+  }
+}

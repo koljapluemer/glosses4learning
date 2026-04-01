@@ -1,0 +1,35 @@
+{
+  "content": "Он выдвигался как независимый кандидат.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alik_farber (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Он"
+    ],
+    [
+      "PART",
+      "rus:выдвигался"
+    ],
+    [
+      "PART",
+      "rus:как"
+    ],
+    [
+      "PART",
+      "rus:независимый"
+    ],
+    [
+      "PART",
+      "rus:кандидат"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.189488Z": "SPLIT_DONE"
+  }
+}

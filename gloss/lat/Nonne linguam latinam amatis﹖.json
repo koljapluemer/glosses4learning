@@ -1,0 +1,31 @@
+{
+  "content": "Nonne linguam latinam amatis?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nonne"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:latinam"
+    ],
+    [
+      "PART",
+      "lat:amatis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.273695Z": "SPLIT_DONE"
+  }
+}

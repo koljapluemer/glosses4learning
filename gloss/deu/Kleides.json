@@ -1,0 +1,33 @@
+{
+  "content": "Kleides",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du mir den Reißverschluss meines Kleides zuziehen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Dresses",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сукні",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:옷걸이",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:55.731580Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:55.747608Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:55.763775Z": "TRANSLATION_DONE:kor"
+  }
+}

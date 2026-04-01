@@ -1,0 +1,35 @@
+{
+  "content": "Waarom willen jullie een paard?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarom"
+    ],
+    [
+      "PART",
+      "nld:willen"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:paard"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.149260Z": "SPLIT_DONE"
+  }
+}

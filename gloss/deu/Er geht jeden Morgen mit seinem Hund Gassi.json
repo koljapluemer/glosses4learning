@@ -1,0 +1,47 @@
+{
+  "content": "Er geht jeden Morgen mit seinem Hund Gassi.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Er"
+    ],
+    [
+      "PART",
+      "deu:geht"
+    ],
+    [
+      "PART",
+      "deu:jeden"
+    ],
+    [
+      "PART",
+      "deu:Morgen"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:seinem"
+    ],
+    [
+      "PART",
+      "deu:Hund"
+    ],
+    [
+      "PART",
+      "deu:Gassi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.510801Z": "SPLIT_DONE"
+  }
+}

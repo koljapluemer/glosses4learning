@@ -1,0 +1,27 @@
+{
+  "content": "Nejsem tvoje matka.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nejsem"
+    ],
+    [
+      "PART",
+      "ces:tvoje"
+    ],
+    [
+      "PART",
+      "ces:matka"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.775124Z": "SPLIT_DONE"
+  }
+}

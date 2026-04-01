@@ -1,0 +1,27 @@
+{
+  "content": "будемо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми також повинні будемо це зробити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yes, we will",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ja, das werden wir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.361655Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.382074Z": "TRANSLATION_DONE:deu"
+  }
+}

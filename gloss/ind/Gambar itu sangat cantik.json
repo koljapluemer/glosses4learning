@@ -1,0 +1,31 @@
+{
+  "content": "Gambar itu sangat cantik.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Gambar"
+    ],
+    [
+      "PART",
+      "ind:itu"
+    ],
+    [
+      "PART",
+      "ind:sangat"
+    ],
+    [
+      "PART",
+      "ind:cantik"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.859101Z": "SPLIT_DONE"
+  }
+}

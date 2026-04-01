@@ -1,0 +1,37 @@
+{
+  "content": "amenaza",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos nos consideran una amenaza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:threat",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bedrohung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:загроза",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los rinocerontes pueden ser una amenaza mortal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:25.133093Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:25.281329Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:25.299355Z": "TRANSLATION_DONE:ukr"
+  }
+}

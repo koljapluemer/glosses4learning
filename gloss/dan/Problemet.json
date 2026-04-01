@@ -1,0 +1,27 @@
+{
+  "content": "Problemet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Problemet vil løse sig selv med tiden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Problem",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Problem",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:13.087574Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:13.238856Z": "TRANSLATION_DONE:deu"
+  }
+}

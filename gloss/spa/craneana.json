@@ -1,0 +1,33 @@
+{
+  "content": "craneana",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los animales tienen caja craneana"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cranean",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kranich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:крана",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:02.077179Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:02.090975Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:02.105740Z": "TRANSLATION_DONE:ukr"
+  }
+}

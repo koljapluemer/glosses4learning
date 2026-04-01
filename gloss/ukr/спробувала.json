@@ -1,0 +1,27 @@
+{
+  "content": "спробувала",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вона спробувала вчинити самогубство"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tried",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:versucht",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:11.889029Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:12.034642Z": "TRANSLATION_DONE:deu"
+  }
+}

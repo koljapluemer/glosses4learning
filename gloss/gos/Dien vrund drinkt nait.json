@@ -1,0 +1,31 @@
+{
+  "content": "Dien vrund drinkt nait.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Dien"
+    ],
+    [
+      "PART",
+      "gos:vrund"
+    ],
+    [
+      "PART",
+      "gos:drinkt"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.687119Z": "SPLIT_DONE"
+  }
+}

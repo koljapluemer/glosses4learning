@@ -1,0 +1,39 @@
+{
+  "content": "Eu costumo assistir filmes em Francês.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:costumo"
+    ],
+    [
+      "PART",
+      "por:assistir"
+    ],
+    [
+      "PART",
+      "por:filmes"
+    ],
+    [
+      "PART",
+      "por:em"
+    ],
+    [
+      "PART",
+      "por:Francês"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.581672Z": "SPLIT_DONE"
+  }
+}

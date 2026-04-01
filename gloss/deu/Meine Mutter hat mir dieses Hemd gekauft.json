@@ -1,0 +1,43 @@
+{
+  "content": "Meine Mutter hat mir dieses Hemd gekauft.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Mutter"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:dieses"
+    ],
+    [
+      "PART",
+      "deu:Hemd"
+    ],
+    [
+      "PART",
+      "deu:gekauft"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.415098Z": "SPLIT_DONE"
+  }
+}

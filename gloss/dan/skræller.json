@@ -1,0 +1,27 @@
+{
+  "content": "skræller",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Nogle lærere skræller kartofler medens de underviser"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Peel",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hülsenfrüchte",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:43.065868Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:43.229669Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom ei ole mikään uhka.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:ei"
+    ],
+    [
+      "PART",
+      "fin:ole"
+    ],
+    [
+      "PART",
+      "fin:mikään"
+    ],
+    [
+      "PART",
+      "fin:uhka"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.913463Z": "SPLIT_DONE"
+  }
+}

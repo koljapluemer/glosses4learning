@@ -1,0 +1,51 @@
+{
+  "content": "\"Tom kan lide Mary.\" \"Ja, det ved jeg godt.\"",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:lide"
+    ],
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:Ja"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:ved"
+    ],
+    [
+      "PART",
+      "dan:jeg"
+    ],
+    [
+      "PART",
+      "dan:godt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.582980Z": "SPLIT_DONE"
+  }
+}

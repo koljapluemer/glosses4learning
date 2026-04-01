@@ -1,0 +1,27 @@
+{
+  "content": "ต้อนรับ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ขอบคุณสำหรับการต้อนรับของคุณ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Welcome",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Willkommen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:34.316741Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:34.360966Z": "TRANSLATION_DONE:deu"
+  }
+}

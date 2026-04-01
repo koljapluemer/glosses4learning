@@ -1,0 +1,35 @@
+{
+  "content": "นี่คือบ้านของพวกเขา",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:นี่"
+    ],
+    [
+      "PART",
+      "tha:คือ"
+    ],
+    [
+      "PART",
+      "tha:บ้าน"
+    ],
+    [
+      "PART",
+      "tha:ของ"
+    ],
+    [
+      "PART",
+      "tha:พวกเขา"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:23.900211Z": "SPLIT_DONE"
+  }
+}

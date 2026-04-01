@@ -1,0 +1,35 @@
+{
+  "content": "Tom gjorde det sikkert selv.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:gjorde"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:sikkert"
+    ],
+    [
+      "PART",
+      "nob:selv"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.198767Z": "SPLIT_DONE"
+  }
+}

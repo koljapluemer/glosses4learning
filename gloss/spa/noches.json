@@ -1,0 +1,41 @@
+{
+  "content": "noches",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mary mira televisión todas las noches"
+    ],
+    [
+      "TRANSLATION",
+      "eng:nights",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Übernachtungen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ночі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él mira la tele todas las noches"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mary ve la televisión todas las noches"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:19.097935Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:19.111663Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:19.127572Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "hablas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿En qué idioma hablas con Tom normalmente﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What are you talking about﹖",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wovon redest du﹖",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що ви йдете﹖",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.614083Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.636047Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.658587Z": "TRANSLATION_DONE:ukr"
+  }
+}

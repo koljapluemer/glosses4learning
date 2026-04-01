@@ -1,0 +1,39 @@
+{
+  "content": "Dit zel n biezundere zummer worden.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Dit"
+    ],
+    [
+      "PART",
+      "gos:zel"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:biezundere"
+    ],
+    [
+      "PART",
+      "gos:zummer"
+    ],
+    [
+      "PART",
+      "gos:worden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.412893Z": "SPLIT_DONE"
+  }
+}

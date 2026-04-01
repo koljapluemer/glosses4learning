@@ -1,0 +1,35 @@
+{
+  "content": "Bạn có sợ Tom không?",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leucammieuvu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Bạn"
+    ],
+    [
+      "PART",
+      "vie:có"
+    ],
+    [
+      "PART",
+      "vie:sợ"
+    ],
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:không"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.025361Z": "SPLIT_DONE"
+  }
+}

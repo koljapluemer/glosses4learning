@@ -1,0 +1,35 @@
+{
+  "content": "Той гледа телевизия всеки ден.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ednorog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Той"
+    ],
+    [
+      "PART",
+      "bul:гледа"
+    ],
+    [
+      "PART",
+      "bul:телевизия"
+    ],
+    [
+      "PART",
+      "bul:всеки"
+    ],
+    [
+      "PART",
+      "bul:ден"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:02.235325Z": "SPLIT_DONE"
+  }
+}

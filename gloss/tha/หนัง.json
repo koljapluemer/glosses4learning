@@ -1,0 +1,35 @@
+{
+  "content": "หนัง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:หนังเรื่องนี้เป็นเรื่องที่ถกเถียงกันอย่างมาก"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:พวกเราจะดูหนังตอนนี้เลยมั้ย﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Movies",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Filme",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันเคยดูหนังเรื่องนั้นมาก่อน"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:18.333720Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:18.350506Z": "TRANSLATION_DONE:deu"
+  }
+}

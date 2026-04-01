@@ -1,0 +1,39 @@
+{
+  "content": "Ska vi berätta sanningen för Tom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Ska"
+    ],
+    [
+      "PART",
+      "swe:vi"
+    ],
+    [
+      "PART",
+      "swe:berätta"
+    ],
+    [
+      "PART",
+      "swe:sanningen"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.962936Z": "SPLIT_DONE"
+  }
+}

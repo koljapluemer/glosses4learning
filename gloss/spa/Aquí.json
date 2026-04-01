@@ -1,0 +1,33 @@
+{
+  "content": "Aquí",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Aquí tenéis algunos detalles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Here",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hier",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:55.805430Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:55.819165Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:55.837098Z": "TRANSLATION_DONE:ukr"
+  }
+}

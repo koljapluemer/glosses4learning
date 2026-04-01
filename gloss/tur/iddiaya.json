@@ -1,0 +1,27 @@
+{
+  "content": "iddiaya",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin ağlamayacağı konusunda benimle iddiaya girdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:claim",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Anspruch",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:47.956210Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:48.102136Z": "TRANSLATION_DONE:deu"
+  }
+}

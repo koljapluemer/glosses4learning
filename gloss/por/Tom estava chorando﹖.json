@@ -1,0 +1,27 @@
+{
+  "content": "Tom estava chorando?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:estava"
+    ],
+    [
+      "PART",
+      "por:chorando"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.583364Z": "SPLIT_DONE"
+  }
+}

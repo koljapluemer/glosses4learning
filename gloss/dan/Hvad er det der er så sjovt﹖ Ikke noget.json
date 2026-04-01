@@ -1,0 +1,47 @@
+{
+  "content": "\"Hvad er det der er så sjovt?\" \"Ikke noget.\"",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hvad"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:der"
+    ],
+    [
+      "PART",
+      "dan:så"
+    ],
+    [
+      "PART",
+      "dan:sjovt"
+    ],
+    [
+      "PART",
+      "dan:Ikke"
+    ],
+    [
+      "PART",
+      "dan:noget"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.574439Z": "SPLIT_DONE"
+  }
+}

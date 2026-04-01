@@ -1,0 +1,43 @@
+{
+  "content": "Tengo algunos amigos de los Estados Unidos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Goatstein (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tengo"
+    ],
+    [
+      "PART",
+      "spa:algunos"
+    ],
+    [
+      "PART",
+      "spa:amigos"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:Estados"
+    ],
+    [
+      "PART",
+      "spa:Unidos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.559424Z": "SPLIT_DONE"
+  }
+}

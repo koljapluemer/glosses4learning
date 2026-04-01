@@ -1,0 +1,51 @@
+{
+  "content": "Est-ce qu'il y a de l'essence dans la voiture ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by FiRez (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'il"
+    ],
+    [
+      "PART",
+      "fra:y"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:l'essence"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:voiture"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.366797Z": "SPLIT_DONE"
+  }
+}

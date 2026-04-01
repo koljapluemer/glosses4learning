@@ -1,0 +1,33 @@
+{
+  "content": "femenino",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:51,8% de los habitantes son del sexo femenino"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Female",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frauen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дружина",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:54.466774Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:54.618090Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:54.669836Z": "TRANSLATION_DONE:ukr"
+  }
+}

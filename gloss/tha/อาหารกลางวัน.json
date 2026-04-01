@@ -1,0 +1,31 @@
+{
+  "content": "อาหารกลางวัน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมกินแซนด์วิชสำหรับอาหารกลางวันหรือไม่"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Lunch",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittagessen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ขอบคุณสำหรับอาหารกลางวัน"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:20.024778Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:20.039840Z": "TRANSLATION_DONE:deu"
+  }
+}

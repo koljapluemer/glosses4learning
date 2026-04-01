@@ -1,0 +1,35 @@
+{
+  "content": "Teď jsem na autobusové zastávce.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Teď"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:autobusové"
+    ],
+    [
+      "PART",
+      "ces:zastávce"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.105313Z": "SPLIT_DONE"
+  }
+}

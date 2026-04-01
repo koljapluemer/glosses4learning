@@ -1,0 +1,33 @@
+{
+  "content": "vorübergegangen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wieder einmal ist Weihnachten gekommen und vorübergegangen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:previous",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Попередній",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:42.364621Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:42.380770Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:42.397555Z": "TRANSLATION_DONE:kor"
+  }
+}

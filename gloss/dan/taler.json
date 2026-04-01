@@ -1,0 +1,27 @@
+{
+  "content": "taler",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor taler vi ikke sammen over en kop kaffe﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speaker",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lautsprecher",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:46.979918Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:47.141795Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Я понимаю, почему вам это так не нравится.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:понимаю"
+    ],
+    [
+      "PART",
+      "rus:почему"
+    ],
+    [
+      "PART",
+      "rus:вам"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:так"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:нравится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.702940Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Czemu nie powiedziałeś tego wcześniej?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czemu"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:powiedziałeś"
+    ],
+    [
+      "PART",
+      "pol:tego"
+    ],
+    [
+      "PART",
+      "pol:wcześniej"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.304601Z": "SPLIT_DONE"
+  }
+}

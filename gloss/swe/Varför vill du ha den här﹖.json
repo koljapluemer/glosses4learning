@@ -1,0 +1,39 @@
+{
+  "content": "Varför vill du ha den här?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Varför"
+    ],
+    [
+      "PART",
+      "swe:vill"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:ha"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.904352Z": "SPLIT_DONE"
+  }
+}

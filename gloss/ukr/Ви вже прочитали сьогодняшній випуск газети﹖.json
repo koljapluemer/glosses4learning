@@ -1,0 +1,39 @@
+{
+  "content": "Ви вже прочитали сьогодняшній випуск газети?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Ви"
+    ],
+    [
+      "PART",
+      "ukr:вже"
+    ],
+    [
+      "PART",
+      "ukr:прочитали"
+    ],
+    [
+      "PART",
+      "ukr:сьогодняшній"
+    ],
+    [
+      "PART",
+      "ukr:випуск"
+    ],
+    [
+      "PART",
+      "ukr:газети"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.900021Z": "SPLIT_DONE"
+  }
+}

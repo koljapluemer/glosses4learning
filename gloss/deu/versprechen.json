@@ -1,0 +1,33 @@
+{
+  "content": "versprechen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte versprechen Sie, daß Sie es niemandem sagen werden!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Promise",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Промізації",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:38.950267Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:39.096270Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:39.250891Z": "TRANSLATION_DONE:kor"
+  }
+}

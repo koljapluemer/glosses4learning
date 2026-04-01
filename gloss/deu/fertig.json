@@ -9,7 +9,9 @@
     "2026-03-29T13:18:46.422534Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:46.621233Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:18:46.794147Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:18:46.975753Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:18:46.975753Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:21.928619Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:21.970476Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -71,6 +73,24 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich bin gerade mit dem Kaufen einer Zutaten fertig für das Abendessen geworden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Abendessen wird um 18﹕30 Uhr fertig sein"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:готове",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bist du fertig mit deinen Hausaufgaben﹖"
     ]
   ]
 }

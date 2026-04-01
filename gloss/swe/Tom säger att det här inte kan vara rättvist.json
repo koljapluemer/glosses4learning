@@ -1,0 +1,51 @@
+{
+  "content": "Tom säger att det här inte kan vara rättvist.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickrobson (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:säger"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:vara"
+    ],
+    [
+      "PART",
+      "swe:rättvist"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.892134Z": "SPLIT_DONE"
+  }
+}

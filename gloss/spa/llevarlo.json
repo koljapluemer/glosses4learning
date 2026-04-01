@@ -1,0 +1,33 @@
+{
+  "content": "llevarlo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no puedes llevarlo contigo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Take him",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nimm ihn",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Прийміть його",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:08.241926Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:08.261169Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:08.286466Z": "TRANSLATION_DONE:ukr"
+  }
+}

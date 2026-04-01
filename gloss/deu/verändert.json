@@ -1,0 +1,33 @@
+{
+  "content": "verändert",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Mädchen hat seinen Look verändert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Change",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:- 기타",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:04.283987Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:04.300107Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:04.320082Z": "TRANSLATION_DONE:kor"
+  }
+}

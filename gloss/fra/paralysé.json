@@ -1,0 +1,27 @@
+{
+  "content": "paralysé",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Qu'est-ce qui a paralysé l'économie algérienne ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:paralyzed",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Paralysiert",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:36.765902Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:36.782417Z": "TRANSLATION_DONE:deu"
+  }
+}

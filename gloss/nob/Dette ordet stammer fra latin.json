@@ -1,0 +1,35 @@
+{
+  "content": "Dette ordet stammer fra latin.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Combine988 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Dette"
+    ],
+    [
+      "PART",
+      "nob:ordet"
+    ],
+    [
+      "PART",
+      "nob:stammer"
+    ],
+    [
+      "PART",
+      "nob:fra"
+    ],
+    [
+      "PART",
+      "nob:latin"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.364910Z": "SPLIT_DONE"
+  }
+}

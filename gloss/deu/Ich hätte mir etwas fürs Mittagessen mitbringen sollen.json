@@ -1,0 +1,47 @@
+{
+  "content": "Ich hätte mir etwas fürs Mittagessen mitbringen sollen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:hätte"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:fürs"
+    ],
+    [
+      "PART",
+      "deu:Mittagessen"
+    ],
+    [
+      "PART",
+      "deu:mitbringen"
+    ],
+    [
+      "PART",
+      "deu:sollen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.432127Z": "SPLIT_DONE"
+  }
+}

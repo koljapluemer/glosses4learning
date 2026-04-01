@@ -1,0 +1,25 @@
+{
+  "content": "字典",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:那是汤姆的字典"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dictionary",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:他的字典里没有勤奋这个词。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:56.564521Z": "TRANSLATION_DONE:eng"
+  }
+}

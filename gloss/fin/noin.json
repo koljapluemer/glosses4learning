@@ -3,7 +3,9 @@
   "language": "fin",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -17,6 +19,10 @@
     [
       "TRANSLATION",
       "eng:approximately"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Te ette voi tehdä noin enää"
     ]
   ]
 }

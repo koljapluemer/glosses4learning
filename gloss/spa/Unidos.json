@@ -1,0 +1,53 @@
+{
+  "content": "Unidos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo algunos amigos de los Estados Unidos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él realmente le agradan los Estados Unidos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Finalmente, ella se fue a Estados Unidos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El sistema de inmigración de los Estados Unidos está dañado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:United",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vereinigte Staaten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Об'єднані",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se fue a Europa por los Estados Unidos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La hegemonía global de Estados Unidos está disminuyendo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:21.701340Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:21.715741Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:21.737188Z": "TRANSLATION_DONE:ukr"
+  }
+}

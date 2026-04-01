@@ -1,0 +1,31 @@
+{
+  "content": "Voisitko ojentaa suolan, kiitos.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Voisitko"
+    ],
+    [
+      "PART",
+      "fin:ojentaa"
+    ],
+    [
+      "PART",
+      "fin:suolan"
+    ],
+    [
+      "PART",
+      "fin:kiitos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.917936Z": "SPLIT_DONE"
+  }
+}

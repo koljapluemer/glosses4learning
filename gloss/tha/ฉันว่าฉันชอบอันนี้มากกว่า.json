@@ -1,0 +1,35 @@
+{
+  "content": "ฉันว่าฉันชอบอันนี้มากกว่า",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by superteenkai (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:ฉัน"
+    ],
+    [
+      "PART",
+      "tha:ว่า"
+    ],
+    [
+      "PART",
+      "tha:ชอบ"
+    ],
+    [
+      "PART",
+      "tha:อันนี้"
+    ],
+    [
+      "PART",
+      "tha:มากกว่า"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:23.894862Z": "SPLIT_DONE"
+  }
+}

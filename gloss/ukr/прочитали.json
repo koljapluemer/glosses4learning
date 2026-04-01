@@ -1,0 +1,27 @@
+{
+  "content": "прочитали",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви вже прочитали сьогодняшній випуск газети﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Read",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Weiterlesen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:04.269957Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:04.283790Z": "TRANSLATION_DONE:deu"
+  }
+}

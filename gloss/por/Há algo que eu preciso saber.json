@@ -1,0 +1,39 @@
+{
+  "content": "Há algo que eu preciso saber.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by heo598 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Há"
+    ],
+    [
+      "PART",
+      "por:algo"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:eu"
+    ],
+    [
+      "PART",
+      "por:preciso"
+    ],
+    [
+      "PART",
+      "por:saber"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.549795Z": "SPLIT_DONE"
+  }
+}

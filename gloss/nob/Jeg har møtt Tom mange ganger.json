@@ -1,0 +1,39 @@
+{
+  "content": "Jeg har møtt Tom mange ganger.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:møtt"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:mange"
+    ],
+    [
+      "PART",
+      "nob:ganger"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.195072Z": "SPLIT_DONE"
+  }
+}

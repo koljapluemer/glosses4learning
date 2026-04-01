@@ -1,0 +1,27 @@
+{
+  "content": "trouve",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un se trouve à l'intérieur de la maison"
+    ],
+    [
+      "TRANSLATION",
+      "eng:find",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:finden",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:53.854759Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:53.998133Z": "TRANSLATION_DONE:deu"
+  }
+}

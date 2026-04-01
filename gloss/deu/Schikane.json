@@ -1,0 +1,33 @@
+{
+  "content": "Schikane",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er macht das aus reiner Schikane, weil er genau weiß, daß ich mich darüber ärgere"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Schikane",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Шікане",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:57.609332Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:57.629348Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:57.649647Z": "TRANSLATION_DONE:kor"
+  }
+}

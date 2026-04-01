@@ -1,0 +1,35 @@
+{
+  "content": "Tom arbetar på ett sjukhus.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:arbetar"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:ett"
+    ],
+    [
+      "PART",
+      "swe:sjukhus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.808263Z": "SPLIT_DONE"
+  }
+}

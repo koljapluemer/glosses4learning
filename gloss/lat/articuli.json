@@ -1,0 +1,21 @@
+{
+  "content": "articuli",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:In lingua Russica non sunt articuli"
+    ],
+    [
+      "TRANSLATION",
+      "eng:articles",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:43:48.537759Z": "TRANSLATION_DONE:eng"
+  }
+}

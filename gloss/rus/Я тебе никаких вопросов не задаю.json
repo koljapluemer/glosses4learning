@@ -1,0 +1,39 @@
+{
+  "content": "Я тебе никаких вопросов не задаю.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:тебе"
+    ],
+    [
+      "PART",
+      "rus:никаких"
+    ],
+    [
+      "PART",
+      "rus:вопросов"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:задаю"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.257648Z": "SPLIT_DONE"
+  }
+}

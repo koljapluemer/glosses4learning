@@ -1,0 +1,39 @@
+{
+  "content": "Hat irgendjemand irgendeinen Vorschlag zu machen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by christian42 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Hat"
+    ],
+    [
+      "PART",
+      "deu:irgendjemand"
+    ],
+    [
+      "PART",
+      "deu:irgendeinen"
+    ],
+    [
+      "PART",
+      "deu:Vorschlag"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:machen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.201396Z": "SPLIT_DONE"
+  }
+}

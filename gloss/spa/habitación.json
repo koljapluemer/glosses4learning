@@ -10,7 +10,8 @@
     "2026-03-29T14:24:12.536508Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:12.712184Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:12.891068Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:13.054603Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:13.054603Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:58.683207Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:oda"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La habitación de mi hermano siempre está desordenada"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кімната",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

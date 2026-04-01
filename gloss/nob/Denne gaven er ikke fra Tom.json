@@ -1,0 +1,39 @@
+{
+  "content": "Denne gaven er ikke fra Tom.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Denne"
+    ],
+    [
+      "PART",
+      "nob:gaven"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:fra"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.333454Z": "SPLIT_DONE"
+  }
+}

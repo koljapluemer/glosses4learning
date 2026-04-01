@@ -1,0 +1,33 @@
+{
+  "content": "francouzština",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tvoje francouzština se hodně zlepšila"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tomova francouzština je skoro dokonalá"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tomova francouzština se zlepšuje"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tomova francouzština je bezchybná, ale nesmělá"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:28:55.409775Z": "TRANSLATION_DONE:eng"
+  }
+}

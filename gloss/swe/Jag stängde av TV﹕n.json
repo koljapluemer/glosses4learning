@@ -1,0 +1,31 @@
+{
+  "content": "Jag stängde av TV:n.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:stängde"
+    ],
+    [
+      "PART",
+      "swe:av"
+    ],
+    [
+      "PART",
+      "swe:TV﹕n"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.854506Z": "SPLIT_DONE"
+  }
+}

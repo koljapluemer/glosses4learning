@@ -1,0 +1,27 @@
+{
+  "content": "man",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad der rent faktisk vil ske, kan man kun gisne om"
+    ],
+    [
+      "TRANSLATION",
+      "eng:man",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mann",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:34.493060Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:34.644639Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "tecnología",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Una y otra vez me maravillo con los avances en tecnología"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Technology",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Technologie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Технології",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las mejoras en la tecnología les ayudaron a triunfar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:36.947022Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:36.960608Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:37.107480Z": "TRANSLATION_DONE:ukr"
+  }
+}

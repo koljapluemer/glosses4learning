@@ -1,0 +1,35 @@
+{
+  "content": "ๆ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมหางานดีๆไม่ได้"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Hey!",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hey!",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ลูกสาวเหมือนแม่ของเธอมาก ๆ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันได้ยินเด็ก ๆ ร้องเพลงด้วยกัน"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:24.463744Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:24.480159Z": "TRANSLATION_DONE:deu"
+  }
+}

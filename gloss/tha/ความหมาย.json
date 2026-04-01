@@ -1,0 +1,31 @@
+{
+  "content": "ความหมาย",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ความหมายตรงตัวคือ โอเค นัดกันแล้วนะ  โอเค ตามนั้น"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:1. ความหมายตรงตัว มันคือป้ายจราจร ป้ายบอกทาง 2. มันคือลางบอกเหตุ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Meaning",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das heißt",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:10.773896Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:10.794040Z": "TRANSLATION_DONE:deu"
+  }
+}

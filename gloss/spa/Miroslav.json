@@ -1,0 +1,33 @@
+{
+  "content": "Miroslav",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Miroslav fue asesinado maliciosa y deliberadamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Miroslav",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Miroslav",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мирослав",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:18.855247Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:18.873751Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:18.892526Z": "TRANSLATION_DONE:ukr"
+  }
+}

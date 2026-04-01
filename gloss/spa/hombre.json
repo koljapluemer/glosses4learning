@@ -10,7 +10,8 @@
     "2026-03-29T14:24:27.100030Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:27.265259Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:27.458997Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:27.647062Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:27.647062Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:01.347586Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,15 @@
     [
       "TRANSLATION",
       "tur:erkek"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:людина",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El hombre mayor estaba sentado completamente solo"
     ]
   ]
 }

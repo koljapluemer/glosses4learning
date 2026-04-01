@@ -1,0 +1,53 @@
+{
+  "content": "estudiantes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A la mayoría de los estudiantes les gustan los deportes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No todos los estudiantes estaban presentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los estudiantes estaban en contra de la guerra"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A todos los estudiantes les gustan las vacaciones"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los estudiantes estaban presentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estudiantes hicieron el trabajo ellos mismos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Students",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Studenten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Студенти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:05.732070Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:05.745252Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:05.763481Z": "TRANSLATION_DONE:ukr"
+  }
+}

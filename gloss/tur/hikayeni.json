@@ -1,0 +1,27 @@
+{
+  "content": "hikayeni",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Herhangi biri senin hikayeni doğrulayabilir mi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:News Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:News Home",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:31.819971Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:31.840444Z": "TRANSLATION_DONE:deu"
+  }
+}

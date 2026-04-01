@@ -1,0 +1,27 @@
+{
+  "content": "studerende",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke alle studerende"
+    ],
+    [
+      "TRANSLATION",
+      "eng:students",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Studenten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:40.407495Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:40.545885Z": "TRANSLATION_DONE:deu"
+  }
+}

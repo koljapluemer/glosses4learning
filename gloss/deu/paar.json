@@ -9,7 +9,9 @@
     "2026-03-29T13:21:53.488871Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:53.689456Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:21:53.866992Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:21:54.052559Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:21:54.052559Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:15.297020Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:15.318492Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,24 @@
     [
       "TRANSLATION",
       "tur:çift"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir haben angehalten, um ein paar Fotos zu machen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe ein paar Lebensmittel für das Mittagessen gekauft"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пара",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:두근두근",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

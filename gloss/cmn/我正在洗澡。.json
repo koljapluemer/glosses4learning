@@ -1,0 +1,31 @@
+{
+  "content": "我正在洗澡。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by U2FS (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:正在"
+    ],
+    [
+      "PART",
+      "cmn:洗澡"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.618124Z": "SPLIT_DONE"
+  }
+}

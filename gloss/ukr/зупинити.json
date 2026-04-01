@@ -1,0 +1,27 @@
+{
+  "content": "зупинити",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знаю, що ви не можете зупинити Тома"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stop",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stopp",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.237981Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.251901Z": "TRANSLATION_DONE:deu"
+  }
+}

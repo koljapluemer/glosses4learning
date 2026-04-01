@@ -1,0 +1,27 @@
+{
+  "content": "soyadını",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Herhangi biri Tom'un soyadını biliyor mu﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Last name",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vorname",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:50.102580Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:50.117505Z": "TRANSLATION_DONE:deu"
+  }
+}

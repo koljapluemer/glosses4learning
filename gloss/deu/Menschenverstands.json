@@ -1,0 +1,33 @@
+{
+  "content": "Menschenverstands",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das ist einfach eine Frage des gesunden Menschenverstands"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Human understanding",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розуміння людини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인간 이해",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:41.653943Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:41.803944Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:41.833113Z": "TRANSLATION_DONE:kor"
+  }
+}

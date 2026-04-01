@@ -1,0 +1,33 @@
+{
+  "content": "odian",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos odian la música, pero adoran el entretenimiento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hate",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hass",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кішка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:20.135780Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:20.151324Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:20.169015Z": "TRANSLATION_DONE:ukr"
+  }
+}

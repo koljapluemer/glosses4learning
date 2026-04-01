@@ -9,7 +9,9 @@
     "2026-03-29T13:24:21.472802Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:21.644813Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:24:21.801759Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:24:21.975386Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:24:21.975386Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:46.611438Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:46.632667Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -63,6 +65,36 @@
     [
       "TRANSLATION",
       "spa:al"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Schwester hat ihn zum Mittagessen eingeladen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich lud meinen Freund zum Abendessen ein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bist du zum Mittagessen wieder zu Hause﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Maria hat ihre Freunde zum Abendessen eingeladen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie haben Tom damit zum Weinen gebracht"
     ]
   ]
 }

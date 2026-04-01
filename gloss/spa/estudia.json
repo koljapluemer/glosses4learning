@@ -1,0 +1,33 @@
+{
+  "content": "estudia",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella estudia todos los días de la mañana a la noche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Study",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Studie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навчання",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:05.643294Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:05.659878Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:05.676709Z": "TRANSLATION_DONE:ukr"
+  }
+}

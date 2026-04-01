@@ -1,0 +1,31 @@
+{
+  "content": "Kucing punya sembilan nyawa.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Kucing"
+    ],
+    [
+      "PART",
+      "ind:punya"
+    ],
+    [
+      "PART",
+      "ind:sembilan"
+    ],
+    [
+      "PART",
+      "ind:nyawa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.876643Z": "SPLIT_DONE"
+  }
+}

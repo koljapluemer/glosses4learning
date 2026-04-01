@@ -9,7 +9,9 @@
     "2026-03-29T13:14:55.807985Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:55.990814Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:56.171410Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:56.313090Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:56.313090Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:00.392701Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:00.485618Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,20 @@
     [
       "TRANSLATION",
       "ita:ristorante"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ресторани",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:호텔 & 료칸",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:In diesem Restaurant haben Vegetarier eine große Auswahl"
     ]
   ]
 }

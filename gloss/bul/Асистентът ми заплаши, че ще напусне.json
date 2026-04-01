@@ -1,0 +1,39 @@
+{
+  "content": "Асистентът ми заплаши, че ще напусне.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Асистентът"
+    ],
+    [
+      "PART",
+      "bul:ми"
+    ],
+    [
+      "PART",
+      "bul:заплаши"
+    ],
+    [
+      "PART",
+      "bul:че"
+    ],
+    [
+      "PART",
+      "bul:ще"
+    ],
+    [
+      "PART",
+      "bul:напусне"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:02.208760Z": "SPLIT_DONE"
+  }
+}

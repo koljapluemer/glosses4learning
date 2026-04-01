@@ -1,0 +1,27 @@
+{
+  "content": "sort",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom drikker sort kaffe uden sukker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:variety",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sorte",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:35.758432Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:35.911482Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Minä olen mestari.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minä"
+    ],
+    [
+      "PART",
+      "fin:olen"
+    ],
+    [
+      "PART",
+      "fin:mestari"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.919765Z": "SPLIT_DONE"
+  }
+}

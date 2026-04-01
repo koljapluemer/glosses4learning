@@ -10,7 +10,8 @@
     "2026-03-29T14:26:27.980026Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:26:28.143791Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:26:28.309145Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:26:28.481463Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:26:28.481463Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:25.296621Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -56,6 +57,15 @@
     [
       "TRANSLATION",
       "tur:mümkün"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos que hablar lo más pronto posible"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:можливість",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

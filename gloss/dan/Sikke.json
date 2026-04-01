@@ -1,0 +1,27 @@
+{
+  "content": "Sikke",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Sikke en vidunderlig opfindelse!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What﹖",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Was﹖",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:35.570657Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:35.593475Z": "TRANSLATION_DONE:deu"
+  }
+}

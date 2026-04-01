@@ -1,0 +1,33 @@
+{
+  "content": "berühren",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie sind voneinander getrennt und können sich nicht berühren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:touch",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Контакти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:50.200435Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:50.348196Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:50.482420Z": "TRANSLATION_DONE:kor"
+  }
+}

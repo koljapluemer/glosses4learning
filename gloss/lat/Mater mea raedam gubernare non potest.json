@@ -1,0 +1,39 @@
+{
+  "content": "Mater mea raedam gubernare non potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Mater"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ],
+    [
+      "PART",
+      "lat:raedam"
+    ],
+    [
+      "PART",
+      "lat:gubernare"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.325541Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "interesado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él está muy interesado en los deportes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interested",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Interesse",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Цікаві",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:05.807841Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:05.966112Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:05.994193Z": "TRANSLATION_DONE:ukr"
+  }
+}

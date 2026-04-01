@@ -1,0 +1,27 @@
+{
+  "content": "bivirkninger",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette medikament har ingen skadelige bivirkninger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:side effects",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nebenwirkungen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:51.609598Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:51.763315Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Auswahl",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:In diesem Restaurant haben Vegetarier eine große Auswahl"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Selection",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Підбір",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:- 연혁",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.401831Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.418010Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.435213Z": "TRANSLATION_DONE:kor"
+  }
+}

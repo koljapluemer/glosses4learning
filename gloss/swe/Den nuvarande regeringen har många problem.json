@@ -1,0 +1,39 @@
+{
+  "content": "Den nuvarande regeringen har många problem.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Den"
+    ],
+    [
+      "PART",
+      "swe:nuvarande"
+    ],
+    [
+      "PART",
+      "swe:regeringen"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:många"
+    ],
+    [
+      "PART",
+      "swe:problem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.976094Z": "SPLIT_DONE"
+  }
+}

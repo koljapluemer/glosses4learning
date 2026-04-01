@@ -1,0 +1,27 @@
+{
+  "content": "Velkommen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Velkommen til den virkelige verden!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Welcome",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Willkommen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:15.147649Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:15.306153Z": "TRANSLATION_DONE:deu"
+  }
+}

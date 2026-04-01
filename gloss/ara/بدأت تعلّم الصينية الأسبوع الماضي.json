@@ -1,0 +1,35 @@
+{
+  "content": "بدأت تعلّم الصينية الأسبوع الماضي.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:بدأت"
+    ],
+    [
+      "PART",
+      "ara:تعلّم"
+    ],
+    [
+      "PART",
+      "ara:الصينية"
+    ],
+    [
+      "PART",
+      "ara:الأسبوع"
+    ],
+    [
+      "PART",
+      "ara:الماضي"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.551240Z": "SPLIT_DONE"
+  }
+}

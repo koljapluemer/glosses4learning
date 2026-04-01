@@ -1,0 +1,55 @@
+{
+  "content": "Ella estudia todos los días de la mañana a la noche.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:estudia"
+    ],
+    [
+      "PART",
+      "spa:todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:días"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:mañana"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:noche"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.642336Z": "SPLIT_DONE"
+  }
+}

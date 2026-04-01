@@ -1,0 +1,43 @@
+{
+  "content": "Jeg vil at du skal analysere dette.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:vil"
+    ],
+    [
+      "PART",
+      "nob:at"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:skal"
+    ],
+    [
+      "PART",
+      "nob:analysere"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.242354Z": "SPLIT_DONE"
+  }
+}

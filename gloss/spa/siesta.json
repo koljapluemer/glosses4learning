@@ -1,0 +1,41 @@
+{
+  "content": "siesta",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Échate una siesta y espera por la buena suerte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:nap",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nap",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella necesita ahora su siesta de mediodía"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos no se echan una siesta"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:33.754245Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:33.768662Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:33.786963Z": "TRANSLATION_DONE:ukr"
+  }
+}

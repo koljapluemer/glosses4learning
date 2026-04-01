@@ -1,0 +1,35 @@
+{
+  "content": "À quelle heure êtes-vous rentrées ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:À"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:heure"
+    ],
+    [
+      "PART",
+      "fra:êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:rentrées"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.182055Z": "SPLIT_DONE"
+  }
+}

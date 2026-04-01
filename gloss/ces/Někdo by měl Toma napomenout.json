@@ -1,0 +1,35 @@
+{
+  "content": "Někdo by měl Toma napomenout.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Někdo"
+    ],
+    [
+      "PART",
+      "ces:by"
+    ],
+    [
+      "PART",
+      "ces:měl"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:napomenout"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.630754Z": "SPLIT_DONE"
+  }
+}

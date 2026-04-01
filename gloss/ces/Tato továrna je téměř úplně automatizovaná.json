@@ -1,0 +1,39 @@
+{
+  "content": "Tato továrna je téměř úplně automatizovaná.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zebrozebry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tato"
+    ],
+    [
+      "PART",
+      "ces:továrna"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:téměř"
+    ],
+    [
+      "PART",
+      "ces:úplně"
+    ],
+    [
+      "PART",
+      "ces:automatizovaná"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.152785Z": "SPLIT_DONE"
+  }
+}

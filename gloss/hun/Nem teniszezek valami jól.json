@@ -1,0 +1,31 @@
+{
+  "content": "Nem teniszezek valami jól.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jegaevi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Nem"
+    ],
+    [
+      "PART",
+      "hun:teniszezek"
+    ],
+    [
+      "PART",
+      "hun:valami"
+    ],
+    [
+      "PART",
+      "hun:jól"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.623817Z": "SPLIT_DONE"
+  }
+}

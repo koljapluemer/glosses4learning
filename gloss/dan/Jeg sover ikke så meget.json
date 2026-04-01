@@ -1,0 +1,35 @@
+{
+  "content": "Jeg sover ikke så meget.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sharaf78 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:sover"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:så"
+    ],
+    [
+      "PART",
+      "dan:meget"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.026689Z": "SPLIT_DONE"
+  }
+}

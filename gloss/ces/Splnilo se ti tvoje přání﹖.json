@@ -1,0 +1,35 @@
+{
+  "content": "Splnilo se ti tvoje přání?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Splnilo"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:ti"
+    ],
+    [
+      "PART",
+      "ces:tvoje"
+    ],
+    [
+      "PART",
+      "ces:přání"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.781850Z": "SPLIT_DONE"
+  }
+}

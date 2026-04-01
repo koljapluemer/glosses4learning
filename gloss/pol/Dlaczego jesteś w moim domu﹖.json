@@ -1,0 +1,35 @@
+{
+  "content": "Dlaczego jesteś w moim domu?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shounen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Dlaczego"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:moim"
+    ],
+    [
+      "PART",
+      "pol:domu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.321374Z": "SPLIT_DONE"
+  }
+}

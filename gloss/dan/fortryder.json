@@ -1,0 +1,27 @@
+{
+  "content": "fortryder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg fortryder at jeg fortalte sandheden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:regrets",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bedauert",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:23.211226Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:23.225575Z": "TRANSLATION_DONE:deu"
+  }
+}

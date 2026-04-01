@@ -1,0 +1,35 @@
+{
+  "content": "أخبرني كل شيء الليلة الماضية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Safa_Alfulaij (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أخبرني"
+    ],
+    [
+      "PART",
+      "ara:كل"
+    ],
+    [
+      "PART",
+      "ara:شيء"
+    ],
+    [
+      "PART",
+      "ara:الليلة"
+    ],
+    [
+      "PART",
+      "ara:الماضية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.656281Z": "SPLIT_DONE"
+  }
+}

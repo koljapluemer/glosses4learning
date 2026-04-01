@@ -1,0 +1,37 @@
+{
+  "content": "suspendieron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Casi todos los alumnos suspendieron el examen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los alumnos suspendieron el examen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:suspended",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:suspendiert",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підвіска",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:17.083396Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:17.108353Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.127455Z": "TRANSLATION_DONE:ukr"
+  }
+}

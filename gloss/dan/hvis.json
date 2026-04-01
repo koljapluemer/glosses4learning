@@ -1,0 +1,35 @@
+{
+  "content": "hvis",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan godt køre hvis du er træt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:if",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wenn",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ville græde hvis det skete"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tag det fra hinanden hvis det er nødvendigt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:38.007558Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:38.147176Z": "TRANSLATION_DONE:deu"
+  }
+}

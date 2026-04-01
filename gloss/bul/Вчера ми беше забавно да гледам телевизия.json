@@ -1,0 +1,43 @@
+{
+  "content": "Вчера ми беше забавно да гледам телевизия.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ednorog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Вчера"
+    ],
+    [
+      "PART",
+      "bul:ми"
+    ],
+    [
+      "PART",
+      "bul:беше"
+    ],
+    [
+      "PART",
+      "bul:забавно"
+    ],
+    [
+      "PART",
+      "bul:да"
+    ],
+    [
+      "PART",
+      "bul:гледам"
+    ],
+    [
+      "PART",
+      "bul:телевизия"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:02:05.843188Z": "SPLIT_DONE"
+  }
+}

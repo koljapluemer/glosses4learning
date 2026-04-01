@@ -1,0 +1,27 @@
+{
+  "content": "commentaire",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Le commentaire de Sami fut la goutte d'eau qui a fait déborder le vase"
+    ],
+    [
+      "TRANSLATION",
+      "eng:comment",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kommentare",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:16.351129Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:16.492644Z": "TRANSLATION_DONE:deu"
+  }
+}

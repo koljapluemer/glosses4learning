@@ -9,7 +9,9 @@
     "2026-03-29T13:19:56.937592Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:57.124781Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:19:57.324879Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:19:57.489802Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:19:57.489802Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:48.323154Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:48.473196Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:yeşil"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зелений",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:녹색",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "content": "mar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niveles del mar están aumentando"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sea",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Meer",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Морський",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.962618Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.975496Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.989752Z": "TRANSLATION_DONE:ukr"
+  }
+}

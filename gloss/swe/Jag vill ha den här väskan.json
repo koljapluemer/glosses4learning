@@ -1,0 +1,39 @@
+{
+  "content": "Jag vill ha den här väskan.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:vill"
+    ],
+    [
+      "PART",
+      "swe:ha"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:väskan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.000099Z": "SPLIT_DONE"
+  }
+}

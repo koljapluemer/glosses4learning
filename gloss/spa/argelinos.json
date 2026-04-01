@@ -1,0 +1,33 @@
+{
+  "content": "argelinos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los argelinos cuentan con cobertura sanitaria"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Algeria",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Algerien",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Алжир",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:26.738592Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:26.751520Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:26.772744Z": "TRANSLATION_DONE:ukr"
+  }
+}

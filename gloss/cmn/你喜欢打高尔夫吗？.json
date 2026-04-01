@@ -1,0 +1,35 @@
+{
+  "content": "你喜欢打高尔夫吗？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by anndiana (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:喜欢"
+    ],
+    [
+      "PART",
+      "cmn:打高尔夫"
+    ],
+    [
+      "PART",
+      "cmn:吗"
+    ],
+    [
+      "PART",
+      "cmn:？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.677766Z": "SPLIT_DONE"
+  }
+}

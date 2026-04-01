@@ -1,0 +1,37 @@
+{
+  "content": "canadienses",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pensé que todos ellos eran canadienses"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de ellos son canadienses"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Canada",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kanada",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Українська",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.496904Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.637153Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.655900Z": "TRANSLATION_DONE:ukr"
+  }
+}

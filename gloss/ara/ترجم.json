@@ -1,0 +1,25 @@
+{
+  "content": "ترجم",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ara:من فضلك ترجم هذه الجملة إلى اليابانية"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Translation",
+      "Auto-translated with argostranslate (ar→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ara:هو ترجم الاية الى اللغة الانكليزية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:24:56.836984Z": "TRANSLATION_DONE:eng"
+  }
+}

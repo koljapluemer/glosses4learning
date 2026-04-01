@@ -1,0 +1,31 @@
+{
+  "content": "Tôi đến bây giờ.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mqd (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tôi"
+    ],
+    [
+      "PART",
+      "vie:đến"
+    ],
+    [
+      "PART",
+      "vie:bây"
+    ],
+    [
+      "PART",
+      "vie:giờ"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.041709Z": "SPLIT_DONE"
+  }
+}

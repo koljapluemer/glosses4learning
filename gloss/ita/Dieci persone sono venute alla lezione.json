@@ -1,0 +1,39 @@
+{
+  "content": "Dieci persone sono venute alla lezione.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Dieci"
+    ],
+    [
+      "PART",
+      "ita:persone"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:venute"
+    ],
+    [
+      "PART",
+      "ita:alla"
+    ],
+    [
+      "PART",
+      "ita:lezione"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.769793Z": "SPLIT_DONE"
+  }
+}

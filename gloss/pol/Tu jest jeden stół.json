@@ -1,0 +1,31 @@
+{
+  "content": "Tu jest jeden stół.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarekMazurkiewicz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tu"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:jeden"
+    ],
+    [
+      "PART",
+      "pol:stół"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.791577Z": "SPLIT_DONE"
+  }
+}

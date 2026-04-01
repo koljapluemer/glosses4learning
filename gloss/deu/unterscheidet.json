@@ -1,0 +1,53 @@
+{
+  "content": "unterscheidet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Ansicht unterscheidet von der Ihren"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Meinung unterscheidet sich von ihrer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom unterscheidet sich von seinen Klassenkameraden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:different",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:різні",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:다른 것",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Deine Vorstellung unterscheidet sich völlig von meiner"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Ansicht unterscheidet sich von deiner"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihre Vorstellung unterscheidet sich völlig von meiner"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:30.426106Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:30.497462Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:30.577469Z": "TRANSLATION_DONE:kor"
+  }
+}

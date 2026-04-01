@@ -13,6 +13,37 @@
     [
       "TRANSLATION",
       "ita:incontrata"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe mich mit meinen Freunden getroffen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hit",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:удар",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es war mir eine Ehre, dich getroffen zu haben und ich freue mich, von dir zu hören"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:37:42.403542Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:42.547369Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:42.580526Z": "TRANSLATION_DONE:kor"
+  }
 }

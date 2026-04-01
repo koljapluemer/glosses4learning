@@ -1,0 +1,35 @@
+{
+  "content": "L'Algérie",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'Algérie a besoin d'accorder des facilitations dans le domaine commercial"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Algeria",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Algerien",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'Algérie et la Chine sont des partenaires stratégiques"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'Algérie et la Russie sont des partenaires stratégiques"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:05.572789Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:05.726918Z": "TRANSLATION_DONE:deu"
+  }
+}

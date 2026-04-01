@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T11:44:24.621Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T11:44:24.621Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:53:12.184567Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:12.207866Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +35,20 @@
     [
       "TRANSLATION",
       "eng:thought"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos debieron haber tenido una mente noble"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verstanden",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вся в соку",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

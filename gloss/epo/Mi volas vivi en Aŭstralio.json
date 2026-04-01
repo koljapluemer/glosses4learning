@@ -1,0 +1,35 @@
+{
+  "content": "Mi volas vivi en Aŭstralio.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GrizaLeono (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:volas"
+    ],
+    [
+      "PART",
+      "epo:vivi"
+    ],
+    [
+      "PART",
+      "epo:en"
+    ],
+    [
+      "PART",
+      "epo:Aŭstralio"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:36.074814Z": "SPLIT_DONE"
+  }
+}

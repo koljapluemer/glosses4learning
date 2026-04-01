@@ -1,0 +1,31 @@
+{
+  "content": "Hamar munka ritkán jó.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by szaby78 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Hamar"
+    ],
+    [
+      "PART",
+      "hun:munka"
+    ],
+    [
+      "PART",
+      "hun:ritkán"
+    ],
+    [
+      "PART",
+      "hun:jó"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.924243Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "問題",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我不是說了沒有問題嗎？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Problem",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她問了一個非常好的問題。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這個問題看起來很難。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我們從前從沒有過這個問題。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:47.909811Z": "TRANSLATION_DONE:eng"
+  }
+}

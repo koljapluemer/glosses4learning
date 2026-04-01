@@ -1,0 +1,37 @@
+{
+  "content": "películas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las películas tristes siempre me hacen llorar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:films",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Filme",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:фільми",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué películas están en cartelera ahora﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:22.294226Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:22.444017Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:22.460828Z": "TRANSLATION_DONE:ukr"
+  }
+}

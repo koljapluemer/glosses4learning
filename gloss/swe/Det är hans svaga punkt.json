@@ -1,0 +1,35 @@
+{
+  "content": "Det är hans svaga punkt.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:hans"
+    ],
+    [
+      "PART",
+      "swe:svaga"
+    ],
+    [
+      "PART",
+      "swe:punkt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.822823Z": "SPLIT_DONE"
+  }
+}

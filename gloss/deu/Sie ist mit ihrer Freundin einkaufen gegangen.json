@@ -1,0 +1,43 @@
+{
+  "content": "Sie ist mit ihrer Freundin einkaufen gegangen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:ihrer"
+    ],
+    [
+      "PART",
+      "deu:Freundin"
+    ],
+    [
+      "PART",
+      "deu:einkaufen"
+    ],
+    [
+      "PART",
+      "deu:gegangen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.539970Z": "SPLIT_DONE"
+  }
+}

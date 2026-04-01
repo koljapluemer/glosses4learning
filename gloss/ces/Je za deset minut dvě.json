@@ -1,0 +1,35 @@
+{
+  "content": "Je za deset minut dvě.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Je"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:deset"
+    ],
+    [
+      "PART",
+      "ces:minut"
+    ],
+    [
+      "PART",
+      "ces:dvě"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.733895Z": "SPLIT_DONE"
+  }
+}

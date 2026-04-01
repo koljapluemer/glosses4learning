@@ -1,0 +1,47 @@
+{
+  "content": "Сегодня мне намного лучше, по сравнению со вчера.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by papersaltserver (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Сегодня"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:намного"
+    ],
+    [
+      "PART",
+      "rus:лучше"
+    ],
+    [
+      "PART",
+      "rus:по"
+    ],
+    [
+      "PART",
+      "rus:сравнению"
+    ],
+    [
+      "PART",
+      "rus:со"
+    ],
+    [
+      "PART",
+      "rus:вчера"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.308395Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "eingespart",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mit Hilfe dieser Maschine sollte Zeit eingespart werden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:saved",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:збережений",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:11.344032Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:11.368958Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:11.405763Z": "TRANSLATION_DONE:kor"
+  }
+}

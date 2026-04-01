@@ -1,0 +1,35 @@
+{
+  "content": "Сьогодні я закрив магазин рано.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Сьогодні"
+    ],
+    [
+      "PART",
+      "ukr:я"
+    ],
+    [
+      "PART",
+      "ukr:закрив"
+    ],
+    [
+      "PART",
+      "ukr:магазин"
+    ],
+    [
+      "PART",
+      "ukr:рано"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.983137Z": "SPLIT_DONE"
+  }
+}

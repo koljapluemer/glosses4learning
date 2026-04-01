@@ -1,0 +1,35 @@
+{
+  "content": "Tom tu nějakou dobu nebyl.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:tu"
+    ],
+    [
+      "PART",
+      "ces:nějakou"
+    ],
+    [
+      "PART",
+      "ces:dobu"
+    ],
+    [
+      "PART",
+      "ces:nebyl"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.156051Z": "SPLIT_DONE"
+  }
+}

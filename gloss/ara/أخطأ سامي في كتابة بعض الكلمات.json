@@ -1,0 +1,39 @@
+{
+  "content": "أخطأ سامي في كتابة بعض الكلمات.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أخطأ"
+    ],
+    [
+      "PART",
+      "ara:سامي"
+    ],
+    [
+      "PART",
+      "ara:في"
+    ],
+    [
+      "PART",
+      "ara:كتابة"
+    ],
+    [
+      "PART",
+      "ara:بعض"
+    ],
+    [
+      "PART",
+      "ara:الكلمات"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.639352Z": "SPLIT_DONE"
+  }
+}

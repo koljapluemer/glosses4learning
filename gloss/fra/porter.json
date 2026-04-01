@@ -1,0 +1,31 @@
+{
+  "content": "porter",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quand avez-vous commencé à porter des lentilles de contact ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quand as-tu commencé à porter des lentilles de contact ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:carry",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mit",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:44.051874Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:44.208570Z": "TRANSLATION_DONE:deu"
+  }
+}

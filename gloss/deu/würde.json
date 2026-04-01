@@ -12,7 +12,9 @@
     "2026-03-28T10:56:09.386780Z": "TRANSLATION_DONE:ita",
     "2026-03-28T10:56:10.308740Z": "TRANSLATION_DONE:kab",
     "2026-03-28T10:56:11.196257Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T10:56:11.945790Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T10:56:11.945790Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:45.930923Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:45.945766Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -118,6 +120,44 @@
     [
       "TRANSLATION",
       "spa:haría"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich würde mich sehr gerne einmal mit dir unterhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hättest du etwas dagegen, wenn ich hier rauchen würde﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Keiner mit ein bisschen Verstand würde so etwas tun"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom würde seine Kinder niemals fallen lassen"
+    ],
+    [
+      "TRANSLATION",
+      "dan:ville"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:у вас немає",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은 없습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:eran"
+    ],
+    [
+      "TRANSLATION",
+      "fra:furent"
     ]
   ]
 }

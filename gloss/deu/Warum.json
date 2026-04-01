@@ -6,7 +6,9 @@
   ],
   "logs": {
     "2026-01-27T14:30:51.791391Z": "TRANSLATION_DONE:eng",
-    "2026-03-29T13:16:09.484562Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:16:09.484562Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:31.816086Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:31.834221Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -76,6 +78,48 @@
     [
       "TRANSLATION",
       "rus:Почему﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum habt ihr das denn nicht vorher gesagt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum beantwortest du meine Frage nicht﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum beantworten Sie meine Frage nicht﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum antworten Sie nicht auf meine Frage﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum antwortet ihr nicht auf meine Frage﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чому﹖",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:왜﹖",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum beantwortet ihr meine Frage nicht﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum hast du mit deiner Arbeit aufgehört﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum haben Sie nicht auf Wiedersehen gesagt﹖"
     ]
   ]
 }

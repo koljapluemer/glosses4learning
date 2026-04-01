@@ -1,0 +1,27 @@
+{
+  "content": "kitabın",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu senin ders kitabın mı yoksa benim mi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Buch",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:33.180988Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:33.196364Z": "TRANSLATION_DONE:deu"
+  }
+}

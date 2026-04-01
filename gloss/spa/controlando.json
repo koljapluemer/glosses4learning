@@ -1,0 +1,33 @@
+{
+  "content": "controlando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hermana se está controlando el peso continuamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:monitoring",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Überwachung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Моніторинг",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:37.151334Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:37.165930Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:37.180460Z": "TRANSLATION_DONE:ukr"
+  }
+}

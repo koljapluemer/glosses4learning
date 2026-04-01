@@ -1,0 +1,31 @@
+{
+  "content": "foreslår",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du afviser altid det jeg foreslår"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du afviser altid hvad jeg foreslår"
+    ],
+    [
+      "TRANSLATION",
+      "eng:proposes",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlägt vor",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:10.817754Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:10.957063Z": "TRANSLATION_DONE:deu"
+  }
+}

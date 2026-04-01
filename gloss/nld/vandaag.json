@@ -1,0 +1,33 @@
+{
+  "content": "vandaag",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wat is vandaag met Tom﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wat is er vandaag met Tom aan de hand﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Het is een beetje koud vandaag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:today",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Laten we ermee ophouden voor vandaag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:59.669084Z": "TRANSLATION_DONE:eng"
+  }
+}

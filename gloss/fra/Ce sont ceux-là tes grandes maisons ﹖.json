@@ -1,0 +1,39 @@
+{
+  "content": "Ce sont ceux-là tes grandes maisons ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ce"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:ceux-là"
+    ],
+    [
+      "PART",
+      "fra:tes"
+    ],
+    [
+      "PART",
+      "fra:grandes"
+    ],
+    [
+      "PART",
+      "fra:maisons"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.655357Z": "SPLIT_DONE"
+  }
+}

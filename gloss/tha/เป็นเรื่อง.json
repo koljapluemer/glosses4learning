@@ -1,0 +1,35 @@
+{
+  "content": "เป็นเรื่อง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:หนังเรื่องนี้เป็นเรื่องที่ถกเถียงกันอย่างมาก"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It's a matter",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es ist eine Sache",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันรู้ว่านี่เป็นเรื่องยาก"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:นี่เป็นเรื่องระหว่างทอมกับผม"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:21.751336Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:21.768150Z": "TRANSLATION_DONE:deu"
+  }
+}

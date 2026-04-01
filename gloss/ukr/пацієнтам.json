@@ -1,0 +1,27 @@
+{
+  "content": "пацієнтам",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мері надає перевагу пацієнтам, які не можуть говорити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:patients",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Patienten",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:02.430362Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:02.446765Z": "TRANSLATION_DONE:deu"
+  }
+}

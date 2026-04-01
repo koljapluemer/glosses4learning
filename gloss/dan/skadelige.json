@@ -1,0 +1,27 @@
+{
+  "content": "skadelige",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette medikament har ingen skadelige bivirkninger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:harmful",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schädlich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:29.946852Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:30.087033Z": "TRANSLATION_DONE:deu"
+  }
+}

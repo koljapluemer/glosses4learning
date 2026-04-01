@@ -1,0 +1,35 @@
+{
+  "content": "Certaines choses sont mieux non-dites.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arnxy20 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Certaines"
+    ],
+    [
+      "PART",
+      "fra:choses"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:mieux"
+    ],
+    [
+      "PART",
+      "fra:non-dites"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.561772Z": "SPLIT_DONE"
+  }
+}

@@ -9,7 +9,9 @@
     "2026-03-29T13:19:58.190574Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:58.373484Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:19:58.561053Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:19:58.727739Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:19:58.727739Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:48.714781Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:48.860641Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -55,6 +57,16 @@
     [
       "TRANSLATION",
       "tur:iyi"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:гарненькі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

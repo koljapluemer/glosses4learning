@@ -1,0 +1,33 @@
+{
+  "content": "camella",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni está bebiendo leche de camella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:camella",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nocken",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:панчохи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:30.985265Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:31.128232Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:31.150657Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Los gatos pueden ser criaturas muy territoriales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:gatos"
+    ],
+    [
+      "PART",
+      "spa:pueden"
+    ],
+    [
+      "PART",
+      "spa:ser"
+    ],
+    [
+      "PART",
+      "spa:criaturas"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:territoriales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.732810Z": "SPLIT_DONE"
+  }
+}

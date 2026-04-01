@@ -1,0 +1,33 @@
+{
+  "content": "Instinkt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hätte mich auf meinen Instinkt verlassen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:instinct",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:інстинкт",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한국어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:55.465777Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:55.483833Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:55.501364Z": "TRANSLATION_DONE:kor"
+  }
+}

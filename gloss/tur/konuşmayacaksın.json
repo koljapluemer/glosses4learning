@@ -1,0 +1,27 @@
+{
+  "content": "konuşmayacaksın",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Sen benimle neden konuşmayacaksın﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you will not speak",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ihr würdet nicht sprechen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:48.860939Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:48.879190Z": "TRANSLATION_DONE:deu"
+  }
+}

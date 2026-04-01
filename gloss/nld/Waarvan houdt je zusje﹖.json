@@ -1,0 +1,31 @@
+{
+  "content": "Waarvan houdt je zusje?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kiryopi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarvan"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:zusje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.168658Z": "SPLIT_DONE"
+  }
+}

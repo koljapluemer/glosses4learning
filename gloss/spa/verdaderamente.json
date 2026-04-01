@@ -1,0 +1,33 @@
+{
+  "content": "verdaderamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tu hermano mayor está verdaderamente enojado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:true",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wahr",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Справедливість",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.640598Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.656464Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.676822Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Sie haben ihr Versprechen nicht gehalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Manfredo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:ihr"
+    ],
+    [
+      "PART",
+      "deu:Versprechen"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:gehalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.568246Z": "SPLIT_DONE"
+  }
+}

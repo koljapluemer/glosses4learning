@@ -1,0 +1,35 @@
+{
+  "content": "Так, я добре тебе розумію.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ascolto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Так"
+    ],
+    [
+      "PART",
+      "ukr:я"
+    ],
+    [
+      "PART",
+      "ukr:добре"
+    ],
+    [
+      "PART",
+      "ukr:тебе"
+    ],
+    [
+      "PART",
+      "ukr:розумію"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.977391Z": "SPLIT_DONE"
+  }
+}

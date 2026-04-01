@@ -1,0 +1,35 @@
+{
+  "content": "Toms katt fick nio ungar.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Toms"
+    ],
+    [
+      "PART",
+      "swe:katt"
+    ],
+    [
+      "PART",
+      "swe:fick"
+    ],
+    [
+      "PART",
+      "swe:nio"
+    ],
+    [
+      "PART",
+      "swe:ungar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.809753Z": "SPLIT_DONE"
+  }
+}

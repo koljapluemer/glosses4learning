@@ -1,0 +1,45 @@
+{
+  "content": "Etwas",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Etwas Derartiges wird nicht noch einmal vorkommen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Etwas Wundervolleres kann ich mir überhaupt nicht vorstellen"
+    ],
+    [
+      "TRANSLATION",
+      "dan:Noget"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Something",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що таке",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tha:บางสิ่งบางอย่าง"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:19.204592Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:19.260721Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:19.411826Z": "TRANSLATION_DONE:kor"
+  }
+}

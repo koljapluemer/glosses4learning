@@ -1,0 +1,31 @@
+{
+  "content": "Μπορούν να μιλήσουν Γαλλικά.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Μπορούν"
+    ],
+    [
+      "PART",
+      "ell:να"
+    ],
+    [
+      "PART",
+      "ell:μιλήσουν"
+    ],
+    [
+      "PART",
+      "ell:Γαλλικά"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.932423Z": "SPLIT_DONE"
+  }
+}

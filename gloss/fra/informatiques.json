@@ -1,0 +1,31 @@
+{
+  "content": "informatiques",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Cette entreprise produit des puces informatiques"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Information technology",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Informationstechnologie",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les pirates informatiques s'introduisent dans les ordinateurs sans autorisation"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:28.617371Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:28.758963Z": "TRANSLATION_DONE:deu"
+  }
+}

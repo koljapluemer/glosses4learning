@@ -1,0 +1,33 @@
+{
+  "content": "crudo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los occidentales no comen pescado crudo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:crude",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rohöl",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:грубі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:02.217488Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:02.235373Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:02.250758Z": "TRANSLATION_DONE:ukr"
+  }
+}

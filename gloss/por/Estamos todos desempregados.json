@@ -1,0 +1,27 @@
+{
+  "content": "Estamos todos desempregados.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Estamos"
+    ],
+    [
+      "PART",
+      "por:todos"
+    ],
+    [
+      "PART",
+      "por:desempregados"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.538038Z": "SPLIT_DONE"
+  }
+}

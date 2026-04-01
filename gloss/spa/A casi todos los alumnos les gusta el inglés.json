@@ -1,0 +1,51 @@
+{
+  "content": "A casi todos los alumnos les gusta el inglés.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by darinmex (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:A"
+    ],
+    [
+      "PART",
+      "spa:casi"
+    ],
+    [
+      "PART",
+      "spa:todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:alumnos"
+    ],
+    [
+      "PART",
+      "spa:les"
+    ],
+    [
+      "PART",
+      "spa:gusta"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:inglés"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.775067Z": "SPLIT_DONE"
+  }
+}

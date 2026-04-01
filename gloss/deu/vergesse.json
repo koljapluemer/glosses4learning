@@ -1,0 +1,37 @@
+{
+  "content": "vergesse",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich vergesse immer wieder seinen Namen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Manchmal vergesse ich, dass du ein Mädchen bist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Forgiveness",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Культура",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 제품",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:35.609371Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:35.628230Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:35.645803Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jag trodde Tom var död.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:trodde"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:var"
+    ],
+    [
+      "PART",
+      "swe:död"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.843252Z": "SPLIT_DONE"
+  }
+}

@@ -12,7 +12,9 @@
     "2026-03-28T10:56:00.161385Z": "TRANSLATION_DONE:ita",
     "2026-03-28T10:56:01.001871Z": "TRANSLATION_DONE:kab",
     "2026-03-28T10:56:02.112483Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T10:56:02.940801Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T10:56:02.940801Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:20.486071Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:20.503019Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -110,6 +112,20 @@
     [
       "USAGE_EXAMPLE",
       "deu:Du sollst nicht in meinen Schubladen herumschnüffeln!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:у вас є",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du sollst deine Hausaufgaben jetzt machen"
     ]
   ]
 }

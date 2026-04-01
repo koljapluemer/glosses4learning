@@ -1,0 +1,43 @@
+{
+  "content": "Algunos animales, como los tigres, comen carne.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:como"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:tigres"
+    ],
+    [
+      "PART",
+      "spa:comen"
+    ],
+    [
+      "PART",
+      "spa:carne"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.656344Z": "SPLIT_DONE"
+  }
+}

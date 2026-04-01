@@ -1,0 +1,37 @@
+{
+  "content": "neuesten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom muss mal seine Netzpräsenz auf den neuesten Stand der Dinge bringen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe ein Wörterbuch, das auf dem neuesten Stand ist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Latest",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Новини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기 있는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:03.240515Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:03.254800Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:03.282704Z": "TRANSLATION_DONE:kor"
+  }
+}

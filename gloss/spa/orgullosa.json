@@ -1,0 +1,33 @@
+{
+  "content": "orgullosa",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella está extremadamente orgullosa de su hijo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:proud",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stolz",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Пиріг",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:11.702062Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:11.716641Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.737053Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "descontentos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los nativos están descontentos hoy"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bad",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlecht",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:поганий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:02.846403Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:02.989822Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.008669Z": "TRANSLATION_DONE:ukr"
+  }
+}

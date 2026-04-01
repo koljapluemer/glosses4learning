@@ -9,7 +9,9 @@
     "2026-03-29T13:23:43.320897Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:43.525052Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:23:43.728777Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:23:43.928518Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:23:43.928518Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:42.526161Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:42.542156Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,28 @@
     [
       "TRANSLATION",
       "tur:doğru"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Справедливість",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한국어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:verdad"
+    ],
+    [
+      "TRANSLATION",
+      "spa:verdaderamente"
+    ],
+    [
+      "TRANSLATION",
+      "spa:verdadero"
     ]
   ]
 }

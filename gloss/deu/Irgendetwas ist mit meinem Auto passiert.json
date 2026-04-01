@@ -1,0 +1,39 @@
+{
+  "content": "Irgendetwas ist mit meinem Auto passiert.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Espi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Irgendetwas"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:meinem"
+    ],
+    [
+      "PART",
+      "deu:Auto"
+    ],
+    [
+      "PART",
+      "deu:passiert"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.530462Z": "SPLIT_DONE"
+  }
+}

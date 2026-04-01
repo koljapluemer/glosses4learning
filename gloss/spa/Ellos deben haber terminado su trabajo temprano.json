@@ -1,0 +1,43 @@
+{
+  "content": "Ellos deben haber terminado su trabajo temprano.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ricardo14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:deben"
+    ],
+    [
+      "PART",
+      "spa:haber"
+    ],
+    [
+      "PART",
+      "spa:terminado"
+    ],
+    [
+      "PART",
+      "spa:su"
+    ],
+    [
+      "PART",
+      "spa:trabajo"
+    ],
+    [
+      "PART",
+      "spa:temprano"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.688436Z": "SPLIT_DONE"
+  }
+}

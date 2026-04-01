@@ -1,0 +1,39 @@
+{
+  "content": "Tu comprends le français, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tu"
+    ],
+    [
+      "PART",
+      "fra:comprends"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.327761Z": "SPLIT_DONE"
+  }
+}

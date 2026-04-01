@@ -1,0 +1,31 @@
+{
+  "content": "Omnes praeter me insaniunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Omnes"
+    ],
+    [
+      "PART",
+      "lat:praeter"
+    ],
+    [
+      "PART",
+      "lat:me"
+    ],
+    [
+      "PART",
+      "lat:insaniunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.373418Z": "SPLIT_DONE"
+  }
+}

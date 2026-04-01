@@ -1,0 +1,39 @@
+{
+  "content": "Někdo se vloupal do domu Toma.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Někdo"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:vloupal"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:domu"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.679029Z": "SPLIT_DONE"
+  }
+}

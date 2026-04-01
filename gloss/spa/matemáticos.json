@@ -1,0 +1,33 @@
+{
+  "content": "matemáticos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos problemas matemáticos son muy difíciles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mathematicians",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mathematik",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Математика",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.007509Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:09.025647Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:09.045445Z": "TRANSLATION_DONE:ukr"
+  }
+}

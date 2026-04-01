@@ -1,0 +1,31 @@
+{
+  "content": "Beide meisjes hebben gelachen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Beide"
+    ],
+    [
+      "PART",
+      "nld:meisjes"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:gelachen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.202592Z": "SPLIT_DONE"
+  }
+}

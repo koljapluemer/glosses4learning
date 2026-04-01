@@ -1,0 +1,27 @@
+{
+  "content": "arbejdede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vidste ikke at du arbejdede her"
+    ],
+    [
+      "TRANSLATION",
+      "eng:worked",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bearbeitet",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:45.406863Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:45.545801Z": "TRANSLATION_DONE:deu"
+  }
+}

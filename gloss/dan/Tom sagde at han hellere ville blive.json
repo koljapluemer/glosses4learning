@@ -1,0 +1,43 @@
+{
+  "content": "Tom sagde at han hellere ville blive.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:sagde"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:han"
+    ],
+    [
+      "PART",
+      "dan:hellere"
+    ],
+    [
+      "PART",
+      "dan:ville"
+    ],
+    [
+      "PART",
+      "dan:blive"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.689823Z": "SPLIT_DONE"
+  }
+}

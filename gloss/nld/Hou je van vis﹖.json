@@ -1,0 +1,31 @@
+{
+  "content": "Hou je van vis?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sophizzle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Hou"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:vis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.190991Z": "SPLIT_DONE"
+  }
+}

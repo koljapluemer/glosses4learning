@@ -1,0 +1,47 @@
+{
+  "content": "Onko sinulla kaikki ihan hyvin? Oletko jotenkin stressaantunut?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Onko"
+    ],
+    [
+      "PART",
+      "fin:sinulla"
+    ],
+    [
+      "PART",
+      "fin:kaikki"
+    ],
+    [
+      "PART",
+      "fin:ihan"
+    ],
+    [
+      "PART",
+      "fin:hyvin"
+    ],
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:jotenkin"
+    ],
+    [
+      "PART",
+      "fin:stressaantunut"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:09.958806Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "content": "tagid",
+  "language": "ber",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ber:Ur tezmired ad tagid acemma seg wayen ara d-yessuter"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ber:Ur tezmired ad tagid acemma seg wayen ara d-tessuter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to speak",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to talk",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T14:52:29.528096Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Num quis sine pecunia beatus esse potest?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Num"
+    ],
+    [
+      "PART",
+      "lat:quis"
+    ],
+    [
+      "PART",
+      "lat:sine"
+    ],
+    [
+      "PART",
+      "lat:pecunia"
+    ],
+    [
+      "PART",
+      "lat:beatus"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.245604Z": "SPLIT_DONE"
+  }
+}

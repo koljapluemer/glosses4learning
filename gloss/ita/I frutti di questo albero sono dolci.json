@@ -1,0 +1,43 @@
+{
+  "content": "I frutti di questo albero sono dolci.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:I"
+    ],
+    [
+      "PART",
+      "ita:frutti"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:questo"
+    ],
+    [
+      "PART",
+      "ita:albero"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:dolci"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.886066Z": "SPLIT_DONE"
+  }
+}

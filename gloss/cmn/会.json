@@ -1,0 +1,53 @@
+{
+  "content": "会",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你会做什么？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我所有的朋友都会到那儿。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:在这里有人会说汉语吗？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yes",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:很少有人会批评他，即使有也不多。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:他们会让我们知道发生了什么。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:如果她知道的话，一定会很生气。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:即使现在，偶尔还是会有余震。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:啊，他们什么时候会再见？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我的书为什么会在这里？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:30.932584Z": "TRANSLATION_DONE:eng"
+  }
+}

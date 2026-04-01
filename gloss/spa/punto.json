@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T12:54:56.370766Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T12:54:56.370766Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:53:27.051212Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:27.196429Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -18,6 +22,20 @@
     [
       "TRANSLATION",
       "eng:spot"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay que llegar al punto de que te pregunten si estás mostrando todo tu potencial"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Punkt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:точка",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

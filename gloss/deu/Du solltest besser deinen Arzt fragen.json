@@ -1,0 +1,39 @@
+{
+  "content": "Du solltest besser deinen Arzt fragen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yorwba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:solltest"
+    ],
+    [
+      "PART",
+      "deu:besser"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Arzt"
+    ],
+    [
+      "PART",
+      "deu:fragen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.296572Z": "SPLIT_DONE"
+  }
+}

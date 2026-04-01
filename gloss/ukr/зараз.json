@@ -1,0 +1,35 @@
+{
+  "content": "зараз",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том готовий іти зараз"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зараз до тебе повернуся"
+    ],
+    [
+      "TRANSLATION",
+      "eng:now",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jetzt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У мене було таке відчуття, що я зараз помру"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:58.134076Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:58.147058Z": "TRANSLATION_DONE:deu"
+  }
+}

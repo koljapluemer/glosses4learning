@@ -1,0 +1,33 @@
+{
+  "content": "términos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Preséntese en términos sencillos, por favor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:terms",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Begriff",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Умови",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:41.854585Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:41.868942Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:42.015443Z": "TRANSLATION_DONE:ukr"
+  }
+}

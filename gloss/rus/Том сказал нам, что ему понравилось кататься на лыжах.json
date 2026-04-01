@@ -1,0 +1,51 @@
+{
+  "content": "Том сказал нам, что ему понравилось кататься на лыжах.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Balamax (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:сказал"
+    ],
+    [
+      "PART",
+      "rus:нам"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:ему"
+    ],
+    [
+      "PART",
+      "rus:понравилось"
+    ],
+    [
+      "PART",
+      "rus:кататься"
+    ],
+    [
+      "PART",
+      "rus:на"
+    ],
+    [
+      "PART",
+      "rus:лыжах"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.264579Z": "SPLIT_DONE"
+  }
+}

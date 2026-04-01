@@ -1,0 +1,27 @@
+{
+  "content": "blæste",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vinden blæste hans hat af"
+    ],
+    [
+      "TRANSLATION",
+      "eng:blowing",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Blasen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:18.927195Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:19.010847Z": "TRANSLATION_DONE:deu"
+  }
+}

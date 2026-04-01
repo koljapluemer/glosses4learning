@@ -1,0 +1,33 @@
+{
+  "content": "dormido",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaba mirando la televisión medio dormido"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sleep",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schlaf",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сплячі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.135025Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.149201Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.163862Z": "TRANSLATION_DONE:ukr"
+  }
+}

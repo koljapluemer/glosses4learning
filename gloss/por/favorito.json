@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T11:30:57.915Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -23,6 +25,10 @@
     [
       "TRANSLATION",
       "eng:favorite"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Quem é seu personagem favorito dos desenhos da Disney﹖"
     ]
   ]
 }

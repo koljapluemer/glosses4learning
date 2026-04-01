@@ -1,0 +1,27 @@
+{
+  "content": "undertekster",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne film har franske undertekster"
+    ],
+    [
+      "TRANSLATION",
+      "eng:subtitles",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Untertitel",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:49.647478Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:49.795754Z": "TRANSLATION_DONE:deu"
+  }
+}

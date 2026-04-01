@@ -1,0 +1,37 @@
+{
+  "content": "Casi",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Casi todos los que estaban presentes eran mujeres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Almost",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fast",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Поза «69»",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Casi todos los alumnos suspendieron el examen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:15.656681Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:15.672150Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:15.698498Z": "TRANSLATION_DONE:ukr"
+  }
+}

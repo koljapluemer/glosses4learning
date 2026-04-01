@@ -1,0 +1,39 @@
+{
+  "content": "Právě jsem začal číst tuto knihu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Právě"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:začal"
+    ],
+    [
+      "PART",
+      "ces:číst"
+    ],
+    [
+      "PART",
+      "ces:tuto"
+    ],
+    [
+      "PART",
+      "ces:knihu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.135005Z": "SPLIT_DONE"
+  }
+}

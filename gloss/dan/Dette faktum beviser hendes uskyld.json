@@ -1,0 +1,35 @@
+{
+  "content": "Dette faktum beviser hendes uskyld.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Dette"
+    ],
+    [
+      "PART",
+      "dan:faktum"
+    ],
+    [
+      "PART",
+      "dan:beviser"
+    ],
+    [
+      "PART",
+      "dan:hendes"
+    ],
+    [
+      "PART",
+      "dan:uskyld"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.655180Z": "SPLIT_DONE"
+  }
+}

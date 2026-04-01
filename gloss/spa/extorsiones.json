@@ -1,0 +1,33 @@
+{
+  "content": "extorsiones",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las extorsiones son habituales entre los delincuentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:extortion",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erpressung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вибачення",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:53.241996Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:53.387979Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:53.407423Z": "TRANSLATION_DONE:ukr"
+  }
+}

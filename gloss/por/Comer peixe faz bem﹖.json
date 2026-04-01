@@ -1,0 +1,31 @@
+{
+  "content": "Comer peixe faz bem?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Comer"
+    ],
+    [
+      "PART",
+      "por:peixe"
+    ],
+    [
+      "PART",
+      "por:faz"
+    ],
+    [
+      "PART",
+      "por:bem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.546300Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jeg ville alltid gjøre dette.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:ville"
+    ],
+    [
+      "PART",
+      "nob:alltid"
+    ],
+    [
+      "PART",
+      "nob:gjøre"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.228706Z": "SPLIT_DONE"
+  }
+}

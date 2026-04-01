@@ -1,0 +1,27 @@
+{
+  "content": "впевнена",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я впевнена, що ти дуже зайнята"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm sure",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin sicher",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.360005Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.375162Z": "TRANSLATION_DONE:deu"
+  }
+}

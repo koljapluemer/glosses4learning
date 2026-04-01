@@ -1,0 +1,33 @@
+{
+  "content": "interesa",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A la mayoría de las mujeres no les interesa eso"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interested",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Interesse",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Цікаві",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.900909Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.919463Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.938171Z": "TRANSLATION_DONE:ukr"
+  }
+}

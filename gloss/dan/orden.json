@@ -1,0 +1,31 @@
+{
+  "content": "orden",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan håndtere dette. Det er helt i orden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg synes det er i orden nu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:order",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bestellung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:11.734410Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:11.869771Z": "TRANSLATION_DONE:deu"
+  }
+}

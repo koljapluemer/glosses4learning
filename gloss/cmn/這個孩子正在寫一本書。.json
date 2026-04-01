@@ -1,0 +1,43 @@
+{
+  "content": "這個孩子正在寫一本書。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:這個"
+    ],
+    [
+      "PART",
+      "cmn:孩子"
+    ],
+    [
+      "PART",
+      "cmn:正在"
+    ],
+    [
+      "PART",
+      "cmn:寫"
+    ],
+    [
+      "PART",
+      "cmn:一本"
+    ],
+    [
+      "PART",
+      "cmn:書"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:16.569534Z": "SPLIT_DONE"
+  }
+}

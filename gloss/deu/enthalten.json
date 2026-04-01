@@ -1,0 +1,33 @@
+{
+  "content": "enthalten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ist das Mittagessen in diesem Preis enthalten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:included",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:В наявності",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:으로",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:14.337039Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:14.358792Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:14.384003Z": "TRANSLATION_DONE:kor"
+  }
+}

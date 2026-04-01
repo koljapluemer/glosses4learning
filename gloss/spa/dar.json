@@ -1,0 +1,41 @@
+{
+  "content": "dar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No nos vengas ahora a dar la tabarra con tus ínfulas intelectualoides"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los visitantes no pueden dar de comer a los animales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:give",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:давати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hasta los idiotas te pueden dar buenos consejos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:38.678996Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:38.679456Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:38.683429Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Schirm",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat schon wieder seinen Schirm vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Screening",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Скріншоти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:공지사항",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:04.059188Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:04.101789Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:04.123856Z": "TRANSLATION_DONE:kor"
+  }
+}

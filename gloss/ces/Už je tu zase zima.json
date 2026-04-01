@@ -1,0 +1,35 @@
+{
+  "content": "Už je tu zase zima.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Už"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:tu"
+    ],
+    [
+      "PART",
+      "ces:zase"
+    ],
+    [
+      "PART",
+      "ces:zima"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.758444Z": "SPLIT_DONE"
+  }
+}

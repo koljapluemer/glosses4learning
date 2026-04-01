@@ -1,0 +1,27 @@
+{
+  "content": "træt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan godt køre hvis du er træt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tired",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:müde",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:50.122493Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:50.298523Z": "TRANSLATION_DONE:deu"
+  }
+}

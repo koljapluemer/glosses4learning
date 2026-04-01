@@ -8,7 +8,9 @@
     "2026-01-27T14:29:23.855369Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:14:13.377985Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:13.544101Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:14:13.729346Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:14:13.729346Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:35:39.438175Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:39.467359Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,32 @@
     [
       "TRANSLATION",
       "spa:Mary"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom verglich seine Antworten mit denen von Mary"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom und Mary haben wahrscheinlich gemeinsam gegessen"
+    ],
+    [
+      "TRANSLATION",
+      "dan:Mary"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Марія",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:담당자﹕ Ms",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tha:แมรี่"
     ]
   ]
 }

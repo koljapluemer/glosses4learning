@@ -1,0 +1,39 @@
+{
+  "content": "Eu sempre gostei de jogar futebol.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Advanced (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:sempre"
+    ],
+    [
+      "PART",
+      "por:gostei"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:jogar"
+    ],
+    [
+      "PART",
+      "por:futebol"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.531614Z": "SPLIT_DONE"
+  }
+}

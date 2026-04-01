@@ -1,0 +1,45 @@
+{
+  "content": "einkaufen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom ging mit seiner Freundin einkaufen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom fuhr mit seiner Freundin einkaufen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie ist mit ihrer Freundin einkaufen gegangen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shopping",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Магазини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:상품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich sehe, dass du wieder einkaufen warst"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:12.524440Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:12.680051Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:12.705565Z": "TRANSLATION_DONE:kor"
+  }
+}

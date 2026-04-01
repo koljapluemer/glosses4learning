@@ -1,0 +1,39 @@
+{
+  "content": "Mary mira televisión todas las noches.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Mary"
+    ],
+    [
+      "PART",
+      "spa:mira"
+    ],
+    [
+      "PART",
+      "spa:televisión"
+    ],
+    [
+      "PART",
+      "spa:todas"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:noches"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.576039Z": "SPLIT_DONE"
+  }
+}

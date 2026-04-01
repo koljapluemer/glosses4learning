@@ -1,0 +1,35 @@
+{
+  "content": "konuşmaya",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin ve benim konuşmaya ihtiyacımız var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:talk",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gespräch",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom az önce benimle konuşmaya başladı"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Biz sadece konuşmaya devam etmek zorundayız"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:33.281184Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:33.425062Z": "TRANSLATION_DONE:deu"
+  }
+}

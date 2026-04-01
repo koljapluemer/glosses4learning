@@ -1,0 +1,33 @@
+{
+  "content": "quedarte",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Puedes quedarte hasta las dos y media﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Stay",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufenthalt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проживання",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:14.344405Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:14.362079Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:14.509524Z": "TRANSLATION_DONE:ukr"
+  }
+}

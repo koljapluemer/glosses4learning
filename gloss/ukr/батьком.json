@@ -1,0 +1,27 @@
+{
+  "content": "батьком",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я дуже пишаюся батьком"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Father",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vater",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:51.910887Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:51.927010Z": "TRANSLATION_DONE:deu"
+  }
+}

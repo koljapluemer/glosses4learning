@@ -1,0 +1,35 @@
+{
+  "content": "Dit meisje komt uit Japan.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ],
+    [
+      "PART",
+      "nld:komt"
+    ],
+    [
+      "PART",
+      "nld:uit"
+    ],
+    [
+      "PART",
+      "nld:Japan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.161180Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "kat",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Min kat og min hund kommer ud af det med hinanden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cat",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Katze",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:45.587373Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:45.726589Z": "TRANSLATION_DONE:deu"
+  }
+}

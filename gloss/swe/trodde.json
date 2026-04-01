@@ -1,0 +1,33 @@
+{
+  "content": "trodde",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag trodde du hatade rödvin"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag trodde Tom var död"
+    ],
+    [
+      "TRANSLATION",
+      "eng:believed",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag trodde inte att du skulle vara här"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag trodde att Tom skulle bli panikslagen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:04.849524Z": "TRANSLATION_DONE:eng"
+  }
+}

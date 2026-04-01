@@ -1,0 +1,35 @@
+{
+  "content": "Estaban presentes todos menos uno.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by opor (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Estaban"
+    ],
+    [
+      "PART",
+      "spa:presentes"
+    ],
+    [
+      "PART",
+      "spa:todos"
+    ],
+    [
+      "PART",
+      "spa:menos"
+    ],
+    [
+      "PART",
+      "spa:uno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.662729Z": "SPLIT_DONE"
+  }
+}

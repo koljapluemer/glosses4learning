@@ -1,0 +1,39 @@
+{
+  "content": "Tom věří, že Mary byla zavražděna.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:věří"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:byla"
+    ],
+    [
+      "PART",
+      "ces:zavražděna"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.101121Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Is dit waar je moeder werkt?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Citrine (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Is"
+    ],
+    [
+      "PART",
+      "nld:dit"
+    ],
+    [
+      "PART",
+      "nld:waar"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:moeder"
+    ],
+    [
+      "PART",
+      "nld:werkt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.138789Z": "SPLIT_DONE"
+  }
+}

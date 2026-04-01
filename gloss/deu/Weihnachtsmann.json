@@ -1,0 +1,33 @@
+{
+  "content": "Weihnachtsmann",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Weihnachtsmann hat auf Toms Brief nicht geantwortet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Santa Claus",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Санта Клаус",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:산타 클로스",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:32.246051Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:32.262254Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:32.279790Z": "TRANSLATION_DONE:kor"
+  }
+}

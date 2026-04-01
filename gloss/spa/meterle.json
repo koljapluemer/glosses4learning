@@ -1,0 +1,33 @@
+{
+  "content": "meterle",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay que meterle más presión a aquella rueda"
+    ],
+    [
+      "TRANSLATION",
+      "eng:put him in",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ihn reinstecken",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ставити його в",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:12.803734Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:12.827122Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:12.990082Z": "TRANSLATION_DONE:ukr"
+  }
+}

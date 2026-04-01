@@ -1,0 +1,35 @@
+{
+  "content": "أيمكنك ترجمة الإنجليزية إلى اليابانية؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أيمكنك"
+    ],
+    [
+      "PART",
+      "ara:ترجمة"
+    ],
+    [
+      "PART",
+      "ara:الإنجليزية"
+    ],
+    [
+      "PART",
+      "ara:إلى"
+    ],
+    [
+      "PART",
+      "ara:اليابانية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.515717Z": "SPLIT_DONE"
+  }
+}

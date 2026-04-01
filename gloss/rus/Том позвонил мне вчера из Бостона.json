@@ -1,0 +1,39 @@
+{
+  "content": "Том позвонил мне вчера из Бостона.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:вчера"
+    ],
+    [
+      "PART",
+      "rus:из"
+    ],
+    [
+      "PART",
+      "rus:Бостона"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.520099Z": "SPLIT_DONE"
+  }
+}

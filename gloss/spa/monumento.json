@@ -1,0 +1,33 @@
+{
+  "content": "monumento",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El monumento está cerrado para los visitantes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:monument",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Denkmal",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пам'ятник",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:15.446089Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:15.459537Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:15.477523Z": "TRANSLATION_DONE:ukr"
+  }
+}

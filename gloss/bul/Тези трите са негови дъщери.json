@@ -1,0 +1,35 @@
+{
+  "content": "Тези трите са негови дъщери.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Тези"
+    ],
+    [
+      "PART",
+      "bul:трите"
+    ],
+    [
+      "PART",
+      "bul:са"
+    ],
+    [
+      "PART",
+      "bul:негови"
+    ],
+    [
+      "PART",
+      "bul:дъщери"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:02.764924Z": "SPLIT_DONE"
+  }
+}

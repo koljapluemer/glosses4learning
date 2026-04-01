@@ -1,0 +1,39 @@
+{
+  "content": "Lassen Sie mich meine Worte wiederholen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yorwba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Lassen"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:mich"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Worte"
+    ],
+    [
+      "PART",
+      "deu:wiederholen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.391611Z": "SPLIT_DONE"
+  }
+}

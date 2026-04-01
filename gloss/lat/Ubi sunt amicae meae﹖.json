@@ -1,0 +1,31 @@
+{
+  "content": "Ubi sunt amicae meae?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ubi"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ],
+    [
+      "PART",
+      "lat:amicae"
+    ],
+    [
+      "PART",
+      "lat:meae"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.316945Z": "SPLIT_DONE"
+  }
+}

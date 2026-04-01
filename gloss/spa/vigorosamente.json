@@ -1,0 +1,33 @@
+{
+  "content": "vigorosamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él caminó vigorosamente delante de nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vigorously",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kräftig",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:енергійно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:43.755384Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:43.771413Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:43.795749Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "periódicos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La televisión y los periódicos juegan papeles complementarios"
+    ],
+    [
+      "TRANSLATION",
+      "eng:periodic",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Periodizität",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:періодично",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:22.945219Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:22.958200Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:22.973506Z": "TRANSLATION_DONE:ukr"
+  }
+}

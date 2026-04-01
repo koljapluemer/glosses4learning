@@ -1,0 +1,39 @@
+{
+  "content": "Mi pensas, ke ĉiuj estas feliĉaj.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Verdastelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:pensas"
+    ],
+    [
+      "PART",
+      "epo:ke"
+    ],
+    [
+      "PART",
+      "epo:ĉiuj"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:feliĉaj"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:59.683692Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "auskämen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom wollte, dass alle miteinander auskämen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Of which﹕",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:З яких﹕",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:다음 것﹕",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:00.021758Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:00.037647Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:00.056309Z": "TRANSLATION_DONE:kor"
+  }
+}

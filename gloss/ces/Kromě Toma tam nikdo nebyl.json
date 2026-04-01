@@ -1,0 +1,35 @@
+{
+  "content": "Kromě Toma tam nikdo nebyl.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Kromě"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:tam"
+    ],
+    [
+      "PART",
+      "ces:nikdo"
+    ],
+    [
+      "PART",
+      "ces:nebyl"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.160332Z": "SPLIT_DONE"
+  }
+}

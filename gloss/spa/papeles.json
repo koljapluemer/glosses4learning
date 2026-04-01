@@ -1,0 +1,33 @@
+{
+  "content": "papeles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La televisión y los periódicos juegan papeles complementarios"
+    ],
+    [
+      "TRANSLATION",
+      "eng:paper",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Papier",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:папір",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:20.645754Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:21.243260Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:21.256510Z": "TRANSLATION_DONE:ukr"
+  }
+}

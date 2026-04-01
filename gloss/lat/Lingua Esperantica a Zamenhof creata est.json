@@ -1,0 +1,39 @@
+{
+  "content": "Lingua Esperantica a Zamenhof creata est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Lingua"
+    ],
+    [
+      "PART",
+      "lat:Esperantica"
+    ],
+    [
+      "PART",
+      "lat:a"
+    ],
+    [
+      "PART",
+      "lat:Zamenhof"
+    ],
+    [
+      "PART",
+      "lat:creata"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.342147Z": "SPLIT_DONE"
+  }
+}

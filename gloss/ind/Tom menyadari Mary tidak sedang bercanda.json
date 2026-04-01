@@ -1,0 +1,39 @@
+{
+  "content": "Tom menyadari Mary tidak sedang bercanda.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lewis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:menyadari"
+    ],
+    [
+      "PART",
+      "ind:Mary"
+    ],
+    [
+      "PART",
+      "ind:tidak"
+    ],
+    [
+      "PART",
+      "ind:sedang"
+    ],
+    [
+      "PART",
+      "ind:bercanda"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:26.992743Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "Liste",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom strich etwas von seiner Liste"
+    ],
+    [
+      "TRANSLATION",
+      "eng:List",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Список",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er strich etwas von seiner Liste"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:33.864025Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:33.864275Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:33.871641Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Oletin, että Tom ymmärtäisi ranskaa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletin"
+    ],
+    [
+      "PART",
+      "fin:että"
+    ],
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:ymmärtäisi"
+    ],
+    [
+      "PART",
+      "fin:ranskaa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.909546Z": "SPLIT_DONE"
+  }
+}

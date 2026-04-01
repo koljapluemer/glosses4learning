@@ -1,0 +1,37 @@
+{
+  "content": "Im",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Im Sommer gibt es doch nichts Schöneres als eine Wassermelone!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:In",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:У",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:내 계정",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Im Krankenhaus ist er wieder zu Bewusstsein gekommen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:25.915825Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:26.062253Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:26.210399Z": "TRANSLATION_DONE:kor"
+  }
+}

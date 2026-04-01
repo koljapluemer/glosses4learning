@@ -1,0 +1,31 @@
+{
+  "content": "Tom sedang mengupasi kentang-kentangnya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:sedang"
+    ],
+    [
+      "PART",
+      "ind:mengupasi"
+    ],
+    [
+      "PART",
+      "ind:kentang-kentangnya"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.864810Z": "SPLIT_DONE"
+  }
+}

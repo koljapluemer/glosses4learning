@@ -1,0 +1,35 @@
+{
+  "content": "Pokoušeli jsme se je zastavit.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Pokoušeli"
+    ],
+    [
+      "PART",
+      "ces:jsme"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:zastavit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.789196Z": "SPLIT_DONE"
+  }
+}

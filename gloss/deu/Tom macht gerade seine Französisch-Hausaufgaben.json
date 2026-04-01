@@ -1,0 +1,35 @@
+{
+  "content": "Tom macht gerade seine Französisch-Hausaufgaben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mramosch (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:macht"
+    ],
+    [
+      "PART",
+      "deu:gerade"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Französisch-Hausaufgaben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.365809Z": "SPLIT_DONE"
+  }
+}

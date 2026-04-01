@@ -1,0 +1,27 @@
+{
+  "content": "betalte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom betalte for Marys pandetatovering"
+    ],
+    [
+      "TRANSLATION",
+      "eng:paid",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bezahlt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:49.629218Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:49.770442Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "butikscenter",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg elsker at shoppe i dette butikscenter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:store centre,",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lagerzentrum,",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:54.684579Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:54.859229Z": "TRANSLATION_DONE:deu"
+  }
+}

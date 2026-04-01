@@ -1,0 +1,41 @@
+{
+  "content": "stundenlang",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom und Maria haben sich stundenlang unterhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die haben sich stundenlang unterhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Laila und Sami haben sich stundenlang unterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hours",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:час",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:영업시간",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:21.888900Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:21.902913Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:22.045047Z": "TRANSLATION_DONE:kor"
+  }
+}

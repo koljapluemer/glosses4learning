@@ -1,0 +1,43 @@
+{
+  "content": "Meu irmão é estudante do primeiro ano.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:irmão"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:estudante"
+    ],
+    [
+      "PART",
+      "por:do"
+    ],
+    [
+      "PART",
+      "por:primeiro"
+    ],
+    [
+      "PART",
+      "por:ano"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.563936Z": "SPLIT_DONE"
+  }
+}

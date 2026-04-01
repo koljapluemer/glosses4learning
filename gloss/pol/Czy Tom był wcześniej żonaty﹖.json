@@ -1,0 +1,35 @@
+{
+  "content": "Czy Tom był wcześniej żonaty?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by yessoos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:był"
+    ],
+    [
+      "PART",
+      "pol:wcześniej"
+    ],
+    [
+      "PART",
+      "pol:żonaty"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.306185Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom nie zauważył niczego podejrzanego.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jimbojim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:zauważył"
+    ],
+    [
+      "PART",
+      "pol:niczego"
+    ],
+    [
+      "PART",
+      "pol:podejrzanego"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.312376Z": "SPLIT_DONE"
+  }
+}

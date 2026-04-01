@@ -1,0 +1,39 @@
+{
+  "content": "Řekni mi, proč se tohle děje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Řekni"
+    ],
+    [
+      "PART",
+      "ces:mi"
+    ],
+    [
+      "PART",
+      "ces:proč"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:tohle"
+    ],
+    [
+      "PART",
+      "ces:děje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.716872Z": "SPLIT_DONE"
+  }
+}

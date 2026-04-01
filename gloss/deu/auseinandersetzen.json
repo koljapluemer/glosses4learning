@@ -1,0 +1,37 @@
+{
+  "content": "auseinandersetzen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es war kein Spaziergang im Park, sich mit Ziri auseinandersetzen zu müssen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:disassembled",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:демонтаж",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde mich mit dem Problem auseinandersetzen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:41.774375Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:41.921450Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:41.975808Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "На",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:На нього можна розраховувати"
+    ],
+    [
+      "TRANSLATION",
+      "eng:On",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auf",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:48.849152Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:48.865106Z": "TRANSLATION_DONE:deu"
+  }
+}

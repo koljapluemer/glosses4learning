@@ -1,0 +1,43 @@
+{
+  "content": "Я знаю, що ти про мене думаєш.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:знаю"
+    ],
+    [
+      "PART",
+      "ukr:що"
+    ],
+    [
+      "PART",
+      "ukr:ти"
+    ],
+    [
+      "PART",
+      "ukr:про"
+    ],
+    [
+      "PART",
+      "ukr:мене"
+    ],
+    [
+      "PART",
+      "ukr:думаєш"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.935027Z": "SPLIT_DONE"
+  }
+}

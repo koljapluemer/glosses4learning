@@ -1,0 +1,31 @@
+{
+  "content": "Tässä saattaa olla ongelmia.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tässä"
+    ],
+    [
+      "PART",
+      "fin:saattaa"
+    ],
+    [
+      "PART",
+      "fin:olla"
+    ],
+    [
+      "PART",
+      "fin:ongelmia"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.898893Z": "SPLIT_DONE"
+  }
+}

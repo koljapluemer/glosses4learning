@@ -1,0 +1,33 @@
+{
+  "content": "wiedersehen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es könnte sein, dass wir Tom nie mehr wiedersehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:see again",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:знову",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:다시보기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:44.452682Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:44.469164Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:44.483000Z": "TRANSLATION_DONE:kor"
+  }
+}

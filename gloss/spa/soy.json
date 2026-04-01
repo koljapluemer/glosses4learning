@@ -1,0 +1,33 @@
+{
+  "content": "soy",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No soy lo suficientemente bueno para ella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:16.162547Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:16.175611Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:16.319967Z": "TRANSLATION_DONE:ukr"
+  }
+}

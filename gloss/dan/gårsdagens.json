@@ -1,0 +1,27 @@
+{
+  "content": "gårsdagens",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad var gårsdagens vigtigste begivenheder﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yesterday's",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gestern",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:25.539876Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:25.716819Z": "TRANSLATION_DONE:deu"
+  }
+}

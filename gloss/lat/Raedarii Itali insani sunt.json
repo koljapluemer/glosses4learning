@@ -1,0 +1,31 @@
+{
+  "content": "Raedarii Itali insani sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Raedarii"
+    ],
+    [
+      "PART",
+      "lat:Itali"
+    ],
+    [
+      "PART",
+      "lat:insani"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.380940Z": "SPLIT_DONE"
+  }
+}

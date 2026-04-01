@@ -1,0 +1,39 @@
+{
+  "content": "Czy naprawdę jest zimno w Bostonie?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by polski_ren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:naprawdę"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:zimno"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:Bostonie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.309657Z": "SPLIT_DONE"
+  }
+}

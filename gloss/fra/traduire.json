@@ -9,6 +9,27 @@
     [
       "TRANSLATION",
       "ita:tradusse"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un peut-il traduire cette phrase ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Translate",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Übersetzung",
+      "Auto-translated with argostranslate (fr→en→de)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:53.267984Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:53.420375Z": "TRANSLATION_DONE:deu"
+  }
 }

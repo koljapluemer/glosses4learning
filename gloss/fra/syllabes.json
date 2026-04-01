@@ -1,0 +1,27 @@
+{
+  "content": "syllabes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'agit d'une ridicule et superfétatoire suite de Fibonacci de syllabes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:syllables",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Silben",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.676966Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.692379Z": "TRANSLATION_DONE:deu"
+  }
+}

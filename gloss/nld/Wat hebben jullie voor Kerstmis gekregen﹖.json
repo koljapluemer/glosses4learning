@@ -1,0 +1,39 @@
+{
+  "content": "Wat hebben jullie voor Kerstmis gekregen?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:Kerstmis"
+    ],
+    [
+      "PART",
+      "nld:gekregen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.159626Z": "SPLIT_DONE"
+  }
+}

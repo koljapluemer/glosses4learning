@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:32:26.921592Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:09.737200Z": "TRANSLATION_DONE:fra",
-    "2026-03-29T13:18:09.891142Z": "TRANSLATION_DONE:ita"
+    "2026-03-29T13:18:09.891142Z": "TRANSLATION_DONE:ita",
+    "2026-03-31T11:37:05.535013Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:05.678404Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -49,6 +51,20 @@
     [
       "TRANSLATION",
       "spa:tres"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nur drei Leute haben sich die Mühe gemacht zu antworten"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тример",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:상세 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

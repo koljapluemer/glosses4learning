@@ -1,0 +1,35 @@
+{
+  "content": "Byla jsem v Bostonu zatčena.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Byla"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:v"
+    ],
+    [
+      "PART",
+      "ces:Bostonu"
+    ],
+    [
+      "PART",
+      "ces:zatčena"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.045479Z": "SPLIT_DONE"
+  }
+}

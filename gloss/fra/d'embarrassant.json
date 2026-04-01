@@ -1,0 +1,27 @@
+{
+  "content": "d'embarrassant",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelque chose d'embarrassant s'est produit la semaine passée"
+    ],
+    [
+      "TRANSLATION",
+      "eng:embarrassing",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:peinlich",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:19.595229Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:19.624995Z": "TRANSLATION_DONE:deu"
+  }
+}

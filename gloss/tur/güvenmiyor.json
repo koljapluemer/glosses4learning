@@ -1,0 +1,27 @@
+{
+  "content": "güvenmiyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom herhangi birinin söylediğine güvenmiyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not trust",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht vertrauen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:47.384874Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:47.399584Z": "TRANSLATION_DONE:deu"
+  }
+}

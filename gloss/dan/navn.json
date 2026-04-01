@@ -1,0 +1,31 @@
+{
+  "content": "navn",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke hans virkelige navn"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke hans rigtige navn"
+    ],
+    [
+      "TRANSLATION",
+      "eng:name",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Name",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:04.121914Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:04.262451Z": "TRANSLATION_DONE:deu"
+  }
+}

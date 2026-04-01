@@ -1,0 +1,47 @@
+{
+  "content": "Las personas pueden hablar, pero los animales no.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Las"
+    ],
+    [
+      "PART",
+      "spa:personas"
+    ],
+    [
+      "PART",
+      "spa:pueden"
+    ],
+    [
+      "PART",
+      "spa:hablar"
+    ],
+    [
+      "PART",
+      "spa:pero"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.608929Z": "SPLIT_DONE"
+  }
+}

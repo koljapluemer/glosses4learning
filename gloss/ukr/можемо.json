@@ -1,0 +1,35 @@
+{
+  "content": "можемо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми не можемо всі бути такими, як Том"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми не можемо допустити, щоб це трапилося знову"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том знає, що ми не можемо цього зробити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We can",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das können wir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.970199Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.990747Z": "TRANSLATION_DONE:deu"
+  }
+}

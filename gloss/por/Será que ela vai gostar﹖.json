@@ -1,0 +1,35 @@
+{
+  "content": "Será que ela vai gostar?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ricardo14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Será"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:ela"
+    ],
+    [
+      "PART",
+      "por:vai"
+    ],
+    [
+      "PART",
+      "por:gostar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.558145Z": "SPLIT_DONE"
+  }
+}

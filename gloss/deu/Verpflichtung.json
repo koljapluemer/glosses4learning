@@ -1,0 +1,33 @@
+{
+  "content": "Verpflichtung",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom ist seiner Verpflichtung nicht nachgekommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Commitment",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 상품",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:30.424412Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:30.448045Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:30.464829Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "pelos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él describió con pelos y señales lo que ocurrió"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Weights",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gewichte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вага",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:22.222341Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:22.236986Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:22.252578Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Potesne linguam Francogallicam docere?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potesne"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Francogallicam"
+    ],
+    [
+      "PART",
+      "lat:docere"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.337604Z": "SPLIT_DONE"
+  }
+}

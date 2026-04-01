@@ -1,0 +1,37 @@
+{
+  "content": "mediados",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Mary le gustan los muebles modernos de mediados de siglo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Tom le gustan los muebles modernos de mediados de siglo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:medium",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Medium",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:середній",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.238888Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:09.254171Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:09.271287Z": "TRANSLATION_DONE:ukr"
+  }
+}

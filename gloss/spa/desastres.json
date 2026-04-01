@@ -1,0 +1,33 @@
+{
+  "content": "desastres",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los terremotos y las inundaciones son desastres naturales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Disasters",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Katastrophen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Десерти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:41.281920Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:41.296329Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:41.312607Z": "TRANSLATION_DONE:ukr"
+  }
+}

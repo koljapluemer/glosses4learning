@@ -1,0 +1,39 @@
+{
+  "content": "gjort",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du kommer til at betale for det du har gjort!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:done",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erledigt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Mary siger, hun aldrig har gjort det"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Gad vide hvad Tom ville have gjort"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville ikke have gjort det"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:23.375500Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:23.514601Z": "TRANSLATION_DONE:deu"
+  }
+}

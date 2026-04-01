@@ -1,0 +1,27 @@
+{
+  "content": "açıklaması",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hiç kimsenin bir açıklaması yok"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Description",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warenbezeichnung",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:45.654625Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:45.668452Z": "TRANSLATION_DONE:deu"
+  }
+}

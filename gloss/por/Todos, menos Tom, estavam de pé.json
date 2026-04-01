@@ -1,0 +1,39 @@
+{
+  "content": "Todos, menos Tom, estavam de pé.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:menos"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:estavam"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:pé"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.500598Z": "SPLIT_DONE"
+  }
+}

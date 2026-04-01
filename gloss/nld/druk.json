@@ -1,0 +1,33 @@
+{
+  "content": "druk",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik ben er zeker van dat jullie het erg druk hebben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Pressure",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik ben er zeker van dat je het erg druk hebt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik weet dat je het waarschijnlijk druk hebt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:We hebben het op het moment erg druk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:53.911686Z": "TRANSLATION_DONE:eng"
+  }
+}

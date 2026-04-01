@@ -1,0 +1,37 @@
+{
+  "content": "Jahres",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kommen Sie nach Ablauf eines Jahres wieder!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Year",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Рік",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:1 년",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das wird voraussichtlich im Sommer des nächsten Jahres geschehen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:27.341344Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:27.483037Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:27.510547Z": "TRANSLATION_DONE:kor"
+  }
+}

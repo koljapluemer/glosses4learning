@@ -57,6 +57,32 @@
     [
       "TRANSLATION",
       "ita:lasciato"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hätte mich auf meinen Instinkt verlassen sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du kannst dich nicht auf seine Hilfe verlassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest dich auf dein Bauchgefühl verlassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Auf sein Versprechen kann man sich nicht verlassen"
     ]
   ],
   "tags": [
@@ -65,6 +91,8 @@
   "logs": {
     "2026-03-29T13:23:22.637893Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:22.837617Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:23:23.023017Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:23:23.023017Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:36.749654Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:36.792906Z": "TRANSLATION_DONE:kor"
   }
 }

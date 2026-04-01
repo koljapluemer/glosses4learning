@@ -1,0 +1,39 @@
+{
+  "content": "Tom og jeg er forlovet nå.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elithyia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:og"
+    ],
+    [
+      "PART",
+      "nob:jeg"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:forlovet"
+    ],
+    [
+      "PART",
+      "nob:nå"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.185836Z": "SPLIT_DONE"
+  }
+}

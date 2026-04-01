@@ -1,0 +1,27 @@
+{
+  "content": "tomhændet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ønskede ikke at tage afsted tomhændet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:empty-handed",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:leere Hand",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:47.440439Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:47.630360Z": "TRANSLATION_DONE:deu"
+  }
+}

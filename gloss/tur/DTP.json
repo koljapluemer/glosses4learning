@@ -1,0 +1,27 @@
+{
+  "content": "DTP",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun başka bir DTP çekimine ihtiyacı var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:DTP",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:DTP",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:25.916902Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:25.935980Z": "TRANSLATION_DONE:deu"
+  }
+}

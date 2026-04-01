@@ -1,0 +1,27 @@
+{
+  "content": "l'avez-vous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi ne l'avez-vous pas dit à quelqu'un ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have it﹖",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hast du es﹖",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:31.560944Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:31.709418Z": "TRANSLATION_DONE:deu"
+  }
+}

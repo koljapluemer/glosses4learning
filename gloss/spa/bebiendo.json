@@ -1,0 +1,37 @@
+{
+  "content": "bebiendo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni está bebiendo leche de camella"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni está bebiendo leche de camello"
+    ],
+    [
+      "TRANSLATION",
+      "eng:drinking",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Trinken",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пити",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:28.872444Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:28.888842Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:28.909527Z": "TRANSLATION_DONE:ukr"
+  }
+}

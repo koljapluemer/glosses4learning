@@ -1,0 +1,35 @@
+{
+  "content": "пропозиція",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це пропозиція, від якої вони не зможуть відмовитися"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це пропозиція, від якої ти не зможеш відмовитися"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це пропозиція, від якої ви не зможете відмовитися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:supply",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Versorgung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:04.152327Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:04.165234Z": "TRANSLATION_DONE:deu"
+  }
+}

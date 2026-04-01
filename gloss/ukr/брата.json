@@ -1,0 +1,27 @@
+{
+  "content": "брата",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він вийшов за мого брата"
+    ],
+    [
+      "TRANSLATION",
+      "eng:brother",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bruder",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:52.420076Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:52.433207Z": "TRANSLATION_DONE:deu"
+  }
+}

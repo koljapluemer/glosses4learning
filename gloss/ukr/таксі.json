@@ -1,0 +1,27 @@
+{
+  "content": "таксі",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том взяв таксі, щоб повернутися додому"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cab",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Taxi",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:06.337238Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:06.350335Z": "TRANSLATION_DONE:deu"
+  }
+}

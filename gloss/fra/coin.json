@@ -1,0 +1,27 @@
+{
+  "content": "coin",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce qu'il n'y aurait pas des flics, dans le coin ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:corner",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ecke",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:15.943543Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:16.020348Z": "TRANSLATION_DONE:deu"
+  }
+}

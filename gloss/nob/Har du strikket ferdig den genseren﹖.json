@@ -1,0 +1,39 @@
+{
+  "content": "Har du strikket ferdig den genseren?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Har"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:strikket"
+    ],
+    [
+      "PART",
+      "nob:ferdig"
+    ],
+    [
+      "PART",
+      "nob:den"
+    ],
+    [
+      "PART",
+      "nob:genseren"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.251155Z": "SPLIT_DONE"
+  }
+}

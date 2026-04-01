@@ -1,0 +1,27 @@
+{
+  "content": "fyret",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er helt sikkert at Tom bliver fyret"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fired",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefeuert",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:17.857397Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:17.998567Z": "TRANSLATION_DONE:deu"
+  }
+}

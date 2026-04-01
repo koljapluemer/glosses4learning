@@ -1,0 +1,39 @@
+{
+  "content": "Jeg kender ikke hans rigtige navn.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kender"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:hans"
+    ],
+    [
+      "PART",
+      "dan:rigtige"
+    ],
+    [
+      "PART",
+      "dan:navn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.009899Z": "SPLIT_DONE"
+  }
+}

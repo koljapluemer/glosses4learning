@@ -1,0 +1,29 @@
+{
+  "content": "tenis",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Viděla jsem, jak Tom hraje tenis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Viděl jsem, jak Tom hraje tenis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tennis",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Ještě nikdy jsem s Tomem nehrál tenis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:52.978448Z": "TRANSLATION_DONE:eng"
+  }
+}

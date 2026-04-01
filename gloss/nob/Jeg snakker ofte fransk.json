@@ -1,0 +1,31 @@
+{
+  "content": "Jeg snakker ofte fransk.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ],
+    [
+      "PART",
+      "nob:ofte"
+    ],
+    [
+      "PART",
+      "nob:fransk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.287917Z": "SPLIT_DONE"
+  }
+}

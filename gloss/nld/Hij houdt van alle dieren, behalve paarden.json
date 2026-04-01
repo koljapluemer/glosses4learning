@@ -1,0 +1,43 @@
+{
+  "content": "Hij houdt van alle dieren, behalve paarden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Citrine (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Hij"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:alle"
+    ],
+    [
+      "PART",
+      "nld:dieren"
+    ],
+    [
+      "PART",
+      "nld:behalve"
+    ],
+    [
+      "PART",
+      "nld:paarden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.140553Z": "SPLIT_DONE"
+  }
+}

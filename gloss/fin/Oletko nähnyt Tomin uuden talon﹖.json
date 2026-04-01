@@ -1,0 +1,35 @@
+{
+  "content": "Oletko nähnyt Tomin uuden talon?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:nähnyt"
+    ],
+    [
+      "PART",
+      "fin:Tomin"
+    ],
+    [
+      "PART",
+      "fin:uuden"
+    ],
+    [
+      "PART",
+      "fin:talon"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.044170Z": "SPLIT_DONE"
+  }
+}

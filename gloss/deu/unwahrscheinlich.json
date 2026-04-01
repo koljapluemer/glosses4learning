@@ -9,7 +9,9 @@
     "2026-03-29T13:23:11.743128Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:11.928500Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:23:12.120119Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:23:12.304692Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:23:12.304692Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:33.320470Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:33.485002Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:olası değil"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Неймовірно",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:아니",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

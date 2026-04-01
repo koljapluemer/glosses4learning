@@ -1,0 +1,39 @@
+{
+  "content": "Видел какие-нибудь фильмы в последнее время?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Видел"
+    ],
+    [
+      "PART",
+      "rus:какие-нибудь"
+    ],
+    [
+      "PART",
+      "rus:фильмы"
+    ],
+    [
+      "PART",
+      "rus:в"
+    ],
+    [
+      "PART",
+      "rus:последнее"
+    ],
+    [
+      "PART",
+      "rus:время"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.304030Z": "SPLIT_DONE"
+  }
+}

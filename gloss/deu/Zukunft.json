@@ -1,0 +1,33 @@
+{
+  "content": "Zukunft",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest über deine Zukunft nachdenken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Future",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Майбутнє",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주요연혁",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:58.890652Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:58.906238Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.059090Z": "TRANSLATION_DONE:kor"
+  }
+}

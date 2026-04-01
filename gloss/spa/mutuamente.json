@@ -1,0 +1,33 @@
+{
+  "content": "mutuamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están mutuamente enamorados"
+    ],
+    [
+      "TRANSLATION",
+      "eng:with each other",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:miteinander",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з кожним",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.436903Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.451252Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.465725Z": "TRANSLATION_DONE:ukr"
+  }
+}

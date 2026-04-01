@@ -1,0 +1,27 @@
+{
+  "content": "yoktur",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Yaptığımız hiçbir şeyin önemi yoktur"
+    ],
+    [
+      "TRANSLATION",
+      "eng:No",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nein",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:51.463684Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:51.609979Z": "TRANSLATION_DONE:deu"
+  }
+}

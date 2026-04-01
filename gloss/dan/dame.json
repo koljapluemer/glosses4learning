@@ -1,0 +1,31 @@
+{
+  "content": "dame",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke den dame"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke denne dame"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lady",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Dame",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:56.669751Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:56.812187Z": "TRANSLATION_DONE:deu"
+  }
+}

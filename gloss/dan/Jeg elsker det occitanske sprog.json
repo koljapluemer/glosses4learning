@@ -1,0 +1,35 @@
+{
+  "content": "Jeg elsker det occitanske sprog.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Batko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:elsker"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:occitanske"
+    ],
+    [
+      "PART",
+      "dan:sprog"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.047515Z": "SPLIT_DONE"
+  }
+}

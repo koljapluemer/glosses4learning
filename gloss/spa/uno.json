@@ -1,0 +1,41 @@
+{
+  "content": "uno",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los amigos que tengo son los mejores que uno puede tener"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niños son más inteligentes de lo que uno piensa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:1",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:1",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:1 час",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaban presentes todos menos uno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:42.556010Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:42.575457Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:42.593965Z": "TRANSLATION_DONE:ukr"
+  }
+}

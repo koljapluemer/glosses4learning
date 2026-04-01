@@ -1,0 +1,39 @@
+{
+  "content": "Tom iş deneyimi konusunda yalan söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:iş"
+    ],
+    [
+      "PART",
+      "tur:deneyimi"
+    ],
+    [
+      "PART",
+      "tur:konusunda"
+    ],
+    [
+      "PART",
+      "tur:yalan"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.365039Z": "SPLIT_DONE"
+  }
+}

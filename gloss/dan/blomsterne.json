@@ -1,0 +1,31 @@
+{
+  "content": "blomsterne",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har endnu ikke vandet blomsterne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har ikke vandet blomsterne endnu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:flowers",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Blumen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:53.630273Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:53.785748Z": "TRANSLATION_DONE:deu"
+  }
+}

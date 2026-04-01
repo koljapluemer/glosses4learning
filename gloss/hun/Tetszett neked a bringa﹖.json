@@ -1,0 +1,31 @@
+{
+  "content": "Tetszett neked a bringa?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tetszett"
+    ],
+    [
+      "PART",
+      "hun:neked"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:bringa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.902347Z": "SPLIT_DONE"
+  }
+}

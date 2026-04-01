@@ -1,0 +1,35 @@
+{
+  "content": "pourrait-il",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un pourrait-il ouvrir la porte, s'il vous plait ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Could he",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Könnte er",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un pourrait-il me passer un couteau ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelle autre raison pourrait-il y avoir ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:44.811441Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:44.964137Z": "TRANSLATION_DONE:deu"
+  }
+}

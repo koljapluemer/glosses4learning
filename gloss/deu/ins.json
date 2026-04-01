@@ -8,7 +8,9 @@
     "2026-03-29T13:20:28.772782Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:28.923753Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:29.067087Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:29.370343Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:29.370343Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:59.692089Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:59.839987Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
     "eng:tatoeba-sentence-part"
@@ -33,6 +35,20 @@
     [
       "TRANSLATION",
       "tur:(Bu kelimeye uygun bir karşılık veya açıklama eklenmelidir)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sagen Sie den Kindern, daß sie ins Haus kommen sollen!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:в",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:내 계정",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

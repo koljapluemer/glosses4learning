@@ -1,0 +1,31 @@
+{
+  "content": "році",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я народилася у 1972-му році"
+    ],
+    [
+      "TRANSLATION",
+      "eng:year",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jahr",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том та Мері познайомилися у дві тисячі тринадцятому році"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:10.862181Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:10.879588Z": "TRANSLATION_DONE:deu"
+  }
+}

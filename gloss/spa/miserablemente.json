@@ -1,0 +1,37 @@
+{
+  "content": "miserablemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las políticas del gobierno fracasaron miserablemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Miserably",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Miseral",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Помилки",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mis planes fracasaron miserablemente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:14.435882Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:14.450802Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:14.468918Z": "TRANSLATION_DONE:ukr"
+  }
+}

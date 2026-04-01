@@ -1,0 +1,35 @@
+{
+  "content": "Loro sono grandi come Tom.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Loro"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:grandi"
+    ],
+    [
+      "PART",
+      "ita:come"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.708078Z": "SPLIT_DONE"
+  }
+}

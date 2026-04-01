@@ -1,0 +1,27 @@
+{
+  "content": "kysset",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har allerede kysset Tom flere gange"
+    ],
+    [
+      "TRANSLATION",
+      "eng:kissed",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geküsst",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:32.884543Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:33.069402Z": "TRANSLATION_DONE:deu"
+  }
+}

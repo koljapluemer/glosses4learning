@@ -1,0 +1,35 @@
+{
+  "content": "Kdo půjčil Tomovi moje auto?!",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Kdo"
+    ],
+    [
+      "PART",
+      "ces:půjčil"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:moje"
+    ],
+    [
+      "PART",
+      "ces:auto"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.674140Z": "SPLIT_DONE"
+  }
+}

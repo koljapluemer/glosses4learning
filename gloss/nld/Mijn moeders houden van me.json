@@ -1,0 +1,35 @@
+{
+  "content": "Mijn moeders houden van me.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by RobinvanderVliet (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mijn"
+    ],
+    [
+      "PART",
+      "nld:moeders"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:me"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.162099Z": "SPLIT_DONE"
+  }
+}

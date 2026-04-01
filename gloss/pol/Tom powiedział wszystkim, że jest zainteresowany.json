@@ -1,0 +1,39 @@
+{
+  "content": "Tom powiedział wszystkim, że jest zainteresowany.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shounen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:wszystkim"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:zainteresowany"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.240958Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Frühjahr",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:In diesem Frühjahr hat er sein Abitur gemacht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Spring",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Весняний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:봄 봄",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:22.072970Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:22.104979Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:22.258470Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Porque",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Porque están mirando televisión"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Because",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Weil",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Бо",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.062718Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.087558Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.104843Z": "TRANSLATION_DONE:ukr"
+  }
+}

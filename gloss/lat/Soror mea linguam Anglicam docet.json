@@ -1,0 +1,35 @@
+{
+  "content": "Soror mea linguam Anglicam docet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Soror"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Anglicam"
+    ],
+    [
+      "PART",
+      "lat:docet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.370056Z": "SPLIT_DONE"
+  }
+}

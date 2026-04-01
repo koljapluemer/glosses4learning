@@ -1,0 +1,21 @@
+{
+  "content": "medicus",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potestne medicus eum sanare﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:physician",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:39.141038Z": "TRANSLATION_DONE:eng"
+  }
+}

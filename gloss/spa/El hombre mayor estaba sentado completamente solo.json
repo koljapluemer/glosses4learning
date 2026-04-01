@@ -1,0 +1,43 @@
+{
+  "content": "El hombre mayor estaba sentado completamente solo.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by teskmon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:hombre"
+    ],
+    [
+      "PART",
+      "spa:mayor"
+    ],
+    [
+      "PART",
+      "spa:estaba"
+    ],
+    [
+      "PART",
+      "spa:sentado"
+    ],
+    [
+      "PART",
+      "spa:completamente"
+    ],
+    [
+      "PART",
+      "spa:solo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.683564Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "La gente consume menos electricidad que antes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:La"
+    ],
+    [
+      "PART",
+      "spa:gente"
+    ],
+    [
+      "PART",
+      "spa:consume"
+    ],
+    [
+      "PART",
+      "spa:menos"
+    ],
+    [
+      "PART",
+      "spa:electricidad"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:antes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.587826Z": "SPLIT_DONE"
+  }
+}

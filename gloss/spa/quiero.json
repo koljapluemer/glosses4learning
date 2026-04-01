@@ -10,7 +10,8 @@
     "2026-03-29T14:26:41.557589Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:26:41.725223Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:26:41.899111Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:26:42.059107Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:26:42.059107Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:28.035269Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,15 @@
     [
       "TRANSLATION",
       "tur:Ben istiyorum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¡Esta noche siento que quiero hacer algo!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "content": "Mary nam een slokje van haar warme chocolademelk.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mary"
+    ],
+    [
+      "PART",
+      "nld:nam"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:slokje"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:haar"
+    ],
+    [
+      "PART",
+      "nld:warme"
+    ],
+    [
+      "PART",
+      "nld:chocolademelk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.242943Z": "SPLIT_DONE"
+  }
+}

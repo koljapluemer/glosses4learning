@@ -1,0 +1,31 @@
+{
+  "content": "Tom helpt zien kollegoas.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:helpt"
+    ],
+    [
+      "PART",
+      "gos:zien"
+    ],
+    [
+      "PART",
+      "gos:kollegoas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.363679Z": "SPLIT_DONE"
+  }
+}

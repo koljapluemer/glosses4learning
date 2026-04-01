@@ -1,0 +1,41 @@
+{
+  "content": "abgehalten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was hat dich davon abgehalten gestern zu kommen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was hat dich davon abgehalten früher zu kommen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Regen hat mich davon abgehalten zu gehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:held",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:проведено",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:(주)",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:36.424320Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:36.441911Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:36.464853Z": "TRANSLATION_DONE:kor"
+  }
+}

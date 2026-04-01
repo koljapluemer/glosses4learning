@@ -1,0 +1,27 @@
+{
+  "content": "запізнюватися",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цього разу тобі не можна запізнюватися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Be late",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verspätung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:58.703065Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:58.720640Z": "TRANSLATION_DONE:deu"
+  }
+}

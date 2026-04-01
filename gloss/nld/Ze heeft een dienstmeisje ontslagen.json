@@ -1,0 +1,35 @@
+{
+  "content": "Ze heeft een dienstmeisje ontslagen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ze"
+    ],
+    [
+      "PART",
+      "nld:heeft"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:dienstmeisje"
+    ],
+    [
+      "PART",
+      "nld:ontslagen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.166070Z": "SPLIT_DONE"
+  }
+}

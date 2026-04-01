@@ -1,0 +1,35 @@
+{
+  "content": "vient",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il n'y a personne d'autre qui vient, c'est ça ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:come",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Komm!",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce qu'il vient avec des toilettes ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce qu'il vient ici chaque semaine﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:55.659330Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:55.813535Z": "TRANSLATION_DONE:deu"
+  }
+}

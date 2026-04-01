@@ -1,0 +1,39 @@
+{
+  "content": "Preséntese en términos sencillos, por favor.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ManuelML (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Preséntese"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:términos"
+    ],
+    [
+      "PART",
+      "spa:sencillos"
+    ],
+    [
+      "PART",
+      "spa:por"
+    ],
+    [
+      "PART",
+      "spa:favor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.599236Z": "SPLIT_DONE"
+  }
+}

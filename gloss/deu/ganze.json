@@ -1,0 +1,37 @@
+{
+  "content": "ganze",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde die ganze Nacht alleine zu Hause sein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom wird heute Abend bestimmt die ganze Zeit hier sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:whole",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:доля",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:전체장편",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:01.612782Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:01.627362Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:01.643193Z": "TRANSLATION_DONE:kor"
+  }
+}

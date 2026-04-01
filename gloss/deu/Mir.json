@@ -8,7 +8,9 @@
     "2026-01-27T14:29:33.053480Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:14:21.646742Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:21.820705Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:14:21.991320Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:14:21.991320Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:35:42.680371Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:42.830376Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -62,6 +64,20 @@
     [
       "TRANSLATION",
       "rus:Мир"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:내 계정",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mach dir keine Sorgen, Mama! Mir passiert schon nichts!"
     ]
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "content": "但",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我从星期一开始得了流感。现在烧虽然退了，但感觉还不是很舒服。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:But",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:汤姆想要孩子，但玛丽不想。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:31.218989Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "sorte",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:En quelque sorte, je ne peux juste pas accepter cela"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sort",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Art",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'agit en quelque sorte de ce qui ne s'est pas produit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:51.820042Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:51.877887Z": "TRANSLATION_DONE:deu"
+  }
+}

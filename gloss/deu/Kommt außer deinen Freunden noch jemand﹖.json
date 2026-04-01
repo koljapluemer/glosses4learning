@@ -1,0 +1,39 @@
+{
+  "content": "Kommt außer deinen Freunden noch jemand?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Kommt"
+    ],
+    [
+      "PART",
+      "deu:außer"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Freunden"
+    ],
+    [
+      "PART",
+      "deu:noch"
+    ],
+    [
+      "PART",
+      "deu:jemand"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.401210Z": "SPLIT_DONE"
+  }
+}

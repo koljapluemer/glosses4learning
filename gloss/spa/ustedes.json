@@ -1,0 +1,33 @@
+{
+  "content": "ustedes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me suele gustar lo mismo que a ustedes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:42.643918Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:42.660315Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:42.660723Z": "TRANSLATION_DONE:ukr"
+  }
+}

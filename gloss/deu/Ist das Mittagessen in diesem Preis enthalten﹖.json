@@ -1,0 +1,43 @@
+{
+  "content": "Ist das Mittagessen in diesem Preis enthalten?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by samueldora (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ist"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:Mittagessen"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:diesem"
+    ],
+    [
+      "PART",
+      "deu:Preis"
+    ],
+    [
+      "PART",
+      "deu:enthalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.734939Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "n'a",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Sa prestation n'a pas été à la hauteur des attentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:has",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hat",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi est-ce que personne n'a nettoyé ça ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Aucune d'elles n'a l'air surprise"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ça fait des semaines qu'elle n'a pas écrit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:38.613920Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:38.758408Z": "TRANSLATION_DONE:deu"
+  }
+}

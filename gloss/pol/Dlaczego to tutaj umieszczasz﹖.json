@@ -1,0 +1,31 @@
+{
+  "content": "Dlaczego to tutaj umieszczasz?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Dlaczego"
+    ],
+    [
+      "PART",
+      "pol:to"
+    ],
+    [
+      "PART",
+      "pol:tutaj"
+    ],
+    [
+      "PART",
+      "pol:umieszczasz"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.256634Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "diabetiker",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kan jeg ikke spise. Jeg er diabetiker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det der kan jeg ikke spise. Jeg er diabetiker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:diabetic",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Diabetiker",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:00.019429Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:00.160382Z": "TRANSLATION_DONE:deu"
+  }
+}

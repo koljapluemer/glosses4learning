@@ -1,0 +1,35 @@
+{
+  "content": "t Proces was sikkom òflopen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:t"
+    ],
+    [
+      "PART",
+      "gos:Proces"
+    ],
+    [
+      "PART",
+      "gos:was"
+    ],
+    [
+      "PART",
+      "gos:sikkom"
+    ],
+    [
+      "PART",
+      "gos:òflopen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.402422Z": "SPLIT_DONE"
+  }
+}

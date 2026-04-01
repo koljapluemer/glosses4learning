@@ -1,0 +1,33 @@
+{
+  "content": "dioses",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos les temen a los dioses"
+    ],
+    [
+      "TRANSLATION",
+      "eng:gods",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Götter",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:свінгери",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.627280Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.640984Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.657412Z": "TRANSLATION_DONE:ukr"
+  }
+}

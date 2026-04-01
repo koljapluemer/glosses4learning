@@ -1,0 +1,27 @@
+{
+  "content": "Pourquoi portes-tu celles-là ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:portes-tu"
+    ],
+    [
+      "PART",
+      "fra:celles-là"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.531563Z": "SPLIT_DONE"
+  }
+}

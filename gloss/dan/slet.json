@@ -1,0 +1,35 @@
+{
+  "content": "slet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det ville slet ikke være så dumt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kan der slet ikke blive tale om!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ham slet ikke"
+    ],
+    [
+      "TRANSLATION",
+      "eng:delete",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Löschen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:34.062360Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:34.203226Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jeg liker virkelig ikke Apple-produkter.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:virkelig"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:Apple-produkter"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.204612Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "mostrando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay que llegar al punto de que te pregunten si estás mostrando todo tu potencial"
+    ],
+    [
+      "TRANSLATION",
+      "eng:showing",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zeigen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:показ",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:15.727463Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:15.742447Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:15.757365Z": "TRANSLATION_DONE:ukr"
+  }
+}

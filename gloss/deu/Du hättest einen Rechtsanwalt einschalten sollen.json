@@ -1,0 +1,39 @@
+{
+  "content": "Du hättest einen Rechtsanwalt einschalten sollen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:hättest"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:Rechtsanwalt"
+    ],
+    [
+      "PART",
+      "deu:einschalten"
+    ],
+    [
+      "PART",
+      "deu:sollen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.881821Z": "SPLIT_DONE"
+  }
+}

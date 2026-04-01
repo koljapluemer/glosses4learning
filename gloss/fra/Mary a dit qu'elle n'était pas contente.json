@@ -1,0 +1,43 @@
+{
+  "content": "Mary a dit qu'elle n'était pas contente.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BobbyLee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Mary"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:dit"
+    ],
+    [
+      "PART",
+      "fra:qu'elle"
+    ],
+    [
+      "PART",
+      "fra:n'était"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:contente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.381077Z": "SPLIT_DONE"
+  }
+}

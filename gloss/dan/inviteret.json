@@ -1,0 +1,27 @@
+{
+  "content": "inviteret",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke huske at jeg har inviteret dig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:invited",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eingeladen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:30.296558Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:30.315642Z": "TRANSLATION_DONE:deu"
+  }
+}

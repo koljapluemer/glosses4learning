@@ -1,0 +1,31 @@
+{
+  "content": "Tom đi chân đất.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leucammieuvu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:đi"
+    ],
+    [
+      "PART",
+      "vie:chân"
+    ],
+    [
+      "PART",
+      "vie:đất"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.052616Z": "SPLIT_DONE"
+  }
+}

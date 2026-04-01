@@ -1,0 +1,27 @@
+{
+  "content": "інститут",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знаю, що ти ненавидиш інститут"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Institute",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Institut",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:08.424915Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:08.441423Z": "TRANSLATION_DONE:deu"
+  }
+}

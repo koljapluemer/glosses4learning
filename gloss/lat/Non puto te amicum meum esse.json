@@ -1,0 +1,39 @@
+{
+  "content": "Non puto te amicum meum esse.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soweli_Elepanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Non"
+    ],
+    [
+      "PART",
+      "lat:puto"
+    ],
+    [
+      "PART",
+      "lat:te"
+    ],
+    [
+      "PART",
+      "lat:amicum"
+    ],
+    [
+      "PART",
+      "lat:meum"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.289900Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "forstå",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du kan ikke forstå, hvad jeg føler"
+    ],
+    [
+      "TRANSLATION",
+      "eng:understand",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstehen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:13.001961Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:13.143170Z": "TRANSLATION_DONE:deu"
+  }
+}

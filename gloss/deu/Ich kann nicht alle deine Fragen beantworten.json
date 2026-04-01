@@ -1,0 +1,43 @@
+{
+  "content": "Ich kann nicht alle deine Fragen beantworten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:alle"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Fragen"
+    ],
+    [
+      "PART",
+      "deu:beantworten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.509956Z": "SPLIT_DONE"
+  }
+}

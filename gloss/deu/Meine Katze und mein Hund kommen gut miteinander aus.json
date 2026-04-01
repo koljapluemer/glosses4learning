@@ -1,0 +1,51 @@
+{
+  "content": "Meine Katze und mein Hund kommen gut miteinander aus.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Katze"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:mein"
+    ],
+    [
+      "PART",
+      "deu:Hund"
+    ],
+    [
+      "PART",
+      "deu:kommen"
+    ],
+    [
+      "PART",
+      "deu:gut"
+    ],
+    [
+      "PART",
+      "deu:miteinander"
+    ],
+    [
+      "PART",
+      "deu:aus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.241696Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "чудовий",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це чудовий фільм"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Great",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Toll",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені дуже подобається цей малюнок. Він чудовий"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:16.749424Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:16.768157Z": "TRANSLATION_DONE:deu"
+  }
+}

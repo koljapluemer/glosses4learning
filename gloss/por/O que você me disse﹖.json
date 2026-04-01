@@ -1,0 +1,35 @@
+{
+  "content": "O que você me disse?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:O"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:você"
+    ],
+    [
+      "PART",
+      "por:me"
+    ],
+    [
+      "PART",
+      "por:disse"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.524996Z": "SPLIT_DONE"
+  }
+}

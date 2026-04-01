@@ -6,7 +6,9 @@
     "2025-12-16T14:26:46.622Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:27:06.796Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -48,6 +50,14 @@
     [
       "TRANSLATION",
       "spa:¿Cómo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Как мне сделать так, чтобы вы поняли﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Как мне зарегистрироваться﹖"
     ]
   ]
 }

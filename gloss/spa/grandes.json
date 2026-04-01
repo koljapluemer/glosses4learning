@@ -10,7 +10,8 @@
     "2026-03-29T14:24:07.641738Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:07.822157Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:08.015853Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:08.201092Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:08.201092Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:57.629313Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,31 @@
     [
       "TRANSLATION",
       "tur:büyük"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los hombres grandes no necesariamente son fuertes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los americanos prefieren los coches grandes"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:великий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los sueños deben ser más grandes que el miedo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los submarinos grandes tienen ventanas pequeñas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas grandes no siempre son fuertes"
     ]
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "content": "inteligentes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hacer compras inteligentes requiere una meticulosa planificación"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niños son más inteligentes de lo que uno piensa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Smart",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Smart",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розумний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las mujeres son tan inteligentes como los hombres"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las urracas son animales muy inteligentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:05.552364Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:05.569854Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:05.587169Z": "TRANSLATION_DONE:ukr"
+  }
+}

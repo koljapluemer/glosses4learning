@@ -1,0 +1,33 @@
+{
+  "content": "verdadero",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, el reporte es verdadero"
+    ],
+    [
+      "TRANSLATION",
+      "eng:true",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wahr",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Справедливість",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.693802Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.694328Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.694670Z": "TRANSLATION_DONE:ukr"
+  }
+}

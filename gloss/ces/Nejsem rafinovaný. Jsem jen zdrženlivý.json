@@ -1,0 +1,35 @@
+{
+  "content": "Nejsem rafinovaný. Jsem jen zdrženlivý.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nejsem"
+    ],
+    [
+      "PART",
+      "ces:rafinovaný"
+    ],
+    [
+      "PART",
+      "ces:Jsem"
+    ],
+    [
+      "PART",
+      "ces:jen"
+    ],
+    [
+      "PART",
+      "ces:zdrženlivý"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.755200Z": "SPLIT_DONE"
+  }
+}

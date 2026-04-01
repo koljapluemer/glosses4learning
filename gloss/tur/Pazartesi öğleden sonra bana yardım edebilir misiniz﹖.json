@@ -1,0 +1,43 @@
+{
+  "content": "Pazartesi öğleden sonra bana yardım edebilir misiniz?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Pazartesi"
+    ],
+    [
+      "PART",
+      "tur:öğleden"
+    ],
+    [
+      "PART",
+      "tur:sonra"
+    ],
+    [
+      "PART",
+      "tur:bana"
+    ],
+    [
+      "PART",
+      "tur:yardım"
+    ],
+    [
+      "PART",
+      "tur:edebilir"
+    ],
+    [
+      "PART",
+      "tur:misiniz"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.620849Z": "SPLIT_DONE"
+  }
+}

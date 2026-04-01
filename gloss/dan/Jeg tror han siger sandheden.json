@@ -1,0 +1,35 @@
+{
+  "content": "Jeg tror han siger sandheden.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:tror"
+    ],
+    [
+      "PART",
+      "dan:han"
+    ],
+    [
+      "PART",
+      "dan:siger"
+    ],
+    [
+      "PART",
+      "dan:sandheden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.828361Z": "SPLIT_DONE"
+  }
+}

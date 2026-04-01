@@ -1,0 +1,39 @@
+{
+  "content": "Hvorfor opholder Tom sig i Boston?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hvorfor"
+    ],
+    [
+      "PART",
+      "dan:opholder"
+    ],
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:sig"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:Boston"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.699282Z": "SPLIT_DONE"
+  }
+}

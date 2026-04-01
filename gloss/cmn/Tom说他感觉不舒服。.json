@@ -1,0 +1,43 @@
+{
+  "content": "Tom说他感觉不舒服。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pig8322 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:Tom"
+    ],
+    [
+      "PART",
+      "cmn:说"
+    ],
+    [
+      "PART",
+      "cmn:他"
+    ],
+    [
+      "PART",
+      "cmn:感觉"
+    ],
+    [
+      "PART",
+      "cmn:不"
+    ],
+    [
+      "PART",
+      "cmn:舒服"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.642737Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "tarde",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos hasta las dos y media de la tarde del lunes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:late",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:spät",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:латексні",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:36.871309Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:36.888152Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:36.905710Z": "TRANSLATION_DONE:ukr"
+  }
+}

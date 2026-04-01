@@ -1,0 +1,39 @@
+{
+  "content": "Viděli jste jak byl Tom zasažen?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Viděli"
+    ],
+    [
+      "PART",
+      "ces:jste"
+    ],
+    [
+      "PART",
+      "ces:jak"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:zasažen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.673689Z": "SPLIT_DONE"
+  }
+}

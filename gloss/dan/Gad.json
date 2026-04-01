@@ -1,0 +1,27 @@
+{
+  "content": "Gad",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Gad vide hvad Tom ville have gjort"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I wonder",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich frage mich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:11.089774Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:11.112666Z": "TRANSLATION_DONE:deu"
+  }
+}

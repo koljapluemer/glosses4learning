@@ -1,0 +1,33 @@
+{
+  "content": "llaves",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella finalmente encontró sus llaves perdidas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:keys",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schlüssel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ключі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.615109Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.628921Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.645293Z": "TRANSLATION_DONE:ukr"
+  }
+}

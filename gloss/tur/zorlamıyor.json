@@ -1,0 +1,31 @@
+{
+  "content": "zorlamıyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hiç kimse seni bir şey yapman için zorlamıyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hard",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hart",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onu yapman için hiç kimse seni zorlamıyor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:44.039533Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:44.058411Z": "TRANSLATION_DONE:deu"
+  }
+}

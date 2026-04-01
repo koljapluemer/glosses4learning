@@ -1,0 +1,43 @@
+{
+  "content": "Tom birinin Mary'ye yardım etmesine izin vermeyecek.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:birinin"
+    ],
+    [
+      "PART",
+      "tur:Mary'ye"
+    ],
+    [
+      "PART",
+      "tur:yardım"
+    ],
+    [
+      "PART",
+      "tur:etmesine"
+    ],
+    [
+      "PART",
+      "tur:izin"
+    ],
+    [
+      "PART",
+      "tur:vermeyecek"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.535148Z": "SPLIT_DONE"
+  }
+}

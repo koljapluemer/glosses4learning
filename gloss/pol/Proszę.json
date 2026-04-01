@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:14:22.455Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +33,10 @@
     [
       "TRANSLATION",
       "eng:Kindly"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Proszę spróbować dzisiaj"
     ]
   ]
 }

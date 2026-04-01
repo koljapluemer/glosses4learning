@@ -1,0 +1,27 @@
+{
+  "content": "ti",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han kom her for ti minutter siden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:10",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:10",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:47.327723Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:47.479312Z": "TRANSLATION_DONE:deu"
+  }
+}

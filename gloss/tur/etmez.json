@@ -1,0 +1,27 @@
+{
+  "content": "etmez",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom neredeyse hiçbir zaman bize yardım etmez"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:47.088597Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:47.104444Z": "TRANSLATION_DONE:deu"
+  }
+}

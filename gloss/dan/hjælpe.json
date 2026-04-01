@@ -1,0 +1,43 @@
+{
+  "content": "hjælpe",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke hjælpe dig med dette"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vil du hjælpe mig med at oversætte dette﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er sikker på at Tom vil hjælpe dig"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ville ikke lade nogen hjælpe ham"
+    ],
+    [
+      "TRANSLATION",
+      "eng:help",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han ville hjælpe hendes venner"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:34.411109Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:34.560046Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "هذا لا يهم بالنسبة لياني.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هذا"
+    ],
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:يهم"
+    ],
+    [
+      "PART",
+      "ara:بالنسبة"
+    ],
+    [
+      "PART",
+      "ara:لياني"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.585864Z": "SPLIT_DONE"
+  }
+}

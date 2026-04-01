@@ -9,7 +9,9 @@
     "2026-03-29T13:14:38.356551Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:38.513732Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:38.685177Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:38.857027Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:38.857027Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:50.949866Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:51.101683Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:Notlar"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Нотатки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

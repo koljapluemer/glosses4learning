@@ -1,0 +1,37 @@
+{
+  "content": "Thermostat",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie das Thermostat wieder instand gesetzt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr das Thermostat wieder instand gesetzt﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Thermostat",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Термостат",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:보온장치",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:21.730209Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:21.881536Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:21.913142Z": "TRANSLATION_DONE:kor"
+  }
+}

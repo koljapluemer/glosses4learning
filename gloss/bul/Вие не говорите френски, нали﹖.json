@@ -1,0 +1,35 @@
+{
+  "content": "Вие не говорите френски, нали?",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Вие"
+    ],
+    [
+      "PART",
+      "bul:не"
+    ],
+    [
+      "PART",
+      "bul:говорите"
+    ],
+    [
+      "PART",
+      "bul:френски"
+    ],
+    [
+      "PART",
+      "bul:нали"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:02.179392Z": "SPLIT_DONE"
+  }
+}

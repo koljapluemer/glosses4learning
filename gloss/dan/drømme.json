@@ -1,0 +1,27 @@
+{
+  "content": "drømme",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Lad være med at drømme; det kommer ikke til at ske"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dreams",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Träume",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:02.143693Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:02.282962Z": "TRANSLATION_DONE:deu"
+  }
+}

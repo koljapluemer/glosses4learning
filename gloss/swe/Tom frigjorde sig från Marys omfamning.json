@@ -1,0 +1,39 @@
+{
+  "content": "Tom frigjorde sig från Marys omfamning.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:frigjorde"
+    ],
+    [
+      "PART",
+      "swe:sig"
+    ],
+    [
+      "PART",
+      "swe:från"
+    ],
+    [
+      "PART",
+      "swe:Marys"
+    ],
+    [
+      "PART",
+      "swe:omfamning"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.801755Z": "SPLIT_DONE"
+  }
+}

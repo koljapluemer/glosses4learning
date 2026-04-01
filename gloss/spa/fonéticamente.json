@@ -1,0 +1,33 @@
+{
+  "content": "fonéticamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Por qué no hacer que el inglés se escribe fonéticamente﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:phonetically",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Telefonisch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:фонетична",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.035274Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.048709Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.065507Z": "TRANSLATION_DONE:ukr"
+  }
+}

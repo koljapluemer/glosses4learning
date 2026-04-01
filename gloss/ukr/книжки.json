@@ -1,0 +1,27 @@
+{
+  "content": "книжки",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не клади книжки на стіл"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Books",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bücher",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.667182Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.683490Z": "TRANSLATION_DONE:deu"
+  }
+}

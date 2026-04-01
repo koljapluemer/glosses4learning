@@ -1,0 +1,27 @@
+{
+  "content": "Мене",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мене взяли до команди"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Me",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:48.393656Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:48.410868Z": "TRANSLATION_DONE:deu"
+  }
+}

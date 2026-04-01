@@ -9,7 +9,9 @@
     "2026-03-29T13:20:03.897402Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:04.095263Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:04.287359Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:04.486680Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:04.486680Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:50.461217Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:50.614035Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:tut, korumaya al"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проведення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

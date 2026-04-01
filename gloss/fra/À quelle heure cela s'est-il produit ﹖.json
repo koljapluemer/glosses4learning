@@ -1,0 +1,39 @@
+{
+  "content": "À quelle heure cela s'est-il produit ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:À"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:heure"
+    ],
+    [
+      "PART",
+      "fra:cela"
+    ],
+    [
+      "PART",
+      "fra:s'est-il"
+    ],
+    [
+      "PART",
+      "fra:produit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.541326Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "vindue",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette vindue er skudsikkert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:window",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fenster",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvis du kan, så åbn det vindue"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:03.071178Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:03.301226Z": "TRANSLATION_DONE:deu"
+  }
+}

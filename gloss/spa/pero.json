@@ -10,7 +10,8 @@
     "2026-03-29T14:26:11.881831Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:26:12.063649Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:26:12.239966Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:26:12.400996Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:26:12.400996Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:23.020361Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -56,6 +57,19 @@
     [
       "TRANSLATION",
       "tur:ancak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos odian la música, pero adoran el entretenimiento"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas pueden hablar, pero los animales no"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:але",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

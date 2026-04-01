@@ -1,0 +1,37 @@
+{
+  "content": "altos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Normalmente los hombres son más altos que las mujeres"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las jirafas son los animales más altos del mundo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:high",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hoch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:високі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:25.088628Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:25.103539Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:25.118260Z": "TRANSLATION_DONE:ukr"
+  }
+}

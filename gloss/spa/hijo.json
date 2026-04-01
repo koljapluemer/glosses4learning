@@ -1,0 +1,33 @@
+{
+  "content": "hijo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella está extremadamente orgullosa de su hijo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:child",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kind",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дитина",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.935865Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.949706Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.963860Z": "TRANSLATION_DONE:ukr"
+  }
+}

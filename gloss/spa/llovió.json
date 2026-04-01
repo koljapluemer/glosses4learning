@@ -1,0 +1,33 @@
+{
+  "content": "llovió",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, llovió ese día"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It rained",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es regnet",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дощ",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.730355Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.746917Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.763174Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Beide meisjes hebben blauwe ogen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Raizin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Beide"
+    ],
+    [
+      "PART",
+      "nld:meisjes"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:blauwe"
+    ],
+    [
+      "PART",
+      "nld:ogen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.192443Z": "SPLIT_DONE"
+  }
+}

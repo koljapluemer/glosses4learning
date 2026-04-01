@@ -1,0 +1,27 @@
+{
+  "content": "Qu'en",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Qu'en sera-t-il si elles ne m'apprécient pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:30.782374Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:30.798773Z": "TRANSLATION_DONE:deu"
+  }
+}

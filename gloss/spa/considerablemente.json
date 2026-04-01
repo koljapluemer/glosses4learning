@@ -1,0 +1,33 @@
+{
+  "content": "considerablemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La explotación forestal ilegal ha disminuido considerablemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:considerable",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erheblich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:значна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.217069Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.367508Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.384936Z": "TRANSLATION_DONE:ukr"
+  }
+}

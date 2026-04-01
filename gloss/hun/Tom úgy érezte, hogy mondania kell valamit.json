@@ -1,0 +1,43 @@
+{
+  "content": "Tom úgy érezte, hogy mondania kell valamit.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:úgy"
+    ],
+    [
+      "PART",
+      "hun:érezte"
+    ],
+    [
+      "PART",
+      "hun:hogy"
+    ],
+    [
+      "PART",
+      "hun:mondania"
+    ],
+    [
+      "PART",
+      "hun:kell"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.654271Z": "SPLIT_DONE"
+  }
+}

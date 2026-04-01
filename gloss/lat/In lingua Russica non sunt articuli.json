@@ -1,0 +1,39 @@
+{
+  "content": "In lingua Russica non sunt articuli.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:In"
+    ],
+    [
+      "PART",
+      "lat:lingua"
+    ],
+    [
+      "PART",
+      "lat:Russica"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ],
+    [
+      "PART",
+      "lat:articuli"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.365944Z": "SPLIT_DONE"
+  }
+}

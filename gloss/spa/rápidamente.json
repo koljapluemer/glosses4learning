@@ -1,0 +1,33 @@
+{
+  "content": "rápidamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Oleg siempre contestaba las preguntas rápidamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:quickly",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schnell",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:швидко",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:15.560624Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:15.576571Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:15.592906Z": "TRANSLATION_DONE:ukr"
+  }
+}

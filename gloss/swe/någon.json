@@ -1,0 +1,33 @@
+{
+  "content": "någon",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag har inte någon laddare"
+    ],
+    [
+      "TRANSLATION",
+      "eng:someone",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det kanske inte kommer att spela någon roll"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag kommer inte att göra någon polisanmälan"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag sa att det inte var någon här"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:00.501302Z": "TRANSLATION_DONE:eng"
+  }
+}

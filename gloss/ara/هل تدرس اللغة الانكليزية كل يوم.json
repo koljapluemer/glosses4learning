@@ -1,0 +1,39 @@
+{
+  "content": "هل تدرس اللغة الانكليزية كل يوم",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by singetak (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هل"
+    ],
+    [
+      "PART",
+      "ara:تدرس"
+    ],
+    [
+      "PART",
+      "ara:اللغة"
+    ],
+    [
+      "PART",
+      "ara:الانكليزية"
+    ],
+    [
+      "PART",
+      "ara:كل"
+    ],
+    [
+      "PART",
+      "ara:يوم"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.530448Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom'un biraz neşelenmeye ihtiyacı var.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:biraz"
+    ],
+    [
+      "PART",
+      "tur:neşelenmeye"
+    ],
+    [
+      "PART",
+      "tur:ihtiyacı"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.376445Z": "SPLIT_DONE"
+  }
+}

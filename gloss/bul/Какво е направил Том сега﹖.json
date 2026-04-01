@@ -1,0 +1,35 @@
+{
+  "content": "Какво е направил Том сега?",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Какво"
+    ],
+    [
+      "PART",
+      "bul:е"
+    ],
+    [
+      "PART",
+      "bul:направил"
+    ],
+    [
+      "PART",
+      "bul:Том"
+    ],
+    [
+      "PART",
+      "bul:сега"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:56.565137Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tenemos una fiesta mañana por la noche.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tenemos"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:fiesta"
+    ],
+    [
+      "PART",
+      "spa:mañana"
+    ],
+    [
+      "PART",
+      "spa:por"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:noche"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.632444Z": "SPLIT_DONE"
+  }
+}

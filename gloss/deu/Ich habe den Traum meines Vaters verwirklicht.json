@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe den Traum meines Vaters verwirklicht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:den"
+    ],
+    [
+      "PART",
+      "deu:Traum"
+    ],
+    [
+      "PART",
+      "deu:meines"
+    ],
+    [
+      "PART",
+      "deu:Vaters"
+    ],
+    [
+      "PART",
+      "deu:verwirklicht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.895557Z": "SPLIT_DONE"
+  }
+}

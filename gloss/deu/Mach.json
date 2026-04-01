@@ -12,7 +12,9 @@
     "2026-03-28T09:38:09.164399Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:38:10.188637Z": "TRANSLATION_DONE:kab",
     "2026-03-28T09:38:11.110657Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T09:38:11.927711Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T09:38:11.927711Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:35.692628Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:35.839399Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -106,6 +108,28 @@
     [
       "TRANSLATION",
       "ina:Tu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mach keine Versprechungen, die du nicht halten kannst!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Машинінг",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기계 가공",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mach dir keine Sorgen! Ich bin wieder völlig gesund"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mach dir keine Sorgen, Mama! Mir passiert schon nichts!"
     ]
   ]
 }

@@ -9,7 +9,9 @@
     "2026-03-29T13:14:20.309181Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:20.513182Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:20.692293Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:20.906310Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:20.906310Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:42.179898Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:42.319005Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,16 @@
     [
       "TRANSLATION",
       "tur:Kira sözleşmesi olanlar"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Оренда",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사 소개",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

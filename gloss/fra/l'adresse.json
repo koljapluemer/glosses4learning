@@ -1,0 +1,27 @@
+{
+  "content": "l'adresse",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peux-tu me donner l'adresse détaillée, s'il te plait ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the address",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Adresse",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:34.693751Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:34.706283Z": "TRANSLATION_DONE:deu"
+  }
+}

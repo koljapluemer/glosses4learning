@@ -1,0 +1,39 @@
+{
+  "content": "Pour quelle occasion vous êtes-vous apprêté ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pour"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:occasion"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:apprêté"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.207810Z": "SPLIT_DONE"
+  }
+}

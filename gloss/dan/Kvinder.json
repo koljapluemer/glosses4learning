@@ -1,0 +1,27 @@
+{
+  "content": "Kvinder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kvinder kan godt lide Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Women",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frauen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:12.172799Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:12.322504Z": "TRANSLATION_DONE:deu"
+  }
+}

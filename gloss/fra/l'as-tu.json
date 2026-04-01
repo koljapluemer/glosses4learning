@@ -1,0 +1,27 @@
+{
+  "content": "l'as-tu",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi ne l'as-tu pas dit à quelqu'un ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have it﹖",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hast du es﹖",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:34.831620Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:34.848520Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "undervisningen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han kommer altid for sent til undervisningen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:education;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bildung;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:54.758061Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:54.914671Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "відповідати",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він знає, як відповідати журналістам"
+    ],
+    [
+      "TRANSLATION",
+      "eng:answer",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Antwort",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.606172Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.619183Z": "TRANSLATION_DONE:deu"
+  }
+}

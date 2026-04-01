@@ -1,0 +1,39 @@
+{
+  "content": "Du trenger ikke studere i dag.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Du"
+    ],
+    [
+      "PART",
+      "nob:trenger"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:studere"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:dag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.361476Z": "SPLIT_DONE"
+  }
+}

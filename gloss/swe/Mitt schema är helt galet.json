@@ -1,0 +1,35 @@
+{
+  "content": "Mitt schema är helt galet.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Mitt"
+    ],
+    [
+      "PART",
+      "swe:schema"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:helt"
+    ],
+    [
+      "PART",
+      "swe:galet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.800228Z": "SPLIT_DONE"
+  }
+}

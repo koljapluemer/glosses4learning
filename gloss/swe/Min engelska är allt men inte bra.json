@@ -1,0 +1,43 @@
+{
+  "content": "Min engelska är allt men inte bra.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Min"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:allt"
+    ],
+    [
+      "PART",
+      "swe:men"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:bra"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.803178Z": "SPLIT_DONE"
+  }
+}

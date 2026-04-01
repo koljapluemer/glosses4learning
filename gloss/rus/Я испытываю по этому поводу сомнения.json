@@ -1,0 +1,39 @@
+{
+  "content": "Я испытываю по этому поводу сомнения.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ooneykcall (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:испытываю"
+    ],
+    [
+      "PART",
+      "rus:по"
+    ],
+    [
+      "PART",
+      "rus:этому"
+    ],
+    [
+      "PART",
+      "rus:поводу"
+    ],
+    [
+      "PART",
+      "rus:сомнения"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.617805Z": "SPLIT_DONE"
+  }
+}

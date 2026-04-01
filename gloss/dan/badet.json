@@ -1,0 +1,27 @@
+{
+  "content": "badet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Katte bryder sig ikke om at blive badet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bath",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bad",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:17.661906Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:17.689567Z": "TRANSLATION_DONE:deu"
+  }
+}

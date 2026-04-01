@@ -1,0 +1,33 @@
+{
+  "content": "guerra",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los estudiantes estaban en contra de la guerra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:war",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Krieg",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:війни",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.509678Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.525071Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.539053Z": "TRANSLATION_DONE:ukr"
+  }
+}

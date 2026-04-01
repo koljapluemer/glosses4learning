@@ -1,0 +1,39 @@
+{
+  "content": "Я хочу, чтобы она увидела эти.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:хочу"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:увидела"
+    ],
+    [
+      "PART",
+      "rus:эти"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.262550Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "d’entre",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Certaines d’entre celles-ci vous intéressent-elles ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:between",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zwischen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:23.743958Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:23.763524Z": "TRANSLATION_DONE:deu"
+  }
+}

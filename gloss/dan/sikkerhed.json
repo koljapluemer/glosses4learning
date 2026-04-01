@@ -1,0 +1,27 @@
+{
+  "content": "sikkerhed",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du kan ikke vide det med sikkerhed"
+    ],
+    [
+      "TRANSLATION",
+      "eng:security;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sicherheit;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:28.482046Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:28.622091Z": "TRANSLATION_DONE:deu"
+  }
+}

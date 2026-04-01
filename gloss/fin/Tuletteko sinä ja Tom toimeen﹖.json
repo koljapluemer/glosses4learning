@@ -1,0 +1,35 @@
+{
+  "content": "Tuletteko sinä ja Tom toimeen?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by AzureFlowers (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tuletteko"
+    ],
+    [
+      "PART",
+      "fin:sinä"
+    ],
+    [
+      "PART",
+      "fin:ja"
+    ],
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:toimeen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.031602Z": "SPLIT_DONE"
+  }
+}

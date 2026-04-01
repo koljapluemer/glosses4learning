@@ -1,0 +1,35 @@
+{
+  "content": "Tom'dan",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'dan başka hiç kimse seninle aynı fikirde değil"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'dan başka hiç kimse benimle aynı fikirde değildi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'dan başka bunu hiç kimse yapmadı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:From Tom",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Von Tom",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:26.981029Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.000243Z": "TRANSLATION_DONE:deu"
+  }
+}

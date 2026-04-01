@@ -1,0 +1,33 @@
+{
+  "content": "pasó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom pasó de puntillas, sigilosamente, por el pasillo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:happened",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:passiert",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про це",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:21.910164Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:21.925074Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:21.939254Z": "TRANSLATION_DONE:ukr"
+  }
+}

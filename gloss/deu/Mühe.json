@@ -1,0 +1,37 @@
+{
+  "content": "Mühe",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Machen Sie sich nicht die Mühe, diesen Brief zu beantworten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nur drei Leute haben sich die Mühe gemacht zu antworten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Efforts",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зручності",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:46.814740Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:46.842166Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:46.869727Z": "TRANSLATION_DONE:kor"
+  }
+}

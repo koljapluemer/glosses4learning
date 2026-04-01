@@ -1,0 +1,27 @@
+{
+  "content": "Tom'unkinden",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Benim yatak odam Tom'unkinden daha küçük"
+    ],
+    [
+      "TRANSLATION",
+      "eng:From Tom",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Von Tom",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:27.026949Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.027405Z": "TRANSLATION_DONE:deu"
+  }
+}

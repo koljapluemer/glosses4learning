@@ -1,0 +1,27 @@
+{
+  "content": "passe-temps",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vraiment ﹖ Mon passe-temps favori est de lire des bandes-dessinées"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hobby",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hobby",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:43.118109Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:43.274756Z": "TRANSLATION_DONE:deu"
+  }
+}

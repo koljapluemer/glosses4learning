@@ -1,0 +1,25 @@
+{
+  "content": "suam",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Maria me domum suam invitavit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas salutem suam in discrimen obtulit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:his",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:45:13.067619Z": "TRANSLATION_DONE:eng"
+  }
+}

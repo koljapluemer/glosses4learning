@@ -1,0 +1,37 @@
+{
+  "content": "examen",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Casi todos los alumnos suspendieron el examen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los alumnos suspendieron el examen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Review",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Überprüfung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Огляд",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:05.941737Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:05.955202Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:05.971667Z": "TRANSLATION_DONE:ukr"
+  }
+}

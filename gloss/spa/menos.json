@@ -1,0 +1,53 @@
+{
+  "content": "menos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente consume menos electricidad que antes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy libre todos los días menos el lunes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella tenía por lo menos cuatro defectos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:less",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weniger",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:менше",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaban presentes todos menos uno"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaban todos presentes, menos María"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy sorprendido de que hayas echado eso de menos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:11.931155Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:12.086944Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:12.104755Z": "TRANSLATION_DONE:ukr"
+  }
+}

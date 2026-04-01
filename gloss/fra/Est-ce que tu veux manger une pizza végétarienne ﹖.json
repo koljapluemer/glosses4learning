@@ -1,0 +1,47 @@
+{
+  "content": "Est-ce que tu veux manger une pizza végétarienne ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pkill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:veux"
+    ],
+    [
+      "PART",
+      "fra:manger"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:pizza"
+    ],
+    [
+      "PART",
+      "fra:végétarienne"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.423131Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Slovaaks is mien moudertoal.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Slovaaks"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:mien"
+    ],
+    [
+      "PART",
+      "gos:moudertoal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.682092Z": "SPLIT_DONE"
+  }
+}

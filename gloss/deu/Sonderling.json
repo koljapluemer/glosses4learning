@@ -1,0 +1,33 @@
+{
+  "content": "Sonderling",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du musst mich für einen ziemlichen Sonderling halten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Special",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:특별 할인",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:13.357727Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:13.383583Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:13.419722Z": "TRANSLATION_DONE:kor"
+  }
+}

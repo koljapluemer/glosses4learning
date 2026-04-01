@@ -1,0 +1,45 @@
+{
+  "content": "simplemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me parece que simplemente estás celosa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me parece que simplemente estás celoso"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso es simplemente una rotura del contrato"
+    ],
+    [
+      "TRANSLATION",
+      "eng:simply",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einfach",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No puedes asumir simplemente eso"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:34.390619Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:34.406403Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:34.423574Z": "TRANSLATION_DONE:ukr"
+  }
+}

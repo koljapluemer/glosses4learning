@@ -1,0 +1,35 @@
+{
+  "content": "Joe hebben n siktoares neudeg.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Joe"
+    ],
+    [
+      "PART",
+      "gos:hebben"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:siktoares"
+    ],
+    [
+      "PART",
+      "gos:neudeg"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.660369Z": "SPLIT_DONE"
+  }
+}

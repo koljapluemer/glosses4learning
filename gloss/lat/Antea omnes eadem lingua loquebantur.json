@@ -1,0 +1,35 @@
+{
+  "content": "Antea omnes eadem lingua loquebantur.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Antea"
+    ],
+    [
+      "PART",
+      "lat:omnes"
+    ],
+    [
+      "PART",
+      "lat:eadem"
+    ],
+    [
+      "PART",
+      "lat:lingua"
+    ],
+    [
+      "PART",
+      "lat:loquebantur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.322525Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "Vergiss",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vergiss nicht, ihm auf seinen Brief zu antworten!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vergiss nicht, seinen Brief zu beantworten!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Forget it",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Забудьте його",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그것을 잊으십시오",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:29.511656Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:29.532356Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:29.669502Z": "TRANSLATION_DONE:kor"
+  }
+}

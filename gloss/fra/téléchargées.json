@@ -1,0 +1,27 @@
+{
+  "content": "téléchargées",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les vidéos de Ziri sont dépourvues de publicité et peuvent être téléchargées"
+    ],
+    [
+      "TRANSLATION",
+      "eng:downloaded",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:heruntergeladen wurde",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:54.023233Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:54.177824Z": "TRANSLATION_DONE:deu"
+  }
+}

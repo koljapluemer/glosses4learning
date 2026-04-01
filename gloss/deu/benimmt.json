@@ -1,0 +1,33 @@
+{
+  "content": "benimmt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom benimmt sich fast nie seinem Alter entsprechend"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Behaved",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Прованс",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:49.305113Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:49.330741Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:49.437657Z": "TRANSLATION_DONE:kor"
+  }
+}

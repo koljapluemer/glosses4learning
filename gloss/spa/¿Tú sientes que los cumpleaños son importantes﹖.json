@@ -1,0 +1,43 @@
+{
+  "content": "¿Tú sientes que los cumpleaños son importantes?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tú"
+    ],
+    [
+      "PART",
+      "spa:sientes"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:cumpleaños"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:importantes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.621214Z": "SPLIT_DONE"
+  }
+}

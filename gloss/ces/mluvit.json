@@ -1,0 +1,29 @@
+{
+  "content": "mluvit",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom se mnou najednou přestal mluvit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom se na nás snažil mluvit francouzsky"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nedokázal jsem s ní mluvit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speak",
+      "Auto-translated with argostranslate (cs→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:50:19.501656Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Comment s'est passé le voyage jusqu'à Boston?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:voyage"
+    ],
+    [
+      "PART",
+      "fra:jusqu'à"
+    ],
+    [
+      "PART",
+      "fra:Boston"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.238126Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom ønskede at købe nogle skumfiduser.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:ønskede"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:købe"
+    ],
+    [
+      "PART",
+      "dan:nogle"
+    ],
+    [
+      "PART",
+      "dan:skumfiduser"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.666931Z": "SPLIT_DONE"
+  }
+}

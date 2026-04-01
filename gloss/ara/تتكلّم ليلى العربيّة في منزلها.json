@@ -1,0 +1,35 @@
+{
+  "content": "تتكلّم ليلى العربيّة في منزلها.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:تتكلّم"
+    ],
+    [
+      "PART",
+      "ara:ليلى"
+    ],
+    [
+      "PART",
+      "ara:العربيّة"
+    ],
+    [
+      "PART",
+      "ara:في"
+    ],
+    [
+      "PART",
+      "ara:منزلها"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.513741Z": "SPLIT_DONE"
+  }
+}

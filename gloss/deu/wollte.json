@@ -9,7 +9,9 @@
     "2026-03-29T13:24:08.793054Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:08.940888Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:24:09.114974Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:24:09.298506Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:24:09.298506Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:45.521930Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:45.538930Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,24 @@
     [
       "TRANSLATION",
       "tur:istek"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom wollte sich einfach nur nachbarlich verhalten"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бразилки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom wollte, dass alle miteinander auskämen"
     ]
   ]
 }

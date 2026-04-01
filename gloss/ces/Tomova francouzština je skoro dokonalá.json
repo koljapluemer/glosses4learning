@@ -1,0 +1,35 @@
+{
+  "content": "Tomova francouzština je skoro dokonalá.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tomova"
+    ],
+    [
+      "PART",
+      "ces:francouzština"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:skoro"
+    ],
+    [
+      "PART",
+      "ces:dokonalá"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.576952Z": "SPLIT_DONE"
+  }
+}

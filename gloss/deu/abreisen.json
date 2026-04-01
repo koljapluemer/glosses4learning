@@ -9,7 +9,9 @@
     "2026-03-29T13:16:36.775100Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:37.020486Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:37.212478Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:37.494874Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:37.494874Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:36.672548Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:36.690307Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,20 @@
     [
       "TRANSLATION",
       "tur:yolculuğa çıkmak, ayrılmak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden gleich nach dem Abendessen abreisen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Подорожі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:여행하기",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

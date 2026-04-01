@@ -1,0 +1,41 @@
+{
+  "content": "Qué",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué sería del ser humano sin los animales﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What﹖",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Was﹖",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що﹖",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué películas están en cartelera ahora﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué otra cosa están escondiendo ellos﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:19.803224Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:19.818339Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:19.834504Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "reserva",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos una reserva para las seis y media"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Reserve",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reserve",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:14.936646Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:14.951009Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:14.967131Z": "TRANSLATION_DONE:ukr"
+  }
+}

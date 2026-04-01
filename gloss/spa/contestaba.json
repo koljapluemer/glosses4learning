@@ -1,0 +1,33 @@
+{
+  "content": "contestaba",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Oleg siempre contestaba las preguntas rápidamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He responded",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er reagierte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Він відповів",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.588511Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.607267Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.629910Z": "TRANSLATION_DONE:ukr"
+  }
+}

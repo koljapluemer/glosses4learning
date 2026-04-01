@@ -1,0 +1,33 @@
+{
+  "content": "Preisvergleich",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest einen Preisvergleich machen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Price comparison",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Порівняння цін",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:가격 비교",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:57.139943Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:57.283893Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:57.319695Z": "TRANSLATION_DONE:kor"
+  }
+}

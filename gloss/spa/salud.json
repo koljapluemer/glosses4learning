@@ -1,0 +1,33 @@
+{
+  "content": "salud",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los deportes son buenos para tu salud"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Health",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gesundheit",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Здоров'я",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:30.620920Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:30.638312Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:30.669843Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Jeg vil gøre alt hvad I siger!",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:gøre"
+    ],
+    [
+      "PART",
+      "dan:alt"
+    ],
+    [
+      "PART",
+      "dan:hvad"
+    ],
+    [
+      "PART",
+      "dan:I"
+    ],
+    [
+      "PART",
+      "dan:siger"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.750339Z": "SPLIT_DONE"
+  }
+}

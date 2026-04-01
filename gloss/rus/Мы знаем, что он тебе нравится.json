@@ -1,0 +1,39 @@
+{
+  "content": "Мы знаем, что он тебе нравится.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:знаем"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:тебе"
+    ],
+    [
+      "PART",
+      "rus:нравится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.200816Z": "SPLIT_DONE"
+  }
+}

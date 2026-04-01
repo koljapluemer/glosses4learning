@@ -1,0 +1,39 @@
+{
+  "content": "Ich vergesse immer wieder seinen Namen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:vergesse"
+    ],
+    [
+      "PART",
+      "deu:immer"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Namen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.900393Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom bunu benim yapmamdan sonra yaptı.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bunu"
+    ],
+    [
+      "PART",
+      "tur:benim"
+    ],
+    [
+      "PART",
+      "tur:yapmamdan"
+    ],
+    [
+      "PART",
+      "tur:sonra"
+    ],
+    [
+      "PART",
+      "tur:yaptı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.281304Z": "SPLIT_DONE"
+  }
+}

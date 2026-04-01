@@ -8,7 +8,9 @@
     "2026-01-27T14:34:33.794110Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:20:55.318713Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:55.469274Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:20:55.671695Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:20:55.671695Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:06.634604Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:06.658572Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -70,6 +72,20 @@
     [
       "TRANSLATION",
       "ita:viene"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Складання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr kommt also von einem anderen Planeten﹖"
     ]
   ]
 }

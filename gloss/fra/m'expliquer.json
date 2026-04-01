@@ -1,0 +1,27 @@
+{
+  "content": "m'expliquer",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que tu peux m'expliquer comment t'as fait ça ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:explain",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erklärung",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:35.427932Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:35.581566Z": "TRANSLATION_DONE:deu"
+  }
+}

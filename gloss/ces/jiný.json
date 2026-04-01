@@ -1,0 +1,29 @@
+{
+  "content": "jiný",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Byl tak kromě Toma ještě někdo jiný﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:other",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdy jsem neměl jiný názor, než Tom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nikdo jiný než Tom neznal pravdu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:01.079291Z": "TRANSLATION_DONE:eng"
+  }
+}

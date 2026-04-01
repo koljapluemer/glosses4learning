@@ -9,7 +9,9 @@
     "2026-03-29T13:20:36.249559Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:36.420417Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:36.616486Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:36.820636Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:36.820636Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:02.356234Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:02.356489Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,20 @@
     [
       "TRANSLATION",
       "tur:her biri"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom besucht jedes Wochenende seine Eltern"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кожен",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:각 각",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

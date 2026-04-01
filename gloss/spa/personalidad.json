@@ -1,0 +1,37 @@
+{
+  "content": "personalidad",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los tests de personalidad me dan resultados inconsistentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:personality",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Persönlichkeit",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:особистість",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No me gustan las mujeres que no tienen personalidad"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:23.376960Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:23.394014Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:23.407688Z": "TRANSLATION_DONE:ukr"
+  }
+}

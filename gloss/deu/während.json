@@ -9,7 +9,9 @@
     "2026-03-29T13:24:14.594833Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:14.745818Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:24:14.948472Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:24:15.123962Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:24:15.123962Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:45.883180Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:45.897174Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,20 @@
     [
       "TRANSLATION",
       "ita:durante"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:під час",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:시간 ﹕",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:mientras"
     ]
   ]
 }

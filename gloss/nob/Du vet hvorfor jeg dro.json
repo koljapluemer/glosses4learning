@@ -1,0 +1,35 @@
+{
+  "content": "Du vet hvorfor jeg dro.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danieljtah (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Du"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:hvorfor"
+    ],
+    [
+      "PART",
+      "nob:jeg"
+    ],
+    [
+      "PART",
+      "nob:dro"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.259937Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Thomas et Maria liberi mei sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soweli_Elepanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:Maria"
+    ],
+    [
+      "PART",
+      "lat:liberi"
+    ],
+    [
+      "PART",
+      "lat:mei"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.361595Z": "SPLIT_DONE"
+  }
+}

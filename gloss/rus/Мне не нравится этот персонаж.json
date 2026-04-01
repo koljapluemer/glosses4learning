@@ -1,0 +1,35 @@
+{
+  "content": "Мне не нравится этот персонаж.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:нравится"
+    ],
+    [
+      "PART",
+      "rus:этот"
+    ],
+    [
+      "PART",
+      "rus:персонаж"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.305933Z": "SPLIT_DONE"
+  }
+}

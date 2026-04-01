@@ -1,0 +1,31 @@
+{
+  "content": "Kupiła mi nowy słownik.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Kupiła"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:nowy"
+    ],
+    [
+      "PART",
+      "pol:słownik"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.801527Z": "SPLIT_DONE"
+  }
+}

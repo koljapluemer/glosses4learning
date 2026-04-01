@@ -1,0 +1,31 @@
+{
+  "content": "схоже",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти, схоже, не рада"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sounds like",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Klingt nach",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не схоже, що Том такий вже зайнятий"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:12.948088Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:12.969398Z": "TRANSLATION_DONE:deu"
+  }
+}

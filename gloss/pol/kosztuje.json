@@ -6,7 +6,9 @@
     "2025-12-16T14:14:41.901Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:16:14.488Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +26,10 @@
     [
       "TRANSLATION",
       "eng:is worth"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:To kosztuje wiele pieniędzy"
     ]
   ]
 }

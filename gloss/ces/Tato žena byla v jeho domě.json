@@ -1,0 +1,39 @@
+{
+  "content": "Tato žena byla v jeho domě.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tato"
+    ],
+    [
+      "PART",
+      "ces:žena"
+    ],
+    [
+      "PART",
+      "ces:byla"
+    ],
+    [
+      "PART",
+      "ces:v"
+    ],
+    [
+      "PART",
+      "ces:jeho"
+    ],
+    [
+      "PART",
+      "ces:domě"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.596472Z": "SPLIT_DONE"
+  }
+}

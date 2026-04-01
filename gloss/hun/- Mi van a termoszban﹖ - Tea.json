@@ -1,0 +1,35 @@
+{
+  "content": "- Mi van a termoszban? - Tea.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mi"
+    ],
+    [
+      "PART",
+      "hun:van"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:termoszban"
+    ],
+    [
+      "PART",
+      "hun:Tea"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.920566Z": "SPLIT_DONE"
+  }
+}

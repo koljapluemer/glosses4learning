@@ -1,0 +1,31 @@
+{
+  "content": "ordentligt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil gerne have at du opfører dig ordentligt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kan ikke drive virksomheden ordentligt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:proper",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ordnungsgemäß",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:11.992246Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:12.148223Z": "TRANSLATION_DONE:deu"
+  }
+}

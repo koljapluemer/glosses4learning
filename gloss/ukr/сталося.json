@@ -1,0 +1,35 @@
+{
+  "content": "сталося",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Що з Томом сталося﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Has happened",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ist passiert",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не можу дозволити, щоб це сталося"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я просто не можу повірити, що це сталося"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:12.226275Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:12.241105Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "deliciosos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¡Todos mis pasteles están deliciosos!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:delicious",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lecker",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:смачні",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:02.678409Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:02.692701Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:02.706979Z": "TRANSLATION_DONE:ukr"
+  }
+}

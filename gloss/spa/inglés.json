@@ -1,0 +1,37 @@
+{
+  "content": "inglés",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Por qué no hacer que el inglés se escribe fonéticamente﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A casi todos los alumnos les gusta el inglés"
+    ],
+    [
+      "TRANSLATION",
+      "eng:English",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Englisch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Українська",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.757943Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.770926Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.788625Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg fant ut hvor Tom er.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:fant"
+    ],
+    [
+      "PART",
+      "nob:ut"
+    ],
+    [
+      "PART",
+      "nob:hvor"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.276517Z": "SPLIT_DONE"
+  }
+}

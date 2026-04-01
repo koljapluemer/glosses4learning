@@ -1,0 +1,37 @@
+{
+  "content": "votar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos países hacen obligatorio votar en las elecciones"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vote",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Abstimmung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:голоси",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos votantes esperaron por horas para votar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:44.279904Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:44.294254Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:44.310094Z": "TRANSLATION_DONE:ukr"
+  }
+}

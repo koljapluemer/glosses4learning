@@ -1,0 +1,39 @@
+{
+  "content": "Tom comprou muitos tipos de flores.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:comprou"
+    ],
+    [
+      "PART",
+      "por:muitos"
+    ],
+    [
+      "PART",
+      "por:tipos"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:flores"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.543170Z": "SPLIT_DONE"
+  }
+}

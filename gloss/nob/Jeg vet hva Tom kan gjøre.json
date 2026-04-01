@@ -1,0 +1,39 @@
+{
+  "content": "Jeg vet hva Tom kan gjøre.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yomawaru (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:hva"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:kan"
+    ],
+    [
+      "PART",
+      "nob:gjøre"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.324846Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "لا أتكلم العربية بشكل جيد جدا.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:أتكلم"
+    ],
+    [
+      "PART",
+      "ara:العربية"
+    ],
+    [
+      "PART",
+      "ara:بشكل"
+    ],
+    [
+      "PART",
+      "ara:جيد"
+    ],
+    [
+      "PART",
+      "ara:جدا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.565497Z": "SPLIT_DONE"
+  }
+}

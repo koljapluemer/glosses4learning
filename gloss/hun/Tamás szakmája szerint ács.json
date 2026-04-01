@@ -1,0 +1,31 @@
+{
+  "content": "Tamás szakmája szerint ács.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felvideki (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tamás"
+    ],
+    [
+      "PART",
+      "hun:szakmája"
+    ],
+    [
+      "PART",
+      "hun:szerint"
+    ],
+    [
+      "PART",
+      "hun:ács"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.917999Z": "SPLIT_DONE"
+  }
+}

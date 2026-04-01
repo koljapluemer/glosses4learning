@@ -1,0 +1,33 @@
+{
+  "content": "widersprüchlich",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sein Verhalten ist widersprüchlich zu dem, was er sagt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:contradictory",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:суперечка",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:43.936490Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:43.952768Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:43.970355Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Az apám nem szereti a zenét.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felvideki (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Az"
+    ],
+    [
+      "PART",
+      "hun:apám"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:szereti"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:zenét"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.888836Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Dit is een houten tafel.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:houten"
+    ],
+    [
+      "PART",
+      "nld:tafel"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.171156Z": "SPLIT_DONE"
+  }
+}

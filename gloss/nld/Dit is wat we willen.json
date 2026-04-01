@@ -1,0 +1,35 @@
+{
+  "content": "Dit is wat we willen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by doemaar14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:wat"
+    ],
+    [
+      "PART",
+      "nld:we"
+    ],
+    [
+      "PART",
+      "nld:willen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.155839Z": "SPLIT_DONE"
+  }
+}

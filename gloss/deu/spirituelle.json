@@ -9,7 +9,9 @@
     "2026-03-29T13:22:40.215221Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:40.410624Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:22:40.582462Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:22:40.760325Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:22:40.760325Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:20.888294Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:20.907083Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:manevi"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:духовний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

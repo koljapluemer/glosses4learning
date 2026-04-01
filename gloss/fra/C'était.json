@@ -9,6 +9,35 @@
     [
       "TRANSLATION",
       "spa:Fue"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:C'était quelque chose auquel je ne m'attendais pas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It was",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es war",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:C'était une situation vraiment embarrassante"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:C'était juste une question, monsieur"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:03.930056Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:04.075463Z": "TRANSLATION_DONE:deu"
+  }
 }

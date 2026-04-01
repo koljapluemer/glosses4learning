@@ -1,0 +1,35 @@
+{
+  "content": "sted",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ved, du er derinde et sted"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender det helt rigtige sted"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Stig ind. Jeg vil køre dig et eller andet sted hen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:place",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ort",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:37.285242Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:37.422589Z": "TRANSLATION_DONE:deu"
+  }
+}

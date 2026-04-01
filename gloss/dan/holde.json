@@ -1,0 +1,35 @@
+{
+  "content": "holde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke holde ud at arbejde her"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kunne ikke længere holde det ud"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom lovede at han ville holde op med at ryge"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hold",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:halten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:35.023172Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:35.191550Z": "TRANSLATION_DONE:deu"
+  }
+}

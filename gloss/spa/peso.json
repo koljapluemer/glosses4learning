@@ -1,0 +1,33 @@
+{
+  "content": "peso",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hermana se está controlando el peso continuamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:weight",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gewicht",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вага",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:23.466902Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:23.480572Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:23.497333Z": "TRANSLATION_DONE:ukr"
+  }
+}

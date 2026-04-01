@@ -1,0 +1,27 @@
+{
+  "content": "deneyimli",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom deneyimli bir diş hekimi yardımcısıdır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:experienced",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erfahren",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:28.900884Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:28.916295Z": "TRANSLATION_DONE:deu"
+  }
+}

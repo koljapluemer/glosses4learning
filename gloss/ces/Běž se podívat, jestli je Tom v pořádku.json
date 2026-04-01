@@ -1,0 +1,47 @@
+{
+  "content": "Běž se podívat, jestli je Tom v pořádku.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Běž"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:podívat"
+    ],
+    [
+      "PART",
+      "ces:jestli"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:v"
+    ],
+    [
+      "PART",
+      "ces:pořádku"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.568658Z": "SPLIT_DONE"
+  }
+}

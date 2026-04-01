@@ -1,0 +1,33 @@
+{
+  "content": "sellos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que conseguir algunos sellos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Stamps",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Briefmarken",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Штампи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:31.225462Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:31.242928Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:31.264301Z": "TRANSLATION_DONE:ukr"
+  }
+}

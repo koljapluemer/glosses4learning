@@ -1,0 +1,27 @@
+{
+  "content": "Tom zastawił pułapkę.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ptr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:zastawił"
+    ],
+    [
+      "PART",
+      "pol:pułapkę"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.780731Z": "SPLIT_DONE"
+  }
+}

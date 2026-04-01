@@ -1,0 +1,35 @@
+{
+  "content": "Jeg snakker fransk oftere nå.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ],
+    [
+      "PART",
+      "nob:fransk"
+    ],
+    [
+      "PART",
+      "nob:oftere"
+    ],
+    [
+      "PART",
+      "nob:nå"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.262768Z": "SPLIT_DONE"
+  }
+}

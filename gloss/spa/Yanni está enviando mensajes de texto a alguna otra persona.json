@@ -1,0 +1,55 @@
+{
+  "content": "Yanni está enviando mensajes de texto a alguna otra persona.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Yanni"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:enviando"
+    ],
+    [
+      "PART",
+      "spa:mensajes"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:texto"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:alguna"
+    ],
+    [
+      "PART",
+      "spa:otra"
+    ],
+    [
+      "PART",
+      "spa:persona"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.683919Z": "SPLIT_DONE"
+  }
+}

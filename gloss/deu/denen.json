@@ -1,0 +1,37 @@
+{
+  "content": "denen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom verglich seine Antworten mit denen von Mary"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe denen gesagt, dass sie verschwinden sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:02.221083Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:02.221397Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:02.222148Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -9,7 +9,9 @@
     "2026-03-29T13:21:12.157333Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:12.339149Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:21:12.513581Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:21:12.691868Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:21:12.691868Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:08.828875Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:08.847233Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:seviyorum"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:любов",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

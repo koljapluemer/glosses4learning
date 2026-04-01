@@ -1,0 +1,43 @@
+{
+  "content": "Tom řekl, že jeho autobus přijel pozdě.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:řekl"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:jeho"
+    ],
+    [
+      "PART",
+      "ces:autobus"
+    ],
+    [
+      "PART",
+      "ces:přijel"
+    ],
+    [
+      "PART",
+      "ces:pozdě"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.624615Z": "SPLIT_DONE"
+  }
+}

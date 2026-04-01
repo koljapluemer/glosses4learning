@@ -1,0 +1,35 @@
+{
+  "content": "Lingua Francogallica non est difficilis.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Lingua"
+    ],
+    [
+      "PART",
+      "lat:Francogallica"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:difficilis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.380182Z": "SPLIT_DONE"
+  }
+}

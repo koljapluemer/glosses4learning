@@ -1,0 +1,41 @@
+{
+  "content": "fuego",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La ausencia es al amor lo que al fuego el aire﹕ que apaga el pequeño y aviva el grande"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fire",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Feuer",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пожежа",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos animales le tienen miedo al fuego"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los animales tienen miedo del fuego"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:56.253655Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:56.276208Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:56.294424Z": "TRANSLATION_DONE:ukr"
+  }
+}

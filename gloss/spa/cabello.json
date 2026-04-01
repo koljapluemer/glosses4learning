@@ -1,0 +1,37 @@
+{
+  "content": "cabello",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas de cabello rojo generalmente tienen pecas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su largo cabello estaba completamente mojado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hair",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haare",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:волосся",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.076871Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.090350Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.107256Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "ข้างนอก",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมไม่สามารถออกไปข้างนอกได้"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Outside",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Draußen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันเห็นบางสิ่งบางอย่างเคลื่อนที่อยู่ข้างนอกนั่น"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:09.225351Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:09.340708Z": "TRANSLATION_DONE:deu"
+  }
+}

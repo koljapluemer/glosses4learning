@@ -1,0 +1,31 @@
+{
+  "content": "Tyckte du om matchen?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tyckte"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:matchen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.824231Z": "SPLIT_DONE"
+  }
+}

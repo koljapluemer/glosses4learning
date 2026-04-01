@@ -1,0 +1,27 @@
+{
+  "content": "แท็กซี่",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันจะหาแท็กซี่ได้ที่ไหน﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Taxi!",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Taxi!",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:43.270547Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:43.286356Z": "TRANSLATION_DONE:deu"
+  }
+}

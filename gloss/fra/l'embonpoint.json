@@ -1,0 +1,27 @@
+{
+  "content": "l'embonpoint",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tom a vraiment de l'embonpoint, n'est-ce-pas﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:overweight",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Übergewicht",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:34.896281Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:34.912860Z": "TRANSLATION_DONE:deu"
+  }
+}

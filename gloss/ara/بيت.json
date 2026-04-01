@@ -1,0 +1,29 @@
+{
+  "content": "بيت",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ara:ماذا حدث في بيت بولوك الليلة؟"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Pete",
+      "Auto-translated with argostranslate (ar→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ara:لم يتمكن سامي من الذهاب إلى بيت ليلى"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ara:صلى وصام لأمر كان يطلبه، فلما انقضى الأمر لا صلى ولا صاما (بيت شعر)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:24:50.281459Z": "TRANSLATION_DONE:eng"
+  }
+}

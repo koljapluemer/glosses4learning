@@ -1,0 +1,37 @@
+{
+  "content": "scheiden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat sich im letzten Monat von seiner Frau scheiden lassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat sich von seiner ersten Frau scheiden lassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:divorce",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:розлучення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:에 의해",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:17.498993Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:17.517248Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:17.534899Z": "TRANSLATION_DONE:kor"
+  }
+}

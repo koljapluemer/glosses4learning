@@ -1,0 +1,27 @@
+{
+  "content": "kazanmayacağı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin kazanmayacağı konusunda benimle bahse girdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:won’t win",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wird nicht gewinnen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:32.922993Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:32.955883Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Su Tatoeba ci sono grandi pensatori.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Su"
+    ],
+    [
+      "PART",
+      "ita:Tatoeba"
+    ],
+    [
+      "PART",
+      "ita:ci"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:grandi"
+    ],
+    [
+      "PART",
+      "ita:pensatori"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.655746Z": "SPLIT_DONE"
+  }
+}

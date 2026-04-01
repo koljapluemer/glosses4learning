@@ -1,0 +1,35 @@
+{
+  "content": "Помниш ли какво каза тя?",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ednorog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Помниш"
+    ],
+    [
+      "PART",
+      "bul:ли"
+    ],
+    [
+      "PART",
+      "bul:какво"
+    ],
+    [
+      "PART",
+      "bul:каза"
+    ],
+    [
+      "PART",
+      "bul:тя"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:56.525883Z": "SPLIT_DONE"
+  }
+}

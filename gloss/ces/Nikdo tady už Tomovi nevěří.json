@@ -1,0 +1,35 @@
+{
+  "content": "Nikdo tady už Tomovi nevěří.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nikdo"
+    ],
+    [
+      "PART",
+      "ces:tady"
+    ],
+    [
+      "PART",
+      "ces:už"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:nevěří"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.598661Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "mitzubringen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe vergessen, meinen Ausweis mitzubringen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:with",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:11.914656Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:11.928747Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:12.075425Z": "TRANSLATION_DONE:kor"
+  }
+}

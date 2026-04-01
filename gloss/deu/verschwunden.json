@@ -1,0 +1,37 @@
+{
+  "content": "verschwunden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Tochter ist vor sieben Jahren verschwunden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich will, dass du bei Sonnenaufgang verschwunden bist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:disappeared",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зникне",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:38.668495Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:38.715062Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:38.748860Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "medio",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están en el medio de los ruidos de la ciudad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:medium",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Medium",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:середній",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estaba mirando la televisión medio dormido"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:11.457589Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:11.473348Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:11.488698Z": "TRANSLATION_DONE:ukr"
+  }
+}

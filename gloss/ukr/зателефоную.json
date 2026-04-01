@@ -1,0 +1,35 @@
+{
+  "content": "зателефоную",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зателефоную, якщо ти будеш нам потрібний"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зателефоную, якщо ти будеш нам потрібна"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зателефоную, якщо ви будете нам потрібні"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'll call you",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich rufe dich an",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:58.787040Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:58.802116Z": "TRANSLATION_DONE:deu"
+  }
+}

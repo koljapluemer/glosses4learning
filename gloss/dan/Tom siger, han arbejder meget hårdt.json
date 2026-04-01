@@ -1,0 +1,39 @@
+{
+  "content": "Tom siger, han arbejder meget hårdt.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mlkragelund (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:siger"
+    ],
+    [
+      "PART",
+      "dan:han"
+    ],
+    [
+      "PART",
+      "dan:arbejder"
+    ],
+    [
+      "PART",
+      "dan:meget"
+    ],
+    [
+      "PART",
+      "dan:hårdt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.798234Z": "SPLIT_DONE"
+  }
+}

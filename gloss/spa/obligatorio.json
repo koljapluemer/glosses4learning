@@ -1,0 +1,33 @@
+{
+  "content": "obligatorio",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos países hacen obligatorio votar en las elecciones"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mandatory",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mandat",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мандиторія",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:19.783682Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:19.800175Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:19.817835Z": "TRANSLATION_DONE:ukr"
+  }
+}

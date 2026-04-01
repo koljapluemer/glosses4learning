@@ -6,7 +6,9 @@
     "2026-01-22T15:09:59.531Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2026-01-22T15:10:03.104Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:ita"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -52,6 +54,10 @@
     [
       "TRANSLATION",
       "tha:จะ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ita:Come sono arrivato a questa conclusione﹖"
     ]
   ]
 }

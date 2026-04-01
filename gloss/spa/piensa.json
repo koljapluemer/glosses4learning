@@ -10,7 +10,8 @@
     "2026-03-29T14:26:15.996309Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:26:16.179806Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:26:16.354734Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:26:16.556685Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:26:16.556685Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:23.567827Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,15 @@
     [
       "TRANSLATION",
       "tur:düşün"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niños son más inteligentes de lo que uno piensa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

@@ -8,7 +8,9 @@
     "2026-01-27T14:30:02.230816Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:01.905993Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:02.060769Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:02.242456Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:02.242456Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:03.555157Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:03.595190Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -38,6 +40,16 @@
     [
       "TRANSLATION",
       "rus:Корабли"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вантажні перевезення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:배송안내",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

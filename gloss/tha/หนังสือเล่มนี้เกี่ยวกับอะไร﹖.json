@@ -1,0 +1,39 @@
+{
+  "content": "หนังสือเล่มนี้เกี่ยวกับอะไร?",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:หนังสือ"
+    ],
+    [
+      "PART",
+      "tha:เล่ม"
+    ],
+    [
+      "PART",
+      "tha:นี้"
+    ],
+    [
+      "PART",
+      "tha:เกี่ยวกับ"
+    ],
+    [
+      "PART",
+      "tha:อะไร"
+    ],
+    [
+      "PART",
+      "tha:﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:23.875649Z": "SPLIT_DONE"
+  }
+}

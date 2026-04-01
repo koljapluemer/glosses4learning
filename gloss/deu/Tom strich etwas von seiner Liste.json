@@ -1,0 +1,39 @@
+{
+  "content": "Tom strich etwas von seiner Liste.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:strich"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:seiner"
+    ],
+    [
+      "PART",
+      "deu:Liste"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.492509Z": "SPLIT_DONE"
+  }
+}

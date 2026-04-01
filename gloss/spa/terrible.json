@@ -1,0 +1,33 @@
+{
+  "content": "terrible",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Les tengo un miedo terrible a las serpientes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That's bad",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das ist schlecht",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це погано",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:17.491595Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:17.537453Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.574036Z": "TRANSLATION_DONE:ukr"
+  }
+}

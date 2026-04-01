@@ -1,0 +1,33 @@
+{
+  "content": "ruidos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están en el medio de los ruidos de la ciudad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:noises",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geräusche",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:шуми",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:29.215550Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:29.228967Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:29.242967Z": "TRANSLATION_DONE:ukr"
+  }
+}

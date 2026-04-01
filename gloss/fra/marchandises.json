@@ -1,0 +1,27 @@
+{
+  "content": "marchandises",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Comment pouvons-nous acheter des marchandises britanniques ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:goods",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Waren",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:35.747677Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:35.774905Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom besvarede ikke spørgsmålene som Mary stillede.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:besvarede"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:spørgsmålene"
+    ],
+    [
+      "PART",
+      "dan:som"
+    ],
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:stillede"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.803227Z": "SPLIT_DONE"
+  }
+}

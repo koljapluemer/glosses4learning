@@ -1,0 +1,43 @@
+{
+  "content": "Том сказал мне, что он вам позвонит.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:сказал"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:вам"
+    ],
+    [
+      "PART",
+      "rus:позвонит"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.599146Z": "SPLIT_DONE"
+  }
+}

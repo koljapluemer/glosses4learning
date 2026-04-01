@@ -1,0 +1,33 @@
+{
+  "content": "sientes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Tú sientes que los cumpleaños son importantes﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you feel",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du fühlst dich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви відчуваєте",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:33.666727Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:33.684611Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:33.704764Z": "TRANSLATION_DONE:ukr"
+  }
+}

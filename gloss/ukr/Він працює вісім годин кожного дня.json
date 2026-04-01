@@ -1,0 +1,39 @@
+{
+  "content": "Він працює вісім годин кожного дня.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Він"
+    ],
+    [
+      "PART",
+      "ukr:працює"
+    ],
+    [
+      "PART",
+      "ukr:вісім"
+    ],
+    [
+      "PART",
+      "ukr:годин"
+    ],
+    [
+      "PART",
+      "ukr:кожного"
+    ],
+    [
+      "PART",
+      "ukr:дня"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.985355Z": "SPLIT_DONE"
+  }
+}

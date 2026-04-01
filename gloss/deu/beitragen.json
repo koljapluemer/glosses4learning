@@ -1,0 +1,33 @@
+{
+  "content": "beitragen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Medikament könnte zu seiner Genesung beitragen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Contributions",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Внески",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:47.930473Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:47.960067Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:48.031974Z": "TRANSLATION_DONE:kor"
+  }
+}

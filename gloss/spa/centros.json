@@ -1,0 +1,33 @@
+{
+  "content": "centros",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los centros comerciales son populares entre los adolescentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:schools",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schulen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:школи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:00.120467Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:00.138472Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:00.176800Z": "TRANSLATION_DONE:ukr"
+  }
+}

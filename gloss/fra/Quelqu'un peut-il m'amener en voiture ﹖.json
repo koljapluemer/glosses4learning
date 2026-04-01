@@ -1,0 +1,35 @@
+{
+  "content": "Quelqu'un peut-il m'amener en voiture ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:peut-il"
+    ],
+    [
+      "PART",
+      "fra:m'amener"
+    ],
+    [
+      "PART",
+      "fra:en"
+    ],
+    [
+      "PART",
+      "fra:voiture"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.381806Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Nie jesteśmy jeszcze przekonani.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nie"
+    ],
+    [
+      "PART",
+      "pol:jesteśmy"
+    ],
+    [
+      "PART",
+      "pol:jeszcze"
+    ],
+    [
+      "PART",
+      "pol:przekonani"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.247442Z": "SPLIT_DONE"
+  }
+}

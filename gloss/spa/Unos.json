@@ -1,0 +1,33 @@
+{
+  "content": "Unos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Unos buenos padres son los mejores profesores"
+    ],
+    [
+      "TRANSLATION",
+      "eng:A few",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ein paar",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Кілька",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:21.755137Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:21.770350Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:21.784770Z": "TRANSLATION_DONE:ukr"
+  }
+}

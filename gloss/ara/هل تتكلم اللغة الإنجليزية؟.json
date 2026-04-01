@@ -1,0 +1,31 @@
+{
+  "content": "هل تتكلم اللغة الإنجليزية؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Samer (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هل"
+    ],
+    [
+      "PART",
+      "ara:تتكلم"
+    ],
+    [
+      "PART",
+      "ara:اللغة"
+    ],
+    [
+      "PART",
+      "ara:الإنجليزية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.601145Z": "SPLIT_DONE"
+  }
+}

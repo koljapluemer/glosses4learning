@@ -1,0 +1,43 @@
+{
+  "content": "Heute hat sie wieder ihren Tobsuchtsanfall gehabt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tarsier (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Heute"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:sie"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:ihren"
+    ],
+    [
+      "PART",
+      "deu:Tobsuchtsanfall"
+    ],
+    [
+      "PART",
+      "deu:gehabt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.560074Z": "SPLIT_DONE"
+  }
+}

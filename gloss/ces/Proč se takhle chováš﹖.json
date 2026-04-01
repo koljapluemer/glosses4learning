@@ -1,0 +1,31 @@
+{
+  "content": "Proč se takhle chováš?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nueby (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Proč"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:takhle"
+    ],
+    [
+      "PART",
+      "ces:chováš"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.718225Z": "SPLIT_DONE"
+  }
+}

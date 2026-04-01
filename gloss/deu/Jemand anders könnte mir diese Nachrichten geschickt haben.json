@@ -1,0 +1,47 @@
+{
+  "content": "Jemand anders könnte mir diese Nachrichten geschickt haben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Jemand"
+    ],
+    [
+      "PART",
+      "deu:anders"
+    ],
+    [
+      "PART",
+      "deu:könnte"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:diese"
+    ],
+    [
+      "PART",
+      "deu:Nachrichten"
+    ],
+    [
+      "PART",
+      "deu:geschickt"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.427125Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom není spokojený se svým tělem.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Hadrie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:není"
+    ],
+    [
+      "PART",
+      "ces:spokojený"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:svým"
+    ],
+    [
+      "PART",
+      "ces:tělem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.613367Z": "SPLIT_DONE"
+  }
+}

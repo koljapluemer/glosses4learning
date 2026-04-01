@@ -1,0 +1,35 @@
+{
+  "content": "Mary je Tomova mladší sestra.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Toburlo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:Tomova"
+    ],
+    [
+      "PART",
+      "ces:mladší"
+    ],
+    [
+      "PART",
+      "ces:sestra"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.727467Z": "SPLIT_DONE"
+  }
+}

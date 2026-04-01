@@ -1,0 +1,33 @@
+{
+  "content": "abgeben",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich möchte dazu lieber keinen Kommentar abgeben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they are",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그들은",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.133961Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.147961Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.162103Z": "TRANSLATION_DONE:kor"
+  }
+}

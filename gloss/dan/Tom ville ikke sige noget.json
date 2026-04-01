@@ -1,0 +1,35 @@
+{
+  "content": "Tom ville ikke sige noget.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:ville"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:sige"
+    ],
+    [
+      "PART",
+      "dan:noget"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.797536Z": "SPLIT_DONE"
+  }
+}

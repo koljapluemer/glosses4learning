@@ -1,0 +1,27 @@
+{
+  "content": "reparere",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke reparere den her computer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:repair",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reparatur",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:19.598464Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:19.739129Z": "TRANSLATION_DONE:deu"
+  }
+}

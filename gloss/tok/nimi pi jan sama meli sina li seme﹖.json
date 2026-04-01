@@ -1,0 +1,47 @@
+{
+  "content": "nimi pi jan sama meli sina li seme?",
+  "language": "tok",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tok:nimi"
+    ],
+    [
+      "PART",
+      "tok:pi"
+    ],
+    [
+      "PART",
+      "tok:jan"
+    ],
+    [
+      "PART",
+      "tok:sama"
+    ],
+    [
+      "PART",
+      "tok:meli"
+    ],
+    [
+      "PART",
+      "tok:sina"
+    ],
+    [
+      "PART",
+      "tok:li"
+    ],
+    [
+      "PART",
+      "tok:seme"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:05.721885Z": "SPLIT_DONE"
+  }
+}

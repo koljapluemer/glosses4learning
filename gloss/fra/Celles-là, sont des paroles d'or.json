@@ -1,0 +1,35 @@
+{
+  "content": "Celles-là, sont des paroles d'or.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Celles-là"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:paroles"
+    ],
+    [
+      "PART",
+      "fra:d'or"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.513398Z": "SPLIT_DONE"
+  }
+}

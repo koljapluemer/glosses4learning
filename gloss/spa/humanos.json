@@ -1,0 +1,45 @@
+{
+  "content": "humanos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los seres humanos no pueden hacer milagros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los humanos, historicamente, han sido terribles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:human rights",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Menschenrechte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Права людини",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los seres humanos son buenos en el corazón"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La inteligencia de los seres humanos evolucionó"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:03.513293Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:03.513851Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:03.515196Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Vyslechl jsem náhodně váš rozhovor.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Vyslechl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:náhodně"
+    ],
+    [
+      "PART",
+      "ces:váš"
+    ],
+    [
+      "PART",
+      "ces:rozhovor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.738624Z": "SPLIT_DONE"
+  }
+}

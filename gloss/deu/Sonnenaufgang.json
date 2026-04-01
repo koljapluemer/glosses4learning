@@ -1,0 +1,33 @@
+{
+  "content": "Sonnenaufgang",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich will, dass du bei Sonnenaufgang verschwunden bist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sunrise",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сонце",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:(주)",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:13.558297Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:13.707927Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:13.861905Z": "TRANSLATION_DONE:kor"
+  }
+}

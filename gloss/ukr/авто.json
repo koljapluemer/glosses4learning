@@ -1,0 +1,35 @@
+{
+  "content": "авто",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я обожнюю керувати авто"
+    ],
+    [
+      "TRANSLATION",
+      "spa:coches"
+    ],
+    [
+      "TRANSLATION",
+      "eng:auto",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auto",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:autos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:51.485052Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:51.498513Z": "TRANSLATION_DONE:deu"
+  }
+}

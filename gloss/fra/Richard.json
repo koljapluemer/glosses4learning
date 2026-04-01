@@ -1,0 +1,27 @@
+{
+  "content": "Richard",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que monsieur Richard est à la maison ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Richard",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Richard",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:07.998687Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:08.212726Z": "TRANSLATION_DONE:deu"
+  }
+}

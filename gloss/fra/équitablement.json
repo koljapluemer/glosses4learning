@@ -1,0 +1,27 @@
+{
+  "content": "équitablement",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'aide internationale n'est pas équitablement répartie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fairness",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fairness",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:39.260700Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:39.273596Z": "TRANSLATION_DONE:deu"
+  }
+}

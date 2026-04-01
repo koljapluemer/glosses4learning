@@ -1,0 +1,43 @@
+{
+  "content": "Řekl jsem Tomovi, že jsem to nebyl já.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Řekl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:to"
+    ],
+    [
+      "PART",
+      "ces:nebyl"
+    ],
+    [
+      "PART",
+      "ces:já"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.609821Z": "SPLIT_DONE"
+  }
+}

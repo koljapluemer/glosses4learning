@@ -1,0 +1,27 @@
+{
+  "content": "morts",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ils sont probablement tous morts, à l'heure qu'il est"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dead",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tod",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:37.586185Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:37.737187Z": "TRANSLATION_DONE:deu"
+  }
+}

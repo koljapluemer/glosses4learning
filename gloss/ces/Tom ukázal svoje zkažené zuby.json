@@ -1,0 +1,35 @@
+{
+  "content": "Tom ukázal svoje zkažené zuby.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:ukázal"
+    ],
+    [
+      "PART",
+      "ces:svoje"
+    ],
+    [
+      "PART",
+      "ces:zkažené"
+    ],
+    [
+      "PART",
+      "ces:zuby"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.166587Z": "SPLIT_DONE"
+  }
+}

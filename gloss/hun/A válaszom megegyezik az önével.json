@@ -1,0 +1,35 @@
+{
+  "content": "A válaszom megegyezik az önével.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Muelisto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:A"
+    ],
+    [
+      "PART",
+      "hun:válaszom"
+    ],
+    [
+      "PART",
+      "hun:megegyezik"
+    ],
+    [
+      "PART",
+      "hun:az"
+    ],
+    [
+      "PART",
+      "hun:önével"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.892318Z": "SPLIT_DONE"
+  }
+}

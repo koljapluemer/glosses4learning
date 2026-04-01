@@ -1,0 +1,27 @@
+{
+  "content": "d'ailleurs",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Qu'est-ce qui vous prend, d'ailleurs ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Indeed",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tatsächlich",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:32.630850Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:32.777312Z": "TRANSLATION_DONE:deu"
+  }
+}

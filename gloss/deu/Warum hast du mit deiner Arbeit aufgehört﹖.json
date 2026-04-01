@@ -1,0 +1,43 @@
+{
+  "content": "Warum hast du mit deiner Arbeit aufgehört?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Warum"
+    ],
+    [
+      "PART",
+      "deu:hast"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:deiner"
+    ],
+    [
+      "PART",
+      "deu:Arbeit"
+    ],
+    [
+      "PART",
+      "deu:aufgehört"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.222928Z": "SPLIT_DONE"
+  }
+}

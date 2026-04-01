@@ -1,0 +1,35 @@
+{
+  "content": "Hvem tror du gjorde dette?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvem"
+    ],
+    [
+      "PART",
+      "nob:tror"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:gjorde"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.303920Z": "SPLIT_DONE"
+  }
+}

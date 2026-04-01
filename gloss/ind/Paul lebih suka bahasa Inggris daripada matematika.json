@@ -1,0 +1,43 @@
+{
+  "content": "Paul lebih suka bahasa Inggris daripada matematika.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by orion17 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Paul"
+    ],
+    [
+      "PART",
+      "ind:lebih"
+    ],
+    [
+      "PART",
+      "ind:suka"
+    ],
+    [
+      "PART",
+      "ind:bahasa"
+    ],
+    [
+      "PART",
+      "ind:Inggris"
+    ],
+    [
+      "PART",
+      "ind:daripada"
+    ],
+    [
+      "PART",
+      "ind:matematika"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.879072Z": "SPLIT_DONE"
+  }
+}

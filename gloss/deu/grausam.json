@@ -12,7 +12,9 @@
     "2026-03-28T09:39:33.548852Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:39:34.464831Z": "TRANSLATION_DONE:kab",
     "2026-03-28T09:39:35.285244Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T09:39:36.410422Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T09:39:36.410422Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:47.664683Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:47.815082Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -122,6 +124,16 @@
     [
       "TRANSLATION",
       "epo:kruela"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:шемале",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주 메뉴",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

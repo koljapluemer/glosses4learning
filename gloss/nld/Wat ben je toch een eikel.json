@@ -1,0 +1,39 @@
+{
+  "content": "Wat ben je toch een eikel.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Raizin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:toch"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:eikel"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.214050Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Wat je zegt is meestal waar.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:zegt"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:meestal"
+    ],
+    [
+      "PART",
+      "nld:waar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.144872Z": "SPLIT_DONE"
+  }
+}

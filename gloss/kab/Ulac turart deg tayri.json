@@ -1,0 +1,31 @@
+{
+  "content": "Ulac turart deg tayri.",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by samir_t (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "kab:Ulac"
+    ],
+    [
+      "PART",
+      "kab:turart"
+    ],
+    [
+      "PART",
+      "kab:deg"
+    ],
+    [
+      "PART",
+      "kab:tayri"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:29.223487Z": "SPLIT_DONE"
+  }
+}

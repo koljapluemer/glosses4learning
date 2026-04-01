@@ -1,0 +1,27 @@
+{
+  "content": "vandt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg gad vide hvorfor Tom ikke vandt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:won",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gewonnen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:50.133873Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:50.176410Z": "TRANSLATION_DONE:deu"
+  }
+}

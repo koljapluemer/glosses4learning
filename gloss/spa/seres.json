@@ -1,0 +1,41 @@
+{
+  "content": "seres",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los seres humanos no pueden hacer milagros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:and",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:und",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:і",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los seres humanos son buenos en el corazón"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La inteligencia de los seres humanos evolucionó"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:32.817567Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:32.967968Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:33.001035Z": "TRANSLATION_DONE:ukr"
+  }
+}

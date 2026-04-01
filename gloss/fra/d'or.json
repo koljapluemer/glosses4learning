@@ -1,0 +1,27 @@
+{
+  "content": "d'or",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Celles-là, sont des paroles d'or"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Gold",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gold",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:20.359454Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:20.398222Z": "TRANSLATION_DONE:deu"
+  }
+}

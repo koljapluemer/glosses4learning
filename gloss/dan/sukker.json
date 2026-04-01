@@ -1,0 +1,35 @@
+{
+  "content": "sukker",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke kaffe uden sukker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom drikker sort kaffe uden sukker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke te uden sukker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sugar",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zucker",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:41.422624Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:41.563485Z": "TRANSLATION_DONE:deu"
+  }
+}

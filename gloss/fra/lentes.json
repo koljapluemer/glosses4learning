@@ -1,0 +1,27 @@
+{
+  "content": "lentes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Comment se fait-il que vous soyez si lentes ﹖!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:slow",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:langsam",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:35.186572Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:35.199255Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "这是汤姆的东西吗？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by musclegirlxyp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:这是"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:东西"
+    ],
+    [
+      "PART",
+      "cmn:吗"
+    ],
+    [
+      "PART",
+      "cmn:？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.627882Z": "SPLIT_DONE"
+  }
+}

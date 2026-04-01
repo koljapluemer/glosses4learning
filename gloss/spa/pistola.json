@@ -10,7 +10,8 @@
     "2026-03-29T14:26:18.842929Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:26:19.006514Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:26:19.205875Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:26:19.376404Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:26:19.376404Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:23.980827Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,11 @@
     [
       "TRANSLATION",
       "tur:tabanca"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:гармати",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

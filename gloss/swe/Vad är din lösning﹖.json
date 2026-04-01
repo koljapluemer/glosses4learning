@@ -1,0 +1,31 @@
+{
+  "content": "Vad är din lösning?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vad"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:din"
+    ],
+    [
+      "PART",
+      "swe:lösning"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.824496Z": "SPLIT_DONE"
+  }
+}

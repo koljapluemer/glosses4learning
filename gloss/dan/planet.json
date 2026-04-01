@@ -1,0 +1,27 @@
+{
+  "content": "planet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:På hvilken planet befinder du dig﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:planet",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Planet",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:39.578604Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:39.718696Z": "TRANSLATION_DONE:deu"
+  }
+}

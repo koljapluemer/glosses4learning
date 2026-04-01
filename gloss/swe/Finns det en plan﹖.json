@@ -1,0 +1,31 @@
+{
+  "content": "Finns det en plan?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Finns"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:plan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.817432Z": "SPLIT_DONE"
+  }
+}

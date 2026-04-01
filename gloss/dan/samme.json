@@ -1,0 +1,27 @@
+{
+  "content": "samme",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Konsekvenserne vil aldrig blive det samme!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:same",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gleich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:41.249420Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:41.390714Z": "TRANSLATION_DONE:deu"
+  }
+}

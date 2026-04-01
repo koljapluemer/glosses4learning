@@ -1,0 +1,33 @@
+{
+  "content": "casi",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A casi todos los alumnos les gusta el inglés"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Almost",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fast",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Поза «69»",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.847400Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.862704Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.897908Z": "TRANSLATION_DONE:ukr"
+  }
+}

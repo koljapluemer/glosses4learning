@@ -1,0 +1,27 @@
+{
+  "content": "virksomheden",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kan ikke drive virksomheden ordentligt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the undertaking;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das Unternehmen;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:04.512570Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:04.660300Z": "TRANSLATION_DONE:deu"
+  }
+}

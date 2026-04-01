@@ -1,0 +1,27 @@
+{
+  "content": "літаки",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені подобається дивитися, як злітають літаки"
+    ],
+    [
+      "TRANSLATION",
+      "eng:planes",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Flugzeuge",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.507208Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.651214Z": "TRANSLATION_DONE:deu"
+  }
+}

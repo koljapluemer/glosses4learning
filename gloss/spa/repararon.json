@@ -1,0 +1,37 @@
+{
+  "content": "repararon",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos repararon malamente los muebles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have been repaired",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:werden repariert haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ремонт",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos repararon pésimamente los muebles"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:28.381567Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:28.396553Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:28.410618Z": "TRANSLATION_DONE:ukr"
+  }
+}

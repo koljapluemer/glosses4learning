@@ -1,0 +1,43 @@
+{
+  "content": "Hast du etwas von deiner Tochter gehört?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Hast"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:deiner"
+    ],
+    [
+      "PART",
+      "deu:Tochter"
+    ],
+    [
+      "PART",
+      "deu:gehört"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.182150Z": "SPLIT_DONE"
+  }
+}

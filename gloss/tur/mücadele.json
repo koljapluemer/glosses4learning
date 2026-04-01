@@ -1,0 +1,31 @@
+{
+  "content": "mücadele",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onunla mücadele etmenin ne anlamı var﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fight",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kampf",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu nedenle mücadele etmek zorundayız"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:34.183144Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:34.333160Z": "TRANSLATION_DONE:deu"
+  }
+}

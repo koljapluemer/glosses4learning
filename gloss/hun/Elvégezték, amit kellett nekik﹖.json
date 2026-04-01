@@ -1,0 +1,31 @@
+{
+  "content": "Elvégezték, amit kellett nekik?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Elvégezték"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:kellett"
+    ],
+    [
+      "PART",
+      "hun:nekik"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.584486Z": "SPLIT_DONE"
+  }
+}

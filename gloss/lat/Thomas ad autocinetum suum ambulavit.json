@@ -1,0 +1,35 @@
+{
+  "content": "Thomas ad autocinetum suum ambulavit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Iye_Tete (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:ad"
+    ],
+    [
+      "PART",
+      "lat:autocinetum"
+    ],
+    [
+      "PART",
+      "lat:suum"
+    ],
+    [
+      "PART",
+      "lat:ambulavit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.314732Z": "SPLIT_DONE"
+  }
+}

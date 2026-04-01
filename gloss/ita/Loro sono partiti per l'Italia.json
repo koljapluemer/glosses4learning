@@ -1,0 +1,35 @@
+{
+  "content": "Loro sono partiti per l'Italia.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Loro"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:partiti"
+    ],
+    [
+      "PART",
+      "ita:per"
+    ],
+    [
+      "PART",
+      "ita:l'Italia"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.859754Z": "SPLIT_DONE"
+  }
+}

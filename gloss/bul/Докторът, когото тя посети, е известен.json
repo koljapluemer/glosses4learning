@@ -1,0 +1,39 @@
+{
+  "content": "Докторът, когото тя посети, е известен.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zerosoft (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Докторът"
+    ],
+    [
+      "PART",
+      "bul:когото"
+    ],
+    [
+      "PART",
+      "bul:тя"
+    ],
+    [
+      "PART",
+      "bul:посети"
+    ],
+    [
+      "PART",
+      "bul:е"
+    ],
+    [
+      "PART",
+      "bul:известен"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:02.768616Z": "SPLIT_DONE"
+  }
+}

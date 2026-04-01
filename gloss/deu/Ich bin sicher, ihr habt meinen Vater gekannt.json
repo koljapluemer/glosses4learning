@@ -1,0 +1,47 @@
+{
+  "content": "Ich bin sicher, ihr habt meinen Vater gekannt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:sicher"
+    ],
+    [
+      "PART",
+      "deu:ihr"
+    ],
+    [
+      "PART",
+      "deu:habt"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Vater"
+    ],
+    [
+      "PART",
+      "deu:gekannt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.763511Z": "SPLIT_DONE"
+  }
+}

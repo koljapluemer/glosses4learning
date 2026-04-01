@@ -1,0 +1,39 @@
+{
+  "content": "Jeg kan ikke lide at studere.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Jon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:lide"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:studere"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.098443Z": "SPLIT_DONE"
+  }
+}

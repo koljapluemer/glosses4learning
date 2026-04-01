@@ -1,0 +1,33 @@
+{
+  "content": "話す",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムはいくつかの言語を話す。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私の母は5ヶ国語を話すことができます。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ak",
+      "Auto-translated with argostranslate (ja→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムはフランス語をかなり上手に話すことができる。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:いいえ、私は英語を話すことができません。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:46.913554Z": "TRANSLATION_DONE:eng"
+  }
+}

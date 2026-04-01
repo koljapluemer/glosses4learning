@@ -1,0 +1,35 @@
+{
+  "content": "那是汤姆的字典",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by TinBreker (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:那"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:字典"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.616056Z": "SPLIT_DONE"
+  }
+}

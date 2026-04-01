@@ -1,0 +1,31 @@
+{
+  "content": "l'on",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce n'est pas quelque chose que l'on oublie facilement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:One",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ein",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Une bonne préparation signifie que l'on n'aura pas à s'inquiéter"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:33.052709Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:33.117787Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:22:02.875623Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:03.035693Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:03.226708Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:03.410255Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:03.410255Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:25.947077Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,31 @@
     [
       "TRANSLATION",
       "tur:önce"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente consume menos electricidad que antes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que estar allí antes de las dos y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que saberlo antes de las dos y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se fue antes de que yo llegara a casa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos me lo dijeron unos días antes"
     ]
   ]
 }

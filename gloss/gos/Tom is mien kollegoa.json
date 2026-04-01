@@ -1,0 +1,31 @@
+{
+  "content": "Tom is mien kollegoa.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:mien"
+    ],
+    [
+      "PART",
+      "gos:kollegoa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.395023Z": "SPLIT_DONE"
+  }
+}

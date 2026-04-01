@@ -1,0 +1,27 @@
+{
+  "content": "відбувається",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Скажи мені, що цього насправді не відбувається"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is happening",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wird geschehen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.487331Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.500251Z": "TRANSLATION_DONE:deu"
+  }
+}

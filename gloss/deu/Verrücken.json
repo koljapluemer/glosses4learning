@@ -1,0 +1,33 @@
+{
+  "content": "Verrücken",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe Tom beim Verrücken seines Schreibtisches geholfen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Crazy",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Божевільний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:30.480867Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:30.496361Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:30.516286Z": "TRANSLATION_DONE:kor"
+  }
+}

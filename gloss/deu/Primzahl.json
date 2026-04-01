@@ -9,7 +9,9 @@
     "2026-03-29T13:14:48.990659Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:49.180845Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:49.387719Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:49.561825Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:49.561825Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:57.488645Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:57.631370Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:Asal sayı"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Прим. номер",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:감옥 번호",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

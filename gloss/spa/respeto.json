@@ -1,0 +1,33 @@
+{
+  "content": "respeto",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me tiene harto el poco respeto que tienen todos ellos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:respect",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Achtung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Повага",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:15.026227Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:15.039269Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:15.059059Z": "TRANSLATION_DONE:ukr"
+  }
+}

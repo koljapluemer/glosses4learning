@@ -1,0 +1,31 @@
+{
+  "content": "Det finns en hake.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:finns"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:hake"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.829188Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Mary se nedokázala vyrovnat s Tomovou nevěrou.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:nedokázala"
+    ],
+    [
+      "PART",
+      "ces:vyrovnat"
+    ],
+    [
+      "PART",
+      "ces:s"
+    ],
+    [
+      "PART",
+      "ces:Tomovou"
+    ],
+    [
+      "PART",
+      "ces:nevěrou"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.044641Z": "SPLIT_DONE"
+  }
+}

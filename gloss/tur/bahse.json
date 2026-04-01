@@ -1,0 +1,27 @@
+{
+  "content": "bahse",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'nin kazanmayacağı konusunda benimle bahse girdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:News",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nachrichten",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:27.886981Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.900063Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "élèves",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quels sont les élèves qui vont passer l'examen ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Students",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Studenten",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:56.950003Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:56.974971Z": "TRANSLATION_DONE:deu"
+  }
+}

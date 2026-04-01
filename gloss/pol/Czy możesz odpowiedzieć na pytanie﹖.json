@@ -1,0 +1,35 @@
+{
+  "content": "Czy możesz odpowiedzieć na pytanie?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hecko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:możesz"
+    ],
+    [
+      "PART",
+      "pol:odpowiedzieć"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:pytanie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.277763Z": "SPLIT_DONE"
+  }
+}

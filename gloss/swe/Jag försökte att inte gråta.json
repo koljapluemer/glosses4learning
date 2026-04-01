@@ -1,0 +1,35 @@
+{
+  "content": "Jag försökte att inte gråta.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by freddy1 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:försökte"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:gråta"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.813214Z": "SPLIT_DONE"
+  }
+}

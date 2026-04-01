@@ -1,0 +1,39 @@
+{
+  "content": "Jobban szeretem a kenyeret, mint a rizst.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mraz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Jobban"
+    ],
+    [
+      "PART",
+      "hun:szeretem"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:kenyeret"
+    ],
+    [
+      "PART",
+      "hun:mint"
+    ],
+    [
+      "PART",
+      "hun:rizst"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.900176Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jednou jsem byl v Kanadě.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Jednou"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:v"
+    ],
+    [
+      "PART",
+      "ces:Kanadě"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.641755Z": "SPLIT_DONE"
+  }
+}

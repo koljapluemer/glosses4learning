@@ -1,0 +1,27 @@
+{
+  "content": "Marys",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom betalte for Marys pandetatovering"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary's",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mary's",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:33.526443Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:33.688509Z": "TRANSLATION_DONE:deu"
+  }
+}

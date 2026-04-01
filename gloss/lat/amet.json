@@ -1,0 +1,29 @@
+{
+  "content": "amet",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin Thomas te amet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin me amet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Dubito num Thomas te amet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:43:45.207235Z": "TRANSLATION_DONE:eng"
+  }
+}

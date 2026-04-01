@@ -1,0 +1,43 @@
+{
+  "content": "Jag tycker om att dansa med Mary.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:tycker"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:dansa"
+    ],
+    [
+      "PART",
+      "swe:med"
+    ],
+    [
+      "PART",
+      "swe:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.806419Z": "SPLIT_DONE"
+  }
+}

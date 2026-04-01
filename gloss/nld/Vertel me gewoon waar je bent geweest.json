@@ -1,0 +1,43 @@
+{
+  "content": "Vertel me gewoon waar je bent geweest.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by doemaar14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Vertel"
+    ],
+    [
+      "PART",
+      "nld:me"
+    ],
+    [
+      "PART",
+      "nld:gewoon"
+    ],
+    [
+      "PART",
+      "nld:waar"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:bent"
+    ],
+    [
+      "PART",
+      "nld:geweest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.195926Z": "SPLIT_DONE"
+  }
+}

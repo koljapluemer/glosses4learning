@@ -1,0 +1,39 @@
+{
+  "content": "أنا أتعجب لماذا قال توم ذلك",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MSSGIFRE (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنا"
+    ],
+    [
+      "PART",
+      "ara:أتعجب"
+    ],
+    [
+      "PART",
+      "ara:لماذا"
+    ],
+    [
+      "PART",
+      "ara:قال"
+    ],
+    [
+      "PART",
+      "ara:توم"
+    ],
+    [
+      "PART",
+      "ara:ذلك"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.048259Z": "SPLIT_DONE"
+  }
+}

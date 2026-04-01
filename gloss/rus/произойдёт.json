@@ -1,0 +1,29 @@
+{
+  "content": "произойдёт",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я уверена, что сегодня этого не произойдёт"
+    ],
+    [
+      "TRANSLATION",
+      "eng:happen",
+      "Auto-translated with argostranslate (ru→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Если это опять произойдёт, позвоните мне"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Если это опять произойдёт, позвони мне"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:10.808440Z": "TRANSLATION_DONE:eng"
+  }
+}

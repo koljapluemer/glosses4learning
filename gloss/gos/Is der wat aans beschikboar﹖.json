@@ -1,0 +1,35 @@
+{
+  "content": "Is der wat aans beschikboar?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Is"
+    ],
+    [
+      "PART",
+      "gos:der"
+    ],
+    [
+      "PART",
+      "gos:wat"
+    ],
+    [
+      "PART",
+      "gos:aans"
+    ],
+    [
+      "PART",
+      "gos:beschikboar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.678118Z": "SPLIT_DONE"
+  }
+}

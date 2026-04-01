@@ -1,0 +1,31 @@
+{
+  "content": "franske",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er sjældent at jeg læser franske bøger"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne film har franske undertekster"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Französisch",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:23.413448Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:23.443148Z": "TRANSLATION_DONE:deu"
+  }
+}

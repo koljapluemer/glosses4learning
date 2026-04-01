@@ -1,0 +1,35 @@
+{
+  "content": "Kdo je autorem této knihy?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Kdo"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:autorem"
+    ],
+    [
+      "PART",
+      "ces:této"
+    ],
+    [
+      "PART",
+      "ces:knihy"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.752044Z": "SPLIT_DONE"
+  }
+}

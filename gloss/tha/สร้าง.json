@@ -1,0 +1,31 @@
+{
+  "content": "สร้าง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เราไม่ได้สร้างมันขึ้นมา"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Create",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erstellung",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:กรุงโรมไม่ได้สร้างเสร็จภายในวันเดียว"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:17.962584Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:17.975767Z": "TRANSLATION_DONE:deu"
+  }
+}

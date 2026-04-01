@@ -1,0 +1,35 @@
+{
+  "content": "Tom se najednou stal slavným.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:najednou"
+    ],
+    [
+      "PART",
+      "ces:stal"
+    ],
+    [
+      "PART",
+      "ces:slavným"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.140367Z": "SPLIT_DONE"
+  }
+}

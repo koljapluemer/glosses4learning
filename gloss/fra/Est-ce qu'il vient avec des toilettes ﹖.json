@@ -1,0 +1,39 @@
+{
+  "content": "Est-ce qu'il vient avec des toilettes ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zogwarg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'il"
+    ],
+    [
+      "PART",
+      "fra:vient"
+    ],
+    [
+      "PART",
+      "fra:avec"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:toilettes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.168761Z": "SPLIT_DONE"
+  }
+}

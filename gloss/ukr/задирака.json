@@ -1,0 +1,27 @@
+{
+  "content": "задирака",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вiн - задирака!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:diak",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Diak",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.535529Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.681902Z": "TRANSLATION_DONE:deu"
+  }
+}

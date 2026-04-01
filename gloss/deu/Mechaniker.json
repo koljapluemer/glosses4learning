@@ -1,0 +1,33 @@
+{
+  "content": "Mechaniker",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sollen wir diesen einen Mechaniker fragen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mechanical",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Механічна",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기계 기계",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:39.829897Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:39.855786Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:40.004205Z": "TRANSLATION_DONE:kor"
+  }
+}

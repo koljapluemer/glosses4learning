@@ -1,0 +1,39 @@
+{
+  "content": "Qu'est-ce que tu apprends à l'école ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by TRANG (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:apprends"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:l'école"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.133967Z": "SPLIT_DONE"
+  }
+}

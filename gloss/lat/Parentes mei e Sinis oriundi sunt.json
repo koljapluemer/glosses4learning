@@ -1,0 +1,39 @@
+{
+  "content": "Parentes mei e Sinis oriundi sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Parentes"
+    ],
+    [
+      "PART",
+      "lat:mei"
+    ],
+    [
+      "PART",
+      "lat:e"
+    ],
+    [
+      "PART",
+      "lat:Sinis"
+    ],
+    [
+      "PART",
+      "lat:oriundi"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.371902Z": "SPLIT_DONE"
+  }
+}

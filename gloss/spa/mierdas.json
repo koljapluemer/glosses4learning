@@ -1,0 +1,33 @@
+{
+  "content": "mierdas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos están hartos de las mierdas de los republicanos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fuckers",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arschlöcher",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Фукери",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:13.723091Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:13.741270Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:13.760333Z": "TRANSLATION_DONE:ukr"
+  }
+}

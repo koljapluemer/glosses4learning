@@ -1,0 +1,39 @@
+{
+  "content": "Tom foi convidado a se retirar.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MrJuice (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:foi"
+    ],
+    [
+      "PART",
+      "por:convidado"
+    ],
+    [
+      "PART",
+      "por:a"
+    ],
+    [
+      "PART",
+      "por:se"
+    ],
+    [
+      "PART",
+      "por:retirar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.539364Z": "SPLIT_DONE"
+  }
+}

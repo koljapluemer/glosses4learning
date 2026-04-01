@@ -9,7 +9,9 @@
     "2026-03-29T13:19:20.650643Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:20.855074Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:19:21.037048Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:19:21.244212Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:19:21.244212Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:34.718335Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:34.757565Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -59,6 +61,24 @@
     [
       "TRANSLATION",
       "yid:געקויפֿט"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe ein paar Lebensmittel für das Mittagessen gekauft"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:купівля",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:구매하기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Mutter hat mir dieses Hemd gekauft"
     ]
   ]
 }

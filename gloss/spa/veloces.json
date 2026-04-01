@@ -1,0 +1,33 @@
+{
+  "content": "veloces",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A muchos estadounidenses les gustan los autos veloces"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fast",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schnell",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Швидкий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.539123Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.554264Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.570992Z": "TRANSLATION_DONE:ukr"
+  }
+}

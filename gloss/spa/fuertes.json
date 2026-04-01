@@ -1,0 +1,49 @@
+{
+  "content": "fuertes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los hombres son físicamente más fuertes que las mujeres"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los hombres grandes no necesariamente son fuertes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las tensiones eran muy fuertes entre nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:strong",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:stark",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:міцний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No todos los animales son fuertes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas grandes no siempre son fuertes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:56.362353Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:56.379416Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:56.399932Z": "TRANSLATION_DONE:ukr"
+  }
+}

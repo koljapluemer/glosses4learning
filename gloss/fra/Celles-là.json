@@ -1,0 +1,27 @@
+{
+  "content": "Celles-là",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Celles-là, sont des paroles d'or"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Those",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Die",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:04.225271Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:04.434163Z": "TRANSLATION_DONE:deu"
+  }
+}

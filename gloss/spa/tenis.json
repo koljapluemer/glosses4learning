@@ -1,0 +1,33 @@
+{
+  "content": "tenis",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él le gusta más el tenis que el baloncesto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tennis",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tennisplätze",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:теніс",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:38.678572Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:38.694948Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:38.717079Z": "TRANSLATION_DONE:ukr"
+  }
+}

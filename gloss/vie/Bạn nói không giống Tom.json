@@ -1,0 +1,35 @@
+{
+  "content": "Bạn nói không giống Tom.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tucm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Bạn"
+    ],
+    [
+      "PART",
+      "vie:nói"
+    ],
+    [
+      "PART",
+      "vie:không"
+    ],
+    [
+      "PART",
+      "vie:giống"
+    ],
+    [
+      "PART",
+      "vie:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.037184Z": "SPLIT_DONE"
+  }
+}

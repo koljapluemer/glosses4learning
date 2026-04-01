@@ -1,0 +1,43 @@
+{
+  "content": "Она сказала мне, что она в порядке.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Она"
+    ],
+    [
+      "PART",
+      "rus:сказала"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:в"
+    ],
+    [
+      "PART",
+      "rus:порядке"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.226310Z": "SPLIT_DONE"
+  }
+}

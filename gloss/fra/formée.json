@@ -1,0 +1,27 @@
+{
+  "content": "formée",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Une file d'attente s'est formée devant le magasin"
+    ],
+    [
+      "TRANSLATION",
+      "eng:formed",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gebildet",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:33.845971Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:33.992716Z": "TRANSLATION_DONE:deu"
+  }
+}

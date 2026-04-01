@@ -1,0 +1,35 @@
+{
+  "content": "Tämä suunnitelma on kokeilemisen arvoinen.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Johannes_S (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tämä"
+    ],
+    [
+      "PART",
+      "fin:suunnitelma"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:kokeilemisen"
+    ],
+    [
+      "PART",
+      "fin:arvoinen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:09.993067Z": "SPLIT_DONE"
+  }
+}

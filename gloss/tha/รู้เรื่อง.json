@@ -1,0 +1,35 @@
+{
+  "content": "รู้เรื่อง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมบอกว่าเขาไม่รู้เรื่องนี้"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันไม่ค่อยรู้เรื่องเกี่ยวกับคอมพิวเตอร์มากนัก"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันรู้เรื่องเกี่ยวกับคอมพิวเตอร์ไม่มากนัก"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I know",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich weiß",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:17.637267Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:17.654122Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "apaga",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La ausencia es al amor lo que al fuego el aire﹕ que apaga el pequeño y aviva el grande"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Turn off",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ausschalten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вимкніть",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:25.964520Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:25.979647Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:25.996184Z": "TRANSLATION_DONE:ukr"
+  }
+}

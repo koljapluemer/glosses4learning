@@ -9,7 +9,9 @@
     "2026-03-29T13:23:32.254866Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:32.421261Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:23:32.631814Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:23:32.814327Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:23:32.814327Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:40.968877Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:40.989879Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,16 @@
     [
       "TRANSLATION",
       "tur:dağıtım"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розсилка",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

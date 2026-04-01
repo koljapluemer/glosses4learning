@@ -1,0 +1,35 @@
+{
+  "content": "Kiender lezen gain bouken meer.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Kiender"
+    ],
+    [
+      "PART",
+      "gos:lezen"
+    ],
+    [
+      "PART",
+      "gos:gain"
+    ],
+    [
+      "PART",
+      "gos:bouken"
+    ],
+    [
+      "PART",
+      "gos:meer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.352077Z": "SPLIT_DONE"
+  }
+}

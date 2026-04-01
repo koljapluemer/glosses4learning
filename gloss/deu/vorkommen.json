@@ -1,0 +1,37 @@
+{
+  "content": "vorkommen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Etwas Derartiges wird nicht noch einmal vorkommen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es tut mir leid. Es wird nicht wieder vorkommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:occur",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Протидія",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:(주)",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:42.217938Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:42.235639Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:42.252518Z": "TRANSLATION_DONE:kor"
+  }
+}

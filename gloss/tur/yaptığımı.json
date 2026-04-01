@@ -1,0 +1,27 @@
+{
+  "content": "yaptığımı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunu benim yaptığımı sana kim söyledi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:About Us",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Über uns",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:41.349090Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:41.364124Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Jeg har to biler.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:to"
+    ],
+    [
+      "PART",
+      "nob:biler"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.302444Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ellos están aquí porque son mis amigos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Schuager (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:aquí"
+    ],
+    [
+      "PART",
+      "spa:porque"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:mis"
+    ],
+    [
+      "PART",
+      "spa:amigos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.598794Z": "SPLIT_DONE"
+  }
+}

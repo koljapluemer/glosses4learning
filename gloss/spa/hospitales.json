@@ -1,0 +1,33 @@
+{
+  "content": "hospitales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A la mayoría de la gente no le gustan los hospitales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hospitals",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Krankenhäuser",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:лікарі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:02.364103Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:02.512558Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:02.549296Z": "TRANSLATION_DONE:ukr"
+  }
+}

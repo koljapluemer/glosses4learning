@@ -1,0 +1,35 @@
+{
+  "content": "Jeg kendte alle pigerne der.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kendte"
+    ],
+    [
+      "PART",
+      "dan:alle"
+    ],
+    [
+      "PART",
+      "dan:pigerne"
+    ],
+    [
+      "PART",
+      "dan:der"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.031737Z": "SPLIT_DONE"
+  }
+}

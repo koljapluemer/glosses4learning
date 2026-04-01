@@ -1,0 +1,33 @@
+{
+  "content": "japoneses",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los japoneses son tímidos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Japanese",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Japan",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Японська",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.156439Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.169374Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.185735Z": "TRANSLATION_DONE:ukr"
+  }
+}

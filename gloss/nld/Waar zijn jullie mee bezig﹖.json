@@ -1,0 +1,35 @@
+{
+  "content": "Waar zijn jullie mee bezig?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waar"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:mee"
+    ],
+    [
+      "PART",
+      "nld:bezig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.183896Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Denne film har franske undertekster.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Denne"
+    ],
+    [
+      "PART",
+      "dan:film"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:franske"
+    ],
+    [
+      "PART",
+      "dan:undertekster"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.777255Z": "SPLIT_DONE"
+  }
+}

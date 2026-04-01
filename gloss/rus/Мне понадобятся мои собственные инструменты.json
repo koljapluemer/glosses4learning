@@ -1,0 +1,35 @@
+{
+  "content": "Мне понадобятся мои собственные инструменты.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Olya (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:понадобятся"
+    ],
+    [
+      "PART",
+      "rus:мои"
+    ],
+    [
+      "PART",
+      "rus:собственные"
+    ],
+    [
+      "PART",
+      "rus:инструменты"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.661243Z": "SPLIT_DONE"
+  }
+}

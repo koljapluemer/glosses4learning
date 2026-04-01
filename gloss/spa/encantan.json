@@ -1,0 +1,41 @@
+{
+  "content": "encantan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me encantan todos los animales en general"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A las mujeres les encantan las mentiras, a los hombres les encanta mentir"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A ella le encantan los animales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They love them",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie lieben sie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони люблять їх",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.638996Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.656873Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.677096Z": "TRANSLATION_DONE:ukr"
+  }
+}

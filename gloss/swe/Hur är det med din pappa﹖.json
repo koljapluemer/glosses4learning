@@ -1,0 +1,39 @@
+{
+  "content": "Hur är det med din pappa?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ribon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Hur"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ],
+    [
+      "PART",
+      "swe:med"
+    ],
+    [
+      "PART",
+      "swe:din"
+    ],
+    [
+      "PART",
+      "swe:pappa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.814761Z": "SPLIT_DONE"
+  }
+}

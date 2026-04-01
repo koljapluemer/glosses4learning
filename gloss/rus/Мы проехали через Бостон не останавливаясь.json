@@ -1,0 +1,39 @@
+{
+  "content": "Мы проехали через Бостон не останавливаясь.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sharptoothed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:проехали"
+    ],
+    [
+      "PART",
+      "rus:через"
+    ],
+    [
+      "PART",
+      "rus:Бостон"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:останавливаясь"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.302360Z": "SPLIT_DONE"
+  }
+}

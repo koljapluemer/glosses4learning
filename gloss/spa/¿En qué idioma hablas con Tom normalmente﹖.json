@@ -1,0 +1,43 @@
+{
+  "content": "¿En qué idioma hablas con Tom normalmente?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by adaycito (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:En"
+    ],
+    [
+      "PART",
+      "spa:qué"
+    ],
+    [
+      "PART",
+      "spa:idioma"
+    ],
+    [
+      "PART",
+      "spa:hablas"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:normalmente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.735599Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Mio fratello probabilmente ha scritto questa lettera.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Mio"
+    ],
+    [
+      "PART",
+      "ita:fratello"
+    ],
+    [
+      "PART",
+      "ita:probabilmente"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:scritto"
+    ],
+    [
+      "PART",
+      "ita:questa"
+    ],
+    [
+      "PART",
+      "ita:lettera"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.712440Z": "SPLIT_DONE"
+  }
+}

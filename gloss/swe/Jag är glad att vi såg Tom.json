@@ -1,0 +1,43 @@
+{
+  "content": "Jag är glad att vi såg Tom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:glad"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:vi"
+    ],
+    [
+      "PART",
+      "swe:såg"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.855180Z": "SPLIT_DONE"
+  }
+}

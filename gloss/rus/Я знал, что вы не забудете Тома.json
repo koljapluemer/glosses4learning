@@ -1,0 +1,43 @@
+{
+  "content": "Я знал, что вы не забудете Тома.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:знал"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:вы"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:забудете"
+    ],
+    [
+      "PART",
+      "rus:Тома"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.261895Z": "SPLIT_DONE"
+  }
+}

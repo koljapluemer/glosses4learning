@@ -1,0 +1,31 @@
+{
+  "content": "води",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Принесіть мені холодної води"
+    ],
+    [
+      "TRANSLATION",
+      "eng:water",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wasser",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:aguas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:54.566642Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:54.585398Z": "TRANSLATION_DONE:deu"
+  }
+}

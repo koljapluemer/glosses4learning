@@ -1,0 +1,33 @@
+{
+  "content": "echado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy sorprendido de que hayas echado eso de menos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fitted",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Passend für",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:В наявності",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.317318Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.336562Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.361052Z": "TRANSLATION_DONE:ukr"
+  }
+}

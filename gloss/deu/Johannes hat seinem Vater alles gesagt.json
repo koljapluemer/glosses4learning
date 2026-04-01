@@ -1,0 +1,39 @@
+{
+  "content": "Johannes hat seinem Vater alles gesagt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Johannes"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:seinem"
+    ],
+    [
+      "PART",
+      "deu:Vater"
+    ],
+    [
+      "PART",
+      "deu:alles"
+    ],
+    [
+      "PART",
+      "deu:gesagt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.412100Z": "SPLIT_DONE"
+  }
+}

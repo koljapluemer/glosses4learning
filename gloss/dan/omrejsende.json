@@ -1,0 +1,27 @@
+{
+  "content": "omrejsende",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms bedsteforældre var omrejsende landarbejdere"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Travellers",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reisende",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:37.538902Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:37.684857Z": "TRANSLATION_DONE:deu"
+  }
+}

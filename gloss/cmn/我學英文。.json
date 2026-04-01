@@ -1,0 +1,27 @@
+{
+  "content": "我學英文。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我學"
+    ],
+    [
+      "PART",
+      "cmn:英文"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.609375Z": "SPLIT_DONE"
+  }
+}

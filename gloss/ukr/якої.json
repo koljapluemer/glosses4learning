@@ -1,0 +1,35 @@
+{
+  "content": "якої",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це пропозиція, від якої вони не зможуть відмовитися"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це пропозиція, від якої ти не зможеш відмовитися"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це пропозиція, від якої ви не зможете відмовитися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:which",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:08.145657Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:08.157906Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Singen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom verdient seinen Lebensunterhalt mit Singen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sings",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сінгс",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사이트맵",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:10.922367Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:10.965023Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:11.113672Z": "TRANSLATION_DONE:kor"
+  }
+}

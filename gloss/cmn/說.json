@@ -1,0 +1,53 @@
+{
+  "content": "說",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我會說日語。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這不是一個很有趣的小說。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:跟她說我正在吃東西。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我不是說了沒有問題嗎？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:除非有人跟他說話，他從來不說話。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你最好照他們所說的做。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Say it",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:他開會的時候一句話也沒有說。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:對不起，我沒有聽到你說話。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我要和你說再見了。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:00.521007Z": "TRANSLATION_DONE:eng"
+  }
+}

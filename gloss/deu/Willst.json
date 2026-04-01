@@ -9,7 +9,9 @@
     "2026-03-29T13:16:16.614070Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:16.782451Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:16.988048Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:17.164242Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:17.164242Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:33.513221Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:33.529501Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,24 @@
     [
       "TRANSLATION",
       "tur:İstersen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Willst du mir damit unterstellen, daß ich Vorurteile habe﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Бажаєте",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Willst du damit sagen, Tom wäre gar kein Kanadier﹖"
     ]
   ]
 }

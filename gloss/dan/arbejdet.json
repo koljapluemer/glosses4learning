@@ -1,0 +1,27 @@
+{
+  "content": "arbejdet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har allerede arbejdet her i mange måneder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arbeit",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:45.675813Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:45.816562Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -8,7 +8,9 @@
     "2026-01-27T14:33:24.354339Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:19:27.330508Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:27.500704Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:19:27.705268Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:19:27.705268Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:37.851347Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:38.000907Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -42,6 +44,16 @@
     [
       "TRANSLATION",
       "spa:planeado"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:план",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:계정 만들기",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

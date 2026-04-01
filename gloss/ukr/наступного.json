@@ -1,0 +1,27 @@
+{
+  "content": "наступного",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я від'їжджаю наступного тижня"
+    ],
+    [
+      "TRANSLATION",
+      "eng:next",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nächste",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:03.012236Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:03.154995Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "У мене в п'ятницю побачення.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:У"
+    ],
+    [
+      "PART",
+      "ukr:мене"
+    ],
+    [
+      "PART",
+      "ukr:в"
+    ],
+    [
+      "PART",
+      "ukr:п'ятницю"
+    ],
+    [
+      "PART",
+      "ukr:побачення"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.974084Z": "SPLIT_DONE"
+  }
+}

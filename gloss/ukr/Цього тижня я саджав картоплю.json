@@ -1,0 +1,35 @@
+{
+  "content": "Цього тижня я саджав картоплю.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Цього"
+    ],
+    [
+      "PART",
+      "ukr:тижня"
+    ],
+    [
+      "PART",
+      "ukr:я"
+    ],
+    [
+      "PART",
+      "ukr:саджав"
+    ],
+    [
+      "PART",
+      "ukr:картоплю"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.996321Z": "SPLIT_DONE"
+  }
+}

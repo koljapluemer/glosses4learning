@@ -1,0 +1,39 @@
+{
+  "content": "Я нашёл всё, что мне нужно.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:нашёл"
+    ],
+    [
+      "PART",
+      "rus:всё"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:нужно"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.307799Z": "SPLIT_DONE"
+  }
+}

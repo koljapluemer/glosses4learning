@@ -1,0 +1,39 @@
+{
+  "content": "N'êtes-vous pas trop jeunes pour fumer ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:N'êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:trop"
+    ],
+    [
+      "PART",
+      "fra:jeunes"
+    ],
+    [
+      "PART",
+      "fra:pour"
+    ],
+    [
+      "PART",
+      "fra:fumer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.196749Z": "SPLIT_DONE"
+  }
+}

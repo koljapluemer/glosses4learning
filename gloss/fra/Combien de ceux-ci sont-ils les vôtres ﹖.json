@@ -1,0 +1,39 @@
+{
+  "content": "Combien de ceux-ci sont-ils les vôtres ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Combien"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:ceux-ci"
+    ],
+    [
+      "PART",
+      "fra:sont-ils"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:vôtres"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.206925Z": "SPLIT_DONE"
+  }
+}

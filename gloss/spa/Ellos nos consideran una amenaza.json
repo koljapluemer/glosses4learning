@@ -1,0 +1,35 @@
+{
+  "content": "Ellos nos consideran una amenaza.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:nos"
+    ],
+    [
+      "PART",
+      "spa:consideran"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:amenaza"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.642322Z": "SPLIT_DONE"
+  }
+}

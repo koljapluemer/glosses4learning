@@ -1,0 +1,43 @@
+{
+  "content": "Mary megkérdezte Tomitól, hogy mi a véleménye.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mary"
+    ],
+    [
+      "PART",
+      "hun:megkérdezte"
+    ],
+    [
+      "PART",
+      "hun:Tomitól"
+    ],
+    [
+      "PART",
+      "hun:hogy"
+    ],
+    [
+      "PART",
+      "hun:mi"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:véleménye"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.614130Z": "SPLIT_DONE"
+  }
+}

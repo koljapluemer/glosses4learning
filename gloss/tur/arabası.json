@@ -1,0 +1,31 @@
+{
+  "content": "arabası",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Buradaki hiç kimsenin bir arabası yok"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Cart",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Cart",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un arabası benimkinden daha eskidir"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:27.410286Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.424263Z": "TRANSLATION_DONE:deu"
+  }
+}

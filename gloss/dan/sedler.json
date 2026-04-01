@@ -1,0 +1,27 @@
+{
+  "content": "sedler",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kan du veksle denne tyvedollarseddel til mindre sedler﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:banknotes;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Banknoten;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:41.675384Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:41.818347Z": "TRANSLATION_DONE:deu"
+  }
+}

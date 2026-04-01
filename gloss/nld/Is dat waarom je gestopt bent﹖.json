@@ -1,0 +1,39 @@
+{
+  "content": "Is dat waarom je gestopt bent?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Is"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:waarom"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:gestopt"
+    ],
+    [
+      "PART",
+      "nld:bent"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.240436Z": "SPLIT_DONE"
+  }
+}

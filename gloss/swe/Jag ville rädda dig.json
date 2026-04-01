@@ -1,0 +1,31 @@
+{
+  "content": "Jag ville rädda dig.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elliotmarklund (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:ville"
+    ],
+    [
+      "PART",
+      "swe:rädda"
+    ],
+    [
+      "PART",
+      "swe:dig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.844257Z": "SPLIT_DONE"
+  }
+}

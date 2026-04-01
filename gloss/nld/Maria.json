@@ -1,0 +1,29 @@
+{
+  "content": "Maria",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Maria is een typisch tienermeisje"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Maria",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Iedereen weet dat Tom van Maria houdt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom zou het Maria niet laten houden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:51.149694Z": "TRANSLATION_DONE:eng"
+  }
+}

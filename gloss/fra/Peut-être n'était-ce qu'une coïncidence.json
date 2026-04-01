@@ -1,0 +1,31 @@
+{
+  "content": "Peut-être n'était-ce qu'une coïncidence.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Peut-être"
+    ],
+    [
+      "PART",
+      "fra:n'était-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'une"
+    ],
+    [
+      "PART",
+      "fra:coïncidence"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.205255Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "fortalte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er sikker på at Tom fortalte sandheden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom fortalte mig at han ville tage afsted"
+    ],
+    [
+      "TRANSLATION",
+      "eng:told",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor fortalte du ikke sandheden﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han fortalte hende ikke sandheden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg fortryder at jeg fortalte sandheden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom fortalte mig at du er blevet gift"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:14.250750Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:14.251102Z": "TRANSLATION_DONE:deu"
+  }
+}

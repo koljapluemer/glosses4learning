@@ -1,0 +1,31 @@
+{
+  "content": "d'été",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Comment se sont passées tes vacances d'été ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Summer",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sommer",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi ne portes-tu pas de vêtements d'été ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:20.436302Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:20.588925Z": "TRANSLATION_DONE:deu"
+  }
+}

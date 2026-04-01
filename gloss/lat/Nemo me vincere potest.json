@@ -1,0 +1,31 @@
+{
+  "content": "Nemo me vincere potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nemo"
+    ],
+    [
+      "PART",
+      "lat:me"
+    ],
+    [
+      "PART",
+      "lat:vincere"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.328078Z": "SPLIT_DONE"
+  }
+}

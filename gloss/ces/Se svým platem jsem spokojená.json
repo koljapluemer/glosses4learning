@@ -1,0 +1,35 @@
+{
+  "content": "Se svým platem jsem spokojená.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Se"
+    ],
+    [
+      "PART",
+      "ces:svým"
+    ],
+    [
+      "PART",
+      "ces:platem"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:spokojená"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.770701Z": "SPLIT_DONE"
+  }
+}

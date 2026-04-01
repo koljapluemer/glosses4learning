@@ -1,0 +1,39 @@
+{
+  "content": "J'ai fait l'acquisition d'une voiture électrique.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'ai"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:l'acquisition"
+    ],
+    [
+      "PART",
+      "fra:d'une"
+    ],
+    [
+      "PART",
+      "fra:voiture"
+    ],
+    [
+      "PART",
+      "fra:électrique"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.510794Z": "SPLIT_DONE"
+  }
+}

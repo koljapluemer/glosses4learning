@@ -1,0 +1,33 @@
+{
+  "content": "fuera",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele comer fuera de casa los lunes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:outside",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:außen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:поза",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.080904Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.096207Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.115294Z": "TRANSLATION_DONE:ukr"
+  }
+}

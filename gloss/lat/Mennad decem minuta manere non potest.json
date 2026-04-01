@@ -1,0 +1,39 @@
+{
+  "content": "Mennad decem minuta manere non potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Mennad"
+    ],
+    [
+      "PART",
+      "lat:decem"
+    ],
+    [
+      "PART",
+      "lat:minuta"
+    ],
+    [
+      "PART",
+      "lat:manere"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.375086Z": "SPLIT_DONE"
+  }
+}

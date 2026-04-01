@@ -1,0 +1,31 @@
+{
+  "content": "Τα εικονίδια είναι όμορφα.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Τα"
+    ],
+    [
+      "PART",
+      "ell:εικονίδια"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:όμορφα"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.926628Z": "SPLIT_DONE"
+  }
+}

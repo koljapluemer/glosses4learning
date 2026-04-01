@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe mein Wort immer gehalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:mein"
+    ],
+    [
+      "PART",
+      "deu:Wort"
+    ],
+    [
+      "PART",
+      "deu:immer"
+    ],
+    [
+      "PART",
+      "deu:gehalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.810977Z": "SPLIT_DONE"
+  }
+}

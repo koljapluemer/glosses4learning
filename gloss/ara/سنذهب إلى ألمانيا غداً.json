@@ -1,0 +1,31 @@
+{
+  "content": "سنذهب إلى ألمانيا غداً.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Asma (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:سنذهب"
+    ],
+    [
+      "PART",
+      "ara:إلى"
+    ],
+    [
+      "PART",
+      "ara:ألمانيا"
+    ],
+    [
+      "PART",
+      "ara:غدا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.512792Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Díváš se rád na filmy?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tirifto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Díváš"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:rád"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:filmy"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.797230Z": "SPLIT_DONE"
+  }
+}

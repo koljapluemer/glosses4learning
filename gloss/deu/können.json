@@ -9,7 +9,9 @@
     "2026-03-29T13:20:59.928408Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:00.102160Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:21:00.312516Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:21:00.467265Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:21:00.467265Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:07.142016Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:07.159334Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -87,6 +89,52 @@
     [
       "TRANSLATION",
       "ita:possa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die Leute können uns nicht auseinanderhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nur Experten können sie auseinanderhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie etwas gefunden, wo Sie erst mal unterkommen können﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die Leute können uns nicht voneinander unterscheiden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie sind voneinander getrennt und können sich nicht berühren"
+    ],
+    [
+      "TRANSLATION",
+      "dan:kunne"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:може бути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:수 있습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:pueden"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:можна"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:можете"
     ]
   ]
 }

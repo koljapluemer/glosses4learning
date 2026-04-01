@@ -1,0 +1,27 @@
+{
+  "content": "добрий",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том — добрий сусіда"
+    ],
+    [
+      "TRANSLATION",
+      "eng:good",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gut",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:56.128505Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:56.141381Z": "TRANSLATION_DONE:deu"
+  }
+}

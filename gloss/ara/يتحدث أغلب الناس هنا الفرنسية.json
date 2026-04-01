@@ -1,0 +1,35 @@
+{
+  "content": "يتحدث أغلب الناس هنا الفرنسية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Safa_Alfulaij (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:يتحدث"
+    ],
+    [
+      "PART",
+      "ara:أغلب"
+    ],
+    [
+      "PART",
+      "ara:الناس"
+    ],
+    [
+      "PART",
+      "ara:هنا"
+    ],
+    [
+      "PART",
+      "ara:الفرنسية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.948694Z": "SPLIT_DONE"
+  }
+}

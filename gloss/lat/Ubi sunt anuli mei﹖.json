@@ -1,0 +1,31 @@
+{
+  "content": "Ubi sunt anuli mei?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ubi"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ],
+    [
+      "PART",
+      "lat:anuli"
+    ],
+    [
+      "PART",
+      "lat:mei"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.325269Z": "SPLIT_DONE"
+  }
+}

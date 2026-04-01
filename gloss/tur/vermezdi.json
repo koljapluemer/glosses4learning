@@ -1,0 +1,39 @@
+{
+  "content": "vermezdi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom kimsenin kendisine yardım etmesine izin vermezdi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom, kimsenin Mary'ye yardım etmesine izin vermezdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:O, kimsenin bizi ayırmasına izin vermezdi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom, Mary'nin herhangi bir yere gitmesine izin vermezdi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.710886Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.711865Z": "TRANSLATION_DONE:deu"
+  }
+}

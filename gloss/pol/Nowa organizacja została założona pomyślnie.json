@@ -1,0 +1,35 @@
+{
+  "content": "Nowa organizacja została założona pomyślnie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by avro (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nowa"
+    ],
+    [
+      "PART",
+      "pol:organizacja"
+    ],
+    [
+      "PART",
+      "pol:została"
+    ],
+    [
+      "PART",
+      "pol:założona"
+    ],
+    [
+      "PART",
+      "pol:pomyślnie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.308895Z": "SPLIT_DONE"
+  }
+}

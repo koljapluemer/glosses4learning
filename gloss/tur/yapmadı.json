@@ -1,0 +1,31 @@
+{
+  "content": "yapmadı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'dan başka bunu hiç kimse yapmadı"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Hiç kimse dans etmekten başka bir şey yapmadı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:40.570944Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:40.586999Z": "TRANSLATION_DONE:deu"
+  }
+}

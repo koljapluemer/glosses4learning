@@ -1,0 +1,33 @@
+{
+  "content": "Sollen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sollen wir diesen einen Mechaniker fragen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Set",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Комплекти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:설치하기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:12.829561Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:12.853456Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:12.999104Z": "TRANSLATION_DONE:kor"
+  }
+}

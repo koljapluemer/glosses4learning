@@ -1,0 +1,33 @@
+{
+  "content": "notable",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El amor de ella por los animales es notable"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remarkable",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bemerkenswert",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дивний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:11.067283Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:11.081858Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.098247Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "sne",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg tror ikke at det kommer til at sne i morgen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg tror ikke at det vil sne i morgen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:snow",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schnee",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:35.134291Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:35.276863Z": "TRANSLATION_DONE:deu"
+  }
+}

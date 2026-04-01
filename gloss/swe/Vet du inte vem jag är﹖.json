@@ -1,0 +1,39 @@
+{
+  "content": "Vet du inte vem jag är?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vet"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:vem"
+    ],
+    [
+      "PART",
+      "swe:jag"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.819580Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Překvapuje mě, že Tom dnes není zaneprázdněný.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nueby (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Překvapuje"
+    ],
+    [
+      "PART",
+      "ces:mě"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:dnes"
+    ],
+    [
+      "PART",
+      "ces:není"
+    ],
+    [
+      "PART",
+      "ces:zaneprázdněný"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.671966Z": "SPLIT_DONE"
+  }
+}

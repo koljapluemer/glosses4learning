@@ -1,0 +1,39 @@
+{
+  "content": "Verzeihung! Ich habe deinen Vornamen vergessen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felix63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Verzeihung"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Vornamen"
+    ],
+    [
+      "PART",
+      "deu:vergessen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.281821Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "drikker",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg drikker vin i weekenderne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg sidder lige nu og drikker en øl"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom drikker sort kaffe uden sukker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg drikker kaffe i stedet for mælk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom siger jeg drikker for meget"
+    ],
+    [
+      "TRANSLATION",
+      "eng:drink",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:trinken",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:01.563937Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:01.564225Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "ausgeschaltet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe meinen Fernseher ausgeschaltet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:turned off",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:설정하기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:42.223225Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:42.373222Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:42.516028Z": "TRANSLATION_DONE:kor"
+  }
+}

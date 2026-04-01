@@ -9,7 +9,9 @@
     "2026-03-29T13:17:53.911960Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:54.067902Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:17:54.239380Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:17:54.418759Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:17:54.418759Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:59.062851Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:59.108470Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -55,6 +57,20 @@
     [
       "TRANSLATION",
       "tur:sonrasında"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:потім",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:다음 것",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sonraları"
     ]
   ]
 }

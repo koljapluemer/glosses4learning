@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T10:41:48.707Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T10:41:48.707Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:52:53.834177Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:53.834591Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +35,20 @@
     [
       "TRANSLATION",
       "eng:beloved"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El fútbol es el entretenimiento favorito de los brasileños"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Favoriten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Популярні",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

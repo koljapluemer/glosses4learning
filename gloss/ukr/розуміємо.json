@@ -1,0 +1,27 @@
+{
+  "content": "розуміємо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми розуміємо, що ти ненавидиш Тома"
+    ],
+    [
+      "TRANSLATION",
+      "eng:understand",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verstehen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:10.530281Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:10.674567Z": "TRANSLATION_DONE:deu"
+  }
+}

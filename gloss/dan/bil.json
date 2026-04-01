@@ -1,0 +1,35 @@
+{
+  "content": "bil",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den her er ikke min bil. Det er Toms"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne bil er ikke min. Det er Toms"
+    ],
+    [
+      "TRANSLATION",
+      "eng:car",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auto",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms bil har tonede vinduer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:51.068525Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:51.208722Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Oggi le librerie sono chiuse.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Oggi"
+    ],
+    [
+      "PART",
+      "ita:le"
+    ],
+    [
+      "PART",
+      "ita:librerie"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:chiuse"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.795071Z": "SPLIT_DONE"
+  }
+}

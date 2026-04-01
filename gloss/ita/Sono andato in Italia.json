@@ -1,0 +1,31 @@
+{
+  "content": "Sono andato in Italia.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:andato"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:Italia"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:04.774109Z": "SPLIT_DONE"
+  }
+}

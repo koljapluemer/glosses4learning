@@ -1,0 +1,41 @@
+{
+  "content": "eran",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Casi todos los que estaban presentes eran mujeres"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las tensiones eran muy fuertes entre nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:were",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:würde",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:були",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pensé que todos ellos eran canadienses"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:48.780651Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:48.923939Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:48.941867Z": "TRANSLATION_DONE:ukr"
+  }
+}

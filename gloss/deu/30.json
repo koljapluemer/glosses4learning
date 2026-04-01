@@ -1,0 +1,37 @@
+{
+  "content": "30",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde diesen Oktober 30 Jahre alt sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:30",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:30 хв",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:30 분",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:30"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:10.816139Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:10.961062Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:10.985138Z": "TRANSLATION_DONE:kor"
+  }
+}

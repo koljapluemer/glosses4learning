@@ -1,0 +1,37 @@
+{
+  "content": "Simplemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Simplemente no creo que sea necesario"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Simplemente pensé que estabas feliz"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Just",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nur",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.413711Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.428337Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.445437Z": "TRANSLATION_DONE:ukr"
+  }
+}

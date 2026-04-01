@@ -1,0 +1,43 @@
+{
+  "content": "Algunos animales le tienen miedo al fuego.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:le"
+    ],
+    [
+      "PART",
+      "spa:tienen"
+    ],
+    [
+      "PART",
+      "spa:miedo"
+    ],
+    [
+      "PART",
+      "spa:al"
+    ],
+    [
+      "PART",
+      "spa:fuego"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.615644Z": "SPLIT_DONE"
+  }
+}

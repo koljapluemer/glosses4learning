@@ -1,0 +1,33 @@
+{
+  "content": "wohlhabender",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom ist ein wohlhabender Bostoner Geschäftsmann"
+    ],
+    [
+      "TRANSLATION",
+      "eng:prosperous",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пердят",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 상품",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:05.031159Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:05.050279Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:05.066361Z": "TRANSLATION_DONE:kor"
+  }
+}

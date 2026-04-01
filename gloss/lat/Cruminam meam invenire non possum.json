@@ -1,0 +1,35 @@
+{
+  "content": "Cruminam meam invenire non possum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Cruminam"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:invenire"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:possum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.252483Z": "SPLIT_DONE"
+  }
+}

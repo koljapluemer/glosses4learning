@@ -1,0 +1,39 @@
+{
+  "content": "Beide waren mit meinem Vorschlag einverstanden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Taam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Beide"
+    ],
+    [
+      "PART",
+      "deu:waren"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:meinem"
+    ],
+    [
+      "PART",
+      "deu:Vorschlag"
+    ],
+    [
+      "PART",
+      "deu:einverstanden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.204624Z": "SPLIT_DONE"
+  }
+}

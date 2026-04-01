@@ -1,0 +1,27 @@
+{
+  "content": "dedans",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les deux camionnettes se sont rentrées dedans"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inside",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:innen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:20.608449Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:20.747993Z": "TRANSLATION_DONE:deu"
+  }
+}

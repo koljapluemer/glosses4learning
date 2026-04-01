@@ -1,0 +1,39 @@
+{
+  "content": "Todo mundo gosta de brincar fora.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ricardo14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todo"
+    ],
+    [
+      "PART",
+      "por:mundo"
+    ],
+    [
+      "PART",
+      "por:gosta"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:brincar"
+    ],
+    [
+      "PART",
+      "por:fora"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.569063Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Ich kann sie nicht auseinanderhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:sie"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:auseinanderhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.744527Z": "SPLIT_DONE"
+  }
+}

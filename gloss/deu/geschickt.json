@@ -1,0 +1,33 @@
+{
+  "content": "geschickt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Jemand anders könnte mir diese Nachrichten geschickt haben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sent by",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відэа",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:에 의해",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:40.156669Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:40.186921Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:40.264253Z": "TRANSLATION_DONE:kor"
+  }
+}

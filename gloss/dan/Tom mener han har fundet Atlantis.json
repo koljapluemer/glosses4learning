@@ -1,0 +1,39 @@
+{
+  "content": "Tom mener han har fundet Atlantis.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:mener"
+    ],
+    [
+      "PART",
+      "dan:han"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:fundet"
+    ],
+    [
+      "PART",
+      "dan:Atlantis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.629810Z": "SPLIT_DONE"
+  }
+}

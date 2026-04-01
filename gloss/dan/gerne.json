@@ -1,0 +1,43 @@
+{
+  "content": "gerne",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil gerne have at du opfører dig ordentligt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil gerne have noget at drikke"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil gerne prøve at have det på"
+    ],
+    [
+      "TRANSLATION",
+      "eng:may",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kann",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem vil du gerne have, skal vinde﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil gerne tale fransk flydende"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:22.042396Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:22.180861Z": "TRANSLATION_DONE:deu"
+  }
+}

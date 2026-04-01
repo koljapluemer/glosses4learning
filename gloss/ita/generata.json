@@ -1,0 +1,21 @@
+{
+  "content": "generata",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ita:Questa frase non è stata generata dall'intelligenza artificiale"
+    ],
+    [
+      "TRANSLATION",
+      "eng:generated",
+      "Auto-translated with argostranslate (it→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:25.518342Z": "TRANSLATION_DONE:eng"
+  }
+}

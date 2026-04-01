@@ -1,0 +1,33 @@
+{
+  "content": "importar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Sin importar lo que él haga, no parece ser una mala persona"
+    ],
+    [
+      "TRANSLATION",
+      "eng:matter",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Materie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:03.969513Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:03.982265Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:03.996745Z": "TRANSLATION_DONE:ukr"
+  }
+}

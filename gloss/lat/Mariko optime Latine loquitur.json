@@ -1,0 +1,31 @@
+{
+  "content": "Mariko optime Latine loquitur.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexlee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Mariko"
+    ],
+    [
+      "PART",
+      "lat:optime"
+    ],
+    [
+      "PART",
+      "lat:Latine"
+    ],
+    [
+      "PART",
+      "lat:loquitur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.339537Z": "SPLIT_DONE"
+  }
+}

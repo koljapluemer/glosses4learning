@@ -1,0 +1,43 @@
+{
+  "content": "Han kommer altid for sent til undervisningen.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Han"
+    ],
+    [
+      "PART",
+      "dan:kommer"
+    ],
+    [
+      "PART",
+      "dan:altid"
+    ],
+    [
+      "PART",
+      "dan:for"
+    ],
+    [
+      "PART",
+      "dan:sent"
+    ],
+    [
+      "PART",
+      "dan:til"
+    ],
+    [
+      "PART",
+      "dan:undervisningen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.535837Z": "SPLIT_DONE"
+  }
+}

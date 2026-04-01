@@ -1,0 +1,35 @@
+{
+  "content": "Tom'un söylediği hiçbir şeyi anlayamadım.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:söylediği"
+    ],
+    [
+      "PART",
+      "tur:hiçbir"
+    ],
+    [
+      "PART",
+      "tur:şeyi"
+    ],
+    [
+      "PART",
+      "tur:anlayamadım"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.533845Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Hacemos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hacemos panquecillos calientes para desayunar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We do",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir tun es",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ми робимо",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:17.618479Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:17.633341Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:17.647445Z": "TRANSLATION_DONE:ukr"
+  }
+}

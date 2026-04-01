@@ -1,0 +1,33 @@
+{
+  "content": "tensiones",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las tensiones eran muy fuertes entre nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tensions",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spannungen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:натягувати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:38.734583Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:38.749564Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:38.772637Z": "TRANSLATION_DONE:ukr"
+  }
+}

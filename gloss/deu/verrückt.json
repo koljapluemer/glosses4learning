@@ -8,7 +8,9 @@
     "2026-01-27T14:36:56.027890Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:23:26.291638Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:26.489711Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:23:26.690156Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:23:26.690156Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:38.343363Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:38.406844Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -58,6 +60,20 @@
     [
       "TRANSLATION",
       "spa:loco"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Божевільний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:loca"
     ]
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "content": "Tom skäms.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:skäms"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.803694Z": "SPLIT_DONE"
+  }
+}

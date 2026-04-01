@@ -1,0 +1,39 @@
+{
+  "content": "Elles connaissent bien l'histoire des États-Unis.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Elles"
+    ],
+    [
+      "PART",
+      "fra:connaissent"
+    ],
+    [
+      "PART",
+      "fra:bien"
+    ],
+    [
+      "PART",
+      "fra:l'histoire"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:États-Unis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.560846Z": "SPLIT_DONE"
+  }
+}

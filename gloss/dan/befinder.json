@@ -1,0 +1,27 @@
+{
+  "content": "befinder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:På hvilken planet befinder du dig﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ist",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:18.010900Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:18.168059Z": "TRANSLATION_DONE:deu"
+  }
+}

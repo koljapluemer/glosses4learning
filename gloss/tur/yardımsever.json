@@ -1,0 +1,31 @@
+{
+  "content": "yardımsever",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bana senin yardımsever olduğunu söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Helpful",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfreich",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom her zaman bu kadar yardımsever midir﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:42.499588Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:42.516088Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Mary bor i en husvagn.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Mary"
+    ],
+    [
+      "PART",
+      "swe:bor"
+    ],
+    [
+      "PART",
+      "swe:i"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:husvagn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.802868Z": "SPLIT_DONE"
+  }
+}

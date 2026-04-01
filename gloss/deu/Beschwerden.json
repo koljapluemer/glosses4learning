@@ -1,0 +1,33 @@
+{
+  "content": "Beschwerden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es reicht mir langsam mit deinen Beschwerden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Appeals",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Оскарження",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:앱스",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.767001Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.785578Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.799575Z": "TRANSLATION_DONE:kor"
+  }
+}

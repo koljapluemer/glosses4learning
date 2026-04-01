@@ -1,0 +1,35 @@
+{
+  "content": "Tom åt pizza till frukost.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:åt"
+    ],
+    [
+      "PART",
+      "swe:pizza"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:frukost"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.852518Z": "SPLIT_DONE"
+  }
+}

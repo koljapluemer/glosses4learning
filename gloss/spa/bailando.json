@@ -1,0 +1,33 @@
+{
+  "content": "bailando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella no estaba bailando con él en ese momento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dancing",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tanz",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:танці",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:28.370407Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:28.386933Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:28.403763Z": "TRANSLATION_DONE:ukr"
+  }
+}

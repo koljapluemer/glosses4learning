@@ -1,0 +1,43 @@
+{
+  "content": "Jeg har googlet hvordan det skal gøres.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:googlet"
+    ],
+    [
+      "PART",
+      "dan:hvordan"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:skal"
+    ],
+    [
+      "PART",
+      "dan:gøres"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.609913Z": "SPLIT_DONE"
+  }
+}

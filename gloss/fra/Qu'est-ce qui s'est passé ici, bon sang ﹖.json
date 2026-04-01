@@ -1,0 +1,43 @@
+{
+  "content": "Qu'est-ce qui s'est passé ici, bon sang ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by menaud (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:qui"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ],
+    [
+      "PART",
+      "fra:bon"
+    ],
+    [
+      "PART",
+      "fra:sang"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.285042Z": "SPLIT_DONE"
+  }
+}

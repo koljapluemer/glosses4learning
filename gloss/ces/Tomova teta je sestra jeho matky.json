@@ -1,0 +1,39 @@
+{
+  "content": "Tomova teta je sestra jeho matky.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tomova"
+    ],
+    [
+      "PART",
+      "ces:teta"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:sestra"
+    ],
+    [
+      "PART",
+      "ces:jeho"
+    ],
+    [
+      "PART",
+      "ces:matky"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.800115Z": "SPLIT_DONE"
+  }
+}

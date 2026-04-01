@@ -1,0 +1,27 @@
+{
+  "content": "journaliststuderende",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er ikke journaliststuderende"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Journalist students",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Journalisten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:44.467083Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:44.613459Z": "TRANSLATION_DONE:deu"
+  }
+}

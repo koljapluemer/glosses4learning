@@ -1,0 +1,27 @@
+{
+  "content": "vente",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi kan ikke gøre andet end at vente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wait",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warte!",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:59.052658Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:59.200230Z": "TRANSLATION_DONE:deu"
+  }
+}

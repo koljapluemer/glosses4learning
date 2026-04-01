@@ -1,0 +1,33 @@
+{
+  "content": "svarede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han svarede på spørgsmålet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:antwortete"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beantwortete"
+    ],
+    [
+      "TRANSLATION",
+      "eng:answered"
+    ],
+    [
+      "TRANSLATION",
+      "eng:responded"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:30:04.048239Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T07:30:05.163005Z": "TRANSLATION_DONE:eng"
+  }
+}

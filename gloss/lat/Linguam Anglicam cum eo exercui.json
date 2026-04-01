@@ -1,0 +1,35 @@
+{
+  "content": "Linguam Anglicam cum eo exercui.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Anglicam"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:eo"
+    ],
+    [
+      "PART",
+      "lat:exercui"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.316005Z": "SPLIT_DONE"
+  }
+}

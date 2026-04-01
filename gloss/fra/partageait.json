@@ -1,0 +1,27 @@
+{
+  "content": "partageait",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Sami partageait la passion de Layla pour les chevaux"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shared",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geteilt",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:42.363517Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:42.501746Z": "TRANSLATION_DONE:deu"
+  }
+}

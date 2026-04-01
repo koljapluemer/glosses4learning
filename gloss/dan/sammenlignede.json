@@ -1,0 +1,27 @@
+{
+  "content": "sammenlignede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi sammenlignede hans arbejde med hendes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:compared",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vergleich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:41.521958Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:41.539070Z": "TRANSLATION_DONE:deu"
+  }
+}

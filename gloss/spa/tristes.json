@@ -1,0 +1,33 @@
+{
+  "content": "tristes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las películas tristes siempre me hacen llorar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sad",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:traurig",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тюрма",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:41.458423Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:41.475972Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:41.621639Z": "TRANSLATION_DONE:ukr"
+  }
+}

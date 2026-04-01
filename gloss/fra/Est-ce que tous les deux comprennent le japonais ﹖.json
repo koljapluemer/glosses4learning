@@ -1,0 +1,47 @@
+{
+  "content": "Est-ce que tous les deux comprennent le japonais ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by FiRez (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tous"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:deux"
+    ],
+    [
+      "PART",
+      "fra:comprennent"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:japonais"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.515616Z": "SPLIT_DONE"
+  }
+}

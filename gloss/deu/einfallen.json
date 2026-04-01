@@ -1,0 +1,33 @@
+{
+  "content": "einfallen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden uns etwas anderes einfallen lassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fall",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:падати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:·",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:10.355210Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:10.418114Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:10.570440Z": "TRANSLATION_DONE:kor"
+  }
+}

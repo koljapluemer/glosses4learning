@@ -1,0 +1,31 @@
+{
+  "content": "Oletko tehnyt yhtään mitään?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Johannes_S (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:tehnyt"
+    ],
+    [
+      "PART",
+      "fin:yhtään"
+    ],
+    [
+      "PART",
+      "fin:mitään"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.001039Z": "SPLIT_DONE"
+  }
+}

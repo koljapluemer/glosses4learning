@@ -1,0 +1,31 @@
+{
+  "content": "yardımı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom bunu kimsenin yardımı olmadan yaptı"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunu kimsenin yardımı olmadan yaptım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Help",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:42.535255Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:42.568068Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "hekimi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom deneyimli bir diş hekimi yardımcısıdır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:doctor",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arzt",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:31.789259Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:31.804494Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom se přiznal, že podvádí svou ženu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:přiznal"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:podvádí"
+    ],
+    [
+      "PART",
+      "ces:svou"
+    ],
+    [
+      "PART",
+      "ces:ženu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.181445Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "очікував",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я очікував, що Том це закінчить"
+    ],
+    [
+      "TRANSLATION",
+      "eng:expected",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erwartet",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:04.942090Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:04.957289Z": "TRANSLATION_DONE:deu"
+  }
+}

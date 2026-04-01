@@ -1,0 +1,37 @@
+{
+  "content": "necesario",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Es absolutamente necesario que encontremos a los asesinos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:necessary",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erforderlich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:в наявності",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Simplemente no creo que sea necesario"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:18.047310Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:18.047723Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:18.048045Z": "TRANSLATION_DONE:ukr"
+  }
+}

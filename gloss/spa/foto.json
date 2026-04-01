@@ -10,7 +10,8 @@
     "2026-03-29T14:23:56.596005Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:23:56.754776Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:23:56.929202Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:23:57.094254Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:23:57.094254Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:55.245485Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:foto"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los que salen en la foto están sonriendo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Фото",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

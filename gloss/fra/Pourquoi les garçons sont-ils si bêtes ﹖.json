@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi les garçons sont-ils si bêtes ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:garçons"
+    ],
+    [
+      "PART",
+      "fra:sont-ils"
+    ],
+    [
+      "PART",
+      "fra:si"
+    ],
+    [
+      "PART",
+      "fra:bêtes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.448284Z": "SPLIT_DONE"
+  }
+}

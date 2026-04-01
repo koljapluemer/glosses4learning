@@ -8,7 +8,9 @@
     "2026-01-27T14:35:50.288656Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:22:14.496421Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:14.670758Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:22:14.850815Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:22:14.850815Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:18.102741Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:18.121984Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -70,6 +72,24 @@
     [
       "TRANSLATION",
       "spa:rápido"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Jahre sind leider sehr schnell vorbeigegangen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:швидко",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:빠른 속도",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:rápidamente"
     ]
   ]
 }

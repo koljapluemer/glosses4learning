@@ -8,7 +8,9 @@
     "2026-01-27T14:30:38.088540Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:50.847231Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:51.062263Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:51.270262Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:51.270262Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:28.034902Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:28.140390Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -38,6 +40,24 @@
     [
       "TRANSLATION",
       "rus:Развлечения"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte tu so, als ob es die Unterhaltung vorhin nie gegeben hätte"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розваги",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:(주)",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:entretenimiento"
     ]
   ]
 }

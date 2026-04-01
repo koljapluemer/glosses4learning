@@ -1,0 +1,35 @@
+{
+  "content": "Tom disse que estava entediado.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:disse"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:estava"
+    ],
+    [
+      "PART",
+      "por:entediado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.561669Z": "SPLIT_DONE"
+  }
+}

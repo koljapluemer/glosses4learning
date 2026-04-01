@@ -1,0 +1,31 @@
+{
+  "content": "часу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він не має вільного часу щоб займатися спортом"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У Тома майже не було часу на те, щоб зреагувати"
+    ],
+    [
+      "TRANSLATION",
+      "eng:time",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zeit",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:07.862993Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:07.875432Z": "TRANSLATION_DONE:deu"
+  }
+}

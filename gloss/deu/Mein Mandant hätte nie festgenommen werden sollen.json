@@ -1,0 +1,43 @@
+{
+  "content": "Mein Mandant hätte nie festgenommen werden sollen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Kuraimegami (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Mein"
+    ],
+    [
+      "PART",
+      "deu:Mandant"
+    ],
+    [
+      "PART",
+      "deu:hätte"
+    ],
+    [
+      "PART",
+      "deu:nie"
+    ],
+    [
+      "PART",
+      "deu:festgenommen"
+    ],
+    [
+      "PART",
+      "deu:werden"
+    ],
+    [
+      "PART",
+      "deu:sollen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.557561Z": "SPLIT_DONE"
+  }
+}

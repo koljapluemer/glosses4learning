@@ -1,0 +1,29 @@
+{
+  "content": "Me",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Me kuulumme tänne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Me saimme uutiset"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We",
+      "Auto-translated with argostranslate (fi→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Me kaikki pidämme hänen käytöstään vastenmielisenä"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:45:01.042467Z": "TRANSLATION_DONE:eng"
+  }
+}

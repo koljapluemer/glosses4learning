@@ -1,0 +1,51 @@
+{
+  "content": "Tom neví jistě, jestli se ti Mary bude líbit.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:neví"
+    ],
+    [
+      "PART",
+      "ces:jistě"
+    ],
+    [
+      "PART",
+      "ces:jestli"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:ti"
+    ],
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:bude"
+    ],
+    [
+      "PART",
+      "ces:líbit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.591051Z": "SPLIT_DONE"
+  }
+}

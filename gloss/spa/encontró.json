@@ -1,0 +1,33 @@
+{
+  "content": "encontró",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella finalmente encontró sus llaves perdidas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:found",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefunden",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.692861Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.705420Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.721193Z": "TRANSLATION_DONE:ukr"
+  }
+}

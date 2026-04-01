@@ -1,0 +1,35 @@
+{
+  "content": "Quelqu'un peut-il fermer les rideaux ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:peut-il"
+    ],
+    [
+      "PART",
+      "fra:fermer"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:rideaux"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.404069Z": "SPLIT_DONE"
+  }
+}

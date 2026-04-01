@@ -1,0 +1,27 @@
+{
+  "content": "Запитаймо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Запитаймо вчителя"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's ask",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fragen wir uns",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:47.424444Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:47.445294Z": "TRANSLATION_DONE:deu"
+  }
+}

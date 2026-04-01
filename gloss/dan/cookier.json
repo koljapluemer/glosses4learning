@@ -1,0 +1,27 @@
+{
+  "content": "cookier",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan heller ikke lide cookier"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cookies",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Cookies",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:56.097491Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:56.238128Z": "TRANSLATION_DONE:deu"
+  }
+}

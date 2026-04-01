@@ -1,0 +1,39 @@
+{
+  "content": "треба",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Скромніше треба бути, еге ж﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам треба заспокоїтись"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yes, I do",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ja, das tue ich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми маємо роботу, яку нам треба зробити"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Нам треба було зробити те, що запропонував Том"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:14.141572Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:14.163663Z": "TRANSLATION_DONE:deu"
+  }
+}

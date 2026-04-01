@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:14:22.457Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +33,38 @@
     [
       "TRANSLATION",
       "eng:on"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Piłeczka jest po twojej stronie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Piłeczka jest po waszej stronie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jesteśmy wszyscy po tej samej stronie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jesteśmy po waszej stronie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Dzieci Toma doskonale mówią po francusku"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Myślisz, że wina leży po mojej stronie﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie możemy tak po prostu zwolnic Toma"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jesteśmy po twojej stronie"
     ]
   ]
 }

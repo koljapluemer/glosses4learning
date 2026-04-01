@@ -1,0 +1,33 @@
+{
+  "content": "Rechner",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Können Sie meinen Rechner wieder instand setzen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Calculator",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Кальвадос",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:57.181799Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:57.199608Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:57.218027Z": "TRANSLATION_DONE:kor"
+  }
+}

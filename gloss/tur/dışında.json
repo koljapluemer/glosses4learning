@@ -1,0 +1,27 @@
+{
+  "content": "dışında",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben asla Boston dışında herhangi bir yerde yaşamadım"
+    ],
+    [
+      "TRANSLATION",
+      "eng:outside",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:außen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:29.450528Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:29.463544Z": "TRANSLATION_DONE:deu"
+  }
+}

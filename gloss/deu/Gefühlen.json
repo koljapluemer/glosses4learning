@@ -1,0 +1,33 @@
+{
+  "content": "Gefühlen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:An seinen Gefühlen kann man nichts ändern"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Feelings",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Почуття",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:23.339876Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:23.340150Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:23.341555Z": "TRANSLATION_DONE:kor"
+  }
+}

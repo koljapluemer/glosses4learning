@@ -1,0 +1,35 @@
+{
+  "content": "Mais qu'est-ce que c'était difficile !",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rovo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Mais"
+    ],
+    [
+      "PART",
+      "fra:qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:c'était"
+    ],
+    [
+      "PART",
+      "fra:difficile"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.421248Z": "SPLIT_DONE"
+  }
+}

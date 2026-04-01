@@ -1,0 +1,35 @@
+{
+  "content": "Jag vill inte vara ensam.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:vill"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:vara"
+    ],
+    [
+      "PART",
+      "swe:ensam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.818877Z": "SPLIT_DONE"
+  }
+}

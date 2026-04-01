@@ -1,0 +1,33 @@
+{
+  "content": "inconvenientes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ese plan tiene algunos inconvenientes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:challenges",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Herausforderungen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:проблеми",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:04.564966Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:04.627018Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:04.663779Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Wie zain mekoar noaderhand.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wie"
+    ],
+    [
+      "PART",
+      "gos:zain"
+    ],
+    [
+      "PART",
+      "gos:mekoar"
+    ],
+    [
+      "PART",
+      "gos:noaderhand"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.646395Z": "SPLIT_DONE"
+  }
+}

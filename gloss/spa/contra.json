@@ -1,0 +1,45 @@
+{
+  "content": "contra",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Están claramente en contra de nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:against",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gegen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:проти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los estudiantes estaban en contra de la guerra"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están en contra del abuso animal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunas religiones están en contra de la donación de órganos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.991715Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:37.005217Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:37.019738Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "seninkine",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Benim doğum günüm seninkine yakındır"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yours",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ihr",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:38.383086Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:38.383664Z": "TRANSLATION_DONE:deu"
+  }
+}

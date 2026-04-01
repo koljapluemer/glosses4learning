@@ -1,0 +1,43 @@
+{
+  "content": "занадто",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я занадто гладкий"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти занадто ввічлива"
+    ],
+    [
+      "TRANSLATION",
+      "eng:too",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:auch",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я занадто старий, щоб починати все спочатку"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він був занадто старий, щоб чинити супротив"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том був занадто переляканий, щоб кричати"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.848235Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.862276Z": "TRANSLATION_DONE:deu"
+  }
+}

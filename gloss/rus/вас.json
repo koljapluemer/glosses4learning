@@ -6,7 +6,9 @@
     "2025-12-16T14:26:46.625Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:27:06.799Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -32,6 +34,14 @@
     [
       "TRANSLATION",
       "deu:Ihnen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мы знаем, что для вас это важно"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Смотрите, чтобы она вас не увидела"
     ]
   ]
 }

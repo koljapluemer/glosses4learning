@@ -1,0 +1,33 @@
+{
+  "content": "avances",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Una y otra vez me maravillo con los avances en tecnología"
+    ],
+    [
+      "TRANSLATION",
+      "eng:progress",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fortschritte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:прогрес",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:27.818001Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:27.833693Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:27.847805Z": "TRANSLATION_DONE:ukr"
+  }
+}

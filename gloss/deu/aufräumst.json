@@ -1,0 +1,33 @@
+{
+  "content": "aufräumst",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es wird Zeit, daß du mal dein Zimmer aufräumst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cleansing",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:очищення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사 소개",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:40.013315Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:40.063231Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:40.118459Z": "TRANSLATION_DONE:kor"
+  }
+}

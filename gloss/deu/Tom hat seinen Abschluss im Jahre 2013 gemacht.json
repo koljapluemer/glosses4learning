@@ -1,0 +1,47 @@
+{
+  "content": "Tom hat seinen Abschluss im Jahre 2013 gemacht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Abschluss"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Jahre"
+    ],
+    [
+      "PART",
+      "deu:2013"
+    ],
+    [
+      "PART",
+      "deu:gemacht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.418334Z": "SPLIT_DONE"
+  }
+}

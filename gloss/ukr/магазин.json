@@ -1,0 +1,27 @@
+{
+  "content": "магазин",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Сьогодні я закрив магазин рано"
+    ],
+    [
+      "TRANSLATION",
+      "eng:store",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Laden",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:01.102930Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:01.118443Z": "TRANSLATION_DONE:deu"
+  }
+}

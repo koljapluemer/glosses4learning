@@ -1,0 +1,35 @@
+{
+  "content": "Aku mendengar seorang anak menangis.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Aku"
+    ],
+    [
+      "PART",
+      "ind:mendengar"
+    ],
+    [
+      "PART",
+      "ind:seorang"
+    ],
+    [
+      "PART",
+      "ind:anak"
+    ],
+    [
+      "PART",
+      "ind:menangis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.869525Z": "SPLIT_DONE"
+  }
+}

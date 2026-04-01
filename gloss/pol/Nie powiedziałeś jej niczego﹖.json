@@ -1,0 +1,31 @@
+{
+  "content": "Nie powiedziałeś jej niczego?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pierrka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nie"
+    ],
+    [
+      "PART",
+      "pol:powiedziałeś"
+    ],
+    [
+      "PART",
+      "pol:jej"
+    ],
+    [
+      "PART",
+      "pol:niczego"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.320802Z": "SPLIT_DONE"
+  }
+}

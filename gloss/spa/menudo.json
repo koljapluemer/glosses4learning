@@ -10,7 +10,8 @@
     "2026-03-29T14:25:12.077565Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:25:12.289294Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:25:12.526182Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:25:12.734334Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:25:12.734334Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:12.242646Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,19 @@
     [
       "TRANSLATION",
       "tur:yoğurtlu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A menudo confundo las vocales del castellano"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los adolescentes discuten a menudo con sus padres"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:часто",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

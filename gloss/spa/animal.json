@@ -1,0 +1,33 @@
+{
+  "content": "animal",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están en contra del abuso animal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:animal",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tiere",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тварини",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.121636Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.136358Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.150768Z": "TRANSLATION_DONE:ukr"
+  }
+}

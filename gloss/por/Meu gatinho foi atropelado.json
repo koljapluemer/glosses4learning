@@ -1,0 +1,31 @@
+{
+  "content": "Meu gatinho foi atropelado.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:gatinho"
+    ],
+    [
+      "PART",
+      "por:foi"
+    ],
+    [
+      "PART",
+      "por:atropelado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.575466Z": "SPLIT_DONE"
+  }
+}

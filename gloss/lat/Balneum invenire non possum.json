@@ -1,0 +1,31 @@
+{
+  "content": "Balneum invenire non possum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Balneum"
+    ],
+    [
+      "PART",
+      "lat:invenire"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:possum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.303821Z": "SPLIT_DONE"
+  }
+}

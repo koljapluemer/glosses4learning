@@ -1,0 +1,37 @@
+{
+  "content": "populares",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los movimientos populares expresan el descontento popular"
+    ],
+    [
+      "TRANSLATION",
+      "eng:popular",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:beliebt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Популярні",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los centros comerciales son populares entre los adolescentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:24.562725Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:24.563106Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:24.563378Z": "TRANSLATION_DONE:ukr"
+  }
+}

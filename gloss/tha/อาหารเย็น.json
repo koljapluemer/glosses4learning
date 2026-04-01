@@ -1,0 +1,27 @@
+{
+  "content": "อาหารเย็น",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ตอนนี้ทอมกำลังทานอาหารเย็น"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Dinner",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Abendessen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:41.919766Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:41.932727Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jeg vågnede tidligere end normalt.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:vågnede"
+    ],
+    [
+      "PART",
+      "dan:tidligere"
+    ],
+    [
+      "PART",
+      "dan:end"
+    ],
+    [
+      "PART",
+      "dan:normalt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.018827Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "caminó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él caminó vigorosamente delante de nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He walked",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er ging",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Прогулянка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:31.220341Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:31.237239Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:31.384910Z": "TRANSLATION_DONE:ukr"
+  }
+}

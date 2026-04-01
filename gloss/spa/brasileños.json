@@ -1,0 +1,33 @@
+{
+  "content": "brasileños",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El fútbol es el entretenimiento favorito de los brasileños"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Brazil",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Brasilien",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Бразилія",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:29.459007Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:29.472610Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:29.491146Z": "TRANSLATION_DONE:ukr"
+  }
+}

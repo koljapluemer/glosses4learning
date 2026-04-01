@@ -1,0 +1,39 @@
+{
+  "content": "Mi pensas, ke tio estas antaŭvidebla.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Alois (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:pensas"
+    ],
+    [
+      "PART",
+      "epo:ke"
+    ],
+    [
+      "PART",
+      "epo:tio"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:antaŭvidebla"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:36.010519Z": "SPLIT_DONE"
+  }
+}

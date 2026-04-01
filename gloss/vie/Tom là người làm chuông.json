@@ -1,0 +1,35 @@
+{
+  "content": "Tom là người làm chuông.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by truongap (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:là"
+    ],
+    [
+      "PART",
+      "vie:người"
+    ],
+    [
+      "PART",
+      "vie:làm"
+    ],
+    [
+      "PART",
+      "vie:chuông"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.089924Z": "SPLIT_DONE"
+  }
+}

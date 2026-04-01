@@ -9,7 +9,9 @@
     "2026-03-29T13:20:51.682900Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:51.875577Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:52.079142Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:52.248568Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:52.248568Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:05.642462Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:05.790888Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,20 @@
     [
       "TRANSLATION",
       "tur:küçük"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мали",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Katzen sind im allgemeinen kleiner als Hunde"
     ]
   ]
 }

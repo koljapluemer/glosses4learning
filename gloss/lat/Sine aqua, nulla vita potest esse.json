@@ -1,0 +1,39 @@
+{
+  "content": "Sine aqua, nulla vita potest esse.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Sine"
+    ],
+    [
+      "PART",
+      "lat:aqua"
+    ],
+    [
+      "PART",
+      "lat:nulla"
+    ],
+    [
+      "PART",
+      "lat:vita"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.261634Z": "SPLIT_DONE"
+  }
+}

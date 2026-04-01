@@ -1,0 +1,33 @@
+{
+  "content": "Nervenkitzel",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Macht es Spaß, sich an einem elastischen Band in die Tiefe stürzen zu lassen, oder ist es reiner Nervenkitzel﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Nerves",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Серветки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:49.139539Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:49.287523Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:49.344103Z": "TRANSLATION_DONE:kor"
+  }
+}

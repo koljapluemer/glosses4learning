@@ -1,0 +1,35 @@
+{
+  "content": "Wie verdient Tom seinen Lebensunterhalt?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Felixjp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wie"
+    ],
+    [
+      "PART",
+      "deu:verdient"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Lebensunterhalt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.467780Z": "SPLIT_DONE"
+  }
+}

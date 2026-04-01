@@ -1,0 +1,33 @@
+{
+  "content": "Zeitlang",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie haben sich eine Zeitlang unterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Time",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:час",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:(주)",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:35.587587Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:35.588013Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:35.588260Z": "TRANSLATION_DONE:kor"
+  }
+}

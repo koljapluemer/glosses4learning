@@ -1,0 +1,33 @@
+{
+  "content": "deciden",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos no deciden cuestiones importantes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:decide",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Entscheidung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:40.566741Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:40.585914Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:40.604438Z": "TRANSLATION_DONE:ukr"
+  }
+}

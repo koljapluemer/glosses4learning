@@ -1,0 +1,39 @@
+{
+  "content": "Meu irmão pequeno tem doze anos.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauliobezerra (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:irmão"
+    ],
+    [
+      "PART",
+      "por:pequeno"
+    ],
+    [
+      "PART",
+      "por:tem"
+    ],
+    [
+      "PART",
+      "por:doze"
+    ],
+    [
+      "PART",
+      "por:anos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.532796Z": "SPLIT_DONE"
+  }
+}

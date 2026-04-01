@@ -2,8 +2,13 @@
   "content": "habilidades",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T13:54:06.568208Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.587728Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -29,6 +34,20 @@
     [
       "TRANSLATION",
       "eng:skills"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos animales tienen habilidades especiales"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fähigkeiten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:навички",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

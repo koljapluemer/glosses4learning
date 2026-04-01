@@ -1,0 +1,39 @@
+{
+  "content": "Mina föräldrar var inte bra människor.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SilasNordgren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Mina"
+    ],
+    [
+      "PART",
+      "swe:föräldrar"
+    ],
+    [
+      "PART",
+      "swe:var"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:bra"
+    ],
+    [
+      "PART",
+      "swe:människor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.999264Z": "SPLIT_DONE"
+  }
+}

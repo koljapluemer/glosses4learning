@@ -1,0 +1,39 @@
+{
+  "content": "Tom não acha que Maria vencerá.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GustaBR (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:não"
+    ],
+    [
+      "PART",
+      "por:acha"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:Maria"
+    ],
+    [
+      "PART",
+      "por:vencerá"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.526388Z": "SPLIT_DONE"
+  }
+}

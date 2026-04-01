@@ -5,6 +5,37 @@
     [
       "TRANSLATION",
       "tha:พจนานุกรม"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Wörterbuch kann dir ebenfalls von Nutzen sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dictionary",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:словник",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe ein Wörterbuch, das auf dem neuesten Stand ist"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:36:35.218978Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:35.234686Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:35.253780Z": "TRANSLATION_DONE:kor"
+  }
 }

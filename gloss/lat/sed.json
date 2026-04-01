@@ -1,0 +1,25 @@
+{
+  "content": "sed",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas Mariam quidem amat, sed non me"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Illud computatorium gestabile non Thomae, sed meum est"
+    ],
+    [
+      "TRANSLATION",
+      "eng:but",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:45:08.480375Z": "TRANSLATION_DONE:eng"
+  }
+}

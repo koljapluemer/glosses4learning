@@ -1,0 +1,35 @@
+{
+  "content": "l'intérieur",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un se trouve à l'intérieur de la maison"
+    ],
+    [
+      "TRANSLATION",
+      "eng:inside",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:innen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je ne pouvais pas voir ce qu'il y avait à l'intérieur"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi ne nous glissons-nous pas à nouveau à l'intérieur ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:32.867864Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:33.011319Z": "TRANSLATION_DONE:deu"
+  }
+}

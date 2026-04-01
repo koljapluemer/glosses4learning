@@ -1,0 +1,33 @@
+{
+  "content": "Antiseptikum",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Waschen Sie seine Wunde mit diesem Antiseptikum aus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:antiseptic agent",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:антисептичний агент",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:antiseptic 대리인",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:13.313681Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:13.341396Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:13.369101Z": "TRANSLATION_DONE:kor"
+  }
+}

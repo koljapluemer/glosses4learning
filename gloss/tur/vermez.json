@@ -1,0 +1,35 @@
+{
+  "content": "vermez",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom hiç kimsenin kendisine dokunmasına izin vermez"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom kimsenin ona dokunmasına izin vermez"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom asla birinin bir şey yapmasına izin vermez"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.677441Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.692616Z": "TRANSLATION_DONE:deu"
+  }
+}

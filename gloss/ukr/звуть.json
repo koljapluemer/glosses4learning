@@ -1,0 +1,31 @@
+{
+  "content": "звуть",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти знаєш, як Тома звуть насправді﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви знаєте, як Тома звуть насправді﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Name",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Name",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:59.534541Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:59.550505Z": "TRANSLATION_DONE:deu"
+  }
+}

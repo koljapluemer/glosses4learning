@@ -9,7 +9,9 @@
     "2026-03-29T13:23:37.627911Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:37.787371Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:23:37.975667Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:23:38.165108Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:23:38.165108Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:41.931883Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:41.947375Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -79,6 +81,48 @@
     [
       "TRANSLATION",
       "fra:devant"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Tochter ist vor sieben Jahren verschwunden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sein Verhalten stieß seine Freunde vor den Kopf"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dürfte ich mich einmal vor der Tür mit dir unterhalten﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte vor dem Sprechen das Gehirn einschalten"
+    ],
+    [
+      "TRANSLATION",
+      "dan:før"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이전 다음",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden auf keinen Fall vor Einbruch der Dunkelheit in London ankommen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe das Rauchen vor einem Jahr aufgegeben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir haben heute noch keinen Fuß vor die Tür gesetzt"
     ]
   ]
 }

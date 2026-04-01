@@ -1,0 +1,35 @@
+{
+  "content": "Tom powiedział, że przestanie palić.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by konrad509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:przestanie"
+    ],
+    [
+      "PART",
+      "pol:palić"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.303156Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "bælgmørkt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Her til aften var det bælgmørkt udenfor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Legs dark",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Beine dunkel",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:55.266193Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:55.408588Z": "TRANSLATION_DONE:deu"
+  }
+}

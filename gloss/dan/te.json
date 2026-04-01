@@ -1,0 +1,27 @@
+{
+  "content": "te",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke te uden sukker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:na",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Na",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:44.631138Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:44.768464Z": "TRANSLATION_DONE:deu"
+  }
+}

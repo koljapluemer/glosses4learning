@@ -1,0 +1,35 @@
+{
+  "content": "Мы на этой неделе зашиваемся.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:на"
+    ],
+    [
+      "PART",
+      "rus:этой"
+    ],
+    [
+      "PART",
+      "rus:неделе"
+    ],
+    [
+      "PART",
+      "rus:зашиваемся"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.199063Z": "SPLIT_DONE"
+  }
+}

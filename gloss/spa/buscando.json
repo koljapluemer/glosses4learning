@@ -1,0 +1,33 @@
+{
+  "content": "buscando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que ellos no nos están buscando"
+    ],
+    [
+      "TRANSLATION",
+      "eng:looking",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sieSie",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пошук",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:30.235290Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:30.379037Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:30.397271Z": "TRANSLATION_DONE:ukr"
+  }
+}

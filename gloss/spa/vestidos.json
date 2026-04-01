@@ -1,0 +1,37 @@
+{
+  "content": "vestidos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los paseantes están vestidos con ropa de verano"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dresses",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kleider",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:плаття",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los comerciales tienen que ir bien vestidos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:43.341258Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:43.354180Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:43.372545Z": "TRANSLATION_DONE:ukr"
+  }
+}

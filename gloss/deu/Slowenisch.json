@@ -8,7 +8,9 @@
     "2026-01-27T14:30:12.502803Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:17.312850Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:17.500164Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:17.681031Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:17.681031Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:11.713029Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:11.861650Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -38,6 +40,16 @@
     [
       "TRANSLATION",
       "rus:Словенский"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:в Словенії",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:슬로베니아",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

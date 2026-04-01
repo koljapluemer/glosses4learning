@@ -1,0 +1,33 @@
+{
+  "content": "desnudos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos corrieron desnudos por las calles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Naked",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nackt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Голий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.182870Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.199664Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.215021Z": "TRANSLATION_DONE:ukr"
+  }
+}

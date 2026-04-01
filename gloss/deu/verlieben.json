@@ -9,7 +9,9 @@
     "2026-03-29T13:23:23.226620Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:23.383451Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:23:23.573767Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:23:23.756663Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:23:23.756663Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:36.900779Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:36.920140Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:aşk edinmek"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:любов",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:가을에 사랑",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

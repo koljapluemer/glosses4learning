@@ -1,0 +1,31 @@
+{
+  "content": "Ma jó étvágyam van.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Barbulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Ma"
+    ],
+    [
+      "PART",
+      "hun:jó"
+    ],
+    [
+      "PART",
+      "hun:étvágyam"
+    ],
+    [
+      "PART",
+      "hun:van"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.890023Z": "SPLIT_DONE"
+  }
+}

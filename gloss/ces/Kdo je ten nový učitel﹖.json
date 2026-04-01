@@ -1,0 +1,35 @@
+{
+  "content": "Kdo je ten nový učitel?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by imboreeed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Kdo"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:ten"
+    ],
+    [
+      "PART",
+      "ces:nový"
+    ],
+    [
+      "PART",
+      "ces:učitel"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.727128Z": "SPLIT_DONE"
+  }
+}

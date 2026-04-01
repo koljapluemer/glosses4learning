@@ -1,0 +1,31 @@
+{
+  "content": "Том готовий іти зараз.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Том"
+    ],
+    [
+      "PART",
+      "ukr:готовий"
+    ],
+    [
+      "PART",
+      "ukr:іти"
+    ],
+    [
+      "PART",
+      "ukr:зараз"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.963282Z": "SPLIT_DONE"
+  }
+}

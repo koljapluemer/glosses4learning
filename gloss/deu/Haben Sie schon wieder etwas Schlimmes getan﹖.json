@@ -1,0 +1,43 @@
+{
+  "content": "Haben Sie schon wieder etwas Schlimmes getan?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:schon"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:Schlimmes"
+    ],
+    [
+      "PART",
+      "deu:getan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.558612Z": "SPLIT_DONE"
+  }
+}

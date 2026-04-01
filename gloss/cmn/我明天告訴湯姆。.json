@@ -1,0 +1,35 @@
+{
+  "content": "我明天告訴湯姆。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by verdastelo9604 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:明天"
+    ],
+    [
+      "PART",
+      "cmn:告訴"
+    ],
+    [
+      "PART",
+      "cmn:湯姆"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.629229Z": "SPLIT_DONE"
+  }
+}

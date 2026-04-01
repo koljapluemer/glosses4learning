@@ -1,0 +1,47 @@
+{
+  "content": "Ich kann deinen Nachnamen nicht richtig betont aussprechen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kroko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Nachnamen"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:richtig"
+    ],
+    [
+      "PART",
+      "deu:betont"
+    ],
+    [
+      "PART",
+      "deu:aussprechen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.317457Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "disse",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vil du ikke nok lade være med at fælde disse træer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:these",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:00.954284Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:01.113529Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "sandt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke forestille mig at det er sandt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville ønske at det ikke var sandt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du ved jo selv at det ikke er sandt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:True",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wahr",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:23.176446Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:23.315942Z": "TRANSLATION_DONE:deu"
+  }
+}

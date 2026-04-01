@@ -1,0 +1,27 @@
+{
+  "content": "sket",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ved ikke hvad der kunne være sket"
+    ],
+    [
+      "TRANSLATION",
+      "eng:missed",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verpasst",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:42.537936Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:42.679854Z": "TRANSLATION_DONE:deu"
+  }
+}

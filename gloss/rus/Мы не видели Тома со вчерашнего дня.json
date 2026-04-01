@@ -1,0 +1,43 @@
+{
+  "content": "Мы не видели Тома со вчерашнего дня.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:видели"
+    ],
+    [
+      "PART",
+      "rus:Тома"
+    ],
+    [
+      "PART",
+      "rus:со"
+    ],
+    [
+      "PART",
+      "rus:вчерашнего"
+    ],
+    [
+      "PART",
+      "rus:дня"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.198672Z": "SPLIT_DONE"
+  }
+}

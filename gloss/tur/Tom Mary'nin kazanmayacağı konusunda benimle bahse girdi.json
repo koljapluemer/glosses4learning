@@ -1,0 +1,43 @@
+{
+  "content": "Tom Mary'nin kazanmayacağı konusunda benimle bahse girdi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary'nin"
+    ],
+    [
+      "PART",
+      "tur:kazanmayacağı"
+    ],
+    [
+      "PART",
+      "tur:konusunda"
+    ],
+    [
+      "PART",
+      "tur:benimle"
+    ],
+    [
+      "PART",
+      "tur:bahse"
+    ],
+    [
+      "PART",
+      "tur:girdi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.344416Z": "SPLIT_DONE"
+  }
+}

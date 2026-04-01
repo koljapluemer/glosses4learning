@@ -1,0 +1,43 @@
+{
+  "content": "Los estudiantes hicieron el trabajo ellos mismos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by cueyayotl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:hicieron"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:trabajo"
+    ],
+    [
+      "PART",
+      "spa:ellos"
+    ],
+    [
+      "PART",
+      "spa:mismos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.737929Z": "SPLIT_DONE"
+  }
+}

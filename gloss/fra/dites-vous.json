@@ -1,0 +1,31 @@
+{
+  "content": "dites-vous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:De qui dites-vous qu'ils sont stupides ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Say",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sag mal",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Que dites-vous de dormir à la maison ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:21.740403Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:21.780243Z": "TRANSLATION_DONE:deu"
+  }
+}

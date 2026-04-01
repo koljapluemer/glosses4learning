@@ -1,0 +1,31 @@
+{
+  "content": "Everest",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Thomas beklom Everest zunder zoerstof"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Everest",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mountain",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:peak",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:06:16.569838Z": "TRANSLATION_DONE:eng"
+  }
+}

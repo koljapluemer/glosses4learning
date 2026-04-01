@@ -1,0 +1,39 @@
+{
+  "content": "Czy jesteś gotowa na dzisiejsze spotkanie?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tomash (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ],
+    [
+      "PART",
+      "pol:gotowa"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:dzisiejsze"
+    ],
+    [
+      "PART",
+      "pol:spotkanie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.232294Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "irme",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que irme porque se hace de noche"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy considerando irme con ellos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:leave",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Urlaub",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:06.755600Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:06.774318Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:06.790152Z": "TRANSLATION_DONE:ukr"
+  }
+}

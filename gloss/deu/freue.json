@@ -1,0 +1,33 @@
+{
+  "content": "freue",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es war mir eine Ehre, dich getroffen zu haben und ich freue mich, von dir zu hören"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Welcome",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:01.561550Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:01.577914Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:01.599000Z": "TRANSLATION_DONE:kor"
+  }
+}

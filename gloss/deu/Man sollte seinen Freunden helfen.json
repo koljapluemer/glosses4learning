@@ -1,0 +1,35 @@
+{
+  "content": "Man sollte seinen Freunden helfen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Man"
+    ],
+    [
+      "PART",
+      "deu:sollte"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Freunden"
+    ],
+    [
+      "PART",
+      "deu:helfen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.416818Z": "SPLIT_DONE"
+  }
+}

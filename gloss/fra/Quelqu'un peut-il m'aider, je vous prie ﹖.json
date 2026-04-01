@@ -1,0 +1,39 @@
+{
+  "content": "Quelqu'un peut-il m'aider, je vous prie ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:peut-il"
+    ],
+    [
+      "PART",
+      "fra:m'aider"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:prie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.455189Z": "SPLIT_DONE"
+  }
+}

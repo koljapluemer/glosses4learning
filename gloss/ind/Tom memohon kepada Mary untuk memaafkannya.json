@@ -1,0 +1,39 @@
+{
+  "content": "Tom memohon kepada Mary untuk memaafkannya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pi31415i (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:memohon"
+    ],
+    [
+      "PART",
+      "ind:kepada"
+    ],
+    [
+      "PART",
+      "ind:Mary"
+    ],
+    [
+      "PART",
+      "ind:untuk"
+    ],
+    [
+      "PART",
+      "ind:memaafkannya"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:26.977872Z": "SPLIT_DONE"
+  }
+}

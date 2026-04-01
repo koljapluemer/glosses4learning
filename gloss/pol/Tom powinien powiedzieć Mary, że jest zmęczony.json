@@ -1,0 +1,43 @@
+{
+  "content": "Tom powinien powiedzieć Mary, że jest zmęczony.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jimbojim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:powinien"
+    ],
+    [
+      "PART",
+      "pol:powiedzieć"
+    ],
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:zmęczony"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.214007Z": "SPLIT_DONE"
+  }
+}

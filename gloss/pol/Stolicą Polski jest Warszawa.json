@@ -1,0 +1,31 @@
+{
+  "content": "Stolicą Polski jest Warszawa.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zipangu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Stolicą"
+    ],
+    [
+      "PART",
+      "pol:Polski"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:Warszawa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.768593Z": "SPLIT_DONE"
+  }
+}

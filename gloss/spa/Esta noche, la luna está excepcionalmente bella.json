@@ -1,0 +1,43 @@
+{
+  "content": "Esta noche, la luna está excepcionalmente bella.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Esta"
+    ],
+    [
+      "PART",
+      "spa:noche"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:luna"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:excepcionalmente"
+    ],
+    [
+      "PART",
+      "spa:bella"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.582142Z": "SPLIT_DONE"
+  }
+}

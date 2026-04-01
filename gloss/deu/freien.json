@@ -1,0 +1,33 @@
+{
+  "content": "freien",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es tut mir leid! Wir haben keine freien Zimmer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:free",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Безкоштовно",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:무료 와이파이",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:24.727229Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:24.753433Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:24.774783Z": "TRANSLATION_DONE:kor"
+  }
+}

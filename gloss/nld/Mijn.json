@@ -1,0 +1,33 @@
+{
+  "content": "Mijn",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mijn moeders houden van me"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mine",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mijn vader werd gisteren opgenomen in het ziekenhuis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mijn oudere broer is op dit moment werkloos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Mijn kinderen hebben dit voor me gekocht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:51.221349Z": "TRANSLATION_DONE:eng"
+  }
+}

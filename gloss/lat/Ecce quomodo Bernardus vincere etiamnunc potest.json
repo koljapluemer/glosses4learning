@@ -1,0 +1,39 @@
+{
+  "content": "Ecce quomodo Bernardus vincere etiamnunc potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ecce"
+    ],
+    [
+      "PART",
+      "lat:quomodo"
+    ],
+    [
+      "PART",
+      "lat:Bernardus"
+    ],
+    [
+      "PART",
+      "lat:vincere"
+    ],
+    [
+      "PART",
+      "lat:etiamnunc"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.264878Z": "SPLIT_DONE"
+  }
+}

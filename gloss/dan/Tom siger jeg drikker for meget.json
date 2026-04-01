@@ -1,0 +1,39 @@
+{
+  "content": "Tom siger jeg drikker for meget.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:siger"
+    ],
+    [
+      "PART",
+      "dan:jeg"
+    ],
+    [
+      "PART",
+      "dan:drikker"
+    ],
+    [
+      "PART",
+      "dan:for"
+    ],
+    [
+      "PART",
+      "dan:meget"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.635110Z": "SPLIT_DONE"
+  }
+}

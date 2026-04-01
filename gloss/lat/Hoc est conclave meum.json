@@ -1,0 +1,31 @@
+{
+  "content": "Hoc est conclave meum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hoc"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:conclave"
+    ],
+    [
+      "PART",
+      "lat:meum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.383359Z": "SPLIT_DONE"
+  }
+}

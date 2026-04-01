@@ -1,0 +1,37 @@
+{
+  "content": "Sagen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sagen Sie den Kindern, daß sie ins Haus kommen sollen!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sagen Sie ihm, dass er den Mund halten soll!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Says",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:02.082513Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:02.103640Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:02.123469Z": "TRANSLATION_DONE:kor"
+  }
+}

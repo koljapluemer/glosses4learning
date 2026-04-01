@@ -1,0 +1,37 @@
+{
+  "content": "Una",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Una buena pronunciación es muy importante para el entendimiento"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Una y otra vez me maravillo con los avances en tecnología"
+    ],
+    [
+      "TRANSLATION",
+      "eng:One",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ein",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Один",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:21.519325Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:21.666174Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:21.682574Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "version",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan bedre lide din version"
+    ],
+    [
+      "TRANSLATION",
+      "eng:version",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Version",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:59.980540Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:00.119573Z": "TRANSLATION_DONE:deu"
+  }
+}

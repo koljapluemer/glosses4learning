@@ -1,0 +1,33 @@
+{
+  "content": "desayunar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hacemos panquecillos calientes para desayunar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Breakfast",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frühstück",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сніданок",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:41.327391Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:41.342165Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:41.357959Z": "TRANSLATION_DONE:ukr"
+  }
+}

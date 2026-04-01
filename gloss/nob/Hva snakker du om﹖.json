@@ -1,0 +1,31 @@
+{
+  "content": "Hva snakker du om?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hva"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:om"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.281969Z": "SPLIT_DONE"
+  }
+}

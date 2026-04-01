@@ -1,0 +1,43 @@
+{
+  "content": "Tom opferte sich um seines Freundes willen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:opferte"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:um"
+    ],
+    [
+      "PART",
+      "deu:seines"
+    ],
+    [
+      "PART",
+      "deu:Freundes"
+    ],
+    [
+      "PART",
+      "deu:willen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.859218Z": "SPLIT_DONE"
+  }
+}

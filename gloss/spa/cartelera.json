@@ -1,0 +1,33 @@
+{
+  "content": "cartelera",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué películas están en cartelera ahora﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Loader",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ladegerät",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навантажувач",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.794202Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.811939Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.829881Z": "TRANSLATION_DONE:ukr"
+  }
+}

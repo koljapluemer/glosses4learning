@@ -1,0 +1,43 @@
+{
+  "content": "La bibliothèque de l'université est-elle ouverte maintenant ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:La"
+    ],
+    [
+      "PART",
+      "fra:bibliothèque"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:l'université"
+    ],
+    [
+      "PART",
+      "fra:est-elle"
+    ],
+    [
+      "PART",
+      "fra:ouverte"
+    ],
+    [
+      "PART",
+      "fra:maintenant"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.376884Z": "SPLIT_DONE"
+  }
+}

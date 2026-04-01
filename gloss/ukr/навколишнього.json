@@ -1,0 +1,27 @@
+{
+  "content": "навколишнього",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Її остання книжка про забруднення навколишнього середовища"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Environment",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Umwelt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:01.355521Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:01.498032Z": "TRANSLATION_DONE:deu"
+  }
+}

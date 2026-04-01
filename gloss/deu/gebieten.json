@@ -1,0 +1,33 @@
+{
+  "content": "gebieten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es ist an der Zeit, diesem Spiel mit dem Feuer Einhalt zu gebieten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Areas",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Населений пункт",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지역 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:29.693904Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:29.788793Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:29.935794Z": "TRANSLATION_DONE:kor"
+  }
+}

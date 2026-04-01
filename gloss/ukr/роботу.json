@@ -1,0 +1,43 @@
+{
+  "content": "роботу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тома взяли на роботу"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том взяв сина на роботу"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arbeit",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том подякував мене за те, що я взяв його на роботу"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том подякував мене за те, що я взяла його на роботу"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми маємо роботу, яку нам треба зробити"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:09.989374Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:10.043937Z": "TRANSLATION_DONE:deu"
+  }
+}

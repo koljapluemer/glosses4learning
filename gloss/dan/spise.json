@@ -1,0 +1,43 @@
+{
+  "content": "spise",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kan jeg ikke spise. Jeg er diabetiker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det der kan jeg ikke spise. Jeg har sukkersyge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det der kan jeg ikke spise. Jeg er diabetiker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke lide at spise tomater"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det betaler sig ikke at spise tastaturet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:eat",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Essen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:36.340589Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:36.479445Z": "TRANSLATION_DONE:deu"
+  }
+}

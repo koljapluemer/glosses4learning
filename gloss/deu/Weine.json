@@ -1,0 +1,33 @@
+{
+  "content": "Weine",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Weine doch nicht! Ich muss auch noch das Weinen anfangen, wenn du weinst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wines",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вино",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:와인",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:32.518371Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:32.539813Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:32.556115Z": "TRANSLATION_DONE:kor"
+  }
+}

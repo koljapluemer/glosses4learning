@@ -1,0 +1,41 @@
+{
+  "content": "unterstellen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wollen Sie mir damit unterstellen, daß ich Vorurteile habe﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Willst du mir damit unterstellen, daß ich Vorurteile habe﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wollt ihr mir damit unterstellen, daß ich Vorurteile habe﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:undersigned",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підписати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:31.129835Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:31.316656Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:31.473039Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Konferensen lockade 150 diplomater.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Konferensen"
+    ],
+    [
+      "PART",
+      "swe:lockade"
+    ],
+    [
+      "PART",
+      "swe:150"
+    ],
+    [
+      "PART",
+      "swe:diplomater"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.852719Z": "SPLIT_DONE"
+  }
+}

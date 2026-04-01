@@ -1,0 +1,35 @@
+{
+  "content": "Mi chiamo Carlos, sono brasiliano.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Mi"
+    ],
+    [
+      "PART",
+      "ita:chiamo"
+    ],
+    [
+      "PART",
+      "ita:Carlos"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:brasiliano"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.832766Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "думаєте",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знаю, що ви про мене думаєте"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You think",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Denkst du﹖",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:56.199524Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:56.361884Z": "TRANSLATION_DONE:deu"
+  }
+}

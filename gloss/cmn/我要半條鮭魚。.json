@@ -1,0 +1,31 @@
+{
+  "content": "我要半條鮭魚。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xjjAstrus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我要"
+    ],
+    [
+      "PART",
+      "cmn:半條"
+    ],
+    [
+      "PART",
+      "cmn:鮭魚"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.696781Z": "SPLIT_DONE"
+  }
+}

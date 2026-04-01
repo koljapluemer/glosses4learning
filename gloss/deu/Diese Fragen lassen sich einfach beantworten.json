@@ -1,0 +1,39 @@
+{
+  "content": "Diese Fragen lassen sich einfach beantworten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Diese"
+    ],
+    [
+      "PART",
+      "deu:Fragen"
+    ],
+    [
+      "PART",
+      "deu:lassen"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:einfach"
+    ],
+    [
+      "PART",
+      "deu:beantworten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.429962Z": "SPLIT_DONE"
+  }
+}

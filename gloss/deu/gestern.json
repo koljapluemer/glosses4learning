@@ -8,7 +8,9 @@
     "2026-01-27T14:33:28.005316Z": "TRANSLATION_DONE:eng",
     "2026-03-28T13:51:08.724490Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:51:09.644738Z": "TRANSLATION_DONE:ita",
-    "2026-03-28T13:51:10.977864Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T13:51:10.977864Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:41.624437Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:41.649708Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -70,6 +72,36 @@
     [
       "TRANSLATION",
       "spa:anteayer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was hat dich davon abgehalten gestern zu kommen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe deinen Brief erst gestern erhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ken hat gestern mit seinen Freunden geredet"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:час",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어제",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe meine Hausaufgaben gestern gemacht"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe gestern keine Nachrichten erhalten"
     ]
   ]
 }

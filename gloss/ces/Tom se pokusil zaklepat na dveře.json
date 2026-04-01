@@ -1,0 +1,39 @@
+{
+  "content": "Tom se pokusil zaklepat na dveře.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:pokusil"
+    ],
+    [
+      "PART",
+      "ces:zaklepat"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:dveře"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.137961Z": "SPLIT_DONE"
+  }
+}

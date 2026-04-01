@@ -1,0 +1,31 @@
+{
+  "content": "จำเป็นต้อง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เราไม่จำเป็นต้องทำสิ่งนี้"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Had to",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Musste",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เราจำเป็นต้องทำตามกฎ"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:11.701615Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:11.723379Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Aku tahu Tom sedang memancing.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Aku"
+    ],
+    [
+      "PART",
+      "ind:tahu"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:sedang"
+    ],
+    [
+      "PART",
+      "ind:memancing"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.871169Z": "SPLIT_DONE"
+  }
+}

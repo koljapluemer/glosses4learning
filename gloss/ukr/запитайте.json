@@ -1,0 +1,27 @@
+{
+  "content": "запитайте",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо ви не розумієте, запитайте"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ask me",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frag mich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:58.452428Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:58.482481Z": "TRANSLATION_DONE:deu"
+  }
+}

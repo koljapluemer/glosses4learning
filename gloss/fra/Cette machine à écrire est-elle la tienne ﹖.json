@@ -1,0 +1,43 @@
+{
+  "content": "Cette machine à écrire est-elle la tienne ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:machine"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:écrire"
+    ],
+    [
+      "PART",
+      "fra:est-elle"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:tienne"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.153997Z": "SPLIT_DONE"
+  }
+}

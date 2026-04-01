@@ -1,0 +1,33 @@
+{
+  "content": "darum",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich sagte doch, dass ihr euch darum keine Sorgen machen sollt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:59.664993Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:59.684662Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:59.710485Z": "TRANSLATION_DONE:kor"
+  }
+}

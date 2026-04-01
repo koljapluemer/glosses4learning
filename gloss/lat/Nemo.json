@@ -1,0 +1,29 @@
+{
+  "content": "Nemo",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Nemo me vincere potest"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Nemo praeter Mariam Thoman vincere potest"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Nemo me adiuvare potest"
+    ],
+    [
+      "TRANSLATION",
+      "eng:No one",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:43:23.127337Z": "TRANSLATION_DONE:eng"
+  }
+}

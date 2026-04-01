@@ -1,0 +1,35 @@
+{
+  "content": "Mien zeun was twaalf joar.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Mien"
+    ],
+    [
+      "PART",
+      "gos:zeun"
+    ],
+    [
+      "PART",
+      "gos:was"
+    ],
+    [
+      "PART",
+      "gos:twaalf"
+    ],
+    [
+      "PART",
+      "gos:joar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.404971Z": "SPLIT_DONE"
+  }
+}

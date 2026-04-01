@@ -1,0 +1,27 @@
+{
+  "content": "briller",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kan stadig læse uden briller"
+    ],
+    [
+      "TRANSLATION",
+      "eng:glasses;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gläser,",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:19.349425Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:19.492819Z": "TRANSLATION_DONE:deu"
+  }
+}

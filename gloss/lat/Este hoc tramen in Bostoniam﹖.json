@@ -1,0 +1,35 @@
+{
+  "content": "Este hoc tramen in Bostoniam?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Este"
+    ],
+    [
+      "PART",
+      "lat:hoc"
+    ],
+    [
+      "PART",
+      "lat:tramen"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:Bostoniam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.373064Z": "SPLIT_DONE"
+  }
+}

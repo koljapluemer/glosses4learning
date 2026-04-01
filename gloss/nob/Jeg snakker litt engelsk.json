@@ -1,0 +1,31 @@
+{
+  "content": "Jeg snakker litt engelsk.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ],
+    [
+      "PART",
+      "nob:litt"
+    ],
+    [
+      "PART",
+      "nob:engelsk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.248402Z": "SPLIT_DONE"
+  }
+}

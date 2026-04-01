@@ -1,0 +1,37 @@
+{
+  "content": "estar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que estar allí antes de las dos y media"
+    ],
+    [
+      "TRANSLATION",
+      "eng:be",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:werden",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бути",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente de hoy no puede estar sin sus autos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:51.063406Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:51.215961Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:51.237664Z": "TRANSLATION_DONE:ukr"
+  }
+}

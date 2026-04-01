@@ -1,0 +1,35 @@
+{
+  "content": "insana",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bizim senin gibi daha çok insana ihtiyacımız var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:man",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mann",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bizim daha çok yetenekli insana ihtiyacımız var"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bizim Tom gibi daha fazla insana ihtiyacımız var"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:32.492317Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:32.505542Z": "TRANSLATION_DONE:deu"
+  }
+}

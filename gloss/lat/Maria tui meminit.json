@@ -1,0 +1,27 @@
+{
+  "content": "Maria tui meminit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Maria"
+    ],
+    [
+      "PART",
+      "lat:tui"
+    ],
+    [
+      "PART",
+      "lat:meminit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.331597Z": "SPLIT_DONE"
+  }
+}

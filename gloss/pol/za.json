@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:14:41.896Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -27,6 +29,42 @@
     [
       "TRANSLATION",
       "eng:in exchange for"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Przepraszam za bałagan"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Przyjdę za minutę"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Rząd wysłał misję za granicę"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie jestem już za Toma odpowiedzialny"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jesteś aresztowany za utrudnianie pracy wymiaru sprawiedliwości"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom nigdy nie podróżował za granicą"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Fabuła tej powieści jest za trudna do zrozumienia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom jest za bardzo zmęczony żeby się uczyć"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Powiedz Tomowi, że nie mogę za niego wyjść"
     ]
   ]
 }

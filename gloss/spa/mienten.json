@@ -1,0 +1,33 @@
+{
+  "content": "mienten",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente honesta desprecia a aquellos que mienten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They're lying",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie lügen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони лежать",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:13.157699Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:13.201557Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:13.248936Z": "TRANSLATION_DONE:ukr"
+  }
+}

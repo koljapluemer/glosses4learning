@@ -1,0 +1,33 @@
+{
+  "content": "discit",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Maria in cubiculo suo discit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Et is linguam sinensem discit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Google Interpres linguam Latinam discit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Linguam Anglicam cotidie discit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:learns",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:04.199292Z": "TRANSLATION_DONE:eng"
+  }
+}

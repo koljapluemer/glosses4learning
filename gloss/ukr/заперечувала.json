@@ -1,0 +1,27 @@
+{
+  "content": "заперечувала",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не заперечувала проти того, щоб це зробити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yes, I did",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ja, habe ich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:57.966004Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:57.993552Z": "TRANSLATION_DONE:deu"
+  }
+}

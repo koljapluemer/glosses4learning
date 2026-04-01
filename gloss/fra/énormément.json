@@ -1,0 +1,27 @@
+{
+  "content": "énormément",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les Algériens pourraient bénéficier énormément de l'industrialisation de leur pays"
+    ],
+    [
+      "TRANSLATION",
+      "eng:a lot",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:viel",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:39.202682Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:39.216025Z": "TRANSLATION_DONE:deu"
+  }
+}

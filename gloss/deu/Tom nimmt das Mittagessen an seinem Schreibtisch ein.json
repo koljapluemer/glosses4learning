@@ -1,0 +1,47 @@
+{
+  "content": "Tom nimmt das Mittagessen an seinem Schreibtisch ein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:nimmt"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:Mittagessen"
+    ],
+    [
+      "PART",
+      "deu:an"
+    ],
+    [
+      "PART",
+      "deu:seinem"
+    ],
+    [
+      "PART",
+      "deu:Schreibtisch"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.808818Z": "SPLIT_DONE"
+  }
+}

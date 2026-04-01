@@ -1,0 +1,33 @@
+{
+  "content": "家族",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムの家族は私をかわいがってくれました。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私の家族はマレーシアからです。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Family",
+      "Auto-translated with argostranslate (ja→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムの家族は、私のことをとても気に入ってくれました。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムは自分の家族について、一切話さない。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:40.931150Z": "TRANSLATION_DONE:eng"
+  }
+}

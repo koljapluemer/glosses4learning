@@ -1,0 +1,41 @@
+{
+  "content": "Armbanduhr",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat die Armbanduhr seines Großvaters verpfändet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom sah immer wieder auf seine Armbanduhr"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wristwatch",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:шемале",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:손목 시계",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seiner Armbanduhr nach war es sieben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:13.617473Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:13.641970Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:13.664278Z": "TRANSLATION_DONE:kor"
+  }
+}

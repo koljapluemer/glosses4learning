@@ -1,0 +1,43 @@
+{
+  "content": "Omnes illae domus inter se similes sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Omnes"
+    ],
+    [
+      "PART",
+      "lat:illae"
+    ],
+    [
+      "PART",
+      "lat:domus"
+    ],
+    [
+      "PART",
+      "lat:inter"
+    ],
+    [
+      "PART",
+      "lat:se"
+    ],
+    [
+      "PART",
+      "lat:similes"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.362180Z": "SPLIT_DONE"
+  }
+}

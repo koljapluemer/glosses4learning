@@ -1,0 +1,43 @@
+{
+  "content": "Han medgav att han hade tagit mutor.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arahlen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:medgav"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:hade"
+    ],
+    [
+      "PART",
+      "swe:tagit"
+    ],
+    [
+      "PART",
+      "swe:mutor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.829813Z": "SPLIT_DONE"
+  }
+}

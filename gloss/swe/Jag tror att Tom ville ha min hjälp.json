@@ -1,0 +1,47 @@
+{
+  "content": "Jag tror att Tom ville ha min hjälp.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:tror"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:ville"
+    ],
+    [
+      "PART",
+      "swe:ha"
+    ],
+    [
+      "PART",
+      "swe:min"
+    ],
+    [
+      "PART",
+      "swe:hjälp"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.957501Z": "SPLIT_DONE"
+  }
+}

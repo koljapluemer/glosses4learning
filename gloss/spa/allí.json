@@ -1,0 +1,37 @@
+{
+  "content": "allí",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que estar allí antes de las dos y media"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella está allí atrás con algunos amigos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Da",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навігація",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:25.075168Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:25.075594Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:25.075894Z": "TRANSLATION_DONE:ukr"
+  }
+}

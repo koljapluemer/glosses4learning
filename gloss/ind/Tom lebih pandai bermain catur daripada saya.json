@@ -1,0 +1,43 @@
+{
+  "content": "Tom lebih pandai bermain catur daripada saya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dbahasa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:lebih"
+    ],
+    [
+      "PART",
+      "ind:pandai"
+    ],
+    [
+      "PART",
+      "ind:bermain"
+    ],
+    [
+      "PART",
+      "ind:catur"
+    ],
+    [
+      "PART",
+      "ind:daripada"
+    ],
+    [
+      "PART",
+      "ind:saya"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:26.956261Z": "SPLIT_DONE"
+  }
+}

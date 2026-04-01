@@ -1,0 +1,41 @@
+{
+  "content": "generalmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella generalmente está en casa los domingos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:generally",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:allgemein",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:в цілому",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas de cabello rojo generalmente tienen pecas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El divorcio generalmente es una ruptura dolorosa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:57.112837Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:57.128202Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:57.144782Z": "TRANSLATION_DONE:ukr"
+  }
+}

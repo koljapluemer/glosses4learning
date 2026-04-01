@@ -1,0 +1,31 @@
+{
+  "content": "我叫安娜。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xjjAstrus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:叫"
+    ],
+    [
+      "PART",
+      "cmn:安娜"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.617433Z": "SPLIT_DONE"
+  }
+}

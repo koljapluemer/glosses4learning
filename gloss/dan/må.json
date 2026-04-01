@@ -1,0 +1,31 @@
+{
+  "content": "må",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad der end sker, så må du ikke give op"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du må ikke komme for sent denne gang"
+    ],
+    [
+      "TRANSLATION",
+      "eng:au",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:au",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:01.992037Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:02.131628Z": "TRANSLATION_DONE:deu"
+  }
+}

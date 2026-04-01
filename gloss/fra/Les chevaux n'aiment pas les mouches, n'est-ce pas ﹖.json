@@ -1,0 +1,43 @@
+{
+  "content": "Les chevaux n'aiment pas les mouches, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pkill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:chevaux"
+    ],
+    [
+      "PART",
+      "fra:n'aiment"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:mouches"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.032921Z": "SPLIT_DONE"
+  }
+}

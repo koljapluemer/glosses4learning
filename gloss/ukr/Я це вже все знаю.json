@@ -1,0 +1,35 @@
+{
+  "content": "Я це вже все знаю.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:вже"
+    ],
+    [
+      "PART",
+      "ukr:все"
+    ],
+    [
+      "PART",
+      "ukr:знаю"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:59.003970Z": "SPLIT_DONE"
+  }
+}

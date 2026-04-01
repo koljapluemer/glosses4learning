@@ -1,0 +1,31 @@
+{
+  "content": "Moje pračka se rozbila.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zebrozebry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:pračka"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:rozbila"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.799066Z": "SPLIT_DONE"
+  }
+}

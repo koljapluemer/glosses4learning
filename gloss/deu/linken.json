@@ -12,7 +12,9 @@
     "2026-03-28T09:38:36.095863Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:38:36.915720Z": "TRANSLATION_DONE:kab",
     "2026-03-28T09:38:37.734949Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T09:38:38.656321Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T09:38:38.656321Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:09.104633Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:09.258295Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -94,6 +96,16 @@
     [
       "TRANSLATION",
       "tur:sola gitmek"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

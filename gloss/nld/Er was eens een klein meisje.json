@@ -1,0 +1,39 @@
+{
+  "content": "Er was eens een klein meisje.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Er"
+    ],
+    [
+      "PART",
+      "nld:was"
+    ],
+    [
+      "PART",
+      "nld:eens"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:klein"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.184380Z": "SPLIT_DONE"
+  }
+}

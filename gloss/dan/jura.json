@@ -1,0 +1,27 @@
+{
+  "content": "jura",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vidste du at Tom studerede jura﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:law",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Recht",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:31.029843Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:31.233122Z": "TRANSLATION_DONE:deu"
+  }
+}

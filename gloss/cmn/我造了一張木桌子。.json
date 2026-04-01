@@ -1,0 +1,39 @@
+{
+  "content": "我造了一張木桌子。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickyeow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我造"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:一"
+    ],
+    [
+      "PART",
+      "cmn:張木"
+    ],
+    [
+      "PART",
+      "cmn:桌子"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.618864Z": "SPLIT_DONE"
+  }
+}

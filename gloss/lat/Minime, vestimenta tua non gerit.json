@@ -1,0 +1,35 @@
+{
+  "content": "Minime, vestimenta tua non gerit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Minime"
+    ],
+    [
+      "PART",
+      "lat:vestimenta"
+    ],
+    [
+      "PART",
+      "lat:tua"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:gerit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.293541Z": "SPLIT_DONE"
+  }
+}

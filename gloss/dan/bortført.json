@@ -1,0 +1,27 @@
+{
+  "content": "bortført",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun siger, at rumvæsener havde bortført hende"
+    ],
+    [
+      "TRANSLATION",
+      "eng:abducted",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:entführt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:19.154496Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:19.307502Z": "TRANSLATION_DONE:deu"
+  }
+}

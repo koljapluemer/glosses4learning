@@ -1,0 +1,47 @@
+{
+  "content": "Der Weihnachtsmann hat auf Toms Brief nicht geantwortet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Der"
+    ],
+    [
+      "PART",
+      "deu:Weihnachtsmann"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:Toms"
+    ],
+    [
+      "PART",
+      "deu:Brief"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:geantwortet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.503865Z": "SPLIT_DONE"
+  }
+}

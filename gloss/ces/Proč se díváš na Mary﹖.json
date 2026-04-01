@@ -1,0 +1,35 @@
+{
+  "content": "Proč se díváš na Mary?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lovermann (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Proč"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:díváš"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.723027Z": "SPLIT_DONE"
+  }
+}

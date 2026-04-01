@@ -1,0 +1,35 @@
+{
+  "content": "Sie haben meine Frage beantwortet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Frage"
+    ],
+    [
+      "PART",
+      "deu:beantwortet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.431541Z": "SPLIT_DONE"
+  }
+}

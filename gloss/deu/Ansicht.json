@@ -1,0 +1,37 @@
+{
+  "content": "Ansicht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Ansicht unterscheidet von der Ihren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:View",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Переглянути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:(주)",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Ansicht unterscheidet sich von deiner"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:12.855518Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:12.878565Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:12.916258Z": "TRANSLATION_DONE:kor"
+  }
+}

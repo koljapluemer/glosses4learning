@@ -1,0 +1,27 @@
+{
+  "content": "denemesi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onun denemesi benimkinden daha iyidir"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Try",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Probieren",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:28.778328Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:28.793947Z": "TRANSLATION_DONE:deu"
+  }
+}

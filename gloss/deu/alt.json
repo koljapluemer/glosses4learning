@@ -8,7 +8,9 @@
     "2026-01-27T14:31:19.767502Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:16:50.274004Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:50.466453Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:16:50.635569Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:16:50.635569Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:37.192185Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:37.210145Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -82,6 +84,40 @@
     [
       "TRANSLATION",
       "tha:เก่า"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde diesen Oktober 30 Jahre alt sein"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:старі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tur:yaşlılar"
+    ],
+    [
+      "TRANSLATION",
+      "spa:antiguos"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eskidir"
+    ],
+    [
+      "TRANSLATION",
+      "tur:eskiye"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:старий"
     ]
   ]
 }

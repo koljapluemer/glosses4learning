@@ -1,0 +1,27 @@
+{
+  "content": "d'incroyable",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'est passé quelque chose d'incroyable ! Devine quoi !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of incredible",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:von unglaublich",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:32.883618Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:32.900039Z": "TRANSLATION_DONE:deu"
+  }
+}

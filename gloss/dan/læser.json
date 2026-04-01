@@ -1,0 +1,27 @@
+{
+  "content": "læser",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er sjældent at jeg læser franske bøger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reader",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lesegerät",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:34.099087Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:34.238913Z": "TRANSLATION_DONE:deu"
+  }
+}

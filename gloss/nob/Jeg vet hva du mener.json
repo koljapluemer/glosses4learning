@@ -1,0 +1,35 @@
+{
+  "content": "Jeg vet hva du mener.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:vet"
+    ],
+    [
+      "PART",
+      "nob:hva"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:mener"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.187629Z": "SPLIT_DONE"
+  }
+}

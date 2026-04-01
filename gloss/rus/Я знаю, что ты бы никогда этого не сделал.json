@@ -1,0 +1,51 @@
+{
+  "content": "Я знаю, что ты бы никогда этого не сделал.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:знаю"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:ты"
+    ],
+    [
+      "PART",
+      "rus:бы"
+    ],
+    [
+      "PART",
+      "rus:никогда"
+    ],
+    [
+      "PART",
+      "rus:этого"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:сделал"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.641676Z": "SPLIT_DONE"
+  }
+}

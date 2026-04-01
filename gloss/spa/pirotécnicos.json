@@ -1,0 +1,33 @@
+{
+  "content": "pirotécnicos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hoy por la noche hay un espectáculo de juegos pirotécnicos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pyrotechnics",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pyrotechnik",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:піротехніка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:23.786628Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:23.922771Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:23.947890Z": "TRANSLATION_DONE:ukr"
+  }
+}

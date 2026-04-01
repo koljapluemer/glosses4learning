@@ -1,0 +1,27 @@
+{
+  "content": "sandalyen",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin sandalyen benimki ile tamamen aynı"
+    ],
+    [
+      "TRANSLATION",
+      "eng:chair",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stuhl",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:49.958506Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:49.971356Z": "TRANSLATION_DONE:deu"
+  }
+}

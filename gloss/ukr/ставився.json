@@ -1,0 +1,27 @@
+{
+  "content": "ставився",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том ставився з неприязню як до Мері, так і до Джона"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I've been",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich war's",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:05.527794Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:05.540567Z": "TRANSLATION_DONE:deu"
+  }
+}

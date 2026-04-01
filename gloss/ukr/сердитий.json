@@ -1,0 +1,27 @@
+{
+  "content": "сердитий",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я бачу, що ви сердитий"
+    ],
+    [
+      "TRANSLATION",
+      "eng:angry",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wütend",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:11.238341Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:11.238724Z": "TRANSLATION_DONE:deu"
+  }
+}

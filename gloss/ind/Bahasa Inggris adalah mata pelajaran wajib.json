@@ -1,0 +1,39 @@
+{
+  "content": "Bahasa Inggris adalah mata pelajaran wajib.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Bahasa"
+    ],
+    [
+      "PART",
+      "ind:Inggris"
+    ],
+    [
+      "PART",
+      "ind:adalah"
+    ],
+    [
+      "PART",
+      "ind:mata"
+    ],
+    [
+      "PART",
+      "ind:pelajaran"
+    ],
+    [
+      "PART",
+      "ind:wajib"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.849940Z": "SPLIT_DONE"
+  }
+}

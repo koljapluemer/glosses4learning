@@ -1,0 +1,43 @@
+{
+  "content": "這個玻璃杯裡沒有任何的牛奶。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:這個"
+    ],
+    [
+      "PART",
+      "cmn:玻璃杯"
+    ],
+    [
+      "PART",
+      "cmn:裡沒有"
+    ],
+    [
+      "PART",
+      "cmn:任何"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:牛奶"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:16.814177Z": "SPLIT_DONE"
+  }
+}

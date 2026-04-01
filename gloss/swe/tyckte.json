@@ -1,0 +1,29 @@
+{
+  "content": "tyckte",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom tyckte om den idén"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag tyckte inte om henne alls"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thought",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag tyckte att den här filmen var väldigt intressant"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:05.090033Z": "TRANSLATION_DONE:eng"
+  }
+}

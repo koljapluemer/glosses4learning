@@ -1,0 +1,31 @@
+{
+  "content": "Neki boldog gyermekkora volt.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by urbi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Neki"
+    ],
+    [
+      "PART",
+      "hun:boldog"
+    ],
+    [
+      "PART",
+      "hun:gyermekkora"
+    ],
+    [
+      "PART",
+      "hun:volt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.892075Z": "SPLIT_DONE"
+  }
+}

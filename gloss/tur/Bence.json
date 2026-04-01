@@ -1,0 +1,27 @@
+{
+  "content": "Bence",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bence biraz daha fazla zamana ihtiyacımız var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Home",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:44.689488Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:44.703409Z": "TRANSLATION_DONE:deu"
+  }
+}

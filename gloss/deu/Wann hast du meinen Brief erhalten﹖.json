@@ -1,0 +1,39 @@
+{
+  "content": "Wann hast du meinen Brief erhalten?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wann"
+    ],
+    [
+      "PART",
+      "deu:hast"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Brief"
+    ],
+    [
+      "PART",
+      "deu:erhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.767856Z": "SPLIT_DONE"
+  }
+}

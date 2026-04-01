@@ -1,0 +1,31 @@
+{
+  "content": "mener",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kunne godt lide at vide hvad Tom egentlig mener"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom mener han har fundet Atlantis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mean",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittel",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:57.144542Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:57.283808Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "ترجمت ماريكا كتابي إلى الألمانية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ترجمت"
+    ],
+    [
+      "PART",
+      "ara:ماريكا"
+    ],
+    [
+      "PART",
+      "ara:كتابي"
+    ],
+    [
+      "PART",
+      "ara:إلى"
+    ],
+    [
+      "PART",
+      "ara:الألمانية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.731099Z": "SPLIT_DONE"
+  }
+}

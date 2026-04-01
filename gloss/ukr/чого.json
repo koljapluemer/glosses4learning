@@ -1,0 +1,27 @@
+{
+  "content": "чого",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я багато чого дізналася"
+    ],
+    [
+      "TRANSLATION",
+      "eng:why",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warum﹖",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:16.314984Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:16.332538Z": "TRANSLATION_DONE:deu"
+  }
+}

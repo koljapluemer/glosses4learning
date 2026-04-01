@@ -1,0 +1,43 @@
+{
+  "content": "Том сказав, що йому подобається викладати французьку.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Том"
+    ],
+    [
+      "PART",
+      "ukr:сказав"
+    ],
+    [
+      "PART",
+      "ukr:що"
+    ],
+    [
+      "PART",
+      "ukr:йому"
+    ],
+    [
+      "PART",
+      "ukr:подобається"
+    ],
+    [
+      "PART",
+      "ukr:викладати"
+    ],
+    [
+      "PART",
+      "ukr:французьку"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.973364Z": "SPLIT_DONE"
+  }
+}

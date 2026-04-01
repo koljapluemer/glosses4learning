@@ -1,0 +1,27 @@
+{
+  "content": "vin",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg drikker vin i weekenderne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wine",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wein",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:02.516558Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:02.659062Z": "TRANSLATION_DONE:deu"
+  }
+}

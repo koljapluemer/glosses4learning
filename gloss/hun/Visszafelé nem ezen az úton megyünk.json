@@ -1,0 +1,39 @@
+{
+  "content": "Visszafelé nem ezen az úton megyünk.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Visszafelé"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:ezen"
+    ],
+    [
+      "PART",
+      "hun:az"
+    ],
+    [
+      "PART",
+      "hun:úton"
+    ],
+    [
+      "PART",
+      "hun:megyünk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.586915Z": "SPLIT_DONE"
+  }
+}

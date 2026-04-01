@@ -1,0 +1,31 @@
+{
+  "content": "Varför öppnade ni dörren?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Varför"
+    ],
+    [
+      "PART",
+      "swe:öppnade"
+    ],
+    [
+      "PART",
+      "swe:ni"
+    ],
+    [
+      "PART",
+      "swe:dörren"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.832930Z": "SPLIT_DONE"
+  }
+}

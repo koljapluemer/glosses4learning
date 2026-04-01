@@ -1,0 +1,43 @@
+{
+  "content": "Io sono andato in una pizzeria italiana.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:andato"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:pizzeria"
+    ],
+    [
+      "PART",
+      "ita:italiana"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.816740Z": "SPLIT_DONE"
+  }
+}

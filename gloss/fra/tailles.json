@@ -1,0 +1,27 @@
+{
+  "content": "tailles",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ces tableaux sont de tailles différentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sizes",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Größen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:52.676839Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:52.822475Z": "TRANSLATION_DONE:deu"
+  }
+}

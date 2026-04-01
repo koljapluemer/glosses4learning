@@ -1,0 +1,27 @@
+{
+  "content": "parvenues",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:En dépit de leur efforts, elles n'y sont pas parvenues"
+    ],
+    [
+      "TRANSLATION",
+      "eng:received",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:empfangen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:42.948377Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:43.096351Z": "TRANSLATION_DONE:deu"
+  }
+}

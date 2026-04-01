@@ -1,0 +1,35 @@
+{
+  "content": "Mary houdt van romantische komedies.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Citrine (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mary"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:romantische"
+    ],
+    [
+      "PART",
+      "nld:komedies"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.163664Z": "SPLIT_DONE"
+  }
+}

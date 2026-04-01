@@ -1,0 +1,27 @@
+{
+  "content": "planım",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Benim planım sonunda kabul edildi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My plan",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mein Plan",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:37.106928Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:37.122830Z": "TRANSLATION_DONE:deu"
+  }
+}

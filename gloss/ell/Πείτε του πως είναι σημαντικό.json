@@ -1,0 +1,35 @@
+{
+  "content": "Πείτε του πως είναι σημαντικό.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Πείτε"
+    ],
+    [
+      "PART",
+      "ell:του"
+    ],
+    [
+      "PART",
+      "ell:πως"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:σημαντικό"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:09.559611Z": "SPLIT_DONE"
+  }
+}

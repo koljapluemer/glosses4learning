@@ -1,0 +1,43 @@
+{
+  "content": "Thomas habet domum quae duo cubicula continet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:habet"
+    ],
+    [
+      "PART",
+      "lat:domum"
+    ],
+    [
+      "PART",
+      "lat:quae"
+    ],
+    [
+      "PART",
+      "lat:duo"
+    ],
+    [
+      "PART",
+      "lat:cubicula"
+    ],
+    [
+      "PART",
+      "lat:continet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.311650Z": "SPLIT_DONE"
+  }
+}

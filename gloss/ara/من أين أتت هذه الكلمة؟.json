@@ -1,0 +1,35 @@
+{
+  "content": "من أين أتت هذه الكلمة؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:من"
+    ],
+    [
+      "PART",
+      "ara:أين"
+    ],
+    [
+      "PART",
+      "ara:أتت"
+    ],
+    [
+      "PART",
+      "ara:هذه"
+    ],
+    [
+      "PART",
+      "ara:الكلمة"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.710975Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "efternavn",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke huske hans efternavn"
+    ],
+    [
+      "TRANSLATION",
+      "eng:surname",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Name",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:04.216212Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:04.421844Z": "TRANSLATION_DONE:deu"
+  }
+}

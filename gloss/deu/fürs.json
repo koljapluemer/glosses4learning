@@ -1,0 +1,33 @@
+{
+  "content": "fürs",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hätte mir etwas fürs Mittagessen mitbringen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:for",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:для",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:27.873748Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:27.874058Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:27.874340Z": "TRANSLATION_DONE:kor"
+  }
+}

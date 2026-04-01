@@ -1,0 +1,27 @@
+{
+  "content": "şüphelendim",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben onun bir yalancı olduğundan şüphelendim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:suspected m",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verdächtigt m",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:45.485537Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:45.637227Z": "TRANSLATION_DONE:deu"
+  }
+}

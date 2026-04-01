@@ -1,0 +1,33 @@
+{
+  "content": "luna",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esta noche, la luna está excepcionalmente bella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Moon",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mond",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Місяці",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:09.176702Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:09.322352Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:09.477967Z": "TRANSLATION_DONE:ukr"
+  }
+}

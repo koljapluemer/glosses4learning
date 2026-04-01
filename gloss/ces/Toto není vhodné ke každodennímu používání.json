@@ -1,0 +1,39 @@
+{
+  "content": "Toto není vhodné ke každodennímu používání.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Toto"
+    ],
+    [
+      "PART",
+      "ces:není"
+    ],
+    [
+      "PART",
+      "ces:vhodné"
+    ],
+    [
+      "PART",
+      "ces:ke"
+    ],
+    [
+      "PART",
+      "ces:každodennímu"
+    ],
+    [
+      "PART",
+      "ces:používání"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.167006Z": "SPLIT_DONE"
+  }
+}

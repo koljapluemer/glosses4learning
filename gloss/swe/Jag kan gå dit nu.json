@@ -1,0 +1,35 @@
+{
+  "content": "Jag kan gå dit nu.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:gå"
+    ],
+    [
+      "PART",
+      "swe:dit"
+    ],
+    [
+      "PART",
+      "swe:nu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.807179Z": "SPLIT_DONE"
+  }
+}

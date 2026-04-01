@@ -1,0 +1,27 @@
+{
+  "content": "народження",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том не знає, що сьогодні у Мері день народження"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Birthday",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geburtstag",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:01.602936Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:01.616173Z": "TRANSLATION_DONE:deu"
+  }
+}

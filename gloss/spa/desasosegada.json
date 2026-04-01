@@ -1,0 +1,33 @@
+{
+  "content": "desasosegada",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tú has tenido una noche muy desasosegada"
+    ],
+    [
+      "TRANSLATION",
+      "eng:expressed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgedrückt in",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:виражений",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:41.233291Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:41.249167Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:41.264823Z": "TRANSLATION_DONE:ukr"
+  }
+}

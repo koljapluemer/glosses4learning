@@ -1,0 +1,35 @@
+{
+  "content": "hellere",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom sagde at han hellere ville blive"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Better",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Besser",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville hellere dø end gifte mig med dig!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville hellere dø end overgive mig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:31.333529Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:31.503906Z": "TRANSLATION_DONE:deu"
+  }
+}

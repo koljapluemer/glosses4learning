@@ -1,0 +1,37 @@
+{
+  "content": "conocimiento",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La imaginación es más importante que el conocimiento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:knowledge",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wissen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:знання",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella tenía conocimiento de su mirada"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:35.594401Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:35.747293Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:35.903232Z": "TRANSLATION_DONE:ukr"
+  }
+}

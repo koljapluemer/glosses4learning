@@ -1,0 +1,35 @@
+{
+  "content": "ذهبت ليلى مباشرة إلى حاسوبها.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ذهبت"
+    ],
+    [
+      "PART",
+      "ara:ليلى"
+    ],
+    [
+      "PART",
+      "ara:مباشرة"
+    ],
+    [
+      "PART",
+      "ara:إلى"
+    ],
+    [
+      "PART",
+      "ara:حاسوبها"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.572646Z": "SPLIT_DONE"
+  }
+}

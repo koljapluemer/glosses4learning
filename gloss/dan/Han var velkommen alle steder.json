@@ -1,0 +1,35 @@
+{
+  "content": "Han var velkommen alle steder.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sifhg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Han"
+    ],
+    [
+      "PART",
+      "dan:var"
+    ],
+    [
+      "PART",
+      "dan:velkommen"
+    ],
+    [
+      "PART",
+      "dan:alle"
+    ],
+    [
+      "PART",
+      "dan:steder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.794135Z": "SPLIT_DONE"
+  }
+}

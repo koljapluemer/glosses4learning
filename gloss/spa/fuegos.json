@@ -1,0 +1,33 @@
+{
+  "content": "fuegos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A algunos les parecen hermosos los fuegos artificiales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fires",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Feuer",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пожежі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:56.312512Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:56.328353Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:56.346701Z": "TRANSLATION_DONE:ukr"
+  }
+}

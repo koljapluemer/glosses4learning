@@ -1,0 +1,47 @@
+{
+  "content": "Ich habe Tom beim Verrücken seines Schreibtisches geholfen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:beim"
+    ],
+    [
+      "PART",
+      "deu:Verrücken"
+    ],
+    [
+      "PART",
+      "deu:seines"
+    ],
+    [
+      "PART",
+      "deu:Schreibtisches"
+    ],
+    [
+      "PART",
+      "deu:geholfen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.769650Z": "SPLIT_DONE"
+  }
+}

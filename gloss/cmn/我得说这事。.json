@@ -1,0 +1,35 @@
+{
+  "content": "我得说这事。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by verdastelo9604 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:得"
+    ],
+    [
+      "PART",
+      "cmn:说"
+    ],
+    [
+      "PART",
+      "cmn:这事"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.636864Z": "SPLIT_DONE"
+  }
+}

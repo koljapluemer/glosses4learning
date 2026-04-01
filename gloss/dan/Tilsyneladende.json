@@ -1,0 +1,27 @@
+{
+  "content": "Tilsyneladende",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tilsyneladende var Toms død et selvmord"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Apparently",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Offenbar",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:14.619452Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:14.702085Z": "TRANSLATION_DONE:deu"
+  }
+}

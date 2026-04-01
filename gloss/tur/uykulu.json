@@ -1,0 +1,27 @@
+{
+  "content": "uykulu",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kimsenin uykulu olmadığından eminim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sleeping",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlafen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:50.390456Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:50.403780Z": "TRANSLATION_DONE:deu"
+  }
+}

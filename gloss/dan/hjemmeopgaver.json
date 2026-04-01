@@ -1,0 +1,27 @@
+{
+  "content": "hjemmeopgaver",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvis bare jeg havde lavet mine hjemmeopgaver!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Home tasks",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Home Aufgaben",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:27.064907Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:27.254349Z": "TRANSLATION_DONE:deu"
+  }
+}

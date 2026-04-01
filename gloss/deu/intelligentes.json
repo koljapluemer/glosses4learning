@@ -1,0 +1,33 @@
+{
+  "content": "intelligentes",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sogar ein intelligentes Kind kann das nicht verstehen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:intelligent",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розумний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:59.946365Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:00.094407Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:00.123925Z": "TRANSLATION_DONE:kor"
+  }
+}

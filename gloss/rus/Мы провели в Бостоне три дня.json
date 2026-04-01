@@ -1,0 +1,39 @@
+{
+  "content": "Мы провели в Бостоне три дня.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:провели"
+    ],
+    [
+      "PART",
+      "rus:в"
+    ],
+    [
+      "PART",
+      "rus:Бостоне"
+    ],
+    [
+      "PART",
+      "rus:три"
+    ],
+    [
+      "PART",
+      "rus:дня"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.227869Z": "SPLIT_DONE"
+  }
+}

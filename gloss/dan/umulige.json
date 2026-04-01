@@ -1,0 +1,27 @@
+{
+  "content": "umulige",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har set Tom gøre det umulige"
+    ],
+    [
+      "TRANSLATION",
+      "eng:impossible",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:unmöglich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:53.764795Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:53.918782Z": "TRANSLATION_DONE:deu"
+  }
+}

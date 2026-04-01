@@ -1,0 +1,39 @@
+{
+  "content": "Tom nigdy nie podróżował za granicą.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by DaudCaprino (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nigdy"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:podróżował"
+    ],
+    [
+      "PART",
+      "pol:za"
+    ],
+    [
+      "PART",
+      "pol:granicą"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.273456Z": "SPLIT_DONE"
+  }
+}

@@ -9,7 +9,9 @@
     "2026-03-29T13:15:35.533252Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:35.693984Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:15:35.885823Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:15:36.058433Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:15:36.058433Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:20.351240Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:20.502888Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,20 @@
     [
       "TRANSLATION",
       "tur:Tat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er hat seinen Traum erfolgreich in die Tat umgesetzt"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зареєструватися",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

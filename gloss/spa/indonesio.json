@@ -1,0 +1,33 @@
+{
+  "content": "indonesio",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El malayo tiene muchas similitudes con el indonesio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Indonesian",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Indonesisch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Індонезійська",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.645182Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.664019Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.685332Z": "TRANSLATION_DONE:ukr"
+  }
+}

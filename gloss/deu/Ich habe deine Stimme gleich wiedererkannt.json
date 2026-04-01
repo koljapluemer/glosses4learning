@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe deine Stimme gleich wiedererkannt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Stimme"
+    ],
+    [
+      "PART",
+      "deu:gleich"
+    ],
+    [
+      "PART",
+      "deu:wiedererkannt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.318791Z": "SPLIT_DONE"
+  }
+}

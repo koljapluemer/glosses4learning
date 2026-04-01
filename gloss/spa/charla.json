@@ -2,8 +2,13 @@
   "content": "charla",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:52:33.129411Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:33.145640Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -13,6 +18,20 @@
     [
       "TRANSLATION",
       "eng:conversation"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están teniendo una charla"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gespräch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

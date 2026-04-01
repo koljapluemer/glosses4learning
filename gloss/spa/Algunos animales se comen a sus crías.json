@@ -1,0 +1,43 @@
+{
+  "content": "Algunos animales se comen a sus crías.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:se"
+    ],
+    [
+      "PART",
+      "spa:comen"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:sus"
+    ],
+    [
+      "PART",
+      "spa:crías"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.618865Z": "SPLIT_DONE"
+  }
+}

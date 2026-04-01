@@ -1,0 +1,33 @@
+{
+  "content": "Nachrichtenschreiben",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Großmutter ist im Nachrichtenschreiben schneller als du"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Message",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Новини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:56.796497Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:56.796867Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:56.798179Z": "TRANSLATION_DONE:kor"
+  }
+}

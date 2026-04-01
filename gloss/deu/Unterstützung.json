@@ -8,7 +8,9 @@
     "2026-01-27T14:30:39.008303Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:53.259274Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:53.439105Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:53.638492Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:53.638492Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:28.985739Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:29.131364Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -58,6 +60,32 @@
     [
       "TRANSLATION",
       "ita:assistenza"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hoffe, Sie werden seine Unterstützung erhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich hoffe, du wirst seine Unterstützung bekommen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich komme ohne seine Unterstützung nicht über die Runden"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Підтримка",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielen Dank im voraus für deine Unterstützung!"
     ]
   ]
 }

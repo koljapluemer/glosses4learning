@@ -10,7 +10,8 @@
     "2026-03-29T14:22:33.914139Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:34.138406Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:34.321100Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:34.527119Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:34.527119Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:33.215711Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,15 @@
     [
       "TRANSLATION",
       "tur:çikolata"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me gustan los helados con cobertura de chocolate"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Шоколад",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

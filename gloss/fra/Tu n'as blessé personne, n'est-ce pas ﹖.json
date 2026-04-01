@@ -1,0 +1,39 @@
+{
+  "content": "Tu n'as blessé personne, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tu"
+    ],
+    [
+      "PART",
+      "fra:n'as"
+    ],
+    [
+      "PART",
+      "fra:blessé"
+    ],
+    [
+      "PART",
+      "fra:personne"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.024994Z": "SPLIT_DONE"
+  }
+}

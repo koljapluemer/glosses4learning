@@ -1,0 +1,33 @@
+{
+  "content": "defectos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella tenía por lo menos cuatro defectos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:defects",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mängel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дефекти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:40.710412Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:40.725164Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:40.743313Z": "TRANSLATION_DONE:ukr"
+  }
+}

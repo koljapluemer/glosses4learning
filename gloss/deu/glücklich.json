@@ -9,7 +9,9 @@
     "2026-03-29T13:19:52.242068Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:52.401755Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:19:52.580623Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:19:52.757571Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:19:52.757571Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:47.048018Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:47.077772Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -63,6 +65,32 @@
     [
       "TRANSLATION",
       "spa:feliz"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir sind sehr glücklich, dass Tom wieder bei uns ist"
+    ],
+    [
+      "TRANSLATION",
+      "dan:gladere"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:З повагою",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:contentos"
+    ],
+    [
+      "TRANSLATION",
+      "tur:memnunum"
     ]
   ]
 }

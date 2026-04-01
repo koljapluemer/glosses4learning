@@ -1,0 +1,29 @@
+{
+  "content": "esset",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin Thomas laetus esset"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin Thomas negotiosus esset"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas ubi esset autocinetum suum scivit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:would be",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:11.441917Z": "TRANSLATION_DONE:eng"
+  }
+}

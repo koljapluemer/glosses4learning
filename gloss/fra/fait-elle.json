@@ -1,0 +1,27 @@
+{
+  "content": "fait-elle",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:À quelle direction votre maison fait-elle face ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Does she",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hat sie",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:25.198163Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:25.342944Z": "TRANSLATION_DONE:deu"
+  }
+}

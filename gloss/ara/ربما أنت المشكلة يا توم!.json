@@ -1,0 +1,35 @@
+{
+  "content": "ربما أنت المشكلة يا توم!",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mavimsi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ربما"
+    ],
+    [
+      "PART",
+      "ara:أنت"
+    ],
+    [
+      "PART",
+      "ara:المشكلة"
+    ],
+    [
+      "PART",
+      "ara:يا"
+    ],
+    [
+      "PART",
+      "ara:توم"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.574707Z": "SPLIT_DONE"
+  }
+}

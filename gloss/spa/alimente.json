@@ -1,0 +1,33 @@
+{
+  "content": "alimente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No alimente a los animales, por favor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:food",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lebensmittel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:харчування",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.968695Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.983053Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.997906Z": "TRANSLATION_DONE:ukr"
+  }
+}

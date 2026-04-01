@@ -1,0 +1,33 @@
+{
+  "content": "durcheinandergekommen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin beim Zählen schon wieder durcheinandergekommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ensemble",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ансамбль",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:센스블",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:01.051573Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:01.201513Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:01.220892Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Zeg tegen Tom dat hij het moet houden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by purple_ice (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zeg"
+    ],
+    [
+      "PART",
+      "nld:tegen"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:hij"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:moet"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.050911Z": "SPLIT_DONE"
+  }
+}

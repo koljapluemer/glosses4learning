@@ -1,0 +1,33 @@
+{
+  "content": "Kommenden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kommenden Mittwoch werde ich im Ausland sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Coming",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Складання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:29.788349Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:29.934789Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:29.967393Z": "TRANSLATION_DONE:kor"
+  }
+}

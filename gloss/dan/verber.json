@@ -1,0 +1,27 @@
+{
+  "content": "verber",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke lide at lære uregelmæssige verber"
+    ],
+    [
+      "TRANSLATION",
+      "eng:verbs",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verben",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:59.341845Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:59.488091Z": "TRANSLATION_DONE:deu"
+  }
+}

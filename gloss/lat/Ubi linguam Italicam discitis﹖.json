@@ -1,0 +1,31 @@
+{
+  "content": "Ubi linguam Italicam discitis?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ubi"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Italicam"
+    ],
+    [
+      "PART",
+      "lat:discitis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.357858Z": "SPLIT_DONE"
+  }
+}

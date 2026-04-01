@@ -1,0 +1,43 @@
+{
+  "content": "Skulle ni vilja ha en till öl?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Skulle"
+    ],
+    [
+      "PART",
+      "swe:ni"
+    ],
+    [
+      "PART",
+      "swe:vilja"
+    ],
+    [
+      "PART",
+      "swe:ha"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:öl"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.830965Z": "SPLIT_DONE"
+  }
+}

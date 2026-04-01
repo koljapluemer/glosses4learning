@@ -1,0 +1,27 @@
+{
+  "content": "fødevarer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvilke fødevarer kan du ikke lide﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:food",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lebensmittel",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:19.139188Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:19.331530Z": "TRANSLATION_DONE:deu"
+  }
+}

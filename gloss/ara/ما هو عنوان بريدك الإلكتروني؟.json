@@ -1,0 +1,35 @@
+{
+  "content": "ما هو عنوان بريدك الإلكتروني؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by atitarev (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ما"
+    ],
+    [
+      "PART",
+      "ara:هو"
+    ],
+    [
+      "PART",
+      "ara:عنوان"
+    ],
+    [
+      "PART",
+      "ara:بريدك"
+    ],
+    [
+      "PART",
+      "ara:الإلكتروني"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:19.017678Z": "SPLIT_DONE"
+  }
+}

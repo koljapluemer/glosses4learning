@@ -1,0 +1,39 @@
+{
+  "content": "Kendiniz herhangi bir programlama yapıyor musunuz?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Kendiniz"
+    ],
+    [
+      "PART",
+      "tur:herhangi"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:programlama"
+    ],
+    [
+      "PART",
+      "tur:yapıyor"
+    ],
+    [
+      "PART",
+      "tur:musunuz"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.576517Z": "SPLIT_DONE"
+  }
+}

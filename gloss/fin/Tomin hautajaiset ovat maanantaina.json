@@ -1,0 +1,31 @@
+{
+  "content": "Tomin hautajaiset ovat maanantaina.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tomin"
+    ],
+    [
+      "PART",
+      "fin:hautajaiset"
+    ],
+    [
+      "PART",
+      "fin:ovat"
+    ],
+    [
+      "PART",
+      "fin:maanantaina"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.008527Z": "SPLIT_DONE"
+  }
+}

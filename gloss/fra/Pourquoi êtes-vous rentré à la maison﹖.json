@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi êtes-vous rentré à la maison?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tras (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:rentré"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.352084Z": "SPLIT_DONE"
+  }
+}

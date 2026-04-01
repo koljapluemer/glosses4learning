@@ -1,0 +1,43 @@
+{
+  "content": "Tom ville att jag skulle besöka honom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:ville"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:jag"
+    ],
+    [
+      "PART",
+      "swe:skulle"
+    ],
+    [
+      "PART",
+      "swe:besöka"
+    ],
+    [
+      "PART",
+      "swe:honom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.007117Z": "SPLIT_DONE"
+  }
+}

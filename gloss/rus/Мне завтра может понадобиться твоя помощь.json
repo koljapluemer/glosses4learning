@@ -1,0 +1,39 @@
+{
+  "content": "Мне завтра может понадобиться твоя помощь.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:завтра"
+    ],
+    [
+      "PART",
+      "rus:может"
+    ],
+    [
+      "PART",
+      "rus:понадобиться"
+    ],
+    [
+      "PART",
+      "rus:твоя"
+    ],
+    [
+      "PART",
+      "rus:помощь"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.629673Z": "SPLIT_DONE"
+  }
+}

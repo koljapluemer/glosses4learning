@@ -1,0 +1,43 @@
+{
+  "content": "Tom har skudt sig selv i hovedet.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:skudt"
+    ],
+    [
+      "PART",
+      "dan:sig"
+    ],
+    [
+      "PART",
+      "dan:selv"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:hovedet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.665814Z": "SPLIT_DONE"
+  }
+}

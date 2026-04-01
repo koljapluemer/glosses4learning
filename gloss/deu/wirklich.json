@@ -8,7 +8,9 @@
     "2026-01-27T14:37:25.682372Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:24:05.686158Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:05.873114Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:24:06.071399Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:24:06.071399Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:44.963880Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:44.980231Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -110,6 +112,36 @@
     [
       "TRANSLATION",
       "ita:veramente"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie schon einmal jemanden wirklich geliebt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich glaube wirklich, wir sollten uns mal unterhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin wirklich froh, dass du vorbeigekommen bist"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дуже",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:realmente"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr schon einmal jemanden wirklich geliebt﹖"
     ]
   ]
 }

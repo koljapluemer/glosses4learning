@@ -1,0 +1,35 @@
+{
+  "content": "Ben burada kimsenin olmadığını söyledim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ekran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Ben"
+    ],
+    [
+      "PART",
+      "tur:burada"
+    ],
+    [
+      "PART",
+      "tur:kimsenin"
+    ],
+    [
+      "PART",
+      "tur:olmadığını"
+    ],
+    [
+      "PART",
+      "tur:söyledim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.308844Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "camello",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni está bebiendo leche de camello"
+    ],
+    [
+      "TRANSLATION",
+      "eng:camel",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kamel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Український",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:31.170331Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:31.186148Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:31.202277Z": "TRANSLATION_DONE:ukr"
+  }
+}

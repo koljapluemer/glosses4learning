@@ -1,0 +1,31 @@
+{
+  "content": "Is dien koezendokter stikzaind?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Is"
+    ],
+    [
+      "PART",
+      "gos:dien"
+    ],
+    [
+      "PART",
+      "gos:koezendokter"
+    ],
+    [
+      "PART",
+      "gos:stikzaind"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.352352Z": "SPLIT_DONE"
+  }
+}

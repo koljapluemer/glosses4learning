@@ -1,0 +1,31 @@
+{
+  "content": "d'avoir",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi que ce n'est pas en train d'avoir lieu !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to have",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ils ont l'air d'avoir sommeil, n'est-ce pas﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:19.107239Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:19.283906Z": "TRANSLATION_DONE:deu"
+  }
+}

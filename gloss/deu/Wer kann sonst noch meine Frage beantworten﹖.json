@@ -1,0 +1,43 @@
+{
+  "content": "Wer kann sonst noch meine Frage beantworten?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wer"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:sonst"
+    ],
+    [
+      "PART",
+      "deu:noch"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Frage"
+    ],
+    [
+      "PART",
+      "deu:beantworten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.486360Z": "SPLIT_DONE"
+  }
+}

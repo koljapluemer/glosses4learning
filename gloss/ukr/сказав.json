@@ -1,0 +1,31 @@
+{
+  "content": "сказав",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цікаво, як так вийшло, що ніхто мені не сказав"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том сказав, що йому подобається викладати французьку"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Said",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte﹕",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:05.030010Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:05.048178Z": "TRANSLATION_DONE:deu"
+  }
+}

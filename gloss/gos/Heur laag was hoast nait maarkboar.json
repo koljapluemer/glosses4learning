@@ -1,0 +1,39 @@
+{
+  "content": "Heur laag was hoast nait maarkboar.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Heur"
+    ],
+    [
+      "PART",
+      "gos:laag"
+    ],
+    [
+      "PART",
+      "gos:was"
+    ],
+    [
+      "PART",
+      "gos:hoast"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ],
+    [
+      "PART",
+      "gos:maarkboar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.679459Z": "SPLIT_DONE"
+  }
+}

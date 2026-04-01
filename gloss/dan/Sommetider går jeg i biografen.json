@@ -1,0 +1,35 @@
+{
+  "content": "Sommetider går jeg i biografen.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Sommetider"
+    ],
+    [
+      "PART",
+      "dan:går"
+    ],
+    [
+      "PART",
+      "dan:jeg"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:biografen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.800223Z": "SPLIT_DONE"
+  }
+}

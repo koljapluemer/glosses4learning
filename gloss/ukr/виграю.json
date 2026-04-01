@@ -1,0 +1,27 @@
+{
+  "content": "виграю",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том знає, що я майже ніколи не виграю"
+    ],
+    [
+      "TRANSLATION",
+      "eng:win",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gewinnen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.887256Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.900493Z": "TRANSLATION_DONE:deu"
+  }
+}

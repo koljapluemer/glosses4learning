@@ -1,0 +1,47 @@
+{
+  "content": "Mijn vader werd gisteren opgenomen in het ziekenhuis.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rose_d (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mijn"
+    ],
+    [
+      "PART",
+      "nld:vader"
+    ],
+    [
+      "PART",
+      "nld:werd"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:opgenomen"
+    ],
+    [
+      "PART",
+      "nld:in"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:ziekenhuis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.026406Z": "SPLIT_DONE"
+  }
+}

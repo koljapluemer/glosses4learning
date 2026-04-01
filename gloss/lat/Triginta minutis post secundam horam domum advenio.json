@@ -1,0 +1,43 @@
+{
+  "content": "Triginta minutis post secundam horam domum advenio.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Triginta"
+    ],
+    [
+      "PART",
+      "lat:minutis"
+    ],
+    [
+      "PART",
+      "lat:post"
+    ],
+    [
+      "PART",
+      "lat:secundam"
+    ],
+    [
+      "PART",
+      "lat:horam"
+    ],
+    [
+      "PART",
+      "lat:domum"
+    ],
+    [
+      "PART",
+      "lat:advenio"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.298103Z": "SPLIT_DONE"
+  }
+}

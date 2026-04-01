@@ -1,0 +1,33 @@
+{
+  "content": "considera",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de la gente considera que el asesinato es malo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:considers",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erwägungen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розгляд",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.103498Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.123317Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.172448Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Sie haben meinen Brief völlig missverstanden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Brief"
+    ],
+    [
+      "PART",
+      "deu:völlig"
+    ],
+    [
+      "PART",
+      "deu:missverstanden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.334306Z": "SPLIT_DONE"
+  }
+}

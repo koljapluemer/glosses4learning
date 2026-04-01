@@ -1,0 +1,33 @@
+{
+  "content": "idiotizado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos tienen al pueblo convenientemente idiotizado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:idiotised",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Idioten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ідиотований",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.213483Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.361476Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.380900Z": "TRANSLATION_DONE:ukr"
+  }
+}

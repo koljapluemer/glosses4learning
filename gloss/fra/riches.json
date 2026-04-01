@@ -1,0 +1,27 @@
+{
+  "content": "riches",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Suite aux émeutes, les actes de pillage dans les quartiers riches se sont multipliés"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rich",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:reich",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:49.110682Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:49.264781Z": "TRANSLATION_DONE:deu"
+  }
+}

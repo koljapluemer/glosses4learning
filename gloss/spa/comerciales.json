@@ -1,0 +1,37 @@
+{
+  "content": "comerciales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los comerciales tienen que ir bien vestidos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los centros comerciales son populares entre los adolescentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:commercial",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Waren",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:комерційні",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:00.374821Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:00.389016Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:00.407938Z": "TRANSLATION_DONE:ukr"
+  }
+}

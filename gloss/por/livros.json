@@ -1,0 +1,21 @@
+{
+  "content": "livros",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "por:Esse é um dos meus livros favoritos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:books",
+      "Auto-translated with argostranslate (pt→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:48.739531Z": "TRANSLATION_DONE:eng"
+  }
+}

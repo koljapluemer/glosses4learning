@@ -4,9 +4,13 @@
   "transcriptions": {},
   "logs": {
     "2025-12-16T11:44:40.609Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
-    "2025-12-16T11:46:06.606Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T11:46:06.606Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:53:38.113120Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:38.132663Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +28,32 @@
     [
       "TRANSLATION",
       "eng:to possess"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los amigos que tengo son los mejores que uno puede tener"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La felicidad no consiste en tener solamente bienes materiales"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los adolescentes siempre parecen tener hambre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas de pelo rojo suelen tener pecas"
     ]
   ]
 }

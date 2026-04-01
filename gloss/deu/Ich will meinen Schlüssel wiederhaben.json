@@ -1,0 +1,35 @@
+{
+  "content": "Ich will meinen Schlüssel wiederhaben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:will"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Schlüssel"
+    ],
+    [
+      "PART",
+      "deu:wiederhaben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.532246Z": "SPLIT_DONE"
+  }
+}

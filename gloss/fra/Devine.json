@@ -1,0 +1,27 @@
+{
+  "content": "Devine",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'est passé quelque chose d'incroyable ! Devine quoi !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Guess",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rate mal",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:30.304887Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:30.321790Z": "TRANSLATION_DONE:deu"
+  }
+}

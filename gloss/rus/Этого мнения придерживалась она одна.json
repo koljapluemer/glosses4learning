@@ -1,0 +1,35 @@
+{
+  "content": "Этого мнения придерживалась она одна.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Wezel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Этого"
+    ],
+    [
+      "PART",
+      "rus:мнения"
+    ],
+    [
+      "PART",
+      "rus:придерживалась"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:одна"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.275776Z": "SPLIT_DONE"
+  }
+}

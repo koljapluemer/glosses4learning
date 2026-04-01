@@ -1,0 +1,33 @@
+{
+  "content": "convenientemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos tienen al pueblo convenientemente idiotizado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:conveniently",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bequem",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зручно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.696028Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.709636Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.725705Z": "TRANSLATION_DONE:ukr"
+  }
+}

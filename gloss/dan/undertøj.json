@@ -1,0 +1,27 @@
+{
+  "content": "undertøj",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom går uden undertøj i dag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:underwear",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unterwäsche",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:54.390642Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:54.622552Z": "TRANSLATION_DONE:deu"
+  }
+}

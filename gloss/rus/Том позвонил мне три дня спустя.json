@@ -1,0 +1,39 @@
+{
+  "content": "Том позвонил мне три дня спустя.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:три"
+    ],
+    [
+      "PART",
+      "rus:дня"
+    ],
+    [
+      "PART",
+      "rus:спустя"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.587435Z": "SPLIT_DONE"
+  }
+}

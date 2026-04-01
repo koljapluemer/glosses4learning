@@ -1,0 +1,27 @@
+{
+  "content": "n'attende",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il se peut qu'elle n'attende pas plus longtemps"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wait",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warte!",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:36.280872Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:36.297138Z": "TRANSLATION_DONE:deu"
+  }
+}

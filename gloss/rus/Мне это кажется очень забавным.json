@@ -1,0 +1,35 @@
+{
+  "content": "Мне это кажется очень забавным.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:кажется"
+    ],
+    [
+      "PART",
+      "rus:очень"
+    ],
+    [
+      "PART",
+      "rus:забавным"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.275440Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Me gusta más la música que los deportes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by don_ramon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:gusta"
+    ],
+    [
+      "PART",
+      "spa:más"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:música"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:deportes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.685910Z": "SPLIT_DONE"
+  }
+}

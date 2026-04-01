@@ -1,0 +1,35 @@
+{
+  "content": "Waarom ben je niet thuis?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SunnyMoon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarom"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:thuis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.160008Z": "SPLIT_DONE"
+  }
+}

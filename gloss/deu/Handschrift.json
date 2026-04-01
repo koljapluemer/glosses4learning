@@ -1,0 +1,33 @@
+{
+  "content": "Handschrift",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Deine Handschrift sieht wie die deines Vaters aus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Handwriting",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Редакція",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사 소개",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:55.127036Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:55.147100Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:55.163392Z": "TRANSLATION_DONE:kor"
+  }
+}

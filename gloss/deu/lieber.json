@@ -9,7 +9,9 @@
     "2026-03-29T13:21:11.447542Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:11.610491Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:21:11.788589Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:21:11.960790Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:21:11.960790Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:08.783135Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:08.802802Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,24 @@
     [
       "TRANSLATION",
       "tur:sevgili"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest lieber sehr vorsichtig sein"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дорогі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich möchte dazu lieber keinen Kommentar abgeben"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Kinnen joe ook Fraans spreken?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Kinnen"
+    ],
+    [
+      "PART",
+      "gos:joe"
+    ],
+    [
+      "PART",
+      "gos:ook"
+    ],
+    [
+      "PART",
+      "gos:Fraans"
+    ],
+    [
+      "PART",
+      "gos:spreken"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.657842Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Waarom houdt iedereen van katten?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarom"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:iedereen"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:katten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.112574Z": "SPLIT_DONE"
+  }
+}

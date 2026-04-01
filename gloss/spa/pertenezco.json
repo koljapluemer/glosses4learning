@@ -1,0 +1,33 @@
+{
+  "content": "pertenezco",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo no les pertenezco a ellos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I belong",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich gehöre",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я маю",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.716685Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.732870Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:12.751178Z": "TRANSLATION_DONE:ukr"
+  }
+}

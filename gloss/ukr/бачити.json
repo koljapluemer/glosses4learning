@@ -1,0 +1,27 @@
+{
+  "content": "бачити",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том хотів бачити Мері"
+    ],
+    [
+      "TRANSLATION",
+      "eng:see",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:siehe",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:51.971960Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:51.986337Z": "TRANSLATION_DONE:deu"
+  }
+}

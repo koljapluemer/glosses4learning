@@ -9,7 +9,9 @@
     "2026-03-29T13:24:11.771473Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:11.979460Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:24:12.148964Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:24:12.320896Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:24:12.320896Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:45.699633Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:45.713526Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:harika"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дивний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

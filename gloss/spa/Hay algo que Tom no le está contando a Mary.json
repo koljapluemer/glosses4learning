@@ -1,0 +1,55 @@
+{
+  "content": "Hay algo que Tom no le está contando a Mary.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lena17 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Hay"
+    ],
+    [
+      "PART",
+      "spa:algo"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:le"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:contando"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.691890Z": "SPLIT_DONE"
+  }
+}

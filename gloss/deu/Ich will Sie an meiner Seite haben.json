@@ -1,0 +1,43 @@
+{
+  "content": "Ich will Sie an meiner Seite haben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:will"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:an"
+    ],
+    [
+      "PART",
+      "deu:meiner"
+    ],
+    [
+      "PART",
+      "deu:Seite"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.368685Z": "SPLIT_DONE"
+  }
+}

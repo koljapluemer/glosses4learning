@@ -1,0 +1,35 @@
+{
+  "content": "Bugün neredeyse kimsenin yüzü gülmüyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dursun (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Bugün"
+    ],
+    [
+      "PART",
+      "tur:neredeyse"
+    ],
+    [
+      "PART",
+      "tur:kimsenin"
+    ],
+    [
+      "PART",
+      "tur:yüzü"
+    ],
+    [
+      "PART",
+      "tur:gülmüyor"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.544305Z": "SPLIT_DONE"
+  }
+}

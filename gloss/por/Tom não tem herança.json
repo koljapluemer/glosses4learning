@@ -1,0 +1,31 @@
+{
+  "content": "Tom não tem herança.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ajdavidl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:não"
+    ],
+    [
+      "PART",
+      "por:tem"
+    ],
+    [
+      "PART",
+      "por:herança"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.558543Z": "SPLIT_DONE"
+  }
+}

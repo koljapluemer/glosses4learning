@@ -1,0 +1,33 @@
+{
+  "content": "débiles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las mujeres son físicamente más débiles que los hombres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:weak",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schwach",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:слабкий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:44.292852Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:44.439056Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:44.457163Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Tom potřebuje nějaký čas na to, aby se zotavil.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:potřebuje"
+    ],
+    [
+      "PART",
+      "ces:nějaký"
+    ],
+    [
+      "PART",
+      "ces:čas"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:to"
+    ],
+    [
+      "PART",
+      "ces:aby"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:zotavil"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.560806Z": "SPLIT_DONE"
+  }
+}

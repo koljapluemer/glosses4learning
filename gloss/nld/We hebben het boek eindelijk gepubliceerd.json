@@ -1,0 +1,39 @@
+{
+  "content": "We hebben het boek eindelijk gepubliceerd.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:We"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:boek"
+    ],
+    [
+      "PART",
+      "nld:eindelijk"
+    ],
+    [
+      "PART",
+      "nld:gepubliceerd"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.139120Z": "SPLIT_DONE"
+  }
+}

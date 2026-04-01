@@ -1,0 +1,35 @@
+{
+  "content": "Egy nem létező valamit néz.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bagonyi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Egy"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:létező"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ],
+    [
+      "PART",
+      "hun:néz"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.596895Z": "SPLIT_DONE"
+  }
+}

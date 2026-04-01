@@ -1,0 +1,35 @@
+{
+  "content": "завтра",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Повертайся завтра"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tomorrow",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Morgen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:І що мені робити завтра в такому випадку﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми повинні їхати завтра, якщо буде хороша погода"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.467573Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.483187Z": "TRANSLATION_DONE:deu"
+  }
+}

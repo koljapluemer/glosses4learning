@@ -1,0 +1,47 @@
+{
+  "content": "Ich bin zu müde, um mich damit auseinanderzusetzen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:müde"
+    ],
+    [
+      "PART",
+      "deu:um"
+    ],
+    [
+      "PART",
+      "deu:mich"
+    ],
+    [
+      "PART",
+      "deu:damit"
+    ],
+    [
+      "PART",
+      "deu:auseinanderzusetzen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.845186Z": "SPLIT_DONE"
+  }
+}

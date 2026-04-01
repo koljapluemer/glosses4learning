@@ -1,0 +1,39 @@
+{
+  "content": "Oleg siempre contestaba las preguntas rápidamente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Oleg"
+    ],
+    [
+      "PART",
+      "spa:siempre"
+    ],
+    [
+      "PART",
+      "spa:contestaba"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:preguntas"
+    ],
+    [
+      "PART",
+      "spa:rápidamente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.635297Z": "SPLIT_DONE"
+  }
+}

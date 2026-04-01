@@ -1,0 +1,31 @@
+{
+  "content": "Halljuk, mi a mentséged?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Halljuk"
+    ],
+    [
+      "PART",
+      "hun:mi"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:mentséged"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.885681Z": "SPLIT_DONE"
+  }
+}

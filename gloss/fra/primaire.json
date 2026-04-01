@@ -1,0 +1,27 @@
+{
+  "content": "primaire",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ils sont devenus amis à l'école primaire"
+    ],
+    [
+      "TRANSLATION",
+      "eng:primary",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Primär",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:46.164103Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:46.312999Z": "TRANSLATION_DONE:deu"
+  }
+}

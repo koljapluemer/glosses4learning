@@ -1,0 +1,47 @@
+{
+  "content": "Taubstumme unterhalten sich, indem sie die Zeichensprache verwenden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Taubstumme"
+    ],
+    [
+      "PART",
+      "deu:unterhalten"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:indem"
+    ],
+    [
+      "PART",
+      "deu:sie"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Zeichensprache"
+    ],
+    [
+      "PART",
+      "deu:verwenden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.807828Z": "SPLIT_DONE"
+  }
+}

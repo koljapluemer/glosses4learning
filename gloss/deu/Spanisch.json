@@ -8,7 +8,9 @@
     "2026-01-27T14:30:15.646682Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:23.856310Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:24.035156Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:24.217442Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:24.217442Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:14.869274Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:15.022835Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -38,6 +40,20 @@
     [
       "TRANSLATION",
       "rus:Испанский"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Іспанська",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:담당자﹕ Ms",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:castellano"
     ]
   ]
 }

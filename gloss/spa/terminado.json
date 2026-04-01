@@ -2,12 +2,31 @@
   "content": "terminado",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:53:39.192184Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:39.214361Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:finished"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos deben haber terminado su trabajo temprano"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fertig",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Оздоблений",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

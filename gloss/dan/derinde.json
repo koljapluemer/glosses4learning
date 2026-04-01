@@ -1,0 +1,27 @@
+{
+  "content": "derinde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ved, du er derinde et sted"
+    ],
+    [
+      "TRANSLATION",
+      "eng:In there",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Da drin",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:58.590163Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:58.732706Z": "TRANSLATION_DONE:deu"
+  }
+}

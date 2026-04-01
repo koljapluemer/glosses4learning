@@ -1,0 +1,47 @@
+{
+  "content": "Tom suele comer fuera de casa los lunes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SeaLiteral (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:suele"
+    ],
+    [
+      "PART",
+      "spa:comer"
+    ],
+    [
+      "PART",
+      "spa:fuera"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:casa"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:lunes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.747924Z": "SPLIT_DONE"
+  }
+}

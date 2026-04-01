@@ -1,0 +1,39 @@
+{
+  "content": "Niemand kann mir etwas anderes einreden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yorwba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Niemand"
+    ],
+    [
+      "PART",
+      "deu:kann"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:anderes"
+    ],
+    [
+      "PART",
+      "deu:einreden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.234591Z": "SPLIT_DONE"
+  }
+}

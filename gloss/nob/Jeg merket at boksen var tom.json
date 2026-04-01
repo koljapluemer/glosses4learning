@@ -1,0 +1,39 @@
+{
+  "content": "Jeg merket at boksen var tom.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:merket"
+    ],
+    [
+      "PART",
+      "nob:at"
+    ],
+    [
+      "PART",
+      "nob:boksen"
+    ],
+    [
+      "PART",
+      "nob:var"
+    ],
+    [
+      "PART",
+      "nob:tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.258276Z": "SPLIT_DONE"
+  }
+}

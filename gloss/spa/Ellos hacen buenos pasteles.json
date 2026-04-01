@@ -1,0 +1,31 @@
+{
+  "content": "Ellos hacen buenos pasteles.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:hacen"
+    ],
+    [
+      "PART",
+      "spa:buenos"
+    ],
+    [
+      "PART",
+      "spa:pasteles"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.595752Z": "SPLIT_DONE"
+  }
+}

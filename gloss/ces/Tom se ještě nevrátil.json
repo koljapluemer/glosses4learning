@@ -1,0 +1,31 @@
+{
+  "content": "Tom se ještě nevrátil.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:ještě"
+    ],
+    [
+      "PART",
+      "ces:nevrátil"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.757299Z": "SPLIT_DONE"
+  }
+}

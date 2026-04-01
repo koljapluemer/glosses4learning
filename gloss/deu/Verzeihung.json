@@ -1,0 +1,33 @@
+{
+  "content": "Verzeihung",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Verzeihung! Ich habe deinen Vornamen vergessen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Excuse me",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вибачте мене",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:내 계정",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:58.342536Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:58.364806Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:58.401005Z": "TRANSLATION_DONE:kor"
+  }
+}

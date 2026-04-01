@@ -1,0 +1,35 @@
+{
+  "content": "Тобі",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тобі шах"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тобі не слід цього робити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Toby",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Toby",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тобі подобається це робити, чи не так﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:50.028544Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:50.045379Z": "TRANSLATION_DONE:deu"
+  }
+}

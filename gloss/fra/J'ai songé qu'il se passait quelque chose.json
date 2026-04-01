@@ -1,0 +1,43 @@
+{
+  "content": "J'ai songé qu'il se passait quelque chose.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'ai"
+    ],
+    [
+      "PART",
+      "fra:songé"
+    ],
+    [
+      "PART",
+      "fra:qu'il"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:passait"
+    ],
+    [
+      "PART",
+      "fra:quelque"
+    ],
+    [
+      "PART",
+      "fra:chose"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.704192Z": "SPLIT_DONE"
+  }
+}

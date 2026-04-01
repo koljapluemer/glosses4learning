@@ -1,0 +1,33 @@
+{
+  "content": "enojados",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos siempre gritan cuando están enojados"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Angry",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ang",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Злий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:05.014706Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:05.029768Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:05.045587Z": "TRANSLATION_DONE:ukr"
+  }
+}

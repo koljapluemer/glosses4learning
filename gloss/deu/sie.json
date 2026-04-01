@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:36:04.930877Z": "TRANSLATION_DONE:eng",
     "2026-03-28T13:51:06.880488Z": "TRANSLATION_DONE:fra",
-    "2026-03-28T13:51:07.906591Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T13:51:07.906591Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:19.620800Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:19.636768Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -161,6 +163,84 @@
     [
       "TRANSLATION",
       "ita:lei"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe sie für seine Tochter gehalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich kann sie nicht auseinanderhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Taubstumme unterhalten sich, indem sie die Zeichensprache verwenden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sagen Sie den Kindern, daß sie ins Haus kommen sollen!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nur Experten können sie auseinanderhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe denen gesagt, dass sie verschwinden sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sein Verhalten stimmte sie nachdenklich"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seit zwanzig Jahren sprechen sie nicht miteinander"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Heute hat sie wieder ihren Tobsuchtsanfall gehabt"
+    ],
+    [
+      "TRANSLATION",
+      "dan:dem"
+    ],
+    [
+      "TRANSLATION",
+      "dan:hun"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그들은",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ellos"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ними"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe gehört, dass sie eine berühmte Schauspielerin ist"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Machen Sie sich über sie bloß keine Gedanken"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ellas"
+    ],
+    [
+      "TRANSLATION",
+      "tur:onları"
     ]
   ]
 }

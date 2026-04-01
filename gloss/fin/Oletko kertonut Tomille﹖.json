@@ -1,0 +1,27 @@
+{
+  "content": "Oletko kertonut Tomille?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:kertonut"
+    ],
+    [
+      "PART",
+      "fin:Tomille"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.893247Z": "SPLIT_DONE"
+  }
+}

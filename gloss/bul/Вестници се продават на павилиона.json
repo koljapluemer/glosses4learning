@@ -1,0 +1,35 @@
+{
+  "content": "Вестници се продават на павилиона.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zerosoft (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Вестници"
+    ],
+    [
+      "PART",
+      "bul:се"
+    ],
+    [
+      "PART",
+      "bul:продават"
+    ],
+    [
+      "PART",
+      "bul:на"
+    ],
+    [
+      "PART",
+      "bul:павилиона"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:02:05.837469Z": "SPLIT_DONE"
+  }
+}

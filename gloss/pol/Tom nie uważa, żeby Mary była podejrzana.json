@@ -1,0 +1,43 @@
+{
+  "content": "Tom nie uważa, żeby Mary była podejrzana.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Radek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:uważa"
+    ],
+    [
+      "PART",
+      "pol:żeby"
+    ],
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:była"
+    ],
+    [
+      "PART",
+      "pol:podejrzana"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.219164Z": "SPLIT_DONE"
+  }
+}

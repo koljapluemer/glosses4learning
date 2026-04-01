@@ -1,0 +1,35 @@
+{
+  "content": "Zakoupil jsem si nový počítač.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Zakoupil"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:si"
+    ],
+    [
+      "PART",
+      "ces:nový"
+    ],
+    [
+      "PART",
+      "ces:počítač"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.175767Z": "SPLIT_DONE"
+  }
+}

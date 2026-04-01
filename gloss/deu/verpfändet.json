@@ -1,0 +1,33 @@
+{
+  "content": "verpfändet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat die Armbanduhr seines Großvaters verpfändet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:plucked",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:трахнув",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:37.669197Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:37.693888Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:37.731058Z": "TRANSLATION_DONE:kor"
+  }
+}

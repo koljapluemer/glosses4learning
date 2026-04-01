@@ -1,0 +1,27 @@
+{
+  "content": "познайомились",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я хотів би, щоб ви познайомились із Томом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We met",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir haben uns getroffen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:03.143680Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:03.161256Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Wat is dien favoriete wien?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wat"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:dien"
+    ],
+    [
+      "PART",
+      "gos:favoriete"
+    ],
+    [
+      "PART",
+      "gos:wien"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.370150Z": "SPLIT_DONE"
+  }
+}

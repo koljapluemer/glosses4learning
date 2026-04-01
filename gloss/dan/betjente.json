@@ -1,0 +1,27 @@
+{
+  "content": "betjente",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg hader sådan nogen betjente som ham"
+    ],
+    [
+      "TRANSLATION",
+      "eng:officers,",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Offiziere,",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:50.163963Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:50.305116Z": "TRANSLATION_DONE:deu"
+  }
+}

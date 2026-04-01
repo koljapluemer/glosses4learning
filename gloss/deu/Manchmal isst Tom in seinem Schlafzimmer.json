@@ -1,0 +1,39 @@
+{
+  "content": "Manchmal isst Tom in seinem Schlafzimmer.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wannieh (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Manchmal"
+    ],
+    [
+      "PART",
+      "deu:isst"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:seinem"
+    ],
+    [
+      "PART",
+      "deu:Schlafzimmer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.269647Z": "SPLIT_DONE"
+  }
+}

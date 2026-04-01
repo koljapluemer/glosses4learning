@@ -9,7 +9,9 @@
     "2026-03-28T13:34:45.475338Z": "TRANSLATION_DONE:epo",
     "2026-03-28T13:34:46.284077Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:34:46.934328Z": "TRANSLATION_DONE:ita",
-    "2026-03-28T13:34:48.024751Z": "TRANSLATION_DONE:rus"
+    "2026-03-28T13:34:48.024751Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:35:57.673798Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:57.700655Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -87,6 +89,36 @@
     [
       "USAGE_EXAMPLE",
       "deu:Sie hatten dieses Problem früher schon einmal"
+    ],
+    [
+      "TRANSLATION",
+      "dan:problem"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проблема",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "tha:ปัญหา"
+    ],
+    [
+      "TRANSLATION",
+      "tha:มีปัญหา"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde mich mit dem Problem auseinandersetzen"
+    ],
+    [
+      "TRANSLATION",
+      "dan:Problemet"
     ]
   ]
 }

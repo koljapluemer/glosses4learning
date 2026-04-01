@@ -1,0 +1,31 @@
+{
+  "content": "Jeg snakker ikke norsk.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LatinSmallLettrAlpha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:norsk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.192826Z": "SPLIT_DONE"
+  }
+}

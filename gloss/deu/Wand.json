@@ -9,7 +9,9 @@
     "2026-03-29T13:16:08.268094Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:08.438332Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:08.608082Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:08.781168Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:08.781168Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:31.714050Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:31.731441Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:Duvar"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Стіни стіни",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:벽 벽 벽",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

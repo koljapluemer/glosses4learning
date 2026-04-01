@@ -1,0 +1,27 @@
+{
+  "content": "alman",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin biraz yardım alman gerekiyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:german",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Deutschland",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:27.156159Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:27.300689Z": "TRANSLATION_DONE:deu"
+  }
+}

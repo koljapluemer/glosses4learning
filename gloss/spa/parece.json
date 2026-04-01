@@ -1,0 +1,45 @@
+{
+  "content": "parece",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me parece que simplemente estás celosa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me parece que simplemente estás celoso"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Sin importar lo que él haga, no parece ser una mala persona"
+    ],
+    [
+      "TRANSLATION",
+      "eng:looks",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aussehen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дивитись",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los adolescentes parece que siempre tienen hambre"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:21.347105Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:21.490613Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:21.509529Z": "TRANSLATION_DONE:ukr"
+  }
+}

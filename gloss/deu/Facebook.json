@@ -1,0 +1,33 @@
+{
+  "content": "Facebook",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte kommentiere meine Seite auf Facebook mit „gefällt mir“!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Facebook",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Новини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:페이스북",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:54.456385Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:54.475498Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:54.490411Z": "TRANSLATION_DONE:kor"
+  }
+}

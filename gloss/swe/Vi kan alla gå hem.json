@@ -1,0 +1,35 @@
+{
+  "content": "Vi kan alla gå hem.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vi"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:alla"
+    ],
+    [
+      "PART",
+      "swe:gå"
+    ],
+    [
+      "PART",
+      "swe:hem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.820876Z": "SPLIT_DONE"
+  }
+}

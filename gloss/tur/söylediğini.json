@@ -1,0 +1,43 @@
+{
+  "content": "söylediğini",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un neden yalan söylediğini kim biliyor﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un neden yalan söylediğini biliyor musun﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:said Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte zu Hause",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un neden yalan söylediğini bilmiyorum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben senin Tom'a yalan söylediğini biliyorum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un neden yalan söylediğini merak ediyorum"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:38.696517Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:38.711060Z": "TRANSLATION_DONE:deu"
+  }
+}

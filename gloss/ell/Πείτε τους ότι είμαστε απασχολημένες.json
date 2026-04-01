@@ -1,0 +1,35 @@
+{
+  "content": "Πείτε τους ότι είμαστε απασχολημένες.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Πείτε"
+    ],
+    [
+      "PART",
+      "ell:τους"
+    ],
+    [
+      "PART",
+      "ell:ότι"
+    ],
+    [
+      "PART",
+      "ell:είμαστε"
+    ],
+    [
+      "PART",
+      "ell:απασχολημένες"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.921466Z": "SPLIT_DONE"
+  }
+}

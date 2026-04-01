@@ -1,0 +1,35 @@
+{
+  "content": "Las señales tienen colores diferentes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arh (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Las"
+    ],
+    [
+      "PART",
+      "spa:señales"
+    ],
+    [
+      "PART",
+      "spa:tienen"
+    ],
+    [
+      "PART",
+      "spa:colores"
+    ],
+    [
+      "PART",
+      "spa:diferentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.754833Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Hasta",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hasta los idiotas te pueden dar buenos consejos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:To",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zu",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:56.308232Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:56.321015Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:56.469092Z": "TRANSLATION_DONE:ukr"
+  }
+}

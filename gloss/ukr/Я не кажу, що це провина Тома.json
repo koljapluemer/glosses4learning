@@ -1,0 +1,43 @@
+{
+  "content": "Я не кажу, що це провина Тома.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:кажу"
+    ],
+    [
+      "PART",
+      "ukr:що"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:провина"
+    ],
+    [
+      "PART",
+      "ukr:Тома"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.962387Z": "SPLIT_DONE"
+  }
+}

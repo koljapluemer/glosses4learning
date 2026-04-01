@@ -1,0 +1,37 @@
+{
+  "content": "Verstand",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vor Inbetriebnahme des Mundwerks Verstand einschalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Keiner mit ein bisschen Verstand würde so etwas tun"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Understood",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Підвод",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:계속하기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:30.827720Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:30.843856Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:30.862640Z": "TRANSLATION_DONE:kor"
+  }
+}

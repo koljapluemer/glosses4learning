@@ -1,0 +1,35 @@
+{
+  "content": "Мне понадобится ещё немного времени.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Olya (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:понадобится"
+    ],
+    [
+      "PART",
+      "rus:ещё"
+    ],
+    [
+      "PART",
+      "rus:немного"
+    ],
+    [
+      "PART",
+      "rus:времени"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.639989Z": "SPLIT_DONE"
+  }
+}

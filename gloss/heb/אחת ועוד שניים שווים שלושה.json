@@ -1,0 +1,35 @@
+{
+  "content": "אחת ועוד שניים שווים שלושה.",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MrShoval (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "heb:אחת"
+    ],
+    [
+      "PART",
+      "heb:ועוד"
+    ],
+    [
+      "PART",
+      "heb:שניים"
+    ],
+    [
+      "PART",
+      "heb:שווים"
+    ],
+    [
+      "PART",
+      "heb:שלושה"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:36.551356Z": "SPLIT_DONE"
+  }
+}

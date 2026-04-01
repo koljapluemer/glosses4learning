@@ -1,0 +1,35 @@
+{
+  "content": "Τα ρούχα είναι στην ντουλάπα.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Τα"
+    ],
+    [
+      "PART",
+      "ell:ρούχα"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:στην"
+    ],
+    [
+      "PART",
+      "ell:ντουλάπα"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:06.522243Z": "SPLIT_DONE"
+  }
+}

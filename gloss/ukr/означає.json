@@ -1,0 +1,31 @@
+{
+  "content": "означає",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Що це, курво, означає﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:means",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittel",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви можете пояснити, що це означає﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:04.845965Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:04.866393Z": "TRANSLATION_DONE:deu"
+  }
+}

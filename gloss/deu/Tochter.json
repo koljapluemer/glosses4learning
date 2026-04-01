@@ -8,7 +8,9 @@
     "2026-01-27T14:30:29.447788Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:40.022454Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:40.201895Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:40.347288Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:40.347288Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:22.905235Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:23.053150Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,36 @@
     [
       "TRANSLATION",
       "ita:figlia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe sie für seine Tochter gehalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Tochter ist vor sieben Jahren verschwunden"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дочка",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:딸딸이",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hast du etwas von deiner Tochter gehört﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom macht sich andauernd um seine Tochter Sorgen"
+    ],
+    [
+      "TRANSLATION",
+      "tha:ลูกสาว"
     ]
   ]
 }

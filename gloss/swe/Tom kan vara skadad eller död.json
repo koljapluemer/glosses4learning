@@ -1,0 +1,39 @@
+{
+  "content": "Tom kan vara skadad eller död.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:vara"
+    ],
+    [
+      "PART",
+      "swe:skadad"
+    ],
+    [
+      "PART",
+      "swe:eller"
+    ],
+    [
+      "PART",
+      "swe:död"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.842828Z": "SPLIT_DONE"
+  }
+}

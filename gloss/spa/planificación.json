@@ -1,0 +1,33 @@
+{
+  "content": "planificación",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hacer compras inteligentes requiere una meticulosa planificación"
+    ],
+    [
+      "TRANSLATION",
+      "eng:planning",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Planung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:планування",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:24.105767Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:24.120123Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:24.134601Z": "TRANSLATION_DONE:ukr"
+  }
+}

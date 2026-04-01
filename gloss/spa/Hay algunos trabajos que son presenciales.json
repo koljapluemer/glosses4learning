@@ -1,0 +1,39 @@
+{
+  "content": "Hay algunos trabajos que son presenciales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arh (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Hay"
+    ],
+    [
+      "PART",
+      "spa:algunos"
+    ],
+    [
+      "PART",
+      "spa:trabajos"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:presenciales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.570640Z": "SPLIT_DONE"
+  }
+}

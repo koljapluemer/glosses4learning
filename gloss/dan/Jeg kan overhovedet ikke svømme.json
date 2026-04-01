@@ -1,0 +1,35 @@
+{
+  "content": "Jeg kan overhovedet ikke svømme.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:kan"
+    ],
+    [
+      "PART",
+      "dan:overhovedet"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:svømme"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.007374Z": "SPLIT_DONE"
+  }
+}

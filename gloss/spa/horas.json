@@ -1,0 +1,33 @@
+{
+  "content": "horas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos votantes esperaron por horas para votar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hours",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stunden",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:час",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.978664Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.991563Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.005947Z": "TRANSLATION_DONE:ukr"
+  }
+}

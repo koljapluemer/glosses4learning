@@ -1,0 +1,31 @@
+{
+  "content": "Jag har två biljetter.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:två"
+    ],
+    [
+      "PART",
+      "swe:biljetter"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.854180Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "sagde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom sagde at han ville gøre det"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom sagde at han ville være her i morgen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg husker ikke ordret hvad Tom sagde"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom sagde at han hellere ville blive"
+    ],
+    [
+      "TRANSLATION",
+      "eng:said",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte﹕",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun sagde, Hvor ser han selvsikker ud!"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:21.467670Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:21.621537Z": "TRANSLATION_DONE:deu"
+  }
+}

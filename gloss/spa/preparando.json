@@ -1,0 +1,33 @@
+{
+  "content": "preparando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están preparando una comida para nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:preparing",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Herstellung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підготовка",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:25.519377Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.535183Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.548973Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Velo",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Velo gehört meinem Bruder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Velo",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вибро",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:벨로",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:58.292519Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:58.311117Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:58.327430Z": "TRANSLATION_DONE:kor"
+  }
+}

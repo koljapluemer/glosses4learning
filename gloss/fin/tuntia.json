@@ -3,7 +3,9 @@
   "language": "fin",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -17,6 +19,10 @@
     [
       "TRANSLATION",
       "eng:hours long"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Onko meillä tämän viikon perjantaina tuntia﹖"
     ]
   ]
 }

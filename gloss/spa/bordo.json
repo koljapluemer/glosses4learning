@@ -10,7 +10,8 @@
     "2026-03-29T14:22:16.009254Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:16.179819Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:16.383941Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:16.558086Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:16.558086Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:29.442624Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,11 @@
     [
       "TRANSLATION",
       "tur:bordo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дошка",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

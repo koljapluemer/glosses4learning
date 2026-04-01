@@ -1,0 +1,27 @@
+{
+  "content": "tomt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Livet ville være tomt uden Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:empty",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:leer",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:47.768884Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:47.908284Z": "TRANSLATION_DONE:deu"
+  }
+}

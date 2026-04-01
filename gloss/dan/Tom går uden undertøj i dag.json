@@ -1,0 +1,39 @@
+{
+  "content": "Tom går uden undertøj i dag.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:går"
+    ],
+    [
+      "PART",
+      "dan:uden"
+    ],
+    [
+      "PART",
+      "dan:undertøj"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:dag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.605505Z": "SPLIT_DONE"
+  }
+}

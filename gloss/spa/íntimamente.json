@@ -1,0 +1,33 @@
+{
+  "content": "íntimamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estereotipos y la televisión están íntimamente relacionados"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Intimately",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Intim",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Інтимно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:45.371696Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:45.388138Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:45.541042Z": "TRANSLATION_DONE:ukr"
+  }
+}

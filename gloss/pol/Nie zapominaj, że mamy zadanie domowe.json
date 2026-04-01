@@ -1,0 +1,39 @@
+{
+  "content": "Nie zapominaj, że mamy zadanie domowe.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zipangu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nie"
+    ],
+    [
+      "PART",
+      "pol:zapominaj"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:mamy"
+    ],
+    [
+      "PART",
+      "pol:zadanie"
+    ],
+    [
+      "PART",
+      "pol:domowe"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.313025Z": "SPLIT_DONE"
+  }
+}

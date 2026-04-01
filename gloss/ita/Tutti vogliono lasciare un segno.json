@@ -1,0 +1,35 @@
+{
+  "content": "Tutti vogliono lasciare un segno.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ggugliel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Tutti"
+    ],
+    [
+      "PART",
+      "ita:vogliono"
+    ],
+    [
+      "PART",
+      "ita:lasciare"
+    ],
+    [
+      "PART",
+      "ita:un"
+    ],
+    [
+      "PART",
+      "ita:segno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.881727Z": "SPLIT_DONE"
+  }
+}

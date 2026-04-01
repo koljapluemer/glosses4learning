@@ -1,0 +1,35 @@
+{
+  "content": "اللغة الأمازيغية موجودة على الفيسبوك.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MisterBrown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:اللغة"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ],
+    [
+      "PART",
+      "ara:موجودة"
+    ],
+    [
+      "PART",
+      "ara:على"
+    ],
+    [
+      "PART",
+      "ara:الفيسبوك"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.536498Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom artık senin için yalan söylemeyecek.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:artık"
+    ],
+    [
+      "PART",
+      "tur:senin"
+    ],
+    [
+      "PART",
+      "tur:için"
+    ],
+    [
+      "PART",
+      "tur:yalan"
+    ],
+    [
+      "PART",
+      "tur:söylemeyecek"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.378988Z": "SPLIT_DONE"
+  }
+}

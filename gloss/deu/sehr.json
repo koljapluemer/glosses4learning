@@ -8,7 +8,9 @@
     "2026-01-27T14:35:56.020996Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:22:20.614719Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:20.781096Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:22:20.977774Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:22:20.977774Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:18.896817Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:18.915022Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -86,6 +88,40 @@
     [
       "TRANSLATION",
       "spa:muy"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich würde mich sehr gerne einmal mit dir unterhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Verhalten dieses Typs war sehr seltsam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Jahre sind leider sehr schnell vorbeigegangen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest lieber sehr vorsichtig sein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir sind sehr glücklich, dass Tom wieder bei uns ist"
+    ],
+    [
+      "TRANSLATION",
+      "dan:meget"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дуже",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

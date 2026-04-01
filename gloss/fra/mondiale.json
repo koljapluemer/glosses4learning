@@ -1,0 +1,31 @@
+{
+  "content": "mondiale",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:La deuxième guerre mondiale s'est achevée en mille-neuf-cents-quarante-cinq"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Global",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Global",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:La deuxième guerre mondiale s'est achevée en dix-neuf-cents-quarante-cinq"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:36.934567Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:37.077851Z": "TRANSLATION_DONE:deu"
+  }
+}

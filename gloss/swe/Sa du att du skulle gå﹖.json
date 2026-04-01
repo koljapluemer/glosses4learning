@@ -1,0 +1,35 @@
+{
+  "content": "Sa du att du skulle gå?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by d95ebj (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Sa"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:skulle"
+    ],
+    [
+      "PART",
+      "swe:gå"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.836738Z": "SPLIT_DONE"
+  }
+}

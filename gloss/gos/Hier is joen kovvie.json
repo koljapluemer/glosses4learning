@@ -1,0 +1,31 @@
+{
+  "content": "Hier is joen kovvie.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Hier"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:joen"
+    ],
+    [
+      "PART",
+      "gos:kovvie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.643598Z": "SPLIT_DONE"
+  }
+}

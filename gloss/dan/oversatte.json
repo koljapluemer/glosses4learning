@@ -1,0 +1,27 @@
+{
+  "content": "oversatte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det var ikke Tom, der oversatte det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:translated",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Übersetzung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:39.088251Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:39.131040Z": "TRANSLATION_DONE:deu"
+  }
+}

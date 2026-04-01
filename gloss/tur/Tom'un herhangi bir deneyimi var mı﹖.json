@@ -1,0 +1,39 @@
+{
+  "content": "Tom'un herhangi bir deneyimi var mı?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:herhangi"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:deneyimi"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ],
+    [
+      "PART",
+      "tur:mı"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.352868Z": "SPLIT_DONE"
+  }
+}

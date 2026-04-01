@@ -1,0 +1,33 @@
+{
+  "content": "bewunderte",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er bewunderte die Arbeit seines Freundes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Admired",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Аміровані",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:광고",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:53.842573Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:53.904277Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:53.931635Z": "TRANSLATION_DONE:kor"
+  }
+}

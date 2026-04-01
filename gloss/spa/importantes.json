@@ -1,0 +1,37 @@
+{
+  "content": "importantes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Tú sientes que los cumpleaños son importantes﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos no deciden cuestiones importantes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:important",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wichtig",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:03.939808Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:03.953532Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:03.954010Z": "TRANSLATION_DONE:ukr"
+  }
+}

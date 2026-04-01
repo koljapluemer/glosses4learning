@@ -1,0 +1,33 @@
+{
+  "content": "Baumes",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich werde den Schatten dieses Baumes nicht verkaufen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tree",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дерево",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사이트맵",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:14.850008Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:14.996714Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:15.029094Z": "TRANSLATION_DONE:kor"
+  }
+}

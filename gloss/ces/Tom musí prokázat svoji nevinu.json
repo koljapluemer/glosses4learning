@@ -1,0 +1,35 @@
+{
+  "content": "Tom musí prokázat svoji nevinu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:musí"
+    ],
+    [
+      "PART",
+      "ces:prokázat"
+    ],
+    [
+      "PART",
+      "ces:svoji"
+    ],
+    [
+      "PART",
+      "ces:nevinu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.202325Z": "SPLIT_DONE"
+  }
+}

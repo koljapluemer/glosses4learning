@@ -1,0 +1,39 @@
+{
+  "content": "Я видел их три недели назад.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:видел"
+    ],
+    [
+      "PART",
+      "rus:их"
+    ],
+    [
+      "PART",
+      "rus:три"
+    ],
+    [
+      "PART",
+      "rus:недели"
+    ],
+    [
+      "PART",
+      "rus:назад"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.276463Z": "SPLIT_DONE"
+  }
+}

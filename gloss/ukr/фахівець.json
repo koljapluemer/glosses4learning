@@ -1,0 +1,27 @@
+{
+  "content": "фахівець",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не фахівець"
+    ],
+    [
+      "TRANSLATION",
+      "eng:professional",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Profis",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:14.673148Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:14.837511Z": "TRANSLATION_DONE:deu"
+  }
+}

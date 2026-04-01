@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe niemals von diesem Schauspieler gehört.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Esperantostern (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:niemals"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:diesem"
+    ],
+    [
+      "PART",
+      "deu:Schauspieler"
+    ],
+    [
+      "PART",
+      "deu:gehört"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.910210Z": "SPLIT_DONE"
+  }
+}

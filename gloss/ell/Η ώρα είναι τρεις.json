@@ -1,0 +1,31 @@
+{
+  "content": "Η ώρα είναι τρεις.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Η"
+    ],
+    [
+      "PART",
+      "ell:ώρα"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:τρεις"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.939038Z": "SPLIT_DONE"
+  }
+}

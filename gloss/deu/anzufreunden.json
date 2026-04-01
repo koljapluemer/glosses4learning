@@ -1,0 +1,33 @@
+{
+  "content": "anzufreunden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kinder finden immer einen Grund, sich anzufreunden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to friends",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до друзів",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:친구에게",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.467676Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.484499Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.500801Z": "TRANSLATION_DONE:kor"
+  }
+}

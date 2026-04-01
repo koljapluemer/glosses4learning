@@ -1,0 +1,35 @@
+{
+  "content": "Името Ви ми е познато.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Името"
+    ],
+    [
+      "PART",
+      "bul:Ви"
+    ],
+    [
+      "PART",
+      "bul:ми"
+    ],
+    [
+      "PART",
+      "bul:е"
+    ],
+    [
+      "PART",
+      "bul:познато"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:02:05.833890Z": "SPLIT_DONE"
+  }
+}

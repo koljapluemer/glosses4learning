@@ -1,0 +1,39 @@
+{
+  "content": "Tom tinggal bersama Mary di Memphis.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pacific (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:tinggal"
+    ],
+    [
+      "PART",
+      "ind:bersama"
+    ],
+    [
+      "PART",
+      "ind:Mary"
+    ],
+    [
+      "PART",
+      "ind:di"
+    ],
+    [
+      "PART",
+      "ind:Memphis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.851726Z": "SPLIT_DONE"
+  }
+}

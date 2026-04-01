@@ -1,0 +1,33 @@
+{
+  "content": "vorbeigekommen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin wirklich froh, dass du vorbeigekommen bist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:past",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:доля",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:42.006653Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:42.024777Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:42.045361Z": "TRANSLATION_DONE:kor"
+  }
+}

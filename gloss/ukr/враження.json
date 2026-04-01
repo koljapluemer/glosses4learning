@@ -1,0 +1,27 @@
+{
+  "content": "враження",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У мене таке враження, що ми знайомі"
+    ],
+    [
+      "TRANSLATION",
+      "eng:impression",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Eindruck",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.390268Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.404948Z": "TRANSLATION_DONE:deu"
+  }
+}

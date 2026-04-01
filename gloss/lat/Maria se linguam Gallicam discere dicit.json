@@ -1,0 +1,39 @@
+{
+  "content": "Maria se linguam Gallicam discere dicit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Maria"
+    ],
+    [
+      "PART",
+      "lat:se"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Gallicam"
+    ],
+    [
+      "PART",
+      "lat:discere"
+    ],
+    [
+      "PART",
+      "lat:dicit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.317242Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "nyder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg nyder virkelig at gøre det"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms hund nyder at blive støvsuget"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det nyder jeg virkelig at gøre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:enjoys",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Genießen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:36.677422Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:36.823339Z": "TRANSLATION_DONE:deu"
+  }
+}

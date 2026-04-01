@@ -1,0 +1,33 @@
+{
+  "content": "simpatizó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella simpatizó con aquellas desafortunadas personas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He's been",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er war's",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Він був",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:34.209149Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:34.223574Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:34.370043Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Ile czasu ci zostało?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Koen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Ile"
+    ],
+    [
+      "PART",
+      "pol:czasu"
+    ],
+    [
+      "PART",
+      "pol:ci"
+    ],
+    [
+      "PART",
+      "pol:zostało"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.760724Z": "SPLIT_DONE"
+  }
+}

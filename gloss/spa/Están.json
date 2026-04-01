@@ -1,0 +1,33 @@
+{
+  "content": "Están",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Están claramente en contra de nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They're",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie sind",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:17.354623Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:17.380337Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:17.414621Z": "TRANSLATION_DONE:ukr"
+  }
+}

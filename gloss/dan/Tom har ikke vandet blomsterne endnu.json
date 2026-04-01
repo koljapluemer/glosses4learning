@@ -1,0 +1,39 @@
+{
+  "content": "Tom har ikke vandet blomsterne endnu.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:vandet"
+    ],
+    [
+      "PART",
+      "dan:blomsterne"
+    ],
+    [
+      "PART",
+      "dan:endnu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.536921Z": "SPLIT_DONE"
+  }
+}

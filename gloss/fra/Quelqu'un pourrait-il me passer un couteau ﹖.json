@@ -1,0 +1,39 @@
+{
+  "content": "Quelqu'un pourrait-il me passer un couteau ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:pourrait-il"
+    ],
+    [
+      "PART",
+      "fra:me"
+    ],
+    [
+      "PART",
+      "fra:passer"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:couteau"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.152252Z": "SPLIT_DONE"
+  }
+}

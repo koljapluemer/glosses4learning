@@ -1,0 +1,43 @@
+{
+  "content": "Tom không thích giáo viên lớp mình.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OneJanuary (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:không"
+    ],
+    [
+      "PART",
+      "vie:thích"
+    ],
+    [
+      "PART",
+      "vie:giáo"
+    ],
+    [
+      "PART",
+      "vie:viên"
+    ],
+    [
+      "PART",
+      "vie:lớp"
+    ],
+    [
+      "PART",
+      "vie:mình"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.059364Z": "SPLIT_DONE"
+  }
+}

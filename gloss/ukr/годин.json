@@ -1,0 +1,27 @@
+{
+  "content": "годин",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він працює вісім годин кожного дня"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hours",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stunden",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:55.497762Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:55.511975Z": "TRANSLATION_DONE:deu"
+  }
+}

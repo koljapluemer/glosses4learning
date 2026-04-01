@@ -1,0 +1,27 @@
+{
+  "content": "profonde",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Cette rivière semble peu profonde, n'est-ce-pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deep",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tief",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:46.649691Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:46.683889Z": "TRANSLATION_DONE:deu"
+  }
+}

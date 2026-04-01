@@ -1,0 +1,39 @@
+{
+  "content": "Minun mielestäni Tom puhuu ranskaa hyvin.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minun"
+    ],
+    [
+      "PART",
+      "fin:mielestäni"
+    ],
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:puhuu"
+    ],
+    [
+      "PART",
+      "fin:ranskaa"
+    ],
+    [
+      "PART",
+      "fin:hyvin"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.894072Z": "SPLIT_DONE"
+  }
+}

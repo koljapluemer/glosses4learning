@@ -1,0 +1,41 @@
+{
+  "content": "Generalmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los americanos prefieren los coches grandes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Generally",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Allgemeines",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:З повагою",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los occidentales no comen pescado crudo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Generalmente, los japoneses son tímidos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:17.540691Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:17.553787Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:17.571678Z": "TRANSLATION_DONE:ukr"
+  }
+}

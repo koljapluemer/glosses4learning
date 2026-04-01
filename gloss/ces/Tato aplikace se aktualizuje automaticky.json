@@ -1,0 +1,35 @@
+{
+  "content": "Tato aplikace se aktualizuje automaticky.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tato"
+    ],
+    [
+      "PART",
+      "ces:aplikace"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:aktualizuje"
+    ],
+    [
+      "PART",
+      "ces:automaticky"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.615533Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "considerar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenemos que considerar todas las opciones"
+    ],
+    [
+      "TRANSLATION",
+      "eng:consider",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erwägungen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Розгляд",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.257291Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.411063Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.430641Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Виграв",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Виграв Том"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Won",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wolle",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:46.879216Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:46.893733Z": "TRANSLATION_DONE:deu"
+  }
+}

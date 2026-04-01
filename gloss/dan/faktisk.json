@@ -1,0 +1,27 @@
+{
+  "content": "faktisk",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad der rent faktisk vil ske, kan man kun gisne om"
+    ],
+    [
+      "TRANSLATION",
+      "eng:actual",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ist",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:21.091574Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:21.140268Z": "TRANSLATION_DONE:deu"
+  }
+}

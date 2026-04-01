@@ -1,0 +1,35 @@
+{
+  "content": "Tvoje francouzština se hodně zlepšila.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tvoje"
+    ],
+    [
+      "PART",
+      "ces:francouzština"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:hodně"
+    ],
+    [
+      "PART",
+      "ces:zlepšila"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.783836Z": "SPLIT_DONE"
+  }
+}

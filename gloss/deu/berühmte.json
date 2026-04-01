@@ -1,0 +1,33 @@
+{
+  "content": "berühmte",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe gehört, dass sie eine berühmte Schauspielerin ist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Famous",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Відомий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:00.404580Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:00.420307Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:00.437503Z": "TRANSLATION_DONE:kor"
+  }
+}

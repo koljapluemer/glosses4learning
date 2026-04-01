@@ -1,0 +1,27 @@
+{
+  "content": "sætninger",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor oversætter du ikke sætninger der er længere﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:phrases",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Begriffe",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:46.207013Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:46.359842Z": "TRANSLATION_DONE:deu"
+  }
+}

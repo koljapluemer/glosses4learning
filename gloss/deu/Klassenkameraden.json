@@ -1,0 +1,41 @@
+{
+  "content": "Klassenkameraden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom kennt seine Klassenkameraden nicht besonders gut"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie Ihren alten Klassenkameraden wiedererkannt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom unterscheidet sich von seinen Klassenkameraden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Classmates",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Контактори",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:클래스메이트",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:29.474974Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:29.507958Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:29.564818Z": "TRANSLATION_DONE:kor"
+  }
+}

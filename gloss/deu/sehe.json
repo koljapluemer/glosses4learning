@@ -1,0 +1,33 @@
+{
+  "content": "sehe",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich sehe, dass du wieder einkaufen warst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:see",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Переглянути",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:03.826783Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:03.840404Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:03.861174Z": "TRANSLATION_DONE:kor"
+  }
+}

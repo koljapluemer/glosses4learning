@@ -1,0 +1,33 @@
+{
+  "content": "diferencias",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ese modelo no puede borrar las diferencias culturales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:differences",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unterschiede",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:переваги",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.278478Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.294759Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.311351Z": "TRANSLATION_DONE:ukr"
+  }
+}

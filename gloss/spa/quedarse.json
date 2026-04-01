@@ -1,0 +1,33 @@
+{
+  "content": "quedarse",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele quedarse en hoteles de cinco estrellas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stay",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufenthalt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:14.257747Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:14.271551Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:14.290682Z": "TRANSLATION_DONE:ukr"
+  }
+}

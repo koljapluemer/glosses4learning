@@ -1,0 +1,33 @@
+{
+  "content": "plaza",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están construyendo una nueva plaza"
+    ],
+    [
+      "TRANSLATION",
+      "eng:square",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Quadrat",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:площа",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.895646Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.908487Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:13.055272Z": "TRANSLATION_DONE:ukr"
+  }
+}

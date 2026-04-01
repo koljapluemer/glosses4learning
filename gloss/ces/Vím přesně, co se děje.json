@@ -1,0 +1,35 @@
+{
+  "content": "Vím přesně, co se děje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Vím"
+    ],
+    [
+      "PART",
+      "ces:přesně"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:děje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.761740Z": "SPLIT_DONE"
+  }
+}

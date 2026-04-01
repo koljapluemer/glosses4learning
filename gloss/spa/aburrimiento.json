@@ -1,0 +1,33 @@
+{
+  "content": "aburrimiento",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La televisión de hoy en día es un aburrimiento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:boredom",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Langeweile",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:грубі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:22.249428Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:22.264010Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:22.279302Z": "TRANSLATION_DONE:ukr"
+  }
+}

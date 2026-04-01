@@ -1,0 +1,27 @@
+{
+  "content": "hôtels",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les hôtels posent en général de la moquette d'un mur à l'autre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hotels",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hotels",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:28.435944Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:28.580591Z": "TRANSLATION_DONE:deu"
+  }
+}

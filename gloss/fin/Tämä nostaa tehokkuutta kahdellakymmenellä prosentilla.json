@@ -1,0 +1,35 @@
+{
+  "content": "Tämä nostaa tehokkuutta kahdellakymmenellä prosentilla.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tämä"
+    ],
+    [
+      "PART",
+      "fin:nostaa"
+    ],
+    [
+      "PART",
+      "fin:tehokkuutta"
+    ],
+    [
+      "PART",
+      "fin:kahdellakymmenellä"
+    ],
+    [
+      "PART",
+      "fin:prosentilla"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.028283Z": "SPLIT_DONE"
+  }
+}

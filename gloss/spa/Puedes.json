@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T12:55:04.562747Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T12:55:04.562747Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T13:53:57.378202Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.396456Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "relationships": [
@@ -24,6 +28,20 @@
     [
       "TRANSLATION",
       "eng:You may"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Puedes quedarte hasta las dos y media﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Können Sie﹖",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви можете",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

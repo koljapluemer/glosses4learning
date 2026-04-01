@@ -1,0 +1,39 @@
+{
+  "content": "Прошу зробити це сьогодні, якщо це можливо.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Прошу"
+    ],
+    [
+      "PART",
+      "ukr:зробити"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:сьогодні"
+    ],
+    [
+      "PART",
+      "ukr:якщо"
+    ],
+    [
+      "PART",
+      "ukr:можливо"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.879748Z": "SPLIT_DONE"
+  }
+}

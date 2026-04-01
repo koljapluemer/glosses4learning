@@ -1,0 +1,39 @@
+{
+  "content": "Ich werde nach dem Mittagessen wiederkommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:werde"
+    ],
+    [
+      "PART",
+      "deu:nach"
+    ],
+    [
+      "PART",
+      "deu:dem"
+    ],
+    [
+      "PART",
+      "deu:Mittagessen"
+    ],
+    [
+      "PART",
+      "deu:wiederkommen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.482246Z": "SPLIT_DONE"
+  }
+}

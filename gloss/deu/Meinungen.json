@@ -1,0 +1,33 @@
+{
+  "content": "Meinungen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die Meinungen gehen an diesem Punkt auseinander"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Opinions",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Думки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:40.788695Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:40.849458Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:40.997815Z": "TRANSLATION_DONE:kor"
+  }
+}

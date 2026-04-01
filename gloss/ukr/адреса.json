@@ -1,0 +1,27 @@
+{
+  "content": "адреса",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Звідки в тебе наша адреса﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:address",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Anschrift",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:51.544198Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:51.557178Z": "TRANSLATION_DONE:deu"
+  }
+}

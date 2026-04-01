@@ -10,7 +10,8 @@
     "2026-03-29T14:20:58.916363Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:20:59.095670Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:20:59.258863Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:20:59.431878Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:20:59.431878Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:17.337395Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:Duruyor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Está completamente loco por ella"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

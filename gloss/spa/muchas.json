@@ -1,0 +1,37 @@
+{
+  "content": "muchas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos muchas veces están interesados"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El malayo tiene muchas similitudes con el indonesio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:many",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:viele",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:багато",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.373291Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.387450Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:10.401800Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Het meisje heeft geen moeder.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by frzzl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Het"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ],
+    [
+      "PART",
+      "nld:heeft"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:moeder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.149561Z": "SPLIT_DONE"
+  }
+}

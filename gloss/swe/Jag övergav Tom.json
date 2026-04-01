@@ -1,0 +1,27 @@
+{
+  "content": "Jag övergav Tom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:övergav"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.850595Z": "SPLIT_DONE"
+  }
+}

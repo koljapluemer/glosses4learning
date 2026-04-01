@@ -9,7 +9,9 @@
     "2026-03-29T13:20:10.701167Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:10.899423Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:11.099836Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:11.299926Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:11.299926Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:52.673453Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:52.673733Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:isimleri"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:гаряча вода",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:핫 물",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "content": "มีอายุ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอต้องมีอายุมากกว่า 80 ปี"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Aged",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Altert",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:พ่อของฉันมีอายุห้าสิบปี"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:17.400029Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:17.417851Z": "TRANSLATION_DONE:deu"
+  }
+}

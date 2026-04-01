@@ -1,0 +1,31 @@
+{
+  "content": "rentrés",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quels sont ceux qui étaient rentrés à la maison ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:returned",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zurück",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quand sont-ils rentrés à la maison ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:48.894022Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:48.918475Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "cansados",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están tan cansados como nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tired",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gereift",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Шини",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.690752Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.707671Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.729383Z": "TRANSLATION_DONE:ukr"
+  }
+}

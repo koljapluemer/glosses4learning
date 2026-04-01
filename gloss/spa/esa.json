@@ -10,7 +10,8 @@
     "2026-03-29T14:23:38.396414Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:23:38.595305Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:23:38.751567Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:23:38.923751Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:23:38.923751Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:48.978980Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,15 @@
     [
       "TRANSLATION",
       "tur:o"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos no están en esa reunión"
     ]
   ]
 }

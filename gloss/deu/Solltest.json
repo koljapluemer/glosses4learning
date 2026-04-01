@@ -1,0 +1,33 @@
+{
+  "content": "Solltest",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Solltest du gerade nicht auf der Arbeit sein﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Should",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чи варто",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기타",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:57.811244Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:57.827000Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:57.843270Z": "TRANSLATION_DONE:kor"
+  }
+}

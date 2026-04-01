@@ -1,0 +1,35 @@
+{
+  "content": "trente-et-un",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:En quel honneur vous êtes-vous mises sur votre trente-et-un ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thirty-one",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dreißig",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:En quel honneur vous êtes-vous mise sur votre trente-et-un ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:En quel honneur vous êtes-vous mis sur votre trente-et-un ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:53.569479Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:53.717171Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Xe buýt này tới Boston hả?",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OneJanuary (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Xe"
+    ],
+    [
+      "PART",
+      "vie:buýt"
+    ],
+    [
+      "PART",
+      "vie:này"
+    ],
+    [
+      "PART",
+      "vie:tới"
+    ],
+    [
+      "PART",
+      "vie:Boston"
+    ],
+    [
+      "PART",
+      "vie:hả"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.087136Z": "SPLIT_DONE"
+  }
+}

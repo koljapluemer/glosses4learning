@@ -1,0 +1,25 @@
+{
+  "content": "tagit",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Han medgav att han hade tagit mutor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:taken",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Ingen visste vart han hade tagit vägen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:04.378248Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Netzpräsenz",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom muss mal seine Netzpräsenz auf den neuesten Stand der Dinge bringen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Network presence",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Наявність мережі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:네트워크 존재",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:56.845399Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:56.863790Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:56.880315Z": "TRANSLATION_DONE:kor"
+  }
+}

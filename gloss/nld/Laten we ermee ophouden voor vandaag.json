@@ -1,0 +1,39 @@
+{
+  "content": "Laten we ermee ophouden voor vandaag.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Laten"
+    ],
+    [
+      "PART",
+      "nld:we"
+    ],
+    [
+      "PART",
+      "nld:ermee"
+    ],
+    [
+      "PART",
+      "nld:ophouden"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:vandaag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.025125Z": "SPLIT_DONE"
+  }
+}

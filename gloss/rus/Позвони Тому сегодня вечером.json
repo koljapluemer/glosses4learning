@@ -1,0 +1,31 @@
+{
+  "content": "Позвони Тому сегодня вечером.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Позвони"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:вечером"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.605347Z": "SPLIT_DONE"
+  }
+}

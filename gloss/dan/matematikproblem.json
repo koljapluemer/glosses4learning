@@ -1,0 +1,27 @@
+{
+  "content": "matematikproblem",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette matematikproblem fatter jeg ikke"
+    ],
+    [
+      "TRANSLATION",
+      "eng:math problem",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:math problem",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:55.370691Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:55.520972Z": "TRANSLATION_DONE:deu"
+  }
+}

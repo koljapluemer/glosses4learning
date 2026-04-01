@@ -1,0 +1,33 @@
+{
+  "content": "enfermedades",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las enfermedades genéticas son, en su mayoría, irremediables"
+    ],
+    [
+      "TRANSLATION",
+      "eng:and",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:und",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:і",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.781865Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.796519Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.810783Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Meu pai vai me matar.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:pai"
+    ],
+    [
+      "PART",
+      "por:vai"
+    ],
+    [
+      "PART",
+      "por:me"
+    ],
+    [
+      "PART",
+      "por:matar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.585050Z": "SPLIT_DONE"
+  }
+}

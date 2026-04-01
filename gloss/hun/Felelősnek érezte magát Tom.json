@@ -1,0 +1,31 @@
+{
+  "content": "Felelősnek érezte magát Tom.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Felelősnek"
+    ],
+    [
+      "PART",
+      "hun:érezte"
+    ],
+    [
+      "PART",
+      "hun:magát"
+    ],
+    [
+      "PART",
+      "hun:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.681565Z": "SPLIT_DONE"
+  }
+}

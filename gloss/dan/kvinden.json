@@ -1,0 +1,27 @@
+{
+  "content": "kvinden",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad siger kvinden﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:woman",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frau",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:32.733532Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:32.734059Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "кажу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я не кажу, що це провина Тома"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I say",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich sage es",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.368303Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.384926Z": "TRANSLATION_DONE:deu"
+  }
+}

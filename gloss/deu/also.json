@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:31:19.038992Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:16:49.925253Z": "TRANSLATION_DONE:fra",
-    "2026-03-29T13:16:50.100030Z": "TRANSLATION_DONE:ita"
+    "2026-03-29T13:16:50.100030Z": "TRANSLATION_DONE:ita",
+    "2026-03-31T11:36:37.145797Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:37.161917Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -77,6 +79,32 @@
     [
       "TRANSLATION",
       "ita:so"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie kommen also von einem anderen Planeten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:견적 요청",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:настільки"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr kommt also von einem anderen Planeten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тому"
     ]
   ]
 }

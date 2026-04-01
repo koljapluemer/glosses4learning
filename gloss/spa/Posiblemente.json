@@ -1,0 +1,33 @@
+{
+  "content": "Posiblemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Posiblemente todos ellos estén muertos ahora"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Possibly",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Möglich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Посильно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:19.337523Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:19.350546Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:19.493697Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Πόσα πολλά χάμπουργκερ αγόρασες;",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eypros (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Πόσα"
+    ],
+    [
+      "PART",
+      "ell:πολλά"
+    ],
+    [
+      "PART",
+      "ell:χάμπουργκερ"
+    ],
+    [
+      "PART",
+      "ell:αγόρασες"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.902617Z": "SPLIT_DONE"
+  }
+}

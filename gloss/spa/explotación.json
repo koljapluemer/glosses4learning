@@ -1,0 +1,33 @@
+{
+  "content": "explotación",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La explotación forestal ilegal ha disminuido considerablemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:operation",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Betrieb",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:робота",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:52.988252Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:53.005662Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:53.028203Z": "TRANSLATION_DONE:ukr"
+  }
+}

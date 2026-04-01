@@ -9,7 +9,9 @@
     "2026-03-29T13:17:49.837858Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:50.009849Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:17:50.173061Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:17:50.387220Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:17:50.387220Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:57.828724Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:57.855180Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,20 @@
     [
       "TRANSLATION",
       "tur:düşündü"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich dachte, du würdest das hier haben wollen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:думав",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

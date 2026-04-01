@@ -1,0 +1,43 @@
+{
+  "content": "Blij zijn zij die van bloemen houden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Blij"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:zij"
+    ],
+    [
+      "PART",
+      "nld:die"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:bloemen"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.143344Z": "SPLIT_DONE"
+  }
+}

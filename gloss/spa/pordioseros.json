@@ -1,0 +1,33 @@
+{
+  "content": "pordioseros",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Afortunadameente los pordioseros no nos siguieron"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pordioser",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schweinefleisch",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:pordioser",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:24.953102Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.137309Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.168097Z": "TRANSLATION_DONE:ukr"
+  }
+}

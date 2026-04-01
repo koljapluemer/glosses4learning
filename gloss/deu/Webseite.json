@@ -1,0 +1,33 @@
+{
+  "content": "Webseite",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom beschloss, seiner Webseite ein neues Aussehen zu verpassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Website",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Веб-сайт",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:웹 사이트",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:58.558340Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:58.574822Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:58.590413Z": "TRANSLATION_DONE:kor"
+  }
+}

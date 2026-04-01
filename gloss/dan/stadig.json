@@ -1,0 +1,27 @@
+{
+  "content": "stadig",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kan stadig læse uden briller"
+    ],
+    [
+      "TRANSLATION",
+      "eng:still",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:noch",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:44.336728Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:44.479735Z": "TRANSLATION_DONE:deu"
+  }
+}

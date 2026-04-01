@@ -1,0 +1,33 @@
+{
+  "content": "anschreien",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest deine Kinder nicht anschreien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:torment",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пердят",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.416499Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.433187Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.452004Z": "TRANSLATION_DONE:kor"
+  }
+}

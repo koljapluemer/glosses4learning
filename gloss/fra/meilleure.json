@@ -1,0 +1,27 @@
+{
+  "content": "meilleure",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Aujourd'hui, c'est l'anniversaire de ma meilleure amie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:better",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:besser",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:35.739061Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:35.755497Z": "TRANSLATION_DONE:deu"
+  }
+}

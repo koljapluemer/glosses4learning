@@ -10,7 +10,8 @@
     "2026-03-29T14:21:48.809274Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:21:48.976002Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:21:49.151151Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:21:49.327153Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:21:49.327153Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:22.310070Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,11 @@
     [
       "TRANSLATION",
       "tur:aksan"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Акценти",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

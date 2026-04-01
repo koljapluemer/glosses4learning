@@ -1,0 +1,43 @@
+{
+  "content": "Tom og jeg kører sammen til arbejde.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:og"
+    ],
+    [
+      "PART",
+      "dan:jeg"
+    ],
+    [
+      "PART",
+      "dan:kører"
+    ],
+    [
+      "PART",
+      "dan:sammen"
+    ],
+    [
+      "PART",
+      "dan:til"
+    ],
+    [
+      "PART",
+      "dan:arbejde"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.866162Z": "SPLIT_DONE"
+  }
+}

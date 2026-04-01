@@ -10,7 +10,8 @@
     "2026-03-29T14:23:12.759709Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:23:12.950516Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:23:13.123431Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:23:13.311798Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:23:13.311798Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:42.560063Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -56,6 +57,15 @@
     [
       "TRANSLATION",
       "tur:para"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:гроші",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella necesitaba el dinero desesperadamente"
     ]
   ]
 }

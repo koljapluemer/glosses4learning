@@ -1,0 +1,35 @@
+{
+  "content": "Tom nie wyglądał na zadowolonego.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by liori (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:wyglądał"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:zadowolonego"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.281741Z": "SPLIT_DONE"
+  }
+}

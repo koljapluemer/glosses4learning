@@ -1,0 +1,33 @@
+{
+  "content": "colas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los votantes esperaron en colas interminables"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tails",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schwänze",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:хвости",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:00.280285Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:00.295854Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:00.312221Z": "TRANSLATION_DONE:ukr"
+  }
+}

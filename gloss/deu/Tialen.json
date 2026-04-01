@@ -9,7 +9,9 @@
     "2026-03-29T13:15:38.521056Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:38.701161Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:15:38.904881Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:15:39.098789Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:15:39.098789Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:21.954340Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:22.104703Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:Tialen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тилен",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한국어",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

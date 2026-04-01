@@ -1,0 +1,39 @@
+{
+  "content": "sent",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ikke noget med at komme for sent denne gang"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han kommer altid for sent til undervisningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom håbede at Mary ikke ville komme for sent"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du må ikke komme for sent denne gang"
+    ],
+    [
+      "TRANSLATION",
+      "eng:late",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:spät",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:25.706111Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:25.722474Z": "TRANSLATION_DONE:deu"
+  }
+}

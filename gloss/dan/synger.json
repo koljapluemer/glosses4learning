@@ -1,0 +1,27 @@
+{
+  "content": "synger",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg håber at du ikke synger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:singing",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:singen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:42.293632Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:42.519235Z": "TRANSLATION_DONE:deu"
+  }
+}

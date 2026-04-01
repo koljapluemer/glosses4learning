@@ -1,0 +1,33 @@
+{
+  "content": "ositos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A los niños les gustan las gominolas de ositos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Bears",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bären",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Підшипники",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:20.332208Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:20.345757Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:20.364100Z": "TRANSLATION_DONE:ukr"
+  }
+}

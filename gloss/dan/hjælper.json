@@ -1,0 +1,27 @@
+{
+  "content": "hjælper",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor er der ikke nogen der hjælper Tom﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:helper",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Helfer",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:34.696117Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:34.861133Z": "TRANSLATION_DONE:deu"
+  }
+}

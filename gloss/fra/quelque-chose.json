@@ -1,0 +1,27 @@
+{
+  "content": "quelque-chose",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Le Japon ﹖ Il s'est passé quelque-chose de spécial là-bas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:something",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Was﹖",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:48.685445Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:48.740577Z": "TRANSLATION_DONE:deu"
+  }
+}

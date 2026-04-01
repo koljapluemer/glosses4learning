@@ -1,0 +1,39 @@
+{
+  "content": "Vi har fyra sovrum på övervåningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vi"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:fyra"
+    ],
+    [
+      "PART",
+      "swe:sovrum"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:övervåningen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.937265Z": "SPLIT_DONE"
+  }
+}

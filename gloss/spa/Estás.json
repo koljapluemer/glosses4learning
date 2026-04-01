@@ -1,0 +1,33 @@
+{
+  "content": "Estás",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Estás trabajando﹖ - No, estoy solamente estudiando"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You are",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du bist",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:56.230470Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:56.242989Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:56.257131Z": "TRANSLATION_DONE:ukr"
+  }
+}

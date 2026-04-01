@@ -1,0 +1,35 @@
+{
+  "content": "Hou old is joen koelkaast?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Hou"
+    ],
+    [
+      "PART",
+      "gos:old"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:joen"
+    ],
+    [
+      "PART",
+      "gos:koelkaast"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.642985Z": "SPLIT_DONE"
+  }
+}

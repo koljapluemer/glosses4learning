@@ -1,0 +1,35 @@
+{
+  "content": "Я забыла позвонить ему сегодня.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ivanov (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:забыла"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:ему"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.631956Z": "SPLIT_DONE"
+  }
+}

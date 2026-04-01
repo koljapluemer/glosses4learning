@@ -1,0 +1,27 @@
+{
+  "content": "indtil",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg bliver her indtil han kommer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:until",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bis",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:29.886346Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:30.031448Z": "TRANSLATION_DONE:deu"
+  }
+}

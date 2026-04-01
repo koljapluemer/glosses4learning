@@ -1,0 +1,33 @@
+{
+  "content": "conoce",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella conoce la mayoría de las capitales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Know",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wissen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.099168Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.115537Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.135407Z": "TRANSLATION_DONE:ukr"
+  }
+}

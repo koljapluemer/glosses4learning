@@ -5,6 +5,33 @@
     [
       "TRANSLATION",
       "fra:acteur"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe gehört, dass sie eine berühmte Schauspielerin ist"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Actress",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проксимус",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T13:51:57.543891Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:57.562901Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:57.586031Z": "TRANSLATION_DONE:kor"
+  }
 }

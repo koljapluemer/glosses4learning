@@ -1,0 +1,31 @@
+{
+  "content": "Linguae Germanicae me delectant.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguae"
+    ],
+    [
+      "PART",
+      "lat:Germanicae"
+    ],
+    [
+      "PART",
+      "lat:me"
+    ],
+    [
+      "PART",
+      "lat:delectant"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.359666Z": "SPLIT_DONE"
+  }
+}

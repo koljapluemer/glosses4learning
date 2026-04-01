@@ -1,0 +1,37 @@
+{
+  "content": "han",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los humanos, historicamente, han sido terribles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ha",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hafer",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:р",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos de ellos se han quitado la vida"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:59.643240Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:59.661471Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:59.679426Z": "TRANSLATION_DONE:ukr"
+  }
+}

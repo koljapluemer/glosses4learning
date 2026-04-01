@@ -1,0 +1,39 @@
+{
+  "content": "hatam",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'a bunun benim hatam olmadığını söyle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Error",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fehler",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ona bunun benim hatam olmadığını söyle"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunların hiçbiri benim hatam değildi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Onlara bunun benim hatam olmadığını söyle"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:31.304822Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:31.320817Z": "TRANSLATION_DONE:deu"
+  }
+}

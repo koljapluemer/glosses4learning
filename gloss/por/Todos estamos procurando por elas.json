@@ -1,0 +1,35 @@
+{
+  "content": "Todos estamos procurando por elas.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MacGyver (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:estamos"
+    ],
+    [
+      "PART",
+      "por:procurando"
+    ],
+    [
+      "PART",
+      "por:por"
+    ],
+    [
+      "PART",
+      "por:elas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:26.526261Z": "SPLIT_DONE"
+  }
+}

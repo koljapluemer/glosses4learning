@@ -1,0 +1,27 @@
+{
+  "content": "aben",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Forsøg ikke at sende aben videre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:monkey",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Affen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:39.130388Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:39.271408Z": "TRANSLATION_DONE:deu"
+  }
+}

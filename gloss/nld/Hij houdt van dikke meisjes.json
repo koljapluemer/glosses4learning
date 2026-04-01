@@ -1,0 +1,35 @@
+{
+  "content": "Hij houdt van dikke meisjes.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Hij"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:dikke"
+    ],
+    [
+      "PART",
+      "nld:meisjes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.143946Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Comment quelqu'un peut-il être si stupide ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:peut-il"
+    ],
+    [
+      "PART",
+      "fra:être"
+    ],
+    [
+      "PART",
+      "fra:si"
+    ],
+    [
+      "PART",
+      "fra:stupide"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.350121Z": "SPLIT_DONE"
+  }
+}

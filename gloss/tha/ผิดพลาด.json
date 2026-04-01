@@ -1,0 +1,31 @@
+{
+  "content": "ผิดพลาด",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทุกคนสามารถทำผิดพลาดได้"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Error",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fehler",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันต้องทำผิดพลาดไปแล้วแน่เลย"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:16.878782Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:16.893563Z": "TRANSLATION_DONE:deu"
+  }
+}

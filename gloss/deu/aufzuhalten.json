@@ -1,0 +1,33 @@
+{
+  "content": "aufzuhalten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie haben keine Erlaubnis, sich hier aufzuhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to stop",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зупинитися",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:40.140975Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:40.216419Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:40.330258Z": "TRANSLATION_DONE:kor"
+  }
+}

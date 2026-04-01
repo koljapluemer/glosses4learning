@@ -1,0 +1,39 @@
+{
+  "content": "Dieses Verhalten ist erworben, nicht angeboren.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Dieses"
+    ],
+    [
+      "PART",
+      "deu:Verhalten"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:erworben"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:angeboren"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.749766Z": "SPLIT_DONE"
+  }
+}

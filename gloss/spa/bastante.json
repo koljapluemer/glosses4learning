@@ -1,0 +1,33 @@
+{
+  "content": "bastante",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La verdad es que estoy bastante contento con ello"
+    ],
+    [
+      "TRANSLATION",
+      "eng:quite",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ziemlich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:досить",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:28.819320Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:28.836761Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:28.855509Z": "TRANSLATION_DONE:ukr"
+  }
+}

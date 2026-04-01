@@ -1,0 +1,31 @@
+{
+  "content": "d'agiter",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Elles sont en train d'agiter des drapeau algériens"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to shake",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:um zu schütteln",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ils sont en train d'agiter des drapeaux algériens"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:18.446805Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:18.501459Z": "TRANSLATION_DONE:deu"
+  }
+}

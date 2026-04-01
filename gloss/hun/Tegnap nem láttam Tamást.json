@@ -1,0 +1,31 @@
+{
+  "content": "Tegnap nem láttam Tamást.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felvideki (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tegnap"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:láttam"
+    ],
+    [
+      "PART",
+      "hun:Tamást"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.919103Z": "SPLIT_DONE"
+  }
+}

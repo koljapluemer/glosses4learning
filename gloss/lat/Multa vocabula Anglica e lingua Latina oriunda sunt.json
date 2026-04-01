@@ -1,0 +1,47 @@
+{
+  "content": "Multa vocabula Anglica e lingua Latina oriunda sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Multa"
+    ],
+    [
+      "PART",
+      "lat:vocabula"
+    ],
+    [
+      "PART",
+      "lat:Anglica"
+    ],
+    [
+      "PART",
+      "lat:e"
+    ],
+    [
+      "PART",
+      "lat:lingua"
+    ],
+    [
+      "PART",
+      "lat:Latina"
+    ],
+    [
+      "PART",
+      "lat:oriunda"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.368396Z": "SPLIT_DONE"
+  }
+}

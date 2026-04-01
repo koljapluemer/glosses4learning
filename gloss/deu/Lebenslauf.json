@@ -1,0 +1,37 @@
+{
+  "content": "Lebenslauf",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ein Lebenslauf ist nichts anderes als Werbung für sich selbst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:CV",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Р",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사이트맵",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ein Lebenslauf ist nichts anderes als Werbung in eigener Sache"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:32.309939Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:32.471101Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:32.499904Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Πού να σας τα λέω!",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Nylez (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Πού"
+    ],
+    [
+      "PART",
+      "ell:να"
+    ],
+    [
+      "PART",
+      "ell:σας"
+    ],
+    [
+      "PART",
+      "ell:τα"
+    ],
+    [
+      "PART",
+      "ell:λέω"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.942125Z": "SPLIT_DONE"
+  }
+}

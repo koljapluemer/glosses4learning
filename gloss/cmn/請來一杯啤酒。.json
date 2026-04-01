@@ -1,0 +1,31 @@
+{
+  "content": "請來一杯啤酒。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xjjAstrus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:請來"
+    ],
+    [
+      "PART",
+      "cmn:一杯"
+    ],
+    [
+      "PART",
+      "cmn:啤酒"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.684929Z": "SPLIT_DONE"
+  }
+}

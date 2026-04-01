@@ -1,0 +1,35 @@
+{
+  "content": "I maiali sono animali intelligenti.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:I"
+    ],
+    [
+      "PART",
+      "ita:maiali"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:animali"
+    ],
+    [
+      "PART",
+      "ita:intelligenti"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.896351Z": "SPLIT_DONE"
+  }
+}

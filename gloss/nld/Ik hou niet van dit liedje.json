@@ -1,0 +1,39 @@
+{
+  "content": "Ik hou niet van dit liedje.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by martinod (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:hou"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:dit"
+    ],
+    [
+      "PART",
+      "nld:liedje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.229420Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "pistolen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi har endnu ikke fundet pistolen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:gun",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pistole",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:16.883331Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:17.020429Z": "TRANSLATION_DONE:deu"
+  }
+}

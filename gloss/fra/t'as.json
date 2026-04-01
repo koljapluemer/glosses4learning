@@ -1,0 +1,27 @@
+{
+  "content": "t'as",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que tu peux m'expliquer comment t'as fait ça ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you got",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du hast",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:52.289574Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:52.339209Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "какое-то",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне понадобится какое-то время"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне понадобилось ещё какое-то время"
+    ],
+    [
+      "TRANSLATION",
+      "eng:something",
+      "Auto-translated with argostranslate (ru→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Нам понадобится ещё какое-то время"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:06.224040Z": "TRANSLATION_DONE:eng"
+  }
+}

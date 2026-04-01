@@ -1,0 +1,31 @@
+{
+  "content": "أولادي يحبون الحيوانات كثيراً.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أولادي"
+    ],
+    [
+      "PART",
+      "ara:يحبون"
+    ],
+    [
+      "PART",
+      "ara:الحيوانات"
+    ],
+    [
+      "PART",
+      "ara:كثيرا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.934377Z": "SPLIT_DONE"
+  }
+}

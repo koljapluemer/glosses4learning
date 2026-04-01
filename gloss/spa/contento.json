@@ -1,0 +1,37 @@
+{
+  "content": "contento",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo estoy contento de que Mary no sea mi esposa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La verdad es que estoy bastante contento con ello"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Happy",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Glück",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:З повагою",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.674532Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.688625Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.837965Z": "TRANSLATION_DONE:ukr"
+  }
+}

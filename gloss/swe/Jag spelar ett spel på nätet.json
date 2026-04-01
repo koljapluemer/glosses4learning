@@ -1,0 +1,39 @@
+{
+  "content": "Jag spelar ett spel på nätet.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:spelar"
+    ],
+    [
+      "PART",
+      "swe:ett"
+    ],
+    [
+      "PART",
+      "swe:spel"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:nätet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.806072Z": "SPLIT_DONE"
+  }
+}

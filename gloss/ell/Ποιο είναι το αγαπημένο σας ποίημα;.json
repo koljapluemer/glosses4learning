@@ -1,0 +1,39 @@
+{
+  "content": "Ποιο είναι το αγαπημένο σας ποίημα;",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Iye_Tete (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Ποιο"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:το"
+    ],
+    [
+      "PART",
+      "ell:αγαπημένο"
+    ],
+    [
+      "PART",
+      "ell:σας"
+    ],
+    [
+      "PART",
+      "ell:ποίημα"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:09.591193Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Denne omstændighed beviser hans uskyld.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Denne"
+    ],
+    [
+      "PART",
+      "dan:omstændighed"
+    ],
+    [
+      "PART",
+      "dan:beviser"
+    ],
+    [
+      "PART",
+      "dan:hans"
+    ],
+    [
+      "PART",
+      "dan:uskyld"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.667233Z": "SPLIT_DONE"
+  }
+}

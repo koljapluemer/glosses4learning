@@ -1,0 +1,35 @@
+{
+  "content": "coïncidence",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être n'est-ce qu'une coïncidence"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être que ce n'est qu'une coïncidence"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Peut-être n'était-ce qu'une coïncidence"
+    ],
+    [
+      "TRANSLATION",
+      "eng:coincidence",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zufall",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:32.376044Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:32.390647Z": "TRANSLATION_DONE:deu"
+  }
+}

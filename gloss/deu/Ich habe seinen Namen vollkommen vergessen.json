@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe seinen Namen vollkommen vergessen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xtofu80 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Namen"
+    ],
+    [
+      "PART",
+      "deu:vollkommen"
+    ],
+    [
+      "PART",
+      "deu:vergessen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.416214Z": "SPLIT_DONE"
+  }
+}

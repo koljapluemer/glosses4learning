@@ -2,7 +2,10 @@
   "content": "Zutaten",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-03-31T11:36:36.132039Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:36.150871Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
@@ -14,6 +17,16 @@
     [
       "USAGE_EXAMPLE",
       "deu:Ich bin gerade mit dem Kaufen einer Zutaten fertig für das Abendessen geworden"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Склад",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

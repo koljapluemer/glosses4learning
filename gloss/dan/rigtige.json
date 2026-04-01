@@ -1,0 +1,31 @@
+{
+  "content": "rigtige",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke hans rigtige navn"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender det helt rigtige sted"
+    ],
+    [
+      "TRANSLATION",
+      "eng:right",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Recht",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:19.878920Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:20.024186Z": "TRANSLATION_DONE:deu"
+  }
+}

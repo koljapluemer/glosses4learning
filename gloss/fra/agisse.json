@@ -1,0 +1,27 @@
+{
+  "content": "agisse",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il ne s'agit jamais d'extra-terrestres, jusqu'à ce qu'il s'en agisse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Act",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gesetz",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:11.328410Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:11.466080Z": "TRANSLATION_DONE:deu"
+  }
+}

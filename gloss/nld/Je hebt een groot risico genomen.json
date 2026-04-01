@@ -1,0 +1,39 @@
+{
+  "content": "Je hebt een groot risico genomen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rose_d (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Je"
+    ],
+    [
+      "PART",
+      "nld:hebt"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:groot"
+    ],
+    [
+      "PART",
+      "nld:risico"
+    ],
+    [
+      "PART",
+      "nld:genomen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.156733Z": "SPLIT_DONE"
+  }
+}

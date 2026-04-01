@@ -1,0 +1,35 @@
+{
+  "content": "Мы находимся в зоне эвакуации.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:находимся"
+    ],
+    [
+      "PART",
+      "rus:в"
+    ],
+    [
+      "PART",
+      "rus:зоне"
+    ],
+    [
+      "PART",
+      "rus:эвакуации"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.250177Z": "SPLIT_DONE"
+  }
+}

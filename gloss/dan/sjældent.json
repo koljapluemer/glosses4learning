@@ -1,0 +1,31 @@
+{
+  "content": "sjældent",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er sjældent at jeg går med fløjlsbukser"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rare",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:selten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er sjældent at jeg læser franske bøger"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:29.280473Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:29.420177Z": "TRANSLATION_DONE:deu"
+  }
+}

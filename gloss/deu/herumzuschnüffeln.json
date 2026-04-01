@@ -1,0 +1,37 @@
+{
+  "content": "herumzuschnüffeln",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr habt nicht in meinen Schubladen herumzuschnüffeln!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:In meinen Schubladen habt ihr nicht herumzuschnüffeln!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:snooping around",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сяйво",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주변 명소",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:53.388486Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:53.388794Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:53.390689Z": "TRANSLATION_DONE:kor"
+  }
+}

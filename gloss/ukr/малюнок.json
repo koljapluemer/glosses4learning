@@ -1,0 +1,27 @@
+{
+  "content": "малюнок",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені дуже подобається цей малюнок. Він чудовий"
+    ],
+    [
+      "TRANSLATION",
+      "eng:drawing",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zeichnung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.667867Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.682971Z": "TRANSLATION_DONE:deu"
+  }
+}

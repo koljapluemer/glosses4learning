@@ -1,0 +1,35 @@
+{
+  "content": "Pater meus bona valetudine utitur.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Pater"
+    ],
+    [
+      "PART",
+      "lat:meus"
+    ],
+    [
+      "PART",
+      "lat:bona"
+    ],
+    [
+      "PART",
+      "lat:valetudine"
+    ],
+    [
+      "PART",
+      "lat:utitur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.281302Z": "SPLIT_DONE"
+  }
+}

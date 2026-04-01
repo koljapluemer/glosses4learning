@@ -1,0 +1,35 @@
+{
+  "content": "hjem",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er ikke kommet hjem fra arbejde endnu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Home",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Home",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom lovede at han ville gå lige hjem"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette minder mig om hjem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:33.968507Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:34.107596Z": "TRANSLATION_DONE:deu"
+  }
+}

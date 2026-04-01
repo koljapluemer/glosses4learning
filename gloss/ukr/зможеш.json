@@ -1,0 +1,31 @@
+{
+  "content": "зможеш",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо ти не зможеш прийти, ми зрозуміємо"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це пропозиція, від якої ти не зможеш відмовитися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You can",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das kannst du",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:59.755073Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:59.772303Z": "TRANSLATION_DONE:deu"
+  }
+}

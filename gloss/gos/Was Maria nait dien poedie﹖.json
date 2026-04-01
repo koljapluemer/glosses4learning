@@ -1,0 +1,35 @@
+{
+  "content": "Was Maria nait dien poedie?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Was"
+    ],
+    [
+      "PART",
+      "gos:Maria"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ],
+    [
+      "PART",
+      "gos:dien"
+    ],
+    [
+      "PART",
+      "gos:poedie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.427256Z": "SPLIT_DONE"
+  }
+}

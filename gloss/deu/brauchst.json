@@ -1,0 +1,33 @@
+{
+  "content": "brauchst",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wenn du beschäftigt bist, brauchst du nicht unbedingt zu antworten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Needs",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Потрібні",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:56.440162Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:56.466246Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:56.499002Z": "TRANSLATION_DONE:kor"
+  }
+}

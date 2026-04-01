@@ -1,0 +1,27 @@
+{
+  "content": "şeye",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un bundan daha iyi bir şeye ihtiyacı var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Everything",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alles",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:51.982426Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:51.999660Z": "TRANSLATION_DONE:deu"
+  }
+}

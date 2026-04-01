@@ -1,0 +1,27 @@
+{
+  "content": "nettoyé",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi est-ce que personne n'a nettoyé ça ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cleaned",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gereinigt",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:36.584682Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:36.605348Z": "TRANSLATION_DONE:deu"
+  }
+}

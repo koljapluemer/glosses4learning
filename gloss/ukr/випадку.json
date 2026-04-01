@@ -1,0 +1,27 @@
+{
+  "content": "випадку",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:І що мені робити завтра в такому випадку﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:if",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wenn",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.168053Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.182003Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "sumamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los discursos del presidente son sumamente pedorros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:and",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:und",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:і",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:16.799251Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:16.812288Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:16.826322Z": "TRANSLATION_DONE:ukr"
+  }
+}

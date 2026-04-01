@@ -1,0 +1,27 @@
+{
+  "content": "middag",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kan du gætte hvem der kommer til middag i aften﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:noon",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittag",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:58.922618Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:59.063286Z": "TRANSLATION_DONE:deu"
+  }
+}

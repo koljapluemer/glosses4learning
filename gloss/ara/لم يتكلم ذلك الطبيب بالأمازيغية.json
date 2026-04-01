@@ -1,0 +1,35 @@
+{
+  "content": "لم يتكلم ذلك الطبيب بالأمازيغية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amghar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لم"
+    ],
+    [
+      "PART",
+      "ara:يتكلم"
+    ],
+    [
+      "PART",
+      "ara:ذلك"
+    ],
+    [
+      "PART",
+      "ara:الطبيب"
+    ],
+    [
+      "PART",
+      "ara:بالأمازيغية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.664819Z": "SPLIT_DONE"
+  }
+}

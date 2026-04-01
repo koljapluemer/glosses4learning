@@ -1,0 +1,29 @@
+{
+  "content": "我要",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我要半條鮭魚。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:它们中没有我要的。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I want it",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我要和你說再見了。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:12.094645Z": "TRANSLATION_DONE:eng"
+  }
+}

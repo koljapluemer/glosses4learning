@@ -1,0 +1,31 @@
+{
+  "content": "Ты собираешься позвонить Тому?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Ты"
+    ],
+    [
+      "PART",
+      "rus:собираешься"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.662739Z": "SPLIT_DONE"
+  }
+}

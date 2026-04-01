@@ -1,0 +1,39 @@
+{
+  "content": "Мне не надо сегодня вечером заниматься.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:надо"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:вечером"
+    ],
+    [
+      "PART",
+      "rus:заниматься"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.698658Z": "SPLIT_DONE"
+  }
+}

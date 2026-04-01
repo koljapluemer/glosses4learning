@@ -1,0 +1,27 @@
+{
+  "content": "повірити",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я просто не можу повірити, що це сталося"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Trust me",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vertrau mir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:02.800654Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:02.820100Z": "TRANSLATION_DONE:deu"
+  }
+}

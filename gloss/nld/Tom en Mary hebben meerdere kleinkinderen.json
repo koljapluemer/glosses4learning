@@ -1,0 +1,39 @@
+{
+  "content": "Tom en Mary hebben meerdere kleinkinderen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rose_d (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:en"
+    ],
+    [
+      "PART",
+      "nld:Mary"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:meerdere"
+    ],
+    [
+      "PART",
+      "nld:kleinkinderen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.162813Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Powiedziała, że była zadowolona.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aurchykr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Powiedziała"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:była"
+    ],
+    [
+      "PART",
+      "pol:zadowolona"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.253994Z": "SPLIT_DONE"
+  }
+}

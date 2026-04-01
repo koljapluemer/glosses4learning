@@ -1,0 +1,33 @@
+{
+  "content": "pensé",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Simplemente pensé que estabas feliz"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I thought",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich dachte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я думав",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.520381Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.535541Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:12.553527Z": "TRANSLATION_DONE:ukr"
+  }
+}

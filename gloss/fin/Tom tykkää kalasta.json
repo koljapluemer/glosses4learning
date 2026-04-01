@@ -1,0 +1,27 @@
+{
+  "content": "Tom tykkää kalasta.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:tykkää"
+    ],
+    [
+      "PART",
+      "fin:kalasta"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.891511Z": "SPLIT_DONE"
+  }
+}

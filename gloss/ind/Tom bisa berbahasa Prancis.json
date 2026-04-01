@@ -1,0 +1,31 @@
+{
+  "content": "Tom bisa berbahasa Prancis.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:bisa"
+    ],
+    [
+      "PART",
+      "ind:berbahasa"
+    ],
+    [
+      "PART",
+      "ind:Prancis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.872377Z": "SPLIT_DONE"
+  }
+}

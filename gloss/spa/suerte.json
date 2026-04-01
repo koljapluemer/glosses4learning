@@ -1,0 +1,45 @@
+{
+  "content": "suerte",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Échate una siesta y espera por la buena suerte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes suerte de que no haya llovido ayer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:luck",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Glück",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вся в соку",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes suerte de que Tom no haya venido"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella siempre presume de su buena suerte"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:35.840080Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:35.855032Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:35.874978Z": "TRANSLATION_DONE:ukr"
+  }
+}

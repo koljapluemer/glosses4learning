@@ -1,0 +1,39 @@
+{
+  "content": "Omnes felices sunt in familia mea.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Hans07 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Omnes"
+    ],
+    [
+      "PART",
+      "lat:felices"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:familia"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.314439Z": "SPLIT_DONE"
+  }
+}

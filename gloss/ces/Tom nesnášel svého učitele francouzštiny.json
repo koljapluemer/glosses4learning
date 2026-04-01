@@ -1,0 +1,35 @@
+{
+  "content": "Tom nesnášel svého učitele francouzštiny.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:nesnášel"
+    ],
+    [
+      "PART",
+      "ces:svého"
+    ],
+    [
+      "PART",
+      "ces:učitele"
+    ],
+    [
+      "PART",
+      "ces:francouzštiny"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.188346Z": "SPLIT_DONE"
+  }
+}

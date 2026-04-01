@@ -1,0 +1,35 @@
+{
+  "content": "græde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvis det skete, ville Tom græde"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ville græde hvis det skete"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vidste ikke at Tom ville græde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cry",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weinen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:25.002840Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:25.169028Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "venner",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms venner gik udenfor for at ryge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han ville hjælpe hendes venner"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Friends",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Freunde",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:50.761774Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:50.956505Z": "TRANSLATION_DONE:deu"
+  }
+}

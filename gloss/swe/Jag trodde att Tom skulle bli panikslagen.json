@@ -1,0 +1,43 @@
+{
+  "content": "Jag trodde att Tom skulle bli panikslagen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:trodde"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:skulle"
+    ],
+    [
+      "PART",
+      "swe:bli"
+    ],
+    [
+      "PART",
+      "swe:panikslagen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.032305Z": "SPLIT_DONE"
+  }
+}

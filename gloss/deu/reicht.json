@@ -1,0 +1,33 @@
+{
+  "content": "reicht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es reicht mir langsam mit deinen Beschwerden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sufficient",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:достатній",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:03.474732Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:03.489045Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:03.505565Z": "TRANSLATION_DONE:kor"
+  }
+}

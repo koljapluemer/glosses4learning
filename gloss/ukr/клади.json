@@ -1,0 +1,27 @@
+{
+  "content": "клади",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не клади книжки на стіл"
+    ],
+    [
+      "TRANSLATION",
+      "eng:prices",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Preise",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.575958Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.593030Z": "TRANSLATION_DONE:deu"
+  }
+}

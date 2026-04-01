@@ -1,0 +1,27 @@
+{
+  "content": "проковтнула",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Язик проковтнула﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:swallowed",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geschluckt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:08.802519Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:08.822207Z": "TRANSLATION_DONE:deu"
+  }
+}

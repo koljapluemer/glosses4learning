@@ -1,0 +1,27 @@
+{
+  "content": "survenu",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tu as l'air déprimée, quelque chose est-il survenu ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:occurrence",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auftreten",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.509440Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.651647Z": "TRANSLATION_DONE:deu"
+  }
+}

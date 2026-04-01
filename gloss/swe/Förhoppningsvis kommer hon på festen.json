@@ -1,0 +1,35 @@
+{
+  "content": "Förhoppningsvis kommer hon på festen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Förhoppningsvis"
+    ],
+    [
+      "PART",
+      "swe:kommer"
+    ],
+    [
+      "PART",
+      "swe:hon"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:festen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.006221Z": "SPLIT_DONE"
+  }
+}

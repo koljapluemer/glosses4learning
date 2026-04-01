@@ -1,0 +1,37 @@
+{
+  "content": "zog",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom zog sich seinen Mantel wieder an"
+    ],
+    [
+      "TRANSLATION",
+      "eng:moved",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er zog sich seinen Mantel wieder an"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:46.212076Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:46.228624Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:46.246649Z": "TRANSLATION_DONE:kor"
+  }
+}

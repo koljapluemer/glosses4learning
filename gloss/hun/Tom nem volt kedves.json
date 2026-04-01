@@ -1,0 +1,31 @@
+{
+  "content": "Tom nem volt kedves.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:volt"
+    ],
+    [
+      "PART",
+      "hun:kedves"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.890722Z": "SPLIT_DONE"
+  }
+}

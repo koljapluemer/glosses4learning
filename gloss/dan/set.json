@@ -1,0 +1,43 @@
+{
+  "content": "set",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har endnu ikke set billederne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har set Tom gøre det umulige"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har ikke set Tom i evigheder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har ikke set hende i evigheder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:set",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Menge",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har ikke set dem i evigheder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:26.166315Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:26.326398Z": "TRANSLATION_DONE:deu"
+  }
+}

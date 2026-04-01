@@ -9,7 +9,9 @@
     "2026-03-29T13:22:38.166291Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:38.388135Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:22:38.598932Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:22:38.793510Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:22:38.793510Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:20.637887Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:20.638509Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,28 @@
     [
       "TRANSLATION",
       "tur:yapmalı"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr solltet nicht alles glauben, was euch gesagt wird"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Darüber solltet ihr euch überhaupt keine Sorgen machen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:слід",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das solltet ihr im Hinterkopf behalten"
     ]
   ]
 }

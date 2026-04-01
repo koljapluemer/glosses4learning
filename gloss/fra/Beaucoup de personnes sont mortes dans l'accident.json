@@ -1,0 +1,43 @@
+{
+  "content": "Beaucoup de personnes sont mortes dans l'accident.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adrien_FR (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Beaucoup"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:personnes"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:mortes"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:l'accident"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.117823Z": "SPLIT_DONE"
+  }
+}

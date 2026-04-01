@@ -1,0 +1,35 @@
+{
+  "content": "Мені Том насправді дуже подобається.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Мені"
+    ],
+    [
+      "PART",
+      "ukr:Том"
+    ],
+    [
+      "PART",
+      "ukr:насправді"
+    ],
+    [
+      "PART",
+      "ukr:дуже"
+    ],
+    [
+      "PART",
+      "ukr:подобається"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.956772Z": "SPLIT_DONE"
+  }
+}

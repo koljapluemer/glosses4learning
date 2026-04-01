@@ -1,0 +1,27 @@
+{
+  "content": "mise",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:En quel honneur vous êtes-vous mise sur votre trente-et-un ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:implementation",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Durchführung",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:35.818198Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:35.834031Z": "TRANSLATION_DONE:deu"
+  }
+}

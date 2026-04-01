@@ -1,0 +1,29 @@
+{
+  "content": "食物",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:对于一个饥饿的人来说，任何食物都是美味。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Food",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:这些食物看起来很好吃。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這個食物嚐起來有一點大蒜味。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:18.834660Z": "TRANSLATION_DONE:eng"
+  }
+}

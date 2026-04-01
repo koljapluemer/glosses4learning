@@ -1,0 +1,35 @@
+{
+  "content": "Tom viste oss noen bilder.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:viste"
+    ],
+    [
+      "PART",
+      "nob:oss"
+    ],
+    [
+      "PART",
+      "nob:noen"
+    ],
+    [
+      "PART",
+      "nob:bilder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.362064Z": "SPLIT_DONE"
+  }
+}

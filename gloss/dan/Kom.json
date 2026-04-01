@@ -1,0 +1,27 @@
+{
+  "content": "Kom",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kom nu, Tom. Det bliver sjovt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Come on",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Komm schon",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:11.835576Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:11.859600Z": "TRANSLATION_DONE:deu"
+  }
+}

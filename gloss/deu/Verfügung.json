@@ -9,7 +9,9 @@
     "2026-03-29T13:15:55.129961Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:55.340242Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:15:55.529000Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:15:55.724731Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:15:55.724731Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:29.421283Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:29.444087Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,16 @@
     [
       "TRANSLATION",
       "tur:Karar"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проживання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이용안내",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

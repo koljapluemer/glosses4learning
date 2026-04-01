@@ -9,6 +9,41 @@
     [
       "TRANSLATION",
       "ita:testo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Schauspieler ließ etwas von seinem Text aus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Text",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:texto"
+    ],
+    [
+      "TRANSLATION",
+      "spa:textos"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:36:21.430675Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:21.464600Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:21.619471Z": "TRANSLATION_DONE:kor"
+  }
 }

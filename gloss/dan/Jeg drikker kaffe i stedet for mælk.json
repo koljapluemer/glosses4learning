@@ -1,0 +1,43 @@
+{
+  "content": "Jeg drikker kaffe i stedet for mælk.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:drikker"
+    ],
+    [
+      "PART",
+      "dan:kaffe"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:stedet"
+    ],
+    [
+      "PART",
+      "dan:for"
+    ],
+    [
+      "PART",
+      "dan:mælk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.613391Z": "SPLIT_DONE"
+  }
+}

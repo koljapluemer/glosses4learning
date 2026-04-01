@@ -1,0 +1,35 @@
+{
+  "content": "Ĉiuj tiuj libroj estas miaj.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dominiko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Ĉiuj"
+    ],
+    [
+      "PART",
+      "epo:tiuj"
+    ],
+    [
+      "PART",
+      "epo:libroj"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:miaj"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:59.697404Z": "SPLIT_DONE"
+  }
+}

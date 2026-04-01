@@ -1,0 +1,43 @@
+{
+  "content": "Tag det fra hinanden hvis det er nødvendigt.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tag"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:fra"
+    ],
+    [
+      "PART",
+      "dan:hinanden"
+    ],
+    [
+      "PART",
+      "dan:hvis"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:nødvendigt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.730306Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom không biết đọc và cũng không biết viết.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tucm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:không"
+    ],
+    [
+      "PART",
+      "vie:biết"
+    ],
+    [
+      "PART",
+      "vie:đọc"
+    ],
+    [
+      "PART",
+      "vie:và"
+    ],
+    [
+      "PART",
+      "vie:cũng"
+    ],
+    [
+      "PART",
+      "vie:viết"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.024731Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Tudom, hogy Tamás orvos.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by felvideki (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tudom"
+    ],
+    [
+      "PART",
+      "hun:hogy"
+    ],
+    [
+      "PART",
+      "hun:Tamás"
+    ],
+    [
+      "PART",
+      "hun:orvos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.909939Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "l'eau",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:De l'eau est-elle disponible à cet endroit ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:De quelle manière l'eau est-elle apparue sur Terre ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Water",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wasser",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:34.864124Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:34.880500Z": "TRANSLATION_DONE:deu"
+  }
+}

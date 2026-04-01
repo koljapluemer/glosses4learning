@@ -1,0 +1,27 @@
+{
+  "content": "команди",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мене взяли до команди"
+    ],
+    [
+      "TRANSLATION",
+      "eng:commands",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Befehle",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.922789Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.937988Z": "TRANSLATION_DONE:deu"
+  }
+}

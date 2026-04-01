@@ -1,0 +1,27 @@
+{
+  "content": "виступ",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Її виступ був такий незграбний, що на нього було болісно дивитися"
+    ],
+    [
+      "TRANSLATION",
+      "eng:performance",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leistung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:55.222897Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.239090Z": "TRANSLATION_DONE:deu"
+  }
+}

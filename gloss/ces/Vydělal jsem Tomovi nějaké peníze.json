@@ -1,0 +1,35 @@
+{
+  "content": "Vydělal jsem Tomovi nějaké peníze.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Vydělal"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:nějaké"
+    ],
+    [
+      "PART",
+      "ces:peníze"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.069858Z": "SPLIT_DONE"
+  }
+}

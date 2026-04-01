@@ -1,0 +1,31 @@
+{
+  "content": "אני אוהב כובע כזה.",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "heb:אני"
+    ],
+    [
+      "PART",
+      "heb:אוהב"
+    ],
+    [
+      "PART",
+      "heb:כובע"
+    ],
+    [
+      "PART",
+      "heb:כזה"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:36.531492Z": "SPLIT_DONE"
+  }
+}

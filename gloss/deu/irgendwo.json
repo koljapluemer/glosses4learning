@@ -10,7 +10,9 @@
     "2026-03-28T13:34:39.525736Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:34:40.348402Z": "TRANSLATION_DONE:ita",
     "2026-03-28T13:34:41.470286Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T13:34:42.289820Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T13:34:42.289820Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:01.478241Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:01.518632Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -68,6 +70,20 @@
     [
       "USAGE_EXAMPLE",
       "deu:Haben Sie irgendwo meinen Geldbeutel gesehen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr irgendwo meinen Geldbeutel gesehen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:десь",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한국어",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

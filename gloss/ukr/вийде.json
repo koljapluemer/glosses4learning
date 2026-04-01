@@ -1,0 +1,27 @@
+{
+  "content": "вийде",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Що трапиться, якщо у нас не вийде﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Well, we can",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das können wir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.985189Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:55.004216Z": "TRANSLATION_DONE:deu"
+  }
+}

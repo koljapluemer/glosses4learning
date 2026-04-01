@@ -1,0 +1,41 @@
+{
+  "content": "iglesia",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los novios están saliendo de la iglesia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:church",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kirche",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Церква",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos van a la iglesia todos los domingos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Por qué no estuviste en la iglesia hoy﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:03.721898Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:03.739183Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:03.753695Z": "TRANSLATION_DONE:ukr"
+  }
+}

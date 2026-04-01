@@ -1,0 +1,33 @@
+{
+  "content": "supuestamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella supuestamente le asesinó"
+    ],
+    [
+      "TRANSLATION",
+      "eng:supposedly",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:angeblich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:нібито",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:17.029726Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:17.045230Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.063336Z": "TRANSLATION_DONE:ukr"
+  }
+}

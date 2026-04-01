@@ -1,0 +1,31 @@
+{
+  "content": "Meu sonho é voar.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:sonho"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:voar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.566109Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "她被禁止吸煙。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:她"
+    ],
+    [
+      "PART",
+      "cmn:被"
+    ],
+    [
+      "PART",
+      "cmn:禁止"
+    ],
+    [
+      "PART",
+      "cmn:吸煙"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.608591Z": "SPLIT_DONE"
+  }
+}

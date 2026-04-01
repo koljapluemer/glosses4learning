@@ -1,0 +1,27 @@
+{
+  "content": "betyder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kan du ikke se, hvad det betyder﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:means",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittel",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:50.434571Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:50.628451Z": "TRANSLATION_DONE:deu"
+  }
+}

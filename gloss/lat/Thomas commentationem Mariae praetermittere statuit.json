@@ -1,0 +1,35 @@
+{
+  "content": "Thomas commentationem Mariae praetermittere statuit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:commentationem"
+    ],
+    [
+      "PART",
+      "lat:Mariae"
+    ],
+    [
+      "PART",
+      "lat:praetermittere"
+    ],
+    [
+      "PART",
+      "lat:statuit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.258638Z": "SPLIT_DONE"
+  }
+}

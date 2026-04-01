@@ -1,0 +1,27 @@
+{
+  "content": "Yritetään soittaa Tomille.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Yritetään"
+    ],
+    [
+      "PART",
+      "fin:soittaa"
+    ],
+    [
+      "PART",
+      "fin:Tomille"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.916370Z": "SPLIT_DONE"
+  }
+}

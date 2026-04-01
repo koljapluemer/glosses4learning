@@ -10,7 +10,8 @@
     "2026-03-29T14:27:08.975440Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:27:09.127179Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:27:09.318540Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:27:09.494646Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:27:09.494646Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:33.461154Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,19 @@
     [
       "TRANSLATION",
       "tur:olmuş"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los humanos, historicamente, han sido terribles"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Puede que algunos funcionarios hayan sido corrompidos"
     ]
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "content": "pasteles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos hacen buenos pasteles"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me gustan más las acuarelas que los pasteles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pastry",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Backwaren",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Кошик",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¡Todos mis pasteles están deliciosos!"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:21.863712Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:21.879099Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:21.895493Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "content": "ese",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:En ese lado hay una mesilla de noche"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella no estaba bailando con él en ese momento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, llovió ese día"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:49.349293Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:49.369878Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:49.511521Z": "TRANSLATION_DONE:ukr"
+  }
+}

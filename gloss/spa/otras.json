@@ -1,0 +1,33 @@
+{
+  "content": "otras",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A algunas personas les gusta el deporte, a otras no"
+    ],
+    [
+      "TRANSLATION",
+      "eng:other",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:andere",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:інші",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:11.804515Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:11.819451Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.835701Z": "TRANSLATION_DONE:ukr"
+  }
+}

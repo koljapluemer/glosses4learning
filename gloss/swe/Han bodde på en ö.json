@@ -1,0 +1,35 @@
+{
+  "content": "Han bodde på en ö.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:bodde"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:ö"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.846523Z": "SPLIT_DONE"
+  }
+}

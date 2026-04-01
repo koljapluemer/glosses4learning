@@ -1,0 +1,35 @@
+{
+  "content": "Mama het dit gerdien kozen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Mama"
+    ],
+    [
+      "PART",
+      "gos:het"
+    ],
+    [
+      "PART",
+      "gos:dit"
+    ],
+    [
+      "PART",
+      "gos:gerdien"
+    ],
+    [
+      "PART",
+      "gos:kozen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.442838Z": "SPLIT_DONE"
+  }
+}

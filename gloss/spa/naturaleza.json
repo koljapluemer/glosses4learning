@@ -1,0 +1,33 @@
+{
+  "content": "naturaleza",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La naturaleza está más allá del control de los mortales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:nature",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Art",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:природа",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:17.945791Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:17.964020Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:17.979454Z": "TRANSLATION_DONE:ukr"
+  }
+}

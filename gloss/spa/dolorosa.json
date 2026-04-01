@@ -1,0 +1,33 @@
+{
+  "content": "dolorosa",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El divorcio generalmente es una ruptura dolorosa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:painful",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schmerzhaft",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:біль",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.044087Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.060666Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.077067Z": "TRANSLATION_DONE:ukr"
+  }
+}

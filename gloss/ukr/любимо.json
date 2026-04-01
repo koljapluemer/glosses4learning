@@ -1,0 +1,27 @@
+{
+  "content": "любимо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми любимо цю школу"
+    ],
+    [
+      "TRANSLATION",
+      "eng:love",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Liebe",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:00.545797Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:00.546289Z": "TRANSLATION_DONE:deu"
+  }
+}

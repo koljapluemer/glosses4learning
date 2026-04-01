@@ -1,0 +1,39 @@
+{
+  "content": "Azt kellene csinálnom, amit Tomi javasol?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Azt"
+    ],
+    [
+      "PART",
+      "hun:kellene"
+    ],
+    [
+      "PART",
+      "hun:csinálnom"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:Tomi"
+    ],
+    [
+      "PART",
+      "hun:javasol"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.647220Z": "SPLIT_DONE"
+  }
+}

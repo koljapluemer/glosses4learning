@@ -1,0 +1,27 @@
+{
+  "content": "фільм",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це чудовий фільм"
+    ],
+    [
+      "TRANSLATION",
+      "eng:movie",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Film",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:15.050620Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:15.066050Z": "TRANSLATION_DONE:deu"
+  }
+}

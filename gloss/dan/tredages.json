@@ -1,0 +1,27 @@
+{
+  "content": "tredages",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan godt lide tredages weekender"
+    ],
+    [
+      "TRANSLATION",
+      "eng:3 days",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:3 Tage",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:48.166191Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:48.305411Z": "TRANSLATION_DONE:deu"
+  }
+}

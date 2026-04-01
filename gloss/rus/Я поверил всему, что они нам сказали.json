@@ -1,0 +1,43 @@
+{
+  "content": "Я поверил всему, что они нам сказали.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:поверил"
+    ],
+    [
+      "PART",
+      "rus:всему"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:они"
+    ],
+    [
+      "PART",
+      "rus:нам"
+    ],
+    [
+      "PART",
+      "rus:сказали"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.633901Z": "SPLIT_DONE"
+  }
+}

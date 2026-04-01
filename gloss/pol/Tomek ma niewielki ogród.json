@@ -1,0 +1,31 @@
+{
+  "content": "Tomek ma niewielki ogród.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JimiYoru (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tomek"
+    ],
+    [
+      "PART",
+      "pol:ma"
+    ],
+    [
+      "PART",
+      "pol:niewielki"
+    ],
+    [
+      "PART",
+      "pol:ogród"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.804608Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "distinguir",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los animales no son capaces de distinguir entre lo que está bien y lo que está mal"
+    ],
+    [
+      "TRANSLATION",
+      "eng:distinction",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unterscheidung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Сортування",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:43.465498Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:43.479181Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:43.508847Z": "TRANSLATION_DONE:ukr"
+  }
+}

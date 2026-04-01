@@ -1,0 +1,33 @@
+{
+  "content": "presenciales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay algunos trabajos que son presenciales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:challenges",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Herausforderungen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:проблеми",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:25.566456Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.580992Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.595300Z": "TRANSLATION_DONE:ukr"
+  }
+}

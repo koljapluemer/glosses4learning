@@ -1,0 +1,33 @@
+{
+  "content": "ilegales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las peleas de gallos son ilegales en muchos países"
+    ],
+    [
+      "TRANSLATION",
+      "eng:illegal",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:illegal",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:нелегальні",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.395698Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.414611Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.442014Z": "TRANSLATION_DONE:ukr"
+  }
+}

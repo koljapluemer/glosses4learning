@@ -1,0 +1,39 @@
+{
+  "content": "Eu encontrei o Tom na rua.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:encontrei"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:na"
+    ],
+    [
+      "PART",
+      "por:rua"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.569799Z": "SPLIT_DONE"
+  }
+}

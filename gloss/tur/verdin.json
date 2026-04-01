@@ -1,0 +1,27 @@
+{
+  "content": "verdin",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Neden bunun olmasına izin verdin﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:News",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nachrichten",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:39.376947Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:39.377381Z": "TRANSLATION_DONE:deu"
+  }
+}

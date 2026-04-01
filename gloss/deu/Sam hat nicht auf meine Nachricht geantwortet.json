@@ -1,0 +1,43 @@
+{
+  "content": "Sam hat nicht auf meine Nachricht geantwortet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yorwba (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sam"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Nachricht"
+    ],
+    [
+      "PART",
+      "deu:geantwortet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.175932Z": "SPLIT_DONE"
+  }
+}

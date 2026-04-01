@@ -1,0 +1,25 @@
+{
+  "content": "houten",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Dit is een houten tafel"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Dit is een houten stoel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wooden",
+      "Auto-translated with argostranslate (nl→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:55.858573Z": "TRANSLATION_DONE:eng"
+  }
+}

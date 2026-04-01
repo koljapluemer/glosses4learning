@@ -1,0 +1,35 @@
+{
+  "content": "Anh ấy đã bắn chim.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leucammieuvu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Anh"
+    ],
+    [
+      "PART",
+      "vie:ấy"
+    ],
+    [
+      "PART",
+      "vie:đã"
+    ],
+    [
+      "PART",
+      "vie:bắn"
+    ],
+    [
+      "PART",
+      "vie:chim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.046817Z": "SPLIT_DONE"
+  }
+}

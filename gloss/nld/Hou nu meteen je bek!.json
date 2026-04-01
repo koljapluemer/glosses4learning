@@ -1,0 +1,35 @@
+{
+  "content": "Hou nu meteen je bek!",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by meshbags (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Hou"
+    ],
+    [
+      "PART",
+      "nld:nu"
+    ],
+    [
+      "PART",
+      "nld:meteen"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:bek"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.227523Z": "SPLIT_DONE"
+  }
+}

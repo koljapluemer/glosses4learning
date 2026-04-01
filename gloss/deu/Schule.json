@@ -8,7 +8,9 @@
     "2026-01-27T14:30:05.302803Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:15:07.354234Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:15:07.557994Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:15:07.721984Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:15:07.721984Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:06.701599Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:06.846592Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -50,6 +52,24 @@
     [
       "TRANSLATION",
       "ita:scuola"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Школа",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:학교소개",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:школу"
+    ],
+    [
+      "TRANSLATION",
+      "tha:โรงเรียน"
     ]
   ]
 }

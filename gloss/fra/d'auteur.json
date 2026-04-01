@@ -1,0 +1,27 @@
+{
+  "content": "d'auteur",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:N'ajoutez pas des phrases de sources qui ne sont pas libres de droits d'auteur"
+    ],
+    [
+      "TRANSLATION",
+      "eng:author",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Autor",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:18.936931Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:18.964078Z": "TRANSLATION_DONE:deu"
+  }
+}

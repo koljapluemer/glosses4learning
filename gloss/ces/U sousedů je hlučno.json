@@ -1,0 +1,31 @@
+{
+  "content": "U sousedů je hlučno.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:U"
+    ],
+    [
+      "PART",
+      "ces:sousedů"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:hlučno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.757941Z": "SPLIT_DONE"
+  }
+}

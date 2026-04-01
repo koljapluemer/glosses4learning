@@ -9,7 +9,9 @@
     "2026-03-29T13:16:32.372097Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:32.603229Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:32.803909Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:32.998828Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:32.998828Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:35.904345Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:35.920243Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,16 @@
     [
       "TRANSLATION",
       "tur:Tren biletleri"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Залізничні квитки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기차 티켓",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

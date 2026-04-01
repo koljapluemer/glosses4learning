@@ -1,0 +1,35 @@
+{
+  "content": "Iedereen houdt van gratis eten.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Iedereen"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:gratis"
+    ],
+    [
+      "PART",
+      "nld:eten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.125358Z": "SPLIT_DONE"
+  }
+}

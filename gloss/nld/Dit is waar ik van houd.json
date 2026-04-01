@@ -1,0 +1,39 @@
+{
+  "content": "Dit is waar ik van houd.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by doemaar14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dit"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:waar"
+    ],
+    [
+      "PART",
+      "nld:ik"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:houd"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.140758Z": "SPLIT_DONE"
+  }
+}

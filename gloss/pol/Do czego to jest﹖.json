@@ -1,0 +1,31 @@
+{
+  "content": "Do czego to jest?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Do"
+    ],
+    [
+      "PART",
+      "pol:czego"
+    ],
+    [
+      "PART",
+      "pol:to"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.797283Z": "SPLIT_DONE"
+  }
+}

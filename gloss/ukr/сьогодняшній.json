@@ -1,0 +1,35 @@
+{
+  "content": "сьогодняшній",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти вже прочитав сьогодняшній випуск газети﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви вже прочитали сьогодняшній випуск газети﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти вже прочитала сьогодняшній випуск газети﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:today",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:heute",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:05.853623Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:05.867920Z": "TRANSLATION_DONE:deu"
+  }
+}

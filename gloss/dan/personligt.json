@@ -1,0 +1,27 @@
+{
+  "content": "personligt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ham ikke personligt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:personal",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:persönlich",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:15.902382Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:16.048461Z": "TRANSLATION_DONE:deu"
+  }
+}

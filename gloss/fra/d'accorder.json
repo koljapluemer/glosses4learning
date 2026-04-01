@@ -1,0 +1,27 @@
+{
+  "content": "d'accorder",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'Algérie a besoin d'accorder des facilitations dans le domaine commercial"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to grant",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zuschuss",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:18.156845Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:18.302468Z": "TRANSLATION_DONE:deu"
+  }
+}

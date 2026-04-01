@@ -1,0 +1,39 @@
+{
+  "content": "про",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я молився богу про поміч"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:von",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знаю, що ти про мене думаєш"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знаю, що ви про мене думаєте"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Її остання книжка про забруднення навколишнього середовища"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:07.936529Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:07.951860Z": "TRANSLATION_DONE:deu"
+  }
+}

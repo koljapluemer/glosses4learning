@@ -1,0 +1,33 @@
+{
+  "content": "Verhaltensweisen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir imitieren die gleichen Verhaltensweisen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Behavior",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Плеймейт",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:채용 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:29.960543Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:29.960833Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:29.961046Z": "TRANSLATION_DONE:kor"
+  }
+}

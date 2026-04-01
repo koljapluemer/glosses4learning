@@ -1,0 +1,33 @@
+{
+  "content": "ogen",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:De ogen van dit meisje zijn blauw"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:De ogen van dat meisje zijn blauw"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Beide meisjes hebben blauwe ogen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Eyes",
+      "Auto-translated with argostranslate (nl→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Allebei de meisjes hebben blauwe ogen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:58.213905Z": "TRANSLATION_DONE:eng"
+  }
+}

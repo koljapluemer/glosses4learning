@@ -1,0 +1,39 @@
+{
+  "content": "Ellos siempre gritan cuando están enojados.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mexicanhere (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:siempre"
+    ],
+    [
+      "PART",
+      "spa:gritan"
+    ],
+    [
+      "PART",
+      "spa:cuando"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:enojados"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.638292Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Atlantis",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom mener han har fundet Atlantis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg tror ikke at Atlantis nogensinde har eksisteret"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Atlantis",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Atlantischen Ozean",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:23.362078Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:23.507203Z": "TRANSLATION_DONE:deu"
+  }
+}

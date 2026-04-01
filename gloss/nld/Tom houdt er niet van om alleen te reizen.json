@@ -1,0 +1,51 @@
+{
+  "content": "Tom houdt er niet van om alleen te reizen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LinguisticFusion (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:er"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:om"
+    ],
+    [
+      "PART",
+      "nld:alleen"
+    ],
+    [
+      "PART",
+      "nld:te"
+    ],
+    [
+      "PART",
+      "nld:reizen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.143699Z": "SPLIT_DONE"
+  }
+}

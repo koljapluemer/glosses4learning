@@ -1,0 +1,27 @@
+{
+  "content": "menukortet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Ville De være så venlig at komme med menukortet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:menu",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Menü schließen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:58.395510Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:58.534829Z": "TRANSLATION_DONE:deu"
+  }
+}

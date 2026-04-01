@@ -1,0 +1,27 @@
+{
+  "content": "поїдемо",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми більше ніколи не поїдемо до Бостона"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's go",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gehen wir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:07.100245Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:07.276832Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "йде",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Усе йде як помащене"
+    ],
+    [
+      "TRANSLATION",
+      "eng:goes",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geht weiter",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.154584Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.169177Z": "TRANSLATION_DONE:deu"
+  }
+}

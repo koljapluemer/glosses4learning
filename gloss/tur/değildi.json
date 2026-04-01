@@ -1,0 +1,39 @@
+{
+  "content": "değildi",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'dan başka hiç kimse benimle aynı fikirde değildi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunların hiçbiri benim hatam değildi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bunu hiçbiri senin hatan değildi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu hiç kimsenin beklediği bir şey değildi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:28.935383Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:28.950577Z": "TRANSLATION_DONE:deu"
+  }
+}

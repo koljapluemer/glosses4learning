@@ -1,0 +1,27 @@
+{
+  "content": "varer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tag ikke det Tom siger, for gode varer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:goods",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Waren",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:56.792223Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:56.940900Z": "TRANSLATION_DONE:deu"
+  }
+}

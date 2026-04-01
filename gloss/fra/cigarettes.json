@@ -1,0 +1,27 @@
+{
+  "content": "cigarettes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Où est-ce que je peux acheter des cigarettes ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cigarettes",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zigaretten",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:31.859633Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:31.872548Z": "TRANSLATION_DONE:deu"
+  }
+}

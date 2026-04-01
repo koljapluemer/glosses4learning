@@ -1,0 +1,39 @@
+{
+  "content": "Mary'ye",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom, kimsenin Mary'ye yardım etmesine izin vermezdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maria",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom Mary'ye kimsenin yardım edemeyeceğini söyledi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom birinin Mary'ye yardım etmesine izin vermeyecek"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un Mary'ye daha fazla yardımcı olması gerekirdi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:26.255183Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:26.270244Z": "TRANSLATION_DONE:deu"
+  }
+}

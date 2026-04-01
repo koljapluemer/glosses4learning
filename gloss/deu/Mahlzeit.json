@@ -12,7 +12,9 @@
     "2026-03-28T09:38:02.125292Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:38:03.122990Z": "TRANSLATION_DONE:kab",
     "2026-03-28T09:38:04.152387Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T09:38:04.966722Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T09:38:04.966722Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:36.811017Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:36.831561Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -90,6 +92,16 @@
     [
       "TRANSLATION",
       "tur:Yemek zamanı"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навігація",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:식사 안내",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

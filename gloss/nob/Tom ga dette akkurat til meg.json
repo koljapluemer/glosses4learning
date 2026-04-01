@@ -1,0 +1,39 @@
+{
+  "content": "Tom ga dette akkurat til meg.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:ga"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ],
+    [
+      "PART",
+      "nob:akkurat"
+    ],
+    [
+      "PART",
+      "nob:til"
+    ],
+    [
+      "PART",
+      "nob:meg"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.340156Z": "SPLIT_DONE"
+  }
+}

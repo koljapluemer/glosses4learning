@@ -1,0 +1,39 @@
+{
+  "content": "Tom werd in het ziekenhuis opgenomen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:werd"
+    ],
+    [
+      "PART",
+      "nld:in"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:ziekenhuis"
+    ],
+    [
+      "PART",
+      "nld:opgenomen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.186150Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "pavos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los americanos llaman pavos a las personas imprudentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:turkeys",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Truthühner",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:індички",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:11.859041Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:11.874939Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.902301Z": "TRANSLATION_DONE:ukr"
+  }
+}

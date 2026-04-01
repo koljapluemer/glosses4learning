@@ -1,0 +1,39 @@
+{
+  "content": "Mary var meget overbevisende, var hun ikke?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:var"
+    ],
+    [
+      "PART",
+      "dan:meget"
+    ],
+    [
+      "PART",
+      "dan:overbevisende"
+    ],
+    [
+      "PART",
+      "dan:hun"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.683369Z": "SPLIT_DONE"
+  }
+}

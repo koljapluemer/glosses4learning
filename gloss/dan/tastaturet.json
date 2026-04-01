@@ -1,0 +1,27 @@
+{
+  "content": "tastaturet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det betaler sig ikke at spise tastaturet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:keyboard",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tastatur",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:44.350948Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:44.504398Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -8,7 +8,9 @@
     "2026-01-27T14:34:43.934081Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:07.160676Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:07.356923Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:07.550577Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:07.550577Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:08.442495Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:08.461901Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -42,6 +44,20 @@
     [
       "TRANSLATION",
       "rus:к сожалению"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Jahre sind leider sehr schnell vorbeigegangen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навігація",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:불행히도",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

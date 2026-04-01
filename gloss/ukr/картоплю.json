@@ -1,0 +1,27 @@
+{
+  "content": "картоплю",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цього тижня я саджав картоплю"
+    ],
+    [
+      "TRANSLATION",
+      "eng:potatoes",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kartoffeln",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.512221Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.529915Z": "TRANSLATION_DONE:deu"
+  }
+}

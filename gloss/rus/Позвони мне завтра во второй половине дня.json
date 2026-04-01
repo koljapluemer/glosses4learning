@@ -1,0 +1,43 @@
+{
+  "content": "Позвони мне завтра во второй половине дня.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Позвони"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:завтра"
+    ],
+    [
+      "PART",
+      "rus:во"
+    ],
+    [
+      "PART",
+      "rus:второй"
+    ],
+    [
+      "PART",
+      "rus:половине"
+    ],
+    [
+      "PART",
+      "rus:дня"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.312366Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "saßen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir saßen nur zusammen und haben uns unterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sauces",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:соуси",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:소스",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:17.387447Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:17.404599Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:17.425063Z": "TRANSLATION_DONE:kor"
+  }
+}

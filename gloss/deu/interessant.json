@@ -9,7 +9,9 @@
     "2026-03-29T13:20:29.570235Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:29.745709Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:29.913235Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:30.098361Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:30.098361Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:00.161086Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:00.316409Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -55,6 +57,24 @@
     [
       "TRANSLATION",
       "ita:curiosa"
+    ],
+    [
+      "TRANSLATION",
+      "dan:interessant"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Цікаві",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:interesante"
     ]
   ]
 }

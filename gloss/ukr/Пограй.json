@@ -1,0 +1,27 @@
+{
+  "content": "Пограй",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Пограй на вулиці замість того, щоб дивитися телевізор"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Play it",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spielen Sie es",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:53.375193Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:53.394923Z": "TRANSLATION_DONE:deu"
+  }
+}

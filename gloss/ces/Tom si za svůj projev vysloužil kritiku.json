@@ -1,0 +1,43 @@
+{
+  "content": "Tom si za svůj projev vysloužil kritiku.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:si"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:svůj"
+    ],
+    [
+      "PART",
+      "ces:projev"
+    ],
+    [
+      "PART",
+      "ces:vysloužil"
+    ],
+    [
+      "PART",
+      "ces:kritiku"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.117123Z": "SPLIT_DONE"
+  }
+}

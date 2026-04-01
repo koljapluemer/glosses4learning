@@ -1,0 +1,39 @@
+{
+  "content": "Cette entreprise produit des puces informatiques.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:entreprise"
+    ],
+    [
+      "PART",
+      "fra:produit"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:puces"
+    ],
+    [
+      "PART",
+      "fra:informatiques"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.601366Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Нам понадобится это, чтобы выжить.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Нам"
+    ],
+    [
+      "PART",
+      "rus:понадобится"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:выжить"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.274507Z": "SPLIT_DONE"
+  }
+}

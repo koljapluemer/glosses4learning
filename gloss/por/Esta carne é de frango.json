@@ -1,0 +1,35 @@
+{
+  "content": "Esta carne é de frango.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauliobezerra (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Esta"
+    ],
+    [
+      "PART",
+      "por:carne"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:frango"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.576145Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "\"Bist der kloar veur?\" \"Sikkom.\"",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Bist"
+    ],
+    [
+      "PART",
+      "gos:der"
+    ],
+    [
+      "PART",
+      "gos:kloar"
+    ],
+    [
+      "PART",
+      "gos:veur"
+    ],
+    [
+      "PART",
+      "gos:Sikkom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.403448Z": "SPLIT_DONE"
+  }
+}

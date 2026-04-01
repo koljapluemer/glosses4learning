@@ -1,0 +1,27 @@
+{
+  "content": "forlade",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vil du være så venlig at forlade lokalet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:leave",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Urlaub",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:11.931306Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:12.070691Z": "TRANSLATION_DONE:deu"
+  }
+}

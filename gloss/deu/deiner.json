@@ -9,7 +9,9 @@
     "2026-03-29T13:17:57.608379Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:57.771269Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:17:57.962968Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:17:58.134476Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:17:58.134476Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:01.600517Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:01.750627Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -79,6 +81,36 @@
     [
       "TRANSLATION",
       "tur:sana"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest deiner Pflicht nachkommen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du hättest es deiner Familie sagen sollen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hast du etwas von deiner Tochter gehört﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum hast du mit deiner Arbeit aufgehört﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Ansicht unterscheidet sich von deiner"
     ]
   ]
 }

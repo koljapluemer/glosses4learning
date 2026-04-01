@@ -1,0 +1,33 @@
+{
+  "content": "Tobsuchtsanfall",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Heute hat sie wieder ihren Tobsuchtsanfall gehabt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tobsucht",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Толстячки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:22.638023Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:22.682183Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:22.740256Z": "TRANSLATION_DONE:kor"
+  }
+}

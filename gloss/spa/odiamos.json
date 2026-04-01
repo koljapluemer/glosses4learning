@@ -1,0 +1,33 @@
+{
+  "content": "odiamos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos nosotros odiamos la televisión y los ordenadores"
+    ],
+    [
+      "TRANSLATION",
+      "eng:We hate",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir hassen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ми не",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:20.068208Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:20.090475Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:20.120135Z": "TRANSLATION_DONE:ukr"
+  }
+}

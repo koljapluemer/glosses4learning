@@ -5,6 +5,31 @@
     [
       "TRANSLATION",
       "ita:tenne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que tu peux mémoriser dix millions de phrases ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:10",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:10",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que vous pouvez mémoriser dix millions de phrases ﹖"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T12:46:21.929350Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:22.077894Z": "TRANSLATION_DONE:deu"
+  }
 }

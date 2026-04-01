@@ -33,12 +33,32 @@
     [
       "TRANSLATION",
       "eng:independent"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie sind voneinander getrennt und können sich nicht berühren"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відокремлений",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 제품",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:separados"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
   ],
   "logs": {
-    "2026-03-31T08:19:48.922472Z": "TRANSLATION_DONE:eng"
+    "2026-03-31T08:19:48.922472Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:42.356358Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:42.383283Z": "TRANSLATION_DONE:kor"
   }
 }

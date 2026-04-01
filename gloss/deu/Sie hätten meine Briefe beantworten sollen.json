@@ -1,0 +1,39 @@
+{
+  "content": "Sie hätten meine Briefe beantworten sollen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:hätten"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Briefe"
+    ],
+    [
+      "PART",
+      "deu:beantworten"
+    ],
+    [
+      "PART",
+      "deu:sollen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.835679Z": "SPLIT_DONE"
+  }
+}

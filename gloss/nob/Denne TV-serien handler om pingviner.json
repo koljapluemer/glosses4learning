@@ -1,0 +1,35 @@
+{
+  "content": "Denne TV-serien handler om pingviner.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by giiraffen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Denne"
+    ],
+    [
+      "PART",
+      "nob:TV-serien"
+    ],
+    [
+      "PART",
+      "nob:handler"
+    ],
+    [
+      "PART",
+      "nob:om"
+    ],
+    [
+      "PART",
+      "nob:pingviner"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.312131Z": "SPLIT_DONE"
+  }
+}

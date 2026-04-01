@@ -1,0 +1,27 @@
+{
+  "content": "ขับรถ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:พ่อของฉันขับรถไปทำงาน"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Drive",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fahren Sie",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:30.982206Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:31.131868Z": "TRANSLATION_DONE:deu"
+  }
+}

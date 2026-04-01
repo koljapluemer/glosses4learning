@@ -1,0 +1,31 @@
+{
+  "content": "person",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den person som skal afløse dig, er allerede blevet valgt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:person",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Person",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Ingen vidste at Tom var en tidligere straffet person"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:15.615353Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:15.764584Z": "TRANSLATION_DONE:deu"
+  }
+}

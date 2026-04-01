@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:34:06.965475Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:20:26.724164Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:20:26.905011Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:20:26.905011Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:57.746262Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:57.785423Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -69,6 +71,32 @@
     [
       "TRANSLATION",
       "tha:ของเธอ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Worte haben ihre Gefühle verletzt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Politiker sollten ihre Versprechen einhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie kann ihre Kinder nicht im Zaum halten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Maria hat ihre Freunde zum Abendessen eingeladen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

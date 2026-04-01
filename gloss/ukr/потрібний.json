@@ -1,0 +1,31 @@
+{
+  "content": "потрібний",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тому потрібний собака"
+    ],
+    [
+      "TRANSLATION",
+      "eng:required",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erforderlich",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я зателефоную, якщо ти будеш нам потрібний"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:06.751009Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:06.751481Z": "TRANSLATION_DONE:deu"
+  }
+}

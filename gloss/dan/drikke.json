@@ -1,0 +1,43 @@
+{
+  "content": "drikke",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke den her kaffe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke kaffe uden sukker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke drikke te uden sukker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil gerne have noget at drikke"
+    ],
+    [
+      "TRANSLATION",
+      "eng:drink",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:trinken",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil aldrig nogensinde drikke igen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:01.242432Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:01.426770Z": "TRANSLATION_DONE:deu"
+  }
+}

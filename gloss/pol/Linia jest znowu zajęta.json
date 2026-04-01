@@ -1,0 +1,31 @@
+{
+  "content": "Linia jest znowu zajęta.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by polski_ren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Linia"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:znowu"
+    ],
+    [
+      "PART",
+      "pol:zajęta"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.773708Z": "SPLIT_DONE"
+  }
+}

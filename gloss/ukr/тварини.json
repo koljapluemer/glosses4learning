@@ -1,0 +1,31 @@
+{
+  "content": "тварини",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Деякі тварини є активними вночі"
+    ],
+    [
+      "TRANSLATION",
+      "eng:animals",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tiere",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:animal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:13.566872Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:13.719848Z": "TRANSLATION_DONE:deu"
+  }
+}

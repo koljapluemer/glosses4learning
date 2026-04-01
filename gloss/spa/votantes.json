@@ -1,0 +1,37 @@
+{
+  "content": "votantes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los votantes esperaron en colas interminables"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos votantes esperaron por horas para votar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:voters",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wähler",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:виборців",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.892107Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.907782Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.925613Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "ยาปฏิชีวนะ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ยาปฏิชีวนะไม่สามารถทำลายไวรัสได้"
+    ],
+    [
+      "TRANSLATION",
+      "eng:The antibiotics",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Die Antibiotika",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ยาปฏิชีวนะไม่สามารถฆ่าไวรัสได้"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:17.567807Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:17.586320Z": "TRANSLATION_DONE:deu"
+  }
+}

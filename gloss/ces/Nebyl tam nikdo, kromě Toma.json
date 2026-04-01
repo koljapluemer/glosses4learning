@@ -1,0 +1,35 @@
+{
+  "content": "Nebyl tam nikdo, kromě Toma.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nebyl"
+    ],
+    [
+      "PART",
+      "ces:tam"
+    ],
+    [
+      "PART",
+      "ces:nikdo"
+    ],
+    [
+      "PART",
+      "ces:kromě"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.155347Z": "SPLIT_DONE"
+  }
+}

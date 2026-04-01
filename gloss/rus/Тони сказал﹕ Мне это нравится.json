@@ -1,0 +1,35 @@
+{
+  "content": "Тони сказал: \"Мне это нравится\".",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sweatled (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Тони"
+    ],
+    [
+      "PART",
+      "rus:сказал"
+    ],
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:нравится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.240845Z": "SPLIT_DONE"
+  }
+}

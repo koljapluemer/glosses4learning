@@ -1,0 +1,39 @@
+{
+  "content": "Bist du auf deinem Zimmer geblieben?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Bist"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:deinem"
+    ],
+    [
+      "PART",
+      "deu:Zimmer"
+    ],
+    [
+      "PART",
+      "deu:geblieben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.321205Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "Tom",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:Tom说他感觉不舒服。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:每個人看到Tom都很驚訝。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tom",
+      "Auto-translated with argostranslate (zh→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:18.180232Z": "TRANSLATION_DONE:eng"
+  }
+}

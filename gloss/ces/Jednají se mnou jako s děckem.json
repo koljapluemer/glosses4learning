@@ -1,0 +1,39 @@
+{
+  "content": "Jednají se mnou jako s děckem.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Jednají"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:mnou"
+    ],
+    [
+      "PART",
+      "ces:jako"
+    ],
+    [
+      "PART",
+      "ces:s"
+    ],
+    [
+      "PART",
+      "ces:děckem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.775835Z": "SPLIT_DONE"
+  }
+}

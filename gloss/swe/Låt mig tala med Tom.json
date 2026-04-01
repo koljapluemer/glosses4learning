@@ -1,0 +1,35 @@
+{
+  "content": "Låt mig tala med Tom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Låt"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:tala"
+    ],
+    [
+      "PART",
+      "swe:med"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.832638Z": "SPLIT_DONE"
+  }
+}

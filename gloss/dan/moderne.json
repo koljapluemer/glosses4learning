@@ -1,0 +1,27 @@
+{
+  "content": "moderne",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom forstår sig ikke på moderne teknologi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:modern",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:modern",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:59.995858Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:00.136186Z": "TRANSLATION_DONE:deu"
+  }
+}

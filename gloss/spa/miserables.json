@@ -1,0 +1,33 @@
+{
+  "content": "miserables",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No todos los elfos son miserables"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Miserable",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Miserable",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зручний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.891912Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:09.907270Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:09.924415Z": "TRANSLATION_DONE:ukr"
+  }
+}

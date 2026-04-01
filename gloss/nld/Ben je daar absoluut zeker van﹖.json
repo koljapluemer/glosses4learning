@@ -1,0 +1,39 @@
+{
+  "content": "Ben je daar absoluut zeker van?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by spark (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:daar"
+    ],
+    [
+      "PART",
+      "nld:absoluut"
+    ],
+    [
+      "PART",
+      "nld:zeker"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.235835Z": "SPLIT_DONE"
+  }
+}

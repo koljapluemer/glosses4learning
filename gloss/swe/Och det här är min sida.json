@@ -1,0 +1,39 @@
+{
+  "content": "Och det här är min sida.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Och"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:min"
+    ],
+    [
+      "PART",
+      "swe:sida"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.796373Z": "SPLIT_DONE"
+  }
+}

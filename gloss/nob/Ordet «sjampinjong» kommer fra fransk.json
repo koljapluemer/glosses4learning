@@ -1,0 +1,35 @@
+{
+  "content": "Ordet «sjampinjong» kommer fra fransk.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by vikvaering (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Ordet"
+    ],
+    [
+      "PART",
+      "nob:sjampinjong"
+    ],
+    [
+      "PART",
+      "nob:kommer"
+    ],
+    [
+      "PART",
+      "nob:fra"
+    ],
+    [
+      "PART",
+      "nob:fransk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.230436Z": "SPLIT_DONE"
+  }
+}

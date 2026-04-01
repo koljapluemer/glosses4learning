@@ -1,0 +1,39 @@
+{
+  "content": "هل اللغة الإنجليزية أصعب من اليابانية؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هل"
+    ],
+    [
+      "PART",
+      "ara:اللغة"
+    ],
+    [
+      "PART",
+      "ara:الإنجليزية"
+    ],
+    [
+      "PART",
+      "ara:أصعب"
+    ],
+    [
+      "PART",
+      "ara:من"
+    ],
+    [
+      "PART",
+      "ara:اليابانية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.680271Z": "SPLIT_DONE"
+  }
+}

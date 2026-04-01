@@ -1,0 +1,33 @@
+{
+  "content": "beschwert",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Mitbewohnerin hat sich über den Lärm beschwert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:complained",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:скаржаться",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:50.509305Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:50.557533Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:50.583359Z": "TRANSLATION_DONE:kor"
+  }
+}

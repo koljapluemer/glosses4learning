@@ -1,0 +1,33 @@
+{
+  "content": "nachgekommen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom ist seiner Verpflichtung nicht nachgekommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we have been",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ми",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:우리는",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:13.384736Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:13.400638Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:13.414965Z": "TRANSLATION_DONE:kor"
+  }
+}

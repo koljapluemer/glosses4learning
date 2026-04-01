@@ -1,0 +1,35 @@
+{
+  "content": "Я сомневаюсь, что она придёт.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by FregOnlyOne (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:сомневаюсь"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:придёт"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.267227Z": "SPLIT_DONE"
+  }
+}

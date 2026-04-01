@@ -1,0 +1,33 @@
+{
+  "content": "kritisiert",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe keine Angst davor, kritisiert zu werden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:criticized",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Критики",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:분류되지 않음",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:02.691379Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:02.705559Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:02.723314Z": "TRANSLATION_DONE:kor"
+  }
+}

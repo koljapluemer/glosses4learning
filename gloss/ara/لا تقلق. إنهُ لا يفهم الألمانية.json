@@ -1,0 +1,35 @@
+{
+  "content": "لا تقلق. إنهُ لا يفهم الألمانية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Asma (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:تقلق"
+    ],
+    [
+      "PART",
+      "ara:إنه"
+    ],
+    [
+      "PART",
+      "ara:يفهم"
+    ],
+    [
+      "PART",
+      "ara:الألمانية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.532521Z": "SPLIT_DONE"
+  }
+}

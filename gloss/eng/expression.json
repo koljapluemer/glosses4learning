@@ -13,7 +13,9 @@
     "2026-03-28T15:25:32.108457Z": "TRANSLATION_DONE:fra",
     "2026-03-28T15:25:33.011788Z": "TRANSLATION_DONE:ita",
     "2026-03-28T15:25:34.143300Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T15:25:35.185802Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T15:25:35.185802Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:39:19.822280Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:39:19.844965Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -87,6 +89,20 @@
     [
       "TRANSLATION",
       "deu:Wort"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вираз",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ber:asawal"
     ]
   ]
 }

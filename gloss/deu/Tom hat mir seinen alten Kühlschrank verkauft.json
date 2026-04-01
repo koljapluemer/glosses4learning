@@ -1,0 +1,43 @@
+{
+  "content": "Tom hat mir seinen alten Kühlschrank verkauft.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Luiaard (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:alten"
+    ],
+    [
+      "PART",
+      "deu:Kühlschrank"
+    ],
+    [
+      "PART",
+      "deu:verkauft"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.799365Z": "SPLIT_DONE"
+  }
+}

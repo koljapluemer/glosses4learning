@@ -1,0 +1,39 @@
+{
+  "content": "Ellos están tan cansados como nosotros.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:tan"
+    ],
+    [
+      "PART",
+      "spa:cansados"
+    ],
+    [
+      "PART",
+      "spa:como"
+    ],
+    [
+      "PART",
+      "spa:nosotros"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.750532Z": "SPLIT_DONE"
+  }
+}

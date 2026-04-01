@@ -1,0 +1,35 @@
+{
+  "content": "Nejsem tak kreativní jako Tom.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nejsem"
+    ],
+    [
+      "PART",
+      "ces:tak"
+    ],
+    [
+      "PART",
+      "ces:kreativní"
+    ],
+    [
+      "PART",
+      "ces:jako"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.576517Z": "SPLIT_DONE"
+  }
+}

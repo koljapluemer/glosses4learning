@@ -1,0 +1,51 @@
+{
+  "content": "Vraiment ? Mon passe-temps favori est de lire des bandes-dessinées.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by U2FS (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vraiment"
+    ],
+    [
+      "PART",
+      "fra:Mon"
+    ],
+    [
+      "PART",
+      "fra:passe-temps"
+    ],
+    [
+      "PART",
+      "fra:favori"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:lire"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:bandes-dessinées"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.533465Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "liv",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke forestille mig et liv uden Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:life",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leben",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:52.433697Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:52.626121Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Ця",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ця книжка не моя"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This one",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das hier",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:50.956288Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:50.971706Z": "TRANSLATION_DONE:deu"
+  }
+}

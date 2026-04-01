@@ -1,0 +1,35 @@
+{
+  "content": "ouvertes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi les fenêtres sont-elles ouvertes ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Open",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Öffnen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Des fenêtres ouvertes sont bonnes pour le refroidissement"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les portes se sont ouvertes et tout le monde est entré"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:42.188877Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:42.218996Z": "TRANSLATION_DONE:deu"
+  }
+}

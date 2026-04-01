@@ -1,0 +1,33 @@
+{
+  "content": "vida",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos de ellos se han quitado la vida"
+    ],
+    [
+      "TRANSLATION",
+      "eng:life",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:життя",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.777435Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.794796Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.811731Z": "TRANSLATION_DONE:ukr"
+  }
+}

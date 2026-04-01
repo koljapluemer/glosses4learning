@@ -1,0 +1,39 @@
+{
+  "content": "Algunos profesores pelan patatas mientras enseñan.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:profesores"
+    ],
+    [
+      "PART",
+      "spa:pelan"
+    ],
+    [
+      "PART",
+      "spa:patatas"
+    ],
+    [
+      "PART",
+      "spa:mientras"
+    ],
+    [
+      "PART",
+      "spa:enseñan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.690725Z": "SPLIT_DONE"
+  }
+}

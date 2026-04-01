@@ -1,0 +1,27 @@
+{
+  "content": "hoppede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det var ikke alle, der hoppede med på vognen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hopped",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:hoppiert",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:35.857438Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:35.998524Z": "TRANSLATION_DONE:deu"
+  }
+}

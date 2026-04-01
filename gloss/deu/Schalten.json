@@ -1,0 +1,33 @@
+{
+  "content": "Schalten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Schalten Sie nicht um! Wir sind gleich wieder für Sie da"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Switching",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Перемикач",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기타 제품",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:03.004402Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:03.088315Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:03.110495Z": "TRANSLATION_DONE:kor"
+  }
+}

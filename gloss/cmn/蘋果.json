@@ -1,0 +1,29 @@
+{
+  "content": "蘋果",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:蘋果被當作甜點。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這個蘋果是最好吃的。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這隻熊正在吃一個蘋果。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Apple",
+      "Auto-translated with argostranslate (zh→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:56.818720Z": "TRANSLATION_DONE:eng"
+  }
+}

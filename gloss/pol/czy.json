@@ -6,7 +6,9 @@
     "2025-12-16T14:14:22.458Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:16:14.485Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +26,10 @@
     [
       "TRANSLATION",
       "eng:if"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Ty jesteś przyjacielem Tomasza, czy nie﹖"
     ]
   ]
 }

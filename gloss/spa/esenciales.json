@@ -1,0 +1,37 @@
+{
+  "content": "esenciales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los buenos hábitos en el comer son esenciales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:core",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kern",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Buenos hábitos en el comer son esenciales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:49.656522Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:49.806919Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:49.824661Z": "TRANSLATION_DONE:ukr"
+  }
+}

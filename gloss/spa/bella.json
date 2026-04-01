@@ -1,0 +1,33 @@
+{
+  "content": "bella",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esta noche, la luna está excepcionalmente bella"
+    ],
+    [
+      "TRANSLATION",
+      "eng:beautiful",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wunderschön",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:красиві",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:28.927190Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:28.943293Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:28.962128Z": "TRANSLATION_DONE:ukr"
+  }
+}

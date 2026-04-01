@@ -1,0 +1,27 @@
+{
+  "content": "ringede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er glad for at du ringede"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Call",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Anruf",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:20.181878Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:20.329354Z": "TRANSLATION_DONE:deu"
+  }
+}

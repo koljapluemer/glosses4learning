@@ -1,0 +1,31 @@
+{
+  "content": "Woarom hoaten joe vraauwen?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Woarom"
+    ],
+    [
+      "PART",
+      "gos:hoaten"
+    ],
+    [
+      "PART",
+      "gos:joe"
+    ],
+    [
+      "PART",
+      "gos:vraauwen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.635873Z": "SPLIT_DONE"
+  }
+}

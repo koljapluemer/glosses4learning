@@ -1,0 +1,35 @@
+{
+  "content": "prêtes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce qu'elles sont prêtes ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ready",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bereit",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je pense qu'elles sont prêtes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ces prunes sont prêtes à être mangées"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:47.305413Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:47.320071Z": "TRANSLATION_DONE:deu"
+  }
+}

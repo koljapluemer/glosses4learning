@@ -1,0 +1,31 @@
+{
+  "content": "Grönlands huvudstad är Nuuk.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Grönlands"
+    ],
+    [
+      "PART",
+      "swe:huvudstad"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:Nuuk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.811368Z": "SPLIT_DONE"
+  }
+}

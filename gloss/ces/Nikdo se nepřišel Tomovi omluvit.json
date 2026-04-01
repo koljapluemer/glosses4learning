@@ -1,0 +1,35 @@
+{
+  "content": "Nikdo se nepřišel Tomovi omluvit.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nikdo"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:nepřišel"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:omluvit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.626580Z": "SPLIT_DONE"
+  }
+}

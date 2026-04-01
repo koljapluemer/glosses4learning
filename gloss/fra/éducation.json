@@ -1,0 +1,27 @@
+{
+  "content": "éducation",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il n'avait presque aucune éducation formelle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Education",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bildung",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:56.651981Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:56.798156Z": "TRANSLATION_DONE:deu"
+  }
+}

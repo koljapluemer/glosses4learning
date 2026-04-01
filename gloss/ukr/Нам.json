@@ -1,0 +1,35 @@
+{
+  "content": "Нам",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Нам довелося застрелити наших коней"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Us",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Нам треба було зробити те, що запропонував Том"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Нам байдуже, чим він займається"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:48.885540Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:48.904290Z": "TRANSLATION_DONE:deu"
+  }
+}

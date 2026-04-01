@@ -2,12 +2,31 @@
   "content": "ayudar",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T13:53:58.785662Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.804056Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:to help"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:En la práctica, ¿Tatoeba realmente sirve para ayudar a los traductores﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Допомога",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

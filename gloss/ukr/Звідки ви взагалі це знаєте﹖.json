@@ -1,0 +1,35 @@
+{
+  "content": "Звідки ви взагалі це знаєте?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Звідки"
+    ],
+    [
+      "PART",
+      "ukr:ви"
+    ],
+    [
+      "PART",
+      "ukr:взагалі"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:знаєте"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.971437Z": "SPLIT_DONE"
+  }
+}

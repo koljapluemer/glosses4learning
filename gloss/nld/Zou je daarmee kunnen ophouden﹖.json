@@ -1,0 +1,35 @@
+{
+  "content": "Zou je daarmee kunnen ophouden?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by doemaar14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zou"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:daarmee"
+    ],
+    [
+      "PART",
+      "nld:kunnen"
+    ],
+    [
+      "PART",
+      "nld:ophouden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.160295Z": "SPLIT_DONE"
+  }
+}

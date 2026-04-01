@@ -1,0 +1,27 @@
+{
+  "content": "ข้าวเย็น",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันกินข้าวเย็นกับสามีของฉัน"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Dinner",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Abendessen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:31.194333Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:31.208644Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "undertrykker",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:De siger at islam undertrykker kvinder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor undertrykker de denne historie﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Man siger at islam undertrykker kvinder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:oppressor",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unterdrücker",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:49.845338Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:49.996310Z": "TRANSLATION_DONE:deu"
+  }
+}

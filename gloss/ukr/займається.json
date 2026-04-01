@@ -1,0 +1,27 @@
+{
+  "content": "займається",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Нам байдуже, чим він займається"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He does",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das tut er",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:56.933053Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:56.948717Z": "TRANSLATION_DONE:deu"
+  }
+}

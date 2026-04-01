@@ -12,7 +12,9 @@
     "2026-03-28T09:38:42.119616Z": "TRANSLATION_DONE:ita",
     "2026-03-28T09:38:42.969577Z": "TRANSLATION_DONE:kab",
     "2026-03-28T09:38:43.673240Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T09:38:44.493649Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T09:38:44.493649Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:08.880204Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:09.033433Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -82,6 +84,48 @@
     [
       "TRANSLATION",
       "tur:taraf"
+    ],
+    [
+      "TRANSLATION",
+      "dan:siden"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Новини",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:- 연혁",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:lado"
+    ],
+    [
+      "TRANSLATION",
+      "tha:ข้าง"
+    ],
+    [
+      "TRANSLATION",
+      "tha:ด้าน"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte kommentiere meine Seite auf Facebook mit „gefällt mir“!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich will Sie an meiner Seite haben"
+    ],
+    [
+      "TRANSLATION",
+      "tha:หน้าที่"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sayfamı"
     ]
   ]
 }

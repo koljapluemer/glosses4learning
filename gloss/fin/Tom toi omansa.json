@@ -1,0 +1,27 @@
+{
+  "content": "Tom toi omansa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:toi"
+    ],
+    [
+      "PART",
+      "fin:omansa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.894377Z": "SPLIT_DONE"
+  }
+}

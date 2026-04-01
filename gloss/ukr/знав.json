@@ -1,0 +1,39 @@
+{
+  "content": "знав",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знав, що мені слід було за неї вийти"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знав, що мені слід було за нього вийти"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знав, що ти не можеш цього зробити"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я знав, що мені слід було одружитися з нею"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I knew",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich wusste es",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:00.019052Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:00.035691Z": "TRANSLATION_DONE:deu"
+  }
+}

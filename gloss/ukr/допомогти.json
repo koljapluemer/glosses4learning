@@ -1,0 +1,31 @@
+{
+  "content": "допомогти",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти насправді хочеш допомогти﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Help",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hilfe",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви тут для того, щоб нам допомогти﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:56.862451Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:56.876973Z": "TRANSLATION_DONE:deu"
+  }
+}

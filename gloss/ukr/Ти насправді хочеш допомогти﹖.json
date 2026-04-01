@@ -1,0 +1,31 @@
+{
+  "content": "Ти насправді хочеш допомогти?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Ти"
+    ],
+    [
+      "PART",
+      "ukr:насправді"
+    ],
+    [
+      "PART",
+      "ukr:хочеш"
+    ],
+    [
+      "PART",
+      "ukr:допомогти"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.961640Z": "SPLIT_DONE"
+  }
+}

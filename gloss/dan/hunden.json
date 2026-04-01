@@ -1,0 +1,27 @@
+{
+  "content": "hunden",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Har du noget imod at lufte hunden﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the dog",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:der Hund",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:28.155580Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:28.296247Z": "TRANSLATION_DONE:deu"
+  }
+}

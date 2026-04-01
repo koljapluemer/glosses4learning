@@ -1,0 +1,35 @@
+{
+  "content": "Det er en vidunderlig verden.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Det"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:en"
+    ],
+    [
+      "PART",
+      "dan:vidunderlig"
+    ],
+    [
+      "PART",
+      "dan:verden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.654633Z": "SPLIT_DONE"
+  }
+}

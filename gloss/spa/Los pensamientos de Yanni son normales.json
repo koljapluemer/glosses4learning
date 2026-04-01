@@ -1,0 +1,39 @@
+{
+  "content": "Los pensamientos de Yanni son normales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:pensamientos"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:Yanni"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:normales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.758462Z": "SPLIT_DONE"
+  }
+}

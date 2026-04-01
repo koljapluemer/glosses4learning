@@ -5,6 +5,37 @@
     [
       "TRANSLATION",
       "tur:anlamı"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Gedanke ist mir noch nie in den Sinn gekommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Means",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:М'ясо",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Gedanke ist mir nie in den Sinn gekommen"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:36:11.147899Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:11.295488Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:11.351515Z": "TRANSLATION_DONE:kor"
+  }
 }

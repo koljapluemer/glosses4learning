@@ -1,0 +1,43 @@
+{
+  "content": "Diese Frage habe ich vorher bereits beantwortet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Diese"
+    ],
+    [
+      "PART",
+      "deu:Frage"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:vorher"
+    ],
+    [
+      "PART",
+      "deu:bereits"
+    ],
+    [
+      "PART",
+      "deu:beantwortet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.478612Z": "SPLIT_DONE"
+  }
+}

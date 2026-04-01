@@ -8,7 +8,9 @@
     "2026-01-27T14:35:18.402011Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:45.752931Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:21:45.918554Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:46.094092Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:46.094092Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:14.017209Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:14.033410Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -50,6 +52,28 @@
     [
       "TRANSLATION",
       "spa:nunca"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom sah seinen Vater niemals wieder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe niemals von diesem Schauspieler gehört"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom würde seine Kinder niemals fallen lassen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ні",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:없음",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "content": "weigerte",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom weigerte sich, meine Fragen zu beantworten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie weigerte sich, meine Frage zu beantworten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er weigerte sich, meine Fragen zu beantworten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:refused",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відмова",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:43.255585Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:43.271335Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:43.290449Z": "TRANSLATION_DONE:kor"
+  }
+}

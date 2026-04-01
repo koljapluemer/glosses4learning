@@ -1,0 +1,47 @@
+{
+  "content": "У мене є робота, яку мені потрібно зробити.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:У"
+    ],
+    [
+      "PART",
+      "ukr:мене"
+    ],
+    [
+      "PART",
+      "ukr:є"
+    ],
+    [
+      "PART",
+      "ukr:робота"
+    ],
+    [
+      "PART",
+      "ukr:яку"
+    ],
+    [
+      "PART",
+      "ukr:мені"
+    ],
+    [
+      "PART",
+      "ukr:потрібно"
+    ],
+    [
+      "PART",
+      "ukr:зробити"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.865842Z": "SPLIT_DONE"
+  }
+}

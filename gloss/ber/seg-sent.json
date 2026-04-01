@@ -1,0 +1,30 @@
+{
+  "content": "seg-sent",
+  "language": "ber",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ber:Samir ur yelli yezmer ad iwali ula d yiwet seg-sent"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ber:Ulac ccekk dakken yiwet seg-sent la yeskerkis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am hungry",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I feel hungry",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T14:51:40.423360Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Algunos animales tienen habilidades especiales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:tienen"
+    ],
+    [
+      "PART",
+      "spa:habilidades"
+    ],
+    [
+      "PART",
+      "spa:especiales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.678563Z": "SPLIT_DONE"
+  }
+}

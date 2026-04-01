@@ -1,0 +1,35 @@
+{
+  "content": "Hun nægtede at underskrive andragendet.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hun"
+    ],
+    [
+      "PART",
+      "dan:nægtede"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:underskrive"
+    ],
+    [
+      "PART",
+      "dan:andragendet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.843345Z": "SPLIT_DONE"
+  }
+}

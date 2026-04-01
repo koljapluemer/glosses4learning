@@ -1,0 +1,49 @@
+{
+  "content": "davon",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was hat dich davon abgehalten gestern zu kommen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Was hat dich davon abgehalten früher zu kommen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Regen hat mich davon abgehalten zu gehen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du kannst dir irgendeines davon aussuchen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Of which",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:З яких",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du kannst dir irgendeinen davon aussuchen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:59.917346Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:59.940030Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:59.977134Z": "TRANSLATION_DONE:kor"
+  }
+}

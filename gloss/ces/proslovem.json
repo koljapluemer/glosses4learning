@@ -1,0 +1,21 @@
+{
+  "content": "proslovem",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Byl jsem jeho proslovem zklamán"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Speech",
+      "Auto-translated with argostranslate (cs→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:36.304473Z": "TRANSLATION_DONE:eng"
+  }
+}

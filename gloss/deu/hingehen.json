@@ -1,0 +1,33 @@
+{
+  "content": "hingehen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wo immer Sie hingehen, werden Sie willkommen sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:go on",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기타",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:01.934808Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:01.949537Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:01.965532Z": "TRANSLATION_DONE:kor"
+  }
+}

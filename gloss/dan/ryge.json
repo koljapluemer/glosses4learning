@@ -1,0 +1,35 @@
+{
+  "content": "ryge",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom lovede at han ville holde op med at ryge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg holdt op med at ryge for seks måneder siden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:smoke",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rauch",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms venner gik udenfor for at ryge"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:20.761745Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:20.914304Z": "TRANSLATION_DONE:deu"
+  }
+}

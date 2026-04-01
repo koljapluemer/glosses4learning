@@ -1,0 +1,39 @@
+{
+  "content": "Ellos no se echan una siesta.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by panini_head (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:se"
+    ],
+    [
+      "PART",
+      "spa:echan"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:siesta"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.733610Z": "SPLIT_DONE"
+  }
+}

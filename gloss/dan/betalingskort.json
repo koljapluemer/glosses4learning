@@ -1,0 +1,27 @@
+{
+  "content": "betalingskort",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg betaler med dette betalingskort"
+    ],
+    [
+      "TRANSLATION",
+      "eng:payment cards;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zahlungskarten;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:49.352616Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:49.498372Z": "TRANSLATION_DONE:deu"
+  }
+}

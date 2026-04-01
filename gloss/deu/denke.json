@@ -9,7 +9,9 @@
     "2026-03-29T13:17:59.678177Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:59.862981Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:18:00.028067Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:18:00.198821Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:18:00.198821Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:02.389765Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:02.426917Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -59,6 +61,20 @@
     [
       "TRANSLATION",
       "spa:piensa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мапа",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich denke, diese Dinge sind miteinander verbunden"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Tom bana senin yardımsever olduğunu söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bana"
+    ],
+    [
+      "PART",
+      "tur:senin"
+    ],
+    [
+      "PART",
+      "tur:yardımsever"
+    ],
+    [
+      "PART",
+      "tur:olduğunu"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.279003Z": "SPLIT_DONE"
+  }
+}

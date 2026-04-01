@@ -1,0 +1,31 @@
+{
+  "content": "efforts",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:En dépit de leur efforts, elles n'y sont pas parvenues"
+    ],
+    [
+      "TRANSLATION",
+      "eng:efforts",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Maßnahmen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:En dépit de leur efforts, ils n'y sont pas parvenus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:23.926008Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:24.074437Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Nếu bạn cười, bạn thua.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leucammieuvu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Nếu"
+    ],
+    [
+      "PART",
+      "vie:bạn"
+    ],
+    [
+      "PART",
+      "vie:cười"
+    ],
+    [
+      "PART",
+      "vie:thua"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.087442Z": "SPLIT_DONE"
+  }
+}

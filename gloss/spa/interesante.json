@@ -1,0 +1,33 @@
+{
+  "content": "interesante",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me di cuenta de que esta película es muy interesante"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interesting",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:interessant",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Цікаві",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:06.104983Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:06.130250Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:06.149551Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "закрив",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Сьогодні я закрив магазин рано"
+    ],
+    [
+      "TRANSLATION",
+      "eng:closed",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geschlossen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.766872Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.779233Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "美味",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:章鱼小丸子真的很美味！"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:对于一个饥饿的人来说，任何食物都是美味。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Delicious",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她為我們煮了一頓美味的晚餐。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:51.199107Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "content": "visitantes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los visitantes no pueden alimentar a los animales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los visitantes no pueden dar de comer a los animales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El monumento está cerrado para los visitantes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Visits",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Besuche",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Відвідування",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:43.813278Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:43.828253Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:43.981312Z": "TRANSLATION_DONE:ukr"
+  }
+}

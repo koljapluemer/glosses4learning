@@ -1,0 +1,35 @@
+{
+  "content": "Je pense qu'elles sont prêtes.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:pense"
+    ],
+    [
+      "PART",
+      "fra:qu'elles"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:prêtes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.191860Z": "SPLIT_DONE"
+  }
+}

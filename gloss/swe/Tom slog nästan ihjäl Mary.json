@@ -1,0 +1,35 @@
+{
+  "content": "Tom slog nästan ihjäl Mary.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ajonsson (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:slog"
+    ],
+    [
+      "PART",
+      "swe:nästan"
+    ],
+    [
+      "PART",
+      "swe:ihjäl"
+    ],
+    [
+      "PART",
+      "swe:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.831267Z": "SPLIT_DONE"
+  }
+}

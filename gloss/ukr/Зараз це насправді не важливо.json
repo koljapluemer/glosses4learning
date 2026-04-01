@@ -1,0 +1,35 @@
+{
+  "content": "Зараз це насправді не важливо.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ahha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Зараз"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:насправді"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:важливо"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.963639Z": "SPLIT_DONE"
+  }
+}

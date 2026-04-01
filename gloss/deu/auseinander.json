@@ -1,0 +1,33 @@
+{
+  "content": "auseinander",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die Meinungen gehen an diesem Punkt auseinander"
+    ],
+    [
+      "TRANSLATION",
+      "eng:apart",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:до",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:41.380430Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:41.528822Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:41.582894Z": "TRANSLATION_DONE:kor"
+  }
+}

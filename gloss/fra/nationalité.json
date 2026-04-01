@@ -1,0 +1,27 @@
+{
+  "content": "nationalité",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:« De quelle nationalité êtes-vous tous ﹖ » « Maltais. »"
+    ],
+    [
+      "TRANSLATION",
+      "eng:nationality",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Staatsangehörigkeit",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:40.296877Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:40.441592Z": "TRANSLATION_DONE:deu"
+  }
+}

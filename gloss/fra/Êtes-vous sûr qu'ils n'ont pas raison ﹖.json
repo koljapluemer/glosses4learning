@@ -1,0 +1,39 @@
+{
+  "content": "Êtes-vous sûr qu'ils n'ont pas raison ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by josivangoncalves (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:sûr"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:n'ont"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:raison"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.535391Z": "SPLIT_DONE"
+  }
+}

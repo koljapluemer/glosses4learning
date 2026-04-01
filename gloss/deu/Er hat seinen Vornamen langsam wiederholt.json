@@ -1,0 +1,39 @@
+{
+  "content": "Er hat seinen Vornamen langsam wiederholt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alik_farber (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Er"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Vornamen"
+    ],
+    [
+      "PART",
+      "deu:langsam"
+    ],
+    [
+      "PART",
+      "deu:wiederholt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.893847Z": "SPLIT_DONE"
+  }
+}

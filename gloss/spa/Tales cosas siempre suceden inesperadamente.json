@@ -1,0 +1,35 @@
+{
+  "content": "Tales cosas siempre suceden inesperadamente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tales"
+    ],
+    [
+      "PART",
+      "spa:cosas"
+    ],
+    [
+      "PART",
+      "spa:siempre"
+    ],
+    [
+      "PART",
+      "spa:suceden"
+    ],
+    [
+      "PART",
+      "spa:inesperadamente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.671840Z": "SPLIT_DONE"
+  }
+}

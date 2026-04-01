@@ -1,0 +1,31 @@
+{
+  "content": "Ella supuestamente le asesinó.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by teskmon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:supuestamente"
+    ],
+    [
+      "PART",
+      "spa:le"
+    ],
+    [
+      "PART",
+      "spa:asesinó"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.651179Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "sistema",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El sistema de inmigración de los Estados Unidos está dañado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:system",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:System",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:системи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:34.901242Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:34.915159Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:34.931297Z": "TRANSLATION_DONE:ukr"
+  }
+}

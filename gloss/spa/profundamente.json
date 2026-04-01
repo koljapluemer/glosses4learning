@@ -1,0 +1,33 @@
+{
+  "content": "profundamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yanni disfruta de esos momentos profundamente personales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deeply",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tiefgründig",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:глибоко",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:13.507781Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:13.524968Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:13.539835Z": "TRANSLATION_DONE:ukr"
+  }
+}

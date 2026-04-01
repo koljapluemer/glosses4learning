@@ -1,0 +1,43 @@
+{
+  "content": "Mi hermano menor está mirando la televisión.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by robespain (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Mi"
+    ],
+    [
+      "PART",
+      "spa:hermano"
+    ],
+    [
+      "PART",
+      "spa:menor"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:mirando"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:televisión"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.564543Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom kommer nok ikke til tiden.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SeaLiteral (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:kommer"
+    ],
+    [
+      "PART",
+      "dan:nok"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:til"
+    ],
+    [
+      "PART",
+      "dan:tiden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.623047Z": "SPLIT_DONE"
+  }
+}

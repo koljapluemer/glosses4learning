@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:35:28.680606Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:21:52.638017Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:21:52.803885Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:21:52.803885Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:14.621808Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:14.769408Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -45,6 +47,28 @@
     [
       "TRANSLATION",
       "rus:об"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es gelang Tom nicht, das Bilderrätsel zur Feststellung, ob er ein Mensch sei, zu lösen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte tu so, als ob es die Unterhaltung vorhin nie gegeben hätte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hör auf so zu tun, als ob du nicht verstehen würdest"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:чи﹕",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름﹕",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

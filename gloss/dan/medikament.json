@@ -1,0 +1,39 @@
+{
+  "content": "medikament",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Er du allergisk over for dette medikament﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Er du overfølsom over for dette medikament﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette medikament har ingen skadelige bivirkninger"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette medikament vil lindre dine smerter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:medicine",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Medizin",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:56.192170Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:56.192463Z": "TRANSLATION_DONE:deu"
+  }
+}

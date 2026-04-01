@@ -1,0 +1,31 @@
+{
+  "content": "Jag är din advokat.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by loghaD (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:din"
+    ],
+    [
+      "PART",
+      "swe:advokat"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.813510Z": "SPLIT_DONE"
+  }
+}

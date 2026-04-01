@@ -1,0 +1,43 @@
+{
+  "content": "Tom Mary'nin ağlamayacağı konusunda benimle iddiaya girdi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary'nin"
+    ],
+    [
+      "PART",
+      "tur:ağlamayacağı"
+    ],
+    [
+      "PART",
+      "tur:konusunda"
+    ],
+    [
+      "PART",
+      "tur:benimle"
+    ],
+    [
+      "PART",
+      "tur:iddiaya"
+    ],
+    [
+      "PART",
+      "tur:girdi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.553334Z": "SPLIT_DONE"
+  }
+}

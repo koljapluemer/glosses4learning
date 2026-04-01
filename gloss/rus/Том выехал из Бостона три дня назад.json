@@ -1,0 +1,43 @@
+{
+  "content": "Том выехал из Бостона три дня назад.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:выехал"
+    ],
+    [
+      "PART",
+      "rus:из"
+    ],
+    [
+      "PART",
+      "rus:Бостона"
+    ],
+    [
+      "PART",
+      "rus:три"
+    ],
+    [
+      "PART",
+      "rus:дня"
+    ],
+    [
+      "PART",
+      "rus:назад"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.643226Z": "SPLIT_DONE"
+  }
+}

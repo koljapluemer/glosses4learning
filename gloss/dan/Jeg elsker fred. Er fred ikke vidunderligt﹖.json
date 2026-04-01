@@ -1,0 +1,39 @@
+{
+  "content": "Jeg elsker fred. Er fred ikke vidunderligt?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:elsker"
+    ],
+    [
+      "PART",
+      "dan:fred"
+    ],
+    [
+      "PART",
+      "dan:Er"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:vidunderligt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:28.008600Z": "SPLIT_DONE"
+  }
+}

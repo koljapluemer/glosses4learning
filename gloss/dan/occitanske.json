@@ -1,0 +1,27 @@
+{
+  "content": "occitanske",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg elsker det occitanske sprog"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Occitan",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Okzitan",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:08.002406Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:08.145124Z": "TRANSLATION_DONE:deu"
+  }
+}

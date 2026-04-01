@@ -1,0 +1,27 @@
+{
+  "content": "disposez-vous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ne disposez-vous pas d'un appareil pour l'air conditionné ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you have",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du hast",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:21.467121Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:21.594775Z": "TRANSLATION_DONE:deu"
+  }
+}

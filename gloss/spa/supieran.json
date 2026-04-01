@@ -1,0 +1,33 @@
+{
+  "content": "supieran",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se casó sin que sus padres lo supieran"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They knew",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie wussten es",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони знають",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:16.843794Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:16.993163Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.013149Z": "TRANSLATION_DONE:ukr"
+  }
+}

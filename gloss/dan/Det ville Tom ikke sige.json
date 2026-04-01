@@ -1,0 +1,35 @@
+{
+  "content": "Det ville Tom ikke sige.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sifhg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Det"
+    ],
+    [
+      "PART",
+      "dan:ville"
+    ],
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:sige"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.687049Z": "SPLIT_DONE"
+  }
+}

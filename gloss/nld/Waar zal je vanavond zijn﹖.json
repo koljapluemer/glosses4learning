@@ -1,0 +1,35 @@
+{
+  "content": "Waar zal je vanavond zijn?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waar"
+    ],
+    [
+      "PART",
+      "nld:zal"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:vanavond"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.176357Z": "SPLIT_DONE"
+  }
+}

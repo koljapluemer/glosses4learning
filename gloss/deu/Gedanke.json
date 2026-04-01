@@ -5,6 +5,37 @@
     [
       "TRANSLATION",
       "ita:pensiero"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Gedanke ist mir noch nie in den Sinn gekommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thought",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:думав",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Gedanke ist mir nie in den Sinn gekommen"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:35:22.758144Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:22.894792Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:22.959136Z": "TRANSLATION_DONE:kor"
+  }
 }

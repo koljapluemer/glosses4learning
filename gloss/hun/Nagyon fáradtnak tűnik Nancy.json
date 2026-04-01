@@ -1,0 +1,31 @@
+{
+  "content": "Nagyon fáradtnak tűnik Nancy.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Nagyon"
+    ],
+    [
+      "PART",
+      "hun:fáradtnak"
+    ],
+    [
+      "PART",
+      "hun:tűnik"
+    ],
+    [
+      "PART",
+      "hun:Nancy"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.904659Z": "SPLIT_DONE"
+  }
+}

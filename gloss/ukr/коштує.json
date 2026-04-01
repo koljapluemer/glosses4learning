@@ -1,0 +1,27 @@
+{
+  "content": "коштує",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Скільки коштує сорочка﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It costs",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es kostet",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:00.211600Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:00.229466Z": "TRANSLATION_DONE:deu"
+  }
+}

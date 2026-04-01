@@ -10,7 +10,8 @@
     "2026-03-29T14:24:39.166657Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:39.345728Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:39.515385Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:39.724707Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:39.724707Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:06.738725Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,27 @@
     [
       "TRANSLATION",
       "tur:yürür"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los elefantes son animales que no saben ir en bicicleta"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella quedó determinada en ir a la universidad"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los comerciales tienen que ir bien vestidos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No te puedes ir a casa hasta las dos y media"
     ]
   ]
 }

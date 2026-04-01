@@ -1,0 +1,35 @@
+{
+  "content": "Y",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Y a-t-il des personnes qui parlent français au Canada ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Y",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Y",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Y avait-il qui que ce soit d'autre dans les environs ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Y a-t-il des points sur lesquels vous souhaiteriez revenir ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:09.727885Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:09.874019Z": "TRANSLATION_DONE:deu"
+  }
+}

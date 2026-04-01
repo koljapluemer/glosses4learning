@@ -1,0 +1,31 @@
+{
+  "content": "Tom bejelentette nővére eltűnését.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dnelli (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:bejelentette"
+    ],
+    [
+      "PART",
+      "hun:nővére"
+    ],
+    [
+      "PART",
+      "hun:eltűnését"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.884876Z": "SPLIT_DONE"
+  }
+}

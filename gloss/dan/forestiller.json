@@ -1,0 +1,27 @@
+{
+  "content": "forestiller",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er bare noget du forestiller dig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:viewer",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Blick",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:11.358071Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:11.523273Z": "TRANSLATION_DONE:deu"
+  }
+}

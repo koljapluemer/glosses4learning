@@ -1,0 +1,35 @@
+{
+  "content": "Tom har mange fransktalende venner.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:mange"
+    ],
+    [
+      "PART",
+      "nob:fransktalende"
+    ],
+    [
+      "PART",
+      "nob:venner"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.345252Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "scio",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Te scio autocinetum emendavisse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I know",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:45:07.084376Z": "TRANSLATION_DONE:eng"
+  }
+}

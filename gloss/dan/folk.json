@@ -1,0 +1,31 @@
+{
+  "content": "folk",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg bryder mig ikke om folk som dig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:people",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Menschen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor forlader folk Algier﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:09.732989Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:09.870755Z": "TRANSLATION_DONE:deu"
+  }
+}

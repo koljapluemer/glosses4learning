@@ -1,0 +1,35 @@
+{
+  "content": "Sono andato in biblioteca ieri.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:andato"
+    ],
+    [
+      "PART",
+      "ita:in"
+    ],
+    [
+      "PART",
+      "ita:biblioteca"
+    ],
+    [
+      "PART",
+      "ita:ieri"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:01.892595Z": "SPLIT_DONE"
+  }
+}

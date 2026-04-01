@@ -9,7 +9,9 @@
     "2026-03-29T13:16:13.260712Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:16:13.449561Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:16:13.645610Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:16:13.828354Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:16:13.828354Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:32.951515Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:32.967109Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -63,6 +65,24 @@
     [
       "TRANSLATION",
       "tur:Kim"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wer kann sonst noch meine Frage beantworten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Хто﹖",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:누가﹖",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кого"
     ]
   ]
 }

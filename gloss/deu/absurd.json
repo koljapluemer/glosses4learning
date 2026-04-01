@@ -1,0 +1,33 @@
+{
+  "content": "absurd",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Verhaltensweise ist absurd!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:absurd",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:абсурд",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:36.762259Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:36.784834Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:36.805079Z": "TRANSLATION_DONE:kor"
+  }
+}

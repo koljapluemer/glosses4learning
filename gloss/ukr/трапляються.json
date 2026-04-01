@@ -1,0 +1,27 @@
+{
+  "content": "трапляються",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тут трапляються дивні речі"
+    ],
+    [
+      "TRANSLATION",
+      "eng:happens",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:passiert",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:14.103320Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:14.117476Z": "TRANSLATION_DONE:deu"
+  }
+}

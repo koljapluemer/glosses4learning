@@ -1,0 +1,39 @@
+{
+  "content": "Byłem zmęczony i było mi zimno.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nusia2302 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Byłem"
+    ],
+    [
+      "PART",
+      "pol:zmęczony"
+    ],
+    [
+      "PART",
+      "pol:i"
+    ],
+    [
+      "PART",
+      "pol:było"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:zimno"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.794328Z": "SPLIT_DONE"
+  }
+}

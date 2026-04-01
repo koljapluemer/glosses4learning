@@ -1,0 +1,27 @@
+{
+  "content": "web",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Neredeyse hiç kimse benim web sayfamı okumaz"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Home",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:50.758095Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:50.772756Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "De muizen hebben geen kleinkinderen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:De"
+    ],
+    [
+      "PART",
+      "nld:muizen"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:kleinkinderen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.176882Z": "SPLIT_DONE"
+  }
+}

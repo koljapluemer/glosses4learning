@@ -9,7 +9,9 @@
     "2026-03-29T13:24:13.941401Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:24:14.093472Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:24:14.252611Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:24:14.414014Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:24:14.414014Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:45.840382Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:45.856144Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,16 @@
     [
       "TRANSLATION",
       "tur:elde edildi"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그들은",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

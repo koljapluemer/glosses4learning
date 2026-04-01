@@ -1,0 +1,51 @@
+{
+  "content": "Mi pensas, ke tio estas la domo de Tom.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Hans07 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:pensas"
+    ],
+    [
+      "PART",
+      "epo:ke"
+    ],
+    [
+      "PART",
+      "epo:tio"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:la"
+    ],
+    [
+      "PART",
+      "epo:domo"
+    ],
+    [
+      "PART",
+      "epo:de"
+    ],
+    [
+      "PART",
+      "epo:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:36.042941Z": "SPLIT_DONE"
+  }
+}

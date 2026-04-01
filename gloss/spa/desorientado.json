@@ -1,0 +1,33 @@
+{
+  "content": "desorientado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom dijo que él estaba completamente desorientado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:misoriented",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:fehlorientiert",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:анотація",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:42.114823Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:42.132380Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:42.150239Z": "TRANSLATION_DONE:ukr"
+  }
+}

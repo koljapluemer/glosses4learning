@@ -1,0 +1,37 @@
+{
+  "content": "ve",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mary ve la televisión todas las noches"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Él ve la televisión todos los días﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Go",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Los!",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.521062Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.521517Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.522208Z": "TRANSLATION_DONE:ukr"
+  }
+}

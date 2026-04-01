@@ -1,0 +1,33 @@
+{
+  "content": "desprecia",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente honesta desprecia a aquellos que mienten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:He despises",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er verachtet",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Хлопчики",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:42.170899Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:42.187946Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:42.206060Z": "TRANSLATION_DONE:ukr"
+  }
+}

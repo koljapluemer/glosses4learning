@@ -1,0 +1,47 @@
+{
+  "content": "Tom har som alltid en lösning till hands.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:som"
+    ],
+    [
+      "PART",
+      "swe:alltid"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:lösning"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:hands"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:14.906610Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Zdá se, že je nemocný.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Zdá"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:nemocný"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.804069Z": "SPLIT_DONE"
+  }
+}

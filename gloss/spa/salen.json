@@ -1,0 +1,33 @@
+{
+  "content": "salen",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los que salen en la foto están sonriendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:come out",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Komm!",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:30.390475Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:30.405304Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:30.421282Z": "TRANSLATION_DONE:ukr"
+  }
+}

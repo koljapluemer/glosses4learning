@@ -1,0 +1,21 @@
+{
+  "content": "stemming",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik ben niet in een stemming om mijn huiswerk af te maken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:vote",
+      "Auto-translated with argostranslate (nl→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:26.775457Z": "TRANSLATION_DONE:eng"
+  }
+}

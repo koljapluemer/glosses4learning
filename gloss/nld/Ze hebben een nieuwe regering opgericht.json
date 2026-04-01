@@ -1,0 +1,39 @@
+{
+  "content": "Ze hebben een nieuwe regering opgericht.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ze"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:nieuwe"
+    ],
+    [
+      "PART",
+      "nld:regering"
+    ],
+    [
+      "PART",
+      "nld:opgericht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.173322Z": "SPLIT_DONE"
+  }
+}

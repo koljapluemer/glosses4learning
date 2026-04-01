@@ -1,0 +1,31 @@
+{
+  "content": "أين أكلت الليلة الماضية؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أين"
+    ],
+    [
+      "PART",
+      "ara:أكلت"
+    ],
+    [
+      "PART",
+      "ara:الليلة"
+    ],
+    [
+      "PART",
+      "ara:الماضية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:08:33.647576Z": "SPLIT_DONE"
+  }
+}

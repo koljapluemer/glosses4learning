@@ -1,0 +1,51 @@
+{
+  "content": "Tom håbede at Mary ikke ville komme for sent.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SeaLiteral (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:håbede"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:ville"
+    ],
+    [
+      "PART",
+      "dan:komme"
+    ],
+    [
+      "PART",
+      "dan:for"
+    ],
+    [
+      "PART",
+      "dan:sent"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.556643Z": "SPLIT_DONE"
+  }
+}

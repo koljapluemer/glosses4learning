@@ -1,0 +1,43 @@
+{
+  "content": "Jeg ved, at Tom er en minearbejder.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by M1dx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:ved"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:en"
+    ],
+    [
+      "PART",
+      "dan:minearbejder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.816753Z": "SPLIT_DONE"
+  }
+}

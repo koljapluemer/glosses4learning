@@ -1,0 +1,27 @@
+{
+  "content": "vædde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil vædde på at Tom ikke vil gøre det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Bet",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bestimmt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:06.029301Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:06.262203Z": "TRANSLATION_DONE:deu"
+  }
+}

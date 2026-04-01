@@ -1,0 +1,39 @@
+{
+  "content": "Quelle est la différence entre celles-ci ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelle"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:différence"
+    ],
+    [
+      "PART",
+      "fra:entre"
+    ],
+    [
+      "PART",
+      "fra:celles-ci"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.395177Z": "SPLIT_DONE"
+  }
+}

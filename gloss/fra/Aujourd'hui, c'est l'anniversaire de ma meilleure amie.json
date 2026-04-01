@@ -1,0 +1,43 @@
+{
+  "content": "Aujourd'hui, c'est l'anniversaire de ma meilleure amie.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Aujourd'hui"
+    ],
+    [
+      "PART",
+      "fra:c'est"
+    ],
+    [
+      "PART",
+      "fra:l'anniversaire"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:ma"
+    ],
+    [
+      "PART",
+      "fra:meilleure"
+    ],
+    [
+      "PART",
+      "fra:amie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.036237Z": "SPLIT_DONE"
+  }
+}

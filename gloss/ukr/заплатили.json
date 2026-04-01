@@ -1,0 +1,27 @@
+{
+  "content": "заплатили",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви заплатили йому чотири долари"
+    ],
+    [
+      "TRANSLATION",
+      "eng:paid",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bezahlt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:58.068470Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:58.085044Z": "TRANSLATION_DONE:deu"
+  }
+}

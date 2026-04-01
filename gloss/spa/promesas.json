@@ -1,0 +1,33 @@
+{
+  "content": "promesas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente no siempre cumple sus promesas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pledge",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pfand",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:панчохи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:13.551968Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:13.567558Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:13.716912Z": "TRANSLATION_DONE:ukr"
+  }
+}

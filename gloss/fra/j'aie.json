@@ -1,0 +1,31 @@
+{
+  "content": "j'aie",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Vous avez peur que j'aie raison, n'est-ce pas ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tu as peur que j'aie raison, n'est-ce pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich habe",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:29.218037Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:29.251050Z": "TRANSLATION_DONE:deu"
+  }
+}

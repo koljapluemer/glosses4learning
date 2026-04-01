@@ -1,0 +1,27 @@
+{
+  "content": "s'intéresse",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il s'intéresse à la musique, n'est-ce pas ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interested",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Interesse",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.029047Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.043462Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Chez",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Chez les primates, l'épouillage augmente la cohésion du groupe"
+    ],
+    [
+      "TRANSLATION",
+      "eng:At",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Am",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:30.233850Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:30.248886Z": "TRANSLATION_DONE:deu"
+  }
+}

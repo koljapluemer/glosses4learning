@@ -1,0 +1,35 @@
+{
+  "content": "Potestne aliquis ibi scriptum legere?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potestne"
+    ],
+    [
+      "PART",
+      "lat:aliquis"
+    ],
+    [
+      "PART",
+      "lat:ibi"
+    ],
+    [
+      "PART",
+      "lat:scriptum"
+    ],
+    [
+      "PART",
+      "lat:legere"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.314068Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "estudiando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Estás trabajando﹖ - No, estoy solamente estudiando"
+    ],
+    [
+      "TRANSLATION",
+      "eng:studying",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Studium",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:навчання",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:05.692082Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:05.705236Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:05.719414Z": "TRANSLATION_DONE:ukr"
+  }
+}

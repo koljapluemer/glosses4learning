@@ -1,0 +1,43 @@
+{
+  "content": "Ces prunes sont prêtes à être mangées.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by genes1s (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:prunes"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:prêtes"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:être"
+    ],
+    [
+      "PART",
+      "fra:mangées"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.372696Z": "SPLIT_DONE"
+  }
+}

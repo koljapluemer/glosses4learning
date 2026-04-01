@@ -1,0 +1,27 @@
+{
+  "content": "critiquer",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Tout ce que vous faites, c'est critiquer les autres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:criticise",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kritik",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:17.856791Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:18.010577Z": "TRANSLATION_DONE:deu"
+  }
+}

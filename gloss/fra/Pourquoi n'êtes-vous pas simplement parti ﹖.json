@@ -1,0 +1,35 @@
+{
+  "content": "Pourquoi n'êtes-vous pas simplement parti ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:n'êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:simplement"
+    ],
+    [
+      "PART",
+      "fra:parti"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.651081Z": "SPLIT_DONE"
+  }
+}

@@ -9,6 +9,33 @@
     [
       "TRANSLATION",
       "fra:contient"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Bierkrug enthält ein pint. Aber wie viel mag das sein﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Containing by weight﹕",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Містить вага﹕",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:무게에 의해 포함﹕",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-03-31T11:37:14.424152Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:14.574885Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:14.631917Z": "TRANSLATION_DONE:kor"
+  }
 }

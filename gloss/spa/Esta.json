@@ -10,7 +10,8 @@
     "2026-03-29T14:20:55.383210Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:20:55.547653Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:20:55.729086Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:20:55.895895Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:20:55.895895Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:17.124900Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,19 @@
     [
       "TRANSLATION",
       "tur:Bu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esta noche, la luna está excepcionalmente bella"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¡Esta noche siento que quiero hacer algo!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це його",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

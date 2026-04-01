@@ -1,0 +1,39 @@
+{
+  "content": "Thomas risit ubi Maria hoc dixit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:risit"
+    ],
+    [
+      "PART",
+      "lat:ubi"
+    ],
+    [
+      "PART",
+      "lat:Maria"
+    ],
+    [
+      "PART",
+      "lat:hoc"
+    ],
+    [
+      "PART",
+      "lat:dixit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.333579Z": "SPLIT_DONE"
+  }
+}

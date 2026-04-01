@@ -1,0 +1,31 @@
+{
+  "content": "ihtiyacın",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom senin bir işe ihtiyacın olduğunu söyledi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom senin buna ihtiyacın olduğunu söyledi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you need",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du brauchst",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:48.121981Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:48.139258Z": "TRANSLATION_DONE:deu"
+  }
+}

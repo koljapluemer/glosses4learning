@@ -1,0 +1,27 @@
+{
+  "content": "хмара",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Та хмара схожа на Китай"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cloud",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wolke",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:15.079096Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:15.228205Z": "TRANSLATION_DONE:deu"
+  }
+}

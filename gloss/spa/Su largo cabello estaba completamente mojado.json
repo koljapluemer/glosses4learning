@@ -1,0 +1,39 @@
+{
+  "content": "Su largo cabello estaba completamente mojado.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ventana (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Su"
+    ],
+    [
+      "PART",
+      "spa:largo"
+    ],
+    [
+      "PART",
+      "spa:cabello"
+    ],
+    [
+      "PART",
+      "spa:estaba"
+    ],
+    [
+      "PART",
+      "spa:completamente"
+    ],
+    [
+      "PART",
+      "spa:mojado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.663200Z": "SPLIT_DONE"
+  }
+}

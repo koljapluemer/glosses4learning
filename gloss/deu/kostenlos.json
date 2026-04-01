@@ -8,7 +8,9 @@
     "2026-01-27T14:34:35.945265Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:20:56.408270Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:56.577142Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:20:56.760153Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:20:56.760153Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:06.752031Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:06.769426Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,24 @@
     [
       "TRANSLATION",
       "rus:бесплатно"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Безкоштовно",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:무료 다운로드",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:libre"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вільного"
     ]
   ]
 }

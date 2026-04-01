@@ -1,0 +1,27 @@
+{
+  "content": "hundehuset",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor er katten i hundehuset﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Dog house",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hundehaus",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:27.993032Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:28.136080Z": "TRANSLATION_DONE:deu"
+  }
+}

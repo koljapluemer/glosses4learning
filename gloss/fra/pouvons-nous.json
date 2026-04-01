@@ -1,0 +1,27 @@
+{
+  "content": "pouvons-nous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Comment pouvons-nous acheter des marchandises britanniques ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can we",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Können wir",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:45.773582Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:45.803515Z": "TRANSLATION_DONE:deu"
+  }
+}

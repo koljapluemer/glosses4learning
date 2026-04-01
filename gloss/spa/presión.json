@@ -1,0 +1,33 @@
+{
+  "content": "presión",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay que meterle más presión a aquella rueda"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pressure",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Druck",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тиск",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:25.836573Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.852967Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.874394Z": "TRANSLATION_DONE:ukr"
+  }
+}

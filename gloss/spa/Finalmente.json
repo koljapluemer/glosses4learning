@@ -1,0 +1,33 @@
+{
+  "content": "Finalmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Finalmente, ella se fue a Estados Unidos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Finally",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schluss",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Навігація",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:17.429613Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:17.445631Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:17.463831Z": "TRANSLATION_DONE:ukr"
+  }
+}

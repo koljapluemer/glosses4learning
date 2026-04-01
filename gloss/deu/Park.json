@@ -9,7 +9,9 @@
     "2026-03-29T13:14:45.248289Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:45.424663Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:45.630859Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:45.783950Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:45.783950Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:54.142869Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:54.216188Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,20 @@
     [
       "TRANSLATION",
       "ita:parco"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es war kein Spaziergang im Park, sich mit Ziri auseinandersetzen zu müssen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Паркінг",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

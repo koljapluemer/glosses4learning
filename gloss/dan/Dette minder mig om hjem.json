@@ -1,0 +1,35 @@
+{
+  "content": "Dette minder mig om hjem.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by KasperNymand (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Dette"
+    ],
+    [
+      "PART",
+      "dan:minder"
+    ],
+    [
+      "PART",
+      "dan:mig"
+    ],
+    [
+      "PART",
+      "dan:om"
+    ],
+    [
+      "PART",
+      "dan:hjem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.750891Z": "SPLIT_DONE"
+  }
+}

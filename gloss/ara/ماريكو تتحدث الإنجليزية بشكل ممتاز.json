@@ -1,0 +1,35 @@
+{
+  "content": "ماريكو تتحدث الإنجليزية بشكل ممتاز.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ماريكو"
+    ],
+    [
+      "PART",
+      "ara:تتحدث"
+    ],
+    [
+      "PART",
+      "ara:الإنجليزية"
+    ],
+    [
+      "PART",
+      "ara:بشكل"
+    ],
+    [
+      "PART",
+      "ara:ممتاز"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.902352Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Ты позвонишь сегодня Тому?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Ты"
+    ],
+    [
+      "PART",
+      "rus:позвонишь"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.545186Z": "SPLIT_DONE"
+  }
+}

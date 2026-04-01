@@ -1,0 +1,31 @@
+{
+  "content": "Thomas menda Mariae indicavit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:menda"
+    ],
+    [
+      "PART",
+      "lat:Mariae"
+    ],
+    [
+      "PART",
+      "lat:indicavit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.319097Z": "SPLIT_DONE"
+  }
+}

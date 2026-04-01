@@ -1,0 +1,35 @@
+{
+  "content": "Politiker sollten ihre Versprechen einhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Inoue (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Politiker"
+    ],
+    [
+      "PART",
+      "deu:sollten"
+    ],
+    [
+      "PART",
+      "deu:ihre"
+    ],
+    [
+      "PART",
+      "deu:Versprechen"
+    ],
+    [
+      "PART",
+      "deu:einhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.363336Z": "SPLIT_DONE"
+  }
+}

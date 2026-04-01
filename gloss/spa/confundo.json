@@ -1,0 +1,33 @@
+{
+  "content": "confundo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A menudo confundo las vocales del castellano"
+    ],
+    [
+      "TRANSLATION",
+      "eng:confused",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verwirrt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:лаціна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:35.218674Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:35.237881Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:35.381845Z": "TRANSLATION_DONE:ukr"
+  }
+}

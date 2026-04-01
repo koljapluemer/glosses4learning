@@ -1,0 +1,33 @@
+{
+  "content": "desesperadamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella necesitaba el dinero desesperadamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:desperately",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verzweifelt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:деператно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:03.026044Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:03.045986Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:03.068260Z": "TRANSLATION_DONE:ukr"
+  }
+}

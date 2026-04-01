@@ -1,0 +1,43 @@
+{
+  "content": "Personne ne sait comment l'accident s'est passé.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Salutlolo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Personne"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:sait"
+    ],
+    [
+      "PART",
+      "fra:comment"
+    ],
+    [
+      "PART",
+      "fra:l'accident"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.392913Z": "SPLIT_DONE"
+  }
+}

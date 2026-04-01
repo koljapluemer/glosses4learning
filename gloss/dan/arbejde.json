@@ -1,0 +1,39 @@
+{
+  "content": "arbejde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke holde ud at arbejde her"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er ikke kommet hjem fra arbejde endnu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arbeit",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi sammenlignede hans arbejde med hendes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom og jeg kører sammen til arbejde"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:45.140434Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:45.280779Z": "TRANSLATION_DONE:deu"
+  }
+}

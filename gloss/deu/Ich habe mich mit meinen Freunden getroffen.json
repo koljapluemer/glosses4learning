@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe mich mit meinen Freunden getroffen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:mich"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Freunden"
+    ],
+    [
+      "PART",
+      "deu:getroffen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.843386Z": "SPLIT_DONE"
+  }
+}

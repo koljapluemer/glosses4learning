@@ -10,7 +10,8 @@
     "2026-03-29T14:22:28.976719Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:22:29.158278Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:22:29.357775Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:22:29.538784Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:22:29.538784Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:31.672892Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,31 @@
     [
       "TRANSLATION",
       "tur:ev"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella generalmente está en casa los domingos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, mi padre no está en casa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se fue antes de que yo llegara a casa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:будинок",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele comer fuera de casa los lunes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No te puedes ir a casa hasta las dos y media"
     ]
   ]
 }

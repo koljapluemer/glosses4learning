@@ -1,0 +1,27 @@
+{
+  "content": "snart",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det her kommer vi snart til at tale om"
+    ],
+    [
+      "TRANSLATION",
+      "eng:soon",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bald",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:34.866235Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:35.005786Z": "TRANSLATION_DONE:deu"
+  }
+}

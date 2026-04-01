@@ -1,0 +1,33 @@
+{
+  "content": "agradan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él realmente le agradan los Estados Unidos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they please",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sieSie bitte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ми",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:23.731021Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:23.754481Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:23.901623Z": "TRANSLATION_DONE:ukr"
+  }
+}

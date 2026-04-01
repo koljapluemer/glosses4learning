@@ -1,0 +1,35 @@
+{
+  "content": "Quelle est l'utilité d'une discussion ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelle"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:l'utilité"
+    ],
+    [
+      "PART",
+      "fra:d'une"
+    ],
+    [
+      "PART",
+      "fra:discussion"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.502650Z": "SPLIT_DONE"
+  }
+}

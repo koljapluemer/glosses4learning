@@ -1,0 +1,31 @@
+{
+  "content": "Jag talar inte finska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:talar"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:finska"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.834349Z": "SPLIT_DONE"
+  }
+}

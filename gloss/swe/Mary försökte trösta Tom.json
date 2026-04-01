@@ -1,0 +1,31 @@
+{
+  "content": "Mary försökte trösta Tom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kadena (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Mary"
+    ],
+    [
+      "PART",
+      "swe:försökte"
+    ],
+    [
+      "PART",
+      "swe:trösta"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.859045Z": "SPLIT_DONE"
+  }
+}

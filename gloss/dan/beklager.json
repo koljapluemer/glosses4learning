@@ -1,0 +1,27 @@
+{
+  "content": "beklager",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg beklager! Jeg troede du vidste det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Sorry",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tut mir leid",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:47.917930Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:48.147462Z": "TRANSLATION_DONE:deu"
+  }
+}

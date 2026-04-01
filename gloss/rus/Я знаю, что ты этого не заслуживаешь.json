@@ -1,0 +1,43 @@
+{
+  "content": "Я знаю, что ты этого не заслуживаешь.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:знаю"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:ты"
+    ],
+    [
+      "PART",
+      "rus:этого"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:заслуживаешь"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.273957Z": "SPLIT_DONE"
+  }
+}

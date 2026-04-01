@@ -1,0 +1,39 @@
+{
+  "content": "Ella simpatizó con aquellas desafortunadas personas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:simpatizó"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:aquellas"
+    ],
+    [
+      "PART",
+      "spa:desafortunadas"
+    ],
+    [
+      "PART",
+      "spa:personas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.619034Z": "SPLIT_DONE"
+  }
+}

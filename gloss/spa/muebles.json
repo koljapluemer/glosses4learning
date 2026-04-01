@@ -1,0 +1,49 @@
+{
+  "content": "muebles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos repararon malamente los muebles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:furniture",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Möbel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:меблі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella tiene algunos bonitos muebles antiguos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos repararon pésimamente los muebles"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Mary le gustan los muebles modernos de mediados de siglo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Tom le gustan los muebles modernos de mediados de siglo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:16.187974Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:16.207349Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:16.347655Z": "TRANSLATION_DONE:ukr"
+  }
+}

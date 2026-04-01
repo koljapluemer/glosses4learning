@@ -1,0 +1,31 @@
+{
+  "content": "Nincs metró a városomban.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Nincs"
+    ],
+    [
+      "PART",
+      "hun:metró"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:városomban"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.886769Z": "SPLIT_DONE"
+  }
+}

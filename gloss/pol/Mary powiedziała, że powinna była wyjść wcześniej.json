@@ -1,0 +1,43 @@
+{
+  "content": "Mary powiedziała, że powinna była wyjść wcześniej.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aurchykr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:powiedziała"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:powinna"
+    ],
+    [
+      "PART",
+      "pol:była"
+    ],
+    [
+      "PART",
+      "pol:wyjść"
+    ],
+    [
+      "PART",
+      "pol:wcześniej"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.253564Z": "SPLIT_DONE"
+  }
+}

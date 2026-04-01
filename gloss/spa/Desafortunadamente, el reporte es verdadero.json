@@ -1,0 +1,35 @@
+{
+  "content": "Desafortunadamente, el reporte es verdadero.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dfrankmv (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Desafortunadamente"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:reporte"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:verdadero"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.740875Z": "SPLIT_DONE"
+  }
+}

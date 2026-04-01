@@ -1,0 +1,31 @@
+{
+  "content": "håber",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg håber Tom har det bedre i dag"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg håber at du ikke synger"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hope",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hoffnung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:39.753614Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:39.900668Z": "TRANSLATION_DONE:deu"
+  }
+}

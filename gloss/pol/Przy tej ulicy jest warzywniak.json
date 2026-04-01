@@ -1,0 +1,35 @@
+{
+  "content": "Przy tej ulicy jest warzywniak.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Przy"
+    ],
+    [
+      "PART",
+      "pol:tej"
+    ],
+    [
+      "PART",
+      "pol:ulicy"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:warzywniak"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.804320Z": "SPLIT_DONE"
+  }
+}

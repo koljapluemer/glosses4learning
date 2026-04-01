@@ -1,0 +1,39 @@
+{
+  "content": "Il n'avait presque aucune éducation formelle.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Il"
+    ],
+    [
+      "PART",
+      "fra:n'avait"
+    ],
+    [
+      "PART",
+      "fra:presque"
+    ],
+    [
+      "PART",
+      "fra:aucune"
+    ],
+    [
+      "PART",
+      "fra:éducation"
+    ],
+    [
+      "PART",
+      "fra:formelle"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.672925Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Dieses Spiel hat einen hohen Unterhaltungswert.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Dieses"
+    ],
+    [
+      "PART",
+      "deu:Spiel"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:hohen"
+    ],
+    [
+      "PART",
+      "deu:Unterhaltungswert"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.393232Z": "SPLIT_DONE"
+  }
+}

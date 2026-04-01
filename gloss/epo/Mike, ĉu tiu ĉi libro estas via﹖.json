@@ -1,0 +1,43 @@
+{
+  "content": "Mike, ĉu tiu ĉi libro estas via?",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mike"
+    ],
+    [
+      "PART",
+      "epo:ĉu"
+    ],
+    [
+      "PART",
+      "epo:tiu"
+    ],
+    [
+      "PART",
+      "epo:ĉi"
+    ],
+    [
+      "PART",
+      "epo:libro"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:via"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:36.062996Z": "SPLIT_DONE"
+  }
+}

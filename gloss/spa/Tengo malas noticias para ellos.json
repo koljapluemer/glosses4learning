@@ -1,0 +1,35 @@
+{
+  "content": "Tengo malas noticias para ellos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by don_ramon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tengo"
+    ],
+    [
+      "PART",
+      "spa:malas"
+    ],
+    [
+      "PART",
+      "spa:noticias"
+    ],
+    [
+      "PART",
+      "spa:para"
+    ],
+    [
+      "PART",
+      "spa:ellos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.633977Z": "SPLIT_DONE"
+  }
+}

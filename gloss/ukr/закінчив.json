@@ -1,0 +1,27 @@
+{
+  "content": "закінчив",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не думаю, що Том закінчив"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Finished",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fertig",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.792144Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.807971Z": "TRANSLATION_DONE:deu"
+  }
+}

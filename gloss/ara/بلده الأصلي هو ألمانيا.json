@@ -1,0 +1,31 @@
+{
+  "content": "بلده الأصلي هو ألمانيا.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:بلده"
+    ],
+    [
+      "PART",
+      "ara:الأصلي"
+    ],
+    [
+      "PART",
+      "ara:هو"
+    ],
+    [
+      "PART",
+      "ara:ألمانيا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.548650Z": "SPLIT_DONE"
+  }
+}

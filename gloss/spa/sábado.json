@@ -1,0 +1,33 @@
+{
+  "content": "sábado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nosotros tenemos bailes en la noche del sábado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Saturday",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Samstag",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Субота",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:36.323989Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:36.338812Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:36.355238Z": "TRANSLATION_DONE:ukr"
+  }
+}

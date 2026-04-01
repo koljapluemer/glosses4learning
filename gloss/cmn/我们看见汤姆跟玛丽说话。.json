@@ -1,0 +1,43 @@
+{
+  "content": "我们看见汤姆跟玛丽说话。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by verdastelo9604 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:看见"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:跟"
+    ],
+    [
+      "PART",
+      "cmn:玛丽"
+    ],
+    [
+      "PART",
+      "cmn:说话"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:21.831284Z": "SPLIT_DONE"
+  }
+}

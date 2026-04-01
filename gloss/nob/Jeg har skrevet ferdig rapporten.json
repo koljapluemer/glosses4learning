@@ -1,0 +1,35 @@
+{
+  "content": "Jeg har skrevet ferdig rapporten.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:skrevet"
+    ],
+    [
+      "PART",
+      "nob:ferdig"
+    ],
+    [
+      "PART",
+      "nob:rapporten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.196523Z": "SPLIT_DONE"
+  }
+}

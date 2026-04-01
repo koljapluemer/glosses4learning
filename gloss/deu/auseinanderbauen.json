@@ -1,0 +1,33 @@
+{
+  "content": "auseinanderbauen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich muss diesen Motor auseinanderbauen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:disassembled",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:демонтаж",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.854633Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.870776Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.889665Z": "TRANSLATION_DONE:kor"
+  }
+}

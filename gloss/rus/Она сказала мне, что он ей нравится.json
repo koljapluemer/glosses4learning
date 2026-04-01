@@ -1,0 +1,43 @@
+{
+  "content": "Она сказала мне, что он ей нравится.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Она"
+    ],
+    [
+      "PART",
+      "rus:сказала"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:ей"
+    ],
+    [
+      "PART",
+      "rus:нравится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.186553Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "наліво",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Поверніть наліво біля банку"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Left",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Links",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:02.822229Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:02.835289Z": "TRANSLATION_DONE:deu"
+  }
+}

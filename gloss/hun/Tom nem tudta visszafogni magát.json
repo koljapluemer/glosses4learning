@@ -1,0 +1,35 @@
+{
+  "content": "Tom nem tudta visszafogni magát.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jegaevi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:tudta"
+    ],
+    [
+      "PART",
+      "hun:visszafogni"
+    ],
+    [
+      "PART",
+      "hun:magát"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.915369Z": "SPLIT_DONE"
+  }
+}

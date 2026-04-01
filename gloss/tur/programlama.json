@@ -1,0 +1,27 @@
+{
+  "content": "programlama",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Kendiniz herhangi bir programlama yapıyor musunuz﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:programming",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Programmierung",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:49.866364Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:49.882860Z": "TRANSLATION_DONE:deu"
+  }
+}

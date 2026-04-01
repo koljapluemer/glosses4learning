@@ -1,0 +1,39 @@
+{
+  "content": "Miroslav fue asesinado maliciosa y deliberadamente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by stebnbr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Miroslav"
+    ],
+    [
+      "PART",
+      "spa:fue"
+    ],
+    [
+      "PART",
+      "spa:asesinado"
+    ],
+    [
+      "PART",
+      "spa:maliciosa"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:deliberadamente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.571378Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "doté",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:L'ascenseur est doté d'une porte automatique"
+    ],
+    [
+      "TRANSLATION",
+      "eng:equipped",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ausgestattet",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:22.220051Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:22.360252Z": "TRANSLATION_DONE:deu"
+  }
+}

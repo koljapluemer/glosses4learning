@@ -1,0 +1,37 @@
+{
+  "content": "siguieron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Afortunadameente las pordioseras no nos siguieron"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Afortunadameente los pordioseros no nos siguieron"
+    ],
+    [
+      "TRANSLATION",
+      "eng:followed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gefolgt von",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:33.903445Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:34.032313Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:34.180273Z": "TRANSLATION_DONE:ukr"
+  }
+}

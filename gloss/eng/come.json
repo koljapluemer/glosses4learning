@@ -11,7 +11,9 @@
   "logs": {
     "2026-03-28T13:59:47.870088Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:59:48.783384Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T13:59:49.555015Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T13:59:49.555015Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:39:19.225574Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:39:19.294225Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -105,6 +107,72 @@
     [
       "TRANSLATION",
       "fra:viens"
+    ],
+    [
+      "TRANSLATION",
+      "dan:komme"
+    ],
+    [
+      "TRANSLATION",
+      "dan:kommer"
+    ],
+    [
+      "TRANSLATION",
+      "dan:kommet"
+    ],
+    [
+      "TRANSLATION",
+      "ell:έρθει"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:으로",
+      "Auto-translated with argostranslate (en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "fin:tule"
+    ],
+    [
+      "TRANSLATION",
+      "fin:tulla"
+    ],
+    [
+      "TRANSLATION",
+      "fra:vient"
+    ],
+    [
+      "TRANSLATION",
+      "nld:komen"
+    ],
+    [
+      "TRANSLATION",
+      "por:vir"
+    ],
+    [
+      "TRANSLATION",
+      "rus:придёт"
+    ],
+    [
+      "TRANSLATION",
+      "spa:venido"
+    ],
+    [
+      "TRANSLATION",
+      "gos:kom"
+    ],
+    [
+      "TRANSLATION",
+      "gos:komst"
+    ],
+    [
+      "TRANSLATION",
+      "lat:veniat"
     ]
   ]
 }

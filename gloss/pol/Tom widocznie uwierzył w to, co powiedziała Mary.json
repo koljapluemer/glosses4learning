@@ -1,0 +1,47 @@
+{
+  "content": "Tom widocznie uwierzył w to, co powiedziała Mary.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:widocznie"
+    ],
+    [
+      "PART",
+      "pol:uwierzył"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:to"
+    ],
+    [
+      "PART",
+      "pol:co"
+    ],
+    [
+      "PART",
+      "pol:powiedziała"
+    ],
+    [
+      "PART",
+      "pol:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.268307Z": "SPLIT_DONE"
+  }
+}

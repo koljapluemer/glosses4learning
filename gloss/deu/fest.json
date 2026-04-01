@@ -9,7 +9,9 @@
     "2026-03-29T13:18:47.157259Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:47.329911Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:18:47.510209Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:18:47.734429Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:18:47.734429Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:22.133885Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:22.218674Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,16 @@
     [
       "TRANSLATION",
       "tur:kutlama, tören"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:фіксована",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:설치하기",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "content": "Vos parents ne sont pas venus, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vos"
+    ],
+    [
+      "PART",
+      "fra:parents"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:venus"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.582429Z": "SPLIT_DONE"
+  }
+}

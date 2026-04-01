@@ -1,0 +1,39 @@
+{
+  "content": "йому",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви заплатили йому чотири долари"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Him",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Er",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том знає, що ви йому ніколи не пробачите"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том сказав, що йому подобається викладати французьку"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том усвідомив, що йому не слід цим займатися"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:59.186117Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:59.200983Z": "TRANSLATION_DONE:deu"
+  }
+}

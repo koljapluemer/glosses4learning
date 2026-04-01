@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:14:22.452Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +33,22 @@
     [
       "TRANSLATION",
       "eng:owns"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Stowarzyszenie ma trzydziestu członków"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tomek ma niewielki ogród"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jestem naprawdę zaskoczony, że nie ma tu Toma"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Ten pokój nie ma wystarczającej ilości światła słonecznego"
     ]
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "content": "nueve",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La hora del desayuno es desde las siete hasta las nueve de la mañana"
+    ],
+    [
+      "TRANSLATION",
+      "eng:9",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ANHANG",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:10 хв",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:19.371318Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:19.573604Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:19.596267Z": "TRANSLATION_DONE:ukr"
+  }
+}

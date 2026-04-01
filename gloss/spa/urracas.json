@@ -1,0 +1,33 @@
+{
+  "content": "urracas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las urracas son animales muy inteligentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pits",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gruben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:піськи",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:18.057328Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:18.070408Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:18.216493Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -9,7 +9,9 @@
     "2026-03-29T13:17:40.373344Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:40.541850Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:17:40.724264Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:17:40.927710Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:17:40.927710Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:53.985424Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:54.015673Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,16 @@
     [
       "TRANSLATION",
       "ita:pagare"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Оплатити",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:결제하기",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

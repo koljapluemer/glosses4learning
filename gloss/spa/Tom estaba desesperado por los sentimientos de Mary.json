@@ -1,0 +1,47 @@
+{
+  "content": "Tom estaba desesperado por los sentimientos de Mary.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zukerx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:estaba"
+    ],
+    [
+      "PART",
+      "spa:desesperado"
+    ],
+    [
+      "PART",
+      "spa:por"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:sentimientos"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.684651Z": "SPLIT_DONE"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:24:03.977867Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:24:04.140697Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:24:04.301176Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:24:04.476250Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:24:04.476250Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:56.892151Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,11 @@
     [
       "TRANSLATION",
       "tur:kedi"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кішка",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

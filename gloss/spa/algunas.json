@@ -1,0 +1,37 @@
+{
+  "content": "algunas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A algunas personas les gusta el deporte, a otras no"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Para algunas personas, Dios es ellas mismas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:some",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einige",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:деякі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.919721Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.936480Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.950503Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Tom niest zonder zijn hand voor zijn mond te houden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Wezel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:niest"
+    ],
+    [
+      "PART",
+      "nld:zonder"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:hand"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:mond"
+    ],
+    [
+      "PART",
+      "nld:te"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.060815Z": "SPLIT_DONE"
+  }
+}

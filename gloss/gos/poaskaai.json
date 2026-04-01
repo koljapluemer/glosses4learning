@@ -1,0 +1,30 @@
+{
+  "content": "poaskaai",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Aine het mien poaskaai eten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "gos:Aine at mien poaskaai"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Easter egg",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Easter treat",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:14:59.447870Z": "TRANSLATION_DONE:eng"
+  }
+}

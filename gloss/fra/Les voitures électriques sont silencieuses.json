@@ -1,0 +1,35 @@
+{
+  "content": "Les voitures électriques sont silencieuses.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:voitures"
+    ],
+    [
+      "PART",
+      "fra:électriques"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:silencieuses"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.130798Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Est-ce que vous êtes allergiques à quelque chose d'autre ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Petrus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:êtes"
+    ],
+    [
+      "PART",
+      "fra:allergiques"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:quelque"
+    ],
+    [
+      "PART",
+      "fra:chose"
+    ],
+    [
+      "PART",
+      "fra:d'autre"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.382822Z": "SPLIT_DONE"
+  }
+}

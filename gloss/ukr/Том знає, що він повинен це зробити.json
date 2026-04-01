@@ -1,0 +1,43 @@
+{
+  "content": "Том знає, що він повинен це зробити.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Том"
+    ],
+    [
+      "PART",
+      "ukr:знає"
+    ],
+    [
+      "PART",
+      "ukr:що"
+    ],
+    [
+      "PART",
+      "ukr:він"
+    ],
+    [
+      "PART",
+      "ukr:повинен"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:зробити"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.859216Z": "SPLIT_DONE"
+  }
+}

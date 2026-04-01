@@ -1,0 +1,27 @@
+{
+  "content": "står",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er sædvanligvis mig der står for opvasken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stands",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:für",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:44.868763Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:45.020902Z": "TRANSLATION_DONE:deu"
+  }
+}

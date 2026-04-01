@@ -1,0 +1,41 @@
+{
+  "content": "昨天",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:今天比昨天多風。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我昨天看了一個挺有趣的故事。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她昨天看见一个高大的男人。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yesterday",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我們昨天沒有待在家裡。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我從昨天起沒有吃任何東西。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:昨天發生了一個不幸的事故。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:19.376759Z": "TRANSLATION_DONE:eng"
+  }
+}

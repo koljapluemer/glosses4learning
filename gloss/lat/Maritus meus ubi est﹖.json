@@ -1,0 +1,31 @@
+{
+  "content": "Maritus meus ubi est?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Maritus"
+    ],
+    [
+      "PART",
+      "lat:meus"
+    ],
+    [
+      "PART",
+      "lat:ubi"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.370655Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "irgendeines",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du kannst dir irgendeines davon aussuchen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:any",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:будь-який",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:00.814245Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:00.814552Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:00.815638Z": "TRANSLATION_DONE:kor"
+  }
+}

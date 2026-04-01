@@ -9,7 +9,9 @@
     "2026-03-29T13:20:06.159771Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:06.326681Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:06.481855Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:06.679350Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:06.679350Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:51.060328Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:51.211154Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:kağıt"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:гаркет",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:하라큐",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

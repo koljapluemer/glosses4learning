@@ -1,0 +1,39 @@
+{
+  "content": "nu",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg sidder lige nu og drikker en øl"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg synes det er i orden nu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:now",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jetzt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun har nu været gravid i otte måneder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kom nu, Tom. Det bliver sjovt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:06.547310Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:06.683592Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "content": "realmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A ellos realmente no les importa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él realmente le agradan los Estados Unidos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:really",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wirklich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дуже",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es realmente una chica muy amable"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:En la práctica, ¿Tatoeba realmente sirve para ayudar a los traductores﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:28.149785Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:28.163724Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:28.179603Z": "TRANSLATION_DONE:ukr"
+  }
+}

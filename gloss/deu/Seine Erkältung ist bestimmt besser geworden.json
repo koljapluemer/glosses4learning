@@ -1,0 +1,39 @@
+{
+  "content": "Seine Erkältung ist bestimmt besser geworden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vortarulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Seine"
+    ],
+    [
+      "PART",
+      "deu:Erkältung"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:bestimmt"
+    ],
+    [
+      "PART",
+      "deu:besser"
+    ],
+    [
+      "PART",
+      "deu:geworden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.795952Z": "SPLIT_DONE"
+  }
+}

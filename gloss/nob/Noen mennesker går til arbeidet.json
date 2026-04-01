@@ -1,0 +1,35 @@
+{
+  "content": "Noen mennesker går til arbeidet.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Noen"
+    ],
+    [
+      "PART",
+      "nob:mennesker"
+    ],
+    [
+      "PART",
+      "nob:går"
+    ],
+    [
+      "PART",
+      "nob:til"
+    ],
+    [
+      "PART",
+      "nob:arbeidet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.301464Z": "SPLIT_DONE"
+  }
+}

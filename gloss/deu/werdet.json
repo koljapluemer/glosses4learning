@@ -1,0 +1,37 @@
+{
+  "content": "werdet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das werdet ihr nicht noch einmal brauchen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich frage mich, wie lange ihr wohl durchhalten werdet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they are",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그들은",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:43.878182Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:43.878484Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:43.878708Z": "TRANSLATION_DONE:kor"
+  }
+}

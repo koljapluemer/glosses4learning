@@ -1,0 +1,33 @@
+{
+  "content": "continuamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mi hermana se está controlando el peso continuamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:continuous",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kontinuierlich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:безперервний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:36.946510Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:36.959584Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:36.979142Z": "TRANSLATION_DONE:ukr"
+  }
+}

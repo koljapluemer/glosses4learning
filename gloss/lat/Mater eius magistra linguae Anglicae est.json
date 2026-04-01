@@ -1,0 +1,39 @@
+{
+  "content": "Mater eius magistra linguae Anglicae est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Mater"
+    ],
+    [
+      "PART",
+      "lat:eius"
+    ],
+    [
+      "PART",
+      "lat:magistra"
+    ],
+    [
+      "PART",
+      "lat:linguae"
+    ],
+    [
+      "PART",
+      "lat:Anglicae"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.270383Z": "SPLIT_DONE"
+  }
+}

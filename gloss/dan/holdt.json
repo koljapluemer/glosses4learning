@@ -1,0 +1,31 @@
+{
+  "content": "holdt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg holdt op med at ryge for seks måneder siden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:held",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gehalten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Disse handsker holdt hendes hænder varme"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:35.588840Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:35.728572Z": "TRANSLATION_DONE:deu"
+  }
+}

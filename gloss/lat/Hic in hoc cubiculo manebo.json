@@ -1,0 +1,35 @@
+{
+  "content": "Hic in hoc cubiculo manebo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hic"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:hoc"
+    ],
+    [
+      "PART",
+      "lat:cubiculo"
+    ],
+    [
+      "PART",
+      "lat:manebo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.362914Z": "SPLIT_DONE"
+  }
+}

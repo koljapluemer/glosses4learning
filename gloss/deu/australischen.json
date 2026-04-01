@@ -10,7 +10,9 @@
     "2026-03-28T13:34:16.289557Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:34:17.090963Z": "TRANSLATION_DONE:ita",
     "2026-03-28T13:34:17.786513Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T13:34:18.645357Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T13:34:18.645357Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:43.848250Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:43.999966Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -68,6 +70,16 @@
     [
       "TRANSLATION",
       "tur:Avustralyalı"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Австралійка",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주요 특징",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

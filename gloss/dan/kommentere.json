@@ -1,0 +1,27 @@
+{
+  "content": "kommentere",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg burde ikke kommentere det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:comments",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bemerkungen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:31.849368Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:31.993383Z": "TRANSLATION_DONE:deu"
+  }
+}

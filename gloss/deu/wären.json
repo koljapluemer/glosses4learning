@@ -1,0 +1,33 @@
+{
+  "content": "wären",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Deine Eltern wären nicht damit einverstanden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they were",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그들은",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:05.268742Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:05.282782Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:05.298767Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "спортом",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У мене добре виходить все, що пов'язано зі спортом"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він не має вільного часу щоб займатися спортом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sport",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sport",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:05.380730Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:05.396124Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Pourquoi est-ce que tout le monde est si heureux ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tout"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:monde"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:si"
+    ],
+    [
+      "PART",
+      "fra:heureux"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.644209Z": "SPLIT_DONE"
+  }
+}

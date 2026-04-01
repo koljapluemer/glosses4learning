@@ -61,6 +61,40 @@
     [
       "TRANSLATION",
       "spa:hace"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es tut mir leid, deine Pläne zunichte gemacht zu haben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es tut mir leid, dass ich dich falsch verstanden habe!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es tut mir leid! Wir haben keine freien Zimmer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin gekommen, um zu sagen, dass es mir leid tut"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest Tom besser sagen, dass es dir leid tut"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es tut mir leid. Es wird nicht wieder vorkommen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:немає",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:없음",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ],
   "tags": [
@@ -68,6 +102,8 @@
   ],
   "logs": {
     "2026-03-28T16:40:26.711994Z": "TRANSLATION_DONE:eng",
-    "2026-03-29T13:22:59.242972Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:22:59.242972Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:23.226362Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:23.240276Z": "TRANSLATION_DONE:kor"
   }
 }

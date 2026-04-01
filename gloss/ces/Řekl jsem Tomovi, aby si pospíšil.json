@@ -1,0 +1,39 @@
+{
+  "content": "Řekl jsem Tomovi, aby si pospíšil.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Řekl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:aby"
+    ],
+    [
+      "PART",
+      "ces:si"
+    ],
+    [
+      "PART",
+      "ces:pospíšil"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.198399Z": "SPLIT_DONE"
+  }
+}

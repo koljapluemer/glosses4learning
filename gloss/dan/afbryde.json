@@ -1,0 +1,27 @@
+{
+  "content": "afbryde",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det var ikke min hensigt at afbryde noget"
+    ],
+    [
+      "TRANSLATION",
+      "eng:disconnect",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ausschalten",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:15.950698Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:16.099614Z": "TRANSLATION_DONE:deu"
+  }
+}

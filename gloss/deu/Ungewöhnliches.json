@@ -1,0 +1,33 @@
+{
+  "content": "Ungewöhnliches",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie in der letzten Zeit etwas Ungewöhnliches gesehen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Unusual",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Незвичайний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:27.195810Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:27.265941Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:27.414014Z": "TRANSLATION_DONE:kor"
+  }
+}

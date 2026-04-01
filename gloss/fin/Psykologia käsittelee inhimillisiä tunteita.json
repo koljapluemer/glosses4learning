@@ -1,0 +1,31 @@
+{
+  "content": "Psykologia käsittelee inhimillisiä tunteita.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Kalle63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Psykologia"
+    ],
+    [
+      "PART",
+      "fin:käsittelee"
+    ],
+    [
+      "PART",
+      "fin:inhimillisiä"
+    ],
+    [
+      "PART",
+      "fin:tunteita"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.905561Z": "SPLIT_DONE"
+  }
+}

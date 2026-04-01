@@ -1,0 +1,27 @@
+{
+  "content": "pirates",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les pirates informatiques s'introduisent dans les ordinateurs sans autorisation"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pirates",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Piraten",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:37.271740Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:37.288245Z": "TRANSLATION_DONE:deu"
+  }
+}

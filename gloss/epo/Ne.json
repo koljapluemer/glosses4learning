@@ -2,7 +2,8 @@
   "content": "Ne.",
   "language": "epo",
   "tags": [
-    "eng:tatoeba-sentence"
+    "eng:tatoeba-sentence",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Sentence from Tatoeba by Espi (CC-BY 2.0 FR)"
@@ -11,6 +12,41 @@
     [
       "TRANSLATION",
       "ita:No"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne estas mirinde, ke vi estas tiel feliĉaj"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne estas mirinde, ke vi estas tiel feliĉa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne estas permesite al vi eliri el ĉi tiu ĉambro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne lasu ĉi tion ruinigi vian amikecon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne diru tion al mi! Lasu min diveni!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne ĉiu familio disponas pri ĝardeno"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne lasu iun ajn eniri en ĉi tiun konstruaĵon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ne plaĉas al mi vivi en Aŭstralio"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-31T12:44:36.170379Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng"
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "content": "kvindedag",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Glædelig international kvindedag!"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frauentag"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Internationaler Frauentag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Women's Day"
+    ],
+    [
+      "TRANSLATION",
+      "eng:International Women's Day"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:29:51.206531Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T07:29:52.844410Z": "TRANSLATION_DONE:eng"
+  }
+}

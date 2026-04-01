@@ -1,0 +1,27 @@
+{
+  "content": "øl",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg sidder lige nu og drikker en øl"
+    ],
+    [
+      "TRANSLATION",
+      "eng:beer",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bier",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:08.145349Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:08.286528Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Mandant",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mein Mandant hätte nie festgenommen werden sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mandant",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мандант",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:37.885918Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:37.915154Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:38.071827Z": "TRANSLATION_DONE:kor"
+  }
+}

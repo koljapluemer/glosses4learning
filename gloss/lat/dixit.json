@@ -1,0 +1,21 @@
+{
+  "content": "dixit",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas risit ubi Maria hoc dixit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:he said",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:06.087870Z": "TRANSLATION_DONE:eng"
+  }
+}

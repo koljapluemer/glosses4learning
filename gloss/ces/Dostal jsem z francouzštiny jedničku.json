@@ -1,0 +1,35 @@
+{
+  "content": "Dostal jsem z francouzštiny jedničku.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Dostal"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:z"
+    ],
+    [
+      "PART",
+      "ces:francouzštiny"
+    ],
+    [
+      "PART",
+      "ces:jedničku"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.089226Z": "SPLIT_DONE"
+  }
+}

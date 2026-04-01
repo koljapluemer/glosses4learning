@@ -1,0 +1,27 @@
+{
+  "content": "sourient",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi est-ce que les êtres humains sourient ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:smile",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lächeln",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:38.248773Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:38.268338Z": "TRANSLATION_DONE:deu"
+  }
+}

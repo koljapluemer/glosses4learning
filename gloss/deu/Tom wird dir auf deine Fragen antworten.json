@@ -1,0 +1,43 @@
+{
+  "content": "Tom wird dir auf deine Fragen antworten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:wird"
+    ],
+    [
+      "PART",
+      "deu:dir"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Fragen"
+    ],
+    [
+      "PART",
+      "deu:antworten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.231924Z": "SPLIT_DONE"
+  }
+}

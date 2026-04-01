@@ -1,0 +1,35 @@
+{
+  "content": "Savez-vous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Savez-vous comment je peux réutiliser la coque de la noix de coco ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Savez-vous comment s'appelle cette fille ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you know",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Weißt du was﹖",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Savez-vous ce qu'elles veulent ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:08.370581Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:08.518999Z": "TRANSLATION_DONE:deu"
+  }
+}

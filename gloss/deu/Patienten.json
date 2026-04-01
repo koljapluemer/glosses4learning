@@ -9,7 +9,9 @@
     "2026-03-28T13:50:41.721883Z": "TRANSLATION_DONE:fra",
     "2026-03-28T13:50:42.609409Z": "TRANSLATION_DONE:ita",
     "2026-03-28T13:50:43.408599Z": "TRANSLATION_DONE:rus",
-    "2026-03-28T13:50:44.556126Z": "TRANSLATION_DONE:tur"
+    "2026-03-28T13:50:44.556126Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:54.584111Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:54.729481Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -55,6 +57,20 @@
     [
       "TRANSLATION",
       "tur:hasta bireyler"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Пацієнти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:환자",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пацієнтам"
     ]
   ]
 }

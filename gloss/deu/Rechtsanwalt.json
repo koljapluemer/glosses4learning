@@ -1,0 +1,45 @@
+{
+  "content": "Rechtsanwalt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du hättest einen Rechtsanwalt einschalten sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr hättet einen Rechtsanwalt einschalten sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie hätten einen Rechtsanwalt einschalten sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er sollte mit seinem Rechtsanwalt sprechen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Lawyers",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Адвокати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:변호사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:59.279254Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:59.427018Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:59.573303Z": "TRANSLATION_DONE:kor"
+  }
+}

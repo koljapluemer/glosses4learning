@@ -1,0 +1,27 @@
+{
+  "content": "Подайте",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Подайте мені пульт"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Give",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gib her!",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:49.491795Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:49.507978Z": "TRANSLATION_DONE:deu"
+  }
+}

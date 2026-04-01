@@ -1,0 +1,33 @@
+{
+  "content": "spazierengegangen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir sind spazierengegangen und haben uns unterhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:walks",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Прогулянки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:오시는 길",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:20.785494Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:20.801224Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:20.817243Z": "TRANSLATION_DONE:kor"
+  }
+}

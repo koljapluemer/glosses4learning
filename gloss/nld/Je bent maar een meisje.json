@@ -1,0 +1,35 @@
+{
+  "content": "Je bent maar een meisje.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by otterbaskets (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Je"
+    ],
+    [
+      "PART",
+      "nld:bent"
+    ],
+    [
+      "PART",
+      "nld:maar"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.141655Z": "SPLIT_DONE"
+  }
+}

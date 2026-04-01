@@ -1,0 +1,39 @@
+{
+  "content": "Suhu minimum hari ini 3 °C.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by windra (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Suhu"
+    ],
+    [
+      "PART",
+      "ind:minimum"
+    ],
+    [
+      "PART",
+      "ind:hari"
+    ],
+    [
+      "PART",
+      "ind:ini"
+    ],
+    [
+      "PART",
+      "ind:3"
+    ],
+    [
+      "PART",
+      "ind:C"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:53.848334Z": "SPLIT_DONE"
+  }
+}

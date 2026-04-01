@@ -1,0 +1,27 @@
+{
+  "content": "art",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Urokser har været en uddød art i århundreder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Species",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Art",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:17.199929Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:17.212694Z": "TRANSLATION_DONE:deu"
+  }
+}

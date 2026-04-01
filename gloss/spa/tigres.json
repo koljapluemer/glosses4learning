@@ -1,0 +1,33 @@
+{
+  "content": "tigres",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos animales, como los tigres, comen carne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tigers",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tiger",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тигр",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:40.249751Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:40.265549Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:40.280903Z": "TRANSLATION_DONE:ukr"
+  }
+}

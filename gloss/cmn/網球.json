@@ -1,0 +1,29 @@
+{
+  "content": "網球",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她每個星期天打網球。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:為什麼他今天不能打網球呢？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我網球打的不是很好。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tennis",
+      "Auto-translated with argostranslate (zh→en)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:50.033795Z": "TRANSLATION_DONE:eng"
+  }
+}

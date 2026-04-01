@@ -1,0 +1,51 @@
+{
+  "content": "Het huis van Tom werd door de bliksem getroffen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ag12x (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Het"
+    ],
+    [
+      "PART",
+      "nld:huis"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:werd"
+    ],
+    [
+      "PART",
+      "nld:door"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:bliksem"
+    ],
+    [
+      "PART",
+      "nld:getroffen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.153561Z": "SPLIT_DONE"
+  }
+}

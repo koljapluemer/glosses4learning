@@ -1,0 +1,39 @@
+{
+  "content": "Det var ikke jeg som sang.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Det"
+    ],
+    [
+      "PART",
+      "nob:var"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:jeg"
+    ],
+    [
+      "PART",
+      "nob:som"
+    ],
+    [
+      "PART",
+      "nob:sang"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.304784Z": "SPLIT_DONE"
+  }
+}

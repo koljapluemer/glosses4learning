@@ -1,0 +1,35 @@
+{
+  "content": "l'acquisition",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai fait l'acquisition d'une voiture électrique"
+    ],
+    [
+      "TRANSLATION",
+      "eng:acquisition",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erwerb",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai fait l'acquisition d'un nouveau sac-à-main"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:J'ai procédé à l'acquisition d'une maison"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:30.409246Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:30.552471Z": "TRANSLATION_DONE:deu"
+  }
+}

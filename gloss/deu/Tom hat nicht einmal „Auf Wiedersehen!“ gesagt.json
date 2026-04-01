@@ -1,0 +1,43 @@
+{
+  "content": "Tom hat nicht einmal „Auf Wiedersehen!“ gesagt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:einmal"
+    ],
+    [
+      "PART",
+      "deu:Auf"
+    ],
+    [
+      "PART",
+      "deu:Wiedersehen"
+    ],
+    [
+      "PART",
+      "deu:gesagt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.469111Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "m'amener",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quelqu'un peut-il m'amener en voiture ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Bring me",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bring mich her",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:35.260053Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:35.278223Z": "TRANSLATION_DONE:deu"
+  }
+}

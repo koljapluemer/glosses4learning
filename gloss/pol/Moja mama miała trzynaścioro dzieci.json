@@ -1,0 +1,35 @@
+{
+  "content": "Moja mama miała trzynaścioro dzieci.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Moja"
+    ],
+    [
+      "PART",
+      "pol:mama"
+    ],
+    [
+      "PART",
+      "pol:miała"
+    ],
+    [
+      "PART",
+      "pol:trzynaścioro"
+    ],
+    [
+      "PART",
+      "pol:dzieci"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.761887Z": "SPLIT_DONE"
+  }
+}

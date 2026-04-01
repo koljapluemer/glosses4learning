@@ -1,0 +1,27 @@
+{
+  "content": "forhold",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette forhold beviser hans uskyld"
+    ],
+    [
+      "TRANSLATION",
+      "eng:conditions",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bedingungen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:11.654465Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:11.814514Z": "TRANSLATION_DONE:deu"
+  }
+}

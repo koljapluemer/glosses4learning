@@ -1,0 +1,37 @@
+{
+  "content": "Chance",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe Tom schon zu oft immer wieder eine Chance gegeben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Chance",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Хентай",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사연혁",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "dan:chance"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:16.164347Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:16.310397Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:16.337682Z": "TRANSLATION_DONE:kor"
+  }
+}

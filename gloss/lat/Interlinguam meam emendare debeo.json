@@ -1,0 +1,31 @@
+{
+  "content": "Interlinguam meam emendare debeo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Interlinguam"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:emendare"
+    ],
+    [
+      "PART",
+      "lat:debeo"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.352520Z": "SPLIT_DONE"
+  }
+}

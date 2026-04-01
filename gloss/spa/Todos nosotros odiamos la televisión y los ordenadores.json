@@ -1,0 +1,47 @@
+{
+  "content": "Todos nosotros odiamos la televisión y los ordenadores.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Todos"
+    ],
+    [
+      "PART",
+      "spa:nosotros"
+    ],
+    [
+      "PART",
+      "spa:odiamos"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:televisión"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:ordenadores"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.560543Z": "SPLIT_DONE"
+  }
+}

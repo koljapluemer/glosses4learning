@@ -1,0 +1,33 @@
+{
+  "content": "separados",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están separados, y no pueden tocarse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:separate",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:getrennt",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:окремий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:32.451665Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:32.532682Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:32.554383Z": "TRANSLATION_DONE:ukr"
+  }
+}

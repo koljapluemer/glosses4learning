@@ -1,0 +1,45 @@
+{
+  "content": "Könnten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Könnten Sie das bitte noch einmal langsam wiederholen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Könnten Sie das letzte noch einmal wiederholen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Could",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Пробити",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:수 있습니다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Könnten Sie bitte meine Frage beantworten﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Könnten Sie mir ein anderes Zimmer geben﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:31.175058Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:31.200121Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:31.223388Z": "TRANSLATION_DONE:kor"
+  }
+}

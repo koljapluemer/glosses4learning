@@ -1,0 +1,31 @@
+{
+  "content": "sagt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kunne ikke have sagt det bedre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er hvad Tom har sagt til Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:said",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagte﹕",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:22.047228Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:22.094865Z": "TRANSLATION_DONE:deu"
+  }
+}

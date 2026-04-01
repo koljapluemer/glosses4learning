@@ -1,0 +1,27 @@
+{
+  "content": "overfølsom",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Er du overfølsom over for dette medikament﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hypersensitivity",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Überempfindlichkeit",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:13.200476Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:13.344470Z": "TRANSLATION_DONE:deu"
+  }
+}

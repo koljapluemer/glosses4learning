@@ -1,0 +1,39 @@
+{
+  "content": "Jeg tror Tom er fra Australia.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:tror"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:fra"
+    ],
+    [
+      "PART",
+      "nob:Australia"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.266754Z": "SPLIT_DONE"
+  }
+}

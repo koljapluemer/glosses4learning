@@ -1,0 +1,31 @@
+{
+  "content": "Kimsenin yaralanmadığından emin misiniz?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Kimsenin"
+    ],
+    [
+      "PART",
+      "tur:yaralanmadığından"
+    ],
+    [
+      "PART",
+      "tur:emin"
+    ],
+    [
+      "PART",
+      "tur:misiniz"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.566880Z": "SPLIT_DONE"
+  }
+}

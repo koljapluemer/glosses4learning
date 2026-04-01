@@ -1,0 +1,27 @@
+{
+  "content": "fuldstændig",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg er fuldstændig ligeglad med hvem der vinder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:complete",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:komplett",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:23.728526Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:23.739008Z": "TRANSLATION_DONE:deu"
+  }
+}

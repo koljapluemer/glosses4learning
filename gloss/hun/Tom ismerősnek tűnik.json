@@ -1,0 +1,27 @@
+{
+  "content": "Tom ismerősnek tűnik.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by juliusbear (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:ismerősnek"
+    ],
+    [
+      "PART",
+      "hun:tűnik"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.892705Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tomi, katso, mitä sinä olet tehnyt.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tomi"
+    ],
+    [
+      "PART",
+      "fin:katso"
+    ],
+    [
+      "PART",
+      "fin:mitä"
+    ],
+    [
+      "PART",
+      "fin:sinä"
+    ],
+    [
+      "PART",
+      "fin:olet"
+    ],
+    [
+      "PART",
+      "fin:tehnyt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:09.981435Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom nigdy nie odpowiedział na moje pytanie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lumberpack (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nigdy"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:odpowiedział"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:moje"
+    ],
+    [
+      "PART",
+      "pol:pytanie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.208682Z": "SPLIT_DONE"
+  }
+}

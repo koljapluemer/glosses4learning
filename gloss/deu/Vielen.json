@@ -10,9 +10,13 @@
     "2025-12-12T14:10:54.617019Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:11:37.125622Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
     "2025-12-12T14:19:15.173973Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:20:36.901289Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.901289Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-03-31T13:51:58.429544Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:58.450491Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -37,6 +41,20 @@
     [
       "TRANSLATION",
       "deu:several"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielen Dank im voraus für deine Unterstützung!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дякую",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

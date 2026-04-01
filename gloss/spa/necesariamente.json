@@ -1,0 +1,33 @@
+{
+  "content": "necesariamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los hombres grandes no necesariamente son fuertes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:necessary",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erforderlich",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:в наявності",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:17.997702Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:18.011450Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:18.029919Z": "TRANSLATION_DONE:ukr"
+  }
+}

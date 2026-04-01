@@ -1,0 +1,27 @@
+{
+  "content": "slog",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvor mange mennesker var det at Mao slog ihjel﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:beat",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlagen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:43.249757Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:43.389767Z": "TRANSLATION_DONE:deu"
+  }
+}

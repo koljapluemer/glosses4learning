@@ -1,0 +1,43 @@
+{
+  "content": "De l'eau est-elle disponible à cet endroit ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:De"
+    ],
+    [
+      "PART",
+      "fra:l'eau"
+    ],
+    [
+      "PART",
+      "fra:est-elle"
+    ],
+    [
+      "PART",
+      "fra:disponible"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:cet"
+    ],
+    [
+      "PART",
+      "fra:endroit"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.119096Z": "SPLIT_DONE"
+  }
+}

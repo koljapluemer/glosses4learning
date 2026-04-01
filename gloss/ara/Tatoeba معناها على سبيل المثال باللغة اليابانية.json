@@ -1,0 +1,43 @@
+{
+  "content": "\"Tatoeba\" معناها \"على سبيل المثال\" باللغة اليابانية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Samer (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:Tatoeba"
+    ],
+    [
+      "PART",
+      "ara:معناها"
+    ],
+    [
+      "PART",
+      "ara:على"
+    ],
+    [
+      "PART",
+      "ara:سبيل"
+    ],
+    [
+      "PART",
+      "ara:المثال"
+    ],
+    [
+      "PART",
+      "ara:باللغة"
+    ],
+    [
+      "PART",
+      "ara:اليابانية"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.010790Z": "SPLIT_DONE"
+  }
+}

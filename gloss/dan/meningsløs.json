@@ -1,0 +1,27 @@
+{
+  "content": "meningsløs",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Undertiden forekommer verden at være meningsløs"
+    ],
+    [
+      "TRANSLATION",
+      "eng:meaningless",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sinnlos",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:57.736071Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:57.971201Z": "TRANSLATION_DONE:deu"
+  }
+}

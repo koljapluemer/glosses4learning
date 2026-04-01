@@ -1,0 +1,39 @@
+{
+  "content": "тут",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна мені тут почекати﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:here",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hier",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви тут для того, щоб нам допомогти﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том тут не для того, щоб допомогати нам"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мені дуже подобається тут працювати"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:14.266180Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:14.411498Z": "TRANSLATION_DONE:deu"
+  }
+}

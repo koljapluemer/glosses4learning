@@ -1,0 +1,33 @@
+{
+  "content": "hormigueros",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los cerdos hormigueros normalmente son confundidos con los osos hormigueros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:and",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:und",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:і",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.025896Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.039700Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.055905Z": "TRANSLATION_DONE:ukr"
+  }
+}

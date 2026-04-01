@@ -1,0 +1,33 @@
+{
+  "content": "ninguno",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Milagrosamente, ninguno de ellos murió"
+    ],
+    [
+      "TRANSLATION",
+      "eng:none",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:keine",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:немає",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:18.512043Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:18.523485Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:18.538891Z": "TRANSLATION_DONE:ukr"
+  }
+}

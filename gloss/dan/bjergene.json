@@ -1,0 +1,27 @@
+{
+  "content": "bjergene",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har altid godt kunnet lide bjergene"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mountains",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Berge",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:51.902220Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:52.043332Z": "TRANSLATION_DONE:deu"
+  }
+}

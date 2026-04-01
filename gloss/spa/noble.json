@@ -1,0 +1,33 @@
+{
+  "content": "noble",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos debieron haber tenido una mente noble"
+    ],
+    [
+      "TRANSLATION",
+      "eng:noble",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:edel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мерибель",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:18.749209Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:18.764241Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:18.782497Z": "TRANSLATION_DONE:ukr"
+  }
+}

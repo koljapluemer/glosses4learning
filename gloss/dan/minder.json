@@ -1,0 +1,27 @@
+{
+  "content": "minder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dette minder mig om hjem"
+    ],
+    [
+      "TRANSLATION",
+      "eng:memories",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erinnerungen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:35.203842Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:35.344698Z": "TRANSLATION_DONE:deu"
+  }
+}

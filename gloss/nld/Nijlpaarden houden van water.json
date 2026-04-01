@@ -1,0 +1,31 @@
+{
+  "content": "Nijlpaarden houden van water.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Nijlpaarden"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:water"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.158836Z": "SPLIT_DONE"
+  }
+}

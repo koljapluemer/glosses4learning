@@ -1,0 +1,39 @@
+{
+  "content": "Tom Mary'ye kimsenin yardım edemeyeceğini söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:Mary'ye"
+    ],
+    [
+      "PART",
+      "tur:kimsenin"
+    ],
+    [
+      "PART",
+      "tur:yardım"
+    ],
+    [
+      "PART",
+      "tur:edemeyeceğini"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.525828Z": "SPLIT_DONE"
+  }
+}

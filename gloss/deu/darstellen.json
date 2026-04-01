@@ -8,7 +8,9 @@
     "2026-01-27T14:32:02.862810Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:17:54.590017Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:54.790214Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:17:54.996782Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:17:54.996782Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:59.620006Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:59.645765Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,16 @@
     [
       "TRANSLATION",
       "rus:представлять"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Р",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

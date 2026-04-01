@@ -1,0 +1,37 @@
+{
+  "content": "siglo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Mary le gustan los muebles modernos de mediados de siglo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A Tom le gustan los muebles modernos de mediados de siglo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:centuries",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jahrhunderte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ст",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:15.878902Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:15.893614Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:15.912030Z": "TRANSLATION_DONE:ukr"
+  }
+}

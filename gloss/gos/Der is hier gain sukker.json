@@ -1,0 +1,35 @@
+{
+  "content": "Der is hier gain sukker.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Der"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:hier"
+    ],
+    [
+      "PART",
+      "gos:gain"
+    ],
+    [
+      "PART",
+      "gos:sukker"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.403000Z": "SPLIT_DONE"
+  }
+}

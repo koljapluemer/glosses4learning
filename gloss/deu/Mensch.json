@@ -8,7 +8,9 @@
     "2026-01-27T14:29:26.308381Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:14:17.628246Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:17.820815Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:14:17.979117Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:14:17.979117Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:35:41.041943Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:41.097865Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,28 @@
     [
       "TRANSLATION",
       "rus:Человек"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es gelang Tom nicht, das Bilderrätsel zur Feststellung, ob er ein Mensch sei, zu lösen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Mensch ist nicht dazu bestimmt, allein zu sein"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Людина",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한국어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "fra:l'humanité"
     ]
   ]
 }

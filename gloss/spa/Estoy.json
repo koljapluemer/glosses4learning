@@ -4,9 +4,13 @@
   "transcriptions": {},
   "logs": {
     "2025-12-16T11:41:16.617Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
-    "2025-12-16T11:44:24.625Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T11:44:24.625Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-03-31T12:52:17.232080Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:17.244865Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +28,40 @@
     [
       "TRANSLATION",
       "eng:I stand"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que ellos están hablando de nosotros"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy libre todos los días menos el lunes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que ellos no nos están buscando"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy considerando irme con ellos"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy completamente de acuerdo con ello"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy sorprendido de que hayas echado eso de menos"
     ]
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "content": "drapeaux",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ils sont en train d'agiter des drapeaux algériens"
+    ],
+    [
+      "TRANSLATION",
+      "eng:flags",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Flaggen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:33.286336Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:33.300171Z": "TRANSLATION_DONE:deu"
+  }
+}

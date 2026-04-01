@@ -1,0 +1,37 @@
+{
+  "content": "sentimientos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los sentimientos de las personas son buenos sentimientos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:feelings",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gefühle",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:почуття",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom estaba desesperado por los sentimientos de Mary"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:32.102822Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:32.120724Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:32.263287Z": "TRANSLATION_DONE:ukr"
+  }
+}

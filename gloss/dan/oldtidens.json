@@ -1,0 +1,27 @@
+{
+  "content": "oldtidens",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad skete der med oldtidens Rom﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ancient",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alter",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:37.359684Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:37.521795Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom ville græde hvis det skete.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:ville"
+    ],
+    [
+      "PART",
+      "dan:græde"
+    ],
+    [
+      "PART",
+      "dan:hvis"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:skete"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.717466Z": "SPLIT_DONE"
+  }
+}

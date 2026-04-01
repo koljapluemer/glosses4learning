@@ -1,0 +1,35 @@
+{
+  "content": "Wie willen meer kennis opdoun.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wie"
+    ],
+    [
+      "PART",
+      "gos:willen"
+    ],
+    [
+      "PART",
+      "gos:meer"
+    ],
+    [
+      "PART",
+      "gos:kennis"
+    ],
+    [
+      "PART",
+      "gos:opdoun"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.382893Z": "SPLIT_DONE"
+  }
+}

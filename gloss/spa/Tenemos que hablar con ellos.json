@@ -1,0 +1,35 @@
+{
+  "content": "Tenemos que hablar con ellos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by cueyayotl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tenemos"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:hablar"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:ellos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.766500Z": "SPLIT_DONE"
+  }
+}

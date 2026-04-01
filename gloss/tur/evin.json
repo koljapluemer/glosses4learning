@@ -1,0 +1,27 @@
+{
+  "content": "evin",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin evin benimkinden daha hoş"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Home",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Home",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:47.156422Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:47.156908Z": "TRANSLATION_DONE:deu"
+  }
+}

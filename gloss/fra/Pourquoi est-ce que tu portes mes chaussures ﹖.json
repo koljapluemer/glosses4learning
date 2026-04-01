@@ -1,0 +1,43 @@
+{
+  "content": "Pourquoi est-ce que tu portes mes chaussures ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:portes"
+    ],
+    [
+      "PART",
+      "fra:mes"
+    ],
+    [
+      "PART",
+      "fra:chaussures"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.368630Z": "SPLIT_DONE"
+  }
+}

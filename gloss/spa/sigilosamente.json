@@ -1,0 +1,33 @@
+{
+  "content": "sigilosamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom pasó de puntillas, sigilosamente, por el pasillo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stewards",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Steak",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:стюардеси",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:33.846947Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:33.863966Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:33.887234Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "ziemlichen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du musst mich für einen ziemlichen Sonderling halten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Fair",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ярмарок",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:(주)",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:46.162628Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:46.179796Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:46.198839Z": "TRANSLATION_DONE:kor"
+  }
+}

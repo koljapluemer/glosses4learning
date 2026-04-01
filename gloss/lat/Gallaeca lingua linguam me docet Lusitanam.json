@@ -1,0 +1,39 @@
+{
+  "content": "Gallaeca lingua linguam me docet Lusitanam.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Gallaeca"
+    ],
+    [
+      "PART",
+      "lat:lingua"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:me"
+    ],
+    [
+      "PART",
+      "lat:docet"
+    ],
+    [
+      "PART",
+      "lat:Lusitanam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.343467Z": "SPLIT_DONE"
+  }
+}

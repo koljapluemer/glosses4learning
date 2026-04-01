@@ -1,0 +1,35 @@
+{
+  "content": "ฉันหวังว่าทอมถูกต้อง",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:ฉัน"
+    ],
+    [
+      "PART",
+      "tha:หวัง"
+    ],
+    [
+      "PART",
+      "tha:ว่า"
+    ],
+    [
+      "PART",
+      "tha:ทอม"
+    ],
+    [
+      "PART",
+      "tha:ถูกต้อง"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:57.225993Z": "SPLIT_DONE"
+  }
+}

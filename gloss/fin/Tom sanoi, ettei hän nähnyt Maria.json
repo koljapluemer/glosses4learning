@@ -1,0 +1,39 @@
+{
+  "content": "Tom sanoi, ettei hän nähnyt Maria.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:sanoi"
+    ],
+    [
+      "PART",
+      "fin:ettei"
+    ],
+    [
+      "PART",
+      "fin:hän"
+    ],
+    [
+      "PART",
+      "fin:nähnyt"
+    ],
+    [
+      "PART",
+      "fin:Maria"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.030150Z": "SPLIT_DONE"
+  }
+}

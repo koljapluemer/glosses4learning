@@ -1,0 +1,41 @@
+{
+  "content": "porque",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están aquí porque son mis amigos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tengo que irme porque se hace de noche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:because",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:weil",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso es porque a ellos no les importa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:25.185130Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:25.245900Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:25.264877Z": "TRANSLATION_DONE:ukr"
+  }
+}

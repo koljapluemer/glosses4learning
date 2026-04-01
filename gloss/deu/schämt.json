@@ -1,0 +1,33 @@
+{
+  "content": "schämt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er schämt sich für das Benehmen seines Sohnes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ashamed",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вся в соку",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:18.711044Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:18.730003Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:18.746530Z": "TRANSLATION_DONE:kor"
+  }
+}

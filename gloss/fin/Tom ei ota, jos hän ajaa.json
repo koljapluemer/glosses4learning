@@ -1,0 +1,39 @@
+{
+  "content": "Tom ei ota, jos hän ajaa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:ei"
+    ],
+    [
+      "PART",
+      "fin:ota"
+    ],
+    [
+      "PART",
+      "fin:jos"
+    ],
+    [
+      "PART",
+      "fin:hän"
+    ],
+    [
+      "PART",
+      "fin:ajaa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.916202Z": "SPLIT_DONE"
+  }
+}

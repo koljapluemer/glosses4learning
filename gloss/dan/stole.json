@@ -1,0 +1,31 @@
+{
+  "content": "stole",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ville ikke stole på Mary over en dørtærskel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:chairs",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Stühle",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun siger at hun ikke kan stole på sig selv"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:39.464270Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:39.603770Z": "TRANSLATION_DONE:deu"
+  }
+}

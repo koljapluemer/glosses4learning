@@ -1,0 +1,27 @@
+{
+  "content": "n'étais-tu",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pourquoi n'étais-tu pas à la maison hier ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Were you",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Waren Sie",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:39.847854Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:39.990497Z": "TRANSLATION_DONE:deu"
+  }
+}

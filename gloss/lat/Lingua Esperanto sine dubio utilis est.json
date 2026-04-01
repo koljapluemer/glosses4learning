@@ -1,0 +1,39 @@
+{
+  "content": "Lingua Esperanto sine dubio utilis est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Lingua"
+    ],
+    [
+      "PART",
+      "lat:Esperanto"
+    ],
+    [
+      "PART",
+      "lat:sine"
+    ],
+    [
+      "PART",
+      "lat:dubio"
+    ],
+    [
+      "PART",
+      "lat:utilis"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.321148Z": "SPLIT_DONE"
+  }
+}

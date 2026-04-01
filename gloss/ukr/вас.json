@@ -1,0 +1,35 @@
+{
+  "content": "вас",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Мері у вас закохана"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я вас питав﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я й досі ненавиджу вас із Томом"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:53.182876Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:53.183705Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "content": "hoteles",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Usualmente Tom se queda en hoteles cinco estrellas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hotels",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hotels",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:готелі",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele quedarse en hoteles de cinco estrellas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los hoteles están llenos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:02.582970Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:02.602849Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:02.624101Z": "TRANSLATION_DONE:ukr"
+  }
+}

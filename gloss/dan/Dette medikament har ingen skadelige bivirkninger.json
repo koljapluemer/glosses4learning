@@ -1,0 +1,39 @@
+{
+  "content": "Dette medikament har ingen skadelige bivirkninger.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Dette"
+    ],
+    [
+      "PART",
+      "dan:medikament"
+    ],
+    [
+      "PART",
+      "dan:har"
+    ],
+    [
+      "PART",
+      "dan:ingen"
+    ],
+    [
+      "PART",
+      "dan:skadelige"
+    ],
+    [
+      "PART",
+      "dan:bivirkninger"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.605891Z": "SPLIT_DONE"
+  }
+}

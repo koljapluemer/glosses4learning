@@ -1,0 +1,31 @@
+{
+  "content": "Potestne medicus eum sanare?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potestne"
+    ],
+    [
+      "PART",
+      "lat:medicus"
+    ],
+    [
+      "PART",
+      "lat:eum"
+    ],
+    [
+      "PART",
+      "lat:sanare"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.281569Z": "SPLIT_DONE"
+  }
+}

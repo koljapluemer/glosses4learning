@@ -1,0 +1,27 @@
+{
+  "content": "gitmesine",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom, Mary'nin herhangi bir yere gitmesine izin vermezdi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to go",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zu gehen",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:47.298888Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:47.313666Z": "TRANSLATION_DONE:deu"
+  }
+}

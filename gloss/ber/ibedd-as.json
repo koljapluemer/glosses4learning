@@ -1,0 +1,30 @@
+{
+  "content": "ibedd-as",
+  "language": "ber",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ber:Ulac ccek dakken Tom ibedd-as i Mary"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ber:Ur yelli din ccek dakken Tom ibedd-as i Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I love you",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I care for you",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T14:48:35.280491Z": "TRANSLATION_DONE:eng"
+  }
+}

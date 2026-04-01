@@ -1,0 +1,27 @@
+{
+  "content": "дивні",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тут трапляються дивні речі"
+    ],
+    [
+      "TRANSLATION",
+      "eng:strange",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:seltsam",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:56.000728Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:56.013738Z": "TRANSLATION_DONE:deu"
+  }
+}

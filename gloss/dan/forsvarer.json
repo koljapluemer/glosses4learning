@@ -1,0 +1,27 @@
+{
+  "content": "forsvarer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg forsvarer ikke denne idiot"
+    ],
+    [
+      "TRANSLATION",
+      "eng:defender",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verteidiger",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:22.877579Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:23.054902Z": "TRANSLATION_DONE:deu"
+  }
+}

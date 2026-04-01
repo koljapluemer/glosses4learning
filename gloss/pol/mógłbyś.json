@@ -6,7 +6,9 @@
     "2025-12-16T14:14:41.902Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:16:14.490Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -20,6 +22,10 @@
     [
       "TRANSLATION",
       "eng:could you"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czy mógłbyś to ściszyć﹖"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Tom zou dat anders gedaan hebben.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nieki2000 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:zou"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:anders"
+    ],
+    [
+      "PART",
+      "nld:gedaan"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.164775Z": "SPLIT_DONE"
+  }
+}

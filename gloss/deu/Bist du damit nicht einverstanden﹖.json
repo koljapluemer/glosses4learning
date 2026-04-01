@@ -1,0 +1,35 @@
+{
+  "content": "Bist du damit nicht einverstanden?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Felixjp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Bist"
+    ],
+    [
+      "PART",
+      "deu:du"
+    ],
+    [
+      "PART",
+      "deu:damit"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:einverstanden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.194347Z": "SPLIT_DONE"
+  }
+}

@@ -10,7 +10,8 @@
     "2026-03-29T14:25:22.912033Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:25:23.083540Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:25:23.254987Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:25:23.408774Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:25:23.408774Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:16.943068Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -48,6 +49,15 @@
     [
       "TRANSLATION",
       "tur:dünya"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las jirafas son los animales más altos del mundo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Світ",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

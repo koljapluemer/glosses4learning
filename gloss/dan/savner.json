@@ -1,0 +1,27 @@
+{
+  "content": "savner",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kunne godt lide at vide om Tom savner mig"
+    ],
+    [
+      "TRANSLATION",
+      "eng:miss",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fräulein",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:23.838674Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:23.980480Z": "TRANSLATION_DONE:deu"
+  }
+}

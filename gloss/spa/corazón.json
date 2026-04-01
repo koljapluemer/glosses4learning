@@ -1,0 +1,33 @@
+{
+  "content": "corazón",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los seres humanos son buenos en el corazón"
+    ],
+    [
+      "TRANSLATION",
+      "eng:heart",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Herz",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:серце",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:01.741337Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:01.755918Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:01.771393Z": "TRANSLATION_DONE:ukr"
+  }
+}

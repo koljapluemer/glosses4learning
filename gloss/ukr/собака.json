@@ -1,0 +1,31 @@
+{
+  "content": "собака",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тому потрібний собака"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У Тома є чорний собака"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dog",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hund",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:11.473350Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:11.488236Z": "TRANSLATION_DONE:deu"
+  }
+}

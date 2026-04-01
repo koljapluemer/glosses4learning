@@ -1,0 +1,33 @@
+{
+  "content": "allerersten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine allerersten Gedanken drehten sich um Phonetik"
+    ],
+    [
+      "TRANSLATION",
+      "eng:all the",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:всі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:모든 것",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.224879Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.239192Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.255259Z": "TRANSLATION_DONE:kor"
+  }
+}

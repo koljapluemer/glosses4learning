@@ -1,0 +1,39 @@
+{
+  "content": "Chó của Tom có đuôi dài.",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hothuyhien (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "vie:Chó"
+    ],
+    [
+      "PART",
+      "vie:của"
+    ],
+    [
+      "PART",
+      "vie:Tom"
+    ],
+    [
+      "PART",
+      "vie:có"
+    ],
+    [
+      "PART",
+      "vie:đuôi"
+    ],
+    [
+      "PART",
+      "vie:dài"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:20:07.072654Z": "SPLIT_DONE"
+  }
+}

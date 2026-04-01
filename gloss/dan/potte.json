@@ -1,0 +1,27 @@
+{
+  "content": "potte",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er endnu ikke blevet trænet i at sidde på potte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pot",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Topf",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:17.149469Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:17.290053Z": "TRANSLATION_DONE:deu"
+  }
+}

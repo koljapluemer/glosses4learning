@@ -1,0 +1,39 @@
+{
+  "content": "Det är bara en hypotetisk fråga.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SilasNordgren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:bara"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:hypotetisk"
+    ],
+    [
+      "PART",
+      "swe:fråga"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.801263Z": "SPLIT_DONE"
+  }
+}

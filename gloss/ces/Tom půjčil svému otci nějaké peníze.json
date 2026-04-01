@@ -1,0 +1,39 @@
+{
+  "content": "Tom půjčil svému otci nějaké peníze.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:půjčil"
+    ],
+    [
+      "PART",
+      "ces:svému"
+    ],
+    [
+      "PART",
+      "ces:otci"
+    ],
+    [
+      "PART",
+      "ces:nějaké"
+    ],
+    [
+      "PART",
+      "ces:peníze"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.149067Z": "SPLIT_DONE"
+  }
+}

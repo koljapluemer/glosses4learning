@@ -1,0 +1,31 @@
+{
+  "content": "Har Tom sänt dig?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Har"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:sänt"
+    ],
+    [
+      "PART",
+      "swe:dig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.841757Z": "SPLIT_DONE"
+  }
+}

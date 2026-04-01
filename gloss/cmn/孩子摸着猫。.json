@@ -1,0 +1,35 @@
+{
+  "content": "孩子摸着猫。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fucongcong (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:孩子"
+    ],
+    [
+      "PART",
+      "cmn:摸"
+    ],
+    [
+      "PART",
+      "cmn:着"
+    ],
+    [
+      "PART",
+      "cmn:猫"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.640383Z": "SPLIT_DONE"
+  }
+}

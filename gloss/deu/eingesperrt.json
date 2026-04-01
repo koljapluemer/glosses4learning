@@ -1,0 +1,33 @@
+{
+  "content": "eingesperrt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Es ist kein Wunder, dass man ihn eingesperrt hat"
+    ],
+    [
+      "TRANSLATION",
+      "eng:locked in",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:заблоковано в",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:잠그다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:01.292009Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:01.311594Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:01.329365Z": "TRANSLATION_DONE:kor"
+  }
+}

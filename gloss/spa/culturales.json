@@ -1,0 +1,37 @@
+{
+  "content": "culturales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ese modelo no puede borrar las diferencias culturales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos asisten a encuentros culturales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Cultural",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kultur und Kultur",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Культура",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:02.317038Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:02.334732Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:02.362643Z": "TRANSLATION_DONE:ukr"
+  }
+}

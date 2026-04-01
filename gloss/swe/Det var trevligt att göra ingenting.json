@@ -1,0 +1,39 @@
+{
+  "content": "Det var trevligt att göra ingenting.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by freddy1 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:var"
+    ],
+    [
+      "PART",
+      "swe:trevligt"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:göra"
+    ],
+    [
+      "PART",
+      "swe:ingenting"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.047777Z": "SPLIT_DONE"
+  }
+}

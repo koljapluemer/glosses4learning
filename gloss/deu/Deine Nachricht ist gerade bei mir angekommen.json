@@ -1,0 +1,43 @@
+{
+  "content": "Deine Nachricht ist gerade bei mir angekommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Deine"
+    ],
+    [
+      "PART",
+      "deu:Nachricht"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:gerade"
+    ],
+    [
+      "PART",
+      "deu:bei"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:angekommen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.307496Z": "SPLIT_DONE"
+  }
+}

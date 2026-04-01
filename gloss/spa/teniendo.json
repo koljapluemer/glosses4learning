@@ -1,0 +1,33 @@
+{
+  "content": "teniendo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos están teniendo una charla"
+    ],
+    [
+      "TRANSLATION",
+      "eng:with",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:mit",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:38.485836Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:38.639686Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:38.659511Z": "TRANSLATION_DONE:ukr"
+  }
+}

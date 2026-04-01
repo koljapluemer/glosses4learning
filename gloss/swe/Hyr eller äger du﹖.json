@@ -1,0 +1,31 @@
+{
+  "content": "Hyr eller äger du?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Hyr"
+    ],
+    [
+      "PART",
+      "swe:eller"
+    ],
+    [
+      "PART",
+      "swe:äger"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.826296Z": "SPLIT_DONE"
+  }
+}

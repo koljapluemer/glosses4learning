@@ -1,0 +1,29 @@
+{
+  "content": "舒服",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:Tom说他感觉不舒服。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我从星期一开始得了流感。现在烧虽然退了，但感觉还不是很舒服。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Nice",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我在他的公司裡覺得很舒服。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:55.056057Z": "TRANSLATION_DONE:eng"
+  }
+}

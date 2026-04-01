@@ -1,0 +1,33 @@
+{
+  "content": "angeboren",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Verhalten ist erworben, nicht angeboren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:innate",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:37.847044Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:37.866075Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:37.885561Z": "TRANSLATION_DONE:kor"
+  }
+}

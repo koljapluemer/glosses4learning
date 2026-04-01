@@ -9,7 +9,9 @@
     "2026-03-29T13:19:39.730806Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:39.900150Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:19:40.074861Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:19:40.273797Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:19:40.273797Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:41.939501Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:41.940460Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -39,6 +41,24 @@
     [
       "TRANSLATION",
       "tur:sağlıklı"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich benutze meinen gesunden Menschenverstand"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das ist einfach eine Frage des gesunden Menschenverstands"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:здоровий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

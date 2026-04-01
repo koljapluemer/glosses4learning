@@ -1,0 +1,39 @@
+{
+  "content": "Sie haben sich eine Zeitlang unterhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:eine"
+    ],
+    [
+      "PART",
+      "deu:Zeitlang"
+    ],
+    [
+      "PART",
+      "deu:unterhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.766514Z": "SPLIT_DONE"
+  }
+}

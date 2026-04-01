@@ -1,0 +1,47 @@
+{
+  "content": "我發現了一個很棒的東西！",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickyeow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:發現"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:一個"
+    ],
+    [
+      "PART",
+      "cmn:很棒"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:東西"
+    ],
+    [
+      "PART",
+      "cmn:！"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:21.781614Z": "SPLIT_DONE"
+  }
+}

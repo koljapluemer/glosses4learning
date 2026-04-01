@@ -1,0 +1,31 @@
+{
+  "content": "Tom teljesen kimerült volt.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:teljesen"
+    ],
+    [
+      "PART",
+      "hun:kimerült"
+    ],
+    [
+      "PART",
+      "hun:volt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.922657Z": "SPLIT_DONE"
+  }
+}

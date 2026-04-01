@@ -1,0 +1,39 @@
+{
+  "content": "Tom'a senin hakkında her şeyi söyledim.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'a"
+    ],
+    [
+      "PART",
+      "tur:senin"
+    ],
+    [
+      "PART",
+      "tur:hakkında"
+    ],
+    [
+      "PART",
+      "tur:her"
+    ],
+    [
+      "PART",
+      "tur:şeyi"
+    ],
+    [
+      "PART",
+      "tur:söyledim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.648625Z": "SPLIT_DONE"
+  }
+}

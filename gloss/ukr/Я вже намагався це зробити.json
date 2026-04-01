@@ -1,0 +1,35 @@
+{
+  "content": "Я вже намагався це зробити.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:вже"
+    ],
+    [
+      "PART",
+      "ukr:намагався"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:зробити"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:35.987786Z": "SPLIT_DONE"
+  }
+}

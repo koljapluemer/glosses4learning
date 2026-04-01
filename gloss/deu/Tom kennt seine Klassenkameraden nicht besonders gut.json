@@ -1,0 +1,43 @@
+{
+  "content": "Tom kennt seine Klassenkameraden nicht besonders gut.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mramosch (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:kennt"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Klassenkameraden"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:besonders"
+    ],
+    [
+      "PART",
+      "deu:gut"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.796877Z": "SPLIT_DONE"
+  }
+}

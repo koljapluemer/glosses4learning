@@ -9,7 +9,9 @@
     "2026-03-29T13:14:14.651871Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:14.830937Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:15.006104Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:15.180340Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:15.180340Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:40.261243Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:40.410999Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -59,6 +61,20 @@
     [
       "TRANSLATION",
       "spa:Mi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mein Mandant hätte nie festgenommen werden sollen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Моя",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:내 계정",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Wir sollten Boston wieder einmal besuchen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:sollten"
+    ],
+    [
+      "PART",
+      "deu:Boston"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:einmal"
+    ],
+    [
+      "PART",
+      "deu:besuchen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.366852Z": "SPLIT_DONE"
+  }
+}

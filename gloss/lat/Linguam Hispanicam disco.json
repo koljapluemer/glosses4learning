@@ -1,0 +1,27 @@
+{
+  "content": "Linguam Hispanicam disco.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Hispanicam"
+    ],
+    [
+      "PART",
+      "lat:disco"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.381837Z": "SPLIT_DONE"
+  }
+}

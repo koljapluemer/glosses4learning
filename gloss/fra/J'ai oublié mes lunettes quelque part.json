@@ -1,0 +1,39 @@
+{
+  "content": "J'ai oublié mes lunettes quelque part.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'ai"
+    ],
+    [
+      "PART",
+      "fra:oublié"
+    ],
+    [
+      "PART",
+      "fra:mes"
+    ],
+    [
+      "PART",
+      "fra:lunettes"
+    ],
+    [
+      "PART",
+      "fra:quelque"
+    ],
+    [
+      "PART",
+      "fra:part"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.619127Z": "SPLIT_DONE"
+  }
+}

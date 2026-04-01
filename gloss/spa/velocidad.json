@@ -1,0 +1,37 @@
+{
+  "content": "velocidad",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay que medir la velocidad del viento con exactitud"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Speed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geschwindigkeit",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:швидкість",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos radares calculan tu velocidad media"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:42.874253Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:42.890362Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:42.908121Z": "TRANSLATION_DONE:ukr"
+  }
+}

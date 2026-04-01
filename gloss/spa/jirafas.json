@@ -1,0 +1,33 @@
+{
+  "content": "jirafas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las jirafas son los animales más altos del mundo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:giraffes",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Giraffen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:свінгери",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:06.839791Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:06.854445Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:06.899700Z": "TRANSLATION_DONE:ukr"
+  }
+}

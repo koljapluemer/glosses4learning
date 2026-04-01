@@ -1,0 +1,35 @@
+{
+  "content": "Binnen joe baang veur spinnen?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Binnen"
+    ],
+    [
+      "PART",
+      "gos:joe"
+    ],
+    [
+      "PART",
+      "gos:baang"
+    ],
+    [
+      "PART",
+      "gos:veur"
+    ],
+    [
+      "PART",
+      "gos:spinnen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.667079Z": "SPLIT_DONE"
+  }
+}

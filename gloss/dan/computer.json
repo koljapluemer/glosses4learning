@@ -1,0 +1,31 @@
+{
+  "content": "computer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke reparere den her computer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:computer",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Computer",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ikke noget galt med din computer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:55.828713Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:55.968180Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "aufmunternden",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich danke dir für deine aufmunternden Worte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reminiscent",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:свінгери",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.799738Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.818263Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.835828Z": "TRANSLATION_DONE:kor"
+  }
+}

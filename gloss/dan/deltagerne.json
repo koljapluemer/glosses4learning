@@ -1,0 +1,31 @@
+{
+  "content": "deltagerne",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hovedparten af deltagerne var kvinder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De fleste af deltagerne var kvinder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:participants;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Teilnehmer;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:20.775638Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:20.916197Z": "TRANSLATION_DONE:deu"
+  }
+}

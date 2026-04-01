@@ -2,7 +2,8 @@
   "content": "Bierkrug",
   "language": "deu",
   "tags": [
-    "eng:emoji-image-set"
+    "eng:emoji-image-set",
+    "eng:tatoeba-sentence-part"
   ],
   "images": [
     {
@@ -23,6 +24,24 @@
     [
       "TRANSLATION",
       "arb:كأس بيرة"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Bierkrug enthält ein pint. Aber wie viel mag das sein﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Пивна кришка",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사 소개",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:15.785736Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:15.810199Z": "TRANSLATION_DONE:kor"
+  }
 }

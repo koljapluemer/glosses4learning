@@ -1,0 +1,39 @@
+{
+  "content": "Iedereen zal met Kerstmis thuis zijn.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Iedereen"
+    ],
+    [
+      "PART",
+      "nld:zal"
+    ],
+    [
+      "PART",
+      "nld:met"
+    ],
+    [
+      "PART",
+      "nld:Kerstmis"
+    ],
+    [
+      "PART",
+      "nld:thuis"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.133017Z": "SPLIT_DONE"
+  }
+}

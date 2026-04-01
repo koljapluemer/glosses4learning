@@ -9,7 +9,9 @@
     "2026-03-29T13:23:42.548489Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:42.749690Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:23:42.963444Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:23:43.141160Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:23:43.141160Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:42.478173Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:42.494368Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -51,6 +53,36 @@
     [
       "TRANSLATION",
       "tur:tamamen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Всього",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:·",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin mit deinem Vorschlag völlig einverstanden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Deine Vorstellung unterscheidet sich völlig von meiner"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mach dir keine Sorgen! Ich bin wieder völlig gesund"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie haben meinen Brief völlig missverstanden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihre Vorstellung unterscheidet sich völlig von meiner"
     ]
   ]
 }

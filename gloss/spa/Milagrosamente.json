@@ -1,0 +1,33 @@
+{
+  "content": "Milagrosamente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Milagrosamente, ninguno de ellos murió"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Miracle",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Miracle",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дивитися",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:18.797704Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:18.816532Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:18.835048Z": "TRANSLATION_DONE:ukr"
+  }
+}

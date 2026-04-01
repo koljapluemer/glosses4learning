@@ -1,0 +1,39 @@
+{
+  "content": "Tom verdient seinen Lebensunterhalt mit Singen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:verdient"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Lebensunterhalt"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:Singen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.480181Z": "SPLIT_DONE"
+  }
+}

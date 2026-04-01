@@ -1,0 +1,39 @@
+{
+  "content": "Podaj mi, proszę, tamten czerwony długopis.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jimbojim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Podaj"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:proszę"
+    ],
+    [
+      "PART",
+      "pol:tamten"
+    ],
+    [
+      "PART",
+      "pol:czerwony"
+    ],
+    [
+      "PART",
+      "pol:długopis"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.251520Z": "SPLIT_DONE"
+  }
+}

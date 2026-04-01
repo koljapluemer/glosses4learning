@@ -1,0 +1,35 @@
+{
+  "content": "Мне это сегодня не понадобится.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:это"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:понадобится"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.558376Z": "SPLIT_DONE"
+  }
+}

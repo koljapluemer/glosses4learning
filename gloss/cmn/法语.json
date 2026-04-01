@@ -1,0 +1,25 @@
+{
+  "content": "法语",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:她法语说得不流利。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:在家里，我们只说法语。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:31:31.699794Z": "TRANSLATION_DONE:eng"
+  }
+}

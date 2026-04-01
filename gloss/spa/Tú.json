@@ -1,0 +1,37 @@
+{
+  "content": "Tú",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Tú sientes que los cumpleaños son importantes﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tú has tenido una noche muy desasosegada"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:21.209003Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:21.358438Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:21.373445Z": "TRANSLATION_DONE:ukr"
+  }
+}

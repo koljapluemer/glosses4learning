@@ -1,0 +1,31 @@
+{
+  "content": "Mis planes fracasaron miserablemente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Mis"
+    ],
+    [
+      "PART",
+      "spa:planes"
+    ],
+    [
+      "PART",
+      "spa:fracasaron"
+    ],
+    [
+      "PART",
+      "spa:miserablemente"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.773937Z": "SPLIT_DONE"
+  }
+}

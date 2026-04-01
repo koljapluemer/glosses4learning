@@ -1,0 +1,35 @@
+{
+  "content": "Felborult a teherautó az oldalára.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Felborult"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:teherautó"
+    ],
+    [
+      "PART",
+      "hun:az"
+    ],
+    [
+      "PART",
+      "hun:oldalára"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.910502Z": "SPLIT_DONE"
+  }
+}

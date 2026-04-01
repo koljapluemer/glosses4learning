@@ -1,0 +1,37 @@
+{
+  "content": "resultados",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los tests de personalidad me dan resultados inconsistentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:results",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ergebnisse",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Результати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pero los resultados pueden ser mortales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:28.565802Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:28.578826Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:28.594531Z": "TRANSLATION_DONE:ukr"
+  }
+}

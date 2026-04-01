@@ -1,0 +1,35 @@
+{
+  "content": "Heur klaainkiend woont ien Nederlaand.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Heur"
+    ],
+    [
+      "PART",
+      "gos:klaainkiend"
+    ],
+    [
+      "PART",
+      "gos:woont"
+    ],
+    [
+      "PART",
+      "gos:ien"
+    ],
+    [
+      "PART",
+      "gos:Nederlaand"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.360526Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Los discursos del presidente son sumamente pedorros.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:discursos"
+    ],
+    [
+      "PART",
+      "spa:del"
+    ],
+    [
+      "PART",
+      "spa:presidente"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:sumamente"
+    ],
+    [
+      "PART",
+      "spa:pedorros"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.752034Z": "SPLIT_DONE"
+  }
+}

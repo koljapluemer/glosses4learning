@@ -1,0 +1,27 @@
+{
+  "content": "yapmadığı",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:O başka kimsenin yapmadığı bir şey"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:40.731386Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:40.732318Z": "TRANSLATION_DONE:deu"
+  }
+}

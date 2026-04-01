@@ -1,0 +1,27 @@
+{
+  "content": "smerterne",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Denne medicin vil lindre smerterne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pain",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schmerzen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:43.531144Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:43.551385Z": "TRANSLATION_DONE:deu"
+  }
+}

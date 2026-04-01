@@ -1,0 +1,39 @@
+{
+  "content": "Túl öreg vagyok már a futáshoz.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tikopa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Túl"
+    ],
+    [
+      "PART",
+      "hun:öreg"
+    ],
+    [
+      "PART",
+      "hun:vagyok"
+    ],
+    [
+      "PART",
+      "hun:már"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:futáshoz"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.908388Z": "SPLIT_DONE"
+  }
+}

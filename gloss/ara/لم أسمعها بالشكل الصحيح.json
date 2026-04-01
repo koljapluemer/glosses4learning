@@ -1,0 +1,31 @@
+{
+  "content": "لم أسمعها بالشكل الصحيح.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لم"
+    ],
+    [
+      "PART",
+      "ara:أسمعها"
+    ],
+    [
+      "PART",
+      "ara:بالشكل"
+    ],
+    [
+      "PART",
+      "ara:الصحيح"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.935574Z": "SPLIT_DONE"
+  }
+}

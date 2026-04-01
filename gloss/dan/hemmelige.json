@@ -1,0 +1,27 @@
+{
+  "content": "hemmelige",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kender ikke den hemmelige kode"
+    ],
+    [
+      "TRANSLATION",
+      "eng:secret",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geheimnis",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:31.981426Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:32.122074Z": "TRANSLATION_DONE:deu"
+  }
+}

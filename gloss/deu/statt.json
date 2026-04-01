@@ -1,0 +1,33 @@
+{
+  "content": "statt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Können Sie es ihr bitte an meiner statt sagen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:21.178089Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:21.193701Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:21.217234Z": "TRANSLATION_DONE:kor"
+  }
+}

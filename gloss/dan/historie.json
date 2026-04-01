@@ -1,0 +1,27 @@
+{
+  "content": "historie",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor undertrykker de denne historie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:history",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geschichte",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:26.891324Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:27.043889Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "cuentan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los argelinos cuentan con cobertura sanitaria"
+    ],
+    [
+      "TRANSLATION",
+      "eng:count",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Anzahl",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кількість",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:37.957783Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:37.971520Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:37.986728Z": "TRANSLATION_DONE:ukr"
+  }
+}

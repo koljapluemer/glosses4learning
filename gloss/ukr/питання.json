@@ -1,0 +1,27 @@
+{
+  "content": "питання",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це питання, на яке я не можу відповісти"
+    ],
+    [
+      "TRANSLATION",
+      "eng:questions",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fragen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:02.593899Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:02.610300Z": "TRANSLATION_DONE:deu"
+  }
+}

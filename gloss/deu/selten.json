@@ -9,7 +9,9 @@
     "2026-03-29T13:22:26.011086Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:22:26.194550Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:22:26.368686Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:22:26.539605Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:22:26.539605Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:19.451504Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:19.468571Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,20 @@
     [
       "TRANSLATION",
       "tur:nadiren"
+    ],
+    [
+      "TRANSLATION",
+      "dan:sjældent"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:рідко",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

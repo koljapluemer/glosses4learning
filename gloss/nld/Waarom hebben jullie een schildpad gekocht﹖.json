@@ -1,0 +1,39 @@
+{
+  "content": "Waarom hebben jullie een schildpad gekocht?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarom"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:schildpad"
+    ],
+    [
+      "PART",
+      "nld:gekocht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.241112Z": "SPLIT_DONE"
+  }
+}

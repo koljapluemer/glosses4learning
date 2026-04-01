@@ -1,0 +1,47 @@
+{
+  "content": "Je suis surprise que cette machine fonctionne encore.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Je"
+    ],
+    [
+      "PART",
+      "fra:suis"
+    ],
+    [
+      "PART",
+      "fra:surprise"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:machine"
+    ],
+    [
+      "PART",
+      "fra:fonctionne"
+    ],
+    [
+      "PART",
+      "fra:encore"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.610972Z": "SPLIT_DONE"
+  }
+}

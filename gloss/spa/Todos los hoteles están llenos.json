@@ -1,0 +1,35 @@
+{
+  "content": "Todos los hoteles están llenos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by don_ramon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:hoteles"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:llenos"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.651932Z": "SPLIT_DONE"
+  }
+}

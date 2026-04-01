@@ -9,7 +9,9 @@
     "2026-03-29T13:17:31.698564Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:31.905623Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:17:32.105627Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:17:32.324596Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:17:32.324596Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:51.130934Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:51.283450Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -47,6 +49,16 @@
     [
       "TRANSLATION",
       "tur:sağlamak, temin etmek"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:для",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

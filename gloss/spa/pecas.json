@@ -1,0 +1,37 @@
+{
+  "content": "pecas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas de cabello rojo generalmente tienen pecas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las personas de pelo rojo suelen tener pecas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pines",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Pinien",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:штифти",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:11.922019Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:11.937053Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.957260Z": "TRANSLATION_DONE:ukr"
+  }
+}

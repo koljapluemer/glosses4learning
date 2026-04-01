@@ -1,0 +1,43 @@
+{
+  "content": "Viděl jsem Toma, jak odešel z pokoje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Viděl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:jak"
+    ],
+    [
+      "PART",
+      "ces:odešel"
+    ],
+    [
+      "PART",
+      "ces:z"
+    ],
+    [
+      "PART",
+      "ces:pokoje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.566621Z": "SPLIT_DONE"
+  }
+}

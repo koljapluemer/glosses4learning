@@ -1,0 +1,37 @@
+{
+  "content": "hätten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie hätten meine Briefe beantworten sollen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie hätten einen Rechtsanwalt einschalten sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they had",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони мали",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그들은",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:55.787086Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:55.931552Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:55.989397Z": "TRANSLATION_DONE:kor"
+  }
+}

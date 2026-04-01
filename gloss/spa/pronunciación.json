@@ -1,0 +1,33 @@
+{
+  "content": "pronunciación",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Una buena pronunciación es muy importante para el entendimiento"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pronunciation",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aussprache",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зондування",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:26.262519Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:26.276499Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:26.295145Z": "TRANSLATION_DONE:ukr"
+  }
+}

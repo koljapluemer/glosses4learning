@@ -1,0 +1,35 @@
+{
+  "content": "Ben je het nieuwe kindermeisje?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SunnyMoon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:nieuwe"
+    ],
+    [
+      "PART",
+      "nld:kindermeisje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.177352Z": "SPLIT_DONE"
+  }
+}

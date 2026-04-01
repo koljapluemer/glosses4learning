@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:14:22.458Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +33,18 @@
     [
       "TRANSLATION",
       "eng:would like"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Ona chce zostać piosenkarką"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czy ktoś jeszcze chce coś powiedzieć﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom powiedział, że chce mojej pomocy"
     ]
   ]
 }

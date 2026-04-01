@@ -1,0 +1,39 @@
+{
+  "content": "Мари рассказала мне, что она видела.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ganz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мари"
+    ],
+    [
+      "PART",
+      "rus:рассказала"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:видела"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.652466Z": "SPLIT_DONE"
+  }
+}

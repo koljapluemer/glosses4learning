@@ -1,0 +1,47 @@
+{
+  "content": "Mata pelajaran apa saja yang diajarkan Pak Jackson?",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pacific (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Mata"
+    ],
+    [
+      "PART",
+      "ind:pelajaran"
+    ],
+    [
+      "PART",
+      "ind:apa"
+    ],
+    [
+      "PART",
+      "ind:saja"
+    ],
+    [
+      "PART",
+      "ind:yang"
+    ],
+    [
+      "PART",
+      "ind:diajarkan"
+    ],
+    [
+      "PART",
+      "ind:Pak"
+    ],
+    [
+      "PART",
+      "ind:Jackson"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:27.004666Z": "SPLIT_DONE"
+  }
+}

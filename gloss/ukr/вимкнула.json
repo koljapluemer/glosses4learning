@@ -1,0 +1,27 @@
+{
+  "content": "вимкнула",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти вимкнула газ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:off",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aus",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:54.110943Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:54.125611Z": "TRANSLATION_DONE:deu"
+  }
+}

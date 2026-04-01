@@ -1,0 +1,27 @@
+{
+  "content": "Бостона",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми більше ніколи не поїдемо до Бостона"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Boston",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:46.682486Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:46.698781Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "11:00",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden gegen 11﹕00 Uhr wieder zu Hause sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:11﹕00",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:1 час",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:영업시간",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:52.745750Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:52.924648Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.093016Z": "TRANSLATION_DONE:kor"
+  }
+}

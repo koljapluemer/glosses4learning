@@ -1,0 +1,33 @@
+{
+  "content": "hicieron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estudiantes hicieron el trabajo ellos mismos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They did",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.885726Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.905250Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.920584Z": "TRANSLATION_DONE:ukr"
+  }
+}

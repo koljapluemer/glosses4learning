@@ -1,0 +1,33 @@
+{
+  "content": "peculiares",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Le gustan los animales peculiares, como las serpientes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:peculiars",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Eigenheime",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:особливості",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:12.003929Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:12.022265Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:12.040047Z": "TRANSLATION_DONE:ukr"
+  }
+}

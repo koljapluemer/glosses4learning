@@ -1,0 +1,33 @@
+{
+  "content": "anrufe",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tut mir leid, dass ich zu dieser Zeit anrufe"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Calls",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дзвінки",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:38.184532Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:38.202431Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:38.221320Z": "TRANSLATION_DONE:kor"
+  }
+}

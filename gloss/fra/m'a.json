@@ -1,0 +1,27 @@
+{
+  "content": "m'a",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Cette musique m'a tiré les larmes des yeux"
+    ],
+    [
+      "TRANSLATION",
+      "eng:me",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:35.049674Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:35.193618Z": "TRANSLATION_DONE:deu"
+  }
+}

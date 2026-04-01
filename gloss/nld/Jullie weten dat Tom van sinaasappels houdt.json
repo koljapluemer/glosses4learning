@@ -1,0 +1,43 @@
+{
+  "content": "Jullie weten dat Tom van sinaasappels houdt.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Jullie"
+    ],
+    [
+      "PART",
+      "nld:weten"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:sinaasappels"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.109206Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "dis-tu",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:De qui dis-tu qu'elles sont stupides ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Say",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sag mal",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:33.139294Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:33.159518Z": "TRANSLATION_DONE:deu"
+  }
+}

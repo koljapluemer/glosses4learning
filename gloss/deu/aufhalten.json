@@ -1,0 +1,33 @@
+{
+  "content": "aufhalten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nichts wird meinen heimtückischen Plan aufhalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hold",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Проживання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:39.692549Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:39.752916Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:39.861889Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Hvorfor vil Tom ha meg her?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by solsikkeris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvorfor"
+    ],
+    [
+      "PART",
+      "nob:vil"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:ha"
+    ],
+    [
+      "PART",
+      "nob:meg"
+    ],
+    [
+      "PART",
+      "nob:her"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.347897Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Позвоните мне, пожалуйста, по этому номеру.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by papersaltserver (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Позвоните"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:пожалуйста"
+    ],
+    [
+      "PART",
+      "rus:по"
+    ],
+    [
+      "PART",
+      "rus:этому"
+    ],
+    [
+      "PART",
+      "rus:номеру"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.560301Z": "SPLIT_DONE"
+  }
+}

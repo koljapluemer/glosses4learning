@@ -1,0 +1,33 @@
+{
+  "content": "homines",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Omnes homines aequales sunt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Omnes homines me mortuum esse putant"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non omnes homines sapientes sunt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Omnes homines fratres sunt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:people",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:20.235491Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Jackson is de meisjesnaam van Toms moeder.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Jackson"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:meisjesnaam"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:Toms"
+    ],
+    [
+      "PART",
+      "nld:moeder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.151018Z": "SPLIT_DONE"
+  }
+}

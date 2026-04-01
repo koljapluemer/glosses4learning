@@ -9,7 +9,9 @@
     "2026-03-29T13:14:08.977117Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:14:09.170753Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:14:09.346917Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:14:09.520318Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:14:09.520318Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:35:37.377112Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:37.529752Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -55,6 +57,32 @@
     [
       "TRANSLATION",
       "tur:Adam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Man sollte sein Versprechen halten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Man sollte seine Versprechen nicht brechen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Man sollte sich nicht um sein Alter sorgen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Man sollte seinen Freunden helfen"
     ]
   ]
 }

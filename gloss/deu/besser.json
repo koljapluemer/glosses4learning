@@ -9,7 +9,9 @@
     "2026-03-29T13:17:33.289582Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:17:33.473420Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:17:33.633327Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:17:33.832318Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:17:33.832318Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:36:51.646752Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:51.696371Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -67,6 +69,44 @@
     [
       "TRANSLATION",
       "spa:mejor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Seine Erkältung ist bestimmt besser geworden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest Tom besser sagen, dass es dir leid tut"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest dich besser von einem Arzt untersuchen lassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er hat nicht schwimmen gelernt. Das hätte er mal besser tun sollen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:краще",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:더 보기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:mejores"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Du solltest besser deinen Arzt fragen"
+    ],
+    [
+      "TRANSLATION",
+      "fra:meilleure"
     ]
   ]
 }

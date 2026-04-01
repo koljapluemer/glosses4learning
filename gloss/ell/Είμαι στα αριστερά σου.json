@@ -1,0 +1,31 @@
+{
+  "content": "Είμαι στα αριστερά σου.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Είμαι"
+    ],
+    [
+      "PART",
+      "ell:στα"
+    ],
+    [
+      "PART",
+      "ell:αριστερά"
+    ],
+    [
+      "PART",
+      "ell:σου"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.918779Z": "SPLIT_DONE"
+  }
+}

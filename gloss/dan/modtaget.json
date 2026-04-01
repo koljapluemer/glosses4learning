@@ -1,0 +1,27 @@
+{
+  "content": "modtaget",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har netop modtaget nogle glædelige nyheder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:received",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:empfangen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:00.529612Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:00.682143Z": "TRANSLATION_DONE:deu"
+  }
+}

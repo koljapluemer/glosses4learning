@@ -1,0 +1,43 @@
+{
+  "content": "Tom forstår sig ikke på moderne teknologi.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:forstår"
+    ],
+    [
+      "PART",
+      "dan:sig"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:på"
+    ],
+    [
+      "PART",
+      "dan:moderne"
+    ],
+    [
+      "PART",
+      "dan:teknologi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.549429Z": "SPLIT_DONE"
+  }
+}

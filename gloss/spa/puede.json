@@ -1,0 +1,45 @@
+{
+  "content": "puede",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los amigos que tengo son los mejores que uno puede tener"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Can",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kann",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чи можна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ese modelo no puede borrar las diferencias culturales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente de hoy no puede estar sin sus autos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella puede hacer y contestar preguntas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:26.549851Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:26.566137Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:26.566495Z": "TRANSLATION_DONE:ukr"
+  }
+}

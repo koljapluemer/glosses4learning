@@ -1,0 +1,31 @@
+{
+  "content": "død",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tilsyneladende var Toms død et selvmord"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor falder du ikke bare død om﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dead",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tod",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:20.936964Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:21.078588Z": "TRANSLATION_DONE:deu"
+  }
+}

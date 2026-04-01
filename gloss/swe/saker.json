@@ -1,0 +1,33 @@
+{
+  "content": "saker",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det här ordet betyder flera olika saker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:things things",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom har en tendens till att överdriva saker och ting"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag lovar att jag ska sluta att skjuta saker på framtiden. I morgon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Vad är det för saker som ni pratar om﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:01.969728Z": "TRANSLATION_DONE:eng"
+  }
+}

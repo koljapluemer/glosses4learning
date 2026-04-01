@@ -1,0 +1,31 @@
+{
+  "content": "zamankinden",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bugün her zamankinden biraz daha sıcak"
+    ],
+    [
+      "TRANSLATION",
+      "eng:From",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Von",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Bu gece, Tom her zamankinden daha iyi şarkı söyledi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:43.687407Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:43.815875Z": "TRANSLATION_DONE:deu"
+  }
+}

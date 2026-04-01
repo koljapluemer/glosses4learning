@@ -1,0 +1,27 @@
+{
+  "content": "d'arriver",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Dites-moi que ce n'est pas en train d'arriver !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to arrive",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ankommen",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:32.800093Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:32.819123Z": "TRANSLATION_DONE:deu"
+  }
+}

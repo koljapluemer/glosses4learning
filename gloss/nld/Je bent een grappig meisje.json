@@ -1,0 +1,35 @@
+{
+  "content": "Je bent een grappig meisje.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Je"
+    ],
+    [
+      "PART",
+      "nld:bent"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:grappig"
+    ],
+    [
+      "PART",
+      "nld:meisje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.147139Z": "SPLIT_DONE"
+  }
+}

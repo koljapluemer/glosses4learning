@@ -1,0 +1,31 @@
+{
+  "content": "Ad cubiculum meum eamus.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ad"
+    ],
+    [
+      "PART",
+      "lat:cubiculum"
+    ],
+    [
+      "PART",
+      "lat:meum"
+    ],
+    [
+      "PART",
+      "lat:eamus"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.384137Z": "SPLIT_DONE"
+  }
+}

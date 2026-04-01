@@ -1,0 +1,35 @@
+{
+  "content": "Tudsz nekünk segíteni vagy nem?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tudsz"
+    ],
+    [
+      "PART",
+      "hun:nekünk"
+    ],
+    [
+      "PART",
+      "hun:segíteni"
+    ],
+    [
+      "PART",
+      "hun:vagy"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.914303Z": "SPLIT_DONE"
+  }
+}

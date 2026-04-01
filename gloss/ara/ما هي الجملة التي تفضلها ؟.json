@@ -1,0 +1,35 @@
+{
+  "content": "ما هي الجملة التي تفضلها ؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raghebaraby (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ما"
+    ],
+    [
+      "PART",
+      "ara:هي"
+    ],
+    [
+      "PART",
+      "ara:الجملة"
+    ],
+    [
+      "PART",
+      "ara:التي"
+    ],
+    [
+      "PART",
+      "ara:تفضلها"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:05:18.936569Z": "SPLIT_DONE"
+  }
+}

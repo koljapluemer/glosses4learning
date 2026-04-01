@@ -1,0 +1,35 @@
+{
+  "content": "Я не бачу ніяких проблем.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shanghainese (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:бачу"
+    ],
+    [
+      "PART",
+      "ukr:ніяких"
+    ],
+    [
+      "PART",
+      "ukr:проблем"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.972493Z": "SPLIT_DONE"
+  }
+}

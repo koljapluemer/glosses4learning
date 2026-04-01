@@ -1,0 +1,39 @@
+{
+  "content": "Podívej, co za sebou Tom zanechal.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Podívej"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:sebou"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:zanechal"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.186335Z": "SPLIT_DONE"
+  }
+}

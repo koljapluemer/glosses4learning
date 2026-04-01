@@ -1,0 +1,35 @@
+{
+  "content": "Waarom ben je zo blij?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarom"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:zo"
+    ],
+    [
+      "PART",
+      "nld:blij"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.168347Z": "SPLIT_DONE"
+  }
+}

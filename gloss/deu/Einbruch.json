@@ -1,0 +1,37 @@
+{
+  "content": "Einbruch",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vor Einbruch der Dunkelheit sollten wir wieder zurück sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Breakdown",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Віджети",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden auf keinen Fall vor Einbruch der Dunkelheit in London ankommen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:17.956921Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:17.982970Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:18.012835Z": "TRANSLATION_DONE:kor"
+  }
+}

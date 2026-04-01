@@ -1,0 +1,33 @@
+{
+  "content": "Tatoeba",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:En la práctica, ¿Tatoeba realmente sirve para ayudar a los traductores﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tatoeba",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tatoeba",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Татоеба",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:57.522062Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:57.539738Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:57.560245Z": "TRANSLATION_DONE:ukr"
+  }
+}

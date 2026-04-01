@@ -1,0 +1,27 @@
+{
+  "content": "одяг",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я весь день прав одяг"
+    ],
+    [
+      "TRANSLATION",
+      "eng:clothes",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kleidung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:04.815292Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:04.832823Z": "TRANSLATION_DONE:deu"
+  }
+}

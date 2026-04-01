@@ -1,0 +1,31 @@
+{
+  "content": "imod",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Har du noget imod at lufte hunden﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har ikke noget imod at tage opvasken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:against",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gegen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:29.557751Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:29.703800Z": "TRANSLATION_DONE:deu"
+  }
+}

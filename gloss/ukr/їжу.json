@@ -1,0 +1,27 @@
+{
+  "content": "їжу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти колись їв мексиканську їжу﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:food",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lebensmittel",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:18.618770Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:18.638096Z": "TRANSLATION_DONE:deu"
+  }
+}

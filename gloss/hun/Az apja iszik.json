@@ -1,0 +1,27 @@
+{
+  "content": "Az apja iszik.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Az"
+    ],
+    [
+      "PART",
+      "hun:apja"
+    ],
+    [
+      "PART",
+      "hun:iszik"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:45.918469Z": "SPLIT_DONE"
+  }
+}

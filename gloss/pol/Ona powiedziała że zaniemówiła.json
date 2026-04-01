@@ -1,0 +1,31 @@
+{
+  "content": "Ona powiedziała że zaniemówiła.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MCcommand (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Ona"
+    ],
+    [
+      "PART",
+      "pol:powiedziała"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:zaniemówiła"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.264274Z": "SPLIT_DONE"
+  }
+}

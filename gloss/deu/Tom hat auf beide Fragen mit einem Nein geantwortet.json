@@ -1,0 +1,51 @@
+{
+  "content": "Tom hat auf beide Fragen mit einem Nein geantwortet.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:beide"
+    ],
+    [
+      "PART",
+      "deu:Fragen"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:einem"
+    ],
+    [
+      "PART",
+      "deu:Nein"
+    ],
+    [
+      "PART",
+      "deu:geantwortet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.221618Z": "SPLIT_DONE"
+  }
+}

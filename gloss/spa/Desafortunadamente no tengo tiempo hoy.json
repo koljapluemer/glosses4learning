@@ -1,0 +1,35 @@
+{
+  "content": "Desafortunadamente no tengo tiempo hoy.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Desafortunadamente"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:tengo"
+    ],
+    [
+      "PART",
+      "spa:tiempo"
+    ],
+    [
+      "PART",
+      "spa:hoy"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.612166Z": "SPLIT_DONE"
+  }
+}

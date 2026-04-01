@@ -1,0 +1,33 @@
+{
+  "content": "Französisch-Hausaufgaben",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom macht gerade seine Französisch-Hausaufgaben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:French homework",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Французьке домашнє відео",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:프랑스 homework",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:54.646013Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:54.672815Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:54.696202Z": "TRANSLATION_DONE:kor"
+  }
+}

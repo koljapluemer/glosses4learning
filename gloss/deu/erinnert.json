@@ -8,7 +8,9 @@
     "2026-01-27T14:32:40.953877Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:18:34.003855Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:34.197703Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:18:34.396202Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:18:34.396202Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:37:17.144145Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:17.167599Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -54,6 +56,16 @@
     [
       "TRANSLATION",
       "fra:remémoré"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пам'яті",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

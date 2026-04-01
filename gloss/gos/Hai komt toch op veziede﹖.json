@@ -1,0 +1,35 @@
+{
+  "content": "Hai komt toch op veziede?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Hai"
+    ],
+    [
+      "PART",
+      "gos:komt"
+    ],
+    [
+      "PART",
+      "gos:toch"
+    ],
+    [
+      "PART",
+      "gos:op"
+    ],
+    [
+      "PART",
+      "gos:veziede"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.366566Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "rigtigt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du ved jo selv at det ikke er rigtigt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:right",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Recht",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:20.160970Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:20.161206Z": "TRANSLATION_DONE:deu"
+  }
+}

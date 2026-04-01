@@ -1,0 +1,39 @@
+{
+  "content": "Jeg liker måten du går på.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gurobu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:måten"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:går"
+    ],
+    [
+      "PART",
+      "nob:på"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.279514Z": "SPLIT_DONE"
+  }
+}

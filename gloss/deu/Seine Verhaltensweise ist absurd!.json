@@ -1,0 +1,31 @@
+{
+  "content": "Seine Verhaltensweise ist absurd!",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Biderl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Seine"
+    ],
+    [
+      "PART",
+      "deu:Verhaltensweise"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:absurd"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.536175Z": "SPLIT_DONE"
+  }
+}

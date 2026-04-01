@@ -1,0 +1,39 @@
+{
+  "content": "Han gav mig ett bra förslag.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:gav"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:ett"
+    ],
+    [
+      "PART",
+      "swe:bra"
+    ],
+    [
+      "PART",
+      "swe:förslag"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.837631Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "книги",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Нямам почти никакви френски книги"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Имам някакви книги на френски"
+    ],
+    [
+      "TRANSLATION",
+      "eng:books",
+      "Auto-translated with argostranslate (bg→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Тези книги са най-добрите ми приятели"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:27:06.555458Z": "TRANSLATION_DONE:eng"
+  }
+}

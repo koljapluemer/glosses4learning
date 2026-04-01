@@ -1,0 +1,35 @@
+{
+  "content": "Jej głos wybrzmiewał w korytarzu.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gryzus24 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jej"
+    ],
+    [
+      "PART",
+      "pol:głos"
+    ],
+    [
+      "PART",
+      "pol:wybrzmiewał"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:korytarzu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.765151Z": "SPLIT_DONE"
+  }
+}

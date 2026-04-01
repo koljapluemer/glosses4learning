@@ -1,0 +1,29 @@
+{
+  "content": "hans",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det är hans svaga punkt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:his",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Många närvarade vid hans begravning"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Han kommer aldrig att erkänna att det är hans fel"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:54.293167Z": "TRANSLATION_DONE:eng"
+  }
+}

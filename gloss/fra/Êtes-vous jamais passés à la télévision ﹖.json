@@ -1,0 +1,39 @@
+{
+  "content": "Êtes-vous jamais passés à la télévision ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:jamais"
+    ],
+    [
+      "PART",
+      "fra:passés"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:télévision"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.053871Z": "SPLIT_DONE"
+  }
+}

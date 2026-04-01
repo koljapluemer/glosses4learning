@@ -1,0 +1,33 @@
+{
+  "content": "Taubstumme",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Taubstumme unterhalten sich, indem sie die Zeichensprache verwenden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Pigeons",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Півонії",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:비둘기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:20.648261Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:20.678884Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:20.828145Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -2,12 +2,43 @@
   "content": "entre",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T12:52:47.831525Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:47.980239Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:to"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las extorsiones son habituales entre los delincuentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los animales no son capaces de distinguir entre lo que está bien y lo que está mal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las tensiones eran muy fuertes entre nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zwischen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:між",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los centros comerciales son populares entre los adolescentes"
     ]
   ]
 }

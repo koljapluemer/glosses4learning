@@ -1,0 +1,51 @@
+{
+  "content": "Tom sa til meg at han ikke var opptatt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:sa"
+    ],
+    [
+      "PART",
+      "nob:til"
+    ],
+    [
+      "PART",
+      "nob:meg"
+    ],
+    [
+      "PART",
+      "nob:at"
+    ],
+    [
+      "PART",
+      "nob:han"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:var"
+    ],
+    [
+      "PART",
+      "nob:opptatt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.350265Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "poussière",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Les lunettes de protection protègent vos yeux de la poussière"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dust",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Staub",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:45.282476Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:45.435794Z": "TRANSLATION_DONE:deu"
+  }
+}

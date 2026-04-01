@@ -1,0 +1,39 @@
+{
+  "content": "Eu gosto de regar o jardim.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by inestpereira (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:gosto"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:regar"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:jardim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.580647Z": "SPLIT_DONE"
+  }
+}

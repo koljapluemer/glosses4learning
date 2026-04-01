@@ -1,0 +1,43 @@
+{
+  "content": "Ik ben alleenstaand en heb geen kinderen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:alleenstaand"
+    ],
+    [
+      "PART",
+      "nld:en"
+    ],
+    [
+      "PART",
+      "nld:heb"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.107472Z": "SPLIT_DONE"
+  }
+}

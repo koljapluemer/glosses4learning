@@ -1,0 +1,35 @@
+{
+  "content": "commencé",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que tu as commencé à apprendre l'anglais ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quand avez-vous commencé à porter des lentilles de contact ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Quand as-tu commencé à porter des lentilles de contact ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:started",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:begann",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:16.173394Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:16.327761Z": "TRANSLATION_DONE:deu"
+  }
+}

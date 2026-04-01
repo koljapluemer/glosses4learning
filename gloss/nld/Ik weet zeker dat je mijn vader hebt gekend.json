@@ -1,0 +1,51 @@
+{
+  "content": "Ik weet zeker dat je mijn vader hebt gekend.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aubrey (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:weet"
+    ],
+    [
+      "PART",
+      "nld:zeker"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:mijn"
+    ],
+    [
+      "PART",
+      "nld:vader"
+    ],
+    [
+      "PART",
+      "nld:hebt"
+    ],
+    [
+      "PART",
+      "nld:gekend"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:54.040219Z": "SPLIT_DONE"
+  }
+}

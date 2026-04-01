@@ -8,7 +8,9 @@
     "2026-01-27T14:36:53.877332Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:23:23.936820Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:23:24.097775Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:23:24.273989Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:23:24.273989Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:38:37.136037Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:37.158392Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -46,6 +48,20 @@
     [
       "TRANSLATION",
       "rus:разумно"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir wollen uns einmal vernünftig mit Tom unterhalten!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:розумний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "content": "відпущу",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я ніколи не відпущу тебе"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let me go",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lass mich los!",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:54.942579Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:54.959572Z": "TRANSLATION_DONE:deu"
+  }
+}

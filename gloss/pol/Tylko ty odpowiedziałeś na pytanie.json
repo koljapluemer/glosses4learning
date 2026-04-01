@@ -1,0 +1,35 @@
+{
+  "content": "Tylko ty odpowiedziałeś na pytanie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by uvenit127 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tylko"
+    ],
+    [
+      "PART",
+      "pol:ty"
+    ],
+    [
+      "PART",
+      "pol:odpowiedziałeś"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:pytanie"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.285294Z": "SPLIT_DONE"
+  }
+}

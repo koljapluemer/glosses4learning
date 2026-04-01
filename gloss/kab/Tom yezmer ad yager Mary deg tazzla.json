@@ -1,0 +1,43 @@
+{
+  "content": "Tom yezmer ad yager Mary deg tazzla.",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nabil509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "kab:Tom"
+    ],
+    [
+      "PART",
+      "kab:yezmer"
+    ],
+    [
+      "PART",
+      "kab:ad"
+    ],
+    [
+      "PART",
+      "kab:yager"
+    ],
+    [
+      "PART",
+      "kab:Mary"
+    ],
+    [
+      "PART",
+      "kab:deg"
+    ],
+    [
+      "PART",
+      "kab:tazzla"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:29.231524Z": "SPLIT_DONE"
+  }
+}

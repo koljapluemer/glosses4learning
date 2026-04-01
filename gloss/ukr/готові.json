@@ -1,0 +1,27 @@
+{
+  "content": "готові",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви готові їхати﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ready",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bereit",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:55.810258Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:55.810679Z": "TRANSLATION_DONE:deu"
+  }
+}

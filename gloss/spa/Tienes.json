@@ -1,0 +1,41 @@
+{
+  "content": "Tienes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes suerte de que no haya llovido ayer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You have",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie haben",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ви маєте",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes que hablar con ellos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes suerte de que Tom no haya venido"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:20.862524Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:20.875813Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:20.890464Z": "TRANSLATION_DONE:ukr"
+  }
+}

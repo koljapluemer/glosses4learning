@@ -1,0 +1,33 @@
+{
+  "content": "rimas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las rimas infantiles son textos deliberadamente inconsistentes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Rhyme",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rhym",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ритм",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:28.670864Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:28.685370Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:28.702110Z": "TRANSLATION_DONE:ukr"
+  }
+}

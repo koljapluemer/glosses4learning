@@ -1,0 +1,31 @@
+{
+  "content": "Kaikki kysymykset olivat vaikeita.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by baetota (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Kaikki"
+    ],
+    [
+      "PART",
+      "fin:kysymykset"
+    ],
+    [
+      "PART",
+      "fin:olivat"
+    ],
+    [
+      "PART",
+      "fin:vaikeita"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.903139Z": "SPLIT_DONE"
+  }
+}

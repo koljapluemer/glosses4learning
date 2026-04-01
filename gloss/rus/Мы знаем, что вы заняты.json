@@ -1,0 +1,35 @@
+{
+  "content": "Мы знаем, что вы заняты.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Biga (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мы"
+    ],
+    [
+      "PART",
+      "rus:знаем"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:вы"
+    ],
+    [
+      "PART",
+      "rus:заняты"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.273006Z": "SPLIT_DONE"
+  }
+}

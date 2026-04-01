@@ -1,0 +1,33 @@
+{
+  "content": "andauernd",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom macht sich andauernd um seine Tochter Sorgen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:last year",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:минулого року",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지난해",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:59.319573Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:59.336709Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:59.353001Z": "TRANSLATION_DONE:kor"
+  }
+}

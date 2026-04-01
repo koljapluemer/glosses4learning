@@ -1,0 +1,39 @@
+{
+  "content": "Tom permaneceu solteiro toda sua vida.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rodrigoatsu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:permaneceu"
+    ],
+    [
+      "PART",
+      "por:solteiro"
+    ],
+    [
+      "PART",
+      "por:toda"
+    ],
+    [
+      "PART",
+      "por:sua"
+    ],
+    [
+      "PART",
+      "por:vida"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.550118Z": "SPLIT_DONE"
+  }
+}

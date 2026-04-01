@@ -1,0 +1,27 @@
+{
+  "content": "comptoir",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Qu'est-ce que c'est que cette boîte qui est sur le comptoir ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:counter",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zähler",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:32.057717Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:32.200237Z": "TRANSLATION_DONE:deu"
+  }
+}

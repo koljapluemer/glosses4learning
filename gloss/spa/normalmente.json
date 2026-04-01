@@ -1,0 +1,41 @@
+{
+  "content": "normalmente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿En qué idioma hablas con Tom normalmente﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos normalmente no escriben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los cerdos hormigueros normalmente son confundidos con los osos hormigueros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:normally",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:normalerweise",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:нормально",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:10.887289Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:10.902437Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:11.045670Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "endişeleniyor",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un anne ve babası onun için endişeleniyor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:worried",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:besorgt",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:29.634293Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:29.647481Z": "TRANSLATION_DONE:deu"
+  }
+}

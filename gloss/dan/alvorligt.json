@@ -1,0 +1,27 @@
+{
+  "content": "alvorligt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du tager det alt for alvorligt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:serious",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ernst",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:43.406716Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:43.552602Z": "TRANSLATION_DONE:deu"
+  }
+}

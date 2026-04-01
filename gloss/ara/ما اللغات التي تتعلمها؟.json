@@ -1,0 +1,31 @@
+{
+  "content": "ما اللغات التي تتعلمها؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by atitarev (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ما"
+    ],
+    [
+      "PART",
+      "ara:اللغات"
+    ],
+    [
+      "PART",
+      "ara:التي"
+    ],
+    [
+      "PART",
+      "ara:تتعلمها"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.051241Z": "SPLIT_DONE"
+  }
+}

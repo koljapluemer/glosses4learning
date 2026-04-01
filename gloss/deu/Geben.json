@@ -1,0 +1,37 @@
+{
+  "content": "Geben",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Geben Sie Ihr Bestes und machen Sie sich keine Sorgen!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Enter",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Geben Sie keinem anderen diese Nummer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:22.617815Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:22.682248Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:22.730438Z": "TRANSLATION_DONE:kor"
+  }
+}

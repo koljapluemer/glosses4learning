@@ -1,0 +1,35 @@
+{
+  "content": "In Graecia multae insulae sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:In"
+    ],
+    [
+      "PART",
+      "lat:Graecia"
+    ],
+    [
+      "PART",
+      "lat:multae"
+    ],
+    [
+      "PART",
+      "lat:insulae"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.334939Z": "SPLIT_DONE"
+  }
+}

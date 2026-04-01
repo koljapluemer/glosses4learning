@@ -1,0 +1,41 @@
+{
+  "content": "ある",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:彼女はまだ熱があるのですか？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:それについて書かれたものをどこかで読んだことがある。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yes",
+      "Auto-translated with argostranslate (ja→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:彼女はそれが自分次第であることを知っている。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:それについて聞いたことがある人は誰もいなかった。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:誰にでも至らないところはあるものよ。それでいいのよ。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:握りこぶしは、ストレスがあることを示しているかもしれません。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:33.930707Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Kiender speulen ien t paark.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Kiender"
+    ],
+    [
+      "PART",
+      "gos:speulen"
+    ],
+    [
+      "PART",
+      "gos:ien"
+    ],
+    [
+      "PART",
+      "gos:t"
+    ],
+    [
+      "PART",
+      "gos:paark"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.418555Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "teletransporte",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él es un físico que está trabajando en el teletransporte"
+    ],
+    [
+      "TRANSLATION",
+      "eng:transport",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verkehr",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:транспорт",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:37.124075Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:37.267738Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:37.409386Z": "TRANSLATION_DONE:ukr"
+  }
+}

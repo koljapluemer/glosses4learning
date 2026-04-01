@@ -1,0 +1,35 @@
+{
+  "content": "Lingua Anglica mihi non placet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexlee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Lingua"
+    ],
+    [
+      "PART",
+      "lat:Anglica"
+    ],
+    [
+      "PART",
+      "lat:mihi"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:placet"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.288268Z": "SPLIT_DONE"
+  }
+}

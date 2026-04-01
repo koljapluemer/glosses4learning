@@ -1,0 +1,33 @@
+{
+  "content": "Nutzen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieses Wörterbuch kann dir ebenfalls von Nutzen sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Benefits",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Переваги",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:51.627920Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:51.645886Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:51.794455Z": "TRANSLATION_DONE:kor"
+  }
+}

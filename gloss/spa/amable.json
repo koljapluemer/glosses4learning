@@ -1,0 +1,33 @@
+{
+  "content": "amable",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es realmente una chica muy amable"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That's good",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das ist gut",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це добре",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:58.061566Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:58.084691Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:58.108459Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Varför köpte du den här bilen?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Varför"
+    ],
+    [
+      "PART",
+      "swe:köpte"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:bilen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:15.016644Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom kendisi hakkında neredeyse hiç konuşmaz.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:kendisi"
+    ],
+    [
+      "PART",
+      "tur:hakkında"
+    ],
+    [
+      "PART",
+      "tur:neredeyse"
+    ],
+    [
+      "PART",
+      "tur:hiç"
+    ],
+    [
+      "PART",
+      "tur:konuşmaz"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.596637Z": "SPLIT_DONE"
+  }
+}

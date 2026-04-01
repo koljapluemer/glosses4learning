@@ -1,0 +1,33 @@
+{
+  "content": "gelernt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er hat nicht schwimmen gelernt. Das hätte er mal besser tun sollen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Learned",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вивчаємо",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지원하다",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:35.350784Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:35.376268Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:35.414926Z": "TRANSLATION_DONE:kor"
+  }
+}

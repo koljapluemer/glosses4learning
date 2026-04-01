@@ -1,0 +1,33 @@
+{
+  "content": "Großvater",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Uhr hat deinem Großvater gehört"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Grandfather",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Великий",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기 카테고리",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:54.963097Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:54.981687Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:55.006152Z": "TRANSLATION_DONE:kor"
+  }
+}

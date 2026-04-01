@@ -1,0 +1,31 @@
+{
+  "content": "Minä tulin tavallista aiemmin.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minä"
+    ],
+    [
+      "PART",
+      "fin:tulin"
+    ],
+    [
+      "PART",
+      "fin:tavallista"
+    ],
+    [
+      "PART",
+      "fin:aiemmin"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.906702Z": "SPLIT_DONE"
+  }
+}

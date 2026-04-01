@@ -1,0 +1,27 @@
+{
+  "content": "attitude",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Il se peut qu'elle n'apprécie pas son attitude"
+    ],
+    [
+      "TRANSLATION",
+      "eng:attitude",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haltung",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:31.429296Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:31.442481Z": "TRANSLATION_DONE:deu"
+  }
+}

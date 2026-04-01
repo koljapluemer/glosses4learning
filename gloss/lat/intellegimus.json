@@ -1,0 +1,25 @@
+{
+  "content": "intellegimus",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Linguam Francogallicam non intellegimus"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Linguam Anglicam non intellegimus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we understood",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:27.328269Z": "TRANSLATION_DONE:eng"
+  }
+}

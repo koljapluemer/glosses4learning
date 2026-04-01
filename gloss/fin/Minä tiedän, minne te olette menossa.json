@@ -1,0 +1,39 @@
+{
+  "content": "Minä tiedän, minne te olette menossa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minä"
+    ],
+    [
+      "PART",
+      "fin:tiedän"
+    ],
+    [
+      "PART",
+      "fin:minne"
+    ],
+    [
+      "PART",
+      "fin:te"
+    ],
+    [
+      "PART",
+      "fin:olette"
+    ],
+    [
+      "PART",
+      "fin:menossa"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.030684Z": "SPLIT_DONE"
+  }
+}

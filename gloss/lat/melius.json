@@ -1,0 +1,21 @@
+{
+  "content": "melius",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas potest natare melius quam Maria"
+    ],
+    [
+      "TRANSLATION",
+      "eng:better",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:39.809685Z": "TRANSLATION_DONE:eng"
+  }
+}

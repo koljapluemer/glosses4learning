@@ -1,0 +1,33 @@
+{
+  "content": "capitales",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella conoce la mayoría de las capitales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:capital",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kapital",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:капітал",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.748925Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.762474Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.779119Z": "TRANSLATION_DONE:ukr"
+  }
+}

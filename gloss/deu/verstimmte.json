@@ -1,0 +1,33 @@
+{
+  "content": "verstimmte",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sein Verhalten verstimmte seine Freunde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deciphered",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:децифер",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:40.373613Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:40.397450Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:40.445980Z": "TRANSLATION_DONE:kor"
+  }
+}

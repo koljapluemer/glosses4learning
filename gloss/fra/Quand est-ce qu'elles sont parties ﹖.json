@@ -1,0 +1,35 @@
+{
+  "content": "Quand est-ce qu'elles sont parties ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quand"
+    ],
+    [
+      "PART",
+      "fra:est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'elles"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:parties"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.461527Z": "SPLIT_DONE"
+  }
+}

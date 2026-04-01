@@ -1,0 +1,27 @@
+{
+  "content": "refroidissement",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Des fenêtres ouvertes sont bonnes pour le refroidissement"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cooling",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kühlung",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:37.796513Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:37.811316Z": "TRANSLATION_DONE:deu"
+  }
+}

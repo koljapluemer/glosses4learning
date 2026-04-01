@@ -1,0 +1,33 @@
+{
+  "content": "beschloss",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom beschloss, seiner Webseite ein neues Aussehen zu verpassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Decision",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Рішення",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:12 월",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:00.448641Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:00.467424Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:00.486850Z": "TRANSLATION_DONE:kor"
+  }
+}

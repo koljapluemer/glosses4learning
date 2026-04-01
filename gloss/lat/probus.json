@@ -1,0 +1,21 @@
+{
+  "content": "probus",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non dubito quin Thomas probus sit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:honest",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:58.755642Z": "TRANSLATION_DONE:eng"
+  }
+}

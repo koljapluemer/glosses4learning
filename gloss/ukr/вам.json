@@ -1,0 +1,31 @@
+{
+  "content": "вам",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Зателефонуйте мені, якщо вам буде потрібна допомога"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можна поставити вам одне запитання﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.539467Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.554166Z": "TRANSLATION_DONE:deu"
+  }
+}

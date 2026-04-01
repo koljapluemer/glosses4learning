@@ -1,0 +1,27 @@
+{
+  "content": "відклали",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ми відклали вечірку"
+    ],
+    [
+      "TRANSLATION",
+      "eng:deferred",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:abgeleitet",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:54.907265Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:54.922605Z": "TRANSLATION_DONE:deu"
+  }
+}

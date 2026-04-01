@@ -1,0 +1,39 @@
+{
+  "content": "Jestem naprawdę niezadowolony z tego powodu.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilberry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jestem"
+    ],
+    [
+      "PART",
+      "pol:naprawdę"
+    ],
+    [
+      "PART",
+      "pol:niezadowolony"
+    ],
+    [
+      "PART",
+      "pol:z"
+    ],
+    [
+      "PART",
+      "pol:tego"
+    ],
+    [
+      "PART",
+      "pol:powodu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.215130Z": "SPLIT_DONE"
+  }
+}

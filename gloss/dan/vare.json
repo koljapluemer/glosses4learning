@@ -1,0 +1,27 @@
+{
+  "content": "vare",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det kommer til at vare i dagevis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:product",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erzeugnis",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:56.615482Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:56.650942Z": "TRANSLATION_DONE:deu"
+  }
+}

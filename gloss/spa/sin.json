@@ -1,0 +1,45 @@
+{
+  "content": "sin",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué sería del ser humano sin los animales﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:without",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ohne",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:без",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente de hoy no puede estar sin sus autos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunas cosas es mejor dejarlas sin hacer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella se casó sin que sus padres lo supieran"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:34.436224Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:34.580799Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:34.598104Z": "TRANSLATION_DONE:ukr"
+  }
+}

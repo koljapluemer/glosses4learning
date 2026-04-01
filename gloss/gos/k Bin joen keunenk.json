@@ -1,0 +1,31 @@
+{
+  "content": "k Bin joen keunenk.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:k"
+    ],
+    [
+      "PART",
+      "gos:Bin"
+    ],
+    [
+      "PART",
+      "gos:joen"
+    ],
+    [
+      "PART",
+      "gos:keunenk"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:27.635640Z": "SPLIT_DONE"
+  }
+}

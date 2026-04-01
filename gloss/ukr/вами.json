@@ -1,0 +1,31 @@
+{
+  "content": "вами",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я згодна з вами"
+    ],
+    [
+      "TRANSLATION",
+      "eng:you",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я терпіти не можу усього, що пов'язано з вами"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:53.149650Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:53.165043Z": "TRANSLATION_DONE:deu"
+  }
+}

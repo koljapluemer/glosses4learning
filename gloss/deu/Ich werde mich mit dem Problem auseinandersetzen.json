@@ -1,0 +1,43 @@
+{
+  "content": "Ich werde mich mit dem Problem auseinandersetzen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:werde"
+    ],
+    [
+      "PART",
+      "deu:mich"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:dem"
+    ],
+    [
+      "PART",
+      "deu:Problem"
+    ],
+    [
+      "PART",
+      "deu:auseinandersetzen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.167612Z": "SPLIT_DONE"
+  }
+}

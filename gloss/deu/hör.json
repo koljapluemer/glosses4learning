@@ -1,0 +1,33 @@
+{
+  "content": "hör",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom, hör auf dir Sorgen zu machen. Du kannst nichts dafür"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Listen",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Почати",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:56.255703Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:56.405385Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:56.435256Z": "TRANSLATION_DONE:kor"
+  }
+}

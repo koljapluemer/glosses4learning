@@ -1,0 +1,37 @@
+{
+  "content": "beantwortete",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich beantwortete Tom alle seine Fragen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:answered",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відповіли",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "dan:svarede"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:00.352630Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:00.374750Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:00.389870Z": "TRANSLATION_DONE:kor"
+  }
+}

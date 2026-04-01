@@ -1,0 +1,33 @@
+{
+  "content": "hegemonía",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La hegemonía global de Estados Unidos está disminuyendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hegemony",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hegemon",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:свінгери",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:06.835702Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:06.851719Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:06.868209Z": "TRANSLATION_DONE:ukr"
+  }
+}

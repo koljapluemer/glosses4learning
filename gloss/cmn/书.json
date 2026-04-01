@@ -1,0 +1,25 @@
+{
+  "content": "书",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:汤姆，这些全都是你的书吗﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Books",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我的书为什么会在这里？"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:26.919867Z": "TRANSLATION_DONE:eng"
+  }
+}

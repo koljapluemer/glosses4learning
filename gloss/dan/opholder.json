@@ -1,0 +1,27 @@
+{
+  "content": "opholder",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvorfor opholder Tom sig i Boston﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:stay",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufenthalt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:11.180466Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:11.316051Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Quelqu'un pourrait-il ouvrir la porte, s'il vous plait ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rene1596 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:pourrait-il"
+    ],
+    [
+      "PART",
+      "fra:ouvrir"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:porte"
+    ],
+    [
+      "PART",
+      "fra:s'il"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:plait"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.664190Z": "SPLIT_DONE"
+  }
+}

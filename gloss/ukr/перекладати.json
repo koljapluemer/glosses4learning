@@ -1,0 +1,27 @@
+{
+  "content": "перекладати",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я ненавиджу перекладати"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Translating",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Übersetzung",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:05.065761Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:05.080095Z": "TRANSLATION_DONE:deu"
+  }
+}

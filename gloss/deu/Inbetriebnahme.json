@@ -1,0 +1,33 @@
+{
+  "content": "Inbetriebnahme",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vor Inbetriebnahme des Mundwerks Verstand einschalten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Commission",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Комісія",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사연혁",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:26.357409Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:26.512303Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:26.659485Z": "TRANSLATION_DONE:kor"
+  }
+}

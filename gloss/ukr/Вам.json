@@ -1,0 +1,43 @@
+{
+  "content": "Вам",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам телефонують!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам слід дозволити Тому це зробити"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам треба заспокоїтись"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам подобається це робити, чи не так﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам сподобалося це робити, чи не так﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:46.795730Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:46.809038Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Waar komen jullie voorouders vandaan?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waar"
+    ],
+    [
+      "PART",
+      "nld:komen"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:voorouders"
+    ],
+    [
+      "PART",
+      "nld:vandaan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.169039Z": "SPLIT_DONE"
+  }
+}

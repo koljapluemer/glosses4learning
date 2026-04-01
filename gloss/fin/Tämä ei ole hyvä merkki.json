@@ -1,0 +1,35 @@
+{
+  "content": "Tämä ei ole hyvä merkki.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tämä"
+    ],
+    [
+      "PART",
+      "fin:ei"
+    ],
+    [
+      "PART",
+      "fin:ole"
+    ],
+    [
+      "PART",
+      "fin:hyvä"
+    ],
+    [
+      "PART",
+      "fin:merkki"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.909255Z": "SPLIT_DONE"
+  }
+}

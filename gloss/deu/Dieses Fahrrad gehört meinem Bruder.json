@@ -1,0 +1,35 @@
+{
+  "content": "Dieses Fahrrad gehört meinem Bruder.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MUIRIEL (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Dieses"
+    ],
+    [
+      "PART",
+      "deu:Fahrrad"
+    ],
+    [
+      "PART",
+      "deu:gehört"
+    ],
+    [
+      "PART",
+      "deu:meinem"
+    ],
+    [
+      "PART",
+      "deu:Bruder"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.239817Z": "SPLIT_DONE"
+  }
+}

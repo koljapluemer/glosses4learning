@@ -1,0 +1,39 @@
+{
+  "content": "Včera jsem potkal vašeho učitele francouzštiny.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Včera"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:potkal"
+    ],
+    [
+      "PART",
+      "ces:vašeho"
+    ],
+    [
+      "PART",
+      "ces:učitele"
+    ],
+    [
+      "PART",
+      "ces:francouzštiny"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:12.603487Z": "SPLIT_DONE"
+  }
+}

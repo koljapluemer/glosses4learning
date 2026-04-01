@@ -9,7 +9,9 @@
     "2026-03-29T13:18:44.947034Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:18:45.134971Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:18:45.307711Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:18:45.492371Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:18:45.492371Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:20.641533Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:20.687534Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,16 @@
     [
       "TRANSLATION",
       "tur:sürüş"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:водіння",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

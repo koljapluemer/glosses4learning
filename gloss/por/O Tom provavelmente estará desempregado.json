@@ -1,0 +1,35 @@
+{
+  "content": "O Tom provavelmente estará desempregado.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ricardo14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:O"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:provavelmente"
+    ],
+    [
+      "PART",
+      "por:estará"
+    ],
+    [
+      "PART",
+      "por:desempregado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.562136Z": "SPLIT_DONE"
+  }
+}

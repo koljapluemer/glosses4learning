@@ -1,0 +1,47 @@
+{
+  "content": "Tom versuchte sich einmal im Reisen per Anhalter.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:versuchte"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:einmal"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Reisen"
+    ],
+    [
+      "PART",
+      "deu:per"
+    ],
+    [
+      "PART",
+      "deu:Anhalter"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.544686Z": "SPLIT_DONE"
+  }
+}

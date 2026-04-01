@@ -1,0 +1,32 @@
+{
+  "content": "sententia",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec non est sententia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sentence"
+    ],
+    [
+      "TRANSLATION",
+      "eng:opinion"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thought"
+    ],
+    [
+      "TRANSLATION",
+      "eng:judgment"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:50:11.177229Z": "TRANSLATION_DONE:eng"
+  }
+}

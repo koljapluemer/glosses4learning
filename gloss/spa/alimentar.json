@@ -1,0 +1,33 @@
+{
+  "content": "alimentar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los visitantes no pueden alimentar a los animales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:feed",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Futtermittel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:харчування",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:24.862543Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:24.879708Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:24.895851Z": "TRANSLATION_DONE:ukr"
+  }
+}

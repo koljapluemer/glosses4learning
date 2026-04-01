@@ -1,0 +1,27 @@
+{
+  "content": "อาหารเช้า",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณทานอาหารเช้าแล้วใช่ไหม"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Breakfast",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frühstück",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:41.889206Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:41.904482Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "أنا أحب اللغة اليابانية كثيراً.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنا"
+    ],
+    [
+      "PART",
+      "ara:أحب"
+    ],
+    [
+      "PART",
+      "ara:اللغة"
+    ],
+    [
+      "PART",
+      "ara:اليابانية"
+    ],
+    [
+      "PART",
+      "ara:كثيرا"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.596827Z": "SPLIT_DONE"
+  }
+}

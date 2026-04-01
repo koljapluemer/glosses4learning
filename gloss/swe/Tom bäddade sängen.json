@@ -1,0 +1,27 @@
+{
+  "content": "Tom bäddade sängen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:bäddade"
+    ],
+    [
+      "PART",
+      "swe:sängen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.795915Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "unserem",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wie geht es unserem gemeinsamen Bekannten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:our",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Наші партнери",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:26.271760Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:26.429832Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:26.590588Z": "TRANSLATION_DONE:kor"
+  }
+}

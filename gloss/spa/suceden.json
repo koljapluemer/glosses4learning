@@ -1,0 +1,33 @@
+{
+  "content": "suceden",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tales cosas siempre suceden inesperadamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It's happening",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es passiert",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Це відбувається",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:16.437101Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:16.464745Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:16.511584Z": "TRANSLATION_DONE:ukr"
+  }
+}

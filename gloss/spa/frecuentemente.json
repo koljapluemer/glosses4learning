@@ -1,0 +1,33 @@
+{
+  "content": "frecuentemente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niños les molestan a sus padres frecuentemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:common",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gemeinsam",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:загальний",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:55.859819Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:55.875913Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:55.894677Z": "TRANSLATION_DONE:ukr"
+  }
+}

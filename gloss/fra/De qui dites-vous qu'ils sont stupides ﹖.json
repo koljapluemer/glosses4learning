@@ -1,0 +1,39 @@
+{
+  "content": "De qui dites-vous qu'ils sont stupides ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:De"
+    ],
+    [
+      "PART",
+      "fra:qui"
+    ],
+    [
+      "PART",
+      "fra:dites-vous"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:stupides"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.354511Z": "SPLIT_DONE"
+  }
+}

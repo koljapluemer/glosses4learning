@@ -1,0 +1,35 @@
+{
+  "content": "Denne medicin vil lindre smerterne.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Denne"
+    ],
+    [
+      "PART",
+      "dan:medicin"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:lindre"
+    ],
+    [
+      "PART",
+      "dan:smerterne"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.718961Z": "SPLIT_DONE"
+  }
+}

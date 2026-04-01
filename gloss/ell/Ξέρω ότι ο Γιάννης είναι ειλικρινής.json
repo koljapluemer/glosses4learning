@@ -1,0 +1,39 @@
+{
+  "content": "Ξέρω ότι ο Γιάννης είναι ειλικρινής.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tensai (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Ξέρω"
+    ],
+    [
+      "PART",
+      "ell:ότι"
+    ],
+    [
+      "PART",
+      "ell:ο"
+    ],
+    [
+      "PART",
+      "ell:Γιάννης"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:ειλικρινής"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:10:02.917843Z": "SPLIT_DONE"
+  }
+}

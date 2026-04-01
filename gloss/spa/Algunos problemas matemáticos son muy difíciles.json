@@ -1,0 +1,39 @@
+{
+  "content": "Algunos problemas matemáticos son muy difíciles.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:problemas"
+    ],
+    [
+      "PART",
+      "spa:matemáticos"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:difíciles"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.765201Z": "SPLIT_DONE"
+  }
+}

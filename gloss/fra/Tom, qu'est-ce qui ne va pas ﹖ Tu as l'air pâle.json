@@ -1,0 +1,55 @@
+{
+  "content": "Tom, qu'est-ce qui ne va pas ? Tu as l'air pâle.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Julien_PDC (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:qui"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:va"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:Tu"
+    ],
+    [
+      "PART",
+      "fra:as"
+    ],
+    [
+      "PART",
+      "fra:l'air"
+    ],
+    [
+      "PART",
+      "fra:pâle"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:15:19.590815Z": "SPLIT_DONE"
+  }
+}

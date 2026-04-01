@@ -1,0 +1,31 @@
+{
+  "content": "overraskende",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hans reaktion var ikke overraskende overhovedet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hendes reaktion var ikke overraskende overhovedet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:surprising",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:überraschend",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:14.055520Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:14.197681Z": "TRANSLATION_DONE:deu"
+  }
+}

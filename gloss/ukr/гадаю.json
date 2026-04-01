@@ -1,0 +1,27 @@
+{
+  "content": "гадаю",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я гадаю, це провина мого сусіда"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Guess",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Rate",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:55.062974Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:55.206607Z": "TRANSLATION_DONE:deu"
+  }
+}

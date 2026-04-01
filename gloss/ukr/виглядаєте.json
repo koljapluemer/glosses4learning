@@ -1,0 +1,31 @@
+{
+  "content": "виглядаєте",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви все ще не виглядаєте дуже задоволеними"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви сьогодні не виглядаєте дуже зайнятим"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You look",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du siehst aus",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:54.837031Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:54.853843Z": "TRANSLATION_DONE:deu"
+  }
+}

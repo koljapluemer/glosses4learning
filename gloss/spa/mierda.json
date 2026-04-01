@@ -10,7 +10,8 @@
     "2026-03-29T14:25:13.918845Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:25:14.090972Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:25:14.302538Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:25:14.502529Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:25:14.502529Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:53:13.703284Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -52,6 +53,11 @@
     [
       "TRANSLATION",
       "tur:sözcük"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Шит",
+      "Auto-translated with argostranslate (es→en→uk)"
     ]
   ]
 }

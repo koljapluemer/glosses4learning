@@ -1,0 +1,39 @@
+{
+  "content": "Попросите Тома, чтобы он мне позвонил.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Попросите"
+    ],
+    [
+      "PART",
+      "rus:Тома"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.627387Z": "SPLIT_DONE"
+  }
+}

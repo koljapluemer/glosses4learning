@@ -1,0 +1,27 @@
+{
+  "content": "billederne",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har endnu ikke set billederne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pictures",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bilder",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:32:51.337540Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:32:51.478553Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Var ska jag anmäla mig?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Var"
+    ],
+    [
+      "PART",
+      "swe:ska"
+    ],
+    [
+      "PART",
+      "swe:jag"
+    ],
+    [
+      "PART",
+      "swe:anmäla"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.849471Z": "SPLIT_DONE"
+  }
+}

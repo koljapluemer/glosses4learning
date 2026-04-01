@@ -9,7 +9,9 @@
     "2026-03-29T13:19:40.450632Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:19:40.609548Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:19:40.797422Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:19:40.981112Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:19:40.981112Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:37:42.105074Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:42.256648Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -63,6 +65,32 @@
     [
       "TRANSLATION",
       "tur:alınmış"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie schon wieder etwas Schlimmes getan﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr schon wieder etwas Schlimmes getan﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Haben Sie mir etwas in meinen Drink getan﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Habt ihr mir etwas in meinen Drink getan﹖"
     ]
   ]
 }

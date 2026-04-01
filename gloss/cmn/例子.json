@@ -1,0 +1,25 @@
+{
+  "content": "例子",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:让我们来学习一个特殊的例子。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Examples",
+      "Auto-translated with argostranslate (zh→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你举了一个不好的例子。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:30:32.663111Z": "TRANSLATION_DONE:eng"
+  }
+}

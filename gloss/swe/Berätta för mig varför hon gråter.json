@@ -1,0 +1,39 @@
+{
+  "content": "Berätta för mig varför hon gråter.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SilasNordgren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Berätta"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:varför"
+    ],
+    [
+      "PART",
+      "swe:hon"
+    ],
+    [
+      "PART",
+      "swe:gråter"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.846832Z": "SPLIT_DONE"
+  }
+}

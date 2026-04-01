@@ -1,0 +1,39 @@
+{
+  "content": "Êtes-vous sûres que personne n'est blessé ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:sûres"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:personne"
+    ],
+    [
+      "PART",
+      "fra:n'est"
+    ],
+    [
+      "PART",
+      "fra:blessé"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.209198Z": "SPLIT_DONE"
+  }
+}

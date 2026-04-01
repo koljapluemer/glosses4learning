@@ -1,0 +1,33 @@
+{
+  "content": "schneller",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Meine Großmutter ist im Nachrichtenschreiben schneller als du"
+    ],
+    [
+      "TRANSLATION",
+      "eng:faster",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:швидше",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:더 보기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:03.736750Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:03.752475Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:03.766161Z": "TRANSLATION_DONE:kor"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "invitationen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan ikke sende dig invitationen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the invitation;",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Aufforderung;",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:43.378771Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:43.573156Z": "TRANSLATION_DONE:deu"
+  }
+}

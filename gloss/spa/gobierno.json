@@ -1,0 +1,37 @@
+{
+  "content": "gobierno",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las políticas del gobierno fracasaron miserablemente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Government",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Regierung",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Уряд",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El gobierno tiene que hacer cambios fundamentales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:57.187056Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:57.200274Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:57.213988Z": "TRANSLATION_DONE:ukr"
+  }
+}

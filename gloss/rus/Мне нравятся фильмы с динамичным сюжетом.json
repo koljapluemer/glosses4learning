@@ -1,0 +1,39 @@
+{
+  "content": "Мне нравятся фильмы с динамичным сюжетом.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Wezel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:нравятся"
+    ],
+    [
+      "PART",
+      "rus:фильмы"
+    ],
+    [
+      "PART",
+      "rus:с"
+    ],
+    [
+      "PART",
+      "rus:динамичным"
+    ],
+    [
+      "PART",
+      "rus:сюжетом"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.200243Z": "SPLIT_DONE"
+  }
+}

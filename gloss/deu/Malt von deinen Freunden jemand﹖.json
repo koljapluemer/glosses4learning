@@ -1,0 +1,35 @@
+{
+  "content": "Malt von deinen Freunden jemand?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Malt"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Freunden"
+    ],
+    [
+      "PART",
+      "deu:jemand"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.179236Z": "SPLIT_DONE"
+  }
+}

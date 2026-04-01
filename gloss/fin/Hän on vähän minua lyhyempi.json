@@ -1,0 +1,35 @@
+{
+  "content": "Hän on vähän minua lyhyempi.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Hän"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:vähän"
+    ],
+    [
+      "PART",
+      "fin:minua"
+    ],
+    [
+      "PART",
+      "fin:lyhyempi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.905144Z": "SPLIT_DONE"
+  }
+}

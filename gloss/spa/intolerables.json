@@ -1,0 +1,33 @@
+{
+  "content": "intolerables",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las condiciones de trabajo en esta empresa son intolerables"
+    ],
+    [
+      "TRANSLATION",
+      "eng:intolerable",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Intoleranz",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:непереносимий",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:08.049866Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:08.065646Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:08.085693Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Ця книжка не моя.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Ця"
+    ],
+    [
+      "PART",
+      "ukr:книжка"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:моя"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.958518Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "irgendeinem",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er ist aus irgendeinem Grunde nicht gekommen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:any",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:будь-який",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:02.484856Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:02.503555Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:02.520752Z": "TRANSLATION_DONE:kor"
+  }
+}

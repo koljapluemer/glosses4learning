@@ -1,0 +1,31 @@
+{
+  "content": "gift",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har fortalt mig at du er blevet gift"
+    ],
+    [
+      "TRANSLATION",
+      "eng:married",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verheiratet",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom fortalte mig at du er blevet gift"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:22.309399Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:22.450465Z": "TRANSLATION_DONE:deu"
+  }
+}

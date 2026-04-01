@@ -1,0 +1,39 @@
+{
+  "content": "Κάποιος πρέπει να μιλήσει στον Τομ.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Κάποιος"
+    ],
+    [
+      "PART",
+      "ell:πρέπει"
+    ],
+    [
+      "PART",
+      "ell:να"
+    ],
+    [
+      "PART",
+      "ell:μιλήσει"
+    ],
+    [
+      "PART",
+      "ell:στον"
+    ],
+    [
+      "PART",
+      "ell:Τομ"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:07:06.531305Z": "SPLIT_DONE"
+  }
+}

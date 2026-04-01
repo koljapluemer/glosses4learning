@@ -1,0 +1,33 @@
+{
+  "content": "Maten",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¡Maten a todos los asesinos!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Kill",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Töten",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вбити",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:56.665927Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:56.682397Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:56.701209Z": "TRANSLATION_DONE:ukr"
+  }
+}

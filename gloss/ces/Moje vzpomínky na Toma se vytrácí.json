@@ -1,0 +1,39 @@
+{
+  "content": "Moje vzpomínky na Toma se vytrácí.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:vzpomínky"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:vytrácí"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.203588Z": "SPLIT_DONE"
+  }
+}

@@ -7,7 +7,9 @@
   "logs": {
     "2026-01-27T14:31:16.368861Z": "TRANSLATION_DONE:eng",
     "2026-03-29T13:16:38.715219Z": "TRANSLATION_DONE:ita",
-    "2026-03-29T13:16:38.879972Z": "TRANSLATION_DONE:rus"
+    "2026-03-29T13:16:38.879972Z": "TRANSLATION_DONE:rus",
+    "2026-03-31T11:36:36.883533Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:36.901958Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -105,6 +107,56 @@
     [
       "TRANSLATION",
       "lat:omnes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich kann nicht alle deine Fragen beantworten"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Всі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:모든 것",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:todas"
+    ],
+    [
+      "TRANSLATION",
+      "spa:todos"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:весь"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:все"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:усім"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich beantwortete Tom alle seine Fragen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom wollte, dass alle miteinander auskämen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Hat Tom alle deine Fragen beantwortet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:всі"
     ]
   ]
 }

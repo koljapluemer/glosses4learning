@@ -1,0 +1,27 @@
+{
+  "content": "bizden",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom'un bizden biraz yardıma ihtiyacı var"
+    ],
+    [
+      "TRANSLATION",
+      "eng:from us",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:von uns",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:45.943240Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:45.956470Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Comment se fait-il que vous soyez toujours aussi énergique ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:fait-il"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:soyez"
+    ],
+    [
+      "PART",
+      "fra:toujours"
+    ],
+    [
+      "PART",
+      "fra:aussi"
+    ],
+    [
+      "PART",
+      "fra:énergique"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:46.230768Z": "SPLIT_DONE"
+  }
+}

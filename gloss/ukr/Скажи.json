@@ -1,0 +1,31 @@
+{
+  "content": "Скажи",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Скажи мені, що цього насправді не відбувається"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Скажи Тому, що це не моя провина"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tell me",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sag es mir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:53.625407Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:53.643744Z": "TRANSLATION_DONE:deu"
+  }
+}

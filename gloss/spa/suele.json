@@ -1,0 +1,49 @@
+{
+  "content": "suele",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso no es lo que la gente suele hacer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tomás, por lo general, suele comer de forma apresurada"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me suele gustar lo mismo que a ustedes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:usually",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:in der",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зазвичай",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele quedarse en hoteles de cinco estrellas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele comer fuera de casa los lunes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:35.794496Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:35.810891Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:35.824984Z": "TRANSLATION_DONE:ukr"
+  }
+}

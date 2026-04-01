@@ -1,0 +1,33 @@
+{
+  "content": "medios",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tratamos por todos los medios posibles"
+    ],
+    [
+      "TRANSLATION",
+      "eng:means",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mittel",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:АКЦІЇ",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.333244Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:09.349496Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:09.367193Z": "TRANSLATION_DONE:ukr"
+  }
+}

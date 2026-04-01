@@ -1,0 +1,43 @@
+{
+  "content": "Ich danke dir für deine aufmunternden Worte.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:danke"
+    ],
+    [
+      "PART",
+      "deu:dir"
+    ],
+    [
+      "PART",
+      "deu:für"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:aufmunternden"
+    ],
+    [
+      "PART",
+      "deu:Worte"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.358549Z": "SPLIT_DONE"
+  }
+}

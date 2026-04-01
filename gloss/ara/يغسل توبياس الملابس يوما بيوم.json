@@ -1,0 +1,35 @@
+{
+  "content": "يغسل توبياس الملابس يوما بيوم.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:يغسل"
+    ],
+    [
+      "PART",
+      "ara:توبياس"
+    ],
+    [
+      "PART",
+      "ara:الملابس"
+    ],
+    [
+      "PART",
+      "ara:يوما"
+    ],
+    [
+      "PART",
+      "ara:بيوم"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:12:29.595036Z": "SPLIT_DONE"
+  }
+}

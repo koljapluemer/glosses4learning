@@ -1,0 +1,27 @@
+{
+  "content": "своє",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Кожному своє!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mine",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mine",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:11.018272Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:11.034811Z": "TRANSLATION_DONE:deu"
+  }
+}

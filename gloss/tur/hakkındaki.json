@@ -1,0 +1,31 @@
+{
+  "content": "hakkındaki",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ben senin hakkındaki her şeyi biliyorum, Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:About us",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Über uns",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Senin hakkındaki her şeyi Tom'a söyledim"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:31.243934Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:31.258838Z": "TRANSLATION_DONE:deu"
+  }
+}

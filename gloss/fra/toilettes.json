@@ -1,0 +1,31 @@
+{
+  "content": "toilettes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que je peux aller aux toilettes ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:toilet",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:WC",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce qu'il vient avec des toilettes ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:53.209497Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:53.239837Z": "TRANSLATION_DONE:deu"
+  }
+}

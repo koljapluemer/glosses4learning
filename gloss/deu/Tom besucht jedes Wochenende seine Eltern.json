@@ -1,0 +1,39 @@
+{
+  "content": "Tom besucht jedes Wochenende seine Eltern.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:besucht"
+    ],
+    [
+      "PART",
+      "deu:jedes"
+    ],
+    [
+      "PART",
+      "deu:Wochenende"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Eltern"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.871142Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Мне понадобится какое-то время.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:понадобится"
+    ],
+    [
+      "PART",
+      "rus:какое-то"
+    ],
+    [
+      "PART",
+      "rus:время"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.279483Z": "SPLIT_DONE"
+  }
+}

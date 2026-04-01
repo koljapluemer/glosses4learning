@@ -1,0 +1,35 @@
+{
+  "content": "Tom ville ha lite kaffe.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:ville"
+    ],
+    [
+      "PART",
+      "swe:ha"
+    ],
+    [
+      "PART",
+      "swe:lite"
+    ],
+    [
+      "PART",
+      "swe:kaffe"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.800689Z": "SPLIT_DONE"
+  }
+}

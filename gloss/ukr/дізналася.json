@@ -1,0 +1,27 @@
+{
+  "content": "дізналася",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я багато чого дізналася"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I learned",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe gelernt",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:57.186032Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:57.201810Z": "TRANSLATION_DONE:deu"
+  }
+}

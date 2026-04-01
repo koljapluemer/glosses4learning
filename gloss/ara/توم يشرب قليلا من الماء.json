@@ -1,0 +1,35 @@
+{
+  "content": "توم يشرب قليلا من الماء.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:توم"
+    ],
+    [
+      "PART",
+      "ara:يشرب"
+    ],
+    [
+      "PART",
+      "ara:قليلا"
+    ],
+    [
+      "PART",
+      "ara:من"
+    ],
+    [
+      "PART",
+      "ara:الماء"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:01:43.001788Z": "SPLIT_DONE"
+  }
+}

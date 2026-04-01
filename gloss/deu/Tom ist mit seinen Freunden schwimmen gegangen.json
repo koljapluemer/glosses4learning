@@ -1,0 +1,43 @@
+{
+  "content": "Tom ist mit seinen Freunden schwimmen gegangen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Freunden"
+    ],
+    [
+      "PART",
+      "deu:schwimmen"
+    ],
+    [
+      "PART",
+      "deu:gegangen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.857558Z": "SPLIT_DONE"
+  }
+}

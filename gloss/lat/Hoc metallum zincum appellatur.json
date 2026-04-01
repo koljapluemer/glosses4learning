@@ -1,0 +1,31 @@
+{
+  "content": "Hoc metallum \"zincum\" appellatur.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hoc"
+    ],
+    [
+      "PART",
+      "lat:metallum"
+    ],
+    [
+      "PART",
+      "lat:zincum"
+    ],
+    [
+      "PART",
+      "lat:appellatur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.326592Z": "SPLIT_DONE"
+  }
+}

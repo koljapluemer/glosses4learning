@@ -1,0 +1,31 @@
+{
+  "content": "сподобалося",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Не можу сказати, що мені це не сподобалося"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вам сподобалося це робити, чи не так﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I liked it",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich mochte es",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:05.315936Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:05.337361Z": "TRANSLATION_DONE:deu"
+  }
+}

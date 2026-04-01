@@ -1,0 +1,39 @@
+{
+  "content": "Viděl jsem ho, jak myje auto.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Viděl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:ho"
+    ],
+    [
+      "PART",
+      "ces:jak"
+    ],
+    [
+      "PART",
+      "ces:myje"
+    ],
+    [
+      "PART",
+      "ces:auto"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.778188Z": "SPLIT_DONE"
+  }
+}

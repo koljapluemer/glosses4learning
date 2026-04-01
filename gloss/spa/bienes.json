@@ -1,0 +1,33 @@
+{
+  "content": "bienes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La felicidad no consiste en tener solamente bienes materiales"
+    ],
+    [
+      "TRANSLATION",
+      "eng:property",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Eigentum",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:29.239687Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:29.385010Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:29.402358Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Två och fyra är jämna nummer.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by johanrhg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Två"
+    ],
+    [
+      "PART",
+      "swe:och"
+    ],
+    [
+      "PART",
+      "swe:fyra"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:jämna"
+    ],
+    [
+      "PART",
+      "swe:nummer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.851714Z": "SPLIT_DONE"
+  }
+}

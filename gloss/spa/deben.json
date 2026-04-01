@@ -1,0 +1,41 @@
+{
+  "content": "deben",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos deben haber terminado su trabajo temprano"
+    ],
+    [
+      "TRANSLATION",
+      "eng:should",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sollte",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:слід",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los sueños deben ser más grandes que el miedo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las cajas no se deben transportar totalmente llenas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:39.562485Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:39.585164Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:39.733194Z": "TRANSLATION_DONE:ukr"
+  }
+}

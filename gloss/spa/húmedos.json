@@ -1,0 +1,33 @@
+{
+  "content": "húmedos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los ojos de Tomás estaban húmedos por las lágrimas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:moist",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Feuchtigkeit",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пердят",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:07.072270Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:07.086518Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:07.103089Z": "TRANSLATION_DONE:ukr"
+  }
+}

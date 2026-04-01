@@ -1,0 +1,39 @@
+{
+  "content": "Tom é um cantor muito talentoso.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:um"
+    ],
+    [
+      "PART",
+      "por:cantor"
+    ],
+    [
+      "PART",
+      "por:muito"
+    ],
+    [
+      "PART",
+      "por:talentoso"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.547137Z": "SPLIT_DONE"
+  }
+}

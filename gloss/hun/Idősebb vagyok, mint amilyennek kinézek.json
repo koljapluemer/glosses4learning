@@ -1,0 +1,35 @@
+{
+  "content": "Idősebb vagyok, mint amilyennek kinézek.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kiseva33 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Idősebb"
+    ],
+    [
+      "PART",
+      "hun:vagyok"
+    ],
+    [
+      "PART",
+      "hun:mint"
+    ],
+    [
+      "PART",
+      "hun:amilyennek"
+    ],
+    [
+      "PART",
+      "hun:kinézek"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.687421Z": "SPLIT_DONE"
+  }
+}

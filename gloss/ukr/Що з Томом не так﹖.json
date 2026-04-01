@@ -1,0 +1,35 @@
+{
+  "content": "Що з Томом не так?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Що"
+    ],
+    [
+      "PART",
+      "ukr:з"
+    ],
+    [
+      "PART",
+      "ukr:Томом"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:так"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:58.964283Z": "SPLIT_DONE"
+  }
+}

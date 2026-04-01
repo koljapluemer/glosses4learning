@@ -1,0 +1,35 @@
+{
+  "content": "Jag har inte någon laddare.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:någon"
+    ],
+    [
+      "PART",
+      "swe:laddare"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.812372Z": "SPLIT_DONE"
+  }
+}

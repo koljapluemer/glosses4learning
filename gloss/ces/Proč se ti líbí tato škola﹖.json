@@ -1,0 +1,39 @@
+{
+  "content": "Proč se ti líbí tato škola?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Proč"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:ti"
+    ],
+    [
+      "PART",
+      "ces:líbí"
+    ],
+    [
+      "PART",
+      "ces:tato"
+    ],
+    [
+      "PART",
+      "ces:škola"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.768012Z": "SPLIT_DONE"
+  }
+}

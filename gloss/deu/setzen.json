@@ -1,0 +1,33 @@
+{
+  "content": "setzen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Können Sie meinen Rechner wieder instand setzen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:set",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Комплекти",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:설치하기",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:03.882390Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:03.897742Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:52:03.914107Z": "TRANSLATION_DONE:kor"
+  }
+}

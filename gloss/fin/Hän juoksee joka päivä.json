@@ -1,0 +1,31 @@
+{
+  "content": "Hän juoksee joka päivä.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by baetota (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Hän"
+    ],
+    [
+      "PART",
+      "fin:juoksee"
+    ],
+    [
+      "PART",
+      "fin:joka"
+    ],
+    [
+      "PART",
+      "fin:päivä"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:44.887965Z": "SPLIT_DONE"
+  }
+}

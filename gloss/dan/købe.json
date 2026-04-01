@@ -1,0 +1,39 @@
+{
+  "content": "købe",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil ikke købe noget af det her"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ønsker ikke at købe denne skjorte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vil ikke købe denne skjorte"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ønskede at købe nogle skumfiduser"
+    ],
+    [
+      "TRANSLATION",
+      "eng:buy",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kaufen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:49.131098Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:49.270508Z": "TRANSLATION_DONE:deu"
+  }
+}

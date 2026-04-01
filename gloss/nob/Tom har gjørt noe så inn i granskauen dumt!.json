@@ -1,0 +1,51 @@
+{
+  "content": "Tom har gjørt noe så inn i granskauen dumt!",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by neron (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:gjørt"
+    ],
+    [
+      "PART",
+      "nob:noe"
+    ],
+    [
+      "PART",
+      "nob:så"
+    ],
+    [
+      "PART",
+      "nob:inn"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:granskauen"
+    ],
+    [
+      "PART",
+      "nob:dumt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.286133Z": "SPLIT_DONE"
+  }
+}

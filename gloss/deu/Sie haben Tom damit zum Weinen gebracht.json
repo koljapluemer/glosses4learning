@@ -1,0 +1,43 @@
+{
+  "content": "Sie haben Tom damit zum Weinen gebracht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:damit"
+    ],
+    [
+      "PART",
+      "deu:zum"
+    ],
+    [
+      "PART",
+      "deu:Weinen"
+    ],
+    [
+      "PART",
+      "deu:gebracht"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:57.337001Z": "SPLIT_DONE"
+  }
+}

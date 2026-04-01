@@ -1,0 +1,37 @@
+{
+  "content": "mojado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El pelo largo de Jessie estaba completamente mojado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wet",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nass",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мокра",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Su largo cabello estaba completamente mojado"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:14.874605Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:14.890286Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:14.908808Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "l'histoire",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Elles connaissent bien l'histoire des États-Unis"
+    ],
+    [
+      "TRANSLATION",
+      "eng:history",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geschichte",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:32.019455Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:32.162856Z": "TRANSLATION_DONE:deu"
+  }
+}

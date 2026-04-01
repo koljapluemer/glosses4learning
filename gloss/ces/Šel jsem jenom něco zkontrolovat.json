@@ -1,0 +1,35 @@
+{
+  "content": "Šel jsem jenom něco zkontrolovat.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nueby (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Šel"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:jenom"
+    ],
+    [
+      "PART",
+      "ces:něco"
+    ],
+    [
+      "PART",
+      "ces:zkontrolovat"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:07.201549Z": "SPLIT_DONE"
+  }
+}

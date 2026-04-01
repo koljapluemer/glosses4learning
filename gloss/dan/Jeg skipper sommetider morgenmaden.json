@@ -1,0 +1,31 @@
+{
+  "content": "Jeg skipper sommetider morgenmaden.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:skipper"
+    ],
+    [
+      "PART",
+      "dan:sommetider"
+    ],
+    [
+      "PART",
+      "dan:morgenmaden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.830361Z": "SPLIT_DONE"
+  }
+}

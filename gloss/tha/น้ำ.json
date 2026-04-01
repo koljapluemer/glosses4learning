@@ -1,0 +1,35 @@
+{
+  "content": "น้ำ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:พืชทุกชนิดต้องการน้ำและแสงสว่าง"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Water",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wasser",
+      "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณไม่สามารถอยู่ได้โดยปราศจากน้ำ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:น้ำนี้ไม่สามารถดื่มได้"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:16.337895Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:16.356626Z": "TRANSLATION_DONE:deu"
+  }
+}

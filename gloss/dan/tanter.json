@@ -1,0 +1,27 @@
+{
+  "content": "tanter",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:De her kvinder er mine tanter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ants",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ameisen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:47.164793Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:47.309458Z": "TRANSLATION_DONE:deu"
+  }
+}

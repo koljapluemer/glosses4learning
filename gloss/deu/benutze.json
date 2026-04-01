@@ -1,0 +1,33 @@
+{
+  "content": "benutze",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich benutze meinen gesunden Menschenverstand"
+    ],
+    [
+      "TRANSLATION",
+      "eng:use",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:використання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품 정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:49.460439Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:49.566003Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:49.716549Z": "TRANSLATION_DONE:kor"
+  }
+}

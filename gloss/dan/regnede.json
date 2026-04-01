@@ -1,0 +1,31 @@
+{
+  "content": "regnede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kun få mennesker regnede med at Tom ville vinde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:figured",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ermittelt",
+      "Auto-translated with argostranslate (da→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg opholdt mig indendørs fordi det regnede"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:18.742249Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:18.881540Z": "TRANSLATION_DONE:deu"
+  }
+}

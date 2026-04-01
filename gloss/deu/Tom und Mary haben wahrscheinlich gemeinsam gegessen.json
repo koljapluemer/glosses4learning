@@ -1,0 +1,43 @@
+{
+  "content": "Tom und Mary haben wahrscheinlich gemeinsam gegessen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:Mary"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:wahrscheinlich"
+    ],
+    [
+      "PART",
+      "deu:gemeinsam"
+    ],
+    [
+      "PART",
+      "deu:gegessen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.860178Z": "SPLIT_DONE"
+  }
+}

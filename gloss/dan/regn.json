@@ -1,0 +1,27 @@
+{
+  "content": "regn",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det ser ud til at der kommer regn"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rain",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Regen",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:40.079690Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:40.093140Z": "TRANSLATION_DONE:deu"
+  }
+}

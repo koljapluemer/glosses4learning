@@ -1,0 +1,39 @@
+{
+  "content": "那辆汽车真的很贵。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sadhen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:那辆"
+    ],
+    [
+      "PART",
+      "cmn:汽车"
+    ],
+    [
+      "PART",
+      "cmn:真的"
+    ],
+    [
+      "PART",
+      "cmn:很"
+    ],
+    [
+      "PART",
+      "cmn:贵"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.698739Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Tom está realmente chegando?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:está"
+    ],
+    [
+      "PART",
+      "por:realmente"
+    ],
+    [
+      "PART",
+      "por:chegando"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:12.526628Z": "SPLIT_DONE"
+  }
+}

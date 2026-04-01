@@ -2,8 +2,14 @@
   "content": "ausprobieren",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-03-31T11:36:43.135671Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:43.283698Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:43.365721Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +26,25 @@
     [
       "TRANSLATION",
       "ita:provare"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Vielleicht sollten Sie einmal eine Paartherapie ausprobieren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:try out",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:намагатися",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:인기있는",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "content": "adolescentes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los adolescentes discuten a menudo con sus padres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:adolescents",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Jugendliche",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підлітковий вік",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los adolescentes parece que siempre tienen hambre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los adolescentes siempre parecen tener hambre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los centros comerciales son populares entre los adolescentes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:23.523510Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:23.542093Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:23.561518Z": "TRANSLATION_DONE:ukr"
+  }
+}

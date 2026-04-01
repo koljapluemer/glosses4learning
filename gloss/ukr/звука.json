@@ -1,0 +1,27 @@
+{
+  "content": "звука",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я ніколи раніше не чув цього звука"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sound",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ton",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:58.393991Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:58.409579Z": "TRANSLATION_DONE:deu"
+  }
+}

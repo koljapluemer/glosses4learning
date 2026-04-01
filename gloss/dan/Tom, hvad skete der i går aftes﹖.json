@@ -1,0 +1,43 @@
+{
+  "content": "Tom, hvad skete der i går aftes?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:hvad"
+    ],
+    [
+      "PART",
+      "dan:skete"
+    ],
+    [
+      "PART",
+      "dan:der"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:går"
+    ],
+    [
+      "PART",
+      "dan:aftes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.861059Z": "SPLIT_DONE"
+  }
+}

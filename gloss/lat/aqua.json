@@ -1,0 +1,29 @@
+{
+  "content": "aqua",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Plantae sine aqua crescere non possunt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Sine aqua, nulla vita potest esse"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Sine aqua esse non possumus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:water",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:43:47.932835Z": "TRANSLATION_DONE:eng"
+  }
+}

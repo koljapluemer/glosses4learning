@@ -1,0 +1,39 @@
+{
+  "content": "Мне нравится всё, что она делает.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:нравится"
+    ],
+    [
+      "PART",
+      "rus:всё"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:делает"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:27.248806Z": "SPLIT_DONE"
+  }
+}

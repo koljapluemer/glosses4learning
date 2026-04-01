@@ -1,0 +1,25 @@
+{
+  "content": "Mary",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg tror Tom liker Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mary",
+      "Auto-translated with argostranslate (nb→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom sa Mary ikke kom til være der"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:51:02.033472Z": "TRANSLATION_DONE:eng"
+  }
+}

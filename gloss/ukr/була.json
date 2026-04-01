@@ -1,0 +1,31 @@
+{
+  "content": "була",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Коробка не була пуста"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це була цілком нормальна вечірка"
+    ],
+    [
+      "TRANSLATION",
+      "eng:was",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:war",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:52.849474Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:52.994691Z": "TRANSLATION_DONE:deu"
+  }
+}

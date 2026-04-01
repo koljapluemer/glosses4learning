@@ -9,7 +9,9 @@
     "2026-03-29T13:20:53.134107Z": "TRANSLATION_DONE:fra",
     "2026-03-29T13:20:53.309455Z": "TRANSLATION_DONE:ita",
     "2026-03-29T13:20:53.509639Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T13:20:53.683937Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T13:20:53.683937Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T11:38:06.380752Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:06.404316Z": "TRANSLATION_DONE:kor"
   },
   "relationships": [
     [
@@ -43,6 +45,20 @@
     [
       "TRANSLATION",
       "tur:ulaşırım"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich komme ohne seine Unterstützung nicht über die Runden"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Складання",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
     ]
   ]
 }

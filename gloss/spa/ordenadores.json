@@ -1,0 +1,33 @@
+{
+  "content": "ordenadores",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos nosotros odiamos la televisión y los ordenadores"
+    ],
+    [
+      "TRANSLATION",
+      "eng:computers",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Computer",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Комп'ютери",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:20.282835Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:20.295849Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:20.317115Z": "TRANSLATION_DONE:ukr"
+  }
+}

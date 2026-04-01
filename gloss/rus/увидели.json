@@ -1,0 +1,29 @@
+{
+  "content": "увидели",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я хочу, чтобы они это увидели"
+    ],
+    [
+      "TRANSLATION",
+      "eng:saw",
+      "Auto-translated with argostranslate (ru→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне нужно, чтобы они это увидели"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Смотри, чтобы они тебя не увидели"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:12.735532Z": "TRANSLATION_DONE:eng"
+  }
+}

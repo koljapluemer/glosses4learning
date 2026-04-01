@@ -1,0 +1,27 @@
+{
+  "content": "vel",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du kan ikke lide hende, vel﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Well",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ja",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:57.811506Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:57.957721Z": "TRANSLATION_DONE:deu"
+  }
+}

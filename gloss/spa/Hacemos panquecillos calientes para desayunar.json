@@ -1,0 +1,35 @@
+{
+  "content": "Hacemos panquecillos calientes para desayunar.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by IXTLA (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Hacemos"
+    ],
+    [
+      "PART",
+      "spa:panquecillos"
+    ],
+    [
+      "PART",
+      "spa:calientes"
+    ],
+    [
+      "PART",
+      "spa:para"
+    ],
+    [
+      "PART",
+      "spa:desayunar"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.667215Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Nikdo neví, jak se jmenuje.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nikdo"
+    ],
+    [
+      "PART",
+      "ces:neví"
+    ],
+    [
+      "PART",
+      "ces:jak"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:jmenuje"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.721668Z": "SPLIT_DONE"
+  }
+}

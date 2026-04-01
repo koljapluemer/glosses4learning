@@ -1,0 +1,35 @@
+{
+  "content": "Oletko koskaan ennen hypännyt laskuvarjolla?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Johannes_S (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:koskaan"
+    ],
+    [
+      "PART",
+      "fin:ennen"
+    ],
+    [
+      "PART",
+      "fin:hypännyt"
+    ],
+    [
+      "PART",
+      "fin:laskuvarjolla"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.032065Z": "SPLIT_DONE"
+  }
+}

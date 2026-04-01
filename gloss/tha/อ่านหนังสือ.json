@@ -1,0 +1,31 @@
+{
+  "content": "อ่านหนังสือ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมยังอ่านหนังสือไม่ได้"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณอ่านหนังสือเล่มหนาเล่มนั้นหรือยัง﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Reading",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lesen",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:42.016556Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:42.033792Z": "TRANSLATION_DONE:deu"
+  }
+}

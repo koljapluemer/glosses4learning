@@ -1,0 +1,27 @@
+{
+  "content": "vågnede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vågnede tidligere end normalt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:awoke",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Awod",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:05.828684Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:05.863526Z": "TRANSLATION_DONE:deu"
+  }
+}

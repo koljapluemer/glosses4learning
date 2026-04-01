@@ -1,0 +1,35 @@
+{
+  "content": "Moje jméno není na seznamu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:jméno"
+    ],
+    [
+      "PART",
+      "ces:není"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:seznamu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.753965Z": "SPLIT_DONE"
+  }
+}

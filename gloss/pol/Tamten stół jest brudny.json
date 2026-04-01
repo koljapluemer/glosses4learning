@@ -1,0 +1,31 @@
+{
+  "content": "Tamten stół jest brudny.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by polski_ren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tamten"
+    ],
+    [
+      "PART",
+      "pol:stół"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:brudny"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:02.787100Z": "SPLIT_DONE"
+  }
+}

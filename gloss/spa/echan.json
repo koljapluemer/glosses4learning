@@ -1,0 +1,33 @@
+{
+  "content": "echan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos no se echan una siesta"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They are",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sie sind",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Вони",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:04.381555Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:04.396496Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:04.410559Z": "TRANSLATION_DONE:ukr"
+  }
+}

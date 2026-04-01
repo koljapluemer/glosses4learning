@@ -1,0 +1,57 @@
+{
+  "content": "ser",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Sin importar lo que él haga, no parece ser una mala persona"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué sería del ser humano sin los animales﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:be",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:werden",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:бути",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los sueños deben ser más grandes que el miedo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pero los resultados pueden ser mortales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los rinocerontes pueden ser una amenaza mortal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los gatos pueden ser criaturas muy territoriales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las leyes no pueden ser constantes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:32.614806Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:32.770147Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:32.791021Z": "TRANSLATION_DONE:ukr"
+  }
+}

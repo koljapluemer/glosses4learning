@@ -1,0 +1,35 @@
+{
+  "content": "蘋果被當作甜點。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by egg0073 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:蘋果"
+    ],
+    [
+      "PART",
+      "cmn:被"
+    ],
+    [
+      "PART",
+      "cmn:當作"
+    ],
+    [
+      "PART",
+      "cmn:甜點"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.617813Z": "SPLIT_DONE"
+  }
+}

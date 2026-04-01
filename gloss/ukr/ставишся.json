@@ -1,0 +1,27 @@
+{
+  "content": "ставишся",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти дуже добре до мене ставишся"
+    ],
+    [
+      "TRANSLATION",
+      "eng:You're upset",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Du bist verärgert",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:55:05.611714Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:55:05.640415Z": "TRANSLATION_DONE:deu"
+  }
+}

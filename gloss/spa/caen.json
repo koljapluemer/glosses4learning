@@ -1,0 +1,33 @@
+{
+  "content": "caen",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A las mujeres no les caen bien los pesados"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fall",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fall",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:падати",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:53:59.122708Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:53:59.133858Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:53:59.152109Z": "TRANSLATION_DONE:ukr"
+  }
+}

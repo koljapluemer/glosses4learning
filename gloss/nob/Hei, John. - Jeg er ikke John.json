@@ -1,0 +1,35 @@
+{
+  "content": "Hei, John. - Jeg er ikke John.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hei"
+    ],
+    [
+      "PART",
+      "nob:John"
+    ],
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:54.254601Z": "SPLIT_DONE"
+  }
+}

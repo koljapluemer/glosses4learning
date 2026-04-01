@@ -1,0 +1,33 @@
+{
+  "content": "gekostet",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Alles zusammen hat es mich einhundert Dollar gekostet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cost",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вартість",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제품정보",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:34.842037Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:34.863983Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:34.900194Z": "TRANSLATION_DONE:kor"
+  }
+}

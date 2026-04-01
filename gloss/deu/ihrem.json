@@ -1,0 +1,33 @@
+{
+  "content": "ihrem",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Einige Menschen verhalten sich nicht ihrem Alter entsprechend"
+    ],
+    [
+      "TRANSLATION",
+      "eng:of",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:з",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:57.931075Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:58.076761Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:58.223143Z": "TRANSLATION_DONE:kor"
+  }
+}

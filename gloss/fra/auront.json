@@ -1,0 +1,27 @@
+{
+  "content": "auront",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ce sont eux qui auront des pourparlers, demain"
+    ],
+    [
+      "TRANSLATION",
+      "eng:have",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:haben",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:52:31.569166Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:52:31.582754Z": "TRANSLATION_DONE:deu"
+  }
+}

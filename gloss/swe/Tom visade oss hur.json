@@ -1,0 +1,31 @@
+{
+  "content": "Tom visade oss hur.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:visade"
+    ],
+    [
+      "PART",
+      "swe:oss"
+    ],
+    [
+      "PART",
+      "swe:hur"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.858708Z": "SPLIT_DONE"
+  }
+}

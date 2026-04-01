@@ -1,0 +1,33 @@
+{
+  "content": "gekannt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin sicher, ihr habt meinen Vater gekannt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Notified",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Визначено",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이름",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:37:34.626587Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:37:34.649178Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:37:34.678083Z": "TRANSLATION_DONE:kor"
+  }
+}

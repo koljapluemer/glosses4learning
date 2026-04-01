@@ -1,0 +1,35 @@
+{
+  "content": "Ellos están teniendo una charla.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:teniendo"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:charla"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:40.609343Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Geen van de bloemen is van plastic.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Geen"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:bloemen"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:plastic"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.175221Z": "SPLIT_DONE"
+  }
+}

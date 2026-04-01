@@ -1,0 +1,33 @@
+{
+  "content": "weinst",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Weine doch nicht! Ich muss auch noch das Weinen anfangen, wenn du weinst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:weep",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:липкі",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:뚱 베어",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:43.438547Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:43.456268Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:43.476630Z": "TRANSLATION_DONE:kor"
+  }
+}

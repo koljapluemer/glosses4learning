@@ -1,0 +1,31 @@
+{
+  "content": "kendimiz",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben bunu kendimiz yaptık"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ourselves",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:selbst",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom ve ben bunları kendimiz yaptık"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:33.047387Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:33.063708Z": "TRANSLATION_DONE:deu"
+  }
+}

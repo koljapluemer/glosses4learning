@@ -1,0 +1,43 @@
+{
+  "content": "Tom vil ikke blive udleveret til Australien.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:blive"
+    ],
+    [
+      "PART",
+      "dan:udleveret"
+    ],
+    [
+      "PART",
+      "dan:til"
+    ],
+    [
+      "PART",
+      "dan:Australien"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:06:25.697200Z": "SPLIT_DONE"
+  }
+}

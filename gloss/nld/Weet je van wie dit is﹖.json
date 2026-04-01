@@ -1,0 +1,39 @@
+{
+  "content": "Weet je van wie dit is?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ag12x (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Weet"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:wie"
+    ],
+    [
+      "PART",
+      "nld:dit"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:46.179825Z": "SPLIT_DONE"
+  }
+}

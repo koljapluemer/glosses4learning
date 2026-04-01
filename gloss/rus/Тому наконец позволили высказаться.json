@@ -1,0 +1,31 @@
+{
+  "content": "Тому наконец позволили высказаться.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:наконец"
+    ],
+    [
+      "PART",
+      "rus:позволили"
+    ],
+    [
+      "PART",
+      "rus:высказаться"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:48.699179Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "konuşamıyorum",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Ne yazık ki neredeyse hiç Almanca konuşamıyorum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:unable to talk m",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:in der Lage, m",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:48.784294Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:48.805491Z": "TRANSLATION_DONE:deu"
+  }
+}

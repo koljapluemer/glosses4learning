@@ -1,0 +1,31 @@
+{
+  "content": "Цього",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цього тижня я саджав картоплю"
+    ],
+    [
+      "TRANSLATION",
+      "eng:This",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цього разу тобі не можна запізнюватися"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:50.925500Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:50.941355Z": "TRANSLATION_DONE:deu"
+  }
+}

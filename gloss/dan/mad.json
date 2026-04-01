@@ -1,0 +1,27 @@
+{
+  "content": "mad",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg vidste ikke du lavede mad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:food",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lebensmittel",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:54.976718Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:55.123593Z": "TRANSLATION_DONE:deu"
+  }
+}

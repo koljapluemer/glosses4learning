@@ -1,0 +1,25 @@
+{
+  "content": "přijel",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom řekl, že jeho autobus přijel pozdě"
+    ],
+    [
+      "TRANSLATION",
+      "eng:arrived",
+      "Auto-translated with argostranslate (cs→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Omlouvám se, že jsem přijel pozdě"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:29:38.193627Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "Planeten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie kommen also von einem anderen Planeten﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Planet",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Планування",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:팟캐스트",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr kommt also von einem anderen Planeten﹖"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:35:55.363875Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:35:55.387389Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:35:55.412645Z": "TRANSLATION_DONE:kor"
+  }
+}

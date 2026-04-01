@@ -1,0 +1,35 @@
+{
+  "content": "Han reste under antaget namn.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:reste"
+    ],
+    [
+      "PART",
+      "swe:under"
+    ],
+    [
+      "PART",
+      "swe:antaget"
+    ],
+    [
+      "PART",
+      "swe:namn"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.834836Z": "SPLIT_DONE"
+  }
+}

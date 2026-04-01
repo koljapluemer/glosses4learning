@@ -1,0 +1,33 @@
+{
+  "content": "nachdenklich",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sein Verhalten stimmte sie nachdenklich"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Required",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Потрібні",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:견적 요청",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:38:13.019167Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:38:13.168624Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:38:13.188054Z": "TRANSLATION_DONE:kor"
+  }
+}

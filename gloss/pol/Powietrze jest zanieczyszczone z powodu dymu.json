@@ -1,0 +1,39 @@
+{
+  "content": "Powietrze jest zanieczyszczone z powodu dymu.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Piteris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Powietrze"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:zanieczyszczone"
+    ],
+    [
+      "PART",
+      "pol:z"
+    ],
+    [
+      "PART",
+      "pol:powodu"
+    ],
+    [
+      "PART",
+      "pol:dymu"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:12.211985Z": "SPLIT_DONE"
+  }
+}

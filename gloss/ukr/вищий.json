@@ -1,0 +1,31 @@
+{
+  "content": "вищий",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Джон набагато вищий, ніж Мері"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти вищий від неї"
+    ],
+    [
+      "TRANSLATION",
+      "eng:higher",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:höher",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:54.329220Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:54.470783Z": "TRANSLATION_DONE:deu"
+  }
+}

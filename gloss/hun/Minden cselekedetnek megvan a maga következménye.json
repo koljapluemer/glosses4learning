@@ -1,0 +1,39 @@
+{
+  "content": "Minden cselekedetnek megvan a maga következménye.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Minden"
+    ],
+    [
+      "PART",
+      "hun:cselekedetnek"
+    ],
+    [
+      "PART",
+      "hun:megvan"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:maga"
+    ],
+    [
+      "PART",
+      "hun:következménye"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:09:18.634606Z": "SPLIT_DONE"
+  }
+}

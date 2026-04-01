@@ -1,0 +1,37 @@
+{
+  "content": "Schreibtisches",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe Tom beim Verrücken seines Schreibtisches geholfen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe Tom beim Tragen seines Schreibtisches geholfen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Desk",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Настільний",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:회사 소개",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:06.136627Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:06.136907Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:06.138840Z": "TRANSLATION_DONE:kor"
+  }
+}

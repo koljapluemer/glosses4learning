@@ -1,0 +1,39 @@
+{
+  "content": "Dicito salutem uxori tuae meo nomine.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Dicito"
+    ],
+    [
+      "PART",
+      "lat:salutem"
+    ],
+    [
+      "PART",
+      "lat:uxori"
+    ],
+    [
+      "PART",
+      "lat:tuae"
+    ],
+    [
+      "PART",
+      "lat:meo"
+    ],
+    [
+      "PART",
+      "lat:nomine"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.327781Z": "SPLIT_DONE"
+  }
+}

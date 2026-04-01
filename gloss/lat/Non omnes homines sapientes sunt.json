@@ -1,0 +1,35 @@
+{
+  "content": "Non omnes homines sapientes sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Non"
+    ],
+    [
+      "PART",
+      "lat:omnes"
+    ],
+    [
+      "PART",
+      "lat:homines"
+    ],
+    [
+      "PART",
+      "lat:sapientes"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:17:37.349959Z": "SPLIT_DONE"
+  }
+}

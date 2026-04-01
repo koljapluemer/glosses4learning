@@ -1,0 +1,27 @@
+{
+  "content": "forklare",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det behøver du ikke forklare"
+    ],
+    [
+      "TRANSLATION",
+      "eng:explain",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Erklärung",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:11.847473Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:11.876318Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Sternutationem meam continere non potui.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Sternutationem"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:continere"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potui"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.265715Z": "SPLIT_DONE"
+  }
+}

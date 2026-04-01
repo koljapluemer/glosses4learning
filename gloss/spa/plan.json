@@ -1,0 +1,33 @@
+{
+  "content": "plan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ese plan tiene algunos inconvenientes"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Plan",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Plan",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Планування",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:24.028780Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:24.042343Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:24.058727Z": "TRANSLATION_DONE:ukr"
+  }
+}

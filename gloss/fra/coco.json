@@ -1,0 +1,27 @@
+{
+  "content": "coco",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Savez-vous comment je peux réutiliser la coque de la noix de coco ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:coconut",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kokosnuss",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:15.652320Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:15.802303Z": "TRANSLATION_DONE:deu"
+  }
+}

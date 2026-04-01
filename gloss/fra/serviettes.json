@@ -1,0 +1,27 @@
+{
+  "content": "serviettes",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-ce que je pourrais avoir quelques serviettes ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Towels",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Handtücher",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:51.065249Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:51.209645Z": "TRANSLATION_DONE:deu"
+  }
+}

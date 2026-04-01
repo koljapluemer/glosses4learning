@@ -1,0 +1,37 @@
+{
+  "content": "asesinos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Es absolutamente necesario que encontremos a los asesinos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Murderers",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mörder",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Модератори",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¡Maten a todos los asesinos!"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:27.073494Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:27.086863Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:27.234214Z": "TRANSLATION_DONE:ukr"
+  }
+}

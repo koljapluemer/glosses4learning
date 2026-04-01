@@ -1,0 +1,39 @@
+{
+  "content": "Der is n zaandstörm op komst.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Der"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:zaandstörm"
+    ],
+    [
+      "PART",
+      "gos:op"
+    ],
+    [
+      "PART",
+      "gos:komst"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:54.389376Z": "SPLIT_DONE"
+  }
+}

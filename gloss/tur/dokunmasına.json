@@ -1,0 +1,31 @@
+{
+  "content": "dokunmasına",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom hiç kimsenin kendisine dokunmasına izin vermez"
+    ],
+    [
+      "TRANSLATION",
+      "eng:touch",
+      "Auto-translated with argostranslate (tr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kontakt",
+      "Auto-translated with argostranslate (tr→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tur:Tom kimsenin ona dokunmasına izin vermez"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:29.161356Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:29.176726Z": "TRANSLATION_DONE:deu"
+  }
+}

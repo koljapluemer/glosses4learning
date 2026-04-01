@@ -1,0 +1,53 @@
+{
+  "content": "comer",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los visitantes no pueden dar de comer a los animales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los buenos hábitos en el comer son esenciales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tomás, por lo general, suele comer de forma apresurada"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A los niños por lo general no les gusta comer verduras"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Eat",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ziegen",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Етно",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Buenos hábitos en el comer son esenciales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom suele comer fuera de casa los lunes"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:52:34.178722Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:52:34.191638Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:52:34.337204Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom vil gøre det selv.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:gøre"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:selv"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:13:30.642752Z": "SPLIT_DONE"
+  }
+}

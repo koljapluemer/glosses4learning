@@ -1,0 +1,21 @@
+{
+  "content": "nemo",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ubi Thomas in praesentia habitet, nemo scit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:no one",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T15:44:47.174302Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "2013",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom hat seinen Abschluss im Jahre 2013 gemacht"
+    ],
+    [
+      "TRANSLATION",
+      "dan:2013"
+    ],
+    [
+      "TRANSLATION",
+      "eng:2013",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:2013 рік",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:2013년",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:51:53.108314Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:51:53.123923Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T13:51:53.137722Z": "TRANSLATION_DONE:kor"
+  }
+}

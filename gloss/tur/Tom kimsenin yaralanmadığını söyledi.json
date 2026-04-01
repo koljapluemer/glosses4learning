@@ -1,0 +1,31 @@
+{
+  "content": "Tom kimsenin yaralanmadığını söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:kimsenin"
+    ],
+    [
+      "PART",
+      "tur:yaralanmadığını"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:13:15.600599Z": "SPLIT_DONE"
+  }
+}

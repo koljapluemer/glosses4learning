@@ -1,0 +1,27 @@
+{
+  "content": "Intellegisne linguam Latinam?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Intellegisne"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Latinam"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.299468Z": "SPLIT_DONE"
+  }
+}

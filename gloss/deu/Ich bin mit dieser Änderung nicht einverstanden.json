@@ -1,0 +1,43 @@
+{
+  "content": "Ich bin mit dieser Änderung nicht einverstanden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:dieser"
+    ],
+    [
+      "PART",
+      "deu:Änderung"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:einverstanden"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:14:00.522461Z": "SPLIT_DONE"
+  }
+}

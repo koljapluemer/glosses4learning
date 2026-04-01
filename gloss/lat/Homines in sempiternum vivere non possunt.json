@@ -1,0 +1,39 @@
+{
+  "content": "Homines in sempiternum vivere non possunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Homines"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:sempiternum"
+    ],
+    [
+      "PART",
+      "lat:vivere"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:possunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.321091Z": "SPLIT_DONE"
+  }
+}

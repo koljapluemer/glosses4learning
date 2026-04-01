@@ -1,0 +1,25 @@
+{
+  "content": "生まれ",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:どこの国で生まれたんですか？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Born",
+      "Auto-translated with argostranslate (ja→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私は生まれてこの方一度も英語を聞いたことがないです。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:50:44.533060Z": "TRANSLATION_DONE:eng"
+  }
+}

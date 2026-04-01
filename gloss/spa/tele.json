@@ -1,0 +1,33 @@
+{
+  "content": "tele",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él mira la tele todas las noches"
+    ],
+    [
+      "TRANSLATION",
+      "eng:TV",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:TV",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Телевізор",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:17.183305Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:17.200086Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:17.218048Z": "TRANSLATION_DONE:ukr"
+  }
+}

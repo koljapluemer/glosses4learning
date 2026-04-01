@@ -1,0 +1,35 @@
+{
+  "content": "школи",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том ходить до школи разом із Мері"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я пішла до школи разом із Томом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:schools",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schulen",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "spa:centros"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:17.156072Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:17.304639Z": "TRANSLATION_DONE:deu"
+  }
+}

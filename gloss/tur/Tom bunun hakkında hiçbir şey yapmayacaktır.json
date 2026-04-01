@@ -1,0 +1,39 @@
+{
+  "content": "Tom bunun hakkında hiçbir şey yapmayacaktır.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bunun"
+    ],
+    [
+      "PART",
+      "tur:hakkında"
+    ],
+    [
+      "PART",
+      "tur:hiçbir"
+    ],
+    [
+      "PART",
+      "tur:şey"
+    ],
+    [
+      "PART",
+      "tur:yapmayacaktır"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:19:42.364381Z": "SPLIT_DONE"
+  }
+}

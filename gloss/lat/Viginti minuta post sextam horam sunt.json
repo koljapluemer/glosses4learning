@@ -1,0 +1,39 @@
+{
+  "content": "Viginti minuta post sextam horam sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Viginti"
+    ],
+    [
+      "PART",
+      "lat:minuta"
+    ],
+    [
+      "PART",
+      "lat:post"
+    ],
+    [
+      "PART",
+      "lat:sextam"
+    ],
+    [
+      "PART",
+      "lat:horam"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:10:44.321954Z": "SPLIT_DONE"
+  }
+}

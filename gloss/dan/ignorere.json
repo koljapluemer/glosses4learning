@@ -1,0 +1,31 @@
+{
+  "content": "ignorere",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi kan ikke ignorere dette problem"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi kan ikke bare ignorere dette"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ignore",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:!",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:33:41.103391Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:33:41.245625Z": "TRANSLATION_DONE:deu"
+  }
+}

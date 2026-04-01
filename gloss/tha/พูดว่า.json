@@ -1,0 +1,27 @@
+{
+  "content": "พูดว่า",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณรู้ไหมว่าพวกเขาพูดว่าอะไร﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Say,",
+      "Auto-translated with argostranslate (th→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sag schon",
+      "Auto-translated with argostranslate (th→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:37.897271Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:37.916517Z": "TRANSLATION_DONE:deu"
+  }
+}

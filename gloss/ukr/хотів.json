@@ -1,0 +1,35 @@
+{
+  "content": "хотів",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том хотів бачити Мері"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Куди ти хотів би поїхати﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:wanted",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich wollte",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я хотів би, щоб ви познайомились із Томом"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:15.508547Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:15.526357Z": "TRANSLATION_DONE:deu"
+  }
+}

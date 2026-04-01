@@ -1,0 +1,25 @@
+{
+  "content": "Toms",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Toms katt fick nio ungar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Toms",
+      "Auto-translated with argostranslate (sv→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag vet att det där inte är Toms underskrift"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:48.518318Z": "TRANSLATION_DONE:eng"
+  }
+}

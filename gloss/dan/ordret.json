@@ -1,0 +1,27 @@
+{
+  "content": "ordret",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg husker ikke ordret hvad Tom sagde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:verbatim",
+      "Auto-translated with argostranslate (da→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verbatim",
+      "Auto-translated with argostranslate (da→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:34:12.285280Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:34:12.436506Z": "TRANSLATION_DONE:deu"
+  }
+}

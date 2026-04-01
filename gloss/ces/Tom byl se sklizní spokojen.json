@@ -1,0 +1,35 @@
+{
+  "content": "Tom byl se sklizní spokojen.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:sklizní"
+    ],
+    [
+      "PART",
+      "ces:spokojen"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:10.754837Z": "SPLIT_DONE"
+  }
+}

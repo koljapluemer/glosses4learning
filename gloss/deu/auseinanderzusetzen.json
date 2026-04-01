@@ -1,0 +1,33 @@
+{
+  "content": "auseinanderzusetzen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich bin zu müde, um mich damit auseinanderzusetzen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to discuss",
+      "Auto-translated with argostranslate (de→en)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:обговорити",
+      "Auto-translated with argostranslate (de→en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "kor:관련 기사",
+      "Auto-translated with argostranslate (de→en→ko)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:36:42.029432Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T11:36:42.052513Z": "TRANSLATION_DONE:ukr",
+    "2026-03-31T11:36:42.150768Z": "TRANSLATION_DONE:kor"
+  }
+}

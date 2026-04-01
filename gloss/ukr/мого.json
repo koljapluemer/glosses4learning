@@ -1,0 +1,31 @@
+{
+  "content": "мого",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він вийшов за мого брата"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я гадаю, це провина мого сусіда"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mine",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mine",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:55:01.562112Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:55:01.577756Z": "TRANSLATION_DONE:deu"
+  }
+}

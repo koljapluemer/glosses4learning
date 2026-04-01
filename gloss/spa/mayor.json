@@ -1,0 +1,37 @@
+{
+  "content": "mayor",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El hombre mayor estaba sentado completamente solo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tu hermano mayor está verdaderamente enojado"
+    ],
+    [
+      "TRANSLATION",
+      "eng:greater",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:größer",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:більше",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:54:09.058958Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T13:54:09.073908Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T13:54:09.088110Z": "TRANSLATION_DONE:ukr"
+  }
+}

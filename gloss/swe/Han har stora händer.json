@@ -1,0 +1,31 @@
+{
+  "content": "Han har stora händer.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:stora"
+    ],
+    [
+      "PART",
+      "swe:händer"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.835356Z": "SPLIT_DONE"
+  }
+}

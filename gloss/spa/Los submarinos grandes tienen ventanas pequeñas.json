@@ -1,0 +1,39 @@
+{
+  "content": "Los submarinos grandes tienen ventanas pequeñas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:submarinos"
+    ],
+    [
+      "PART",
+      "spa:grandes"
+    ],
+    [
+      "PART",
+      "spa:tienen"
+    ],
+    [
+      "PART",
+      "spa:ventanas"
+    ],
+    [
+      "PART",
+      "spa:pequeñas"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:12:05.702047Z": "SPLIT_DONE"
+  }
+}

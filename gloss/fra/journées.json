@@ -1,0 +1,27 @@
+{
+  "content": "journées",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je veux davantage de journées telles que celle-ci"
+    ],
+    [
+      "TRANSLATION",
+      "eng:days",
+      "Auto-translated with argostranslate (fr→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tage",
+      "Auto-translated with argostranslate (fr→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:46:29.581276Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:46:29.728431Z": "TRANSLATION_DONE:deu"
+  }
+}

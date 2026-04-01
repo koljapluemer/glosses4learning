@@ -1,0 +1,43 @@
+{
+  "content": "Tom wollte sich einfach nur nachbarlich verhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:wollte"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:einfach"
+    ],
+    [
+      "PART",
+      "deu:nur"
+    ],
+    [
+      "PART",
+      "deu:nachbarlich"
+    ],
+    [
+      "PART",
+      "deu:verhalten"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:54.764283Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg vil ha mer detaljert informasjon.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:vil"
+    ],
+    [
+      "PART",
+      "nob:ha"
+    ],
+    [
+      "PART",
+      "nob:mer"
+    ],
+    [
+      "PART",
+      "nob:detaljert"
+    ],
+    [
+      "PART",
+      "nob:informasjon"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:11:02.269054Z": "SPLIT_DONE"
+  }
+}

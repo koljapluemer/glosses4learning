@@ -1,0 +1,37 @@
+{
+  "content": "verdad",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La verdad es que estoy bastante contento con ello"
+    ],
+    [
+      "TRANSLATION",
+      "eng:true",
+      "Auto-translated with argostranslate (es→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wahr",
+      "Auto-translated with argostranslate (es→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Справедливість",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A ella de verdad le gustan los animales"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:53:43.071103Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:53:43.085928Z": "TRANSLATION_DONE:deu",
+    "2026-03-31T12:53:43.104222Z": "TRANSLATION_DONE:ukr"
+  }
+}

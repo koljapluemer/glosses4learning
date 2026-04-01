@@ -10,7 +10,8 @@
     "2026-03-29T14:20:54.550420Z": "TRANSLATION_DONE:fra",
     "2026-03-29T14:20:54.739565Z": "TRANSLATION_DONE:ita",
     "2026-03-29T14:20:54.907498Z": "TRANSLATION_DONE:rus",
-    "2026-03-29T14:20:55.075762Z": "TRANSLATION_DONE:tur"
+    "2026-03-29T14:20:55.075762Z": "TRANSLATION_DONE:tur",
+    "2026-03-31T12:52:17.069407Z": "TRANSLATION_DONE:ukr"
   },
   "relationships": [
     [
@@ -44,6 +45,23 @@
     [
       "TRANSLATION",
       "tur:O, öyle"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso no es lo que la gente suele hacer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso es simplemente una rotura del contrato"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Що",
+      "Auto-translated with argostranslate (es→en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso es porque a ellos no les importa"
     ]
   ]
 }

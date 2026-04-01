@@ -1,0 +1,27 @@
+{
+  "content": "Язик",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Язик проковтнула﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tongue",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tongue",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T12:54:51.206305Z": "TRANSLATION_DONE:eng",
+    "2026-03-31T12:54:51.221878Z": "TRANSLATION_DONE:deu"
+  }
+}

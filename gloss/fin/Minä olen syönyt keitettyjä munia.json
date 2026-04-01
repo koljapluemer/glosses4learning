@@ -1,0 +1,35 @@
+{
+  "content": "Minä olen syönyt keitettyjä munia.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minä"
+    ],
+    [
+      "PART",
+      "fin:olen"
+    ],
+    [
+      "PART",
+      "fin:syönyt"
+    ],
+    [
+      "PART",
+      "fin:keitettyjä"
+    ],
+    [
+      "PART",
+      "fin:munia"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T13:08:10.037711Z": "SPLIT_DONE"
+  }
+}

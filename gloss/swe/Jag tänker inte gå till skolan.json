@@ -1,0 +1,39 @@
+{
+  "content": "Jag tänker inte gå till skolan.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:tänker"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:gå"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:skolan"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:18:48.857796Z": "SPLIT_DONE"
+  }
+}

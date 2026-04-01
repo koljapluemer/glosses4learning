@@ -1,0 +1,39 @@
+{
+  "content": "这些患者走路有困难。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by verdastelo9604 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:这些"
+    ],
+    [
+      "PART",
+      "cmn:患者"
+    ],
+    [
+      "PART",
+      "cmn:走路"
+    ],
+    [
+      "PART",
+      "cmn:有"
+    ],
+    [
+      "PART",
+      "cmn:困难"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-03-31T11:09:19.621159Z": "SPLIT_DONE"
+  }
+}
