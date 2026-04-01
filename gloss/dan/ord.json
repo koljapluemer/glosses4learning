@@ -1,0 +1,29 @@
+{
+  "content": "ord",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han forsvandt uden at sige et ord"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Dine ord fik mig til at græde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:words",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Og nu et ord fra vor sponsor"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:14.256827Z": "TRANSLATION_DONE:eng"
+  }
+}

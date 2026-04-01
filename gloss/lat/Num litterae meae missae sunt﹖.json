@@ -1,0 +1,35 @@
+{
+  "content": "Num litterae meae missae sunt?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Num"
+    ],
+    [
+      "PART",
+      "lat:litterae"
+    ],
+    [
+      "PART",
+      "lat:meae"
+    ],
+    [
+      "PART",
+      "lat:missae"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.690081Z": "SPLIT_DONE"
+  }
+}

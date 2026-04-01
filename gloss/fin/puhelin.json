@@ -1,0 +1,25 @@
+{
+  "content": "puhelin",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Anna se puhelin nyt vaan minulle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:telephone",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Anna se puhelin nyt vaan tänne"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:35.632750Z": "TRANSLATION_DONE:eng"
+  }
+}

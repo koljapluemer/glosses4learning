@@ -2,12 +2,15 @@
   "content": "support",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:02:08.902111Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -68,6 +71,39 @@
     [
       "TRANSLATION",
       "ber:lxedma"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:In conclusion, Ahn, it very much falls to you and me to set the tone for the work environment. I will do my bit to defuse the present climate and crack on with the job at hand. I hope I can rely on yo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підтримка",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "gos:steun"
+    ],
+    [
+      "TRANSLATION",
+      "gos:help"
+    ],
+    [
+      "TRANSLATION",
+      "kab:timaynutin"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:帮"
+    ],
+    [
+      "TRANSLATION",
+      "nob:støtt"
+    ],
+    [
+      "TRANSLATION",
+      "nob:smmenstøt"
     ]
   ]
 }

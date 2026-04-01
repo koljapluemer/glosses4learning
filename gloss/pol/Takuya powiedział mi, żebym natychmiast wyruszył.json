@@ -1,0 +1,39 @@
+{
+  "content": "Takuya powiedział mi, żebym natychmiast wyruszył.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Hikaru (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Takuya"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:mi"
+    ],
+    [
+      "PART",
+      "pol:żebym"
+    ],
+    [
+      "PART",
+      "pol:natychmiast"
+    ],
+    [
+      "PART",
+      "pol:wyruszył"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.743459Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ahora mismo ella está escribiendo una carta.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hundo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ahora"
+    ],
+    [
+      "PART",
+      "spa:mismo"
+    ],
+    [
+      "PART",
+      "spa:ella"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:escribiendo"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:carta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.244672Z": "SPLIT_DONE"
+  }
+}

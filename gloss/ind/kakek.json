@@ -1,0 +1,21 @@
+{
+  "content": "kakek",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Saya tidak bisa percaya bahwa Tom adalah seorang kakek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:grandfather",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:00.562147Z": "TRANSLATION_DONE:eng"
+  }
+}

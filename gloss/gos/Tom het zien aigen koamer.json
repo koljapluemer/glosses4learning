@@ -1,0 +1,35 @@
+{
+  "content": "Tom het zien aigen koamer.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:het"
+    ],
+    [
+      "PART",
+      "gos:zien"
+    ],
+    [
+      "PART",
+      "gos:aigen"
+    ],
+    [
+      "PART",
+      "gos:koamer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.327592Z": "SPLIT_DONE"
+  }
+}

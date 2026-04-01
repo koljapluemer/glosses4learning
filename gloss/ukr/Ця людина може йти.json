@@ -1,0 +1,35 @@
+{
+  "content": "Ця людина може йти.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Die dürfen gehen"
+    ],
+    [
+      "PART",
+      "ukr:Ця"
+    ],
+    [
+      "PART",
+      "ukr:людина"
+    ],
+    [
+      "PART",
+      "ukr:може"
+    ],
+    [
+      "PART",
+      "ukr:йти"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:00:27.145312Z": "SPLIT_DONE"
+  }
+}

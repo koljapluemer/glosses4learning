@@ -1,0 +1,35 @@
+{
+  "content": "mujer",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es una mujer de buen corazón por naturaleza"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Nunca te has acostado con una mujer﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:жінка",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca compares a tu esposa con otra mujer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frau",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:30.773666Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:33.160964Z": "TRANSLATION_DONE:deu"
+  }
+}

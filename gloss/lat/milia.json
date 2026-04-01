@@ -1,0 +1,29 @@
+{
+  "content": "milia",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec aula potest continere quinque milia hominum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Maria ad Tatoeba decem fere milia sententiarum addidit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thousands",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ex eo proelio milia hominum triginta superfuerunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:37.502517Z": "TRANSLATION_DONE:eng"
+  }
+}

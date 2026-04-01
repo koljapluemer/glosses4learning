@@ -1,0 +1,47 @@
+{
+  "content": "Jag såg en väldigt intressant dokumentär igår.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I saw a very interesting documentary yesterday"
+    ],
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:såg"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:väldigt"
+    ],
+    [
+      "PART",
+      "swe:intressant"
+    ],
+    [
+      "PART",
+      "swe:dokumentär"
+    ],
+    [
+      "PART",
+      "swe:igår"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:19.960211Z": "SPLIT_DONE"
+  }
+}

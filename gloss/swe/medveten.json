@@ -1,0 +1,21 @@
+{
+  "content": "medveten",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag var inte medveten om att Tom hade gjort det"
+    ],
+    [
+      "TRANSLATION",
+      "eng:aware",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:03.405557Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Kinderen zouden geen wijn mogen drinken.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Kinderen"
+    ],
+    [
+      "PART",
+      "nld:zouden"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:wijn"
+    ],
+    [
+      "PART",
+      "nld:mogen"
+    ],
+    [
+      "PART",
+      "nld:drinken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.033021Z": "SPLIT_DONE"
+  }
+}

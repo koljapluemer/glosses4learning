@@ -2,12 +2,15 @@
   "content": "called",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:38.462204Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +39,19 @@
     [
       "TRANSLATION",
       "ukr:викликані"
+    ],
+    [
+      "TRANSLATION",
+      "swe:ringt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:A person named West called while you were out"
+    ],
+    [
+      "TRANSLATION",
+      "kor:부르다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

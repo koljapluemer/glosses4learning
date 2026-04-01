@@ -1,0 +1,31 @@
+{
+  "content": "sale",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él lo que otros digan por un oído le entra y por el otro le sale"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:продаж",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿A qué hora sale tu padre de su oficina﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Verkauf",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:33.825486Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:29.580807Z": "TRANSLATION_DONE:deu"
+  }
+}

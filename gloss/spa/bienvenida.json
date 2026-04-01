@@ -1,0 +1,25 @@
+{
+  "content": "bienvenida",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El profesor dio la bienvenida a los nuevos alumnos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mary le dio la bienvenida a su madre con un beso"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Willkommen",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:18.175236Z": "TRANSLATION_DONE:deu"
+  }
+}

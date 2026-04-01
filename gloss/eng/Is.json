@@ -2,8 +2,12 @@
   "content": "Is",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:04:34.422556Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -49,6 +53,31 @@
     [
       "TRANSLATION",
       "gos:Is"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is it OK if I open a can﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there any chance that Tom will win﹖"
+    ],
+    [
+      "TRANSLATION",
+      "lat:Is"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there enough room for us﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~인가",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there anybody here who speaks French﹖"
     ]
   ]
 }

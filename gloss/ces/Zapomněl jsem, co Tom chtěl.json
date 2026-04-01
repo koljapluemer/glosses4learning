@@ -1,0 +1,35 @@
+{
+  "content": "Zapomněl jsem, co Tom chtěl.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Zapomněl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:chtěl"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.087979Z": "SPLIT_DONE"
+  }
+}

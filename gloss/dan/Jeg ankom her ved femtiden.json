@@ -1,0 +1,35 @@
+{
+  "content": "Jeg ankom her ved femtiden.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:ankom"
+    ],
+    [
+      "PART",
+      "dan:her"
+    ],
+    [
+      "PART",
+      "dan:ved"
+    ],
+    [
+      "PART",
+      "dan:femtiden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.488514Z": "SPLIT_DONE"
+  }
+}

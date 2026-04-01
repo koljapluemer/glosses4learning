@@ -1,0 +1,39 @@
+{
+  "content": "Скажите Тому, чтобы он мне перезвонил.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Скажите"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:он"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:перезвонил"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.270651Z": "SPLIT_DONE"
+  }
+}

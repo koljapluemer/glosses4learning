@@ -1,0 +1,43 @@
+{
+  "content": "Tom är inte särskilt upptagen, eller hur?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:särskilt"
+    ],
+    [
+      "PART",
+      "swe:upptagen"
+    ],
+    [
+      "PART",
+      "swe:eller"
+    ],
+    [
+      "PART",
+      "swe:hur"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.212432Z": "SPLIT_DONE"
+  }
+}

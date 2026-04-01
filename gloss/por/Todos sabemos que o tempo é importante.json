@@ -1,0 +1,43 @@
+{
+  "content": "Todos sabemos que o tempo é importante.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:sabemos"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:tempo"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:importante"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.871950Z": "SPLIT_DONE"
+  }
+}

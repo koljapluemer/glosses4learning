@@ -1,0 +1,31 @@
+{
+  "content": "ติดคุก",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอไปเยี่ยมสามีที่ติดคุก"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Inhaftierung",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมติดคุกตั้งแต่เดือนตุลาคม"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Imprisoned",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:44.399419Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:34.911322Z": "TRANSLATION_DONE:eng"
+  }
+}

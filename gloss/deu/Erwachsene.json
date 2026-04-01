@@ -1,0 +1,31 @@
+{
+  "content": "Erwachsene",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Dieser Film ist nur für Erwachsene"
+    ],
+    [
+      "TRANSLATION",
+      "kor:성인",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Nach London bitte zwei Fahrkarten für Erwachsene und drei für Kinder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Adults",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:04.250146Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:52:31.335630Z": "TRANSLATION_DONE:eng"
+  }
+}

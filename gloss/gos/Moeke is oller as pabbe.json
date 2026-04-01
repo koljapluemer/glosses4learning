@@ -1,0 +1,39 @@
+{
+  "content": "Moeke is oller as pabbe.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Mom is older than Dad"
+    ],
+    [
+      "PART",
+      "gos:Moeke"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:oller"
+    ],
+    [
+      "PART",
+      "gos:as"
+    ],
+    [
+      "PART",
+      "gos:pabbe"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.412554Z": "SPLIT_DONE"
+  }
+}

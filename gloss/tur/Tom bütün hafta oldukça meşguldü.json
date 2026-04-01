@@ -1,0 +1,39 @@
+{
+  "content": "Tom bütün hafta oldukça meşguldü.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom has been pretty busy all week"
+    ],
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bütün"
+    ],
+    [
+      "PART",
+      "tur:hafta"
+    ],
+    [
+      "PART",
+      "tur:oldukça"
+    ],
+    [
+      "PART",
+      "tur:meşguldü"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:03:48.412860Z": "SPLIT_DONE"
+  }
+}

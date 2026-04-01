@@ -1,0 +1,43 @@
+{
+  "content": "Diese Worte haben mich zum Nachdenken gebracht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Diese"
+    ],
+    [
+      "PART",
+      "deu:Worte"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:mich"
+    ],
+    [
+      "PART",
+      "deu:zum"
+    ],
+    [
+      "PART",
+      "deu:Nachdenken"
+    ],
+    [
+      "PART",
+      "deu:gebracht"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.766643Z": "SPLIT_DONE"
+  }
+}

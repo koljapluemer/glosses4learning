@@ -1,0 +1,35 @@
+{
+  "content": "Dies ist dein Wein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:이것은 네 와인이야"
+    ],
+    [
+      "PART",
+      "deu:Dies"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:dein"
+    ],
+    [
+      "PART",
+      "deu:Wein"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:00.882082Z": "SPLIT_DONE"
+  }
+}

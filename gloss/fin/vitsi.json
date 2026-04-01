@@ -1,0 +1,21 @@
+{
+  "content": "vitsi",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Mä toivon, et toi on vitsi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:joke",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:29.362213Z": "TRANSLATION_DONE:eng"
+  }
+}

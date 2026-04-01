@@ -2,9 +2,13 @@
   "content": "little",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:34.197367Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:31.613623Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -85,6 +89,28 @@
     [
       "TRANSLATION",
       "tok:Min"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is little hope that he will succeed"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:маленька",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:cmalu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How old is your little brother﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:작은",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

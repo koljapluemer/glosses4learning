@@ -2,12 +2,15 @@
   "content": "life",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:35.438556Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -124,6 +127,47 @@
     [
       "TRANSLATION",
       "lat:vitam"
+    ],
+    [
+      "TRANSLATION",
+      "gos:levent"
+    ],
+    [
+      "TRANSLATION",
+      "swe:livet"
+    ],
+    [
+      "TRANSLATION",
+      "ces:život"
+    ],
+    [
+      "TRANSLATION",
+      "ell:ζωής"
+    ],
+    [
+      "TRANSLATION",
+      "nob:livet"
+    ],
+    [
+      "TRANSLATION",
+      "nob:liv"
+    ],
+    [
+      "TRANSLATION",
+      "epo:vivon"
+    ],
+    [
+      "TRANSLATION",
+      "pol:życie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There might be life on Jupiter's moons"
+    ],
+    [
+      "TRANSLATION",
+      "kor:삶",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "content": "Ich habe meinen Schirm im Bus liegen lassen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Jan_Schreiber (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I left my umbrella on the bus"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Schirm"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Bus"
+    ],
+    [
+      "PART",
+      "deu:liegen"
+    ],
+    [
+      "PART",
+      "deu:lassen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:41.867755Z": "SPLIT_DONE"
+  }
+}

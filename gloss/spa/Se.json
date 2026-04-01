@@ -1,0 +1,39 @@
+{
+  "content": "Se",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Se han separado ustedes en buenos términos﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Se supone que los estudiantes estudien arduamente"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Se usan bengalas para evitar los misiles guiados por calor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:It is",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Se piensa de forma diferente al hablar con niños pequeños"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Es",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:05.968912Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:27.727615Z": "TRANSLATION_DONE:deu"
+  }
+}

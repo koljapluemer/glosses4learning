@@ -1,0 +1,39 @@
+{
+  "content": "Я прочитав обидві ці книжки.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Ich habe beide Bücher gelesen"
+    ],
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:прочитав"
+    ],
+    [
+      "PART",
+      "ukr:обидві"
+    ],
+    [
+      "PART",
+      "ukr:ці"
+    ],
+    [
+      "PART",
+      "ukr:книжки"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:00:34.236921Z": "SPLIT_DONE"
+  }
+}

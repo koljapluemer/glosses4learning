@@ -1,0 +1,31 @@
+{
+  "content": "Mien opa is dood.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Mien"
+    ],
+    [
+      "PART",
+      "gos:opa"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:dood"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.353549Z": "SPLIT_DONE"
+  }
+}

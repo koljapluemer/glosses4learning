@@ -1,0 +1,35 @@
+{
+  "content": "je",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Niemand hat je zuvor so etwas wie dies getan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:as many as",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich kann mich kaum je an Träume erinnern"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:так, відповідно",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wir werden morgen abreisen je nach den Wetterumständen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:33.508497Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:40.247281Z": "TRANSLATION_DONE:ukr"
+  }
+}

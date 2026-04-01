@@ -3,7 +3,9 @@
   "language": "fin",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -21,6 +23,10 @@
     [
       "TRANSLATION",
       "eng:queries"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Jos sinulla on kysymyksiä, niin kysy vaan"
     ]
   ]
 }

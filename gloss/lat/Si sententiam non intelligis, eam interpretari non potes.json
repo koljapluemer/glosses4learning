@@ -1,0 +1,43 @@
+{
+  "content": "Si sententiam non intelligis, eam interpretari non potes.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Si"
+    ],
+    [
+      "PART",
+      "lat:sententiam"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:intelligis"
+    ],
+    [
+      "PART",
+      "lat:eam"
+    ],
+    [
+      "PART",
+      "lat:interpretari"
+    ],
+    [
+      "PART",
+      "lat:potes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.632141Z": "SPLIT_DONE"
+  }
+}

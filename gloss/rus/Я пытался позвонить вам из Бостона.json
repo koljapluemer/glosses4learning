@@ -1,0 +1,43 @@
+{
+  "content": "Я пытался позвонить вам из Бостона.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Olya (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I tried to call you from Boston"
+    ],
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:пытался"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:вам"
+    ],
+    [
+      "PART",
+      "rus:из"
+    ],
+    [
+      "PART",
+      "rus:Бостона"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:22.157950Z": "SPLIT_DONE"
+  }
+}

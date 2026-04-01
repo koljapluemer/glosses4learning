@@ -1,0 +1,29 @@
+{
+  "content": "libro",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Este libro de texto es demasiado difícil para mí"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:книга",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Quiero que usted lea este libro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Puede que ya hayas leído este libro"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:08.557943Z": "TRANSLATION_DONE:ukr"
+  }
+}

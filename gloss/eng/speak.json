@@ -2,9 +2,12 @@
   "content": "speak",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:33.063436Z": "TRANSLATION_DONE:ukr"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -106,6 +109,23 @@
     [
       "TRANSLATION",
       "tok:toki"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you by any chance speak Vietnamese﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Просування",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:讲话"
+    ],
+    [
+      "TRANSLATION",
+      "epo:parolu"
     ]
   ]
 }

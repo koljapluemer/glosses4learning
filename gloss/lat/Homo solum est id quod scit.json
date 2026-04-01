@@ -1,0 +1,43 @@
+{
+  "content": "Homo solum est id quod scit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:A man is but what he knows"
+    ],
+    [
+      "PART",
+      "lat:Homo"
+    ],
+    [
+      "PART",
+      "lat:solum"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:id"
+    ],
+    [
+      "PART",
+      "lat:quod"
+    ],
+    [
+      "PART",
+      "lat:scit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:38.225115Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "faciendum",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Maria iam scit quid ei faciendum sit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to be done",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quid hodie tibi faciendum est﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:21.132669Z": "TRANSLATION_DONE:eng"
+  }
+}

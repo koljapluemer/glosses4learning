@@ -1,0 +1,39 @@
+{
+  "content": "雨が降るそうだ。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mookeee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:They say it will rain"
+    ],
+    [
+      "PART",
+      "jpn:雨"
+    ],
+    [
+      "PART",
+      "jpn:が"
+    ],
+    [
+      "PART",
+      "jpn:降る"
+    ],
+    [
+      "PART",
+      "jpn:そう"
+    ],
+    [
+      "PART",
+      "jpn:だ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:02.130823Z": "SPLIT_DONE"
+  }
+}

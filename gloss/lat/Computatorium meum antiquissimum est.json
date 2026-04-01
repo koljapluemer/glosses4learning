@@ -1,0 +1,31 @@
+{
+  "content": "Computatorium meum antiquissimum est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Computatorium"
+    ],
+    [
+      "PART",
+      "lat:meum"
+    ],
+    [
+      "PART",
+      "lat:antiquissimum"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.720671Z": "SPLIT_DONE"
+  }
+}

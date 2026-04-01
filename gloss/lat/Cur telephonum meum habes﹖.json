@@ -1,0 +1,31 @@
+{
+  "content": "Cur telephonum meum habes?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Cur"
+    ],
+    [
+      "PART",
+      "lat:telephonum"
+    ],
+    [
+      "PART",
+      "lat:meum"
+    ],
+    [
+      "PART",
+      "lat:habes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.708186Z": "SPLIT_DONE"
+  }
+}

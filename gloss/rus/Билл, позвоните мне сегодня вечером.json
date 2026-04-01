@@ -1,0 +1,35 @@
+{
+  "content": "Билл, позвоните мне сегодня вечером.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Билл"
+    ],
+    [
+      "PART",
+      "rus:позвоните"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:вечером"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.261057Z": "SPLIT_DONE"
+  }
+}

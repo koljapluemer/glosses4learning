@@ -1,0 +1,25 @@
+{
+  "content": "viven",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los vampiros viven para siempre, a menos que los maten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué clase de animales viven por aquí﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they live",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:19.657138Z": "TRANSLATION_DONE:eng"
+  }
+}

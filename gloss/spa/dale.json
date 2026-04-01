@@ -2,8 +2,12 @@
   "content": "dale",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:59:14.658744Z": "TRANSLATION_DONE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -12,6 +16,15 @@
     [
       "TRANSLATION",
       "eng:dale"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Alguien está afuera dale que te pego con el edredón"
+    ],
+    [
+      "TRANSLATION",
+      "deu:los geht",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

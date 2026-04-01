@@ -1,0 +1,33 @@
+{
+  "content": "mungkin",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tom mungkin tidak bisa melakukannya"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tom tidak mungkin melakukannya seorang diri"
+    ],
+    [
+      "TRANSLATION",
+      "eng:perhaps",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tom mungkin tidak akan melakukan itu hari ini"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Saya tidak yakin, tapi dia mungkin datang"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:52.139772Z": "TRANSLATION_DONE:eng"
+  }
+}

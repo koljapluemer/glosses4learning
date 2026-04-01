@@ -1,0 +1,21 @@
+{
+  "content": "Susan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La chica que está hablando con John es Susan"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Susan",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:25.134450Z": "TRANSLATION_DONE:deu"
+  }
+}

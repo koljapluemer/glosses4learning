@@ -1,0 +1,39 @@
+{
+  "content": "Tom säger att han är upptagen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:säger"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:upptagen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.114171Z": "SPLIT_DONE"
+  }
+}

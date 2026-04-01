@@ -1,0 +1,43 @@
+{
+  "content": "así",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Y una vez al mes, con la cara compunjida, tenía que pasarse por la comisaría, pagando así por un delito que nunca cometió"
+    ],
+    [
+      "TRANSLATION",
+      "eng:like this",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Está lloviendo, así que por favor trae tu paraguas"
+    ],
+    [
+      "TRANSLATION",
+      "deu:so",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Casi nunca lo veo así de callado"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Observé así esta aparición con los ojos muy abiertos de asombro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo nunca había visto algo así antes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:52.128729Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:05.099946Z": "TRANSLATION_DONE:deu"
+  }
+}

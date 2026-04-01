@@ -1,0 +1,39 @@
+{
+  "content": "Das war die Jacke meines Großvaters.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manese (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Das"
+    ],
+    [
+      "PART",
+      "deu:war"
+    ],
+    [
+      "PART",
+      "deu:die"
+    ],
+    [
+      "PART",
+      "deu:Jacke"
+    ],
+    [
+      "PART",
+      "deu:meines"
+    ],
+    [
+      "PART",
+      "deu:Großvaters"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.920937Z": "SPLIT_DONE"
+  }
+}

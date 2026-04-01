@@ -1,0 +1,39 @@
+{
+  "content": "Est-ce que quelqu'un ici parle français ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ],
+    [
+      "PART",
+      "fra:parle"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.489028Z": "SPLIT_DONE"
+  }
+}

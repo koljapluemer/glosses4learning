@@ -1,0 +1,51 @@
+{
+  "content": "Tom zaczął grać w rugby trzy lata temu.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom started playing rugby three years ago"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:zaczął"
+    ],
+    [
+      "PART",
+      "pol:grać"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:rugby"
+    ],
+    [
+      "PART",
+      "pol:trzy"
+    ],
+    [
+      "PART",
+      "pol:lata"
+    ],
+    [
+      "PART",
+      "pol:temu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:49.277379Z": "SPLIT_DONE"
+  }
+}

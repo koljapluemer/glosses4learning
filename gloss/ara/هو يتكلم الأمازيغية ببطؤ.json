@@ -1,0 +1,31 @@
+{
+  "content": "هو يتكلم الأمازيغية ببطؤ.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هو"
+    ],
+    [
+      "PART",
+      "ara:يتكلم"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ],
+    [
+      "PART",
+      "ara:ببطؤ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.404834Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "汤姆的孩子不会说法语。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mrew2Vier (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:孩子"
+    ],
+    [
+      "PART",
+      "cmn:不会"
+    ],
+    [
+      "PART",
+      "cmn:说"
+    ],
+    [
+      "PART",
+      "cmn:法语"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:27.533473Z": "SPLIT_DONE"
+  }
+}

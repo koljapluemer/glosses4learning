@@ -1,0 +1,35 @@
+{
+  "content": "Benim yapacak biraz alışverişim var.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Benim"
+    ],
+    [
+      "PART",
+      "tur:yapacak"
+    ],
+    [
+      "PART",
+      "tur:biraz"
+    ],
+    [
+      "PART",
+      "tur:alışverişim"
+    ],
+    [
+      "PART",
+      "tur:var"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:44.014079Z": "SPLIT_DONE"
+  }
+}

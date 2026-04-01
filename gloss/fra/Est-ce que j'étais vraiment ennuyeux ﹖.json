@@ -1,0 +1,35 @@
+{
+  "content": "Est-ce que j'étais vraiment ennuyeux ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:j'étais"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:ennuyeux"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.830922Z": "SPLIT_DONE"
+  }
+}

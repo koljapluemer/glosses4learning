@@ -1,0 +1,35 @@
+{
+  "content": "Pensez-vous",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pensez-vous que ceux-là soient véritables ﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pensez-vous donc que j'aie eu dans l'esprit un propos de manant﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you think﹖",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Pensez-vous que son histoire est fausse ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Denken Sie darüber nach",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:28:25.407626Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:29:07.373176Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Я насправді думав, що Том зайнятий.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:насправді"
+    ],
+    [
+      "PART",
+      "ukr:думав"
+    ],
+    [
+      "PART",
+      "ukr:що"
+    ],
+    [
+      "PART",
+      "ukr:Том"
+    ],
+    [
+      "PART",
+      "ukr:зайнятий"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.221833Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "スキー",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:スキーで脚を折った。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Skiing",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:冬は、よくスキーに行きます。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:55.773890Z": "TRANSLATION_DONE:eng"
+  }
+}

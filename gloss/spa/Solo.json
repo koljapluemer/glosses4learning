@@ -1,0 +1,33 @@
+{
+  "content": "Solo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo los productos animal contienen colesterol"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo unos pocos estudiantes entendieron el asunto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Alone",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo unos pocos estudiantes entendieron la asignatura"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo tus contundentes comentarios valen la pena de ser leídos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:14.307929Z": "TRANSLATION_DONE:eng"
+  }
+}

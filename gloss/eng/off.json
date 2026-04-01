@@ -2,9 +2,12 @@
   "content": "off",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:13.401536Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -46,6 +49,23 @@
     [
       "TRANSLATION",
       "nld:af"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He set off early in the morning"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing my best paid off in the end"
+    ],
+    [
+      "TRANSLATION",
+      "kor:거리를 두다, 멀리 하다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would it be OK if I turned off the lights﹖"
     ]
   ]
 }

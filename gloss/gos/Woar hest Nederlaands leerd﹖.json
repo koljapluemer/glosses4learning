@@ -1,0 +1,35 @@
+{
+  "content": "Woar hest Nederlaands leerd?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Where did you learn Dutch﹖"
+    ],
+    [
+      "PART",
+      "gos:Woar"
+    ],
+    [
+      "PART",
+      "gos:hest"
+    ],
+    [
+      "PART",
+      "gos:Nederlaands"
+    ],
+    [
+      "PART",
+      "gos:leerd"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.576158Z": "SPLIT_DONE"
+  }
+}

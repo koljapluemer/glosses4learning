@@ -1,0 +1,43 @@
+{
+  "content": "Hun bor alene i en leilighet.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gurobu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She lives in an apartment alone"
+    ],
+    [
+      "PART",
+      "nob:Hun"
+    ],
+    [
+      "PART",
+      "nob:bor"
+    ],
+    [
+      "PART",
+      "nob:alene"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:en"
+    ],
+    [
+      "PART",
+      "nob:leilighet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:35.306525Z": "SPLIT_DONE"
+  }
+}

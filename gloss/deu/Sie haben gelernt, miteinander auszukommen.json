@@ -1,0 +1,35 @@
+{
+  "content": "Sie haben gelernt, miteinander auszukommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:gelernt"
+    ],
+    [
+      "PART",
+      "deu:miteinander"
+    ],
+    [
+      "PART",
+      "deu:auszukommen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.716783Z": "SPLIT_DONE"
+  }
+}

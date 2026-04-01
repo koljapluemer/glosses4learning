@@ -1,0 +1,39 @@
+{
+  "content": "Tom et Marie sont-ils vraiment mariés ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Julien_PDC (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:et"
+    ],
+    [
+      "PART",
+      "fra:Marie"
+    ],
+    [
+      "PART",
+      "fra:sont-ils"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:mariés"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.768393Z": "SPLIT_DONE"
+  }
+}

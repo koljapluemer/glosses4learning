@@ -1,0 +1,35 @@
+{
+  "content": "Mondd el neki, amit tudsz.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mondd"
+    ],
+    [
+      "PART",
+      "hun:el"
+    ],
+    [
+      "PART",
+      "hun:neki"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:tudsz"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.556210Z": "SPLIT_DONE"
+  }
+}

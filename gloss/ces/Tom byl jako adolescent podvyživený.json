@@ -1,0 +1,35 @@
+{
+  "content": "Tom byl jako adolescent podvyživený.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:jako"
+    ],
+    [
+      "PART",
+      "ces:adolescent"
+    ],
+    [
+      "PART",
+      "ces:podvyživený"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.228838Z": "SPLIT_DONE"
+  }
+}

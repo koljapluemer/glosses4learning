@@ -1,0 +1,35 @@
+{
+  "content": "Tom anlände trettio minuter sent.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:anlände"
+    ],
+    [
+      "PART",
+      "swe:trettio"
+    ],
+    [
+      "PART",
+      "swe:minuter"
+    ],
+    [
+      "PART",
+      "swe:sent"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.106847Z": "SPLIT_DONE"
+  }
+}

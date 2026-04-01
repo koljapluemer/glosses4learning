@@ -1,0 +1,35 @@
+{
+  "content": "Ingen smärta varar för evigt.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SilasNordgren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Ingen"
+    ],
+    [
+      "PART",
+      "swe:smärta"
+    ],
+    [
+      "PART",
+      "swe:varar"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:evigt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.101416Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Соседи Тома позвонили в службу спасения.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Соседи"
+    ],
+    [
+      "PART",
+      "rus:Тома"
+    ],
+    [
+      "PART",
+      "rus:позвонили"
+    ],
+    [
+      "PART",
+      "rus:в"
+    ],
+    [
+      "PART",
+      "rus:службу"
+    ],
+    [
+      "PART",
+      "rus:спасения"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.334217Z": "SPLIT_DONE"
+  }
+}

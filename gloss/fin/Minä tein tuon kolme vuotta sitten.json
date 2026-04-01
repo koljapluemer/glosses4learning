@@ -1,0 +1,39 @@
+{
+  "content": "Minä tein tuon kolme vuotta sitten.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minä"
+    ],
+    [
+      "PART",
+      "fin:tein"
+    ],
+    [
+      "PART",
+      "fin:tuon"
+    ],
+    [
+      "PART",
+      "fin:kolme"
+    ],
+    [
+      "PART",
+      "fin:vuotta"
+    ],
+    [
+      "PART",
+      "fin:sitten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.839156Z": "SPLIT_DONE"
+  }
+}

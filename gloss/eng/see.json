@@ -2,12 +2,15 @@
   "content": "see",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:41.968115Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -152,6 +155,31 @@
     [
       "TRANSLATION",
       "gos:zuk"
+    ],
+    [
+      "TRANSLATION",
+      "gos:kiek"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:побачив"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sieh"
+    ],
+    [
+      "TRANSLATION",
+      "epo:vidu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You can only see what you like the most"
+    ],
+    [
+      "TRANSLATION",
+      "kor:보십시오",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Mary teldi imi-s akken ad d-temmeslay.",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Igider (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "kab:Mary"
+    ],
+    [
+      "PART",
+      "kab:teldi"
+    ],
+    [
+      "PART",
+      "kab:imi-s"
+    ],
+    [
+      "PART",
+      "kab:akken"
+    ],
+    [
+      "PART",
+      "kab:ad"
+    ],
+    [
+      "PART",
+      "kab:d-temmeslay"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:37.085537Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Magistro nostro placet eius novum autocinetum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Magistro"
+    ],
+    [
+      "PART",
+      "lat:nostro"
+    ],
+    [
+      "PART",
+      "lat:placet"
+    ],
+    [
+      "PART",
+      "lat:eius"
+    ],
+    [
+      "PART",
+      "lat:novum"
+    ],
+    [
+      "PART",
+      "lat:autocinetum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.689580Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "men",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:25.718222Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -32,6 +35,27 @@
     [
       "TRANSLATION",
       "ell:άνδρες"
+    ],
+    [
+      "TRANSLATION",
+      "dan:mænd"
+    ],
+    [
+      "TRANSLATION",
+      "nld:men"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are but a few men who don't know that"
+    ],
+    [
+      "TRANSLATION",
+      "kor:남성",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are few men but know that"
     ]
   ]
 }

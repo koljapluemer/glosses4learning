@@ -1,0 +1,35 @@
+{
+  "content": "Mina föräldrar älskar mig verkligen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Balamax (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Mina"
+    ],
+    [
+      "PART",
+      "swe:föräldrar"
+    ],
+    [
+      "PART",
+      "swe:älskar"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:verkligen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.056685Z": "SPLIT_DONE"
+  }
+}

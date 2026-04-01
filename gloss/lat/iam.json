@@ -1,0 +1,37 @@
+{
+  "content": "iam",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Mea istud non iam interest"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Acta diurna hodierna iam legi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:now",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Maria iam scit quid ei faciendum sit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thōmās iam omnia intellēxit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Matertera mea iam adest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:20.058463Z": "TRANSLATION_DONE:eng"
+  }
+}

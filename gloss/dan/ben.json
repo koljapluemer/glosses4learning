@@ -1,0 +1,21 @@
+{
+  "content": "ben",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ville have Mary til at barbere sine ben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:legs",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:18.861684Z": "TRANSLATION_DONE:eng"
+  }
+}

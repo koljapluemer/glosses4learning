@@ -1,0 +1,51 @@
+{
+  "content": "No puedes entrar porque eres menor de edad.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Du kannst nicht hereinkommen, weil du minderjährig bist"
+    ],
+    [
+      "PART",
+      "spa:No"
+    ],
+    [
+      "PART",
+      "spa:puedes"
+    ],
+    [
+      "PART",
+      "spa:entrar"
+    ],
+    [
+      "PART",
+      "spa:porque"
+    ],
+    [
+      "PART",
+      "spa:eres"
+    ],
+    [
+      "PART",
+      "spa:menor"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:edad"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:12.553694Z": "SPLIT_DONE"
+  }
+}

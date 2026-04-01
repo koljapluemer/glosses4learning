@@ -1,0 +1,39 @@
+{
+  "content": "Nyt sinä olet mennyt liian pitkälle.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Nyt"
+    ],
+    [
+      "PART",
+      "fin:sinä"
+    ],
+    [
+      "PART",
+      "fin:olet"
+    ],
+    [
+      "PART",
+      "fin:mennyt"
+    ],
+    [
+      "PART",
+      "fin:liian"
+    ],
+    [
+      "PART",
+      "fin:pitkälle"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.877208Z": "SPLIT_DONE"
+  }
+}

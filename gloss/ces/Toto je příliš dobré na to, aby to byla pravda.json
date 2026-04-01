@@ -1,0 +1,55 @@
+{
+  "content": "Toto je příliš dobré na to, aby to byla pravda.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jms (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is too good to be true"
+    ],
+    [
+      "PART",
+      "ces:Toto"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:příliš"
+    ],
+    [
+      "PART",
+      "ces:dobré"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:to"
+    ],
+    [
+      "PART",
+      "ces:aby"
+    ],
+    [
+      "PART",
+      "ces:byla"
+    ],
+    [
+      "PART",
+      "ces:pravda"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:52.473385Z": "SPLIT_DONE"
+  }
+}

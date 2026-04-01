@@ -1,0 +1,39 @@
+{
+  "content": "Eu acho que estamos sem gasolina.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ToinhoAlam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:acho"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:estamos"
+    ],
+    [
+      "PART",
+      "por:sem"
+    ],
+    [
+      "PART",
+      "por:gasolina"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:37.005475Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Я не могу поверить, что Том не позвонил.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:могу"
+    ],
+    [
+      "PART",
+      "rus:поверить"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.340486Z": "SPLIT_DONE"
+  }
+}

@@ -5,12 +5,17 @@
     "eng:tatoeba-sentence"
   ],
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
   ],
   "relationships": [
     [
       "TRANSLATION",
       "ita:Tu ricordi le cose più facilmente di me"
+    ],
+    [
+      "TRANSLATION",
+      "swe:Du har lättare för att komma ihåg saker än jag"
     ]
   ]
 }

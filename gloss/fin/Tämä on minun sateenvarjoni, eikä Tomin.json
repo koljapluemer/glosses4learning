@@ -1,0 +1,39 @@
+{
+  "content": "Tämä on minun sateenvarjoni, eikä Tomin.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tämä"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:minun"
+    ],
+    [
+      "PART",
+      "fin:sateenvarjoni"
+    ],
+    [
+      "PART",
+      "fin:eikä"
+    ],
+    [
+      "PART",
+      "fin:Tomin"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.830781Z": "SPLIT_DONE"
+  }
+}

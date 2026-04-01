@@ -1,0 +1,39 @@
+{
+  "content": "Nullum animal sine plantis esse potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nullum"
+    ],
+    [
+      "PART",
+      "lat:animal"
+    ],
+    [
+      "PART",
+      "lat:sine"
+    ],
+    [
+      "PART",
+      "lat:plantis"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.660626Z": "SPLIT_DONE"
+  }
+}

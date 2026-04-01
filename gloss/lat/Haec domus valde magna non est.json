@@ -1,0 +1,43 @@
+{
+  "content": "Haec domus valde magna non est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This house is not very large"
+    ],
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:domus"
+    ],
+    [
+      "PART",
+      "lat:valde"
+    ],
+    [
+      "PART",
+      "lat:magna"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:43.616641Z": "SPLIT_DONE"
+  }
+}

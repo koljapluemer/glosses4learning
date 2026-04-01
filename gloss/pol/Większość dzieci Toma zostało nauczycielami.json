@@ -1,0 +1,35 @@
+{
+  "content": "Większość dzieci Toma zostało nauczycielami.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Większość"
+    ],
+    [
+      "PART",
+      "pol:dzieci"
+    ],
+    [
+      "PART",
+      "pol:Toma"
+    ],
+    [
+      "PART",
+      "pol:zostało"
+    ],
+    [
+      "PART",
+      "pol:nauczycielami"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.738776Z": "SPLIT_DONE"
+  }
+}

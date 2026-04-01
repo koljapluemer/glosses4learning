@@ -1,0 +1,25 @@
+{
+  "content": "una",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Mihi sunt duo fratres et una soror"
+    ],
+    [
+      "TRANSLATION",
+      "eng:one",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Is una abhinc hora profectus est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:03.084978Z": "TRANSLATION_DONE:eng"
+  }
+}

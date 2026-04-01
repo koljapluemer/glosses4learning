@@ -6,7 +6,9 @@
     "2025-12-16T14:17:43.683Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:17:52.978Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +26,10 @@
     [
       "TRANSLATION",
       "eng:kicks"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Te buty są za ciasne, by je nosić.`"
     ]
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "content": "Doe bist mien keunenk.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Doe"
+    ],
+    [
+      "PART",
+      "gos:bist"
+    ],
+    [
+      "PART",
+      "gos:mien"
+    ],
+    [
+      "PART",
+      "gos:keunenk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.279766Z": "SPLIT_DONE"
+  }
+}

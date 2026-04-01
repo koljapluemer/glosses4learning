@@ -1,0 +1,39 @@
+{
+  "content": "Ces serviettes sont de couleurs différentes.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ces"
+    ],
+    [
+      "PART",
+      "fra:serviettes"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:couleurs"
+    ],
+    [
+      "PART",
+      "fra:différentes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.547793Z": "SPLIT_DONE"
+  }
+}

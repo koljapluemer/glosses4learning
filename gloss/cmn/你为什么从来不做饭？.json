@@ -1,0 +1,35 @@
+{
+  "content": "你为什么从来不做饭？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:为什么"
+    ],
+    [
+      "PART",
+      "cmn:从来不"
+    ],
+    [
+      "PART",
+      "cmn:做饭"
+    ],
+    [
+      "PART",
+      "cmn:？"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:27.240679Z": "SPLIT_DONE"
+  }
+}

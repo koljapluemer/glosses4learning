@@ -1,0 +1,43 @@
+{
+  "content": "À quelle heure la réunion s'est-elle finie ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:À"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:heure"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:réunion"
+    ],
+    [
+      "PART",
+      "fra:s'est-elle"
+    ],
+    [
+      "PART",
+      "fra:finie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.597863Z": "SPLIT_DONE"
+  }
+}

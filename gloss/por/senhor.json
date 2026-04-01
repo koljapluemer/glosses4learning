@@ -1,0 +1,29 @@
+{
+  "content": "senhor",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "por:Ele queria se informar de tudo sobre o senhor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sir",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Há uma coisa importante que eu preciso revelar ao senhor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Por favor se apresente, meu senhor. Qual é a sua profissão﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:36.274622Z": "TRANSLATION_DONE:eng"
+  }
+}

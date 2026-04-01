@@ -1,0 +1,39 @@
+{
+  "content": "Hodie non licet tibi eam videre.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hodie"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:licet"
+    ],
+    [
+      "PART",
+      "lat:tibi"
+    ],
+    [
+      "PART",
+      "lat:eam"
+    ],
+    [
+      "PART",
+      "lat:videre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.714719Z": "SPLIT_DONE"
+  }
+}

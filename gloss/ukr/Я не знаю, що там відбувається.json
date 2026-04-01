@@ -1,0 +1,39 @@
+{
+  "content": "Я не знаю, що там відбувається.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:знаю"
+    ],
+    [
+      "PART",
+      "ukr:що"
+    ],
+    [
+      "PART",
+      "ukr:там"
+    ],
+    [
+      "PART",
+      "ukr:відбувається"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.215834Z": "SPLIT_DONE"
+  }
+}

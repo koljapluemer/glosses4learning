@@ -1,0 +1,35 @@
+{
+  "content": "Είναι ξεκάθαρο ότι είπες ψέμματα.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by glavkos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Είναι"
+    ],
+    [
+      "PART",
+      "ell:ξεκάθαρο"
+    ],
+    [
+      "PART",
+      "ell:ότι"
+    ],
+    [
+      "PART",
+      "ell:είπες"
+    ],
+    [
+      "PART",
+      "ell:ψέμματα"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.861324Z": "SPLIT_DONE"
+  }
+}

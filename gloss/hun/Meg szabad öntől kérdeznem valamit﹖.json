@@ -1,0 +1,35 @@
+{
+  "content": "Meg szabad öntől kérdeznem valamit?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Meg"
+    ],
+    [
+      "PART",
+      "hun:szabad"
+    ],
+    [
+      "PART",
+      "hun:öntől"
+    ],
+    [
+      "PART",
+      "hun:kérdeznem"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.547400Z": "SPLIT_DONE"
+  }
+}

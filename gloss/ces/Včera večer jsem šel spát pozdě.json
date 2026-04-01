@@ -1,0 +1,43 @@
+{
+  "content": "Včera večer jsem šel spát pozdě.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I went to bed late last night"
+    ],
+    [
+      "PART",
+      "ces:Včera"
+    ],
+    [
+      "PART",
+      "ces:večer"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:šel"
+    ],
+    [
+      "PART",
+      "ces:spát"
+    ],
+    [
+      "PART",
+      "ces:pozdě"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:23.225178Z": "SPLIT_DONE"
+  }
+}

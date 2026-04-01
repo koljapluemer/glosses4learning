@@ -1,0 +1,25 @@
+{
+  "content": "店",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:店では果物と野菜を売っています。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Shop",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:この店は日曜日にやっていますか。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:53.918088Z": "TRANSLATION_DONE:eng"
+  }
+}

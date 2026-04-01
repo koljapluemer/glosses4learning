@@ -1,0 +1,29 @@
+{
+  "content": "Думаю",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Думаю, вам надо позвонить Тому"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I think",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Думаю, тебе надо позвонить Тому"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Думаю, нам нужно позвонить в службу спасения"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:14.311420Z": "TRANSLATION_DONE:eng"
+  }
+}

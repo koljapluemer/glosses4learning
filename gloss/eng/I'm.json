@@ -2,12 +2,16 @@
   "content": "I'm",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:33.250061Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:33.893588Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +28,28 @@
     [
       "TRANSLATION",
       "spa:soy"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm not interested in politics at all"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm talking on the phone with Thomas"
+    ],
+    [
+      "TRANSLATION",
+      "kor:저는",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm sorry that I couldn't go with you"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Běžte se podívat, co Tom udělal.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Běžte"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:podívat"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:udělal"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.147285Z": "SPLIT_DONE"
+  }
+}

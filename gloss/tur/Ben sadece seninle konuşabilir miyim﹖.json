@@ -1,0 +1,35 @@
+{
+  "content": "Ben sadece seninle konuşabilir miyim?",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Ben"
+    ],
+    [
+      "PART",
+      "tur:sadece"
+    ],
+    [
+      "PART",
+      "tur:seninle"
+    ],
+    [
+      "PART",
+      "tur:konuşabilir"
+    ],
+    [
+      "PART",
+      "tur:miyim"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:43.949220Z": "SPLIT_DONE"
+  }
+}

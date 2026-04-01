@@ -1,0 +1,39 @@
+{
+  "content": "Tom ønskede at studere i Boston.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:ønskede"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:studere"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:Boston"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.438663Z": "SPLIT_DONE"
+  }
+}

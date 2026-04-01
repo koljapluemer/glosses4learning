@@ -1,0 +1,35 @@
+{
+  "content": "Cuando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Cuando estás enamorado, hasta las marcas de viruela son hoyuelos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:When",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Cuando no estás aquí, te echo de menos"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wenn",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Cuando tú hablas rápido, yo puedo entender"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:00.234799Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:12.183349Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Haec domus matris meae est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This house is my mother's"
+    ],
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:domus"
+    ],
+    [
+      "PART",
+      "lat:matris"
+    ],
+    [
+      "PART",
+      "lat:meae"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:16.096632Z": "SPLIT_DONE"
+  }
+}

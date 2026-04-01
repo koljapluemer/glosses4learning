@@ -1,0 +1,43 @@
+{
+  "content": "Hodie mane cum illis locutus sum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I spoke to them this morning"
+    ],
+    [
+      "PART",
+      "lat:Hodie"
+    ],
+    [
+      "PART",
+      "lat:mane"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:illis"
+    ],
+    [
+      "PART",
+      "lat:locutus"
+    ],
+    [
+      "PART",
+      "lat:sum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:13.914903Z": "SPLIT_DONE"
+  }
+}

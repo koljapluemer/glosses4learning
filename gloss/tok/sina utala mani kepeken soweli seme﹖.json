@@ -1,0 +1,39 @@
+{
+  "content": "sina utala mani kepeken soweli seme?",
+  "language": "tok",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hecko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tok:sina"
+    ],
+    [
+      "PART",
+      "tok:utala"
+    ],
+    [
+      "PART",
+      "tok:mani"
+    ],
+    [
+      "PART",
+      "tok:kepeken"
+    ],
+    [
+      "PART",
+      "tok:soweli"
+    ],
+    [
+      "PART",
+      "tok:seme"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:53.150312Z": "SPLIT_DONE"
+  }
+}

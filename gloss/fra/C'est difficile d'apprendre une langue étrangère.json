@@ -1,0 +1,39 @@
+{
+  "content": "C'est difficile d'apprendre une langue étrangère.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:difficile"
+    ],
+    [
+      "PART",
+      "fra:d'apprendre"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:langue"
+    ],
+    [
+      "PART",
+      "fra:étrangère"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.819267Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "sko",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Disse sko er for små til mig"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schuhe",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Lad os alle tage vores sko af"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tag ikke dine sko af"
+    ],
+    [
+      "TRANSLATION",
+      "eng:shoes",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Snørebåndene på dine sko er gået op"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:43.001269Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:14.033436Z": "TRANSLATION_DONE:eng"
+  }
+}

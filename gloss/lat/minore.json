@@ -1,0 +1,29 @@
+{
+  "content": "minore",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Horologium meum minore pretio quam tuum constat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec stola minore pretio quam stola tua constat"
+    ],
+    [
+      "TRANSLATION",
+      "eng:smaller",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Raeda tua minore pretio quam raeda mea constat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:07.012497Z": "TRANSLATION_DONE:eng"
+  }
+}

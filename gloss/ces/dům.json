@@ -1,0 +1,37 @@
+{
+  "content": "dům",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Často jsem navštěvoval jeho dům"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tento starý dům je postaven ze dřeva"
+    ],
+    [
+      "TRANSLATION",
+      "eng:house",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tento starý dům potřebuje dobrého správce"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tento dům pro nás není cenově dostupný"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tento dům je pro mě příliš velký"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:52.843326Z": "TRANSLATION_DONE:eng"
+  }
+}

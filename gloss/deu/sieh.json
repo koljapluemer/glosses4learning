@@ -1,0 +1,35 @@
+{
+  "content": "sieh",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Komm irgendwann mal vorbei und sieh uns beim Musikmachen zu!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:see",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Komm und sieh dir das an"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:дивитися",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:O sieh nur, Diana! Was für ein schöner Regenbogen!"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:37.970525Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:29.208415Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Doe most mie terugbetoalen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Doe"
+    ],
+    [
+      "PART",
+      "gos:most"
+    ],
+    [
+      "PART",
+      "gos:mie"
+    ],
+    [
+      "PART",
+      "gos:terugbetoalen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.341836Z": "SPLIT_DONE"
+  }
+}

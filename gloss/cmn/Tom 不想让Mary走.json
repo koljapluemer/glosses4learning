@@ -1,0 +1,39 @@
+{
+  "content": "Tom 不想让Mary走",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zhangxr91 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom doesn't want to let Mary go"
+    ],
+    [
+      "PART",
+      "cmn:Tom"
+    ],
+    [
+      "PART",
+      "cmn:不想"
+    ],
+    [
+      "PART",
+      "cmn:让"
+    ],
+    [
+      "PART",
+      "cmn:Mary"
+    ],
+    [
+      "PART",
+      "cmn:走"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:23.326283Z": "SPLIT_DONE"
+  }
+}

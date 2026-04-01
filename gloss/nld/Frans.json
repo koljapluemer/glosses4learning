@@ -1,0 +1,37 @@
+{
+  "content": "Frans",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ze vertelden ons dat ze Frans zouden studeren"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Frans is niet de enige taal die ik aan het leren ben"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Frans",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie heeft je verteld dat ik geen Frans zou kunnen verstaan﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik heb een assistent nodig die Frans spreekt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik heb deze brief in het Frans geschreven"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:06.400325Z": "TRANSLATION_DONE:eng"
+  }
+}

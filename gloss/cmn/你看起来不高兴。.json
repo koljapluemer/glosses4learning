@@ -1,0 +1,35 @@
+{
+  "content": "你看起来不高兴。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sadhen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:看起来"
+    ],
+    [
+      "PART",
+      "cmn:不"
+    ],
+    [
+      "PART",
+      "cmn:高兴"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:27.393630Z": "SPLIT_DONE"
+  }
+}

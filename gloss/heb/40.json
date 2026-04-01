@@ -1,0 +1,29 @@
+{
+  "content": "40",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "heb:החיים מתחילים כשאתה בן 40"
+    ],
+    [
+      "TRANSLATION",
+      "eng:40",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "heb:החיים מתחילים כשאת בת 40"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "heb:החיים מתחילים בגיל 40"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:32:39.282680Z": "TRANSLATION_DONE:eng"
+  }
+}

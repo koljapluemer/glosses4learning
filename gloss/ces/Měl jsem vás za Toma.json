@@ -1,0 +1,35 @@
+{
+  "content": "Měl jsem vás za Toma.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Měl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:vás"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.129238Z": "SPLIT_DONE"
+  }
+}

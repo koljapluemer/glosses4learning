@@ -1,0 +1,33 @@
+{
+  "content": "zei",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik zei toch dat je het leuk zou vinden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom zei dat mijn plan niet zou werken"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom zei dat de vergadering van gisteren interessant was"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Zij zei dat zij nu veel beter is"
+    ],
+    [
+      "TRANSLATION",
+      "eng:said",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:25.107160Z": "TRANSLATION_DONE:eng"
+  }
+}

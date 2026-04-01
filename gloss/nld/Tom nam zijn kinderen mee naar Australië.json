@@ -1,0 +1,43 @@
+{
+  "content": "Tom nam zijn kinderen mee naar Australië.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kuaile (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:nam"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ],
+    [
+      "PART",
+      "nld:mee"
+    ],
+    [
+      "PART",
+      "nld:naar"
+    ],
+    [
+      "PART",
+      "nld:Australië"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.076787Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ihr habt mir meinen ganzen Tag verdorben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ihr"
+    ],
+    [
+      "PART",
+      "deu:habt"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:ganzen"
+    ],
+    [
+      "PART",
+      "deu:Tag"
+    ],
+    [
+      "PART",
+      "deu:verdorben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.742054Z": "SPLIT_DONE"
+  }
+}

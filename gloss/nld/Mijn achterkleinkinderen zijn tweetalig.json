@@ -1,0 +1,31 @@
+{
+  "content": "Mijn achterkleinkinderen zijn tweetalig.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SunnyMoon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mijn"
+    ],
+    [
+      "PART",
+      "nld:achterkleinkinderen"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:tweetalig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.912800Z": "SPLIT_DONE"
+  }
+}

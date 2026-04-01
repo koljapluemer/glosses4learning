@@ -1,0 +1,37 @@
+{
+  "content": "перезвонила",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Передай ей, пожалуйста, чтобы она мне перезвонила"
+    ],
+    [
+      "TRANSLATION",
+      "eng:called back",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Скажи ей, пожалуйста, чтобы она мне перезвонила"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Пожалуйста, скажи ей, чтобы она мне перезвонила"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Вы можете сказать ей, чтобы она перезвонила﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Ты можешь сказать ей, чтобы она перезвонила﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:04.117534Z": "TRANSLATION_DONE:eng"
+  }
+}

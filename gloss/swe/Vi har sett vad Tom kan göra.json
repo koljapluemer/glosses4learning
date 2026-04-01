@@ -1,0 +1,43 @@
+{
+  "content": "Vi har sett vad Tom kan göra.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vi"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:sett"
+    ],
+    [
+      "PART",
+      "swe:vad"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:göra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.139246Z": "SPLIT_DONE"
+  }
+}

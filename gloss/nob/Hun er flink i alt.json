@@ -1,0 +1,39 @@
+{
+  "content": "Hun er flink i alt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She is good at everything"
+    ],
+    [
+      "PART",
+      "nob:Hun"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:flink"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:alt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:41.157116Z": "SPLIT_DONE"
+  }
+}

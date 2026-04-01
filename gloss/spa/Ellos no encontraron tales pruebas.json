@@ -1,0 +1,35 @@
+{
+  "content": "Ellos no encontraron tales pruebas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:encontraron"
+    ],
+    [
+      "PART",
+      "spa:tales"
+    ],
+    [
+      "PART",
+      "spa:pruebas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.185033Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "pregunto",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me pregunto quién habrá puesto el nombre a este barco"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я запитую",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me pregunto si puedo hacer eso"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:21.125302Z": "TRANSLATION_DONE:ukr"
+  }
+}

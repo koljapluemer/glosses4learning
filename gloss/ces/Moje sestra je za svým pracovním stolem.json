@@ -1,0 +1,43 @@
+{
+  "content": "Moje sestra je za svým pracovním stolem.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:sestra"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:svým"
+    ],
+    [
+      "PART",
+      "ces:pracovním"
+    ],
+    [
+      "PART",
+      "ces:stolem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.199021Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "林檎酒が大好きです。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by modelqueen13 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I love apple cider"
+    ],
+    [
+      "PART",
+      "jpn:林檎"
+    ],
+    [
+      "PART",
+      "jpn:酒"
+    ],
+    [
+      "PART",
+      "jpn:が"
+    ],
+    [
+      "PART",
+      "jpn:大好き"
+    ],
+    [
+      "PART",
+      "jpn:です"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:49.326467Z": "SPLIT_DONE"
+  }
+}

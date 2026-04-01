@@ -1,0 +1,55 @@
+{
+  "content": "Tom kan inte bestämma sig för vad han ska köpa.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:bestämma"
+    ],
+    [
+      "PART",
+      "swe:sig"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:vad"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:ska"
+    ],
+    [
+      "PART",
+      "swe:köpa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.165412Z": "SPLIT_DONE"
+  }
+}

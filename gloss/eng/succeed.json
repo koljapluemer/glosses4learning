@@ -2,12 +2,15 @@
   "content": "succeed",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:34.346191Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +27,19 @@
     [
       "TRANSLATION",
       "fra:parviens"
+    ],
+    [
+      "TRANSLATION",
+      "fin:onnistua"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is little hope that he will succeed"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вагітна",
+      "Auto-translated with argostranslate (en→uk)"
     ]
   ]
 }

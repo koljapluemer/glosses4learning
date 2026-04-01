@@ -1,0 +1,21 @@
+{
+  "content": "obci",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Autobus staví v každé obci"
+    ],
+    [
+      "TRANSLATION",
+      "eng:municipalities",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:58.720336Z": "TRANSLATION_DONE:eng"
+  }
+}

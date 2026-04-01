@@ -1,0 +1,35 @@
+{
+  "content": "أنتَ يمكنكَ دائماً القدوم هنا.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Asma (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنت"
+    ],
+    [
+      "PART",
+      "ara:يمكنك"
+    ],
+    [
+      "PART",
+      "ara:دائما"
+    ],
+    [
+      "PART",
+      "ara:القدوم"
+    ],
+    [
+      "PART",
+      "ara:هنا"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.414608Z": "SPLIT_DONE"
+  }
+}

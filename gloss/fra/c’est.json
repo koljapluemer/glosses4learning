@@ -1,0 +1,21 @@
+{
+  "content": "c’est",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Que c’est un cheval rapide !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das ist",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:11.633982Z": "TRANSLATION_DONE:deu"
+  }
+}

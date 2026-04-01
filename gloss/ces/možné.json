@@ -1,0 +1,29 @@
+{
+  "content": "možné",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Opravdu jsem si myslel, že je to možné"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Rád bych šel na ryby, kdyby to bylo možné"
+    ],
+    [
+      "TRANSLATION",
+      "eng:possible",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Není možné navštívit Řím v jednom dni"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:49.536545Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "我父親喜歡濃咖啡。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My father likes strong coffee"
+    ],
+    [
+      "PART",
+      "cmn:我父"
+    ],
+    [
+      "PART",
+      "cmn:親喜"
+    ],
+    [
+      "PART",
+      "cmn:歡濃"
+    ],
+    [
+      "PART",
+      "cmn:咖啡"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:16.828126Z": "SPLIT_DONE"
+  }
+}

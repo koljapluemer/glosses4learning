@@ -1,0 +1,35 @@
+{
+  "content": "Los rinocerontes pueden resultar letales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:rinocerontes"
+    ],
+    [
+      "PART",
+      "spa:pueden"
+    ],
+    [
+      "PART",
+      "spa:resultar"
+    ],
+    [
+      "PART",
+      "spa:letales"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.161396Z": "SPLIT_DONE"
+  }
+}

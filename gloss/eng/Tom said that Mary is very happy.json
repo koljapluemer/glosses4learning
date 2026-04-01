@@ -1,0 +1,47 @@
+{
+  "content": "Tom said that Mary is very happy.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що Мері дуже щаслива"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:is"
+    ],
+    [
+      "PART",
+      "eng:very"
+    ],
+    [
+      "PART",
+      "eng:happy"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:32.022587Z": "SPLIT_DONE"
+  }
+}

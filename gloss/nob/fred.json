@@ -1,0 +1,25 @@
+{
+  "content": "fred",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:La bilen min være i fred"
+    ],
+    [
+      "TRANSLATION",
+      "eng:peace",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Du sa at du ville aldri la meg være i fred"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:07.065171Z": "TRANSLATION_DONE:eng"
+  }
+}

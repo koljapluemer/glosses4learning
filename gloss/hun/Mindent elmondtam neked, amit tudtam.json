@@ -1,0 +1,35 @@
+{
+  "content": "Mindent elmondtam neked, amit tudtam.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kiseva33 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mindent"
+    ],
+    [
+      "PART",
+      "hun:elmondtam"
+    ],
+    [
+      "PART",
+      "hun:neked"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:tudtam"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.450598Z": "SPLIT_DONE"
+  }
+}

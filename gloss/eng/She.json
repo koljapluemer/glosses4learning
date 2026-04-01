@@ -3,9 +3,13 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:23:24.598496Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:23:24.598496Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:35:32.320802Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:20.531213Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -82,6 +86,40 @@
     [
       "TRANSLATION",
       "pol:ona"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She was not in the mood for lunch"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Шопінг",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nob:Hun"
+    ],
+    [
+      "TRANSLATION",
+      "lat:Illa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She is the mother of my children"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그녀",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She should arrive there at noon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She locked herself in his room"
     ]
   ]
 }

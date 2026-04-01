@@ -1,0 +1,49 @@
+{
+  "content": "ti",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no puedo hacer eso por ti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:time",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esa bicicleta es demasiado chica para ti"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ти",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo solo quiero lo mejor para ti"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Qué Dios te bendiga a ti y a tu familia"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tipp",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca debería ir de compras sin ti"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:05.808202Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:10.760548Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:24.620559Z": "TRANSLATION_DONE:deu"
+  }
+}

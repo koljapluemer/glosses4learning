@@ -1,0 +1,25 @@
+{
+  "content": "собираетесь",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Вы собираетесь позвонить Тому﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Вы всё ещё собираетесь позвонить Тому﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:What are you planning to do﹖",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:10.428238Z": "TRANSLATION_DONE:eng"
+  }
+}

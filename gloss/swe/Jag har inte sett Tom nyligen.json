@@ -1,0 +1,39 @@
+{
+  "content": "Jag har inte sett Tom nyligen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:sett"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:nyligen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.208141Z": "SPLIT_DONE"
+  }
+}

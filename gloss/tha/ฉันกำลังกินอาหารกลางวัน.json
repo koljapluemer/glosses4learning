@@ -1,0 +1,27 @@
+{
+  "content": "ฉันกำลังกินอาหารกลางวัน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:ฉัน"
+    ],
+    [
+      "PART",
+      "tha:กำลังกิน"
+    ],
+    [
+      "PART",
+      "tha:อาหารกลางวัน"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:43.996988Z": "SPLIT_DONE"
+  }
+}

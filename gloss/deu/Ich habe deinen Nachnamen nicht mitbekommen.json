@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe deinen Nachnamen nicht mitbekommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nemoli (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Nachnamen"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:mitbekommen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.844237Z": "SPLIT_DONE"
+  }
+}

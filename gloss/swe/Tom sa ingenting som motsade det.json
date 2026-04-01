@@ -1,0 +1,39 @@
+{
+  "content": "Tom sa ingenting som motsade det.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:sa"
+    ],
+    [
+      "PART",
+      "swe:ingenting"
+    ],
+    [
+      "PART",
+      "swe:som"
+    ],
+    [
+      "PART",
+      "swe:motsade"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.166257Z": "SPLIT_DONE"
+  }
+}

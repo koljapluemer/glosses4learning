@@ -1,0 +1,39 @@
+{
+  "content": "Někdo se vloupal do Tomovy kanceláře.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Někdo"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:vloupal"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:Tomovy"
+    ],
+    [
+      "PART",
+      "ces:kanceláře"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.148356Z": "SPLIT_DONE"
+  }
+}

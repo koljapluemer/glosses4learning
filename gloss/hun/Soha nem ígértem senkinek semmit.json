@@ -1,0 +1,35 @@
+{
+  "content": "Soha nem ígértem senkinek semmit.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by juliusbear (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Soha"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:ígértem"
+    ],
+    [
+      "PART",
+      "hun:senkinek"
+    ],
+    [
+      "PART",
+      "hun:semmit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.459126Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "How much is the fare?",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by atitarev (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:요금이 얼마입니까﹖"
+    ],
+    [
+      "PART",
+      "eng:How"
+    ],
+    [
+      "PART",
+      "eng:much"
+    ],
+    [
+      "PART",
+      "eng:is"
+    ],
+    [
+      "PART",
+      "eng:the"
+    ],
+    [
+      "PART",
+      "eng:fare"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:52.272406Z": "SPLIT_DONE"
+  }
+}

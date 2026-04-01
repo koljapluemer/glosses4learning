@@ -1,0 +1,35 @@
+{
+  "content": "هذا الماء لا يتجمّد أبدا.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هذا"
+    ],
+    [
+      "PART",
+      "ara:الماء"
+    ],
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:يتجمّد"
+    ],
+    [
+      "PART",
+      "ara:أبدا"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.467756Z": "SPLIT_DONE"
+  }
+}

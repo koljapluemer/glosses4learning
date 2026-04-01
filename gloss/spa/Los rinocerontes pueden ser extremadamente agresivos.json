@@ -1,0 +1,39 @@
+{
+  "content": "Los rinocerontes pueden ser extremadamente agresivos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:rinocerontes"
+    ],
+    [
+      "PART",
+      "spa:pueden"
+    ],
+    [
+      "PART",
+      "spa:ser"
+    ],
+    [
+      "PART",
+      "spa:extremadamente"
+    ],
+    [
+      "PART",
+      "spa:agresivos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.186913Z": "SPLIT_DONE"
+  }
+}

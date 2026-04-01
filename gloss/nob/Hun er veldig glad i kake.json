@@ -1,0 +1,43 @@
+{
+  "content": "Hun er veldig glad i kake.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She loves cake"
+    ],
+    [
+      "PART",
+      "nob:Hun"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:veldig"
+    ],
+    [
+      "PART",
+      "nob:glad"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:kake"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:43.946061Z": "SPLIT_DONE"
+  }
+}

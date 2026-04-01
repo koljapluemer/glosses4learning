@@ -1,0 +1,33 @@
+{
+  "content": "jobben",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Det burde gjøre jobben din enklere"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Denne jobben er ganske bra betalt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun har akkurat mistet jobben sin"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the job",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom visste at jobben ikke ville bli enkel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:46.724761Z": "TRANSLATION_DONE:eng"
+  }
+}

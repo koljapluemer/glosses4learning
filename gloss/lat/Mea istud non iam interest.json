@@ -1,0 +1,35 @@
+{
+  "content": "Mea istud non iam interest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Mea"
+    ],
+    [
+      "PART",
+      "lat:istud"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:iam"
+    ],
+    [
+      "PART",
+      "lat:interest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.665431Z": "SPLIT_DONE"
+  }
+}

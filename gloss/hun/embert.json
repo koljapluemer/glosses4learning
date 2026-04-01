@@ -1,0 +1,29 @@
+{
+  "content": "embert",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Van amikor bizonyos félelmek segíthetik az embert"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Nem tudok szeretni egy olyan embert, mint Tom"
+    ],
+    [
+      "TRANSLATION",
+      "eng:man",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Nem tudok szeretni olyan embert, mint amilyen Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:36:03.768848Z": "TRANSLATION_DONE:eng"
+  }
+}

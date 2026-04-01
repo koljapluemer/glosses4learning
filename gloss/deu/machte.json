@@ -1,0 +1,29 @@
+{
+  "content": "machte",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom machte keinen Versuch, Maria aufzuhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er machte eine kleine Pause und fuhr dann in seiner Erzählung fort"
+    ],
+    [
+      "TRANSLATION",
+      "eng:did",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ziri machte sich auf den Weg nach Hause"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:28.770268Z": "TRANSLATION_DONE:eng"
+  }
+}

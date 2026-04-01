@@ -1,0 +1,43 @@
+{
+  "content": "Qu'est-ce que tu peux nous donner, Tom ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by glossboss (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:peux"
+    ],
+    [
+      "PART",
+      "fra:nous"
+    ],
+    [
+      "PART",
+      "fra:donner"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.904682Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi n'avez-vous pas demandé de l'aide ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:n'avez-vous"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:demandé"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:l'aide"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.722035Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Benim bir yalancı olduğumu söyledin.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Benim"
+    ],
+    [
+      "PART",
+      "tur:bir"
+    ],
+    [
+      "PART",
+      "tur:yalancı"
+    ],
+    [
+      "PART",
+      "tur:olduğumu"
+    ],
+    [
+      "PART",
+      "tur:söyledin"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:43.927529Z": "SPLIT_DONE"
+  }
+}

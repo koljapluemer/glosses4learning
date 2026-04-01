@@ -1,0 +1,39 @@
+{
+  "content": "Mary řekla Tomovi, že mluví francouzsky.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:řekla"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:mluví"
+    ],
+    [
+      "PART",
+      "ces:francouzsky"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.218409Z": "SPLIT_DONE"
+  }
+}

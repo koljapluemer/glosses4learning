@@ -1,0 +1,39 @@
+{
+  "content": "Kijk naar die grote hond.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Look at that big dog"
+    ],
+    [
+      "PART",
+      "nld:Kijk"
+    ],
+    [
+      "PART",
+      "nld:naar"
+    ],
+    [
+      "PART",
+      "nld:die"
+    ],
+    [
+      "PART",
+      "nld:grote"
+    ],
+    [
+      "PART",
+      "nld:hond"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:17.961173Z": "SPLIT_DONE"
+  }
+}

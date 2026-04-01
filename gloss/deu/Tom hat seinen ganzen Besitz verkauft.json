@@ -1,0 +1,39 @@
+{
+  "content": "Tom hat seinen ganzen Besitz verkauft.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:ganzen"
+    ],
+    [
+      "PART",
+      "deu:Besitz"
+    ],
+    [
+      "PART",
+      "deu:verkauft"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.728002Z": "SPLIT_DONE"
+  }
+}

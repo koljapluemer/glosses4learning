@@ -2,9 +2,12 @@
   "content": "two",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:21.748688Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -150,6 +153,39 @@
     [
       "TRANSLATION",
       "tok:tu"
+    ],
+    [
+      "TRANSLATION",
+      "ces:dvěma"
+    ],
+    [
+      "TRANSLATION",
+      "ell:δύο"
+    ],
+    [
+      "TRANSLATION",
+      "por:duas"
+    ],
+    [
+      "TRANSLATION",
+      "lat:duobus"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are two churches in this street"
+    ],
+    [
+      "TRANSLATION",
+      "kor:두",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were deep feelings between the two"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were two pieces of cake"
     ]
   ]
 }

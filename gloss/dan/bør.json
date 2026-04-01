@@ -1,0 +1,31 @@
+{
+  "content": "bør",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg synes at alle bør lære et andet sprog"
+    ],
+    [
+      "TRANSLATION",
+      "deu:soll",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi bør ikke se ned på andre mennesker"
+    ],
+    [
+      "TRANSLATION",
+      "eng:should",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:41.657241Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:28.348793Z": "TRANSLATION_DONE:eng"
+  }
+}

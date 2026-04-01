@@ -1,0 +1,39 @@
+{
+  "content": "Los rayos pueden ser realmente peligrosos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:rayos"
+    ],
+    [
+      "PART",
+      "spa:pueden"
+    ],
+    [
+      "PART",
+      "spa:ser"
+    ],
+    [
+      "PART",
+      "spa:realmente"
+    ],
+    [
+      "PART",
+      "spa:peligrosos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.180736Z": "SPLIT_DONE"
+  }
+}

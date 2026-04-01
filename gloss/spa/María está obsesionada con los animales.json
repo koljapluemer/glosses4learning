@@ -1,0 +1,39 @@
+{
+  "content": "María está obsesionada con los animales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:María"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:obsesionada"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.209406Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom rozprodal veškerý svůj majetek.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:rozprodal"
+    ],
+    [
+      "PART",
+      "ces:veškerý"
+    ],
+    [
+      "PART",
+      "ces:svůj"
+    ],
+    [
+      "PART",
+      "ces:majetek"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.079555Z": "SPLIT_DONE"
+  }
+}

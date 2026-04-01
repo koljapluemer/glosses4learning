@@ -1,0 +1,29 @@
+{
+  "content": "dixi",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Omnia quae scio tibi dixi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I said",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Iam omnia ei dixi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Omnia credidit quae ei dixi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:08.074306Z": "TRANSLATION_DONE:eng"
+  }
+}

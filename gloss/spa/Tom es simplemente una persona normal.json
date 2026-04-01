@@ -1,0 +1,39 @@
+{
+  "content": "Tom es simplemente una persona normal.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:simplemente"
+    ],
+    [
+      "PART",
+      "spa:una"
+    ],
+    [
+      "PART",
+      "spa:persona"
+    ],
+    [
+      "PART",
+      "spa:normal"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.210144Z": "SPLIT_DONE"
+  }
+}

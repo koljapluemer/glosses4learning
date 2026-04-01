@@ -1,0 +1,39 @@
+{
+  "content": "Dlatego właśnie Tom cię uderzył.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:That's why Tom hit you"
+    ],
+    [
+      "PART",
+      "pol:Dlatego"
+    ],
+    [
+      "PART",
+      "pol:właśnie"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:cię"
+    ],
+    [
+      "PART",
+      "pol:uderzył"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:18.514843Z": "SPLIT_DONE"
+  }
+}

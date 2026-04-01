@@ -1,0 +1,27 @@
+{
+  "content": "Scisne linguam Latinam?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Hans07 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Scisne"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Latinam"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.717220Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg liker ikke å lese aviser.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:å"
+    ],
+    [
+      "PART",
+      "nob:lese"
+    ],
+    [
+      "PART",
+      "nob:aviser"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.722429Z": "SPLIT_DONE"
+  }
+}

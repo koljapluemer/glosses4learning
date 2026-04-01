@@ -1,0 +1,47 @@
+{
+  "content": "Tom conoce a algunos de los amigos de Mary.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:conoce"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:algunos"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:amigos"
+    ],
+    [
+      "PART",
+      "spa:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.150734Z": "SPLIT_DONE"
+  }
+}

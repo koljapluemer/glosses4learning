@@ -1,0 +1,21 @@
+{
+  "content": "Någonting",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Någonting är fel med den här ordbehandlaren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Something",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:53.453055Z": "TRANSLATION_DONE:eng"
+  }
+}

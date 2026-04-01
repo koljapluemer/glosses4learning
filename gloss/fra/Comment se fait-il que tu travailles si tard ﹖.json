@@ -1,0 +1,47 @@
+{
+  "content": "Comment se fait-il que tu travailles si tard ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:fait-il"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:travailles"
+    ],
+    [
+      "PART",
+      "fra:si"
+    ],
+    [
+      "PART",
+      "fra:tard"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.821459Z": "SPLIT_DONE"
+  }
+}

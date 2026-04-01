@@ -1,0 +1,47 @@
+{
+  "content": "汤姆是玛丽的一个好朋友。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mirrorvan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom is a good friend of Mary's"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:玛丽"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:一个"
+    ],
+    [
+      "PART",
+      "cmn:好"
+    ],
+    [
+      "PART",
+      "cmn:朋友"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:28.048206Z": "SPLIT_DONE"
+  }
+}

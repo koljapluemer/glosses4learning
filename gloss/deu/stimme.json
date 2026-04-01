@@ -1,0 +1,35 @@
+{
+  "content": "stimme",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich stimme euch voll und ganz zu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:agrees",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich stimme voll und ganz zu"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:голос",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich stimme euch vollkommen zu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:42.964479Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:32.411590Z": "TRANSLATION_DONE:ukr"
+  }
+}

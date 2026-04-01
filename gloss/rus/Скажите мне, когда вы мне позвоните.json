@@ -1,0 +1,35 @@
+{
+  "content": "Скажите мне, когда вы мне позвоните.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Скажите"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:когда"
+    ],
+    [
+      "PART",
+      "rus:вы"
+    ],
+    [
+      "PART",
+      "rus:позвоните"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.288712Z": "SPLIT_DONE"
+  }
+}

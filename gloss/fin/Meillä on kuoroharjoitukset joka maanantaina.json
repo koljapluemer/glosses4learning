@@ -1,0 +1,35 @@
+{
+  "content": "Meillä on kuoroharjoitukset joka maanantaina.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Meillä"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:kuoroharjoitukset"
+    ],
+    [
+      "PART",
+      "fin:joka"
+    ],
+    [
+      "PART",
+      "fin:maanantaina"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.806464Z": "SPLIT_DONE"
+  }
+}

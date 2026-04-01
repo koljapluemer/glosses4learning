@@ -2,12 +2,15 @@
   "content": "anybody",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:55.505409Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -28,6 +31,15 @@
     [
       "TRANSLATION",
       "epo:ajna"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there anybody here who speaks French﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:누구든지",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "content": "Han berättade sanningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:berättade"
+    ],
+    [
+      "PART",
+      "swe:sanningen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.048595Z": "SPLIT_DONE"
+  }
+}

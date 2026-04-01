@@ -1,0 +1,31 @@
+{
+  "content": "Dat was zekerwoar onneudeg.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Dat"
+    ],
+    [
+      "PART",
+      "gos:was"
+    ],
+    [
+      "PART",
+      "gos:zekerwoar"
+    ],
+    [
+      "PART",
+      "gos:onneudeg"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.326560Z": "SPLIT_DONE"
+  }
+}

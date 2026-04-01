@@ -1,0 +1,39 @@
+{
+  "content": "Kommittén sammanträder två gånger om månaden.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Kommittén"
+    ],
+    [
+      "PART",
+      "swe:sammanträder"
+    ],
+    [
+      "PART",
+      "swe:två"
+    ],
+    [
+      "PART",
+      "swe:gånger"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:månaden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.184506Z": "SPLIT_DONE"
+  }
+}

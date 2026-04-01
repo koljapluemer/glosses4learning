@@ -1,0 +1,51 @@
+{
+  "content": "Mary heeft me verteld dat ze afwezig zou zijn.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mary"
+    ],
+    [
+      "PART",
+      "nld:heeft"
+    ],
+    [
+      "PART",
+      "nld:me"
+    ],
+    [
+      "PART",
+      "nld:verteld"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:ze"
+    ],
+    [
+      "PART",
+      "nld:afwezig"
+    ],
+    [
+      "PART",
+      "nld:zou"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.936328Z": "SPLIT_DONE"
+  }
+}

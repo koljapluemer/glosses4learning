@@ -1,0 +1,35 @@
+{
+  "content": "Jag har ingenting att läsa.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ribon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:ingenting"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:läsa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.093199Z": "SPLIT_DONE"
+  }
+}

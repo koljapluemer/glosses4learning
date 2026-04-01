@@ -1,0 +1,39 @@
+{
+  "content": "De hond heeft mijn huiswerk opgegeten.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:De"
+    ],
+    [
+      "PART",
+      "nld:hond"
+    ],
+    [
+      "PART",
+      "nld:heeft"
+    ],
+    [
+      "PART",
+      "nld:mijn"
+    ],
+    [
+      "PART",
+      "nld:huiswerk"
+    ],
+    [
+      "PART",
+      "nld:opgegeten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.019999Z": "SPLIT_DONE"
+  }
+}

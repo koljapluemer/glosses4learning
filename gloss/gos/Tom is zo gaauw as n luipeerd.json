@@ -1,0 +1,47 @@
+{
+  "content": "Tom is zo gaauw as n luipeerd.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom is as fast as a leopard"
+    ],
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:zo"
+    ],
+    [
+      "PART",
+      "gos:gaauw"
+    ],
+    [
+      "PART",
+      "gos:as"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:luipeerd"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.685764Z": "SPLIT_DONE"
+  }
+}

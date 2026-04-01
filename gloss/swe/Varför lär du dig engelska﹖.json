@@ -1,0 +1,35 @@
+{
+  "content": "Varför lär du dig engelska?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Varför"
+    ],
+    [
+      "PART",
+      "swe:lär"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:dig"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.161664Z": "SPLIT_DONE"
+  }
+}

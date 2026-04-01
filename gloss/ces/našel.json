@@ -1,0 +1,29 @@
+{
+  "content": "našel",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Podívej se, co jsem dneska našel"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tuhle peněženku jsem našel v parku"
+    ],
+    [
+      "TRANSLATION",
+      "eng:found",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom ty dveře našel otevřené"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:17.501374Z": "TRANSLATION_DONE:eng"
+  }
+}

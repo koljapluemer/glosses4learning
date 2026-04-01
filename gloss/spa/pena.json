@@ -1,0 +1,31 @@
+{
+  "content": "pena",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo tus contundentes comentarios valen la pena de ser leídos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:punishment",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pero pocos de esos valen la pena leerse"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:наказ",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:22.012218Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:14.050425Z": "TRANSLATION_DONE:ukr"
+  }
+}

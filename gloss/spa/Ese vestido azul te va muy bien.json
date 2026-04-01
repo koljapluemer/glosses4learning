@@ -1,0 +1,47 @@
+{
+  "content": "Ese vestido azul te va muy bien.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ventana (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Dieses blaue Kleid steht dir sehr gut"
+    ],
+    [
+      "PART",
+      "spa:Ese"
+    ],
+    [
+      "PART",
+      "spa:vestido"
+    ],
+    [
+      "PART",
+      "spa:azul"
+    ],
+    [
+      "PART",
+      "spa:te"
+    ],
+    [
+      "PART",
+      "spa:va"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:bien"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:21.130784Z": "SPLIT_DONE"
+  }
+}

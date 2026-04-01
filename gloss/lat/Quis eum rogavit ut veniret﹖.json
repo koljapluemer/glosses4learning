@@ -1,0 +1,35 @@
+{
+  "content": "Quis eum rogavit ut veniret?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Quis"
+    ],
+    [
+      "PART",
+      "lat:eum"
+    ],
+    [
+      "PART",
+      "lat:rogavit"
+    ],
+    [
+      "PART",
+      "lat:ut"
+    ],
+    [
+      "PART",
+      "lat:veniret"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.691934Z": "SPLIT_DONE"
+  }
+}

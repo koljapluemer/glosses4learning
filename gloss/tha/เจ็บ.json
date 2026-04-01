@@ -1,0 +1,35 @@
+{
+  "content": "เจ็บ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ขาขวาของฉันเจ็บ"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schmerz",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:มันจะเจ็บมากไหม﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Pain",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:มันเจ็บที่ไหน﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:41.653139Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:21.669895Z": "TRANSLATION_DONE:eng"
+  }
+}

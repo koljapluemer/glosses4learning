@@ -1,0 +1,25 @@
+{
+  "content": "jaký",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Vím jaký z nás Tom má pocit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:what",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Ani nevíš, jaký mám strach"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:59.400817Z": "TRANSLATION_DONE:eng"
+  }
+}

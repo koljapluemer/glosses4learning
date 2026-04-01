@@ -2,12 +2,25 @@
   "content": "acabado",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:59:02.368046Z": "TRANSLATION_DONE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:finished"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ya casi se te han acabado los treinta minutos de los que dispones"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Oberfläche",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

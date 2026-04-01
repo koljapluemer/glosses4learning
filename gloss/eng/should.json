@@ -2,9 +2,13 @@
   "content": "should",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T07:59:17.414454Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:35:26.973557Z": "TRANSLATION_DONE:ukr"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -177,6 +181,80 @@
     [
       "TRANSLATION",
       "gos:zollen"
+    ],
+    [
+      "TRANSLATION",
+      "fin:tulisi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he should come, I want you to give him this document"
+    ],
+    [
+      "TRANSLATION",
+      "kor:해야",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "TRANSLATION",
+      "rus:должна"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What should I do in order to save time﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:слід",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom knows that he should do that soon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom knows he should do that soon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom should have told Mary he loved her"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom thinks that Mary should do that"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We should have done what Tom suggested"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:需"
+    ],
+    [
+      "TRANSLATION",
+      "por:deve"
+    ],
+    [
+      "TRANSLATION",
+      "dan:bør"
+    ],
+    [
+      "TRANSLATION",
+      "pol:należy"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She should arrive there at noon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If you're sleepy, you should go to bed"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You should go back home fast"
     ]
   ]
 }

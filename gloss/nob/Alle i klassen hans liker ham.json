@@ -1,0 +1,39 @@
+{
+  "content": "Alle i klassen hans liker ham.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Alle"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:klassen"
+    ],
+    [
+      "PART",
+      "nob:hans"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:ham"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.799271Z": "SPLIT_DONE"
+  }
+}

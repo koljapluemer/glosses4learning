@@ -1,0 +1,35 @@
+{
+  "content": "Tom morreu algumas semanas depois.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:morreu"
+    ],
+    [
+      "PART",
+      "por:algumas"
+    ],
+    [
+      "PART",
+      "por:semanas"
+    ],
+    [
+      "PART",
+      "por:depois"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.910700Z": "SPLIT_DONE"
+  }
+}

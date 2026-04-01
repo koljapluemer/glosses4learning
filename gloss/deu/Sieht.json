@@ -1,0 +1,31 @@
+{
+  "content": "Sieht",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sieht dies etwa nach einem Unfall aus﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Looks like",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sieht so aus, als ob dein Hund Durst hätte"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Виглядає",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:42.627604Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:33.041935Z": "TRANSLATION_DONE:ukr"
+  }
+}

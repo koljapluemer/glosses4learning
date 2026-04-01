@@ -1,0 +1,37 @@
+{
+  "content": "dość",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mamy już dość twojego narzekania"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Wygląda na dość obojętną w stosunku do piłki nożnej"
+    ],
+    [
+      "TRANSLATION",
+      "eng:enough",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mam dość takich ludzi jak ty"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:On mówi po angielsku dość dobrze"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Uważam to zdanie za dość oryginalne"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:30.624178Z": "TRANSLATION_DONE:eng"
+  }
+}

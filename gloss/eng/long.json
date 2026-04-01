@@ -2,9 +2,12 @@
   "content": "long",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:44.462500Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -89,6 +92,35 @@
     [
       "TRANSLATION",
       "gos:laank"
+    ],
+    [
+      "TRANSLATION",
+      "swe:långa"
+    ],
+    [
+      "TRANSLATION",
+      "hun:hosszú"
+    ],
+    [
+      "TRANSLATION",
+      "nob:lange"
+    ],
+    [
+      "TRANSLATION",
+      "nob:lang"
+    ],
+    [
+      "TRANSLATION",
+      "dan:lang"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How long will you be in Korea﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:긴",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

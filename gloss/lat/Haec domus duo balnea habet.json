@@ -1,0 +1,39 @@
+{
+  "content": "Haec domus duo balnea habet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This house has two bathrooms"
+    ],
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:domus"
+    ],
+    [
+      "PART",
+      "lat:duo"
+    ],
+    [
+      "PART",
+      "lat:balnea"
+    ],
+    [
+      "PART",
+      "lat:habet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:33.866840Z": "SPLIT_DONE"
+  }
+}

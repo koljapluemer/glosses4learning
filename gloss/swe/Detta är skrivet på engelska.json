@@ -1,0 +1,35 @@
+{
+  "content": "Detta är skrivet på engelska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Detta"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:skrivet"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.096078Z": "SPLIT_DONE"
+  }
+}

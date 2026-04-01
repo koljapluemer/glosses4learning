@@ -1,0 +1,33 @@
+{
+  "content": "понадоблюсь",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Звоните, если я вам понадоблюсь"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Звони, если я тебе понадоблюсь"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Если я вам понадоблюсь, позвоните в колокольчик"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will be needed",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвони мне, если я понадоблюсь"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:02.587989Z": "TRANSLATION_DONE:eng"
+  }
+}

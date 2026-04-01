@@ -1,0 +1,35 @@
+{
+  "content": "Salvete! Mihi nomen est Thomas.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Salvete"
+    ],
+    [
+      "PART",
+      "lat:Mihi"
+    ],
+    [
+      "PART",
+      "lat:nomen"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:Thomas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.657565Z": "SPLIT_DONE"
+  }
+}

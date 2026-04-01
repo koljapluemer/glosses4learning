@@ -1,0 +1,39 @@
+{
+  "content": "« Qu'est-ce que c'est que ça ? » demanda Tony.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:c'est"
+    ],
+    [
+      "PART",
+      "fra:ça"
+    ],
+    [
+      "PART",
+      "fra:demanda"
+    ],
+    [
+      "PART",
+      "fra:Tony"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.590259Z": "SPLIT_DONE"
+  }
+}

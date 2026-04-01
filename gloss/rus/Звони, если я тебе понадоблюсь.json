@@ -1,0 +1,35 @@
+{
+  "content": "Звони, если я тебе понадоблюсь.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Звони"
+    ],
+    [
+      "PART",
+      "rus:если"
+    ],
+    [
+      "PART",
+      "rus:я"
+    ],
+    [
+      "PART",
+      "rus:тебе"
+    ],
+    [
+      "PART",
+      "rus:понадоблюсь"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.360438Z": "SPLIT_DONE"
+  }
+}

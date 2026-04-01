@@ -1,0 +1,29 @@
+{
+  "content": "hecho",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Lo que han hecho ustedes es totalmente inexcusable"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Este queso está hecho de leche de cabra"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зроблено",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Lo que está hecho no se puede deshacer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:13.516074Z": "TRANSLATION_DONE:ukr"
+  }
+}

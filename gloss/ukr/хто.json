@@ -1,0 +1,39 @@
+{
+  "content": "хто",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якщо ви не допоможете Тому, то хто допоможе﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:who",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цікаво, хто допоміг Тому це зробити"
+    ],
+    [
+      "TRANSLATION",
+      "spa:quién"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дехто з тих, хто вивчає англійську, мають проблеми з вимовою"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:22.788480Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:25.466881Z": "TRANSLATION_DONE:deu"
+  }
+}

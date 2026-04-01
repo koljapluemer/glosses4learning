@@ -1,0 +1,35 @@
+{
+  "content": "Sine eo vivere non potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Sine"
+    ],
+    [
+      "PART",
+      "lat:eo"
+    ],
+    [
+      "PART",
+      "lat:vivere"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.672244Z": "SPLIT_DONE"
+  }
+}

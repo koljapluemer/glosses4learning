@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.837254Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.699758Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.044139Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.511005Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.511005Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:35:34.626400Z": "TRANSLATION_DONE:ukr"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -77,6 +79,31 @@
     [
       "TRANSLATION",
       "gos:Mörgen"
+    ],
+    [
+      "TRANSLATION",
+      "rus:утра"
+    ],
+    [
+      "TRANSLATION",
+      "ell:πρωί"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He set off early in the morning"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ранок",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "hun:reggel"
+    ],
+    [
+      "TRANSLATION",
+      "por:manhã"
     ]
   ]
 }

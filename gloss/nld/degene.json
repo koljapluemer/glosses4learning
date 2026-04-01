@@ -1,0 +1,25 @@
+{
+  "content": "degene",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Jij bent niet degene die stierf"
+    ],
+    [
+      "TRANSLATION",
+      "eng:that person",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ben jij niet degene die dit heeft geschreven﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:37.546328Z": "TRANSLATION_DONE:eng"
+  }
+}

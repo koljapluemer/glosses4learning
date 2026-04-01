@@ -8,10 +8,13 @@
     "2025-12-12T14:08:34.850925Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.696207Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.038347Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.511344Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.511344Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:35:32.715666Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:12.056857Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -161,6 +164,72 @@
     [
       "TRANSLATION",
       "lat:Quomodo"
+    ],
+    [
+      "TRANSLATION",
+      "heb:איך"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much do you think that it cost﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Як",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nld:Hoe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How many eggs are there in the refrigerator﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어떻게",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing these days﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing lately﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How many eggs are in the refrigerator﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How do you say this in English﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How do you say Scam in Cantonese﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How old is your little brother﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How are you doing lately﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How long will you be in Korea﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much is the fare﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much is the shirt﹖"
     ]
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "content": "понадобитесь",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мы вам позвоним, если вы нам понадобитесь"
+    ],
+    [
+      "TRANSLATION",
+      "eng:will be needed",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я позвоню вам, если вы мне понадобитесь"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:03.341714Z": "TRANSLATION_DONE:eng"
+  }
+}

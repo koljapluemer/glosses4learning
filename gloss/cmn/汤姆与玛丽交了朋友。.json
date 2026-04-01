@@ -1,0 +1,39 @@
+{
+  "content": "汤姆与玛丽交了朋友。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BobbyLee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom became friends with Mary"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:与"
+    ],
+    [
+      "PART",
+      "cmn:玛丽"
+    ],
+    [
+      "PART",
+      "cmn:交了"
+    ],
+    [
+      "PART",
+      "cmn:朋友"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:25.507148Z": "SPLIT_DONE"
+  }
+}

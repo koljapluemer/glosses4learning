@@ -1,0 +1,55 @@
+{
+  "content": "tid",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har ikke tid til at studere"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har set den film for lang tid siden"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zeit",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har ikke tid til at læse bøger"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du bliver nødt til at vente et stykke tid"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi er alle børn af vores tid"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Solen gik ned for et stykke tid siden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:time",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms helbred er gået meget tilbage i den sidste tid"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg så den film for lang tid siden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:35.192677Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:04.352582Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "他们每星期天举行朝拜.",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sirpoot (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:They worship every Sunday"
+    ],
+    [
+      "PART",
+      "cmn:他们"
+    ],
+    [
+      "PART",
+      "cmn:每"
+    ],
+    [
+      "PART",
+      "cmn:星期天"
+    ],
+    [
+      "PART",
+      "cmn:举行"
+    ],
+    [
+      "PART",
+      "cmn:朝拜"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:41.164089Z": "SPLIT_DONE"
+  }
+}

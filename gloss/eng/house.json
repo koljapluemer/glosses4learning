@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:25:52.321848Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:25:52.321848Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:48.028545Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -143,6 +145,39 @@
     [
       "TRANSLATION",
       "tok:tomo"
+    ],
+    [
+      "TRANSLATION",
+      "gos:haim"
+    ],
+    [
+      "TRANSLATION",
+      "ces:dům"
+    ],
+    [
+      "TRANSLATION",
+      "ell:σπιτιού"
+    ],
+    [
+      "TRANSLATION",
+      "nob:hus"
+    ],
+    [
+      "TRANSLATION",
+      "dan:hus"
+    ],
+    [
+      "TRANSLATION",
+      "lat:domo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The writers are in that house"
+    ],
+    [
+      "TRANSLATION",
+      "kor:집",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

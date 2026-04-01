@@ -1,0 +1,35 @@
+{
+  "content": "Jag förstår vad ni säger.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:förstår"
+    ],
+    [
+      "PART",
+      "swe:vad"
+    ],
+    [
+      "PART",
+      "swe:ni"
+    ],
+    [
+      "PART",
+      "swe:säger"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.180073Z": "SPLIT_DONE"
+  }
+}

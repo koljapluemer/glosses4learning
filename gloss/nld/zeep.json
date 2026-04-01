@@ -1,0 +1,21 @@
+{
+  "content": "zeep",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik denk dat ik allergisch ben voor die zeep"
+    ],
+    [
+      "TRANSLATION",
+      "eng:soap",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:26.650488Z": "TRANSLATION_DONE:eng"
+  }
+}

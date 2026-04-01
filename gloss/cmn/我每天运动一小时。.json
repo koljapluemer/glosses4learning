@@ -1,0 +1,39 @@
+{
+  "content": "我每天运动一小时。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sysko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I exercise for 1 hour every day"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:每天"
+    ],
+    [
+      "PART",
+      "cmn:运动"
+    ],
+    [
+      "PART",
+      "cmn:一"
+    ],
+    [
+      "PART",
+      "cmn:小时"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:08.789574Z": "SPLIT_DONE"
+  }
+}

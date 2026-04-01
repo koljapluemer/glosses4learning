@@ -1,0 +1,39 @@
+{
+  "content": "debería",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La gente no debería maltratar a los animales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El deber debería venir antes que cualquier otra cosa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:повинна",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo creo que todo el mundo debería aprender otro idioma"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sollte",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca debería ir de compras sin ti"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:13.296703Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:09.351936Z": "TRANSLATION_DONE:deu"
+  }
+}

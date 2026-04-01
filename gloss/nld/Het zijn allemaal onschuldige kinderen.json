@@ -1,0 +1,35 @@
+{
+  "content": "Het zijn allemaal onschuldige kinderen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Het"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:allemaal"
+    ],
+    [
+      "PART",
+      "nld:onschuldige"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.050690Z": "SPLIT_DONE"
+  }
+}

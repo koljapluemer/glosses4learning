@@ -1,0 +1,33 @@
+{
+  "content": "elmondtam",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Mindent elmondtam neked, amit tudtam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Már mindent elmondtam, amit tudok"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Mindent elmondtam, amit tudtam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Már mindent elmondtam neked, amit csak tudok"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I said",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:04:44.221255Z": "TRANSLATION_DONE:eng"
+  }
+}

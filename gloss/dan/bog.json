@@ -1,0 +1,33 @@
+{
+  "content": "bog",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg sidder lige nu og læser en bog"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg læste denne bog for to år siden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vær venlig at give mig min bog tilbage"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den gamle bog der er et sandt fund"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:22.826851Z": "TRANSLATION_DONE:eng"
+  }
+}

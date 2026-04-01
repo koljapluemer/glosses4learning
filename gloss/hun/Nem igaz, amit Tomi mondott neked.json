@@ -1,0 +1,39 @@
+{
+  "content": "Nem igaz, amit Tomi mondott neked.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Nem"
+    ],
+    [
+      "PART",
+      "hun:igaz"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:Tomi"
+    ],
+    [
+      "PART",
+      "hun:mondott"
+    ],
+    [
+      "PART",
+      "hun:neked"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.550918Z": "SPLIT_DONE"
+  }
+}

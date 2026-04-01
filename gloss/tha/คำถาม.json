@@ -1,0 +1,31 @@
+{
+  "content": "คำถาม",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:คำตอบสำหรับคำถามนี้ง่าย"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Frage",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมมีคำถามบางอย่าง"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Question",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:39.411498Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:35.582375Z": "TRANSLATION_DONE:eng"
+  }
+}

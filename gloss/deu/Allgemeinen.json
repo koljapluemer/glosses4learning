@@ -1,0 +1,35 @@
+{
+  "content": "Allgemeinen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Moderne Annehmlichkeiten meiden die Amischen im Allgemeinen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Im Allgemeinen fährt Tom mit dem Bus zur Arbeit"
+    ],
+    [
+      "TRANSLATION",
+      "kor:일반적인",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich esse dort im Allgemeinen zu Mittag"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Загальні",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:54.880164Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T09:01:42.513345Z": "TRANSLATION_DONE:ukr"
+  }
+}

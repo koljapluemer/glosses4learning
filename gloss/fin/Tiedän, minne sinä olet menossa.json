@@ -1,0 +1,35 @@
+{
+  "content": "Tiedän, minne sinä olet menossa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tiedän"
+    ],
+    [
+      "PART",
+      "fin:minne"
+    ],
+    [
+      "PART",
+      "fin:sinä"
+    ],
+    [
+      "PART",
+      "fin:olet"
+    ],
+    [
+      "PART",
+      "fin:menossa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.811913Z": "SPLIT_DONE"
+  }
+}

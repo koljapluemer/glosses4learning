@@ -2,9 +2,12 @@
   "content": "now",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:32.301789Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -166,6 +169,55 @@
     [
       "TRANSLATION",
       "lat:nunc"
+    ],
+    [
+      "TRANSLATION",
+      "kab:wassa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:тепер"
+    ],
+    [
+      "TRANSLATION",
+      "ces:teď"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary isn't in Boston now"
+    ],
+    [
+      "TRANSLATION",
+      "dan:nå"
+    ],
+    [
+      "TRANSLATION",
+      "epo:iam"
+    ],
+    [
+      "TRANSLATION",
+      "lat:iam"
+    ],
+    [
+      "TRANSLATION",
+      "pol:teraz"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you alone at home now﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:지금",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What I want now is hot coffee"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What now﹖ Are we going or not﹖"
     ]
   ]
 }

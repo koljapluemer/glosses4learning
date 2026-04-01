@@ -1,0 +1,51 @@
+{
+  "content": "昨日私は本を買いました。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by modelqueen13 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Yesterday I bought a book"
+    ],
+    [
+      "PART",
+      "jpn:昨日"
+    ],
+    [
+      "PART",
+      "jpn:私"
+    ],
+    [
+      "PART",
+      "jpn:は"
+    ],
+    [
+      "PART",
+      "jpn:本"
+    ],
+    [
+      "PART",
+      "jpn:を"
+    ],
+    [
+      "PART",
+      "jpn:買い"
+    ],
+    [
+      "PART",
+      "jpn:まし"
+    ],
+    [
+      "PART",
+      "jpn:た"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:39.179698Z": "SPLIT_DONE"
+  }
+}

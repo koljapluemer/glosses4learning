@@ -1,0 +1,39 @@
+{
+  "content": "Nulla causa est ad reficiendum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vibius_Marcus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It makes no sense to remodel"
+    ],
+    [
+      "PART",
+      "lat:Nulla"
+    ],
+    [
+      "PART",
+      "lat:causa"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:ad"
+    ],
+    [
+      "PART",
+      "lat:reficiendum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:39.999322Z": "SPLIT_DONE"
+  }
+}

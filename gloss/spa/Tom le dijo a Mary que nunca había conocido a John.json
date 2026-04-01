@@ -1,0 +1,59 @@
+{
+  "content": "Tom le dijo a Mary que nunca había conocido a John.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arh (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав Мері, що він ніколи не був знайомий з Джоном"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:le"
+    ],
+    [
+      "PART",
+      "spa:dijo"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:Mary"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:nunca"
+    ],
+    [
+      "PART",
+      "spa:había"
+    ],
+    [
+      "PART",
+      "spa:conocido"
+    ],
+    [
+      "PART",
+      "spa:John"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:25.943878Z": "SPLIT_DONE"
+  }
+}

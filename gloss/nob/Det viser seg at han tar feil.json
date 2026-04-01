@@ -1,0 +1,43 @@
+{
+  "content": "Det viser seg at han tar feil.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Det"
+    ],
+    [
+      "PART",
+      "nob:viser"
+    ],
+    [
+      "PART",
+      "nob:seg"
+    ],
+    [
+      "PART",
+      "nob:at"
+    ],
+    [
+      "PART",
+      "nob:han"
+    ],
+    [
+      "PART",
+      "nob:tar"
+    ],
+    [
+      "PART",
+      "nob:feil"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.660205Z": "SPLIT_DONE"
+  }
+}

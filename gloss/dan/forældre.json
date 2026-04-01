@@ -1,0 +1,35 @@
+{
+  "content": "forældre",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg tror ikke at dine forældre ville synes om det"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Eltern",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom taler kun fransk til sine forældre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:parents",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hils dine forældre fra mig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:27.061868Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:19.262355Z": "TRANSLATION_DONE:eng"
+  }
+}

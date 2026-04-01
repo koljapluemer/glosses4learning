@@ -1,0 +1,39 @@
+{
+  "content": "Du solltest dein Zimmer sauber machen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:solltest"
+    ],
+    [
+      "PART",
+      "deu:dein"
+    ],
+    [
+      "PART",
+      "deu:Zimmer"
+    ],
+    [
+      "PART",
+      "deu:sauber"
+    ],
+    [
+      "PART",
+      "deu:machen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.722850Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "comentarios",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo tus contundentes comentarios valen la pena de ser leídos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:comments",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tus comentarios estuvieron totalmente fuera de lugar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kommentare",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:21.673186Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:30.802367Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "tři",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Ti tři sousedé si navzájem pomohli"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Mám tři sestry a jednoho bratra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:three",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Setkávám se s Tomem jednou za tři měsíce"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:V téhle místnosti jsou tři okna"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom a další tři lidé byli zraněni"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:58.903869Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Вы сказали, что позвоните.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Вы"
+    ],
+    [
+      "PART",
+      "rus:сказали"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:позвоните"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.389621Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Powiedziała, że jest zmartwiona.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jimbojim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Powiedziała"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:zmartwiona"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.717732Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Hvem sin gitar er dette?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvem"
+    ],
+    [
+      "PART",
+      "nob:sin"
+    ],
+    [
+      "PART",
+      "nob:gitar"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.737369Z": "SPLIT_DONE"
+  }
+}

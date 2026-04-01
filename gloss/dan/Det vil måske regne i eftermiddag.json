@@ -1,0 +1,39 @@
+{
+  "content": "Det vil måske regne i eftermiddag.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Wassim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Det"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:måske"
+    ],
+    [
+      "PART",
+      "dan:regne"
+    ],
+    [
+      "PART",
+      "dan:i"
+    ],
+    [
+      "PART",
+      "dan:eftermiddag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.263781Z": "SPLIT_DONE"
+  }
+}

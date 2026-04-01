@@ -1,0 +1,21 @@
+{
+  "content": "morgenmad",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Matthew spiser bacon og æg til morgenmad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:breakfast",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:31.219344Z": "TRANSLATION_DONE:eng"
+  }
+}

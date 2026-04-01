@@ -1,0 +1,43 @@
+{
+  "content": "hus",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kom uinviteret til vores hus"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Haus",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg opvarmer ikke deres hus for dem"
+    ],
+    [
+      "TRANSLATION",
+      "eng:house",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du ringede altid til mig fra hendes hus"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvad for et hus kan du bedst lide﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kan se deres hus herfra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:36.074605Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:52:58.267561Z": "TRANSLATION_DONE:eng"
+  }
+}

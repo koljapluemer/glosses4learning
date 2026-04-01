@@ -1,0 +1,35 @@
+{
+  "content": "Dostal jsem účet za elektřinu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Dostal"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:účet"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:elektřinu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.256416Z": "SPLIT_DONE"
+  }
+}

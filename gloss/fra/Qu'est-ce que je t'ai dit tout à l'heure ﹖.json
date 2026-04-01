@@ -1,0 +1,47 @@
+{
+  "content": "Qu'est-ce que je t'ai dit tout à l'heure ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LdjuherTaqvaylit (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:t'ai"
+    ],
+    [
+      "PART",
+      "fra:dit"
+    ],
+    [
+      "PART",
+      "fra:tout"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:l'heure"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.654614Z": "SPLIT_DONE"
+  }
+}

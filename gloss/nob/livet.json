@@ -1,0 +1,25 @@
+{
+  "content": "livet",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Det skjer bare én gang i livet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:life",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:I livet, god og ond smmenstøt ubarmhjertlig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:32.012627Z": "TRANSLATION_DONE:eng"
+  }
+}

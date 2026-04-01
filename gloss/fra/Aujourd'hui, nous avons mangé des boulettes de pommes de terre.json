@@ -1,0 +1,51 @@
+{
+  "content": "Aujourd'hui, nous avons mangé des boulettes de pommes de terre.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Aujourd'hui"
+    ],
+    [
+      "PART",
+      "fra:nous"
+    ],
+    [
+      "PART",
+      "fra:avons"
+    ],
+    [
+      "PART",
+      "fra:mangé"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:boulettes"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:pommes"
+    ],
+    [
+      "PART",
+      "fra:terre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.698099Z": "SPLIT_DONE"
+  }
+}

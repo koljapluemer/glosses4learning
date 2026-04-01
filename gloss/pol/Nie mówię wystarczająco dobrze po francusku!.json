@@ -1,0 +1,39 @@
+{
+  "content": "Nie mówię wystarczająco dobrze po francusku!",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nie"
+    ],
+    [
+      "PART",
+      "pol:mówię"
+    ],
+    [
+      "PART",
+      "pol:wystarczająco"
+    ],
+    [
+      "PART",
+      "pol:dobrze"
+    ],
+    [
+      "PART",
+      "pol:po"
+    ],
+    [
+      "PART",
+      "pol:francusku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.749376Z": "SPLIT_DONE"
+  }
+}

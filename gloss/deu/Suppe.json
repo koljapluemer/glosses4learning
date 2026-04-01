@@ -1,0 +1,21 @@
+{
+  "content": "Suppe",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die Suppe hier ist zum Essen zu salzig"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Суп",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:31.074048Z": "TRANSLATION_DONE:ukr"
+  }
+}

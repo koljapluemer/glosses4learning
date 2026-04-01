@@ -1,0 +1,43 @@
+{
+  "content": "Mein ganzes Leben bin ich missverstanden worden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Mein"
+    ],
+    [
+      "PART",
+      "deu:ganzes"
+    ],
+    [
+      "PART",
+      "deu:Leben"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:missverstanden"
+    ],
+    [
+      "PART",
+      "deu:worden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.658134Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Mary sa att hon skulle komma tillbaks senare.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Mary"
+    ],
+    [
+      "PART",
+      "swe:sa"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:hon"
+    ],
+    [
+      "PART",
+      "swe:skulle"
+    ],
+    [
+      "PART",
+      "swe:komma"
+    ],
+    [
+      "PART",
+      "swe:tillbaks"
+    ],
+    [
+      "PART",
+      "swe:senare"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.120141Z": "SPLIT_DONE"
+  }
+}

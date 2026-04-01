@@ -1,0 +1,31 @@
+{
+  "content": "电视机坏了。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sadhen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The television doesn't work"
+    ],
+    [
+      "PART",
+      "cmn:电视机"
+    ],
+    [
+      "PART",
+      "cmn:坏"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:41:23.156161Z": "SPLIT_DONE"
+  }
+}

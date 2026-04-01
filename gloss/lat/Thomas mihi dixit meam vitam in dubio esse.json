@@ -1,0 +1,51 @@
+{
+  "content": "Thomas mihi dixit meam vitam in dubio esse",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom told me my life's in danger"
+    ],
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:mihi"
+    ],
+    [
+      "PART",
+      "lat:dixit"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:vitam"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:dubio"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:37.851491Z": "SPLIT_DONE"
+  }
+}

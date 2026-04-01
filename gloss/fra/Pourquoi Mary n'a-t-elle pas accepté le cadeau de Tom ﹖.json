@@ -1,0 +1,51 @@
+{
+  "content": "Pourquoi Mary n'a-t-elle pas accepté le cadeau de Tom ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:Mary"
+    ],
+    [
+      "PART",
+      "fra:n'a-t-elle"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:accepté"
+    ],
+    [
+      "PART",
+      "fra:le"
+    ],
+    [
+      "PART",
+      "fra:cadeau"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.630927Z": "SPLIT_DONE"
+  }
+}

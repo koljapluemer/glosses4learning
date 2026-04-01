@@ -1,0 +1,31 @@
+{
+  "content": "Hai bewaarkt zien akker.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Hai"
+    ],
+    [
+      "PART",
+      "gos:bewaarkt"
+    ],
+    [
+      "PART",
+      "gos:zien"
+    ],
+    [
+      "PART",
+      "gos:akker"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.339348Z": "SPLIT_DONE"
+  }
+}

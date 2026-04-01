@@ -1,0 +1,25 @@
+{
+  "content": "italienska",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Hur säger du det på italienska﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Italian",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Var ligger den italienska ambassaden﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:11.820318Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "opus",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas intellexit quod opus esset"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Hic decem annos opus facta sum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Hic decem annos opus factus sum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non opus est tibi ire cum ea"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:02.072629Z": "TRANSLATION_DONE:eng"
+  }
+}

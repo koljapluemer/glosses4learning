@@ -1,0 +1,39 @@
+{
+  "content": "Algunas palabras inglesas provienen del japonés.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Haruhi_Gafitas (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunas"
+    ],
+    [
+      "PART",
+      "spa:palabras"
+    ],
+    [
+      "PART",
+      "spa:inglesas"
+    ],
+    [
+      "PART",
+      "spa:provienen"
+    ],
+    [
+      "PART",
+      "spa:del"
+    ],
+    [
+      "PART",
+      "spa:japonés"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.243472Z": "SPLIT_DONE"
+  }
+}

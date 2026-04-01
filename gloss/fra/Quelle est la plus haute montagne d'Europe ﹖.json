@@ -1,0 +1,43 @@
+{
+  "content": "Quelle est la plus haute montagne d'Europe ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gillux (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelle"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:plus"
+    ],
+    [
+      "PART",
+      "fra:haute"
+    ],
+    [
+      "PART",
+      "fra:montagne"
+    ],
+    [
+      "PART",
+      "fra:d'Europe"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.554709Z": "SPLIT_DONE"
+  }
+}

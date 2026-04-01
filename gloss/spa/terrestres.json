@@ -1,0 +1,21 @@
+{
+  "content": "terrestres",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los elefantes son los animales terrestres más grandes del mundo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:terrestrial",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:10.709068Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Vi kommer tillbaka förr eller senare.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vi"
+    ],
+    [
+      "PART",
+      "swe:kommer"
+    ],
+    [
+      "PART",
+      "swe:tillbaka"
+    ],
+    [
+      "PART",
+      "swe:förr"
+    ],
+    [
+      "PART",
+      "swe:eller"
+    ],
+    [
+      "PART",
+      "swe:senare"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.138299Z": "SPLIT_DONE"
+  }
+}

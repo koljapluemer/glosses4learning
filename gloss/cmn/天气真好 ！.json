@@ -1,0 +1,31 @@
+{
+  "content": "天气真好 ！",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by trieuho (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The weather is really great!"
+    ],
+    [
+      "PART",
+      "cmn:天气"
+    ],
+    [
+      "PART",
+      "cmn:真"
+    ],
+    [
+      "PART",
+      "cmn:好"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:46.472842Z": "SPLIT_DONE"
+  }
+}

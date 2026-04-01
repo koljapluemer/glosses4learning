@@ -1,0 +1,35 @@
+{
+  "content": "Pourquoi n'attendez-vous pas jusqu'au matin ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:n'attendez-vous"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:jusqu'au"
+    ],
+    [
+      "PART",
+      "fra:matin"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.852100Z": "SPLIT_DONE"
+  }
+}

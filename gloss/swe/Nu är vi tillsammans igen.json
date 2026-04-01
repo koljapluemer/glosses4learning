@@ -1,0 +1,35 @@
+{
+  "content": "Nu är vi tillsammans igen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Nu"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:vi"
+    ],
+    [
+      "PART",
+      "swe:tillsammans"
+    ],
+    [
+      "PART",
+      "swe:igen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.188946Z": "SPLIT_DONE"
+  }
+}

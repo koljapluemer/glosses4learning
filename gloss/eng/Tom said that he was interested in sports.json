@@ -1,0 +1,51 @@
+{
+  "content": "Tom said that he was interested in sports.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що він цікавиться спортом"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:was"
+    ],
+    [
+      "PART",
+      "eng:interested"
+    ],
+    [
+      "PART",
+      "eng:in"
+    ],
+    [
+      "PART",
+      "eng:sports"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:25.804850Z": "SPLIT_DONE"
+  }
+}

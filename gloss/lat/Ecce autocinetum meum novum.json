@@ -1,0 +1,31 @@
+{
+  "content": "Ecce autocinetum meum novum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ecce"
+    ],
+    [
+      "PART",
+      "lat:autocinetum"
+    ],
+    [
+      "PART",
+      "lat:meum"
+    ],
+    [
+      "PART",
+      "lat:novum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.639890Z": "SPLIT_DONE"
+  }
+}

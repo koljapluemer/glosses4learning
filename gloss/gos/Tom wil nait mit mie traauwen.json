@@ -1,0 +1,39 @@
+{
+  "content": "Tom wil nait mit mie traauwen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:wil"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ],
+    [
+      "PART",
+      "gos:mit"
+    ],
+    [
+      "PART",
+      "gos:mie"
+    ],
+    [
+      "PART",
+      "gos:traauwen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.345556Z": "SPLIT_DONE"
+  }
+}

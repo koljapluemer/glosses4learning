@@ -1,0 +1,39 @@
+{
+  "content": "我觉得他不在家。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GlossaMatik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I think he is not home"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:觉得"
+    ],
+    [
+      "PART",
+      "cmn:他"
+    ],
+    [
+      "PART",
+      "cmn:不"
+    ],
+    [
+      "PART",
+      "cmn:在家"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:36.983821Z": "SPLIT_DONE"
+  }
+}

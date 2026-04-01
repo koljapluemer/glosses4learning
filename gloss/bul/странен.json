@@ -1,0 +1,25 @@
+{
+  "content": "странен",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Понякога той е много странен"
+    ],
+    [
+      "TRANSLATION",
+      "eng:strange",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Понякога той може да бъде странен човек"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:56:30.558075Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Ese hombre es definitivamente un estudiante de universidad.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by helq (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ese"
+    ],
+    [
+      "PART",
+      "spa:hombre"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:definitivamente"
+    ],
+    [
+      "PART",
+      "spa:un"
+    ],
+    [
+      "PART",
+      "spa:estudiante"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:universidad"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.177232Z": "SPLIT_DONE"
+  }
+}

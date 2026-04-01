@@ -1,0 +1,39 @@
+{
+  "content": "Podívejte se, co mi Tom koupil.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Podívejte"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:mi"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:koupil"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.240817Z": "SPLIT_DONE"
+  }
+}

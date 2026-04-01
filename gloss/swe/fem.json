@@ -1,0 +1,25 @@
+{
+  "content": "fem",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Följ den här gatan i ungefär fem minuter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:five",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag kommer att vara med dig inom fem minuter"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:55.819131Z": "TRANSLATION_DONE:eng"
+  }
+}

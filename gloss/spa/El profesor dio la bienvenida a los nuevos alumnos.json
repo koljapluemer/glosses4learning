@@ -1,0 +1,51 @@
+{
+  "content": "El profesor dio la bienvenida a los nuevos alumnos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by U2FS (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:profesor"
+    ],
+    [
+      "PART",
+      "spa:dio"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:bienvenida"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:nuevos"
+    ],
+    [
+      "PART",
+      "spa:alumnos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.306827Z": "SPLIT_DONE"
+  }
+}

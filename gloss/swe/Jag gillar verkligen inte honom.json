@@ -1,0 +1,35 @@
+{
+  "content": "Jag gillar verkligen inte honom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:gillar"
+    ],
+    [
+      "PART",
+      "swe:verkligen"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:honom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.175564Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Oversett denne setningen til engelsk.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Oversett"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:setningen"
+    ],
+    [
+      "PART",
+      "nob:til"
+    ],
+    [
+      "PART",
+      "nob:engelsk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.694651Z": "SPLIT_DONE"
+  }
+}

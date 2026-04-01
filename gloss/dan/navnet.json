@@ -1,0 +1,31 @@
+{
+  "content": "navnet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi gav vores hund navnet White"
+    ],
+    [
+      "TRANSLATION",
+      "deu:der Name",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har tænkt mig at give min hund navnet Cookie"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the name",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:41.125473Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:01.282362Z": "TRANSLATION_DONE:eng"
+  }
+}

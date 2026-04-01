@@ -1,0 +1,43 @@
+{
+  "content": "There were two pieces of cake.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ArizonaJim (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:케이크 두 조각이 있다"
+    ],
+    [
+      "PART",
+      "eng:There"
+    ],
+    [
+      "PART",
+      "eng:were"
+    ],
+    [
+      "PART",
+      "eng:two"
+    ],
+    [
+      "PART",
+      "eng:pieces"
+    ],
+    [
+      "PART",
+      "eng:of"
+    ],
+    [
+      "PART",
+      "eng:cake"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:44.471627Z": "SPLIT_DONE"
+  }
+}

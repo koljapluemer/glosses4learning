@@ -1,0 +1,39 @@
+{
+  "content": "Tom houdt niet van huiswerk maken.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Raizin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:houdt"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:huiswerk"
+    ],
+    [
+      "PART",
+      "nld:maken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.007666Z": "SPLIT_DONE"
+  }
+}

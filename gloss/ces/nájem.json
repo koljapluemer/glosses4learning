@@ -1,0 +1,21 @@
+{
+  "content": "nájem",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom stále nezaplatil nájem za poslední měsíc"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rent",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:46.533555Z": "TRANSLATION_DONE:eng"
+  }
+}

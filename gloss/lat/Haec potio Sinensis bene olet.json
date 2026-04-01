@@ -1,0 +1,35 @@
+{
+  "content": "Haec potio Sinensis bene olet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:potio"
+    ],
+    [
+      "PART",
+      "lat:Sinensis"
+    ],
+    [
+      "PART",
+      "lat:bene"
+    ],
+    [
+      "PART",
+      "lat:olet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.673328Z": "SPLIT_DONE"
+  }
+}

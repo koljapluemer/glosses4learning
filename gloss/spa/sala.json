@@ -1,0 +1,31 @@
+{
+  "content": "sala",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estudiantes no pueden entrar en la sala de profesores"
+    ],
+    [
+      "TRANSLATION",
+      "eng:room",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él entró a la sala después de que tú te fuiste"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Raum",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:11.584769Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:03.248605Z": "TRANSLATION_DONE:deu"
+  }
+}

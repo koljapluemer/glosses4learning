@@ -1,0 +1,39 @@
+{
+  "content": "這是一個可怕的想法。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:這是"
+    ],
+    [
+      "PART",
+      "cmn:一個"
+    ],
+    [
+      "PART",
+      "cmn:可怕"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:想法"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:27.484791Z": "SPLIT_DONE"
+  }
+}

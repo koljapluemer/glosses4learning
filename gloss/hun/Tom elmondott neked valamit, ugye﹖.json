@@ -1,0 +1,35 @@
+{
+  "content": "Tom elmondott neked valamit, ugye?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jegaevi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:elmondott"
+    ],
+    [
+      "PART",
+      "hun:neked"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ],
+    [
+      "PART",
+      "hun:ugye"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.532069Z": "SPLIT_DONE"
+  }
+}

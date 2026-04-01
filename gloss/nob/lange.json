@@ -1,0 +1,29 @@
+{
+  "content": "lange",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Den personen har veldig lange bein"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Alle kjedet seg over den lange talen hans"
+    ],
+    [
+      "TRANSLATION",
+      "eng:long",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg er lei av de lange talene hans"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:36.598770Z": "TRANSLATION_DONE:eng"
+  }
+}

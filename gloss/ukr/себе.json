@@ -1,0 +1,35 @@
+{
+  "content": "себе",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Це ризик, який Том повинен був взяти на себе"
+    ],
+    [
+      "TRANSLATION",
+      "eng:self",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я її заховала у себе під ліжком"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Selbst",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Я її заховав у себе під ліжком"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:27.522134Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:37.164429Z": "TRANSLATION_DONE:deu"
+  }
+}

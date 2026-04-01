@@ -1,0 +1,33 @@
+{
+  "content": "niittää",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Sinun on kylvettävä, ennen kuin voit niittää"
+    ],
+    [
+      "TRANSLATION",
+      "eng:harvests",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Sinun tulee kylvää, ennen kuin voit niittää"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Sinun pitää kylvää, ennen kuin voit niittää"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Teidän on kylvettävä, ennen kuin voitte niittää"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:03.646405Z": "TRANSLATION_DONE:eng"
+  }
+}

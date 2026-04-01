@@ -2,12 +2,16 @@
   "content": "doesn't",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:29.570101Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:22.432546Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +40,36 @@
     [
       "TRANSLATION",
       "zsm:tak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he doesn't do that"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:немає",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your bedroom doesn't have even a single person in it"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~ 않다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing that doesn't look too hard"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing that doesn't look too difficult"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It doesn't matter how old you get, you can learn"
     ]
   ]
 }

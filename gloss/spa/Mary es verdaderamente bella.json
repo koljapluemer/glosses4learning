@@ -1,0 +1,31 @@
+{
+  "content": "Mary es verdaderamente bella.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arh (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Mary"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:verdaderamente"
+    ],
+    [
+      "PART",
+      "spa:bella"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.210635Z": "SPLIT_DONE"
+  }
+}

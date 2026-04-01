@@ -1,0 +1,35 @@
+{
+  "content": "Dieser Baum wirft keinen Schatten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Dieser"
+    ],
+    [
+      "PART",
+      "deu:Baum"
+    ],
+    [
+      "PART",
+      "deu:wirft"
+    ],
+    [
+      "PART",
+      "deu:keinen"
+    ],
+    [
+      "PART",
+      "deu:Schatten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.660610Z": "SPLIT_DONE"
+  }
+}

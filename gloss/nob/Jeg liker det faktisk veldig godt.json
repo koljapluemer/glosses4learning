@@ -1,0 +1,39 @@
+{
+  "content": "Jeg liker det faktisk veldig godt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Improbably (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:faktisk"
+    ],
+    [
+      "PART",
+      "nob:veldig"
+    ],
+    [
+      "PART",
+      "nob:godt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.755023Z": "SPLIT_DONE"
+  }
+}

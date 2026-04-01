@@ -2,9 +2,12 @@
   "content": "instant",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:35.070100Z": "TRANSLATION_DONE:ukr"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -38,6 +41,19 @@
     [
       "TRANSLATION",
       "fra:moment"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He finished the job in an instant"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:миттєвий",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:时刻"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Las cucarachas son animales nocturnos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Las"
+    ],
+    [
+      "PART",
+      "spa:cucarachas"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:nocturnos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.314115Z": "SPLIT_DONE"
+  }
+}

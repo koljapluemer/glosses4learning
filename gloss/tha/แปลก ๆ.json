@@ -1,0 +1,35 @@
+{
+  "content": "แปลก ๆ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:โยเกิร์ตนี้รสชาติแปลก ๆ"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ungewöhnlich",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันได้รับอีเมล์แปลก ๆ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Strange",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เมื่อคืนที่ฉันฝันแปลก ๆ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:25.993121Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:14.601526Z": "TRANSLATION_DONE:eng"
+  }
+}

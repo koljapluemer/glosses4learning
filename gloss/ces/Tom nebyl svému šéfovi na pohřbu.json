@@ -1,0 +1,39 @@
+{
+  "content": "Tom nebyl svému šéfovi na pohřbu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:nebyl"
+    ],
+    [
+      "PART",
+      "ces:svému"
+    ],
+    [
+      "PART",
+      "ces:šéfovi"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:pohřbu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.137891Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe deine neue Freundin gestern kennengelernt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ioan_Cristian (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:neue"
+    ],
+    [
+      "PART",
+      "deu:Freundin"
+    ],
+    [
+      "PART",
+      "deu:gestern"
+    ],
+    [
+      "PART",
+      "deu:kennengelernt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.813313Z": "SPLIT_DONE"
+  }
+}

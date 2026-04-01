@@ -1,0 +1,35 @@
+{
+  "content": "Når kommer Mary hjem igjen?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Når"
+    ],
+    [
+      "PART",
+      "nob:kommer"
+    ],
+    [
+      "PART",
+      "nob:Mary"
+    ],
+    [
+      "PART",
+      "nob:hjem"
+    ],
+    [
+      "PART",
+      "nob:igjen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.757761Z": "SPLIT_DONE"
+  }
+}

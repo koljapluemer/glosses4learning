@@ -1,0 +1,33 @@
+{
+  "content": "profesor",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El profesor retó severamente a sus estudiantes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El profesor dio la bienvenida a los nuevos alumnos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El profesor le hizo quedarse después de clase"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Lehrerin",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nuestro profesor dice que todo el mundo necesita Física"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:19.267501Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "pain",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:35.154260Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -76,6 +79,19 @@
     [
       "TRANSLATION",
       "gos:pien"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I have a pain in my back"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:біль",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nld:pijn"
     ]
   ]
 }

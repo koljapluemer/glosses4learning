@@ -1,0 +1,35 @@
+{
+  "content": "Vi vet ingenting om honom.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vi"
+    ],
+    [
+      "PART",
+      "swe:vet"
+    ],
+    [
+      "PART",
+      "swe:ingenting"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:honom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.170250Z": "SPLIT_DONE"
+  }
+}

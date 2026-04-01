@@ -2,9 +2,12 @@
   "content": "someone",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:24.881866Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -122,6 +125,27 @@
     [
       "TRANSLATION",
       "lat:aliquis"
+    ],
+    [
+      "TRANSLATION",
+      "ell:κάποιος"
+    ],
+    [
+      "TRANSLATION",
+      "hun:valaki"
+    ],
+    [
+      "TRANSLATION",
+      "nld:iemand"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is someone with the surname Baek"
+    ],
+    [
+      "TRANSLATION",
+      "kor:누군가",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

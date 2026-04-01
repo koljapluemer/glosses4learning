@@ -1,0 +1,43 @@
+{
+  "content": "Han beslutade att lämna in sin avskedsansökan.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:beslutade"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:lämna"
+    ],
+    [
+      "PART",
+      "swe:in"
+    ],
+    [
+      "PART",
+      "swe:sin"
+    ],
+    [
+      "PART",
+      "swe:avskedsansökan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.154994Z": "SPLIT_DONE"
+  }
+}

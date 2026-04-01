@@ -1,0 +1,43 @@
+{
+  "content": "Tom said that Mary couldn't do that.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що Мері не може цього зробити"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:couldn't"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:31.391432Z": "SPLIT_DONE"
+  }
+}

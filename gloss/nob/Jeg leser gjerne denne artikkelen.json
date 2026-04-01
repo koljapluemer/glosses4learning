@@ -1,0 +1,35 @@
+{
+  "content": "Jeg leser gjerne denne artikkelen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:leser"
+    ],
+    [
+      "PART",
+      "nob:gjerne"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:artikkelen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.711345Z": "SPLIT_DONE"
+  }
+}

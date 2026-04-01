@@ -1,0 +1,35 @@
+{
+  "content": "Tom morreu há algumas semanas.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by laetitiamg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:morreu"
+    ],
+    [
+      "PART",
+      "por:há"
+    ],
+    [
+      "PART",
+      "por:algumas"
+    ],
+    [
+      "PART",
+      "por:semanas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.904048Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Marys meningar är lätta att översätta.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Marys"
+    ],
+    [
+      "PART",
+      "swe:meningar"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:lätta"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:översätta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.062944Z": "SPLIT_DONE"
+  }
+}

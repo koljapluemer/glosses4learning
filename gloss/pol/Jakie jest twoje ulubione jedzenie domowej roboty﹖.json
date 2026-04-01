@@ -1,0 +1,43 @@
+{
+  "content": "Jakie jest twoje ulubione jedzenie domowej roboty?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jakie"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:twoje"
+    ],
+    [
+      "PART",
+      "pol:ulubione"
+    ],
+    [
+      "PART",
+      "pol:jedzenie"
+    ],
+    [
+      "PART",
+      "pol:domowej"
+    ],
+    [
+      "PART",
+      "pol:roboty"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.706179Z": "SPLIT_DONE"
+  }
+}

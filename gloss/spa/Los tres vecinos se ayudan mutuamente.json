@@ -1,0 +1,39 @@
+{
+  "content": "Los tres vecinos se ayudan mutuamente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:tres"
+    ],
+    [
+      "PART",
+      "spa:vecinos"
+    ],
+    [
+      "PART",
+      "spa:se"
+    ],
+    [
+      "PART",
+      "spa:ayudan"
+    ],
+    [
+      "PART",
+      "spa:mutuamente"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.239492Z": "SPLIT_DONE"
+  }
+}

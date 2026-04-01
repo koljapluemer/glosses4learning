@@ -1,0 +1,43 @@
+{
+  "content": "你昨天上午打了网球吗？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by DaoSeng (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Did you play tennis yesterday morning﹖"
+    ],
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:昨天上午"
+    ],
+    [
+      "PART",
+      "cmn:打"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:网球"
+    ],
+    [
+      "PART",
+      "cmn:吗"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:33.071877Z": "SPLIT_DONE"
+  }
+}

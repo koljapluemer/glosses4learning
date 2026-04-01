@@ -1,0 +1,35 @@
+{
+  "content": "Sententiam meam dicere non audeo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Sententiam"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:dicere"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:audeo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.676839Z": "SPLIT_DONE"
+  }
+}

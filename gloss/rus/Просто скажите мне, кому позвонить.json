@@ -1,0 +1,35 @@
+{
+  "content": "Просто скажите мне, кому позвонить.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Просто"
+    ],
+    [
+      "PART",
+      "rus:скажите"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:кому"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.433645Z": "SPLIT_DONE"
+  }
+}

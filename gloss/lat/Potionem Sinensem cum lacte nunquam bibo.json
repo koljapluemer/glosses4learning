@@ -1,0 +1,39 @@
+{
+  "content": "Potionem Sinensem cum lacte nunquam bibo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potionem"
+    ],
+    [
+      "PART",
+      "lat:Sinensem"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:lacte"
+    ],
+    [
+      "PART",
+      "lat:nunquam"
+    ],
+    [
+      "PART",
+      "lat:bibo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.640269Z": "SPLIT_DONE"
+  }
+}

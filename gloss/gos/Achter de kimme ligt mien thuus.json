@@ -1,0 +1,39 @@
+{
+  "content": "Achter de kimme ligt mien thuus.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Achter"
+    ],
+    [
+      "PART",
+      "gos:de"
+    ],
+    [
+      "PART",
+      "gos:kimme"
+    ],
+    [
+      "PART",
+      "gos:ligt"
+    ],
+    [
+      "PART",
+      "gos:mien"
+    ],
+    [
+      "PART",
+      "gos:thuus"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.313591Z": "SPLIT_DONE"
+  }
+}

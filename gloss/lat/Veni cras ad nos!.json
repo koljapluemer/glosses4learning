@@ -1,0 +1,35 @@
+{
+  "content": "Veni cras ad nos!",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bionicboy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Come to us tomorrow!"
+    ],
+    [
+      "PART",
+      "lat:Veni"
+    ],
+    [
+      "PART",
+      "lat:cras"
+    ],
+    [
+      "PART",
+      "lat:ad"
+    ],
+    [
+      "PART",
+      "lat:nos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:41.875765Z": "SPLIT_DONE"
+  }
+}

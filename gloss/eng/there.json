@@ -2,9 +2,12 @@
   "content": "there",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:12.358689Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -162,6 +165,47 @@
     [
       "TRANSLATION",
       "lat:ibi"
+    ],
+    [
+      "TRANSLATION",
+      "rus:туда"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there any chance that Tom will win﹖"
+    ],
+    [
+      "TRANSLATION",
+      "hun:oda"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How many eggs are there in the refrigerator﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:거기에",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:In spring, there are various blooming flowers"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there enough room for us﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She should arrive there at noon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there anybody here who speaks French﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no trust where there is no democracy"
     ]
   ]
 }

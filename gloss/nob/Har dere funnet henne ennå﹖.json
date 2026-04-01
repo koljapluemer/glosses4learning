@@ -1,0 +1,35 @@
+{
+  "content": "Har dere funnet henne ennå?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Har"
+    ],
+    [
+      "PART",
+      "nob:dere"
+    ],
+    [
+      "PART",
+      "nob:funnet"
+    ],
+    [
+      "PART",
+      "nob:henne"
+    ],
+    [
+      "PART",
+      "nob:ennå"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.682156Z": "SPLIT_DONE"
+  }
+}

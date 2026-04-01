@@ -1,0 +1,43 @@
+{
+  "content": "Amit Tom mondott Marynek, nem volt igaz.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bagonyi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Amit"
+    ],
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:mondott"
+    ],
+    [
+      "PART",
+      "hun:Marynek"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:volt"
+    ],
+    [
+      "PART",
+      "hun:igaz"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.469052Z": "SPLIT_DONE"
+  }
+}

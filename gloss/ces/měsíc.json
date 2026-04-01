@@ -1,0 +1,25 @@
+{
+  "content": "měsíc",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Za tento měsíc se ke mně třikrát vloupali"
+    ],
+    [
+      "TRANSLATION",
+      "eng:month",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom stále nezaplatil nájem za poslední měsíc"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:11.300809Z": "TRANSLATION_DONE:eng"
+  }
+}

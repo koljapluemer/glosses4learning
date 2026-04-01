@@ -1,0 +1,21 @@
+{
+  "content": "polisen",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom berättade för mig att han hade ringt polisen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the police",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:48.659465Z": "TRANSLATION_DONE:eng"
+  }
+}

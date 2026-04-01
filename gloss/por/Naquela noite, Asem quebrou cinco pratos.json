@@ -1,0 +1,39 @@
+{
+  "content": "Naquela noite, Asem quebrou cinco pratos.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carloseperola (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Naquela"
+    ],
+    [
+      "PART",
+      "por:noite"
+    ],
+    [
+      "PART",
+      "por:Asem"
+    ],
+    [
+      "PART",
+      "por:quebrou"
+    ],
+    [
+      "PART",
+      "por:cinco"
+    ],
+    [
+      "PART",
+      "por:pratos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.937311Z": "SPLIT_DONE"
+  }
+}

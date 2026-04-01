@@ -1,0 +1,47 @@
+{
+  "content": "Thomas triginta minutis post secundam horam mortuus est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:triginta"
+    ],
+    [
+      "PART",
+      "lat:minutis"
+    ],
+    [
+      "PART",
+      "lat:post"
+    ],
+    [
+      "PART",
+      "lat:secundam"
+    ],
+    [
+      "PART",
+      "lat:horam"
+    ],
+    [
+      "PART",
+      "lat:mortuus"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.638688Z": "SPLIT_DONE"
+  }
+}

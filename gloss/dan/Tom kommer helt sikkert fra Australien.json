@@ -1,0 +1,39 @@
+{
+  "content": "Tom kommer helt sikkert fra Australien.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:kommer"
+    ],
+    [
+      "PART",
+      "dan:helt"
+    ],
+    [
+      "PART",
+      "dan:sikkert"
+    ],
+    [
+      "PART",
+      "dan:fra"
+    ],
+    [
+      "PART",
+      "dan:Australien"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.398722Z": "SPLIT_DONE"
+  }
+}

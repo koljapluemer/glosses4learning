@@ -1,0 +1,31 @@
+{
+  "content": "fodrer",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi fodrer vores hund to gange om dagen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:füttert",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De fodrer deres hunde to gange om dagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:feeds",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:45.781902Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:00.200620Z": "TRANSLATION_DONE:eng"
+  }
+}

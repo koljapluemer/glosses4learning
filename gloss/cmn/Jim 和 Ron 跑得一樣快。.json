@@ -1,0 +1,47 @@
+{
+  "content": "Jim 和 Ron 跑得一樣快。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickyeow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Jim runs as fast as Ron"
+    ],
+    [
+      "PART",
+      "cmn:Jim"
+    ],
+    [
+      "PART",
+      "cmn:和"
+    ],
+    [
+      "PART",
+      "cmn:Ron"
+    ],
+    [
+      "PART",
+      "cmn:跑"
+    ],
+    [
+      "PART",
+      "cmn:得"
+    ],
+    [
+      "PART",
+      "cmn:一樣"
+    ],
+    [
+      "PART",
+      "cmn:快"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:57.625712Z": "SPLIT_DONE"
+  }
+}

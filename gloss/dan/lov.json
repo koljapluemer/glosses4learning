@@ -1,0 +1,29 @@
+{
+  "content": "lov",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han får ikke lov at komme her igen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem har givet dig lov til at sidde ved min computer﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:law",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du har ikke lov til at svømme her"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:56.686045Z": "TRANSLATION_DONE:eng"
+  }
+}

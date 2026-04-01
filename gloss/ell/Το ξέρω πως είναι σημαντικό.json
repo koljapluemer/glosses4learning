@@ -1,0 +1,35 @@
+{
+  "content": "Το ξέρω πως είναι σημαντικό.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Το"
+    ],
+    [
+      "PART",
+      "ell:ξέρω"
+    ],
+    [
+      "PART",
+      "ell:πως"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:σημαντικό"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.730496Z": "SPLIT_DONE"
+  }
+}

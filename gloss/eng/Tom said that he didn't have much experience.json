@@ -1,0 +1,51 @@
+{
+  "content": "Tom said that he didn't have much experience.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що не має багато досвіду"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:didn't"
+    ],
+    [
+      "PART",
+      "eng:have"
+    ],
+    [
+      "PART",
+      "eng:much"
+    ],
+    [
+      "PART",
+      "eng:experience"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:29.520546Z": "SPLIT_DONE"
+  }
+}

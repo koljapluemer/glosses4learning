@@ -1,0 +1,25 @@
+{
+  "content": "雨",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:雨が降るそうだ。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Rain",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:雨が降るだろうと彼がいった。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:02.281253Z": "TRANSLATION_DONE:eng"
+  }
+}

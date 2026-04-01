@@ -1,0 +1,29 @@
+{
+  "content": "staat",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie is die vrouw die daar staat﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:condition",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Is dat Toms auto die voor geparkeerd staat﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie is die man die daar staat﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:16.522998Z": "TRANSLATION_DONE:eng"
+  }
+}

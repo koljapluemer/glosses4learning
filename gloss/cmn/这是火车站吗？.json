@@ -1,0 +1,31 @@
+{
+  "content": "这是火车站吗？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by biglion (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Is that the railroad station﹖"
+    ],
+    [
+      "PART",
+      "cmn:这是"
+    ],
+    [
+      "PART",
+      "cmn:火车站"
+    ],
+    [
+      "PART",
+      "cmn:吗"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:52.920231Z": "SPLIT_DONE"
+  }
+}

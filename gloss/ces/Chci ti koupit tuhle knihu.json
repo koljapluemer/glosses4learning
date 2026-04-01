@@ -1,0 +1,39 @@
+{
+  "content": "Chci ti koupit tuhle knihu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I want to buy you this book"
+    ],
+    [
+      "PART",
+      "ces:Chci"
+    ],
+    [
+      "PART",
+      "ces:ti"
+    ],
+    [
+      "PART",
+      "ces:koupit"
+    ],
+    [
+      "PART",
+      "ces:tuhle"
+    ],
+    [
+      "PART",
+      "ces:knihu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:59.593671Z": "SPLIT_DONE"
+  }
+}

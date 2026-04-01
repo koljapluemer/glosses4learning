@@ -1,0 +1,39 @@
+{
+  "content": "neuer",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich fühle mich wie ein ganz neuer Mensch"
+    ],
+    [
+      "TRANSLATION",
+      "kor:새",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wie gefällt dir dein neuer Rechner﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:новий",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wie gefällt dir dein neuer Job﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wie gefällt euch euer neuer Rechner﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:01.995093Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T09:01:37.476754Z": "TRANSLATION_DONE:ukr"
+  }
+}

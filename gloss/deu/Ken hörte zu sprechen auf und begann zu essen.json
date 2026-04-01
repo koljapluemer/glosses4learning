@@ -1,0 +1,51 @@
+{
+  "content": "Ken hörte zu sprechen auf und begann zu essen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by meloncurtains (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Ken stopped talking and began to eat"
+    ],
+    [
+      "PART",
+      "deu:Ken"
+    ],
+    [
+      "PART",
+      "deu:hörte"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:sprechen"
+    ],
+    [
+      "PART",
+      "deu:auf"
+    ],
+    [
+      "PART",
+      "deu:und"
+    ],
+    [
+      "PART",
+      "deu:begann"
+    ],
+    [
+      "PART",
+      "deu:essen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:40.030066Z": "SPLIT_DONE"
+  }
+}

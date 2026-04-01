@@ -1,0 +1,35 @@
+{
+  "content": "Estaba enojado con sus estudiantes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JuanSamuelVB (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Estaba"
+    ],
+    [
+      "PART",
+      "spa:enojado"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:sus"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.313457Z": "SPLIT_DONE"
+  }
+}

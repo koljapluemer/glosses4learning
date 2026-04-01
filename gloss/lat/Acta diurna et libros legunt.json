@@ -1,0 +1,39 @@
+{
+  "content": "Acta diurna et libros legunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:They read newspapers and books"
+    ],
+    [
+      "PART",
+      "lat:Acta"
+    ],
+    [
+      "PART",
+      "lat:diurna"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:libros"
+    ],
+    [
+      "PART",
+      "lat:legunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:40.503819Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Elas disseram que nunca estudaram francês.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ricardo14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Elas"
+    ],
+    [
+      "PART",
+      "por:disseram"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:nunca"
+    ],
+    [
+      "PART",
+      "por:estudaram"
+    ],
+    [
+      "PART",
+      "por:francês"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:37.016636Z": "SPLIT_DONE"
+  }
+}

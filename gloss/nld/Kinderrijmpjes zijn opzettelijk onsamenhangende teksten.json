@@ -1,0 +1,35 @@
+{
+  "content": "Kinderrijmpjes zijn opzettelijk onsamenhangende teksten.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Kinderrijmpjes"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:opzettelijk"
+    ],
+    [
+      "PART",
+      "nld:onsamenhangende"
+    ],
+    [
+      "PART",
+      "nld:teksten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.075893Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Il fait un temps magnifique, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Romira (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Il"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:temps"
+    ],
+    [
+      "PART",
+      "fra:magnifique"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.876345Z": "SPLIT_DONE"
+  }
+}

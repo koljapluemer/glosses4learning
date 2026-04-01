@@ -1,0 +1,33 @@
+{
+  "content": "loquerer",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc veni ut cum Thoma loquerer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will speak",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc veni ut cum iis loquerer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc veni ut tecum loquerer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Veni ut de eo loquerer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:21.325366Z": "TRANSLATION_DONE:eng"
+  }
+}

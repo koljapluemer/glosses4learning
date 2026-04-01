@@ -2,7 +2,8 @@
   "content": "Oh.",
   "language": "eng",
   "tags": [
-    "eng:tatoeba-sentence"
+    "eng:tatoeba-sentence",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Sentence from Tatoeba by Babelball (CC-BY 2.0 FR)"
@@ -27,6 +28,18 @@
     [
       "TRANSLATION",
       "jbo:o"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Oh my God! What are you doing﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:오",
+      "Auto-translated with translategemma:4b"
     ]
-  ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:38.969014Z": "TRANSLATION_DONE:kor"
+  }
 }

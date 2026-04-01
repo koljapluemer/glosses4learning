@@ -5,6 +5,35 @@
     [
       "TRANSLATION",
       "fra:laboratoire"
+    ],
+    [
+      "TRANSLATION",
+      "ell:εργαστήριο"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They are in a scientific laboratory"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:лаціна",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:His laboratory contains all the deadliest poisons"
+    ],
+    [
+      "TRANSLATION",
+      "kor:실",
+      "Auto-translated with translategemma:4b"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-04-01T08:35:33.456210Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:32.489479Z": "TRANSLATION_DONE:kor"
+  }
 }

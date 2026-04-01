@@ -1,0 +1,39 @@
+{
+  "content": "Suche",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie sind gerade auf der Suche nach dir"
+    ],
+    [
+      "TRANSLATION",
+      "kor:검색",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sie sind auf der Suche nach dir"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er ist auf der Suche nach einer guten Arbeitsstelle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Search",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom und Mary sind auf der Suche nach einem Haus"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:57.094353Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:52:39.675724Z": "TRANSLATION_DONE:eng"
+  }
+}

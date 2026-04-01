@@ -1,0 +1,31 @@
+{
+  "content": "розмовляють",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ненавиджу людей, які так розмовляють"
+    ],
+    [
+      "TRANSLATION",
+      "eng:talking",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Якими мовами розмовляють в Америці﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:reden",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:27.264068Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:23.019289Z": "TRANSLATION_DONE:deu"
+  }
+}

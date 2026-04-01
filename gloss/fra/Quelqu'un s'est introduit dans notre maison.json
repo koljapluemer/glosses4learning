@@ -1,0 +1,39 @@
+{
+  "content": "Quelqu'un s'est introduit dans notre maison.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Adrien_FR (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:introduit"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:notre"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.581668Z": "SPLIT_DONE"
+  }
+}

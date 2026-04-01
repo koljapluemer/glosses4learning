@@ -1,0 +1,31 @@
+{
+  "content": "Onko teillä huomenna mitään?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Onko"
+    ],
+    [
+      "PART",
+      "fin:teillä"
+    ],
+    [
+      "PART",
+      "fin:huomenna"
+    ],
+    [
+      "PART",
+      "fin:mitään"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.822741Z": "SPLIT_DONE"
+  }
+}

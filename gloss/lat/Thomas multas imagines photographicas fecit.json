@@ -1,0 +1,39 @@
+{
+  "content": "Thomas multas imagines photographicas fecit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom took a lot of photographs"
+    ],
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:multas"
+    ],
+    [
+      "PART",
+      "lat:imagines"
+    ],
+    [
+      "PART",
+      "lat:photographicas"
+    ],
+    [
+      "PART",
+      "lat:fecit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:18.650998Z": "SPLIT_DONE"
+  }
+}

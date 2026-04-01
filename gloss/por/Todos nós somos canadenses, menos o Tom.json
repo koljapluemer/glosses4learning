@@ -1,0 +1,43 @@
+{
+  "content": "Todos nós somos canadenses, menos o Tom.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ricardo14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:nós"
+    ],
+    [
+      "PART",
+      "por:somos"
+    ],
+    [
+      "PART",
+      "por:canadenses"
+    ],
+    [
+      "PART",
+      "por:menos"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.893527Z": "SPLIT_DONE"
+  }
+}

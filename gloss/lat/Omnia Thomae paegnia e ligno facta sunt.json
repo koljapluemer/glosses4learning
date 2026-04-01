@@ -1,0 +1,47 @@
+{
+  "content": "Omnia Thomae paegnia e ligno facta sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom's toys are all made of wood"
+    ],
+    [
+      "PART",
+      "lat:Omnia"
+    ],
+    [
+      "PART",
+      "lat:Thomae"
+    ],
+    [
+      "PART",
+      "lat:paegnia"
+    ],
+    [
+      "PART",
+      "lat:e"
+    ],
+    [
+      "PART",
+      "lat:ligno"
+    ],
+    [
+      "PART",
+      "lat:facta"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:38.560738Z": "SPLIT_DONE"
+  }
+}

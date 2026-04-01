@@ -1,0 +1,51 @@
+{
+  "content": "Mes pieds sont plus petits que les tiens.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zmoo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Meine Füße sind kleiner als deine"
+    ],
+    [
+      "PART",
+      "fra:Mes"
+    ],
+    [
+      "PART",
+      "fra:pieds"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:plus"
+    ],
+    [
+      "PART",
+      "fra:petits"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:tiens"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:01.221518Z": "SPLIT_DONE"
+  }
+}

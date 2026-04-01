@@ -1,0 +1,35 @@
+{
+  "content": "Ist Ihnen etwas Verdachterregendes aufgefallen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ist"
+    ],
+    [
+      "PART",
+      "deu:Ihnen"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:Verdachterregendes"
+    ],
+    [
+      "PART",
+      "deu:aufgefallen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.709690Z": "SPLIT_DONE"
+  }
+}

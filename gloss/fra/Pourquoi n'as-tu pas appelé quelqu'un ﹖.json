@@ -1,0 +1,35 @@
+{
+  "content": "Pourquoi n'as-tu pas appelé quelqu'un ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:n'as-tu"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:appelé"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.569729Z": "SPLIT_DONE"
+  }
+}

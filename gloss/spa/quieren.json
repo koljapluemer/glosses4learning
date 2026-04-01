@@ -1,0 +1,25 @@
+{
+  "content": "quieren",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niños siempre quieren hacerse mayores"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no tenemos lo que quieren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they want",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:12.274444Z": "TRANSLATION_DONE:eng"
+  }
+}

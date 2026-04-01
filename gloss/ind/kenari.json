@@ -1,0 +1,21 @@
+{
+  "content": "kenari",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tom memberi tahu Mary bahwa John tidak bisa makan kacang kenari"
+    ],
+    [
+      "TRANSLATION",
+      "eng:zebra finch",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:25.345329Z": "TRANSLATION_DONE:eng"
+  }
+}

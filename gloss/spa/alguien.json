@@ -1,0 +1,47 @@
+{
+  "content": "alguien",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo sé cuando alguien me está mintiendo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:хтось",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo sé cuándo alguien me está mintiendo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pensé que alguien se había muerto"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Siento como si alguien nos estuviera observando"
+    ],
+    [
+      "TRANSLATION",
+      "deu:jemand",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Si alguien puede hacerlo, eres tú"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No se sabe si alguien le ayudó"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:09.789560Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:07.532841Z": "TRANSLATION_DONE:deu"
+  }
+}

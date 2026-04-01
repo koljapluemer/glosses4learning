@@ -1,0 +1,43 @@
+{
+  "content": "Der kleine Junge ist im Zoo.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:그 작은 소년은 동물원에 있다"
+    ],
+    [
+      "PART",
+      "deu:Der"
+    ],
+    [
+      "PART",
+      "deu:kleine"
+    ],
+    [
+      "PART",
+      "deu:Junge"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Zoo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:06.728231Z": "SPLIT_DONE"
+  }
+}

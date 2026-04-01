@@ -1,0 +1,39 @@
+{
+  "content": "Něco jsem se od Toma naučil.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Něco"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:od"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:naučil"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.179334Z": "SPLIT_DONE"
+  }
+}

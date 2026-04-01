@@ -1,0 +1,43 @@
+{
+  "content": "Tom hat ganz schön viel Geld.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:톰은 돈을 꽤 많이 갖고 있어"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:ganz"
+    ],
+    [
+      "PART",
+      "deu:schön"
+    ],
+    [
+      "PART",
+      "deu:viel"
+    ],
+    [
+      "PART",
+      "deu:Geld"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:06.922865Z": "SPLIT_DONE"
+  }
+}

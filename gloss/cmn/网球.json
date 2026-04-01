@@ -1,0 +1,31 @@
+{
+  "content": "网球",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你昨天上午打了网球吗？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tennis",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:table tennis",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ping pong",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:34.696749Z": "TRANSLATION_DONE:eng"
+  }
+}

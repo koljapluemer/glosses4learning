@@ -1,0 +1,43 @@
+{
+  "content": "Les couteaux suisses sont des outils polyvalents.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:couteaux"
+    ],
+    [
+      "PART",
+      "fra:suisses"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:outils"
+    ],
+    [
+      "PART",
+      "fra:polyvalents"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.490370Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "give",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T07:59:17.576741Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -128,6 +131,35 @@
     [
       "TRANSLATION",
       "gos:geef"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he should come, I want you to give him this document"
+    ],
+    [
+      "TRANSLATION",
+      "kor:주다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom is going to give us what we need"
+    ],
+    [
+      "TRANSLATION",
+      "por:dê"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, I'd like you to give him this paper"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, give him this paper"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Could you give me your phone number﹖"
     ]
   ]
 }

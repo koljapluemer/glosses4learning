@@ -1,0 +1,25 @@
+{
+  "content": "Canicus",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Canicus proximo anno quindecim annos natus erit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Canonical",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Proximo anno Canicus quindecim annos natus erit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:29.897693Z": "TRANSLATION_DONE:eng"
+  }
+}

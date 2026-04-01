@@ -1,0 +1,39 @@
+{
+  "content": "Sono a Boston. E anche Mary.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:a"
+    ],
+    [
+      "PART",
+      "ita:Boston"
+    ],
+    [
+      "PART",
+      "ita:E"
+    ],
+    [
+      "PART",
+      "ita:anche"
+    ],
+    [
+      "PART",
+      "ita:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.952968Z": "SPLIT_DONE"
+  }
+}

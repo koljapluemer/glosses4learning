@@ -1,0 +1,35 @@
+{
+  "content": "Jak k tomuto rozhovoru došlo?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Jak"
+    ],
+    [
+      "PART",
+      "ces:k"
+    ],
+    [
+      "PART",
+      "ces:tomuto"
+    ],
+    [
+      "PART",
+      "ces:rozhovoru"
+    ],
+    [
+      "PART",
+      "ces:došlo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.113068Z": "SPLIT_DONE"
+  }
+}

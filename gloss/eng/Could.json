@@ -2,12 +2,15 @@
   "content": "Could",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:28.689074Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -28,6 +31,19 @@
     [
       "TRANSLATION",
       "ukr:міг"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Could you give me your phone number﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~할 수 있는지",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Could you help me find my keys﹖"
     ]
   ]
 }

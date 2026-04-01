@@ -1,0 +1,21 @@
+{
+  "content": "London",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han tog til London for at lære engelsk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:London",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:11.794751Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Mitä olette aikeissa tehdä?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Mitä"
+    ],
+    [
+      "PART",
+      "fin:olette"
+    ],
+    [
+      "PART",
+      "fin:aikeissa"
+    ],
+    [
+      "PART",
+      "fin:tehdä"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.859485Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "\"Quantos anos você tem?\" \"Dezesseis.\"",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Quantos"
+    ],
+    [
+      "PART",
+      "por:anos"
+    ],
+    [
+      "PART",
+      "por:você"
+    ],
+    [
+      "PART",
+      "por:tem"
+    ],
+    [
+      "PART",
+      "por:Dezesseis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.925426Z": "SPLIT_DONE"
+  }
+}

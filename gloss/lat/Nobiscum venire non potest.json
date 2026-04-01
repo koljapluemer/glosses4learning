@@ -1,0 +1,31 @@
+{
+  "content": "Nobiscum venire non potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nobiscum"
+    ],
+    [
+      "PART",
+      "lat:venire"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.653854Z": "SPLIT_DONE"
+  }
+}

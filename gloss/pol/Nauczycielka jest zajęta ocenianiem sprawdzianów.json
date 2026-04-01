@@ -1,0 +1,35 @@
+{
+  "content": "Nauczycielka jest zajęta ocenianiem sprawdzianów.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nauczycielka"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:zajęta"
+    ],
+    [
+      "PART",
+      "pol:ocenianiem"
+    ],
+    [
+      "PART",
+      "pol:sprawdzianów"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.796183Z": "SPLIT_DONE"
+  }
+}

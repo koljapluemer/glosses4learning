@@ -1,0 +1,39 @@
+{
+  "content": "แม่น้ำ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เราสนุกกับการว่ายน้ำในแม่น้ำ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:แม่น้ำแห้งขอด"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fluss",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:แม่น้ำไหล"
+    ],
+    [
+      "TRANSLATION",
+      "eng:River",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:แม่น้ำสายนี้กว้างเท่าไหร่﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:35.688066Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:20.504888Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "We hebben geen zout meer.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:We"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:zout"
+    ],
+    [
+      "PART",
+      "nld:meer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.096793Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "собиралась",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я собиралась позвонить Тому"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я собиралась сегодня ему позвонить"
+    ],
+    [
+      "TRANSLATION",
+      "eng:was planning",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я собиралась ему позвонить сегодня"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:19.898343Z": "TRANSLATION_DONE:eng"
+  }
+}

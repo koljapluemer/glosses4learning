@@ -1,0 +1,21 @@
+{
+  "content": "artist",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:Wow, you totally look like an artist"
+    ],
+    [
+      "TRANSLATION",
+      "kor:예술가",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:41.058479Z": "TRANSLATION_DONE:kor"
+  }
+}

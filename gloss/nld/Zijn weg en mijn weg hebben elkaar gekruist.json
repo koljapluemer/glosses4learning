@@ -1,0 +1,43 @@
+{
+  "content": "Zijn weg en mijn weg hebben elkaar gekruist.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zijn"
+    ],
+    [
+      "PART",
+      "nld:weg"
+    ],
+    [
+      "PART",
+      "nld:en"
+    ],
+    [
+      "PART",
+      "nld:mijn"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:elkaar"
+    ],
+    [
+      "PART",
+      "nld:gekruist"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.013929Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Wir haben heute keine Hausaufgaben bekommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:keine"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:bekommen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.745252Z": "SPLIT_DONE"
+  }
+}

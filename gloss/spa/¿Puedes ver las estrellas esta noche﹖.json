@@ -1,0 +1,39 @@
+{
+  "content": "¿Puedes ver las estrellas esta noche?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Seael (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Puedes"
+    ],
+    [
+      "PART",
+      "spa:ver"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:estrellas"
+    ],
+    [
+      "PART",
+      "spa:esta"
+    ],
+    [
+      "PART",
+      "spa:noche"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.206729Z": "SPLIT_DONE"
+  }
+}

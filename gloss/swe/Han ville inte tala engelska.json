@@ -1,0 +1,35 @@
+{
+  "content": "Han ville inte tala engelska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:ville"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:tala"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.109294Z": "SPLIT_DONE"
+  }
+}

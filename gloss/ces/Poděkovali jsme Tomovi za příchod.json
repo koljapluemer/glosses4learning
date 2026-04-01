@@ -1,0 +1,35 @@
+{
+  "content": "Poděkovali jsme Tomovi za příchod.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Poděkovali"
+    ],
+    [
+      "PART",
+      "ces:jsme"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:příchod"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.251502Z": "SPLIT_DONE"
+  }
+}

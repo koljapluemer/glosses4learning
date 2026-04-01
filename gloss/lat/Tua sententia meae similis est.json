@@ -1,0 +1,35 @@
+{
+  "content": "Tua sententia meae similis est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Tua"
+    ],
+    [
+      "PART",
+      "lat:sententia"
+    ],
+    [
+      "PART",
+      "lat:meae"
+    ],
+    [
+      "PART",
+      "lat:similis"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.655305Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "這是瑪麗的狗。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is Mary's dog"
+    ],
+    [
+      "PART",
+      "cmn:這是"
+    ],
+    [
+      "PART",
+      "cmn:瑪麗"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:狗"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:29.827755Z": "SPLIT_DONE"
+  }
+}

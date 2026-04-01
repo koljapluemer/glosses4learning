@@ -1,0 +1,21 @@
+{
+  "content": "series",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunas personas miraban series de televisión todas las noches"
+    ],
+    [
+      "TRANSLATION",
+      "eng:series",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:07:29.232788Z": "TRANSLATION_DONE:eng"
+  }
+}

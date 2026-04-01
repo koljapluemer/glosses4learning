@@ -4,9 +4,12 @@
   "transcriptions": {},
   "logs": {
     "2025-12-16T14:22:09.169Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-16T14:22:21.772Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-16T14:22:21.772Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T09:01:35.336765Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +27,23 @@
     [
       "TRANSLATION",
       "eng:Exists"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Gibt es etwas, was Sie nicht verstanden haben﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Gibt es intelligentes Leben auf der Erde﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Існує",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Gibt es hier etwas zu trinken﹖"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Doe kloagdest as kind aalweg.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Doe"
+    ],
+    [
+      "PART",
+      "gos:kloagdest"
+    ],
+    [
+      "PART",
+      "gos:as"
+    ],
+    [
+      "PART",
+      "gos:kind"
+    ],
+    [
+      "PART",
+      "gos:aalweg"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.331445Z": "SPLIT_DONE"
+  }
+}

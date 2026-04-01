@@ -1,0 +1,31 @@
+{
+  "content": "Ezt mindenkinek tudnia kell.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kiseva33 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Ezt"
+    ],
+    [
+      "PART",
+      "hun:mindenkinek"
+    ],
+    [
+      "PART",
+      "hun:tudnia"
+    ],
+    [
+      "PART",
+      "hun:kell"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.471948Z": "SPLIT_DONE"
+  }
+}

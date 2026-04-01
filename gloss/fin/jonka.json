@@ -3,7 +3,9 @@
   "language": "fin",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -29,6 +31,10 @@
     [
       "TRANSLATION",
       "eng:of which"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:On yksi asia, jonka haluan kertoa sinulle"
     ]
   ]
 }

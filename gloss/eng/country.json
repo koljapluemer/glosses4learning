@@ -2,12 +2,15 @@
   "content": "country",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:34.538020Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -104,6 +107,31 @@
     [
       "TRANSLATION",
       "tok:ma"
+    ],
+    [
+      "TRANSLATION",
+      "gos:laand"
+    ],
+    [
+      "TRANSLATION",
+      "ces:zemi"
+    ],
+    [
+      "TRANSLATION",
+      "ces:země"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What time is it in your country﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Країна",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "epo:lando"
     ]
   ]
 }

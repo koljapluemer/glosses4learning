@@ -1,0 +1,43 @@
+{
+  "content": "Mary powiedziała że jej to nie dziwi.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MCcommand (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:powiedziała"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:jej"
+    ],
+    [
+      "PART",
+      "pol:to"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:dziwi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.769783Z": "SPLIT_DONE"
+  }
+}

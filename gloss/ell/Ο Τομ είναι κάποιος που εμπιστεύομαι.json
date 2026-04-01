@@ -1,0 +1,39 @@
+{
+  "content": "Ο Τομ είναι κάποιος που εμπιστεύομαι.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Ο"
+    ],
+    [
+      "PART",
+      "ell:Τομ"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:κάποιος"
+    ],
+    [
+      "PART",
+      "ell:που"
+    ],
+    [
+      "PART",
+      "ell:εμπιστεύομαι"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.894952Z": "SPLIT_DONE"
+  }
+}

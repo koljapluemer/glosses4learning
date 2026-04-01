@@ -2,12 +2,15 @@
   "content": "limit",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:50.610138Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +23,15 @@
     [
       "TRANSLATION",
       "pol:granicę"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no limit to human desire"
+    ],
+    [
+      "TRANSLATION",
+      "kor:제한",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "unas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No tenemos miedo de unas nuevas elecciones"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los pastores alemanes tienen unas bonitas colas peludas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sé más que unas cuantas palabras"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:декілька",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Quiero hacerte unas preguntas con respecto a Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:einige",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:27.163591Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:28.655973Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Est-ce que tu connais cette expression française ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:connais"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:expression"
+    ],
+    [
+      "PART",
+      "fra:française"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.834726Z": "SPLIT_DONE"
+  }
+}

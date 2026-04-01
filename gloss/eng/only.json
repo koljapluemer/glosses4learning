@@ -2,9 +2,12 @@
   "content": "only",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:16.619183Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -165,6 +168,51 @@
     [
       "TRANSLATION",
       "tok:taso"
+    ],
+    [
+      "TRANSLATION",
+      "spa:sólo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:лише"
+    ],
+    [
+      "TRANSLATION",
+      "swe:enda"
+    ],
+    [
+      "TRANSLATION",
+      "ell:μόνο"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:刚"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:唯一"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:只有"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:po'o"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There was only one swallow in the nest"
+    ],
+    [
+      "TRANSLATION",
+      "kor:단지",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You can only see what you like the most"
     ]
   ]
 }

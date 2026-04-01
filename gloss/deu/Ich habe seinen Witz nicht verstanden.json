@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe seinen Witz nicht verstanden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by samueldora (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Witz"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:verstanden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.718981Z": "SPLIT_DONE"
+  }
+}

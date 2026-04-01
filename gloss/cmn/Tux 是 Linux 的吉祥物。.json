@@ -1,0 +1,39 @@
+{
+  "content": "Tux 是 Linux 的吉祥物。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sadhen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tux is the mascot for Linux"
+    ],
+    [
+      "PART",
+      "cmn:Tux"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:Linux"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:吉祥物"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:13.803753Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "content": "ci",
+  "language": "jbo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jbo:li pai du li ci pi pa vo pa mu so ji'i"
+    ],
+    [
+      "TRANSLATION",
+      "eng:three",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:3",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jbo:co'a morsi bu'u la devoncir de'i li vu'u pi'e pi'e ci"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:46:42.607461Z": "TRANSLATION_DONE:eng"
+  }
+}

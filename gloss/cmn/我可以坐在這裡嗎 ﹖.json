@@ -1,0 +1,39 @@
+{
+  "content": "我可以坐在這裡嗎 ?",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mimosawang (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:May I sit here ﹖"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:可以"
+    ],
+    [
+      "PART",
+      "cmn:坐在"
+    ],
+    [
+      "PART",
+      "cmn:這裡"
+    ],
+    [
+      "PART",
+      "cmn:嗎"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:48.508503Z": "SPLIT_DONE"
+  }
+}

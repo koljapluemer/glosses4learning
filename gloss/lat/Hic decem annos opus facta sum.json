@@ -1,0 +1,43 @@
+{
+  "content": "Hic decem annos opus facta sum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I've worked here for ten years"
+    ],
+    [
+      "PART",
+      "lat:Hic"
+    ],
+    [
+      "PART",
+      "lat:decem"
+    ],
+    [
+      "PART",
+      "lat:annos"
+    ],
+    [
+      "PART",
+      "lat:opus"
+    ],
+    [
+      "PART",
+      "lat:facta"
+    ],
+    [
+      "PART",
+      "lat:sum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:01.719005Z": "SPLIT_DONE"
+  }
+}

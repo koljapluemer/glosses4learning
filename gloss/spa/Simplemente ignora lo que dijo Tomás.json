@@ -1,0 +1,39 @@
+{
+  "content": "Simplemente ignora lo que dijo Tomás.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alegarvid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Simplemente"
+    ],
+    [
+      "PART",
+      "spa:ignora"
+    ],
+    [
+      "PART",
+      "spa:lo"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:dijo"
+    ],
+    [
+      "PART",
+      "spa:Tomás"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.192413Z": "SPLIT_DONE"
+  }
+}

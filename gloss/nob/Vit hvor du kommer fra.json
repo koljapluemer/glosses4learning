@@ -1,0 +1,35 @@
+{
+  "content": "Vit hvor du kommer fra.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by johankjorstad (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Vit"
+    ],
+    [
+      "PART",
+      "nob:hvor"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:kommer"
+    ],
+    [
+      "PART",
+      "nob:fra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.782880Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "живее",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Тя иска да живее в града"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lives",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Не е възможно Джон да живее в Лондон сега"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Брат ми живее в едно малко село"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:56:24.555836Z": "TRANSLATION_DONE:eng"
+  }
+}

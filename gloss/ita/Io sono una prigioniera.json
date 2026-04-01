@@ -1,0 +1,31 @@
+{
+  "content": "Io sono una prigioniera.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Io"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:una"
+    ],
+    [
+      "PART",
+      "ita:prigioniera"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.865336Z": "SPLIT_DONE"
+  }
+}

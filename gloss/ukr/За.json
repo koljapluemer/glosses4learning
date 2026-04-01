@@ -1,0 +1,39 @@
+{
+  "content": "За",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:За даних обставин я не можу нічого зробити"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Po",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:За що її всі так ненавидять﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Po",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:За що її всі настільки ненавидять﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:За які гроші ти житимеш﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:17.908315Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:05.490008Z": "TRANSLATION_DONE:deu"
+  }
+}

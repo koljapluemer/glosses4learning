@@ -1,0 +1,31 @@
+{
+  "content": "Tom tok noen bilder.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:tok"
+    ],
+    [
+      "PART",
+      "nob:noen"
+    ],
+    [
+      "PART",
+      "nob:bilder"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.679503Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Dia suka mendengar dirinya sendiri berbicara.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Dia"
+    ],
+    [
+      "PART",
+      "ind:suka"
+    ],
+    [
+      "PART",
+      "ind:mendengar"
+    ],
+    [
+      "PART",
+      "ind:dirinya"
+    ],
+    [
+      "PART",
+      "ind:sendiri"
+    ],
+    [
+      "PART",
+      "ind:berbicara"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.478601Z": "SPLIT_DONE"
+  }
+}

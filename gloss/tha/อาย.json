@@ -1,0 +1,39 @@
+{
+  "content": "อาย",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันอายุ 18 ปี"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alter",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันอายุ 20 ปี"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมเสียชีวิตเมื่ออายุ 97 ปี"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณรู้ไหมว่าทอมอายุเท่าไหร่"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Age",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:27.750714Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:31.177439Z": "TRANSLATION_DONE:eng"
+  }
+}

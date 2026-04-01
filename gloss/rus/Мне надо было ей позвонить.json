@@ -1,0 +1,35 @@
+{
+  "content": "Мне надо было ей позвонить.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:надо"
+    ],
+    [
+      "PART",
+      "rus:было"
+    ],
+    [
+      "PART",
+      "rus:ей"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.396325Z": "SPLIT_DONE"
+  }
+}

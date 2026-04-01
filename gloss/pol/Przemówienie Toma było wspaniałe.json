@@ -1,0 +1,31 @@
+{
+  "content": "Przemówienie Toma było wspaniałe.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilberry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Przemówienie"
+    ],
+    [
+      "PART",
+      "pol:Toma"
+    ],
+    [
+      "PART",
+      "pol:było"
+    ],
+    [
+      "PART",
+      "pol:wspaniałe"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.779616Z": "SPLIT_DONE"
+  }
+}

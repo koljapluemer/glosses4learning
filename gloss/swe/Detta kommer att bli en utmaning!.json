@@ -1,0 +1,43 @@
+{
+  "content": "Detta kommer att bli en utmaning!",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is going to be a challenge!"
+    ],
+    [
+      "PART",
+      "swe:Detta"
+    ],
+    [
+      "PART",
+      "swe:kommer"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:bli"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:utmaning"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:53.290046Z": "SPLIT_DONE"
+  }
+}

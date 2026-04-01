@@ -1,0 +1,39 @@
+{
+  "content": "Kinderen houden van pasta in tomatensaus.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Kinderen"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:pasta"
+    ],
+    [
+      "PART",
+      "nld:in"
+    ],
+    [
+      "PART",
+      "nld:tomatensaus"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.039038Z": "SPLIT_DONE"
+  }
+}

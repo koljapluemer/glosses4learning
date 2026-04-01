@@ -1,0 +1,39 @@
+{
+  "content": "lang",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har set den film for lang tid siden"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lang",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg besluttede mig for at studere hele natten lang"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg så den film for lang tid siden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:long",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den nye bro bliver én og en halv kilometer lang"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:35.040714Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:09.211685Z": "TRANSLATION_DONE:eng"
+  }
+}

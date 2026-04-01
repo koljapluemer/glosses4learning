@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe seine Tochter weinen gesehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by killaz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Tochter"
+    ],
+    [
+      "PART",
+      "deu:weinen"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.778992Z": "SPLIT_DONE"
+  }
+}

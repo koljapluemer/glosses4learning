@@ -1,0 +1,35 @@
+{
+  "content": "Το διάβασα στην οικογένειά μου.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Το"
+    ],
+    [
+      "PART",
+      "ell:διάβασα"
+    ],
+    [
+      "PART",
+      "ell:στην"
+    ],
+    [
+      "PART",
+      "ell:οικογένειά"
+    ],
+    [
+      "PART",
+      "ell:μου"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.747930Z": "SPLIT_DONE"
+  }
+}

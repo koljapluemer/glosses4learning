@@ -1,0 +1,43 @@
+{
+  "content": "\"Me encantan los árboles\", dijo la ardilla.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by cueyayotl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:encantan"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:árboles"
+    ],
+    [
+      "PART",
+      "spa:dijo"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:ardilla"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.284148Z": "SPLIT_DONE"
+  }
+}

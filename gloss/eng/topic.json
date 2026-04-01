@@ -2,9 +2,12 @@
   "content": "topic",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:32.078921Z": "TRANSLATION_DONE:ukr"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -50,6 +53,19 @@
     [
       "TRANSLATION",
       "fra:sujet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:No one is interested in this topic"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Головна",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "pol:temat"
     ]
   ]
 }

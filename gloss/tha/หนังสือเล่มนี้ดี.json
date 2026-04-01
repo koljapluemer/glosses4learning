@@ -1,0 +1,35 @@
+{
+  "content": "หนังสือเล่มนี้ดี",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This book is good"
+    ],
+    [
+      "PART",
+      "tha:หนังสือ"
+    ],
+    [
+      "PART",
+      "tha:เล่ม"
+    ],
+    [
+      "PART",
+      "tha:น"
+    ],
+    [
+      "PART",
+      "tha:ด"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:06:29.872015Z": "SPLIT_DONE"
+  }
+}

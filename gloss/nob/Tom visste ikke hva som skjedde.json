@@ -1,0 +1,39 @@
+{
+  "content": "Tom visste ikke hva som skjedde.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HeBerbom (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:visste"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:hva"
+    ],
+    [
+      "PART",
+      "nob:som"
+    ],
+    [
+      "PART",
+      "nob:skjedde"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.670800Z": "SPLIT_DONE"
+  }
+}

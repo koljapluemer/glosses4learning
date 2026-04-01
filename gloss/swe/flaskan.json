@@ -1,0 +1,21 @@
+{
+  "content": "flaskan",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det finns inget vatten kvar i flaskan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the bottle",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:17.922425Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "CakePHP 是 PHP 框架。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:CakePHP is a PHP framework"
+    ],
+    [
+      "PART",
+      "cmn:CakePHP"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:PHP"
+    ],
+    [
+      "PART",
+      "cmn:框架"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:10.317219Z": "SPLIT_DONE"
+  }
+}

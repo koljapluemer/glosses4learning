@@ -1,0 +1,39 @@
+{
+  "content": "Alle de bøkene er mine.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:All those books are mine"
+    ],
+    [
+      "PART",
+      "nob:Alle"
+    ],
+    [
+      "PART",
+      "nob:de"
+    ],
+    [
+      "PART",
+      "nob:bøkene"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:mine"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:12.012649Z": "SPLIT_DONE"
+  }
+}

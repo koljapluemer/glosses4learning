@@ -2,12 +2,15 @@
   "content": "even",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:22.602654Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -60,6 +63,23 @@
     [
       "TRANSLATION",
       "ind:bahkan"
+    ],
+    [
+      "TRANSLATION",
+      "spa:incluso"
+    ],
+    [
+      "TRANSLATION",
+      "epo:eĉ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your bedroom doesn't have even a single person in it"
+    ],
+    [
+      "TRANSLATION",
+      "kor:심지어",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

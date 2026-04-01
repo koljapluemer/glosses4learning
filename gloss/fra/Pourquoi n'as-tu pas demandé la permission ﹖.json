@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi n'as-tu pas demandé la permission ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:n'as-tu"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:demandé"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:permission"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.850067Z": "SPLIT_DONE"
+  }
+}

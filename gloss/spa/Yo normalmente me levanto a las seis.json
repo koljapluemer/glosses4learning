@@ -1,0 +1,43 @@
+{
+  "content": "Yo normalmente me levanto a las seis.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Yo"
+    ],
+    [
+      "PART",
+      "spa:normalmente"
+    ],
+    [
+      "PART",
+      "spa:me"
+    ],
+    [
+      "PART",
+      "spa:levanto"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:seis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.203410Z": "SPLIT_DONE"
+  }
+}

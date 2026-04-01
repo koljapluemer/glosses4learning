@@ -1,0 +1,43 @@
+{
+  "content": "Wszyscy z nas mówią po francusku.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:All of us speak French"
+    ],
+    [
+      "PART",
+      "pol:Wszyscy"
+    ],
+    [
+      "PART",
+      "pol:z"
+    ],
+    [
+      "PART",
+      "pol:nas"
+    ],
+    [
+      "PART",
+      "pol:mówią"
+    ],
+    [
+      "PART",
+      "pol:po"
+    ],
+    [
+      "PART",
+      "pol:francusku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:16.163919Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Она сказала мне, что позвонит мне.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She told me that she'd call me"
+    ],
+    [
+      "PART",
+      "rus:Она"
+    ],
+    [
+      "PART",
+      "rus:сказала"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:позвонит"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:25.493583Z": "SPLIT_DONE"
+  }
+}

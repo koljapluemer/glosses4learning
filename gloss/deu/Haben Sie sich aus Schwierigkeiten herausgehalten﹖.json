@@ -1,0 +1,39 @@
+{
+  "content": "Haben Sie sich aus Schwierigkeiten herausgehalten?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:aus"
+    ],
+    [
+      "PART",
+      "deu:Schwierigkeiten"
+    ],
+    [
+      "PART",
+      "deu:herausgehalten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.799995Z": "SPLIT_DONE"
+  }
+}

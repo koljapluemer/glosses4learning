@@ -1,0 +1,35 @@
+{
+  "content": "Jag skulle vilja veta varför.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CannedBread (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:skulle"
+    ],
+    [
+      "PART",
+      "swe:vilja"
+    ],
+    [
+      "PART",
+      "swe:veta"
+    ],
+    [
+      "PART",
+      "swe:varför"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.196545Z": "SPLIT_DONE"
+  }
+}

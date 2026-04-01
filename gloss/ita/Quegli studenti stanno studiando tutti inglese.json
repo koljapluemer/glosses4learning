@@ -1,0 +1,39 @@
+{
+  "content": "Quegli studenti stanno studiando tutti inglese.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Quegli"
+    ],
+    [
+      "PART",
+      "ita:studenti"
+    ],
+    [
+      "PART",
+      "ita:stanno"
+    ],
+    [
+      "PART",
+      "ita:studiando"
+    ],
+    [
+      "PART",
+      "ita:tutti"
+    ],
+    [
+      "PART",
+      "ita:inglese"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.818066Z": "SPLIT_DONE"
+  }
+}

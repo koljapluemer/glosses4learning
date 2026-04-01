@@ -1,0 +1,43 @@
+{
+  "content": "Ten więzień wczoraj wyszedł na wolność.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zipangu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Those prisoners were set free yesterday"
+    ],
+    [
+      "PART",
+      "pol:Ten"
+    ],
+    [
+      "PART",
+      "pol:więzień"
+    ],
+    [
+      "PART",
+      "pol:wczoraj"
+    ],
+    [
+      "PART",
+      "pol:wyszedł"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:wolność"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:32.652376Z": "SPLIT_DONE"
+  }
+}

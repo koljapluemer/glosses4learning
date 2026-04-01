@@ -2,8 +2,12 @@
   "content": "you're",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:04:53.008502Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +40,15 @@
     [
       "TRANSLATION",
       "gos:wast"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If you're sleepy, you should go to bed"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신은",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

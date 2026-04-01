@@ -1,0 +1,39 @@
+{
+  "content": "Azt mondta Tom, már majdnem feladta.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Azt"
+    ],
+    [
+      "PART",
+      "hun:mondta"
+    ],
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:már"
+    ],
+    [
+      "PART",
+      "hun:majdnem"
+    ],
+    [
+      "PART",
+      "hun:feladta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.533896Z": "SPLIT_DONE"
+  }
+}

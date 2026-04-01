@@ -1,0 +1,31 @@
+{
+  "content": "路上没什么车 。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GlossaMatik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:There are no cars on the street"
+    ],
+    [
+      "PART",
+      "cmn:路上"
+    ],
+    [
+      "PART",
+      "cmn:没什么"
+    ],
+    [
+      "PART",
+      "cmn:车"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:26.010099Z": "SPLIT_DONE"
+  }
+}

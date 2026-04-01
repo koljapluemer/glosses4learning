@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:39:50.822194Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:39:50.822194Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:22.788735Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -59,6 +61,23 @@
     [
       "TRANSLATION",
       "tok:wan"
+    ],
+    [
+      "TRANSLATION",
+      "ces:jedním"
+    ],
+    [
+      "TRANSLATION",
+      "nld:enkel"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your bedroom doesn't have even a single person in it"
+    ],
+    [
+      "TRANSLATION",
+      "kor:단일",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

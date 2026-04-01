@@ -1,0 +1,39 @@
+{
+  "content": "Parentes nostri convenire nos non sinunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Parentes"
+    ],
+    [
+      "PART",
+      "lat:nostri"
+    ],
+    [
+      "PART",
+      "lat:convenire"
+    ],
+    [
+      "PART",
+      "lat:nos"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:sinunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.658916Z": "SPLIT_DONE"
+  }
+}

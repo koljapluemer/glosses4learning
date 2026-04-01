@@ -1,0 +1,21 @@
+{
+  "content": "risk",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det finns en risk för att han inte kommer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:risk",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:14.247379Z": "TRANSLATION_DONE:eng"
+  }
+}

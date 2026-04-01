@@ -2,12 +2,47 @@
   "content": "Cómo",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:30:22.550355Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:08.834134Z": "TRANSLATION_DONE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:How"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Cómo te dicen tus amigos﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Як",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Cómo es que siempre estás tan lleno de energía﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Wie",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todo estaba cerrado con llave. ¿Cómo escapó﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Cómo es que tienes tan buena pronunciación en inglés﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Cómo me gustaría que ya fuera fin de semana"
     ]
   ]
 }

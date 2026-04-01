@@ -2,9 +2,12 @@
   "content": "difficult",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:33.730989Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -90,6 +93,51 @@
     [
       "TRANSLATION",
       "tok:ike"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:складно"
+    ],
+    [
+      "TRANSLATION",
+      "ind:sulit"
+    ],
+    [
+      "TRANSLATION",
+      "ind:sukar"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:难"
+    ],
+    [
+      "TRANSLATION",
+      "jpn:にくい"
+    ],
+    [
+      "TRANSLATION",
+      "dan:svært"
+    ],
+    [
+      "TRANSLATION",
+      "dan:vanskeligt"
+    ],
+    [
+      "TRANSLATION",
+      "nld:hard"
+    ],
+    [
+      "TRANSLATION",
+      "pol:ciężko"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing that doesn't look too difficult"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어려운",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

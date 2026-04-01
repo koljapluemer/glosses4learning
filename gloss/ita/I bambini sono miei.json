@@ -1,0 +1,31 @@
+{
+  "content": "I bambini sono miei.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:I"
+    ],
+    [
+      "PART",
+      "ita:bambini"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:miei"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:01.042801Z": "SPLIT_DONE"
+  }
+}

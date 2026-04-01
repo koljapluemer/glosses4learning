@@ -1,0 +1,39 @@
+{
+  "content": "Majd ha piros hó esik!",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:When pigs fly!"
+    ],
+    [
+      "PART",
+      "hun:Majd"
+    ],
+    [
+      "PART",
+      "hun:ha"
+    ],
+    [
+      "PART",
+      "hun:piros"
+    ],
+    [
+      "PART",
+      "hun:hó"
+    ],
+    [
+      "PART",
+      "hun:esik"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:36:33.069578Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Mindent megtett, amit tudott.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mindent"
+    ],
+    [
+      "PART",
+      "hun:megtett"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:tudott"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.532491Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Sami właśnie zapłacił za samochód.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by michaelszymczak (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Sami has just paid for the car"
+    ],
+    [
+      "PART",
+      "pol:Sami"
+    ],
+    [
+      "PART",
+      "pol:właśnie"
+    ],
+    [
+      "PART",
+      "pol:zapłacił"
+    ],
+    [
+      "PART",
+      "pol:za"
+    ],
+    [
+      "PART",
+      "pol:samochód"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:20.628478Z": "SPLIT_DONE"
+  }
+}

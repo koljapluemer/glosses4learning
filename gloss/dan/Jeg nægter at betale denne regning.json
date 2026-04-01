@@ -1,0 +1,39 @@
+{
+  "content": "Jeg nægter at betale denne regning.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:nægter"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:betale"
+    ],
+    [
+      "PART",
+      "dan:denne"
+    ],
+    [
+      "PART",
+      "dan:regning"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.408325Z": "SPLIT_DONE"
+  }
+}

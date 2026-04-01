@@ -1,0 +1,29 @@
+{
+  "content": "precies",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ze weten niet precies waarom ze hier zijn"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Jouw koffer lijkt precies op die van mij"
+    ],
+    [
+      "TRANSLATION",
+      "eng:exactly",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Hij ziet er precies zo uit als zijn oudere broer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:20.905979Z": "TRANSLATION_DONE:eng"
+  }
+}

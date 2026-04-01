@@ -1,0 +1,29 @@
+{
+  "content": "hoe",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Kijk eens hoe die bal stuitert"
+    ],
+    [
+      "TRANSLATION",
+      "eng:how",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Die cijfers laten zien hoe hard ik werk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Je kan je niet inbeelden hoe blij ze was"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:17.613810Z": "TRANSLATION_DONE:eng"
+  }
+}

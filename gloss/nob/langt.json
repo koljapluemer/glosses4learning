@@ -1,0 +1,33 @@
+{
+  "content": "langt",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom ville ikke ha gått så langt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Ligger skolen din langt fra der du bor﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:far",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hvorfor ligger vi så langt på bak﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun er langt fra ærlig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:40.479782Z": "TRANSLATION_DONE:eng"
+  }
+}

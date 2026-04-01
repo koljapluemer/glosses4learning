@@ -5,12 +5,17 @@
     "eng:tatoeba-sentence"
   ],
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
   ],
   "relationships": [
     [
       "TRANSLATION",
       "ita:Ora mia figlia ha paura di me"
+    ],
+    [
+      "TRANSLATION",
+      "por:Agora a minha filha tem medo de mim"
     ]
   ]
 }

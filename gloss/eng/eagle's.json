@@ -1,0 +1,21 @@
+{
+  "content": "eagle's",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:One of the eagle's wings is broken"
+    ],
+    [
+      "TRANSLATION",
+      "kor:독수리의",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:45.404878Z": "TRANSLATION_DONE:kor"
+  }
+}

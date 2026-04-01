@@ -1,0 +1,21 @@
+{
+  "content": "kvar",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det finns inget vatten kvar i flaskan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:remaining",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:17.744310Z": "TRANSLATION_DONE:eng"
+  }
+}

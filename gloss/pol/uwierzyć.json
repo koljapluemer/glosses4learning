@@ -1,0 +1,29 @@
+{
+  "content": "uwierzyć",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom nie może uwierzyć w to, co właśnie zobaczył"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to believe",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom nie może uwierzyć w to, co właśnie zrobił"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Tom nie może uwierzyć w to, co właśnie usłyszał"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:29.527038Z": "TRANSLATION_DONE:eng"
+  }
+}

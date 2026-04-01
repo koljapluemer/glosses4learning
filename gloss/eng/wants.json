@@ -2,9 +2,12 @@
   "content": "wants",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:34.512726Z": "TRANSLATION_DONE:ukr"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -54,6 +57,19 @@
     [
       "TRANSLATION",
       "lat:desideret"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He wants to live in the city"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Привітання",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nld:wilt"
     ]
   ]
 }

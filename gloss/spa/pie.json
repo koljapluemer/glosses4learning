@@ -1,0 +1,33 @@
+{
+  "content": "pie",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los estudiantes vienen a la escuela de a pie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ponte de pie cuando digan tu nombre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Fuß",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ponte de pie cuando te llamen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La chica que está allí de pie es Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:11.415965Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Thomae meis verbis salutem adscribe.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomae"
+    ],
+    [
+      "PART",
+      "lat:meis"
+    ],
+    [
+      "PART",
+      "lat:verbis"
+    ],
+    [
+      "PART",
+      "lat:salutem"
+    ],
+    [
+      "PART",
+      "lat:adscribe"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.710834Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Мэри сказала, что она этому верит.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мэри"
+    ],
+    [
+      "PART",
+      "rus:сказала"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:она"
+    ],
+    [
+      "PART",
+      "rus:этому"
+    ],
+    [
+      "PART",
+      "rus:верит"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.425540Z": "SPLIT_DONE"
+  }
+}

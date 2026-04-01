@@ -1,0 +1,25 @@
+{
+  "content": "tareas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy recién terminando algunas tareas del colegio"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tenía que ayudar con las tareas domésticas"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufgaben",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:31.871977Z": "TRANSLATION_DONE:deu"
+  }
+}

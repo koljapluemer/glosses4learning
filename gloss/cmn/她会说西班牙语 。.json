@@ -1,0 +1,35 @@
+{
+  "content": "她会说西班牙语 。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She can speak Spanish"
+    ],
+    [
+      "PART",
+      "cmn:她"
+    ],
+    [
+      "PART",
+      "cmn:会"
+    ],
+    [
+      "PART",
+      "cmn:说"
+    ],
+    [
+      "PART",
+      "cmn:西班牙语"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:33.159088Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Если Том позвонит, разбуди меня.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Если"
+    ],
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:позвонит"
+    ],
+    [
+      "PART",
+      "rus:разбуди"
+    ],
+    [
+      "PART",
+      "rus:меня"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.401659Z": "SPLIT_DONE"
+  }
+}

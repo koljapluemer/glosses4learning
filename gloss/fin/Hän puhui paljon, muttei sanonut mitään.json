@@ -1,0 +1,39 @@
+{
+  "content": "Hän puhui paljon, muttei sanonut mitään.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Hän"
+    ],
+    [
+      "PART",
+      "fin:puhui"
+    ],
+    [
+      "PART",
+      "fin:paljon"
+    ],
+    [
+      "PART",
+      "fin:muttei"
+    ],
+    [
+      "PART",
+      "fin:sanonut"
+    ],
+    [
+      "PART",
+      "fin:mitään"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.860854Z": "SPLIT_DONE"
+  }
+}

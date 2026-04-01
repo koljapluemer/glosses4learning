@@ -1,0 +1,33 @@
+{
+  "content": "lacte",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potionem Sinensem cum lacte nunquam bibo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Omne mane potionem Arabicam cum lacte bibo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:milk",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potionem Arabicam cum lacte bibo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potionem Arabicam cum lacte bibere soleo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:14.424840Z": "TRANSLATION_DONE:eng"
+  }
+}

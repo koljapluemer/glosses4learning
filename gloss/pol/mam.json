@@ -1,0 +1,29 @@
+{
+  "content": "mam",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Po prostu nie mam zbyt wiele czasu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Możesz używać mowy potocznej, nie mam nic przeciwko"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I have",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Przykro mi, ale już mam umówione spotkanie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:13.147739Z": "TRANSLATION_DONE:eng"
+  }
+}

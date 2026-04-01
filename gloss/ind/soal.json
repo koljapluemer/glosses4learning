@@ -1,0 +1,21 @@
+{
+  "content": "soal",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tom yang memberitahukan saya soal itu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:question",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:11.437058Z": "TRANSLATION_DONE:eng"
+  }
+}

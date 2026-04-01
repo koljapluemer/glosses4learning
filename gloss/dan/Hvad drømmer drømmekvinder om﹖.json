@@ -1,0 +1,31 @@
+{
+  "content": "Hvad drømmer drømmekvinder om?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hvad"
+    ],
+    [
+      "PART",
+      "dan:drømmer"
+    ],
+    [
+      "PART",
+      "dan:drømmekvinder"
+    ],
+    [
+      "PART",
+      "dan:om"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.364924Z": "SPLIT_DONE"
+  }
+}

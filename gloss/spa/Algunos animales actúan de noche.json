@@ -1,0 +1,35 @@
+{
+  "content": "Algunos animales actúan de noche.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:actúan"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:noche"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.217343Z": "SPLIT_DONE"
+  }
+}

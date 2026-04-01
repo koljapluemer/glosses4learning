@@ -1,0 +1,39 @@
+{
+  "content": "Waarom zouden wij je iets aandoen?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Waarom"
+    ],
+    [
+      "PART",
+      "nld:zouden"
+    ],
+    [
+      "PART",
+      "nld:wij"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:iets"
+    ],
+    [
+      "PART",
+      "nld:aandoen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.977160Z": "SPLIT_DONE"
+  }
+}

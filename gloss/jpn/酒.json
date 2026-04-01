@@ -1,0 +1,25 @@
+{
+  "content": "酒",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:お酒をいくら飲んだの？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Alcohol",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:林檎酒が大好きです。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:41.894102Z": "TRANSLATION_DONE:eng"
+  }
+}

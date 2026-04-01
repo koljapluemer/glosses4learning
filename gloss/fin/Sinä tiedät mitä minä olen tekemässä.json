@@ -1,0 +1,39 @@
+{
+  "content": "Sinä tiedät mitä minä olen tekemässä.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Sinä"
+    ],
+    [
+      "PART",
+      "fin:tiedät"
+    ],
+    [
+      "PART",
+      "fin:mitä"
+    ],
+    [
+      "PART",
+      "fin:minä"
+    ],
+    [
+      "PART",
+      "fin:olen"
+    ],
+    [
+      "PART",
+      "fin:tekemässä"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.823291Z": "SPLIT_DONE"
+  }
+}

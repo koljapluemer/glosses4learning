@@ -1,0 +1,31 @@
+{
+  "content": "Hvorfor plager det deg?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User71743 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvorfor"
+    ],
+    [
+      "PART",
+      "nob:plager"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:deg"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.726636Z": "SPLIT_DONE"
+  }
+}

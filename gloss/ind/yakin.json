@@ -1,0 +1,29 @@
+{
+  "content": "yakin",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Apa kau benar-benar yakin dengan hal itu﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tom tidak yakin kalau dia bisa mempercayai Mary"
+    ],
+    [
+      "TRANSLATION",
+      "eng:certain",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Saya tidak yakin, tapi dia mungkin datang"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:14.196205Z": "TRANSLATION_DONE:eng"
+  }
+}

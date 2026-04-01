@@ -1,0 +1,25 @@
+{
+  "content": "reden",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik denk dat alles gebeurt voor een reden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reason",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Er is geen reden waarom we Tom niet zouden uitnodigen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:28.599150Z": "TRANSLATION_DONE:eng"
+  }
+}

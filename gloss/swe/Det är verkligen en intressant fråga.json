@@ -1,0 +1,43 @@
+{
+  "content": "Det är verkligen en intressant fråga.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:That is certainly an interesting question"
+    ],
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:verkligen"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:intressant"
+    ],
+    [
+      "PART",
+      "swe:fråga"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:26.977302Z": "SPLIT_DONE"
+  }
+}

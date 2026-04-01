@@ -1,0 +1,51 @@
+{
+  "content": "Tom said that Mary is a nice person.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що Мері — добра людина"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:is"
+    ],
+    [
+      "PART",
+      "eng:a"
+    ],
+    [
+      "PART",
+      "eng:nice"
+    ],
+    [
+      "PART",
+      "eng:person"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:31.215760Z": "SPLIT_DONE"
+  }
+}

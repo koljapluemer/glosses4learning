@@ -1,0 +1,43 @@
+{
+  "content": "Я очень рад, что ты мне позвонила.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:очень"
+    ],
+    [
+      "PART",
+      "rus:рад"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:ты"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонила"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.431123Z": "SPLIT_DONE"
+  }
+}

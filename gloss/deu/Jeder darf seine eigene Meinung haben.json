@@ -1,0 +1,39 @@
+{
+  "content": "Jeder darf seine eigene Meinung haben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Jeder"
+    ],
+    [
+      "PART",
+      "deu:darf"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:eigene"
+    ],
+    [
+      "PART",
+      "deu:Meinung"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.909384Z": "SPLIT_DONE"
+  }
+}

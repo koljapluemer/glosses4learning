@@ -1,0 +1,43 @@
+{
+  "content": "Mám jednoho psa a jednu kočku.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by radush (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I own one dog and one cat"
+    ],
+    [
+      "PART",
+      "ces:Mám"
+    ],
+    [
+      "PART",
+      "ces:jednoho"
+    ],
+    [
+      "PART",
+      "ces:psa"
+    ],
+    [
+      "PART",
+      "ces:a"
+    ],
+    [
+      "PART",
+      "ces:jednu"
+    ],
+    [
+      "PART",
+      "ces:kočku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:25.522192Z": "SPLIT_DONE"
+  }
+}

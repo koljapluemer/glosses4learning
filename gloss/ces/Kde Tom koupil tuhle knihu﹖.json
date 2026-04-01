@@ -1,0 +1,39 @@
+{
+  "content": "Kde Tom koupil tuhle knihu?",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Where did Tom buy this book﹖"
+    ],
+    [
+      "PART",
+      "ces:Kde"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:koupil"
+    ],
+    [
+      "PART",
+      "ces:tuhle"
+    ],
+    [
+      "PART",
+      "ces:knihu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:10.425235Z": "SPLIT_DONE"
+  }
+}

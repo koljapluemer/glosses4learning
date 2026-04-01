@@ -1,0 +1,31 @@
+{
+  "content": "คณิตศาสตร",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันต้องเรียนคณิตศาสตร์"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mathematik",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันชอบคณิตศาสตร์"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Mathematics",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:39.571818Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:35.767704Z": "TRANSLATION_DONE:eng"
+  }
+}

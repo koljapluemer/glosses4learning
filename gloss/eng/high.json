@@ -2,12 +2,16 @@
   "content": "high",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:27.535580Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:21.028374Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -84,6 +88,36 @@
     [
       "TRANSLATION",
       "por:altamente"
+    ],
+    [
+      "TRANSLATION",
+      "gos:hoog"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You have to look high and low to find a phone booth in this area"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:високі",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nob:høy"
+    ],
+    [
+      "TRANSLATION",
+      "epo:alta"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Attending high school in Korea is tough"
+    ],
+    [
+      "TRANSLATION",
+      "kor:높은",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -2,9 +2,12 @@
   "content": "enough",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:34.619551Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -61,6 +64,27 @@
     [
       "TRANSLATION",
       "lat:satis"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:достатньо"
+    ],
+    [
+      "TRANSLATION",
+      "bul:доста"
+    ],
+    [
+      "TRANSLATION",
+      "pol:dość"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there enough room for us﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:충분한",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

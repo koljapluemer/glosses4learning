@@ -1,0 +1,43 @@
+{
+  "content": "Tom zal zijn huis opnieuw laten schilderen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:zal"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:huis"
+    ],
+    [
+      "PART",
+      "nld:opnieuw"
+    ],
+    [
+      "PART",
+      "nld:laten"
+    ],
+    [
+      "PART",
+      "nld:schilderen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.017287Z": "SPLIT_DONE"
+  }
+}

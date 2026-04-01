@@ -1,0 +1,43 @@
+{
+  "content": "A ellas no les gustan los gatos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:A"
+    ],
+    [
+      "PART",
+      "spa:ellas"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:les"
+    ],
+    [
+      "PART",
+      "spa:gustan"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:gatos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.165531Z": "SPLIT_DONE"
+  }
+}

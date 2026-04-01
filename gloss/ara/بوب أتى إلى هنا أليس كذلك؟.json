@@ -1,0 +1,39 @@
+{
+  "content": "بوب أتى إلى هنا أليس كذلك؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:بوب"
+    ],
+    [
+      "PART",
+      "ara:أتى"
+    ],
+    [
+      "PART",
+      "ara:إلى"
+    ],
+    [
+      "PART",
+      "ara:هنا"
+    ],
+    [
+      "PART",
+      "ara:أليس"
+    ],
+    [
+      "PART",
+      "ara:كذلك"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.520956Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg tror ikke det er sannheten.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:tror"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:sannheten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.691725Z": "SPLIT_DONE"
+  }
+}

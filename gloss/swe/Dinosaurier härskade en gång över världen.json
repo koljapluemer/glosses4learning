@@ -1,0 +1,39 @@
+{
+  "content": "Dinosaurier härskade en gång över världen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Dinosaurier"
+    ],
+    [
+      "PART",
+      "swe:härskade"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:gång"
+    ],
+    [
+      "PART",
+      "swe:över"
+    ],
+    [
+      "PART",
+      "swe:världen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.092136Z": "SPLIT_DONE"
+  }
+}

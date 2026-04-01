@@ -2,12 +2,16 @@
   "content": "think",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:32.866631Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:20.359468Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -80,6 +84,40 @@
     [
       "TRANSLATION",
       "fin:mieltä"
+    ],
+    [
+      "TRANSLATION",
+      "gos:denk"
+    ],
+    [
+      "TRANSLATION",
+      "gos:denkst"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much do you think that it cost﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Мапа",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I think that we can do it"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are people who think like this"
+    ],
+    [
+      "TRANSLATION",
+      "kor:생각하다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I think it is his intention"
     ]
   ]
 }

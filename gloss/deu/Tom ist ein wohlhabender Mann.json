@@ -1,0 +1,35 @@
+{
+  "content": "Tom ist ein wohlhabender Mann.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:wohlhabender"
+    ],
+    [
+      "PART",
+      "deu:Mann"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.930460Z": "SPLIT_DONE"
+  }
+}

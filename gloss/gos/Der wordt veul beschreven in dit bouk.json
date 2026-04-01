@@ -1,0 +1,47 @@
+{
+  "content": "Der wordt veul beschreven in dit bouk.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:A lot is described in this book"
+    ],
+    [
+      "PART",
+      "gos:Der"
+    ],
+    [
+      "PART",
+      "gos:wordt"
+    ],
+    [
+      "PART",
+      "gos:veul"
+    ],
+    [
+      "PART",
+      "gos:beschreven"
+    ],
+    [
+      "PART",
+      "gos:in"
+    ],
+    [
+      "PART",
+      "gos:dit"
+    ],
+    [
+      "PART",
+      "gos:bouk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.497977Z": "SPLIT_DONE"
+  }
+}

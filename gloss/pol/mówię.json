@@ -1,0 +1,29 @@
+{
+  "content": "mówię",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie mówię wystarczająco dobrze po francusku!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie mówię wystarczająco dobrze po francusku"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Prawie wcale już nie mówię po francusku"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I am speaking",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:25.027343Z": "TRANSLATION_DONE:eng"
+  }
+}

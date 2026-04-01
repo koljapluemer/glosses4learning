@@ -1,0 +1,39 @@
+{
+  "content": "Vul deze fles alsjeblieft met water.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Vul"
+    ],
+    [
+      "PART",
+      "nld:deze"
+    ],
+    [
+      "PART",
+      "nld:fles"
+    ],
+    [
+      "PART",
+      "nld:alsjeblieft"
+    ],
+    [
+      "PART",
+      "nld:met"
+    ],
+    [
+      "PART",
+      "nld:water"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.078234Z": "SPLIT_DONE"
+  }
+}

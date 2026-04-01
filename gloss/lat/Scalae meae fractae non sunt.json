@@ -1,0 +1,35 @@
+{
+  "content": "Scalae meae fractae non sunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Scalae"
+    ],
+    [
+      "PART",
+      "lat:meae"
+    ],
+    [
+      "PART",
+      "lat:fractae"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:sunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.637895Z": "SPLIT_DONE"
+  }
+}

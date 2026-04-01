@@ -1,0 +1,39 @@
+{
+  "content": "Los árboles estaban llenos de pájaros.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:árboles"
+    ],
+    [
+      "PART",
+      "spa:estaban"
+    ],
+    [
+      "PART",
+      "spa:llenos"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:pájaros"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.180086Z": "SPLIT_DONE"
+  }
+}

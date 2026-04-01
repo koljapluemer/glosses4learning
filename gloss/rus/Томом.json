@@ -1,0 +1,25 @@
+{
+  "content": "Томом",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвоните мне после того, как поговорите с Томом"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Volume",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:В две тысячи тринадцатом я не была замужем за Томом"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:14.875921Z": "TRANSLATION_DONE:eng"
+  }
+}

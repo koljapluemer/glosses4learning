@@ -1,0 +1,35 @@
+{
+  "content": "C'était l'idée de quelqu'un d'autre.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'était"
+    ],
+    [
+      "PART",
+      "fra:l'idée"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:d'autre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.651146Z": "SPLIT_DONE"
+  }
+}

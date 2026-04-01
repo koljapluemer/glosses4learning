@@ -1,0 +1,47 @@
+{
+  "content": "Toto město bylo postaveno na odvodněné půdě.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jms (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This city was built on reclaimed land"
+    ],
+    [
+      "PART",
+      "ces:Toto"
+    ],
+    [
+      "PART",
+      "ces:město"
+    ],
+    [
+      "PART",
+      "ces:bylo"
+    ],
+    [
+      "PART",
+      "ces:postaveno"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:odvodněné"
+    ],
+    [
+      "PART",
+      "ces:půdě"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:07.384853Z": "SPLIT_DONE"
+  }
+}

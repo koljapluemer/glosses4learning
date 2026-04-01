@@ -1,0 +1,43 @@
+{
+  "content": "我的妻子是乌鲁木齐人。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GlossaMatik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My wife is a native of Ürümqi"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:妻子"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:乌鲁木齐"
+    ],
+    [
+      "PART",
+      "cmn:人"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:14.862522Z": "SPLIT_DONE"
+  }
+}

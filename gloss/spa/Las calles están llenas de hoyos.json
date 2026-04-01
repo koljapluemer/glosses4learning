@@ -1,0 +1,39 @@
+{
+  "content": "Las calles están llenas de hoyos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Las"
+    ],
+    [
+      "PART",
+      "spa:calles"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:llenas"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:hoyos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.195011Z": "SPLIT_DONE"
+  }
+}

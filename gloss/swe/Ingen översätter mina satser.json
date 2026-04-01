@@ -1,0 +1,31 @@
+{
+  "content": "Ingen översätter mina satser.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by viorayli (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Ingen"
+    ],
+    [
+      "PART",
+      "swe:översätter"
+    ],
+    [
+      "PART",
+      "swe:mina"
+    ],
+    [
+      "PART",
+      "swe:satser"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.153436Z": "SPLIT_DONE"
+  }
+}

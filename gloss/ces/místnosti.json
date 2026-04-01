@@ -1,0 +1,37 @@
+{
+  "content": "místnosti",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Viděl jsem Toma odejít z místnosti"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:V této místnosti se příjemně pracuje"
+    ],
+    [
+      "TRANSLATION",
+      "eng:rooms",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:V té místnosti skoro nic nebylo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:V téhle místnosti je nějaká žena"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:V téhle místnosti jsou tři okna"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:01.279715Z": "TRANSLATION_DONE:eng"
+  }
+}

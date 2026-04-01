@@ -1,0 +1,21 @@
+{
+  "content": "professor",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Die professor kan niet in begrijpelijke taal schrijven"
+    ],
+    [
+      "TRANSLATION",
+      "eng:professor",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:42.616273Z": "TRANSLATION_DONE:eng"
+  }
+}

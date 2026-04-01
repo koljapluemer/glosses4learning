@@ -1,0 +1,39 @@
+{
+  "content": "Eles/Elas querem um pouco de café",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Leas (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:ElesElas"
+    ],
+    [
+      "PART",
+      "por:querem"
+    ],
+    [
+      "PART",
+      "por:um"
+    ],
+    [
+      "PART",
+      "por:pouco"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:café"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.976077Z": "SPLIT_DONE"
+  }
+}

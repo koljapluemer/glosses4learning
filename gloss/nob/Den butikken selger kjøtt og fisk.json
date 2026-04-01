@@ -1,0 +1,43 @@
+{
+  "content": "Den butikken selger kjøtt og fisk.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:That store sells meat and fish"
+    ],
+    [
+      "PART",
+      "nob:Den"
+    ],
+    [
+      "PART",
+      "nob:butikken"
+    ],
+    [
+      "PART",
+      "nob:selger"
+    ],
+    [
+      "PART",
+      "nob:kjøtt"
+    ],
+    [
+      "PART",
+      "nob:og"
+    ],
+    [
+      "PART",
+      "nob:fisk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:10.833253Z": "SPLIT_DONE"
+  }
+}

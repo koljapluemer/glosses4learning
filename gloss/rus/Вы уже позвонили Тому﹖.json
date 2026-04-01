@@ -1,0 +1,31 @@
+{
+  "content": "Вы уже позвонили Тому?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Вы"
+    ],
+    [
+      "PART",
+      "rus:уже"
+    ],
+    [
+      "PART",
+      "rus:позвонили"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.342994Z": "SPLIT_DONE"
+  }
+}

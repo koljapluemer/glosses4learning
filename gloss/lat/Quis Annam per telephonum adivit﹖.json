@@ -1,0 +1,35 @@
+{
+  "content": "Quis Annam per telephonum adivit?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Quis"
+    ],
+    [
+      "PART",
+      "lat:Annam"
+    ],
+    [
+      "PART",
+      "lat:per"
+    ],
+    [
+      "PART",
+      "lat:telephonum"
+    ],
+    [
+      "PART",
+      "lat:adivit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.647028Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "content": "Dies alles geht im Laufe von Millisekunden vor sich.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:All this happens within milliseconds"
+    ],
+    [
+      "PART",
+      "deu:Dies"
+    ],
+    [
+      "PART",
+      "deu:alles"
+    ],
+    [
+      "PART",
+      "deu:geht"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Laufe"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:Millisekunden"
+    ],
+    [
+      "PART",
+      "deu:vor"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:35.567552Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Ellas molestaron a la estudiante nueva.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellas"
+    ],
+    [
+      "PART",
+      "spa:molestaron"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:estudiante"
+    ],
+    [
+      "PART",
+      "spa:nueva"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.231177Z": "SPLIT_DONE"
+  }
+}

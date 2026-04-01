@@ -2,12 +2,16 @@
   "content": "look",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:27.386914Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:33.390707Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -96,6 +100,48 @@
     [
       "TRANSLATION",
       "gos:zuk"
+    ],
+    [
+      "TRANSLATION",
+      "gos:kiek"
+    ],
+    [
+      "TRANSLATION",
+      "kab:ayay"
+    ],
+    [
+      "TRANSLATION",
+      "ell:δει"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You have to look high and low to find a phone booth in this area"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дивитися",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing that doesn't look too hard"
+    ],
+    [
+      "TRANSLATION",
+      "kor:바라보기",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing that doesn't look too difficult"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would you help me look for my keys﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Wow, you totally look like an artist"
     ]
   ]
 }

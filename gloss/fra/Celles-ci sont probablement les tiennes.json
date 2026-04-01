@@ -1,0 +1,35 @@
+{
+  "content": "Celles-ci sont probablement les tiennes.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Celles-ci"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:probablement"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:tiennes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.661373Z": "SPLIT_DONE"
+  }
+}

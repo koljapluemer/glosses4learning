@@ -1,0 +1,35 @@
+{
+  "content": "Пожалуйста, позвоните мне перед приходом.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Пожалуйста"
+    ],
+    [
+      "PART",
+      "rus:позвоните"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:перед"
+    ],
+    [
+      "PART",
+      "rus:приходом"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.314053Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "dumny",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie jestem dumny z mojego zachowania"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mój ojciec jest dumny ze swojego auta"
+    ],
+    [
+      "TRANSLATION",
+      "eng:proud",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mój ojciec jest dumny ze swojego samochodu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mój ojciec był dumny ze swojego samochodu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:15.057999Z": "TRANSLATION_DONE:eng"
+  }
+}

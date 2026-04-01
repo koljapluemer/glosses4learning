@@ -1,0 +1,43 @@
+{
+  "content": "Nemo scivit te in Germania esse.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Nobody knew that you were in Germany"
+    ],
+    [
+      "PART",
+      "lat:Nemo"
+    ],
+    [
+      "PART",
+      "lat:scivit"
+    ],
+    [
+      "PART",
+      "lat:te"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:Germania"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:32.924747Z": "SPLIT_DONE"
+  }
+}

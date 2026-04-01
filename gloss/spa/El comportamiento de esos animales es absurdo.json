@@ -1,0 +1,43 @@
+{
+  "content": "El comportamiento de esos animales es absurdo.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:comportamiento"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:esos"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:es"
+    ],
+    [
+      "PART",
+      "spa:absurdo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.197119Z": "SPLIT_DONE"
+  }
+}

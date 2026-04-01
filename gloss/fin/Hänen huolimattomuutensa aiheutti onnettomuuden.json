@@ -1,0 +1,31 @@
+{
+  "content": "Hänen huolimattomuutensa aiheutti onnettomuuden.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sulkami (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Hänen"
+    ],
+    [
+      "PART",
+      "fin:huolimattomuutensa"
+    ],
+    [
+      "PART",
+      "fin:aiheutti"
+    ],
+    [
+      "PART",
+      "fin:onnettomuuden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.845395Z": "SPLIT_DONE"
+  }
+}

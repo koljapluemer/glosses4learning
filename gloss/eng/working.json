@@ -2,12 +2,15 @@
   "content": "working",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:46.095402Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -88,6 +91,15 @@
     [
       "TRANSLATION",
       "ita:funzionante"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I talked on the phone while working"
+    ],
+    [
+      "TRANSLATION",
+      "kor:업무",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

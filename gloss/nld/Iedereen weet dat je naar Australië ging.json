@@ -1,0 +1,43 @@
+{
+  "content": "Iedereen weet dat je naar Australië ging.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Iedereen"
+    ],
+    [
+      "PART",
+      "nld:weet"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:naar"
+    ],
+    [
+      "PART",
+      "nld:Australië"
+    ],
+    [
+      "PART",
+      "nld:ging"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.036173Z": "SPLIT_DONE"
+  }
+}

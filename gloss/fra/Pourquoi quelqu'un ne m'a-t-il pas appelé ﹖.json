@@ -1,0 +1,39 @@
+{
+  "content": "Pourquoi quelqu'un ne m'a-t-il pas appelé ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:m'a-t-il"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:appelé"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.600720Z": "SPLIT_DONE"
+  }
+}

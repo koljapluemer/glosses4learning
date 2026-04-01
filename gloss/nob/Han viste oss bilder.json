@@ -1,0 +1,31 @@
+{
+  "content": "Han viste oss bilder.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Improbably (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Han"
+    ],
+    [
+      "PART",
+      "nob:viste"
+    ],
+    [
+      "PART",
+      "nob:oss"
+    ],
+    [
+      "PART",
+      "nob:bilder"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.838589Z": "SPLIT_DONE"
+  }
+}

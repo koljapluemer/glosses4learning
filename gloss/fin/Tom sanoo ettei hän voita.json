@@ -1,0 +1,35 @@
+{
+  "content": "Tom sanoo ettei hän voita.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aqaq (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:sanoo"
+    ],
+    [
+      "PART",
+      "fin:ettei"
+    ],
+    [
+      "PART",
+      "fin:hän"
+    ],
+    [
+      "PART",
+      "fin:voita"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.847244Z": "SPLIT_DONE"
+  }
+}

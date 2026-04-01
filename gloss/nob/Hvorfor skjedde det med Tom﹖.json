@@ -1,0 +1,35 @@
+{
+  "content": "Hvorfor skjedde det med Tom?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvorfor"
+    ],
+    [
+      "PART",
+      "nob:skjedde"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:med"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.708124Z": "SPLIT_DONE"
+  }
+}

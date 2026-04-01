@@ -1,0 +1,39 @@
+{
+  "content": "Wie zitten haile dag op stoulen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wie"
+    ],
+    [
+      "PART",
+      "gos:zitten"
+    ],
+    [
+      "PART",
+      "gos:haile"
+    ],
+    [
+      "PART",
+      "gos:dag"
+    ],
+    [
+      "PART",
+      "gos:op"
+    ],
+    [
+      "PART",
+      "gos:stoulen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.310502Z": "SPLIT_DONE"
+  }
+}

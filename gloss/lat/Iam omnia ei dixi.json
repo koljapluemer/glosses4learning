@@ -1,0 +1,35 @@
+{
+  "content": "Iam omnia ei dixi.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I've already told him everything"
+    ],
+    [
+      "PART",
+      "lat:Iam"
+    ],
+    [
+      "PART",
+      "lat:omnia"
+    ],
+    [
+      "PART",
+      "lat:ei"
+    ],
+    [
+      "PART",
+      "lat:dixi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:31.727800Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tamás nem hiszi el, amit Mária mond.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mraz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tamás"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:hiszi"
+    ],
+    [
+      "PART",
+      "hun:el"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:Mária"
+    ],
+    [
+      "PART",
+      "hun:mond"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.508516Z": "SPLIT_DONE"
+  }
+}

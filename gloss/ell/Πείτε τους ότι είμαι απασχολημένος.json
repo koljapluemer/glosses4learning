@@ -1,0 +1,35 @@
+{
+  "content": "Πείτε τους ότι είμαι απασχολημένος.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Πείτε"
+    ],
+    [
+      "PART",
+      "ell:τους"
+    ],
+    [
+      "PART",
+      "ell:ότι"
+    ],
+    [
+      "PART",
+      "ell:είμαι"
+    ],
+    [
+      "PART",
+      "ell:απασχολημένος"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.798808Z": "SPLIT_DONE"
+  }
+}

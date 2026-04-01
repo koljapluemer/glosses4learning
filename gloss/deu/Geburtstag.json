@@ -21,6 +21,35 @@
     [
       "TRANSLATION",
       "ukr:народження"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Danke, dass Sie an meinen Geburtstag gedacht haben!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Mein Geburtstag ist heute in einem Monat"
+    ],
+    [
+      "TRANSLATION",
+      "kor:생일",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Für Laura. Alles Gute zum 40. Geburtstag! Liebe Grüße von Peter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Birthday",
+      "Auto-translated with translategemma:4b"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-04-01T08:49:02.939475Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:52:32.969011Z": "TRANSLATION_DONE:eng"
+  }
 }

@@ -2,8 +2,12 @@
   "content": "aprender",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:59:09.536127Z": "TRANSLATION_DONE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -37,6 +41,15 @@
     [
       "TRANSLATION",
       "eng:to acquire knowledge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo creo que todo el mundo debería aprender otro idioma"
+    ],
+    [
+      "TRANSLATION",
+      "deu:lernen",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

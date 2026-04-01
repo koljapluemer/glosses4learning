@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-12T13:48:57.515026Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T13:48:57.515026Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:55.136603Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -75,6 +77,23 @@
     [
       "TRANSLATION",
       "gos:onze"
+    ],
+    [
+      "TRANSLATION",
+      "hun:fogunk"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:們"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Today is our last day of vacation"
+    ],
+    [
+      "TRANSLATION",
+      "kor:우리",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

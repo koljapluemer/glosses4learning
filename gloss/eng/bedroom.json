@@ -17,6 +17,37 @@
     [
       "TRANSLATION",
       "lat:cubiculum"
+    ],
+    [
+      "TRANSLATION",
+      "epo:dormoĉambron"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no one in your bedroom"
+    ],
+    [
+      "TRANSLATION",
+      "kor:침실",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no desk in my bedroom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your bedroom doesn't have even a single person in it"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What is in your bedroom﹖"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-04-01T09:04:11.199044Z": "TRANSLATION_DONE:kor"
+  }
 }

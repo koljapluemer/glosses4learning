@@ -1,0 +1,35 @@
+{
+  "content": "Sententiam tuam audire aveo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I want to hear your opinion"
+    ],
+    [
+      "PART",
+      "lat:Sententiam"
+    ],
+    [
+      "PART",
+      "lat:tuam"
+    ],
+    [
+      "PART",
+      "lat:audire"
+    ],
+    [
+      "PART",
+      "lat:aveo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:27.906645Z": "SPLIT_DONE"
+  }
+}

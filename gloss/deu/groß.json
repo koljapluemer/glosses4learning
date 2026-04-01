@@ -41,6 +41,31 @@
     [
       "TRANSLATION",
       "tur:boylu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Diese Schuhe sind zu groß für mich"
+    ],
+    [
+      "TRANSLATION",
+      "kor:크다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Sieh nur, wie groß mein Schatten ist!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:великий",
+      "Auto-translated with translategemma:4b"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-04-01T08:49:07.778153Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T09:01:33.609403Z": "TRANSLATION_DONE:ukr"
+  }
 }

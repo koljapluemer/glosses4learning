@@ -1,0 +1,35 @@
+{
+  "content": "Tom ga meg denne ringen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:ga"
+    ],
+    [
+      "PART",
+      "nob:meg"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:ringen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.829830Z": "SPLIT_DONE"
+  }
+}

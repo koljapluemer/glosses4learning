@@ -2,12 +2,15 @@
   "content": "able",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:31.722472Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -44,6 +47,15 @@
     [
       "TRANSLATION",
       "jbo:kakne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said he isn't able to do that"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вагітна",
+      "Auto-translated with argostranslate (en→uk)"
     ]
   ]
 }

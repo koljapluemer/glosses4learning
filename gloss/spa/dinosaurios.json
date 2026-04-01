@@ -1,0 +1,25 @@
+{
+  "content": "dinosaurios",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estudiantes visitaron el parque de dinosaurios"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él piensa que los dinosaurios y los seres humanos coexistieron"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dinosaurs",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:18.384970Z": "TRANSLATION_DONE:eng"
+  }
+}

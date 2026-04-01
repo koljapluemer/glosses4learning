@@ -1,0 +1,39 @@
+{
+  "content": "Skjer dette noen gang med deg?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Skjer"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ],
+    [
+      "PART",
+      "nob:noen"
+    ],
+    [
+      "PART",
+      "nob:gang"
+    ],
+    [
+      "PART",
+      "nob:med"
+    ],
+    [
+      "PART",
+      "nob:deg"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.689437Z": "SPLIT_DONE"
+  }
+}

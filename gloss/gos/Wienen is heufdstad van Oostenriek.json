@@ -1,0 +1,35 @@
+{
+  "content": "Wienen is heufdstad van Oostenriek.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wienen"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:heufdstad"
+    ],
+    [
+      "PART",
+      "gos:van"
+    ],
+    [
+      "PART",
+      "gos:Oostenriek"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.297636Z": "SPLIT_DONE"
+  }
+}

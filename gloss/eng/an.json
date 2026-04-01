@@ -2,8 +2,13 @@
   "content": "an",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:35:34.922021Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:40.879348Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -37,6 +42,28 @@
     [
       "TRANSLATION",
       "ben:একটি"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He finished the job in an instant"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Увійти",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Wow, you totally look like an artist"
+    ],
+    [
+      "TRANSLATION",
+      "kor:하나",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Did you make an appointment with the doctor﹖"
     ]
   ]
 }

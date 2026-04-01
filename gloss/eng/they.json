@@ -2,9 +2,12 @@
   "content": "they",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:26.971687Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -110,6 +113,43 @@
     [
       "TRANSLATION",
       "tok:ona"
+    ],
+    [
+      "TRANSLATION",
+      "ell:αυτοί"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do not understand what they have to do"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom and Mary said that they felt cold"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom and Mary said that they would come"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom and Mary said that they weren't sure"
+    ],
+    [
+      "TRANSLATION",
+      "hun:ők"
+    ],
+    [
+      "TRANSLATION",
+      "lat:eis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you sure they can do that﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그들",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

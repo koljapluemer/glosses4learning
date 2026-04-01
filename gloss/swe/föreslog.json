@@ -1,0 +1,25 @@
+{
+  "content": "föreslog",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom föreslog den bästa lösningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Samis läkare föreslog ingen speciell behandling"
+    ],
+    [
+      "TRANSLATION",
+      "eng:suggested",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:22.867606Z": "TRANSLATION_DONE:eng"
+  }
+}

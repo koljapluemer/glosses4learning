@@ -1,0 +1,39 @@
+{
+  "content": "pasa",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo sé lo que te pasa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:проходить, відбувається",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso casi nos pasa también a nosotros"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verläuft",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso casi nos pasa también a nosotras"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El gato de Tom pasa la mayor parte del día al aire libre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:12.877902Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:22.663641Z": "TRANSLATION_DONE:deu"
+  }
+}

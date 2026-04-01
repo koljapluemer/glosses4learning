@@ -1,0 +1,31 @@
+{
+  "content": "Dlaczego to powiedziałeś Tom'owi?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by konrad509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Dlaczego"
+    ],
+    [
+      "PART",
+      "pol:to"
+    ],
+    [
+      "PART",
+      "pol:powiedziałeś"
+    ],
+    [
+      "PART",
+      "pol:Tom'owi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.790980Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Kenapa semua orang suka kucing?",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pacific (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Kenapa"
+    ],
+    [
+      "PART",
+      "ind:semua"
+    ],
+    [
+      "PART",
+      "ind:orang"
+    ],
+    [
+      "PART",
+      "ind:suka"
+    ],
+    [
+      "PART",
+      "ind:kucing"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.433596Z": "SPLIT_DONE"
+  }
+}

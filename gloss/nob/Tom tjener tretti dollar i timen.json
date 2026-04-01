@@ -1,0 +1,39 @@
+{
+  "content": "Tom tjener tretti dollar i timen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:tjener"
+    ],
+    [
+      "PART",
+      "nob:tretti"
+    ],
+    [
+      "PART",
+      "nob:dollar"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:timen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.839395Z": "SPLIT_DONE"
+  }
+}

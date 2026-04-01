@@ -1,0 +1,35 @@
+{
+  "content": "Mia familio skiadas ĉiun vintron.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mia"
+    ],
+    [
+      "PART",
+      "epo:familio"
+    ],
+    [
+      "PART",
+      "epo:skiadas"
+    ],
+    [
+      "PART",
+      "epo:ĉiun"
+    ],
+    [
+      "PART",
+      "epo:vintron"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.391499Z": "SPLIT_DONE"
+  }
+}

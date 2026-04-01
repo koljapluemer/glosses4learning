@@ -1,0 +1,43 @@
+{
+  "content": "De Reuzen zijn gisteren in elkaar geslagen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by javyoze (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:De"
+    ],
+    [
+      "PART",
+      "nld:Reuzen"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:in"
+    ],
+    [
+      "PART",
+      "nld:elkaar"
+    ],
+    [
+      "PART",
+      "nld:geslagen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.038296Z": "SPLIT_DONE"
+  }
+}

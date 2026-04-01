@@ -1,0 +1,31 @@
+{
+  "content": "Switserlaand is gain Sweden.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Switserlaand"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:gain"
+    ],
+    [
+      "PART",
+      "gos:Sweden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.329831Z": "SPLIT_DONE"
+  }
+}

@@ -2,8 +2,12 @@
   "content": "plan",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:35:33.276705Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -57,6 +61,27 @@
     [
       "TRANSLATION",
       "gos:plan"
+    ],
+    [
+      "TRANSLATION",
+      "ces:plánu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you already have a plan﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Планування",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:主意"
+    ],
+    [
+      "TRANSLATION",
+      "vie:kế"
     ]
   ]
 }

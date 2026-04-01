@@ -1,0 +1,31 @@
+{
+  "content": "Tom liker ikke sjokolade.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:sjokolade"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.716860Z": "SPLIT_DONE"
+  }
+}

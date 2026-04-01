@@ -1,0 +1,43 @@
+{
+  "content": "Tom fattade inte vad läraren sade.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by neximus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom didn't understand what the teacher said"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:fattade"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:vad"
+    ],
+    [
+      "PART",
+      "swe:läraren"
+    ],
+    [
+      "PART",
+      "swe:sade"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:10.260668Z": "SPLIT_DONE"
+  }
+}

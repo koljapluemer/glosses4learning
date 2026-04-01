@@ -1,0 +1,21 @@
+{
+  "content": "поговорил",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Она сказала мне, чтобы я с ним поговорил"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we spoke",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:16.413654Z": "TRANSLATION_DONE:eng"
+  }
+}

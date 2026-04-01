@@ -1,0 +1,31 @@
+{
+  "content": "Tenemos todos los detalles.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tenemos"
+    ],
+    [
+      "PART",
+      "spa:todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:detalles"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.232562Z": "SPLIT_DONE"
+  }
+}

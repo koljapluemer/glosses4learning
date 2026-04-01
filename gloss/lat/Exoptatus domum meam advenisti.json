@@ -1,0 +1,31 @@
+{
+  "content": "Exoptatus domum meam advenisti.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Exoptatus"
+    ],
+    [
+      "PART",
+      "lat:domum"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:advenisti"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.632484Z": "SPLIT_DONE"
+  }
+}

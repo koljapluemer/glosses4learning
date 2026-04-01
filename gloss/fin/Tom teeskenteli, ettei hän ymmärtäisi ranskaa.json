@@ -1,0 +1,39 @@
+{
+  "content": "Tom teeskenteli, ettei hän ymmärtäisi ranskaa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:teeskenteli"
+    ],
+    [
+      "PART",
+      "fin:ettei"
+    ],
+    [
+      "PART",
+      "fin:hän"
+    ],
+    [
+      "PART",
+      "fin:ymmärtäisi"
+    ],
+    [
+      "PART",
+      "fin:ranskaa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.809203Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "встретишься",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвони мне сразу после того, как с ним встретишься"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I will meet you",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвони мне сразу, как только с ним встретишься"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:09.762877Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Gisteren zijn we naar de bioscoop geweest.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Gisteren"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:we"
+    ],
+    [
+      "PART",
+      "nld:naar"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:bioscoop"
+    ],
+    [
+      "PART",
+      "nld:geweest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.077705Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Кога започнахте да изучавате френски?",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by korobo4ka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Кога"
+    ],
+    [
+      "PART",
+      "bul:започнахте"
+    ],
+    [
+      "PART",
+      "bul:да"
+    ],
+    [
+      "PART",
+      "bul:изучавате"
+    ],
+    [
+      "PART",
+      "bul:френски"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:03.501830Z": "SPLIT_DONE"
+  }
+}

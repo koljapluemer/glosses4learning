@@ -1,0 +1,25 @@
+{
+  "content": "servicio",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los sistemas de comunicación están fuera de servicio"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, el teléfono estaba fuera de servicio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:service",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:52.640025Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "¿Has estado en la tele alguna vez?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Has"
+    ],
+    [
+      "PART",
+      "spa:estado"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:tele"
+    ],
+    [
+      "PART",
+      "spa:alguna"
+    ],
+    [
+      "PART",
+      "spa:vez"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.310637Z": "SPLIT_DONE"
+  }
+}

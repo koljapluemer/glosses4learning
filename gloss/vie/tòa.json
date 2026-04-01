@@ -1,0 +1,29 @@
+{
+  "content": "tòa",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "vie:Mọi người trong tòa nhà đều cảm nhận được động đất"
+    ],
+    [
+      "TRANSLATION",
+      "eng:building",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "vie:Hầu hết những người thuê nhà trong tòa nhà này đều là nghệ sỹ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "vie:Những người thuê nhà trong tòa nhà này hầu hết là nghệ sỹ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:58.459882Z": "TRANSLATION_DONE:eng"
+  }
+}

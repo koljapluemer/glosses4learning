@@ -1,0 +1,51 @@
+{
+  "content": "我父親沒有吃很多的水果。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:父親"
+    ],
+    [
+      "PART",
+      "cmn:沒"
+    ],
+    [
+      "PART",
+      "cmn:有"
+    ],
+    [
+      "PART",
+      "cmn:吃"
+    ],
+    [
+      "PART",
+      "cmn:很多"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:水果"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:27.366549Z": "SPLIT_DONE"
+  }
+}

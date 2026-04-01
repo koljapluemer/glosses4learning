@@ -1,0 +1,35 @@
+{
+  "content": "Potionem Sinensem quam Arabicam mavult.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potionem"
+    ],
+    [
+      "PART",
+      "lat:Sinensem"
+    ],
+    [
+      "PART",
+      "lat:quam"
+    ],
+    [
+      "PART",
+      "lat:Arabicam"
+    ],
+    [
+      "PART",
+      "lat:mavult"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.683964Z": "SPLIT_DONE"
+  }
+}

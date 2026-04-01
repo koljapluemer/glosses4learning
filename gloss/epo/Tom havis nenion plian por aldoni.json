@@ -1,0 +1,39 @@
+{
+  "content": "Tom havis nenion plian por aldoni.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nimfeo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Tom"
+    ],
+    [
+      "PART",
+      "epo:havis"
+    ],
+    [
+      "PART",
+      "epo:nenion"
+    ],
+    [
+      "PART",
+      "epo:plian"
+    ],
+    [
+      "PART",
+      "epo:por"
+    ],
+    [
+      "PART",
+      "epo:aldoni"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.329038Z": "SPLIT_DONE"
+  }
+}

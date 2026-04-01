@@ -1,0 +1,43 @@
+{
+  "content": "Cette famille riche a beaucoup de domestiques.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Cette"
+    ],
+    [
+      "PART",
+      "fra:famille"
+    ],
+    [
+      "PART",
+      "fra:riche"
+    ],
+    [
+      "PART",
+      "fra:a"
+    ],
+    [
+      "PART",
+      "fra:beaucoup"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:domestiques"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.574580Z": "SPLIT_DONE"
+  }
+}

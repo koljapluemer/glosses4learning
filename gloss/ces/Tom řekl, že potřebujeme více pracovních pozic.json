@@ -1,0 +1,43 @@
+{
+  "content": "Tom řekl, že potřebujeme více pracovních pozic.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:řekl"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:potřebujeme"
+    ],
+    [
+      "PART",
+      "ces:více"
+    ],
+    [
+      "PART",
+      "ces:pracovních"
+    ],
+    [
+      "PART",
+      "ces:pozic"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.125915Z": "SPLIT_DONE"
+  }
+}

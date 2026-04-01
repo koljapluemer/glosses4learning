@@ -1,0 +1,43 @@
+{
+  "content": "Haec sententia e septem verbis constat.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This sentence is composed of seven words"
+    ],
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:sententia"
+    ],
+    [
+      "PART",
+      "lat:e"
+    ],
+    [
+      "PART",
+      "lat:septem"
+    ],
+    [
+      "PART",
+      "lat:verbis"
+    ],
+    [
+      "PART",
+      "lat:constat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:23.449796Z": "SPLIT_DONE"
+  }
+}

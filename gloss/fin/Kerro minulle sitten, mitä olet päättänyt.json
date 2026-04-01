@@ -1,0 +1,39 @@
+{
+  "content": "Kerro minulle sitten, mitä olet päättänyt.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexvic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Kerro"
+    ],
+    [
+      "PART",
+      "fin:minulle"
+    ],
+    [
+      "PART",
+      "fin:sitten"
+    ],
+    [
+      "PART",
+      "fin:mitä"
+    ],
+    [
+      "PART",
+      "fin:olet"
+    ],
+    [
+      "PART",
+      "fin:päättänyt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.858974Z": "SPLIT_DONE"
+  }
+}

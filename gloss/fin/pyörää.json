@@ -1,0 +1,21 @@
+{
+  "content": "pyörää",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Tässä italialaisessa autossa on kolme pyörää"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bicycle",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:21.580218Z": "TRANSLATION_DONE:eng"
+  }
+}

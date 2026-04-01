@@ -6,7 +6,9 @@
     "2025-12-12T13:52:07.931890Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-12T14:20:36.891016Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -39,6 +41,14 @@
     [
       "TRANSLATION",
       "tur:veremeyiz"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kannst du unsere Software auf den neuesten Stand bringen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "dan:vores"
     ]
   ]
 }

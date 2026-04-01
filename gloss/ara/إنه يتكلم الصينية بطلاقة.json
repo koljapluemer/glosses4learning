@@ -1,0 +1,31 @@
+{
+  "content": "إنه يتكلم الصينية بطلاقة.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:إنه"
+    ],
+    [
+      "PART",
+      "ara:يتكلم"
+    ],
+    [
+      "PART",
+      "ara:الصينية"
+    ],
+    [
+      "PART",
+      "ara:بطلاقة"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.438919Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Potio Sinensis duobus nummis Europaeis constat.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potio"
+    ],
+    [
+      "PART",
+      "lat:Sinensis"
+    ],
+    [
+      "PART",
+      "lat:duobus"
+    ],
+    [
+      "PART",
+      "lat:nummis"
+    ],
+    [
+      "PART",
+      "lat:Europaeis"
+    ],
+    [
+      "PART",
+      "lat:constat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.663001Z": "SPLIT_DONE"
+  }
+}

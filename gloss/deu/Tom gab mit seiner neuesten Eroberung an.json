@@ -1,0 +1,43 @@
+{
+  "content": "Tom gab mit seiner neuesten Eroberung an.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:gab"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:seiner"
+    ],
+    [
+      "PART",
+      "deu:neuesten"
+    ],
+    [
+      "PART",
+      "deu:Eroberung"
+    ],
+    [
+      "PART",
+      "deu:an"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.757937Z": "SPLIT_DONE"
+  }
+}

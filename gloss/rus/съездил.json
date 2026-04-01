@@ -1,0 +1,29 @@
+{
+  "content": "съездил",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне надо было сказать Тому, чтобы он съездил в Бостон"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I went",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне надо было сказать Тому, чтобы он съездил в Австралию"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне надо было сказать Тому, чтобы он туда съездил"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:10.831945Z": "TRANSLATION_DONE:eng"
+  }
+}

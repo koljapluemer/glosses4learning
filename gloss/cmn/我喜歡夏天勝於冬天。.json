@@ -1,0 +1,39 @@
+{
+  "content": "我喜歡夏天勝於冬天。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I like summer better than winter"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:喜歡"
+    ],
+    [
+      "PART",
+      "cmn:夏天"
+    ],
+    [
+      "PART",
+      "cmn:勝於"
+    ],
+    [
+      "PART",
+      "cmn:冬天"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:19.569756Z": "SPLIT_DONE"
+  }
+}

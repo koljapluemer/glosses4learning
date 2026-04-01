@@ -1,0 +1,47 @@
+{
+  "content": "Dat is alles wat we weten over Tom.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by meshbags (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dat"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:alles"
+    ],
+    [
+      "PART",
+      "nld:wat"
+    ],
+    [
+      "PART",
+      "nld:we"
+    ],
+    [
+      "PART",
+      "nld:weten"
+    ],
+    [
+      "PART",
+      "nld:over"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.087116Z": "SPLIT_DONE"
+  }
+}

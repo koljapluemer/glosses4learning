@@ -1,0 +1,21 @@
+{
+  "content": "Ken",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Detta är Ken. Han älskar sin hund"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ken",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:07.059071Z": "TRANSLATION_DONE:eng"
+  }
+}

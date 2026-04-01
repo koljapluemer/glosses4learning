@@ -1,0 +1,31 @@
+{
+  "content": "回去找湯姆。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Go back to Tom"
+    ],
+    [
+      "PART",
+      "cmn:回去"
+    ],
+    [
+      "PART",
+      "cmn:找"
+    ],
+    [
+      "PART",
+      "cmn:湯姆"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:41:31.448235Z": "SPLIT_DONE"
+  }
+}

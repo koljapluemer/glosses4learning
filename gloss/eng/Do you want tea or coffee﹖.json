@@ -3,13 +3,22 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "relationships": [
     [
       "TRANSLATION",
       "arb:تريد شاي أو قهوة؟"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:do djica tu'a ge'i loi tcati gi loi ckafi"
     ]
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Wuzzy (CC-BY 2.0 FR)"
   ]
 }

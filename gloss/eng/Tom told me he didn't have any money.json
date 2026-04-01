@@ -1,0 +1,51 @@
+{
+  "content": "Tom told me he didn't have any money.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав мені, що не має грошей"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:told"
+    ],
+    [
+      "PART",
+      "eng:me"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:didn't"
+    ],
+    [
+      "PART",
+      "eng:have"
+    ],
+    [
+      "PART",
+      "eng:any"
+    ],
+    [
+      "PART",
+      "eng:money"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:32.014257Z": "SPLIT_DONE"
+  }
+}

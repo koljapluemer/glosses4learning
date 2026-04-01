@@ -1,0 +1,39 @@
+{
+  "content": "Est-ce qu'on peut faire une pause ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'on"
+    ],
+    [
+      "PART",
+      "fra:peut"
+    ],
+    [
+      "PART",
+      "fra:faire"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:pause"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.592895Z": "SPLIT_DONE"
+  }
+}

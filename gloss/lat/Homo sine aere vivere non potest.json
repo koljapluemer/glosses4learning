@@ -1,0 +1,39 @@
+{
+  "content": "Homo sine aere vivere non potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Homo"
+    ],
+    [
+      "PART",
+      "lat:sine"
+    ],
+    [
+      "PART",
+      "lat:aere"
+    ],
+    [
+      "PART",
+      "lat:vivere"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.672924Z": "SPLIT_DONE"
+  }
+}

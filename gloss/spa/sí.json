@@ -1,0 +1,45 @@
+{
+  "content": "sí",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Henry es lo suficientemente mayor para mantenerse a sí mismo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:yes",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esa sí que es una buena idea"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:так",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Creo que Tom se culpa a sí mismo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Si yo fuera tú diría que sí"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ja",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:08.140159Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:19.846271Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:20.373376Z": "TRANSLATION_DONE:deu"
+  }
+}

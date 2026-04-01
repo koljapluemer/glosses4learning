@@ -2,12 +2,15 @@
   "content": "leave",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:49.264624Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -160,6 +163,19 @@
     [
       "TRANSLATION",
       "ind:meninggalkan"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:离开"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Children all leave the nest one day"
+    ],
+    [
+      "TRANSLATION",
+      "kor:떠나다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

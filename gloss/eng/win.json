@@ -2,7 +2,8 @@
   "content": "win",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -60,6 +61,18 @@
     [
       "TRANSLATION",
       "ukr:виграю"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:виграти"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he hopes Mary can win"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there any chance that Tom will win﹖"
     ]
   ]
 }

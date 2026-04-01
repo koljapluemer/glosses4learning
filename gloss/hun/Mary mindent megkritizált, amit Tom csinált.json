@@ -1,0 +1,39 @@
+{
+  "content": "Mary mindent megkritizált, amit Tom csinált.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by H_Liliom (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mary"
+    ],
+    [
+      "PART",
+      "hun:mindent"
+    ],
+    [
+      "PART",
+      "hun:megkritizált"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:csinált"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.559125Z": "SPLIT_DONE"
+  }
+}

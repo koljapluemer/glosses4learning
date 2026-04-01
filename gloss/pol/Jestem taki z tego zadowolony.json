@@ -1,0 +1,35 @@
+{
+  "content": "Jestem taki z tego zadowolony.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Stanislawspruss (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jestem"
+    ],
+    [
+      "PART",
+      "pol:taki"
+    ],
+    [
+      "PART",
+      "pol:z"
+    ],
+    [
+      "PART",
+      "pol:tego"
+    ],
+    [
+      "PART",
+      "pol:zadowolony"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.752774Z": "SPLIT_DONE"
+  }
+}

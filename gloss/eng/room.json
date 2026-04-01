@@ -3,10 +3,13 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-15T19:07:53.490Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-15T19:07:53.490Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:35:29.732640Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:11.877867Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -104,6 +107,52 @@
     [
       "TRANSLATION",
       "tok:tomo"
+    ],
+    [
+      "TRANSLATION",
+      "spa:sala"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He was all alone in the room"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кімната",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "dan:værelse"
+    ],
+    [
+      "TRANSLATION",
+      "bul:стая"
+    ],
+    [
+      "TRANSLATION",
+      "vie:phòng"
+    ],
+    [
+      "TRANSLATION",
+      "pol:odsiedział"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are many children in the room"
+    ],
+    [
+      "TRANSLATION",
+      "kor:방",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there enough room for us﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She locked herself in his room"
     ]
   ]
 }

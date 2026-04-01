@@ -1,0 +1,39 @@
+{
+  "content": "トムは結構幸せです。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by small_snow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom is quite happy"
+    ],
+    [
+      "PART",
+      "jpn:トム"
+    ],
+    [
+      "PART",
+      "jpn:は"
+    ],
+    [
+      "PART",
+      "jpn:結構"
+    ],
+    [
+      "PART",
+      "jpn:幸せ"
+    ],
+    [
+      "PART",
+      "jpn:です"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:52.937104Z": "SPLIT_DONE"
+  }
+}

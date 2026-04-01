@@ -2,9 +2,12 @@
   "content": "coffee",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:41.251880Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -54,6 +57,27 @@
     [
       "TRANSLATION",
       "por:café"
+    ],
+    [
+      "TRANSLATION",
+      "hun:kávé"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:ckafi"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kahve"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What I want now is hot coffee"
+    ],
+    [
+      "TRANSLATION",
+      "kor:커피",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

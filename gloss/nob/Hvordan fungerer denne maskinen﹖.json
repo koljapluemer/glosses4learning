@@ -1,0 +1,31 @@
+{
+  "content": "Hvordan fungerer denne maskinen?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvordan"
+    ],
+    [
+      "PART",
+      "nob:fungerer"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:maskinen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.822160Z": "SPLIT_DONE"
+  }
+}

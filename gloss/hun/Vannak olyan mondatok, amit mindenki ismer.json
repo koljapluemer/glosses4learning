@@ -1,0 +1,39 @@
+{
+  "content": "Vannak olyan mondatok, amit mindenki ismer.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Vannak"
+    ],
+    [
+      "PART",
+      "hun:olyan"
+    ],
+    [
+      "PART",
+      "hun:mondatok"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:mindenki"
+    ],
+    [
+      "PART",
+      "hun:ismer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.450135Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Předpověď Toma se ukázala jsko pravdivá.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Předpověď"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:ukázala"
+    ],
+    [
+      "PART",
+      "ces:jsko"
+    ],
+    [
+      "PART",
+      "ces:pravdivá"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.168335Z": "SPLIT_DONE"
+  }
+}

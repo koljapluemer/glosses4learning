@@ -2,8 +2,13 @@
   "content": "Essen",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:52:32.110789Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:31.232856Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -48,6 +53,32 @@
     [
       "TRANSLATION",
       "tha:กินข้าว"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kommen Sie heute abend nicht zum Essen nach Hause﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Food",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kommt ihr heute abend nicht zum Essen nach Hause﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Die Suppe hier ist zum Essen zu salzig"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ессен",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Das Essen hat gar nicht so schlecht geschmeckt"
     ]
   ]
 }

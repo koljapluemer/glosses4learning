@@ -2,9 +2,12 @@
   "content": "go",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:24.357806Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -155,6 +158,51 @@
     [
       "TRANSLATION",
       "tok:tawa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What do you say we go watch a movie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "hun:menj"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I didn't go to school last Monday"
+    ],
+    [
+      "TRANSLATION",
+      "kor:가다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We go to school by that bus"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:On what authority are you making us go﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I will go if the rain stops"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm sorry that I couldn't go with you"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If you're sleepy, you should go to bed"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You should go back home fast"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you go to the pool often﹖"
     ]
   ]
 }

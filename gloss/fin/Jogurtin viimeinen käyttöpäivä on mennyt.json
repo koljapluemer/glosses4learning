@@ -1,0 +1,35 @@
+{
+  "content": "Jogurtin viimeinen käyttöpäivä on mennyt.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Jogurtin"
+    ],
+    [
+      "PART",
+      "fin:viimeinen"
+    ],
+    [
+      "PART",
+      "fin:käyttöpäivä"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:mennyt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.815131Z": "SPLIT_DONE"
+  }
+}

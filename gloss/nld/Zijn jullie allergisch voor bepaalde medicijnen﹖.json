@@ -1,0 +1,39 @@
+{
+  "content": "Zijn jullie allergisch voor bepaalde medicijnen?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zijn"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:allergisch"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:bepaalde"
+    ],
+    [
+      "PART",
+      "nld:medicijnen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.052818Z": "SPLIT_DONE"
+  }
+}

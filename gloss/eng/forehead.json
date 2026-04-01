@@ -2,12 +2,15 @@
   "content": "forehead",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:57.094397Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -16,6 +19,15 @@
     [
       "TRANSLATION",
       "arz:قورة"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He got 14 stitches on his forehead"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이마",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "content": "jongen",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Hij ziet er niet uit als een intelligente jongen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:boy",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:43.173076Z": "TRANSLATION_DONE:eng"
+  }
+}

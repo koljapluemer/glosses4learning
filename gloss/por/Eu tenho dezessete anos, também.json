@@ -1,0 +1,35 @@
+{
+  "content": "Eu tenho dezessete anos, também.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:tenho"
+    ],
+    [
+      "PART",
+      "por:dezessete"
+    ],
+    [
+      "PART",
+      "por:anos"
+    ],
+    [
+      "PART",
+      "por:também"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:37.003343Z": "SPLIT_DONE"
+  }
+}

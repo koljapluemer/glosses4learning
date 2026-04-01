@@ -1,0 +1,35 @@
+{
+  "content": "Nejsem zvyklý na těžkou práci.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nejsem"
+    ],
+    [
+      "PART",
+      "ces:zvyklý"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:těžkou"
+    ],
+    [
+      "PART",
+      "ces:práci"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.230739Z": "SPLIT_DONE"
+  }
+}

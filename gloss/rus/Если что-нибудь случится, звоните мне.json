@@ -1,0 +1,35 @@
+{
+  "content": "Если что-нибудь случится, звоните мне.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Если"
+    ],
+    [
+      "PART",
+      "rus:что-нибудь"
+    ],
+    [
+      "PART",
+      "rus:случится"
+    ],
+    [
+      "PART",
+      "rus:звоните"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.356348Z": "SPLIT_DONE"
+  }
+}

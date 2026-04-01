@@ -1,0 +1,31 @@
+{
+  "content": "entrar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estudiantes no pueden entrar en la sala de profesores"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to enter",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No puedes entrar porque eres menor de edad"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eintreten, einsteigen, betreten",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:11.412875Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:12.809755Z": "TRANSLATION_DONE:deu"
+  }
+}

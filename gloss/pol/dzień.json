@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:19:02.353Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -15,6 +17,18 @@
     [
       "TRANSLATION",
       "eng:day"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jestem tu na tylko jeden dzień"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Można to zrobić w jeden dzień"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Będę w pobliżu przez cały dzień"
     ]
   ]
 }

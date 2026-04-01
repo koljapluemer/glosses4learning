@@ -1,0 +1,35 @@
+{
+  "content": "Tudsz valamilyen kísértetről szóló történetet?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tudsz"
+    ],
+    [
+      "PART",
+      "hun:valamilyen"
+    ],
+    [
+      "PART",
+      "hun:kísértetről"
+    ],
+    [
+      "PART",
+      "hun:szóló"
+    ],
+    [
+      "PART",
+      "hun:történetet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.470149Z": "SPLIT_DONE"
+  }
+}

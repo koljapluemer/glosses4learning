@@ -1,0 +1,35 @@
+{
+  "content": "Mária barátja súgott valamit neki.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mraz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mária"
+    ],
+    [
+      "PART",
+      "hun:barátja"
+    ],
+    [
+      "PART",
+      "hun:súgott"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ],
+    [
+      "PART",
+      "hun:neki"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.491388Z": "SPLIT_DONE"
+  }
+}

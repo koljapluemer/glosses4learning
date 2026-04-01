@@ -1,0 +1,35 @@
+{
+  "content": "Unos miembros no estaban presentes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Unos"
+    ],
+    [
+      "PART",
+      "spa:miembros"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:estaban"
+    ],
+    [
+      "PART",
+      "spa:presentes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.147671Z": "SPLIT_DONE"
+  }
+}

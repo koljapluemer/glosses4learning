@@ -1,0 +1,39 @@
+{
+  "content": "Tom adalah seorang yang pandai memasak.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:adalah"
+    ],
+    [
+      "PART",
+      "ind:seorang"
+    ],
+    [
+      "PART",
+      "ind:yang"
+    ],
+    [
+      "PART",
+      "ind:pandai"
+    ],
+    [
+      "PART",
+      "ind:memasak"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.483573Z": "SPLIT_DONE"
+  }
+}

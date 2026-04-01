@@ -1,0 +1,39 @@
+{
+  "content": "أنتَ لا تستطيع تحدث الإنجليزية, هل تستطيع؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Asma (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:أنت"
+    ],
+    [
+      "PART",
+      "ara:لا"
+    ],
+    [
+      "PART",
+      "ara:تستطيع"
+    ],
+    [
+      "PART",
+      "ara:تحدث"
+    ],
+    [
+      "PART",
+      "ara:الإنجليزية"
+    ],
+    [
+      "PART",
+      "ara:هل"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.464754Z": "SPLIT_DONE"
+  }
+}

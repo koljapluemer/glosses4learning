@@ -1,0 +1,39 @@
+{
+  "content": "va",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ya va siendo hora de que te cortes el pelo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відправляється",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay ninguna manera de saber quién va a ganar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:geht",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ni tengo idea de lo que va a pasar"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ese vestido azul te va muy bien"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:25.038726Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:10.085009Z": "TRANSLATION_DONE:deu"
+  }
+}

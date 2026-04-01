@@ -2,8 +2,12 @@
   "content": "Berlin",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:35:26.926305Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "PART",
@@ -24,6 +28,15 @@
     [
       "TRANSLATION",
       "ell:Βερολίνο"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you like it here in Berlin﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Берлін",
+      "Auto-translated with argostranslate (en→uk)"
     ]
   ]
 }

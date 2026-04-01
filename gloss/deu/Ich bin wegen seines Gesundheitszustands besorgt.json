@@ -1,0 +1,39 @@
+{
+  "content": "Ich bin wegen seines Gesundheitszustands besorgt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ole (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:wegen"
+    ],
+    [
+      "PART",
+      "deu:seines"
+    ],
+    [
+      "PART",
+      "deu:Gesundheitszustands"
+    ],
+    [
+      "PART",
+      "deu:besorgt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.619130Z": "SPLIT_DONE"
+  }
+}

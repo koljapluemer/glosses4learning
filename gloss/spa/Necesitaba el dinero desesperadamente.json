@@ -1,0 +1,31 @@
+{
+  "content": "Necesitaba el dinero desesperadamente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Seael (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Necesitaba"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:dinero"
+    ],
+    [
+      "PART",
+      "spa:desesperadamente"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.297300Z": "SPLIT_DONE"
+  }
+}

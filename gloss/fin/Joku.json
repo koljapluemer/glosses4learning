@@ -1,0 +1,25 @@
+{
+  "content": "Joku",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Joku kertoi minulle, että sinulla on poikaystävä"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Someone",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Joku kertoi minulle, että sinulla on tyttöystävä"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:45.920729Z": "TRANSLATION_DONE:eng"
+  }
+}

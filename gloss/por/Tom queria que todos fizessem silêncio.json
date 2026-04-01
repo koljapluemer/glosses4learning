@@ -1,0 +1,39 @@
+{
+  "content": "Tom queria que todos fizessem silêncio.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:queria"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:todos"
+    ],
+    [
+      "PART",
+      "por:fizessem"
+    ],
+    [
+      "PART",
+      "por:silêncio"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.888962Z": "SPLIT_DONE"
+  }
+}

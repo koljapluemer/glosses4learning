@@ -1,0 +1,35 @@
+{
+  "content": "Artık hiç kimse benimle konuşmuyor.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Artık"
+    ],
+    [
+      "PART",
+      "tur:hiç"
+    ],
+    [
+      "PART",
+      "tur:kimse"
+    ],
+    [
+      "PART",
+      "tur:benimle"
+    ],
+    [
+      "PART",
+      "tur:konuşmuyor"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:43.964767Z": "SPLIT_DONE"
+  }
+}

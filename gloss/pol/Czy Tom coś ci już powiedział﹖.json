@@ -1,0 +1,39 @@
+{
+  "content": "Czy Tom coś ci już powiedział?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:coś"
+    ],
+    [
+      "PART",
+      "pol:ci"
+    ],
+    [
+      "PART",
+      "pol:już"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.808239Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "- Még valamit? - Nem, ez minden.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Még"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ],
+    [
+      "PART",
+      "hun:Nem"
+    ],
+    [
+      "PART",
+      "hun:ez"
+    ],
+    [
+      "PART",
+      "hun:minden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.501864Z": "SPLIT_DONE"
+  }
+}

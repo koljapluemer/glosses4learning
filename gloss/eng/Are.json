@@ -2,8 +2,13 @@
   "content": "Are",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:35:29.131374Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:26.608824Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "relationships": [
@@ -26,6 +31,32 @@
     [
       "TRANSLATION",
       "gos:Is"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you certain that Tom will do that﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Чи є",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you sure they can do that﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~인가",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you alone at home now﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What now﹖ Are we going or not﹖"
     ]
   ]
 }

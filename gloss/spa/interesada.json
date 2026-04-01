@@ -1,0 +1,31 @@
+{
+  "content": "interesada",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella sólo está interesada en los peces y las cucarachas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interested",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Sé que tengo una opinión interesada"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зацікавлена",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:08.513613Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:20.270981Z": "TRANSLATION_DONE:ukr"
+  }
+}

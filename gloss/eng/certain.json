@@ -4,7 +4,8 @@
   "transcriptions": {},
   "logs": {},
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -61,6 +62,14 @@
     [
       "TRANSLATION",
       "lat:certiorem"
+    ],
+    [
+      "TRANSLATION",
+      "ind:yakin"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you certain that Tom will do that﹖"
     ]
   ]
 }

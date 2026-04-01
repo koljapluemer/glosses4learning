@@ -1,0 +1,51 @@
+{
+  "content": "John er ikke broren min, men søskenbarnet mitt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by gurobu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:John isn't my brother; he's my nephew"
+    ],
+    [
+      "PART",
+      "nob:John"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:broren"
+    ],
+    [
+      "PART",
+      "nob:min"
+    ],
+    [
+      "PART",
+      "nob:men"
+    ],
+    [
+      "PART",
+      "nob:søskenbarnet"
+    ],
+    [
+      "PART",
+      "nob:mitt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:27.677161Z": "SPLIT_DONE"
+  }
+}

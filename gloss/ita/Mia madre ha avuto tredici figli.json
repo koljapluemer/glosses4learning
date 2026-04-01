@@ -1,0 +1,39 @@
+{
+  "content": "Mia madre ha avuto tredici figli.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Mia"
+    ],
+    [
+      "PART",
+      "ita:madre"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:avuto"
+    ],
+    [
+      "PART",
+      "ita:tredici"
+    ],
+    [
+      "PART",
+      "ita:figli"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:01.004864Z": "SPLIT_DONE"
+  }
+}

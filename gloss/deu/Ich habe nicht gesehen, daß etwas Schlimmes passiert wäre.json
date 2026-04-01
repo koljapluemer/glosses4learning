@@ -1,0 +1,51 @@
+{
+  "content": "Ich habe nicht gesehen, daß etwas Schlimmes passiert wäre.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ],
+    [
+      "PART",
+      "deu:daß"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:Schlimmes"
+    ],
+    [
+      "PART",
+      "deu:passiert"
+    ],
+    [
+      "PART",
+      "deu:wäre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.692114Z": "SPLIT_DONE"
+  }
+}

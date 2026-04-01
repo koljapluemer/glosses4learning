@@ -1,0 +1,39 @@
+{
+  "content": "Ось тут працює мій тато.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Hier ist es, wo mein Papa arbeitet"
+    ],
+    [
+      "PART",
+      "ukr:Ось"
+    ],
+    [
+      "PART",
+      "ukr:тут"
+    ],
+    [
+      "PART",
+      "ukr:працює"
+    ],
+    [
+      "PART",
+      "ukr:мій"
+    ],
+    [
+      "PART",
+      "ukr:тато"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:00:29.028822Z": "SPLIT_DONE"
+  }
+}

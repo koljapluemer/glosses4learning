@@ -1,0 +1,35 @@
+{
+  "content": "Jag vet ingenting om dinosaurier.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:vet"
+    ],
+    [
+      "PART",
+      "swe:ingenting"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:dinosaurier"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.088658Z": "SPLIT_DONE"
+  }
+}

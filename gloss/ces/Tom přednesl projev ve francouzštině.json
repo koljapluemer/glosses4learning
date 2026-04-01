@@ -1,0 +1,35 @@
+{
+  "content": "Tom přednesl projev ve francouzštině.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:přednesl"
+    ],
+    [
+      "PART",
+      "ces:projev"
+    ],
+    [
+      "PART",
+      "ces:ve"
+    ],
+    [
+      "PART",
+      "ces:francouzštině"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.059516Z": "SPLIT_DONE"
+  }
+}

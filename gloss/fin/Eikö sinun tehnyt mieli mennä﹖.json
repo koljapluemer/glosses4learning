@@ -1,0 +1,35 @@
+{
+  "content": "Eikö sinun tehnyt mieli mennä?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Eikö"
+    ],
+    [
+      "PART",
+      "fin:sinun"
+    ],
+    [
+      "PART",
+      "fin:tehnyt"
+    ],
+    [
+      "PART",
+      "fin:mieli"
+    ],
+    [
+      "PART",
+      "fin:mennä"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.860331Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "content": "水果",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我父親沒有吃很多的水果。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:你們有販賣水果嗎 ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fruit",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fruits",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:那個人在看我們的水果。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:54.238580Z": "TRANSLATION_DONE:eng"
+  }
+}

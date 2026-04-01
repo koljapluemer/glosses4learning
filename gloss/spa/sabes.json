@@ -1,0 +1,25 @@
+{
+  "content": "sabes",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hoy vi lo que tú ya sabes en el mercado"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wissen Sie",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sabes lo que te estás perdiendo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:04.553291Z": "TRANSLATION_DONE:deu"
+  }
+}

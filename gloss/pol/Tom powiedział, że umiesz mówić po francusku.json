@@ -1,0 +1,43 @@
+{
+  "content": "Tom powiedział, że umiesz mówić po francusku.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by konrad509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:umiesz"
+    ],
+    [
+      "PART",
+      "pol:mówić"
+    ],
+    [
+      "PART",
+      "pol:po"
+    ],
+    [
+      "PART",
+      "pol:francusku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.791857Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "\"Я не могу найти Тома\". — \"Попробуй позвонить ему\".",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by begll (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I can't find Tom. Try ringing him"
+    ],
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:могу"
+    ],
+    [
+      "PART",
+      "rus:найти"
+    ],
+    [
+      "PART",
+      "rus:Тома"
+    ],
+    [
+      "PART",
+      "rus:Попробуй"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:ему"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:10.873760Z": "SPLIT_DONE"
+  }
+}

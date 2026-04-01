@@ -1,0 +1,39 @@
+{
+  "content": "Tom er sannsynligvis enlig med deg.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:sannsynligvis"
+    ],
+    [
+      "PART",
+      "nob:enlig"
+    ],
+    [
+      "PART",
+      "nob:med"
+    ],
+    [
+      "PART",
+      "nob:deg"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.732913Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "這件衣服花了我40000日元。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This dress cost me over 40,000 yen"
+    ],
+    [
+      "PART",
+      "cmn:這件"
+    ],
+    [
+      "PART",
+      "cmn:衣服"
+    ],
+    [
+      "PART",
+      "cmn:花"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:40000"
+    ],
+    [
+      "PART",
+      "cmn:日元"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:46.939366Z": "SPLIT_DONE"
+  }
+}

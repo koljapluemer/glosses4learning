@@ -1,0 +1,43 @@
+{
+  "content": "Eu estudo Francês quase todos os dias.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eu"
+    ],
+    [
+      "PART",
+      "por:estudo"
+    ],
+    [
+      "PART",
+      "por:Francês"
+    ],
+    [
+      "PART",
+      "por:quase"
+    ],
+    [
+      "PART",
+      "por:todos"
+    ],
+    [
+      "PART",
+      "por:os"
+    ],
+    [
+      "PART",
+      "por:dias"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.981911Z": "SPLIT_DONE"
+  }
+}

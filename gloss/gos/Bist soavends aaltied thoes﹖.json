@@ -1,0 +1,31 @@
+{
+  "content": "Bist soavends aaltied thoes?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Bist"
+    ],
+    [
+      "PART",
+      "gos:soavends"
+    ],
+    [
+      "PART",
+      "gos:aaltied"
+    ],
+    [
+      "PART",
+      "gos:thoes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.301409Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "avena",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom normalmente come sólo avena para el desayuno"
+    ],
+    [
+      "TRANSLATION",
+      "eng:oats",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:03.416773Z": "TRANSLATION_DONE:eng"
+  }
+}

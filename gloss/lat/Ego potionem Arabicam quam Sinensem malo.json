@@ -1,0 +1,39 @@
+{
+  "content": "Ego potionem Arabicam quam Sinensem malo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ego"
+    ],
+    [
+      "PART",
+      "lat:potionem"
+    ],
+    [
+      "PART",
+      "lat:Arabicam"
+    ],
+    [
+      "PART",
+      "lat:quam"
+    ],
+    [
+      "PART",
+      "lat:Sinensem"
+    ],
+    [
+      "PART",
+      "lat:malo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.683533Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Zij moet het gisteren gedaan hebben.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by PaulP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zij"
+    ],
+    [
+      "PART",
+      "nld:moet"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:gedaan"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.975476Z": "SPLIT_DONE"
+  }
+}

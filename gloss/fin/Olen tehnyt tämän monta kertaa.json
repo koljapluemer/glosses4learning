@@ -1,0 +1,35 @@
+{
+  "content": "Olen tehnyt tämän monta kertaa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Olen"
+    ],
+    [
+      "PART",
+      "fin:tehnyt"
+    ],
+    [
+      "PART",
+      "fin:tämän"
+    ],
+    [
+      "PART",
+      "fin:monta"
+    ],
+    [
+      "PART",
+      "fin:kertaa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.817735Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": "Tom kwastjede dat.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:kwastjede"
+    ],
+    [
+      "PART",
+      "gos:dat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.290765Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Hazlo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hazlo lo mejor que puedas y no te preocupes"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Зроби це",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hazlo ya, antes de que se te olvide"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mach es",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:16.856766Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:26.760836Z": "TRANSLATION_DONE:deu"
+  }
+}

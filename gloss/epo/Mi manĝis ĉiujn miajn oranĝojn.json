@@ -1,0 +1,35 @@
+{
+  "content": "Mi manĝis ĉiujn miajn oranĝojn.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:manĝis"
+    ],
+    [
+      "PART",
+      "epo:ĉiujn"
+    ],
+    [
+      "PART",
+      "epo:miajn"
+    ],
+    [
+      "PART",
+      "epo:oranĝojn"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.448609Z": "SPLIT_DONE"
+  }
+}

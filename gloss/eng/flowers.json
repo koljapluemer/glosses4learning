@@ -2,12 +2,15 @@
   "content": "flowers",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:28.012006Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +27,19 @@
     [
       "TRANSLATION",
       "por:flores"
+    ],
+    [
+      "TRANSLATION",
+      "spa:flores"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:In spring, there are various blooming flowers"
+    ],
+    [
+      "TRANSLATION",
+      "kor:꽃",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

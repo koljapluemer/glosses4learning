@@ -2,12 +2,15 @@
   "content": "mood",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:32.469072Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +27,19 @@
     [
       "TRANSLATION",
       "jbo:cinmo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She was not in the mood for lunch"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:настрій",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nob:humør"
     ]
   ]
 }

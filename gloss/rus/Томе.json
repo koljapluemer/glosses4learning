@@ -1,0 +1,25 @@
+{
+  "content": "Томе",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвоните мне, если что-нибудь узнаете о Томе"
+    ],
+    [
+      "TRANSLATION",
+      "eng:To Tom",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвони мне, если что-нибудь узнаешь о Томе"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:01.200264Z": "TRANSLATION_DONE:eng"
+  }
+}

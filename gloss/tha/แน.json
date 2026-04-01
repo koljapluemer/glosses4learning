@@ -1,0 +1,31 @@
+{
+  "content": "แน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอต้องสวยมาก ๆ แน่"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nee",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เขาต้องชอบเธอแน่ ๆ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:23.489202Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:15.119904Z": "TRANSLATION_DONE:eng"
+  }
+}

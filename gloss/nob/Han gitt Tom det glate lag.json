@@ -1,0 +1,39 @@
+{
+  "content": "Han gitt Tom det glate lag.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by neron (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Han"
+    ],
+    [
+      "PART",
+      "nob:gitt"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:glate"
+    ],
+    [
+      "PART",
+      "nob:lag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.688730Z": "SPLIT_DONE"
+  }
+}

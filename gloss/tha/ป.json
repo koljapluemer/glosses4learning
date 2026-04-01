@@ -1,0 +1,43 @@
+{
+  "content": "ป",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันอายุ 18 ปี"
+    ],
+    [
+      "TRANSLATION",
+      "deu:P",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันอายุ 20 ปี"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมเสียชีวิตเมื่ออายุ 97 ปี"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:บ้านพวกนั้นมีอายุ 500 ปี"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ผมเกษียณเมื่อสามปีที่แล้ว"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:28.121121Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:37.321731Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "geparkeerd",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Is dat Toms auto die voor geparkeerd staat﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:parked",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:19.426625Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Ze vertelden ons dat ze Frans zouden studeren.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by meshbags (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ze"
+    ],
+    [
+      "PART",
+      "nld:vertelden"
+    ],
+    [
+      "PART",
+      "nld:ons"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:ze"
+    ],
+    [
+      "PART",
+      "nld:Frans"
+    ],
+    [
+      "PART",
+      "nld:zouden"
+    ],
+    [
+      "PART",
+      "nld:studeren"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.020914Z": "SPLIT_DONE"
+  }
+}

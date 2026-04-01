@@ -1,0 +1,29 @@
+{
+  "content": "libros",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Aperite libros vestros ad paginam octagesimam sextam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Praeterito anno ducentos libros legi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:books",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Acta diurna et libros legunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:31.399606Z": "TRANSLATION_DONE:eng"
+  }
+}

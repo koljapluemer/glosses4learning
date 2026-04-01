@@ -1,0 +1,43 @@
+{
+  "content": "Tom said that he doesn't do that.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що він таким не займається"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:doesn't"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:29.536846Z": "SPLIT_DONE"
+  }
+}

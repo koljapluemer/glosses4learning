@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.842479Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.701101Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.046142Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.515631Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.515631Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T09:04:49.421879Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -213,6 +215,47 @@
     [
       "TRANSLATION",
       "lat:dies"
+    ],
+    [
+      "TRANSLATION",
+      "ces:den"
+    ],
+    [
+      "TRANSLATION",
+      "ell:μέρα"
+    ],
+    [
+      "TRANSLATION",
+      "hun:nap"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:日"
+    ],
+    [
+      "TRANSLATION",
+      "epo:tago"
+    ],
+    [
+      "TRANSLATION",
+      "epo:tagon"
+    ],
+    [
+      "TRANSLATION",
+      "tur:gün"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Children all leave the nest one day"
+    ],
+    [
+      "TRANSLATION",
+      "kor:하루",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Today is our last day of vacation"
     ]
   ]
 }

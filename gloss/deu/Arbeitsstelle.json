@@ -1,0 +1,21 @@
+{
+  "content": "Arbeitsstelle",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er ist auf der Suche nach einer guten Arbeitsstelle"
+    ],
+    [
+      "TRANSLATION",
+      "eng:JobPosition",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:39.833157Z": "TRANSLATION_DONE:eng"
+  }
+}

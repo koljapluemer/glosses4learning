@@ -2,12 +2,15 @@
   "content": "boyfriend",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:30.877655Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +27,15 @@
     [
       "TRANSLATION",
       "por:namorado"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would you like to be my boyfriend﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:남자친구",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

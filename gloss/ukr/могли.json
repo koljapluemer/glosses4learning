@@ -1,0 +1,35 @@
+{
+  "content": "могли",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У Тома немає друзів, які могли би допомогти йому порадою"
+    ],
+    [
+      "TRANSLATION",
+      "eng:might",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Чи не могли б ви сказати мені, яка у вас тепер адреса﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви не могли би залишити свій автограф на цій книжці, будь ласка﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:könnte",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:08.978908Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:37.803088Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "لماذا يتكلم ياني هكذا؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لماذا"
+    ],
+    [
+      "PART",
+      "ara:يتكلم"
+    ],
+    [
+      "PART",
+      "ara:ياني"
+    ],
+    [
+      "PART",
+      "ara:هكذا"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.498253Z": "SPLIT_DONE"
+  }
+}

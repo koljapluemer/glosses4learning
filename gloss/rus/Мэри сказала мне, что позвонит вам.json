@@ -1,0 +1,39 @@
+{
+  "content": "Мэри сказала мне, что позвонит вам.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мэри"
+    ],
+    [
+      "PART",
+      "rus:сказала"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:позвонит"
+    ],
+    [
+      "PART",
+      "rus:вам"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.319052Z": "SPLIT_DONE"
+  }
+}

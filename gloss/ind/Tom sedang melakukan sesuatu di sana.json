@@ -1,0 +1,39 @@
+{
+  "content": "Tom sedang melakukan sesuatu di sana.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by joses (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:sedang"
+    ],
+    [
+      "PART",
+      "ind:melakukan"
+    ],
+    [
+      "PART",
+      "ind:sesuatu"
+    ],
+    [
+      "PART",
+      "ind:di"
+    ],
+    [
+      "PART",
+      "ind:sana"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.495576Z": "SPLIT_DONE"
+  }
+}

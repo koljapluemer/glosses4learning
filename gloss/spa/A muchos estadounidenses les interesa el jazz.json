@@ -1,0 +1,43 @@
+{
+  "content": "A muchos estadounidenses les interesa el jazz.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:A"
+    ],
+    [
+      "PART",
+      "spa:muchos"
+    ],
+    [
+      "PART",
+      "spa:estadounidenses"
+    ],
+    [
+      "PART",
+      "spa:les"
+    ],
+    [
+      "PART",
+      "spa:interesa"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:jazz"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.183439Z": "SPLIT_DONE"
+  }
+}

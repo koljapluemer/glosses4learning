@@ -1,0 +1,33 @@
+{
+  "content": "matertera",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec femina matertera mea est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Uxor fratris matris meae est matertera mea"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mother",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quae femina matertera tua est﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quae matertera tua est﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:02.919604Z": "TRANSLATION_DONE:eng"
+  }
+}

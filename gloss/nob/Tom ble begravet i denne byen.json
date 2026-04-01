@@ -1,0 +1,39 @@
+{
+  "content": "Tom ble begravet i denne byen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:ble"
+    ],
+    [
+      "PART",
+      "nob:begravet"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:byen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.776663Z": "SPLIT_DONE"
+  }
+}

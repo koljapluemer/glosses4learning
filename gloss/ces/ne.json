@@ -1,0 +1,29 @@
+{
+  "content": "ne",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom nemá hodně práce, a ani já ne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:no",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom nemá rád klauny a ani já ne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Líbí se ti to, nebo ne﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:26.230605Z": "TRANSLATION_DONE:eng"
+  }
+}

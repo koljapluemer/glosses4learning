@@ -1,0 +1,43 @@
+{
+  "content": "Hans uppfinning är överlägsen konventionell utrustning.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Lazzlo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:His invention is superior to conventional equipment"
+    ],
+    [
+      "PART",
+      "swe:Hans"
+    ],
+    [
+      "PART",
+      "swe:uppfinning"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:överlägsen"
+    ],
+    [
+      "PART",
+      "swe:konventionell"
+    ],
+    [
+      "PART",
+      "swe:utrustning"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:28.824848Z": "SPLIT_DONE"
+  }
+}

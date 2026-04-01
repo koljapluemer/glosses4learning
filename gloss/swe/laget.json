@@ -1,0 +1,33 @@
+{
+  "content": "laget",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom borde ha varit här vid det här laget"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag trodde att du skulle vara redo vid det här laget"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the team",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom borde verkligen vara här vid det här laget"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Min vän borde ha anlänt vid det här laget"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:44.976682Z": "TRANSLATION_DONE:eng"
+  }
+}

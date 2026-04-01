@@ -1,0 +1,43 @@
+{
+  "content": "Tom musste sich einen Wagen leihen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Luiaard (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:톰은 차를 빌려야 했다"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:musste"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:Wagen"
+    ],
+    [
+      "PART",
+      "deu:leihen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:07.169123Z": "SPLIT_DONE"
+  }
+}

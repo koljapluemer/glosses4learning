@@ -1,0 +1,43 @@
+{
+  "content": "Ingen vidste at Tom var tidligere straffet.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Ingen"
+    ],
+    [
+      "PART",
+      "dan:vidste"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:var"
+    ],
+    [
+      "PART",
+      "dan:tidligere"
+    ],
+    [
+      "PART",
+      "dan:straffet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.206972Z": "SPLIT_DONE"
+  }
+}

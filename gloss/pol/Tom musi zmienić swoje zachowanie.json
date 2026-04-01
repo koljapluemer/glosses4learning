@@ -1,0 +1,35 @@
+{
+  "content": "Tom musi zmienić swoje zachowanie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:musi"
+    ],
+    [
+      "PART",
+      "pol:zmienić"
+    ],
+    [
+      "PART",
+      "pol:swoje"
+    ],
+    [
+      "PART",
+      "pol:zachowanie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.768878Z": "SPLIT_DONE"
+  }
+}

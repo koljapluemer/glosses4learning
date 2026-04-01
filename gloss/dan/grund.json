@@ -1,0 +1,47 @@
+{
+  "content": "grund",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ingen grund til at reparere noget som stadig fungerer"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Grund",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Folk er holdt op med at omgås hinanden på grund af coronavirussen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:basis",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi har ingen grund til at skamme os"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ingen som helst grund til bekymring"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ingen grund til at være uhøflig"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er ingen grund til at overdrive"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:25.563095Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:52:55.003632Z": "TRANSLATION_DONE:eng"
+  }
+}

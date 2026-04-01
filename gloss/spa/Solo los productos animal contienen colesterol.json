@@ -1,0 +1,39 @@
+{
+  "content": "Solo los productos animal contienen colesterol.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Milton (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Solo"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:productos"
+    ],
+    [
+      "PART",
+      "spa:animal"
+    ],
+    [
+      "PART",
+      "spa:contienen"
+    ],
+    [
+      "PART",
+      "spa:colesterol"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.269039Z": "SPLIT_DONE"
+  }
+}

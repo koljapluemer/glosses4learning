@@ -1,0 +1,43 @@
+{
+  "content": "Tom macht sich um seine Gesundheit Sorgen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:macht"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:um"
+    ],
+    [
+      "PART",
+      "deu:seine"
+    ],
+    [
+      "PART",
+      "deu:Gesundheit"
+    ],
+    [
+      "PART",
+      "deu:Sorgen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.793272Z": "SPLIT_DONE"
+  }
+}

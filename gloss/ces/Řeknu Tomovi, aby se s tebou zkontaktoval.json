@@ -1,0 +1,43 @@
+{
+  "content": "Řeknu Tomovi, aby se s tebou zkontaktoval.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Řeknu"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:aby"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:s"
+    ],
+    [
+      "PART",
+      "ces:tebou"
+    ],
+    [
+      "PART",
+      "ces:zkontaktoval"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.205206Z": "SPLIT_DONE"
+  }
+}

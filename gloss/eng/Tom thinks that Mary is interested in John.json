@@ -1,0 +1,51 @@
+{
+  "content": "Tom thinks that Mary is interested in John.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том думає, що Джон цікавить Мері"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:thinks"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:is"
+    ],
+    [
+      "PART",
+      "eng:interested"
+    ],
+    [
+      "PART",
+      "eng:in"
+    ],
+    [
+      "PART",
+      "eng:John"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:27.341589Z": "SPLIT_DONE"
+  }
+}

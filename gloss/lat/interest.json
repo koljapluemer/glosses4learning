@@ -1,0 +1,29 @@
+{
+  "content": "interest",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Mea istud non iam interest"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quid interest inter Terram et Martem﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:interest",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quid interest inter A et B﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:17.615118Z": "TRANSLATION_DONE:eng"
+  }
+}

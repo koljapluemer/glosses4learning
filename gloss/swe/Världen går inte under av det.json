@@ -1,0 +1,43 @@
+{
+  "content": "Världen går inte under av det.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It's not the end of the world"
+    ],
+    [
+      "PART",
+      "swe:Världen"
+    ],
+    [
+      "PART",
+      "swe:går"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:under"
+    ],
+    [
+      "PART",
+      "swe:av"
+    ],
+    [
+      "PART",
+      "swe:det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:30.627360Z": "SPLIT_DONE"
+  }
+}

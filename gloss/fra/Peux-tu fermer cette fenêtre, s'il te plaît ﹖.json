@@ -1,0 +1,43 @@
+{
+  "content": "Peux-tu fermer cette fenêtre, s'il te plaît ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Peux-tu"
+    ],
+    [
+      "PART",
+      "fra:fermer"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:fenêtre"
+    ],
+    [
+      "PART",
+      "fra:s'il"
+    ],
+    [
+      "PART",
+      "fra:te"
+    ],
+    [
+      "PART",
+      "fra:plaît"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.485449Z": "SPLIT_DONE"
+  }
+}

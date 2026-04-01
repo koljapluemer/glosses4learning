@@ -1,0 +1,21 @@
+{
+  "content": "dokumentär",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag såg en väldigt intressant dokumentär igår"
+    ],
+    [
+      "TRANSLATION",
+      "eng:documentary",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:20.131894Z": "TRANSLATION_DONE:eng"
+  }
+}

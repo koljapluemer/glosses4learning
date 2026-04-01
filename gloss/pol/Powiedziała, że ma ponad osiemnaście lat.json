@@ -1,0 +1,39 @@
+{
+  "content": "Powiedziała, że ma ponad osiemnaście lat.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by stagos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Powiedziała"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:ma"
+    ],
+    [
+      "PART",
+      "pol:ponad"
+    ],
+    [
+      "PART",
+      "pol:osiemnaście"
+    ],
+    [
+      "PART",
+      "pol:lat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.710049Z": "SPLIT_DONE"
+  }
+}

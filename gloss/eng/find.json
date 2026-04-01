@@ -2,9 +2,12 @@
   "content": "find",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:36.125403Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -126,6 +129,35 @@
     [
       "TRANSLATION",
       "por:achar"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:знайти"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:знайдете"
+    ],
+    [
+      "TRANSLATION",
+      "ind:temukan"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You have to look high and low to find a phone booth in this area"
+    ],
+    [
+      "TRANSLATION",
+      "nob:finner"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Could you help me find my keys﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:찾다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

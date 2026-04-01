@@ -2,12 +2,16 @@
   "content": "isn't",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:31.575438Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:43.956638Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -28,6 +32,28 @@
     [
       "TRANSLATION",
       "zsm:tak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said he isn't able to do that"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:немає",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary isn't in Boston now"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:That isn't how things are done here"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~는 아니에요",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

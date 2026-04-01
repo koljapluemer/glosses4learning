@@ -1,0 +1,35 @@
+{
+  "content": "Jag minns den första gången.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ilayde (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:minns"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:första"
+    ],
+    [
+      "PART",
+      "swe:gången"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.076676Z": "SPLIT_DONE"
+  }
+}

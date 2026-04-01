@@ -1,0 +1,51 @@
+{
+  "content": "Tom and Mary said that they weren't sure.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том із Мері сказали, що не впевнені"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:and"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:they"
+    ],
+    [
+      "PART",
+      "eng:weren't"
+    ],
+    [
+      "PART",
+      "eng:sure"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:28.941437Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Powiedziałam, że możesz odejść.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Powiedziałam"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:możesz"
+    ],
+    [
+      "PART",
+      "pol:odejść"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.736080Z": "SPLIT_DONE"
+  }
+}

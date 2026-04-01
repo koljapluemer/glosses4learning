@@ -1,0 +1,35 @@
+{
+  "content": "Soha senkinek nem fogom elmondani.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Soha"
+    ],
+    [
+      "PART",
+      "hun:senkinek"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:fogom"
+    ],
+    [
+      "PART",
+      "hun:elmondani"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.536988Z": "SPLIT_DONE"
+  }
+}

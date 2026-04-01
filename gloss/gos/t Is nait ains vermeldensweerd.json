@@ -1,0 +1,35 @@
+{
+  "content": "t Is nait ains vermeldensweerd.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:t"
+    ],
+    [
+      "PART",
+      "gos:Is"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ],
+    [
+      "PART",
+      "gos:ains"
+    ],
+    [
+      "PART",
+      "gos:vermeldensweerd"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.314265Z": "SPLIT_DONE"
+  }
+}

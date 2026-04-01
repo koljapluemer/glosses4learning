@@ -1,0 +1,25 @@
+{
+  "content": "話せ",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:彼女は日本語がほとんど話せないんだ。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:誰が中国語と日本語を話せますか？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Let's talk",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:59.360155Z": "TRANSLATION_DONE:eng"
+  }
+}

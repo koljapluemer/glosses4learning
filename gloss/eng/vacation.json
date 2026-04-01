@@ -2,12 +2,15 @@
   "content": "vacation",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:55.326324Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -40,6 +43,19 @@
     [
       "TRANSLATION",
       "spa:vacaciones"
+    ],
+    [
+      "TRANSLATION",
+      "ell:διακοπές"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Today is our last day of vacation"
+    ],
+    [
+      "TRANSLATION",
+      "kor:휴가",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

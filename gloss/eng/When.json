@@ -2,8 +2,12 @@
   "content": "When",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:04:47.516542Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -65,6 +69,39 @@
     [
       "TRANSLATION",
       "nob:Når"
+    ],
+    [
+      "TRANSLATION",
+      "spa:Cuando"
+    ],
+    [
+      "TRANSLATION",
+      "jpn:いっつ"
+    ],
+    [
+      "TRANSLATION",
+      "epo:Kiam"
+    ],
+    [
+      "TRANSLATION",
+      "bul:Кога"
+    ],
+    [
+      "TRANSLATION",
+      "nld:Wanneer"
+    ],
+    [
+      "TRANSLATION",
+      "vie:Khi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:When are you going back to Malaysia﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:언제",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "content": "warmer",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Gestern war ein warmer, ja sogar heißer Tag"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:теплий",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:32.023831Z": "TRANSLATION_DONE:ukr"
+  }
+}

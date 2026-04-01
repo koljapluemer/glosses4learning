@@ -1,0 +1,35 @@
+{
+  "content": "Mindennek mondható, csak becsületesnek nem.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mindennek"
+    ],
+    [
+      "PART",
+      "hun:mondható"
+    ],
+    [
+      "PART",
+      "hun:csak"
+    ],
+    [
+      "PART",
+      "hun:becsületesnek"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.552817Z": "SPLIT_DONE"
+  }
+}

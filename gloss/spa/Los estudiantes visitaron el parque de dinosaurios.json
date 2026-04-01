@@ -1,0 +1,43 @@
+{
+  "content": "Los estudiantes visitaron el parque de dinosaurios.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:visitaron"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:parque"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:dinosaurios"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.198190Z": "SPLIT_DONE"
+  }
+}

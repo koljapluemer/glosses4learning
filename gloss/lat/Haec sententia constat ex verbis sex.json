@@ -1,0 +1,43 @@
+{
+  "content": "Haec sententia constat ex verbis sex.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SunnyMoon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This sentence consists of six words"
+    ],
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:sententia"
+    ],
+    [
+      "PART",
+      "lat:constat"
+    ],
+    [
+      "PART",
+      "lat:ex"
+    ],
+    [
+      "PART",
+      "lat:verbis"
+    ],
+    [
+      "PART",
+      "lat:sex"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:09.630562Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Gisteren heb ik deelgenomen aan de bijeenkomst.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by martinod (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Gisteren"
+    ],
+    [
+      "PART",
+      "nld:heb"
+    ],
+    [
+      "PART",
+      "nld:ik"
+    ],
+    [
+      "PART",
+      "nld:deelgenomen"
+    ],
+    [
+      "PART",
+      "nld:aan"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:bijeenkomst"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.961937Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom zou bij ons hebben moeten zijn.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:zou"
+    ],
+    [
+      "PART",
+      "nld:bij"
+    ],
+    [
+      "PART",
+      "nld:ons"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:moeten"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.001672Z": "SPLIT_DONE"
+  }
+}

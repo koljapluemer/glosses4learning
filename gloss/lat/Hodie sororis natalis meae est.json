@@ -1,0 +1,35 @@
+{
+  "content": "Hodie sororis natalis meae est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hodie"
+    ],
+    [
+      "PART",
+      "lat:sororis"
+    ],
+    [
+      "PART",
+      "lat:natalis"
+    ],
+    [
+      "PART",
+      "lat:meae"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.688408Z": "SPLIT_DONE"
+  }
+}

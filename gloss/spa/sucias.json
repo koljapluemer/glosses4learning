@@ -1,0 +1,21 @@
+{
+  "content": "sucias",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me estoy lavando las manos porque las tengo sucias"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dirty",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:58.674655Z": "TRANSLATION_DONE:eng"
+  }
+}

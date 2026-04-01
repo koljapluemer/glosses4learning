@@ -2,9 +2,12 @@
   "content": "all",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:32.826614Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -278,6 +281,55 @@
     [
       "TRANSLATION",
       "tok:ali"
+    ],
+    [
+      "TRANSLATION",
+      "gos:aiwen"
+    ],
+    [
+      "TRANSLATION",
+      "ces:všechny"
+    ],
+    [
+      "TRANSLATION",
+      "ell:όλη"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I am not interested in politics at all"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He was all alone in the room"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm not interested in politics at all"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We all believed in what he said"
+    ],
+    [
+      "TRANSLATION",
+      "pol:wszystkie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:His laboratory contains all the deadliest poisons"
+    ],
+    [
+      "TRANSLATION",
+      "kor:모든",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:That's all. There are no more"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Children all leave the nest one day"
     ]
   ]
 }

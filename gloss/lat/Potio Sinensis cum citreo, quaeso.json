@@ -1,0 +1,35 @@
+{
+  "content": "Potio Sinensis cum citreo, quaeso.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potio"
+    ],
+    [
+      "PART",
+      "lat:Sinensis"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:citreo"
+    ],
+    [
+      "PART",
+      "lat:quaeso"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.645154Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "De kinderen hebben schoenen gekregen voor Kerstmis.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:De"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:schoenen"
+    ],
+    [
+      "PART",
+      "nld:gekregen"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:Kerstmis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.966141Z": "SPLIT_DONE"
+  }
+}

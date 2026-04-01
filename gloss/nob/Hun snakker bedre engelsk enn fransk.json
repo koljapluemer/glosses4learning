@@ -1,0 +1,43 @@
+{
+  "content": "Hun snakker bedre engelsk enn fransk.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by garborg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Her English is better than her French"
+    ],
+    [
+      "PART",
+      "nob:Hun"
+    ],
+    [
+      "PART",
+      "nob:snakker"
+    ],
+    [
+      "PART",
+      "nob:bedre"
+    ],
+    [
+      "PART",
+      "nob:engelsk"
+    ],
+    [
+      "PART",
+      "nob:enn"
+    ],
+    [
+      "PART",
+      "nob:fransk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:33.933363Z": "SPLIT_DONE"
+  }
+}

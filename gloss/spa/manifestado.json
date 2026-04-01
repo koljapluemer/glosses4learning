@@ -1,0 +1,21 @@
+{
+  "content": "manifestado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estudiantes se han manifestado contra el nuevo gobierno"
+    ],
+    [
+      "TRANSLATION",
+      "eng:expressed, demonstrated, apparent",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:12.677575Z": "TRANSLATION_DONE:eng"
+  }
+}

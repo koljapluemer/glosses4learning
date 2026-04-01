@@ -1,0 +1,39 @@
+{
+  "content": "Tom ty dveře našel otevřené.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom found the door open"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:ty"
+    ],
+    [
+      "PART",
+      "ces:dveře"
+    ],
+    [
+      "PART",
+      "ces:našel"
+    ],
+    [
+      "PART",
+      "ces:otevřené"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:41.694108Z": "SPLIT_DONE"
+  }
+}

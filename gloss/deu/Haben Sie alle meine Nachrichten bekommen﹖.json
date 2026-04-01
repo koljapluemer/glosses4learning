@@ -1,0 +1,39 @@
+{
+  "content": "Haben Sie alle meine Nachrichten bekommen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:alle"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Nachrichten"
+    ],
+    [
+      "PART",
+      "deu:bekommen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.910851Z": "SPLIT_DONE"
+  }
+}

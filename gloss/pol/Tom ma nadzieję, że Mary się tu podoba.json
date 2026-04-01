@@ -1,0 +1,47 @@
+{
+  "content": "Tom ma nadzieję, że Mary się tu podoba.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:ma"
+    ],
+    [
+      "PART",
+      "pol:nadzieję"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:tu"
+    ],
+    [
+      "PART",
+      "pol:podoba"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.751099Z": "SPLIT_DONE"
+  }
+}

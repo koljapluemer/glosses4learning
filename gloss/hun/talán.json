@@ -1,0 +1,29 @@
+{
+  "content": "talán",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Azt hittem, talán ér valamit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Később talán rájön, mit értettem ezzel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:perhaps",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Ma még itt vagyok, holnap talán már nem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:36:15.100246Z": "TRANSLATION_DONE:eng"
+  }
+}

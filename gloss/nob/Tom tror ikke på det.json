@@ -1,0 +1,35 @@
+{
+  "content": "Tom tror ikke på det.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:tror"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:på"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.764937Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Disseram que eles estão interessados.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JGEN (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Disseram"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:eles"
+    ],
+    [
+      "PART",
+      "por:estão"
+    ],
+    [
+      "PART",
+      "por:interessados"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.874757Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "Tom knows that he should do that soon.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том знає, що має це зробити найближчим часом"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:knows"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:should"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ],
+    [
+      "PART",
+      "eng:soon"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:29.351505Z": "SPLIT_DONE"
+  }
+}

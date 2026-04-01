@@ -1,0 +1,35 @@
+{
+  "content": "Han skal ha ankommet allerede.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Han"
+    ],
+    [
+      "PART",
+      "nob:skal"
+    ],
+    [
+      "PART",
+      "nob:ha"
+    ],
+    [
+      "PART",
+      "nob:ankommet"
+    ],
+    [
+      "PART",
+      "nob:allerede"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.827229Z": "SPLIT_DONE"
+  }
+}

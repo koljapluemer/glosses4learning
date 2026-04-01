@@ -1,0 +1,31 @@
+{
+  "content": "Mitä mieltä olette tähdistäennustamisesta?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Mitä"
+    ],
+    [
+      "PART",
+      "fin:mieltä"
+    ],
+    [
+      "PART",
+      "fin:olette"
+    ],
+    [
+      "PART",
+      "fin:tähdistäennustamisesta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.802094Z": "SPLIT_DONE"
+  }
+}

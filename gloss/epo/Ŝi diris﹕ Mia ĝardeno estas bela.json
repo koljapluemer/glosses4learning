@@ -1,0 +1,39 @@
+{
+  "content": "Ŝi diris: \"Mia ĝardeno estas bela.\"",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vortarulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Ŝi"
+    ],
+    [
+      "PART",
+      "epo:diris"
+    ],
+    [
+      "PART",
+      "epo:Mia"
+    ],
+    [
+      "PART",
+      "epo:ĝardeno"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:bela"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.408665Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "момент",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цей пацієнт може померти в будь-який момент"
+    ],
+    [
+      "TRANSLATION",
+      "eng:moment",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Цієї позиції в даний момент немає в наявності"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Moment",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:10.679193Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:32.870934Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Ingen hjälpte mig göra detta.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Airou (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Ingen"
+    ],
+    [
+      "PART",
+      "swe:hjälpte"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:göra"
+    ],
+    [
+      "PART",
+      "swe:detta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.065939Z": "SPLIT_DONE"
+  }
+}

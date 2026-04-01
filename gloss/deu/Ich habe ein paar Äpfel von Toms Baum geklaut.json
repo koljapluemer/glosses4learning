@@ -1,0 +1,55 @@
+{
+  "content": "Ich habe ein paar Äpfel von Toms Baum geklaut.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I stole some apples from Tom's tree"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:ein"
+    ],
+    [
+      "PART",
+      "deu:paar"
+    ],
+    [
+      "PART",
+      "deu:Äpfel"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:Toms"
+    ],
+    [
+      "PART",
+      "deu:Baum"
+    ],
+    [
+      "PART",
+      "deu:geklaut"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:43.138771Z": "SPLIT_DONE"
+  }
+}

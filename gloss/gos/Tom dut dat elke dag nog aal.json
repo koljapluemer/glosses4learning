@@ -1,0 +1,43 @@
+{
+  "content": "Tom dut dat elke dag nog aal.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:dut"
+    ],
+    [
+      "PART",
+      "gos:dat"
+    ],
+    [
+      "PART",
+      "gos:elke"
+    ],
+    [
+      "PART",
+      "gos:dag"
+    ],
+    [
+      "PART",
+      "gos:nog"
+    ],
+    [
+      "PART",
+      "gos:aal"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.348916Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Nie jestem dumny z mojego zachowania.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nie"
+    ],
+    [
+      "PART",
+      "pol:jestem"
+    ],
+    [
+      "PART",
+      "pol:dumny"
+    ],
+    [
+      "PART",
+      "pol:z"
+    ],
+    [
+      "PART",
+      "pol:mojego"
+    ],
+    [
+      "PART",
+      "pol:zachowania"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.737115Z": "SPLIT_DONE"
+  }
+}

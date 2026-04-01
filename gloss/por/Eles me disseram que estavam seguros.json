@@ -1,0 +1,39 @@
+{
+  "content": "Eles me disseram que estavam seguros.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arademaker (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eles"
+    ],
+    [
+      "PART",
+      "por:me"
+    ],
+    [
+      "PART",
+      "por:disseram"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:estavam"
+    ],
+    [
+      "PART",
+      "por:seguros"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.943545Z": "SPLIT_DONE"
+  }
+}

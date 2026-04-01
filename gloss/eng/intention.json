@@ -2,12 +2,15 @@
   "content": "intention",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:44.274526Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +39,27 @@
     [
       "TRANSLATION",
       "spa:intención"
+    ],
+    [
+      "TRANSLATION",
+      "ces:úmyslu"
+    ],
+    [
+      "TRANSLATION",
+      "epo:intenco"
+    ],
+    [
+      "TRANSLATION",
+      "pol:zamiar"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I think it is his intention"
+    ],
+    [
+      "TRANSLATION",
+      "kor:의도",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Πείτε στον Τομ την αλήθεια.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Πείτε"
+    ],
+    [
+      "PART",
+      "ell:στον"
+    ],
+    [
+      "PART",
+      "ell:Τομ"
+    ],
+    [
+      "PART",
+      "ell:την"
+    ],
+    [
+      "PART",
+      "ell:αλήθεια"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.713398Z": "SPLIT_DONE"
+  }
+}

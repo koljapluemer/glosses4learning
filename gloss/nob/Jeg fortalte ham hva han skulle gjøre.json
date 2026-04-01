@@ -1,0 +1,43 @@
+{
+  "content": "Jeg fortalte ham hva han skulle gjøre.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by testdog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:fortalte"
+    ],
+    [
+      "PART",
+      "nob:ham"
+    ],
+    [
+      "PART",
+      "nob:hva"
+    ],
+    [
+      "PART",
+      "nob:han"
+    ],
+    [
+      "PART",
+      "nob:skulle"
+    ],
+    [
+      "PART",
+      "nob:gjøre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.760695Z": "SPLIT_DONE"
+  }
+}

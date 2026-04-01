@@ -1,0 +1,35 @@
+{
+  "content": "Nikdo nás teď nemůže zastavit.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nikdo"
+    ],
+    [
+      "PART",
+      "ces:nás"
+    ],
+    [
+      "PART",
+      "ces:teď"
+    ],
+    [
+      "PART",
+      "ces:nemůže"
+    ],
+    [
+      "PART",
+      "ces:zastavit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.161557Z": "SPLIT_DONE"
+  }
+}

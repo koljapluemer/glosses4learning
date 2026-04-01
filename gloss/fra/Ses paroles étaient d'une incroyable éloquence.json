@@ -1,0 +1,39 @@
+{
+  "content": "Ses paroles étaient d'une incroyable éloquence.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nimfeo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ses"
+    ],
+    [
+      "PART",
+      "fra:paroles"
+    ],
+    [
+      "PART",
+      "fra:étaient"
+    ],
+    [
+      "PART",
+      "fra:d'une"
+    ],
+    [
+      "PART",
+      "fra:incroyable"
+    ],
+    [
+      "PART",
+      "fra:éloquence"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.743593Z": "SPLIT_DONE"
+  }
+}

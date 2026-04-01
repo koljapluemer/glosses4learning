@@ -1,0 +1,21 @@
+{
+  "content": "nadando",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos niños están nadando en el estanque"
+    ],
+    [
+      "TRANSLATION",
+      "eng:swimming",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:20.904048Z": "TRANSLATION_DONE:eng"
+  }
+}

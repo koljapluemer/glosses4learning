@@ -1,0 +1,51 @@
+{
+  "content": "Tom kan deze brief niet zelf hebben geschreven.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom can't have written this letter himself"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:kan"
+    ],
+    [
+      "PART",
+      "nld:deze"
+    ],
+    [
+      "PART",
+      "nld:brief"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:zelf"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:geschreven"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:32.907916Z": "SPLIT_DONE"
+  }
+}

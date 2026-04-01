@@ -1,0 +1,25 @@
+{
+  "content": "estanque",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hay algunos niños bañándose en el estanque"
+    ],
+    [
+      "TRANSLATION",
+      "eng:pond",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos niños están nadando en el estanque"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:13.564327Z": "TRANSLATION_DONE:eng"
+  }
+}

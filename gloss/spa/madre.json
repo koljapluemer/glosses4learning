@@ -1,0 +1,47 @@
+{
+  "content": "madre",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo no sé quién es mi madre"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мати",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Por qué tu madre siempre anda con gafas de sol﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mutter",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Mary le dio la bienvenida a su madre con un beso"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Una madre lo hace todo por su hijo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:De repente pensé en mi madre fallecida"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:De repente pensé en mi madre difunta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:23.321790Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:16.579763Z": "TRANSLATION_DONE:deu"
+  }
+}

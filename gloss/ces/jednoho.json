@@ -1,0 +1,33 @@
+{
+  "content": "jednoho",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Neznám ani jednoho z jeho bratrů"
+    ],
+    [
+      "TRANSLATION",
+      "eng:one",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Mám tři sestry a jednoho bratra"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Mám jednoho psa a jednu kočku"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Je jenom místo pro jednoho z nás"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:58.132657Z": "TRANSLATION_DONE:eng"
+  }
+}

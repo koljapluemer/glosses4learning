@@ -1,0 +1,43 @@
+{
+  "content": "Πες μου μια ιστορία με μια φράση.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tell me a story in one sentence"
+    ],
+    [
+      "PART",
+      "ell:Πες"
+    ],
+    [
+      "PART",
+      "ell:μου"
+    ],
+    [
+      "PART",
+      "ell:μια"
+    ],
+    [
+      "PART",
+      "ell:ιστορία"
+    ],
+    [
+      "PART",
+      "ell:με"
+    ],
+    [
+      "PART",
+      "ell:φράση"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:03.743611Z": "SPLIT_DONE"
+  }
+}

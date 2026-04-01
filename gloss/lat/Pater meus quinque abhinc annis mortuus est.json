@@ -1,0 +1,43 @@
+{
+  "content": "Pater meus quinque abhinc annis mortuus est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Pater"
+    ],
+    [
+      "PART",
+      "lat:meus"
+    ],
+    [
+      "PART",
+      "lat:quinque"
+    ],
+    [
+      "PART",
+      "lat:abhinc"
+    ],
+    [
+      "PART",
+      "lat:annis"
+    ],
+    [
+      "PART",
+      "lat:mortuus"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.703189Z": "SPLIT_DONE"
+  }
+}

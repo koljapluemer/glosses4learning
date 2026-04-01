@@ -2,8 +2,13 @@
   "content": "Tage",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:52:37.581503Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:30.241451Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -44,6 +49,32 @@
     [
       "TRANSLATION",
       "tur:günlerde"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Und so lebte er glücklich bis an das Ende seiner Tage"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Days",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bleibt ein paar Tage bei uns!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дні",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bleiben Sie ein paar Tage bei uns!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe vier Tage lang nichts gegessen"
     ]
   ]
 }

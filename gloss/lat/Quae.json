@@ -1,0 +1,29 @@
+{
+  "content": "Quae",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quae femina matertera tua est﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Which",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quae femina amita tua est﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quae matertera tua est﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:09.982029Z": "TRANSLATION_DONE:eng"
+  }
+}

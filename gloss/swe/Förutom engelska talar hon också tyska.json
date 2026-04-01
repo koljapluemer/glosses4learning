@@ -1,0 +1,39 @@
+{
+  "content": "Förutom engelska talar hon också tyska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Förutom"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ],
+    [
+      "PART",
+      "swe:talar"
+    ],
+    [
+      "PART",
+      "swe:hon"
+    ],
+    [
+      "PART",
+      "swe:också"
+    ],
+    [
+      "PART",
+      "swe:tyska"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.174053Z": "SPLIT_DONE"
+  }
+}

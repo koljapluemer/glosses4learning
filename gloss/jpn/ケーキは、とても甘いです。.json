@@ -1,0 +1,39 @@
+{
+  "content": "ケーキは、とても甘いです。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by small_snow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The cake is so sweet"
+    ],
+    [
+      "PART",
+      "jpn:ケーキ"
+    ],
+    [
+      "PART",
+      "jpn:は"
+    ],
+    [
+      "PART",
+      "jpn:とても"
+    ],
+    [
+      "PART",
+      "jpn:甘い"
+    ],
+    [
+      "PART",
+      "jpn:です"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:50.267867Z": "SPLIT_DONE"
+  }
+}

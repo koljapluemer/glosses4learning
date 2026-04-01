@@ -1,0 +1,35 @@
+{
+  "content": "Algunos humanos también hacen esto.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:humanos"
+    ],
+    [
+      "PART",
+      "spa:también"
+    ],
+    [
+      "PART",
+      "spa:hacen"
+    ],
+    [
+      "PART",
+      "spa:esto"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.284693Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,25 @@
   "content": "nosotras",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:59:22.829954Z": "TRANSLATION_DONE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:we"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Eso casi nos pasa también a nosotras"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wir",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

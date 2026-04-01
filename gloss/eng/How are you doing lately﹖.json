@@ -1,0 +1,39 @@
+{
+  "content": "How are you doing lately?",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Lydia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:요즘에 어떻게 지냈어요﹖"
+    ],
+    [
+      "PART",
+      "eng:How"
+    ],
+    [
+      "PART",
+      "eng:are"
+    ],
+    [
+      "PART",
+      "eng:you"
+    ],
+    [
+      "PART",
+      "eng:doing"
+    ],
+    [
+      "PART",
+      "eng:lately"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:31.790300Z": "SPLIT_DONE"
+  }
+}

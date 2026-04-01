@@ -1,0 +1,35 @@
+{
+  "content": "Tom dostal všechno, co chtěl.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:dostal"
+    ],
+    [
+      "PART",
+      "ces:všechno"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:chtěl"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.131033Z": "SPLIT_DONE"
+  }
+}

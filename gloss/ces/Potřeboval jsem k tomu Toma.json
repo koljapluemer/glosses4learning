@@ -1,0 +1,35 @@
+{
+  "content": "Potřeboval jsem k tomu Toma.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Potřeboval"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:k"
+    ],
+    [
+      "PART",
+      "ces:tomu"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.254610Z": "SPLIT_DONE"
+  }
+}

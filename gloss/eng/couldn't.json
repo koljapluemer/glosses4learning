@@ -1,0 +1,35 @@
+{
+  "content": "couldn't",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary couldn't do that"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:не вдалося",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I couldn't sleep because of his snoring"
+    ],
+    [
+      "TRANSLATION",
+      "kor:할 수 없었다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm sorry that I couldn't go with you"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:31.435220Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:39.833196Z": "TRANSLATION_DONE:kor"
+  }
+}

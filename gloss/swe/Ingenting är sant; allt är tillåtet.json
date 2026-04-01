@@ -1,0 +1,35 @@
+{
+  "content": "Ingenting är sant; allt är tillåtet.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by loghaD (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Ingenting"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:sant"
+    ],
+    [
+      "PART",
+      "swe:allt"
+    ],
+    [
+      "PART",
+      "swe:tillåtet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.077466Z": "SPLIT_DONE"
+  }
+}

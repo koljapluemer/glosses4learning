@@ -1,0 +1,39 @@
+{
+  "content": "Tom nikomu o tym nie powiedział.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:nikomu"
+    ],
+    [
+      "PART",
+      "pol:o"
+    ],
+    [
+      "PART",
+      "pol:tym"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.811901Z": "SPLIT_DONE"
+  }
+}

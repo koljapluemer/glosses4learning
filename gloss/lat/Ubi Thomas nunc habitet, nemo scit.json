@@ -1,0 +1,39 @@
+{
+  "content": "Ubi Thomas nunc habitet, nemo scit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Ubi"
+    ],
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:nunc"
+    ],
+    [
+      "PART",
+      "lat:habitet"
+    ],
+    [
+      "PART",
+      "lat:nemo"
+    ],
+    [
+      "PART",
+      "lat:scit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.653340Z": "SPLIT_DONE"
+  }
+}

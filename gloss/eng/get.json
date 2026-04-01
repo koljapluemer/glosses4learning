@@ -2,12 +2,15 @@
   "content": "get",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:43.421707Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -192,6 +195,23 @@
     [
       "TRANSLATION",
       "ind:mendapatkan"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:買"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:买"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It doesn't matter how old you get, you can learn"
+    ],
+    [
+      "TRANSLATION",
+      "kor:받다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

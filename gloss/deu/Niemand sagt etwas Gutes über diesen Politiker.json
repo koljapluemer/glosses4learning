@@ -1,0 +1,43 @@
+{
+  "content": "Niemand sagt etwas Gutes über diesen Politiker.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sudajaengi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Niemand"
+    ],
+    [
+      "PART",
+      "deu:sagt"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:Gutes"
+    ],
+    [
+      "PART",
+      "deu:über"
+    ],
+    [
+      "PART",
+      "deu:diesen"
+    ],
+    [
+      "PART",
+      "deu:Politiker"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.887168Z": "SPLIT_DONE"
+  }
+}

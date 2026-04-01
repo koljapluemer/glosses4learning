@@ -1,0 +1,39 @@
+{
+  "content": "這張桌子被 Tom 用過。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickyeow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This desk is used by Tom"
+    ],
+    [
+      "PART",
+      "cmn:這張"
+    ],
+    [
+      "PART",
+      "cmn:桌子"
+    ],
+    [
+      "PART",
+      "cmn:被"
+    ],
+    [
+      "PART",
+      "cmn:Tom"
+    ],
+    [
+      "PART",
+      "cmn:用過"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:28.254085Z": "SPLIT_DONE"
+  }
+}

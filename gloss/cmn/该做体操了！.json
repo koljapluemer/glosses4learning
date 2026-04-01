@@ -1,0 +1,35 @@
+{
+  "content": "该做体操了！",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by crescat (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It's time for gymnastics!"
+    ],
+    [
+      "PART",
+      "cmn:该"
+    ],
+    [
+      "PART",
+      "cmn:做"
+    ],
+    [
+      "PART",
+      "cmn:体操"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:41:02.350563Z": "SPLIT_DONE"
+  }
+}

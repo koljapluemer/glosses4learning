@@ -1,0 +1,35 @@
+{
+  "content": "Doe zelst sloapen mouten.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:You will have to sleep"
+    ],
+    [
+      "PART",
+      "gos:Doe"
+    ],
+    [
+      "PART",
+      "gos:zelst"
+    ],
+    [
+      "PART",
+      "gos:sloapen"
+    ],
+    [
+      "PART",
+      "gos:mouten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.497083Z": "SPLIT_DONE"
+  }
+}

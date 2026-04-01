@@ -1,0 +1,51 @@
+{
+  "content": "Tom dijo que necesitaba algo más de tiempo.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Tom sagte, er brauche noch etwas Zeit"
+    ],
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:dijo"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:necesitaba"
+    ],
+    [
+      "PART",
+      "spa:algo"
+    ],
+    [
+      "PART",
+      "spa:más"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:tiempo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:28.271263Z": "SPLIT_DONE"
+  }
+}

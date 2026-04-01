@@ -2,9 +2,12 @@
   "content": "All",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:37.174511Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -138,6 +141,31 @@
     [
       "TRANSLATION",
       "jpn:全て"
+    ],
+    [
+      "TRANSLATION",
+      "epo:Iuj"
+    ],
+    [
+      "TRANSLATION",
+      "bul:Всички"
+    ],
+    [
+      "TRANSLATION",
+      "tur:Tüm"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:All of his family members are tall"
+    ],
+    [
+      "TRANSLATION",
+      "kor:모든",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:All of the goldfish are dead"
     ]
   ]
 }

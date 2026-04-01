@@ -1,0 +1,31 @@
+{
+  "content": "Jeg leser denne avisen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pergpau (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:leser"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:avisen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.665468Z": "SPLIT_DONE"
+  }
+}

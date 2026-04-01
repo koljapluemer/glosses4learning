@@ -1,0 +1,39 @@
+{
+  "content": "À quelle fréquence vas-tu à l'étranger ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:À"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:fréquence"
+    ],
+    [
+      "PART",
+      "fra:vas-tu"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:l'étranger"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.756701Z": "SPLIT_DONE"
+  }
+}

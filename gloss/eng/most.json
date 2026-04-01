@@ -2,9 +2,12 @@
   "content": "most",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:41.612942Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -46,6 +49,39 @@
     [
       "TRANSLATION",
       "gos:most"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:найбільше"
+    ],
+    [
+      "TRANSLATION",
+      "swe:flesta"
+    ],
+    [
+      "TRANSLATION",
+      "hun:legtöbb"
+    ],
+    [
+      "TRANSLATION",
+      "nob:fleste"
+    ],
+    [
+      "TRANSLATION",
+      "tur:çoğu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What fruit do you like the most﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:가장",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You can only see what you like the most"
     ]
   ]
 }

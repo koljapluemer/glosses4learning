@@ -2,12 +2,39 @@
   "content": "sobre",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:30:10.359525Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:27.560204Z": "TRANSLATION_DONE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:to"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo estuve de acuerdo con él sobre ese punto"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:про",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Y sobre todo, sé verdadero contigo mismo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estuve de acuerdo con él sobre el plan"
+    ],
+    [
+      "TRANSLATION",
+      "deu:über",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

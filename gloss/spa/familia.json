@@ -1,0 +1,35 @@
+{
+  "content": "familia",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sé mucho acerca de tu familia"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сім'я",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sé nada acerca de su familia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Qué Dios te bendiga a ti y a tu familia"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Familie",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:19.664938Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:24.809814Z": "TRANSLATION_DONE:deu"
+  }
+}

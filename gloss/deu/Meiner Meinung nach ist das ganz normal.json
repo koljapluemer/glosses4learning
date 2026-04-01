@@ -1,0 +1,43 @@
+{
+  "content": "Meiner Meinung nach ist das ganz normal.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meiner"
+    ],
+    [
+      "PART",
+      "deu:Meinung"
+    ],
+    [
+      "PART",
+      "deu:nach"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:ganz"
+    ],
+    [
+      "PART",
+      "deu:normal"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.918367Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "我要去银行了。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yashanti (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I've got to go to the bank"
+    ],
+    [
+      "PART",
+      "cmn:我要"
+    ],
+    [
+      "PART",
+      "cmn:去"
+    ],
+    [
+      "PART",
+      "cmn:银行"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:06.652902Z": "SPLIT_DONE"
+  }
+}

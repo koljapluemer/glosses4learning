@@ -1,0 +1,21 @@
+{
+  "content": "図書",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:その本なら図書館にありますよ。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Books",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:05.318212Z": "TRANSLATION_DONE:eng"
+  }
+}

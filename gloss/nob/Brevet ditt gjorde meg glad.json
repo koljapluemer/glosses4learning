@@ -1,0 +1,35 @@
+{
+  "content": "Brevet ditt gjorde meg glad.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Brevet"
+    ],
+    [
+      "PART",
+      "nob:ditt"
+    ],
+    [
+      "PART",
+      "nob:gjorde"
+    ],
+    [
+      "PART",
+      "nob:meg"
+    ],
+    [
+      "PART",
+      "nob:glad"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.845682Z": "SPLIT_DONE"
+  }
+}

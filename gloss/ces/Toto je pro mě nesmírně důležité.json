@@ -1,0 +1,43 @@
+{
+  "content": "Toto je pro mě nesmírně důležité.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is extremely important to me"
+    ],
+    [
+      "PART",
+      "ces:Toto"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:pro"
+    ],
+    [
+      "PART",
+      "ces:mě"
+    ],
+    [
+      "PART",
+      "ces:nesmírně"
+    ],
+    [
+      "PART",
+      "ces:důležité"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:36.579474Z": "SPLIT_DONE"
+  }
+}

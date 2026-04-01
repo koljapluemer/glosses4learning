@@ -1,0 +1,39 @@
+{
+  "content": "Peter drinkt adìnlek veul kovvie.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Peter drinks quite a lot of coffee"
+    ],
+    [
+      "PART",
+      "gos:Peter"
+    ],
+    [
+      "PART",
+      "gos:drinkt"
+    ],
+    [
+      "PART",
+      "gos:adìnlek"
+    ],
+    [
+      "PART",
+      "gos:veul"
+    ],
+    [
+      "PART",
+      "gos:kovvie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.646213Z": "SPLIT_DONE"
+  }
+}

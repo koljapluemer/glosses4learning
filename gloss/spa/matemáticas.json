@@ -1,0 +1,21 @@
+{
+  "content": "matemáticas",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los estudiantes americanos se están quedando atrasados en matemáticas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mathematics",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:58.133796Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "content": "Todo mundo sabe que o francês de Tom é bom.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Everyone knows that Tom's French is good"
+    ],
+    [
+      "PART",
+      "por:Todo"
+    ],
+    [
+      "PART",
+      "por:mundo"
+    ],
+    [
+      "PART",
+      "por:sabe"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:francês"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:Tom"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:bom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:05.206448Z": "SPLIT_DONE"
+  }
+}

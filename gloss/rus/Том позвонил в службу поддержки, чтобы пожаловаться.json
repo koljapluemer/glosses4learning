@@ -1,0 +1,43 @@
+{
+  "content": "Том позвонил в службу поддержки, чтобы пожаловаться.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soweli_Elepanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ],
+    [
+      "PART",
+      "rus:в"
+    ],
+    [
+      "PART",
+      "rus:службу"
+    ],
+    [
+      "PART",
+      "rus:поддержки"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:пожаловаться"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.408561Z": "SPLIT_DONE"
+  }
+}

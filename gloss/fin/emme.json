@@ -1,0 +1,37 @@
+{
+  "content": "emme",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Me emme ymmärtäneet yhtään mitään siitä, mitä sanoit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Sinä tiedät, että me emme voi tehdä sitä"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Miksi me kaikki emme vain voi tulla toimeen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:we don't",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Miksi me emme voi mennä katsomaan Tomia﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Me emme voi olettaa, että nämä rahat ovat Tomin"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:03.866205Z": "TRANSLATION_DONE:eng"
+  }
+}

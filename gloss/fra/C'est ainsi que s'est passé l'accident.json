@@ -1,0 +1,39 @@
+{
+  "content": "C'est ainsi que s'est passé l'accident.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:ainsi"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:l'accident"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.577744Z": "SPLIT_DONE"
+  }
+}

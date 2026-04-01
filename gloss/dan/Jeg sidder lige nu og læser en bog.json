@@ -1,0 +1,47 @@
+{
+  "content": "Jeg sidder lige nu og læser en bog.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:sidder"
+    ],
+    [
+      "PART",
+      "dan:lige"
+    ],
+    [
+      "PART",
+      "dan:nu"
+    ],
+    [
+      "PART",
+      "dan:og"
+    ],
+    [
+      "PART",
+      "dan:læser"
+    ],
+    [
+      "PART",
+      "dan:en"
+    ],
+    [
+      "PART",
+      "dan:bog"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.504003Z": "SPLIT_DONE"
+  }
+}

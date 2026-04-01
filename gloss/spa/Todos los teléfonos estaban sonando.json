@@ -1,0 +1,35 @@
+{
+  "content": "Todos los teléfonos estaban sonando.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by diegohn (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:teléfonos"
+    ],
+    [
+      "PART",
+      "spa:estaban"
+    ],
+    [
+      "PART",
+      "spa:sonando"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.156214Z": "SPLIT_DONE"
+  }
+}

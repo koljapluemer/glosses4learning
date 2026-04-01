@@ -2,12 +2,15 @@
   "content": "eggs",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:12.201174Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -32,6 +35,27 @@
     [
       "TRANSLATION",
       "fin:munia"
+    ],
+    [
+      "TRANSLATION",
+      "dan:æg"
+    ],
+    [
+      "TRANSLATION",
+      "pol:jajek"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How many eggs are there in the refrigerator﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:계란",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How many eggs are in the refrigerator﹖"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Neniu alia estas kiel vi.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Neniu"
+    ],
+    [
+      "PART",
+      "epo:alia"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:kiel"
+    ],
+    [
+      "PART",
+      "epo:vi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.465102Z": "SPLIT_DONE"
+  }
+}

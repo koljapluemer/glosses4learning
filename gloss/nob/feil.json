@@ -1,0 +1,33 @@
+{
+  "content": "feil",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Det viser seg at han tar feil"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:De kommer til å gjøre feil"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Han gjør feil som alle andre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:error",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Han gjør feil han som alle andre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:34.423460Z": "TRANSLATION_DONE:eng"
+  }
+}

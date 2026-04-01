@@ -1,0 +1,39 @@
+{
+  "content": "¿Puedo ver la televisión esta noche?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Viguesito (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Puedo"
+    ],
+    [
+      "PART",
+      "spa:ver"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:televisión"
+    ],
+    [
+      "PART",
+      "spa:esta"
+    ],
+    [
+      "PART",
+      "spa:noche"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.290272Z": "SPLIT_DONE"
+  }
+}

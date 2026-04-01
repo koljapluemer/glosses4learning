@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:38:25.705Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:38:25.705Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:51.846890Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -120,6 +122,15 @@
     [
       "TRANSLATION",
       "ind:telah"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Everyone here but me has done that"
+    ],
+    [
+      "TRANSLATION",
+      "kor:가지고 있다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

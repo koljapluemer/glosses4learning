@@ -2,12 +2,15 @@
   "content": "French",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:55.864962Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -160,6 +163,31 @@
     [
       "TRANSLATION",
       "kab:tafṛansist"
+    ],
+    [
+      "TRANSLATION",
+      "heb:צרפתית"
+    ],
+    [
+      "TRANSLATION",
+      "fin:ranskan"
+    ],
+    [
+      "TRANSLATION",
+      "lat:Gallici"
+    ],
+    [
+      "TRANSLATION",
+      "pol:francuskiego"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there anybody here who speaks French﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:프랑스어",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

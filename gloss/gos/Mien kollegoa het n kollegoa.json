@@ -1,0 +1,31 @@
+{
+  "content": "Mien kollegoa het n kollegoa.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Mien"
+    ],
+    [
+      "PART",
+      "gos:kollegoa"
+    ],
+    [
+      "PART",
+      "gos:het"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.354096Z": "SPLIT_DONE"
+  }
+}

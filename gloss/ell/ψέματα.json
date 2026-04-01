@@ -1,0 +1,29 @@
+{
+  "content": "ψέματα",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ο Τομ δεν είναι καλός στα ψέματα"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Μη λες ψέματα για την ηλικία σου"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lies",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Αυτός λέει ψέματα με το κιλό"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:15.380837Z": "TRANSLATION_DONE:eng"
+  }
+}

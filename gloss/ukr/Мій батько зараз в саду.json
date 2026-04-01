@@ -1,0 +1,39 @@
+{
+  "content": "Мій батько зараз в саду.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Mein Vater ist gerade im Garten"
+    ],
+    [
+      "PART",
+      "ukr:Мій"
+    ],
+    [
+      "PART",
+      "ukr:батько"
+    ],
+    [
+      "PART",
+      "ukr:зараз"
+    ],
+    [
+      "PART",
+      "ukr:в"
+    ],
+    [
+      "PART",
+      "ukr:саду"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:00:09.366078Z": "SPLIT_DONE"
+  }
+}

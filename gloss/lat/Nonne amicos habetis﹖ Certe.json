@@ -1,0 +1,31 @@
+{
+  "content": "Nonne amicos habetis? Certe.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nonne"
+    ],
+    [
+      "PART",
+      "lat:amicos"
+    ],
+    [
+      "PART",
+      "lat:habetis"
+    ],
+    [
+      "PART",
+      "lat:Certe"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.704648Z": "SPLIT_DONE"
+  }
+}

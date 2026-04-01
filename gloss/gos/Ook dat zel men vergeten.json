@@ -1,0 +1,35 @@
+{
+  "content": "Ook dat zel men vergeten.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ook"
+    ],
+    [
+      "PART",
+      "gos:dat"
+    ],
+    [
+      "PART",
+      "gos:zel"
+    ],
+    [
+      "PART",
+      "gos:men"
+    ],
+    [
+      "PART",
+      "gos:vergeten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.317726Z": "SPLIT_DONE"
+  }
+}

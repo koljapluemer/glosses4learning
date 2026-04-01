@@ -1,0 +1,43 @@
+{
+  "content": "我是我们公司的推销员。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sysko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I'm a salesman for our company"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:公司"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:推销员"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:35.834907Z": "SPLIT_DONE"
+  }
+}

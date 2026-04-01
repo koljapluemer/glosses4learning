@@ -2,9 +2,12 @@
   "content": "more",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:35.079150Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -118,6 +121,39 @@
     [
       "TRANSLATION",
       "jbo:zmadu"
+    ],
+    [
+      "TRANSLATION",
+      "epo:pliajn"
+    ],
+    [
+      "TRANSLATION",
+      "ces:více"
+    ],
+    [
+      "TRANSLATION",
+      "ces:víc"
+    ],
+    [
+      "TRANSLATION",
+      "fin:enemmän"
+    ],
+    [
+      "TRANSLATION",
+      "ell:περισσότερες"
+    ],
+    [
+      "TRANSLATION",
+      "ell:περισσότερα"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:That's all. There are no more"
+    ],
+    [
+      "TRANSLATION",
+      "kor:더",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

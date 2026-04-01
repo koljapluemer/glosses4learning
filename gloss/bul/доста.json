@@ -1,0 +1,33 @@
+{
+  "content": "доста",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Дотук всичко върви доста добре"
+    ],
+    [
+      "TRANSLATION",
+      "eng:enough",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Ти си доста добър по френски, нали﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Тя е доста по-висока от мен"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Той може да чете доста добре"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:56:18.951608Z": "TRANSLATION_DONE:eng"
+  }
+}

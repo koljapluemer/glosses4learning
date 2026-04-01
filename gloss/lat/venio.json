@@ -1,0 +1,33 @@
+{
+  "content": "venio",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc venio ut linguam Gallicam discam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc venio ut tibi gratias agam"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I come",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc venio ut aliquid tibi dicam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc venio ut aliquid tibi dem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:12.655333Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Tom mu nedokázal pomoct.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:mu"
+    ],
+    [
+      "PART",
+      "ces:nedokázal"
+    ],
+    [
+      "PART",
+      "ces:pomoct"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.231619Z": "SPLIT_DONE"
+  }
+}

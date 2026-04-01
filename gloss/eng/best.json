@@ -2,8 +2,12 @@
   "content": "best",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:04:13.013951Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -69,6 +73,43 @@
     [
       "TRANSLATION",
       "gos:best"
+    ],
+    [
+      "TRANSLATION",
+      "ind:sebaik"
+    ],
+    [
+      "TRANSLATION",
+      "swe:bästa"
+    ],
+    [
+      "TRANSLATION",
+      "ell:καλύτερο"
+    ],
+    [
+      "TRANSLATION",
+      "nob:beste"
+    ],
+    [
+      "TRANSLATION",
+      "dan:bedste"
+    ],
+    [
+      "TRANSLATION",
+      "lat:optima"
+    ],
+    [
+      "TRANSLATION",
+      "nld:best"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing my best paid off in the end"
+    ],
+    [
+      "TRANSLATION",
+      "kor:최고",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

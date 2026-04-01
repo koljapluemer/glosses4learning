@@ -1,0 +1,39 @@
+{
+  "content": "Snídám každé ráno v sedm.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I have breakfast at seven every morning"
+    ],
+    [
+      "PART",
+      "ces:Snídám"
+    ],
+    [
+      "PART",
+      "ces:každé"
+    ],
+    [
+      "PART",
+      "ces:ráno"
+    ],
+    [
+      "PART",
+      "ces:v"
+    ],
+    [
+      "PART",
+      "ces:sedm"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:24.474640Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Tom og Mary sa at de gjør det.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elithyia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom and Mary say they do that"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:og"
+    ],
+    [
+      "PART",
+      "nob:Mary"
+    ],
+    [
+      "PART",
+      "nob:sa"
+    ],
+    [
+      "PART",
+      "nob:at"
+    ],
+    [
+      "PART",
+      "nob:de"
+    ],
+    [
+      "PART",
+      "nob:gjør"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:25.527000Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Vocês ouviram o que eles disseram?",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MacGyver (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Vocês"
+    ],
+    [
+      "PART",
+      "por:ouviram"
+    ],
+    [
+      "PART",
+      "por:o"
+    ],
+    [
+      "PART",
+      "por:que"
+    ],
+    [
+      "PART",
+      "por:eles"
+    ],
+    [
+      "PART",
+      "por:disseram"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.896564Z": "SPLIT_DONE"
+  }
+}

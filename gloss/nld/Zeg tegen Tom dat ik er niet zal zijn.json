@@ -1,0 +1,51 @@
+{
+  "content": "Zeg tegen Tom dat ik er niet zal zijn.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rose_d (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zeg"
+    ],
+    [
+      "PART",
+      "nld:tegen"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:ik"
+    ],
+    [
+      "PART",
+      "nld:er"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:zal"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.104396Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "engelsk",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han tog til London for at lære engelsk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:English",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han tog til Amerika for at læse engelsk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:11.951308Z": "TRANSLATION_DONE:eng"
+  }
+}

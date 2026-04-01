@@ -1,0 +1,31 @@
+{
+  "content": "Tom幫助Mary ？",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by egg0073 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Does Tom help Mary﹖"
+    ],
+    [
+      "PART",
+      "cmn:Tom"
+    ],
+    [
+      "PART",
+      "cmn:幫助"
+    ],
+    [
+      "PART",
+      "cmn:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:23.833068Z": "SPLIT_DONE"
+  }
+}

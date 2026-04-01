@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-15T17:11:12.467Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-15T17:11:12.467Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:50.128839Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -100,6 +102,15 @@
     [
       "TRANSLATION",
       "ita:scrocchiata"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I need to check your blood pressure"
+    ],
+    [
+      "TRANSLATION",
+      "kor:확인",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

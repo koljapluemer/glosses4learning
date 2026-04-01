@@ -1,0 +1,39 @@
+{
+  "content": "Det är lätt att resa nuförtiden.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:lätt"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:resa"
+    ],
+    [
+      "PART",
+      "swe:nuförtiden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.059388Z": "SPLIT_DONE"
+  }
+}

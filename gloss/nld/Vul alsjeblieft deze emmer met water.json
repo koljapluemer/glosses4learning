@@ -1,0 +1,39 @@
+{
+  "content": "Vul alsjeblieft deze emmer met water.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Vul"
+    ],
+    [
+      "PART",
+      "nld:alsjeblieft"
+    ],
+    [
+      "PART",
+      "nld:deze"
+    ],
+    [
+      "PART",
+      "nld:emmer"
+    ],
+    [
+      "PART",
+      "nld:met"
+    ],
+    [
+      "PART",
+      "nld:water"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.996007Z": "SPLIT_DONE"
+  }
+}

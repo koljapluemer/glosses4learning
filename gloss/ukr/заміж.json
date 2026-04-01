@@ -1,0 +1,31 @@
+{
+  "content": "заміж",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Том запропонував Мері вийти за нього заміж, і вона погодилася"
+    ],
+    [
+      "TRANSLATION",
+      "eng:married",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Моя сестра вийшла заміж за лікаря"
+    ],
+    [
+      "TRANSLATION",
+      "deu:verheiratet",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:26.047334Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:27.833967Z": "TRANSLATION_DONE:deu"
+  }
+}

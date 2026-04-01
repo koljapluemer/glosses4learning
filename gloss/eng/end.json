@@ -2,12 +2,15 @@
   "content": "end",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:13.557872Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -104,6 +107,31 @@
     [
       "TRANSLATION",
       "tok:pini"
+    ],
+    [
+      "TRANSLATION",
+      "ind:akhir"
+    ],
+    [
+      "TRANSLATION",
+      "swe:slut"
+    ],
+    [
+      "TRANSLATION",
+      "por:fim"
+    ],
+    [
+      "TRANSLATION",
+      "tur:sonu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing my best paid off in the end"
+    ],
+    [
+      "TRANSLATION",
+      "kor:끝",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

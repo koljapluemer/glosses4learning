@@ -1,0 +1,27 @@
+{
+  "content": "Ты поэтому позвонил?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Ты"
+    ],
+    [
+      "PART",
+      "rus:поэтому"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.291903Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "content": "L'eau gèle à zéro degré Celsius, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:L'eau"
+    ],
+    [
+      "PART",
+      "fra:gèle"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:zéro"
+    ],
+    [
+      "PART",
+      "fra:degré"
+    ],
+    [
+      "PART",
+      "fra:Celsius"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.873578Z": "SPLIT_DONE"
+  }
+}

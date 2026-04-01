@@ -1,0 +1,31 @@
+{
+  "content": "puesto",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos consideran que él no encaja para el puesto de trabajo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:position",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me pregunto quién habrá puesto el nombre a este barco"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:посада",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:58.478541Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:21.492490Z": "TRANSLATION_DONE:ukr"
+  }
+}

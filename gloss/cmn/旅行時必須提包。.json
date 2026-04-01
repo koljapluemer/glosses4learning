@@ -1,0 +1,31 @@
+{
+  "content": "旅行時必須提包。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:A carry-on bag is essential for travel"
+    ],
+    [
+      "PART",
+      "cmn:旅行"
+    ],
+    [
+      "PART",
+      "cmn:時必須"
+    ],
+    [
+      "PART",
+      "cmn:提包"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:06.330274Z": "SPLIT_DONE"
+  }
+}

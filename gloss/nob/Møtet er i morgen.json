@@ -1,0 +1,35 @@
+{
+  "content": "Møtet er i morgen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tokkyun (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The meeting is tomorrow"
+    ],
+    [
+      "PART",
+      "nob:Møtet"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:morgen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:47.904553Z": "SPLIT_DONE"
+  }
+}

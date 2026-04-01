@@ -1,0 +1,43 @@
+{
+  "content": "Tom mengucapkan selamat kepada Mary ketika kelulusannya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mhardiyanto1 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:mengucapkan"
+    ],
+    [
+      "PART",
+      "ind:selamat"
+    ],
+    [
+      "PART",
+      "ind:kepada"
+    ],
+    [
+      "PART",
+      "ind:Mary"
+    ],
+    [
+      "PART",
+      "ind:ketika"
+    ],
+    [
+      "PART",
+      "ind:kelulusannya"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.458102Z": "SPLIT_DONE"
+  }
+}

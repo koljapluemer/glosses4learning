@@ -2,9 +2,12 @@
   "content": "matter",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:43.058854Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -85,6 +88,19 @@
     [
       "TRANSLATION",
       "kab:ayen"
+    ],
+    [
+      "TRANSLATION",
+      "fin:asia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It doesn't matter how old you get, you can learn"
+    ],
+    [
+      "TRANSLATION",
+      "kor:문제, 사안",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

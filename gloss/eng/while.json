@@ -2,9 +2,13 @@
   "content": "while",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:33.998074Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:38.622863Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -65,6 +69,28 @@
     [
       "TRANSLATION",
       "jbo:za'u"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They lived in Norway for a while"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:час",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:A person named West called while you were out"
+    ],
+    [
+      "TRANSLATION",
+      "kor:한편",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I talked on the phone while working"
     ]
   ]
 }

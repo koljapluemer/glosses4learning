@@ -1,0 +1,31 @@
+{
+  "content": "Той понякога гледа телевизия.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ednorog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Той"
+    ],
+    [
+      "PART",
+      "bul:понякога"
+    ],
+    [
+      "PART",
+      "bul:гледа"
+    ],
+    [
+      "PART",
+      "bul:телевизия"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:03.574115Z": "SPLIT_DONE"
+  }
+}

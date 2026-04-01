@@ -1,0 +1,43 @@
+{
+  "content": "El cielo resplandecía con los fuegos artificiales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Eremon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:cielo"
+    ],
+    [
+      "PART",
+      "spa:resplandecía"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:fuegos"
+    ],
+    [
+      "PART",
+      "spa:artificiales"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.299218Z": "SPLIT_DONE"
+  }
+}

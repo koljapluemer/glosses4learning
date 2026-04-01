@@ -1,0 +1,51 @@
+{
+  "content": "mor",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom ønsker at Mary skal møde hans mor"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Mutter",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Min mor er lige kommet hjem fra Storbritannien"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mother",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg skal sige til min mor at du er her"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Sig goddag til din mor for mig"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Piger kan lide at lege »far, mor og børn«"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Min mor har arbejdet på et plejehjem"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Min mor har arbejdet på et alderdomshjem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:50.294765Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:52:55.843229Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "japanischen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Bitte übersetzen Sie diesen japanischen Text ins Französische"
+    ],
+    [
+      "TRANSLATION",
+      "kor:일본어",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Fußball ist unter japanischen Schülern sehr beliebt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Japanese",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Der Weg des Blumensteckens ist Teil der japanischen Kultur"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Warum hast du dir keinen japanischen Wagen gekauft﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:55.606243Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:52:30.282998Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:30:04.685600Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:30:04.685600Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:51.454436Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -117,6 +119,47 @@
     [
       "TRANSLATION",
       "jbo:mi'u"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What will we do if it rains﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom is going to give us what we need"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do it because we allow them to do it"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do it because we allow them to"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do it because we let them"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What do you say we go watch a movie﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I think that we can do it"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:們"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What now﹖ Are we going or not﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:우리",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

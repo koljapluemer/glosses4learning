@@ -1,0 +1,21 @@
+{
+  "content": "kočku",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Mám jednoho psa a jednu kočku"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cat",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:25.698938Z": "TRANSLATION_DONE:eng"
+  }
+}

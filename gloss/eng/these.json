@@ -2,12 +2,15 @@
   "content": "these",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:18.934812Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -156,6 +159,27 @@
     [
       "TRANSLATION",
       "lat:Haec"
+    ],
+    [
+      "TRANSLATION",
+      "spa:estas"
+    ],
+    [
+      "TRANSLATION",
+      "fin:nämä"
+    ],
+    [
+      "TRANSLATION",
+      "lat:haec"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing these days﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:이것들",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

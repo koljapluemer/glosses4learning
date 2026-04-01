@@ -1,0 +1,25 @@
+{
+  "content": "anledning",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det föreligger ingen som helst anledning till oro"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reason",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom hade ingen anledning att vara arg"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:01.966501Z": "TRANSLATION_DONE:eng"
+  }
+}

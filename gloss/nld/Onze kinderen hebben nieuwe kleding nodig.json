@@ -1,0 +1,39 @@
+{
+  "content": "Onze kinderen hebben nieuwe kleding nodig.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LinguisticFusion (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Onze"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:nieuwe"
+    ],
+    [
+      "PART",
+      "nld:kleding"
+    ],
+    [
+      "PART",
+      "nld:nodig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.952847Z": "SPLIT_DONE"
+  }
+}

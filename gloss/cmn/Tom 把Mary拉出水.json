@@ -1,0 +1,39 @@
+{
+  "content": "Tom 把Mary拉出水",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zhangxr91 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom pulled Mary out of the water"
+    ],
+    [
+      "PART",
+      "cmn:Tom"
+    ],
+    [
+      "PART",
+      "cmn:把"
+    ],
+    [
+      "PART",
+      "cmn:Mary"
+    ],
+    [
+      "PART",
+      "cmn:拉"
+    ],
+    [
+      "PART",
+      "cmn:出水"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:30.437160Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Se oli hänen viimeinen sanansa.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Se"
+    ],
+    [
+      "PART",
+      "fin:oli"
+    ],
+    [
+      "PART",
+      "fin:hänen"
+    ],
+    [
+      "PART",
+      "fin:viimeinen"
+    ],
+    [
+      "PART",
+      "fin:sanansa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.852643Z": "SPLIT_DONE"
+  }
+}

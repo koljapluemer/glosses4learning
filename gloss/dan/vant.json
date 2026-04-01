@@ -1,0 +1,31 @@
+{
+  "content": "vant",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er ikke vant til at køre på motorcykel"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Vorteil",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun er vant til at lave mad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:advantage",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:46.551545Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:08.347732Z": "TRANSLATION_DONE:eng"
+  }
+}

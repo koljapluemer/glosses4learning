@@ -2,9 +2,12 @@
   "content": "English.",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:26.434502Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -158,6 +161,51 @@
     [
       "TRANSLATION",
       "lat:Anglicam"
+    ],
+    [
+      "TRANSLATION",
+      "ces:angličtině"
+    ],
+    [
+      "TRANSLATION",
+      "ces:Anglicky"
+    ],
+    [
+      "TRANSLATION",
+      "ell:αγγλικά"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:英语"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:英語"
+    ],
+    [
+      "TRANSLATION",
+      "por:inglês"
+    ],
+    [
+      "TRANSLATION",
+      "dan:engelsk"
+    ],
+    [
+      "TRANSLATION",
+      "epo:anglan"
+    ],
+    [
+      "TRANSLATION",
+      "pol:angielsku"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How do you say this in English﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:영어",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

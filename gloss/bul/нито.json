@@ -1,0 +1,33 @@
+{
+  "content": "нито",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Не познавам нито едното, нито другото момче"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Тази кокошка напоследък не е снесла нито едно яйце"
+    ],
+    [
+      "TRANSLATION",
+      "eng:neither",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Той не знае нито френски, нито немски"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Том не знае нито дума френски"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:59.897746Z": "TRANSLATION_DONE:eng"
+  }
+}

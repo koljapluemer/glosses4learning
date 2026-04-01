@@ -1,0 +1,25 @@
+{
+  "content": "waren",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Die mensen waren het er niet mee eens"
+    ],
+    [
+      "TRANSLATION",
+      "eng:were",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Er waren ongeveer dertig mensen aanwezig bij Toms begrafenis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:16.143887Z": "TRANSLATION_DONE:eng"
+  }
+}

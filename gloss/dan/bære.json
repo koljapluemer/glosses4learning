@@ -1,0 +1,31 @@
+{
+  "content": "bære",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du er for tung til at jeg kan bære dig"
+    ],
+    [
+      "TRANSLATION",
+      "deu:tragen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:I er for tunge til at jeg kan bære jer"
+    ],
+    [
+      "TRANSLATION",
+      "eng:carry",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:33.558818Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:00.726354Z": "TRANSLATION_DONE:eng"
+  }
+}

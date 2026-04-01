@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T14:22:09.170Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T14:22:09.170Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T07:59:17.091670Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -132,6 +134,59 @@
     [
       "TRANSLATION",
       "ukr:якими-небудь"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he should come, I want you to give him this document"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어떤",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "TRANSLATION",
+      "rus:какая-нибудь"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:який-небудь"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't have any experience"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't have any money"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there any chance that Tom will win﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom told me he didn't have any money"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do any of you want a cookie﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you by any chance speak Vietnamese﹖"
+    ],
+    [
+      "TRANSLATION",
+      "por:qualquer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, I'd like you to give him this paper"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, give him this paper"
     ]
   ]
 }

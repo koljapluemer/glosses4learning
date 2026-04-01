@@ -1,0 +1,47 @@
+{
+  "content": "Pourquoi Tom ne peut-il pas rester plus longtemps ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rovo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Pourquoi"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:ne"
+    ],
+    [
+      "PART",
+      "fra:peut-il"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:rester"
+    ],
+    [
+      "PART",
+      "fra:plus"
+    ],
+    [
+      "PART",
+      "fra:longtemps"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.815577Z": "SPLIT_DONE"
+  }
+}

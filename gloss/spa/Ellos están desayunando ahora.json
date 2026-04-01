@@ -1,0 +1,31 @@
+{
+  "content": "Ellos están desayunando ahora.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:desayunando"
+    ],
+    [
+      "PART",
+      "spa:ahora"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.226532Z": "SPLIT_DONE"
+  }
+}

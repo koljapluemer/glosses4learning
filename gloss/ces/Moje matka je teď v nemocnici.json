@@ -1,0 +1,43 @@
+{
+  "content": "Moje matka je teď v nemocnici.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My mother is in the hospital now"
+    ],
+    [
+      "PART",
+      "ces:Moje"
+    ],
+    [
+      "PART",
+      "ces:matka"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:teď"
+    ],
+    [
+      "PART",
+      "ces:v"
+    ],
+    [
+      "PART",
+      "ces:nemocnici"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:32.598413Z": "SPLIT_DONE"
+  }
+}

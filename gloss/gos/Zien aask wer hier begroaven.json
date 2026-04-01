@@ -1,0 +1,35 @@
+{
+  "content": "Zien aask wer hier begroaven.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Zien"
+    ],
+    [
+      "PART",
+      "gos:aask"
+    ],
+    [
+      "PART",
+      "gos:wer"
+    ],
+    [
+      "PART",
+      "gos:hier"
+    ],
+    [
+      "PART",
+      "gos:begroaven"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.338051Z": "SPLIT_DONE"
+  }
+}

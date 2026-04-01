@@ -1,0 +1,25 @@
+{
+  "content": "mondja",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Tom azt mondja, most már sokkal jobban érzi magát"
+    ],
+    [
+      "TRANSLATION",
+      "eng:says",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Tamás azt mondja, nagyon fáradtnak érzi magát"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:36:20.558863Z": "TRANSLATION_DONE:eng"
+  }
+}

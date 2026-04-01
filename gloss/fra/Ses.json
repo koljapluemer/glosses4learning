@@ -1,0 +1,39 @@
+{
+  "content": "Ses",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ses paroles étaient d'une incroyable éloquence"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ses frères se sont mis en colère les uns contre les autres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:His",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ses films mettent souvent en scène de puissants personnages féminins"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Seine",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ses deux fils sont morts pendant la guerre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:28:27.255236Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:29:04.110553Z": "TRANSLATION_DONE:deu"
+  }
+}

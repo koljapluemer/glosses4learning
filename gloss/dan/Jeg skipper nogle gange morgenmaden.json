@@ -1,0 +1,35 @@
+{
+  "content": "Jeg skipper nogle gange morgenmaden.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:skipper"
+    ],
+    [
+      "PART",
+      "dan:nogle"
+    ],
+    [
+      "PART",
+      "dan:gange"
+    ],
+    [
+      "PART",
+      "dan:morgenmaden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.426928Z": "SPLIT_DONE"
+  }
+}

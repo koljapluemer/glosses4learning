@@ -1,0 +1,39 @@
+{
+  "content": "Джон е добър по математика.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by siyanapavlova (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:John is good at mathematics"
+    ],
+    [
+      "PART",
+      "bul:Джон"
+    ],
+    [
+      "PART",
+      "bul:е"
+    ],
+    [
+      "PART",
+      "bul:добър"
+    ],
+    [
+      "PART",
+      "bul:по"
+    ],
+    [
+      "PART",
+      "bul:математика"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:56:48.231486Z": "SPLIT_DONE"
+  }
+}

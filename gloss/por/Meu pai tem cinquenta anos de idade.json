@@ -1,0 +1,43 @@
+{
+  "content": "Meu pai tem cinquenta anos de idade.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by paula_guisard (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:pai"
+    ],
+    [
+      "PART",
+      "por:tem"
+    ],
+    [
+      "PART",
+      "por:cinquenta"
+    ],
+    [
+      "PART",
+      "por:anos"
+    ],
+    [
+      "PART",
+      "por:de"
+    ],
+    [
+      "PART",
+      "por:idade"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:37.006249Z": "SPLIT_DONE"
+  }
+}

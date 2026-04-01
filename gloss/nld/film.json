@@ -1,0 +1,25 @@
+{
+  "content": "film",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie is je favoriete personage in deze film﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:movie",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik wil die film nog een keer zien"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:24.890679Z": "TRANSLATION_DONE:eng"
+  }
+}

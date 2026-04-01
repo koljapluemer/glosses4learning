@@ -1,0 +1,21 @@
+{
+  "content": "vertalen",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik houd er niet van om lange zinnen te vertalen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:translate",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:27.892025Z": "TRANSLATION_DONE:eng"
+  }
+}

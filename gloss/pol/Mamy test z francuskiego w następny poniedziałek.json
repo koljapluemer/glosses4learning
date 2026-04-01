@@ -1,0 +1,47 @@
+{
+  "content": "Mamy test z francuskiego w następny poniedziałek.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MCcommand (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:We'll have a French test next Monday"
+    ],
+    [
+      "PART",
+      "pol:Mamy"
+    ],
+    [
+      "PART",
+      "pol:test"
+    ],
+    [
+      "PART",
+      "pol:z"
+    ],
+    [
+      "PART",
+      "pol:francuskiego"
+    ],
+    [
+      "PART",
+      "pol:w"
+    ],
+    [
+      "PART",
+      "pol:następny"
+    ],
+    [
+      "PART",
+      "pol:poniedziałek"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:42.837163Z": "SPLIT_DONE"
+  }
+}

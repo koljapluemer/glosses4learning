@@ -1,0 +1,51 @@
+{
+  "content": "Tom zei dat de vergadering van gisteren interessant was.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:zei"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:de"
+    ],
+    [
+      "PART",
+      "nld:vergadering"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:interessant"
+    ],
+    [
+      "PART",
+      "nld:was"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.058078Z": "SPLIT_DONE"
+  }
+}

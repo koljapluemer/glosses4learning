@@ -1,0 +1,35 @@
+{
+  "content": "Mindent megteszünk, amit csak akarunk.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bandeirante (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mindent"
+    ],
+    [
+      "PART",
+      "hun:megteszünk"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:csak"
+    ],
+    [
+      "PART",
+      "hun:akarunk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.527790Z": "SPLIT_DONE"
+  }
+}

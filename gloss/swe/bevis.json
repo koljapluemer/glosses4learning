@@ -1,0 +1,25 @@
+{
+  "content": "bevis",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Vi har inget bevis som talar för motsatsen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:evidence",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Vi har inget bevis som talar emot det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:50.757716Z": "TRANSLATION_DONE:eng"
+  }
+}

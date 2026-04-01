@@ -1,0 +1,29 @@
+{
+  "content": "дойде",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Той дойде след като ти си беше тръгнал"
+    ],
+    [
+      "TRANSLATION",
+      "eng:arrived",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Той дойде след като ти си тръгна"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Няма да повярваш кой ни дойде на гости днес"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:56:22.292926Z": "TRANSLATION_DONE:eng"
+  }
+}

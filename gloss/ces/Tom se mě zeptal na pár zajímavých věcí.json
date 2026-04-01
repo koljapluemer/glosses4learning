@@ -1,0 +1,47 @@
+{
+  "content": "Tom se mě zeptal na pár zajímavých věcí.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:mě"
+    ],
+    [
+      "PART",
+      "ces:zeptal"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:pár"
+    ],
+    [
+      "PART",
+      "ces:zajímavých"
+    ],
+    [
+      "PART",
+      "ces:věcí"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.196776Z": "SPLIT_DONE"
+  }
+}

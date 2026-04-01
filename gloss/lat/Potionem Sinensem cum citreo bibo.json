@@ -1,0 +1,39 @@
+{
+  "content": "Potionem Sinensem cum citreo bibo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I drink tea with lemon"
+    ],
+    [
+      "PART",
+      "lat:Potionem"
+    ],
+    [
+      "PART",
+      "lat:Sinensem"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:citreo"
+    ],
+    [
+      "PART",
+      "lat:bibo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:14.940313Z": "SPLIT_DONE"
+  }
+}

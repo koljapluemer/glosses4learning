@@ -1,0 +1,39 @@
+{
+  "content": "Los niños siempre quieren hacerse mayores.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:niños"
+    ],
+    [
+      "PART",
+      "spa:siempre"
+    ],
+    [
+      "PART",
+      "spa:quieren"
+    ],
+    [
+      "PART",
+      "spa:hacerse"
+    ],
+    [
+      "PART",
+      "spa:mayores"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.246623Z": "SPLIT_DONE"
+  }
+}

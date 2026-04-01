@@ -1,0 +1,21 @@
+{
+  "content": "hälsa",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Medicinen gjorde underverk för hans hälsa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:health",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:23.943999Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Qu'est-ce que tu vas faire aujourd'hui ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:tu"
+    ],
+    [
+      "PART",
+      "fra:vas"
+    ],
+    [
+      "PART",
+      "fra:faire"
+    ],
+    [
+      "PART",
+      "fra:aujourd'hui"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.700049Z": "SPLIT_DONE"
+  }
+}

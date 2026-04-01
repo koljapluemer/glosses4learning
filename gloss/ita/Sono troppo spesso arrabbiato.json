@@ -1,0 +1,31 @@
+{
+  "content": "Sono troppo spesso arrabbiato.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rovo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:troppo"
+    ],
+    [
+      "PART",
+      "ita:spesso"
+    ],
+    [
+      "PART",
+      "ita:arrabbiato"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:01.047518Z": "SPLIT_DONE"
+  }
+}

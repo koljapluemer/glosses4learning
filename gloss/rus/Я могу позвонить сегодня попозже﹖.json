@@ -1,0 +1,35 @@
+{
+  "content": "Я могу позвонить сегодня попозже?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:могу"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:попозже"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.350395Z": "SPLIT_DONE"
+  }
+}

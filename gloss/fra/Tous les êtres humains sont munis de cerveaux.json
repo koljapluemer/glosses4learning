@@ -1,0 +1,47 @@
+{
+  "content": "Tous les êtres humains sont munis de cerveaux.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Tous"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:êtres"
+    ],
+    [
+      "PART",
+      "fra:humains"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:munis"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:cerveaux"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.760977Z": "SPLIT_DONE"
+  }
+}

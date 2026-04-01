@@ -1,0 +1,33 @@
+{
+  "content": "man",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie is die dikke man﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:male",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie is die lange man daar﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie is die man die daar staat﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik denk niet dat ik die man ken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:16.708395Z": "TRANSLATION_DONE:eng"
+  }
+}

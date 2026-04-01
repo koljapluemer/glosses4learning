@@ -1,0 +1,43 @@
+{
+  "content": "Tom 和 John 是好朋友。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickyeow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom and John are good friends"
+    ],
+    [
+      "PART",
+      "cmn:Tom"
+    ],
+    [
+      "PART",
+      "cmn:和"
+    ],
+    [
+      "PART",
+      "cmn:John"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:好"
+    ],
+    [
+      "PART",
+      "cmn:朋友"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:22.160529Z": "SPLIT_DONE"
+  }
+}

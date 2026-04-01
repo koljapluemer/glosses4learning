@@ -1,0 +1,21 @@
+{
+  "content": "flic",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ne dites pas à Tom que vous êtes un flic"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Polizist",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:09.314363Z": "TRANSLATION_DONE:deu"
+  }
+}

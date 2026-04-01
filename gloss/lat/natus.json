@@ -1,0 +1,37 @@
+{
+  "content": "natus",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Pater meus quinquaginta annos natus est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ioannes duobus annis maior natus est, quam ego"
+    ],
+    [
+      "TRANSLATION",
+      "eng:born",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Canicus proximo anno quindecim annos natus erit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Proximo anno Canicus quindecim annos natus erit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ego nondum nonaginta annos natus sum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:19.875373Z": "TRANSLATION_DONE:eng"
+  }
+}

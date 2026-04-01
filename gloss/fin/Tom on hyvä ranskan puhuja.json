@@ -1,0 +1,39 @@
+{
+  "content": "Tom on hyvä ranskan puhuja.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom is a good French speaker"
+    ],
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:hyvä"
+    ],
+    [
+      "PART",
+      "fin:ranskan"
+    ],
+    [
+      "PART",
+      "fin:puhuja"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:22.449179Z": "SPLIT_DONE"
+  }
+}

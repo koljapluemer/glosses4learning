@@ -5,12 +5,17 @@
     "eng:tatoeba-sentence"
   ],
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
   ],
   "relationships": [
     [
       "TRANSLATION",
       "ita:Vieni senza fallo alle cinque in punto"
+    ],
+    [
+      "TRANSLATION",
+      "epo:Nepre venu ĉiam ĉi tien antaŭ la kvina horo"
     ]
   ]
 }

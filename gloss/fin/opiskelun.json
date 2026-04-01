@@ -1,0 +1,29 @@
+{
+  "content": "opiskelun",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Tom aloitti ranskan opiskelun kolme vuotta sitten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:studying",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Aloitin ranskan opiskelun kolme vuotta sitten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Aloin ranskan opiskelun kolme vuotta sitten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:43.802084Z": "TRANSLATION_DONE:eng"
+  }
+}

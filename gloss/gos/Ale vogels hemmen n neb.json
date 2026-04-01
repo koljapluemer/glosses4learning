@@ -1,0 +1,39 @@
+{
+  "content": "Ale vogels hemmen n neb.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Al birds have a beak"
+    ],
+    [
+      "PART",
+      "gos:Ale"
+    ],
+    [
+      "PART",
+      "gos:vogels"
+    ],
+    [
+      "PART",
+      "gos:hemmen"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:neb"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.560908Z": "SPLIT_DONE"
+  }
+}

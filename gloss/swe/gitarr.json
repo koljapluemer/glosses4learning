@@ -1,0 +1,21 @@
+{
+  "content": "gitarr",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag skulle verkligen vilja bli bättre på gitarr"
+    ],
+    [
+      "TRANSLATION",
+      "eng:guitar",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:27.193204Z": "TRANSLATION_DONE:eng"
+  }
+}

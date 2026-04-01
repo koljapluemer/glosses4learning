@@ -1,0 +1,31 @@
+{
+  "content": "Обязательно мне завтра позвоните.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Обязательно"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:завтра"
+    ],
+    [
+      "PART",
+      "rus:позвоните"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.313305Z": "SPLIT_DONE"
+  }
+}

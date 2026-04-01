@@ -2,8 +2,12 @@
   "content": "out",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:04:38.793823Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -57,6 +61,15 @@
     [
       "TRANSLATION",
       "gos:uut"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:A person named West called while you were out"
+    ],
+    [
+      "TRANSLATION",
+      "kor:밖으로",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

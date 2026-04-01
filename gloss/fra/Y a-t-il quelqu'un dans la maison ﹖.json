@@ -1,0 +1,39 @@
+{
+  "content": "Y a-t-il quelqu'un dans la maison ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Y"
+    ],
+    [
+      "PART",
+      "fra:a-t-il"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:dans"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.528540Z": "SPLIT_DONE"
+  }
+}

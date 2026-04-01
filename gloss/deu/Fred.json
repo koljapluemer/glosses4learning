@@ -1,0 +1,21 @@
+{
+  "content": "Fred",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Fred kommt oft zu spät zum Unterricht"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Фред",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:38.043610Z": "TRANSLATION_DONE:ukr"
+  }
+}

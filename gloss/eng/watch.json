@@ -6,7 +6,8 @@
     "2025-12-11T11:29:58.342048Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -76,6 +77,18 @@
     [
       "TRANSLATION",
       "gos:zoak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What do you say we go watch a movie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:手表"
+    ],
+    [
+      "TRANSLATION",
+      "pol:zegarek"
     ]
   ]
 }

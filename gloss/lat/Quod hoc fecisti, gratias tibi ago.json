@@ -1,0 +1,43 @@
+{
+  "content": "Quod hoc fecisti, gratias tibi ago.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Thank you for doing this"
+    ],
+    [
+      "PART",
+      "lat:Quod"
+    ],
+    [
+      "PART",
+      "lat:hoc"
+    ],
+    [
+      "PART",
+      "lat:fecisti"
+    ],
+    [
+      "PART",
+      "lat:gratias"
+    ],
+    [
+      "PART",
+      "lat:tibi"
+    ],
+    [
+      "PART",
+      "lat:ago"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:16.093321Z": "SPLIT_DONE"
+  }
+}

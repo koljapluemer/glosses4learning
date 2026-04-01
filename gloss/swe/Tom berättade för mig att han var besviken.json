@@ -1,0 +1,51 @@
+{
+  "content": "Tom berättade för mig att han var besviken.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JanErikJ (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom told me that he was disappointed"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:berättade"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:var"
+    ],
+    [
+      "PART",
+      "swe:besviken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:51.742801Z": "SPLIT_DONE"
+  }
+}

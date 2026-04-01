@@ -1,0 +1,39 @@
+{
+  "content": "Ne pouvez-vous pas attendre jusqu'à demain ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Ne"
+    ],
+    [
+      "PART",
+      "fra:pouvez-vous"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:attendre"
+    ],
+    [
+      "PART",
+      "fra:jusqu'à"
+    ],
+    [
+      "PART",
+      "fra:demain"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.571712Z": "SPLIT_DONE"
+  }
+}

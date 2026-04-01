@@ -1,0 +1,51 @@
+{
+  "content": "Hans far kommer inte. Han är väldigt upptagen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SilasNordgren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:His father won't come. He's very busy"
+    ],
+    [
+      "PART",
+      "swe:Hans"
+    ],
+    [
+      "PART",
+      "swe:far"
+    ],
+    [
+      "PART",
+      "swe:kommer"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:väldigt"
+    ],
+    [
+      "PART",
+      "swe:upptagen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:57.392793Z": "SPLIT_DONE"
+  }
+}

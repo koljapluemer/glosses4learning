@@ -1,0 +1,39 @@
+{
+  "content": "Mijn kinderen zijn gek op zoethout.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mandalay (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mijn"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:gek"
+    ],
+    [
+      "PART",
+      "nld:op"
+    ],
+    [
+      "PART",
+      "nld:zoethout"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.961139Z": "SPLIT_DONE"
+  }
+}

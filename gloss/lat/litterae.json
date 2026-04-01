@@ -1,0 +1,29 @@
+{
+  "content": "litterae",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Num litterae meae missae sunt﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Suntne tibi litterae scribendae﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:letters",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Primae litterae patris mei sunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:22.056385Z": "TRANSLATION_DONE:eng"
+  }
+}

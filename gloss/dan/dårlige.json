@@ -1,0 +1,35 @@
+{
+  "content": "dårlige",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Nogle kvinder er dårlige"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi bliver nødt til at tage hensyn til hendes dårlige helbred"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlecht",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har gode nyheder og dårlige nyheder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bad",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:31.035422Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:16.156170Z": "TRANSLATION_DONE:eng"
+  }
+}

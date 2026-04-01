@@ -1,0 +1,21 @@
+{
+  "content": "leído",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Puede que ya hayas leído este libro"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:прочитано",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:15.511441Z": "TRANSLATION_DONE:ukr"
+  }
+}

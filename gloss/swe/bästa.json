@@ -1,0 +1,29 @@
+{
+  "content": "bästa",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Vad är den bästa lösningen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom föreslog den bästa lösningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det sägs att han är den bästa tennisspelaren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:best",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:52.279363Z": "TRANSLATION_DONE:eng"
+  }
+}

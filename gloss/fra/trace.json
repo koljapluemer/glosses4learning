@@ -1,0 +1,21 @@
+{
+  "content": "trace",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Chaque pas que vous faites laisse une trace"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Spur",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:28:59.649164Z": "TRANSLATION_DONE:deu"
+  }
+}

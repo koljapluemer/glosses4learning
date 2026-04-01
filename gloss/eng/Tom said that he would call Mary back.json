@@ -1,0 +1,51 @@
+{
+  "content": "Tom said that he would call Mary back.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що передзвонить Мері"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:would"
+    ],
+    [
+      "PART",
+      "eng:call"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:back"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:28.220088Z": "SPLIT_DONE"
+  }
+}

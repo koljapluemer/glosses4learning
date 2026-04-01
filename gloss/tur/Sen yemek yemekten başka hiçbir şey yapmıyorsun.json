@@ -1,0 +1,43 @@
+{
+  "content": "Sen yemek yemekten başka hiçbir şey yapmıyorsun.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Sen"
+    ],
+    [
+      "PART",
+      "tur:yemek"
+    ],
+    [
+      "PART",
+      "tur:yemekten"
+    ],
+    [
+      "PART",
+      "tur:başka"
+    ],
+    [
+      "PART",
+      "tur:hiçbir"
+    ],
+    [
+      "PART",
+      "tur:şey"
+    ],
+    [
+      "PART",
+      "tur:yapmıyorsun"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:43.999486Z": "SPLIT_DONE"
+  }
+}

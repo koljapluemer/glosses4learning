@@ -1,0 +1,41 @@
+{
+  "content": "haciendo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom finalmente se dio cuenta de lo que Mary estaba haciendo"
+    ],
+    [
+      "TRANSLATION",
+      "eng:doing",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Creo que a Tom se le está haciendo tarde"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:робимо",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Estoy seguro de que estás haciendo todo lo que puedes"
+    ],
+    [
+      "TRANSLATION",
+      "deu:indem",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:12.440398Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:15.130641Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:07.149573Z": "TRANSLATION_DONE:deu"
+  }
+}

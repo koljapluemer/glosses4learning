@@ -1,0 +1,47 @@
+{
+  "content": "Wir werden morgen den ganzen Tag zuhause sein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zaghawa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:werden"
+    ],
+    [
+      "PART",
+      "deu:morgen"
+    ],
+    [
+      "PART",
+      "deu:den"
+    ],
+    [
+      "PART",
+      "deu:ganzen"
+    ],
+    [
+      "PART",
+      "deu:Tag"
+    ],
+    [
+      "PART",
+      "deu:zuhause"
+    ],
+    [
+      "PART",
+      "deu:sein"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.666780Z": "SPLIT_DONE"
+  }
+}

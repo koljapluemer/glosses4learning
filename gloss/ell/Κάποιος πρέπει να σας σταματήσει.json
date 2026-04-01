@@ -1,0 +1,35 @@
+{
+  "content": "Κάποιος πρέπει να σας σταματήσει.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Κάποιος"
+    ],
+    [
+      "PART",
+      "ell:πρέπει"
+    ],
+    [
+      "PART",
+      "ell:να"
+    ],
+    [
+      "PART",
+      "ell:σας"
+    ],
+    [
+      "PART",
+      "ell:σταματήσει"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.699146Z": "SPLIT_DONE"
+  }
+}

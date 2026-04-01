@@ -1,0 +1,35 @@
+{
+  "content": "Han kan ingenting om anatomi.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:ingenting"
+    ],
+    [
+      "PART",
+      "swe:om"
+    ],
+    [
+      "PART",
+      "swe:anatomi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.191171Z": "SPLIT_DONE"
+  }
+}

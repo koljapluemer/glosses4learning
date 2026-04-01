@@ -1,0 +1,43 @@
+{
+  "content": "Iedereen weet dat Tom Maria leuk vindt.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Iedereen"
+    ],
+    [
+      "PART",
+      "nld:weet"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:Maria"
+    ],
+    [
+      "PART",
+      "nld:leuk"
+    ],
+    [
+      "PART",
+      "nld:vindt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.047080Z": "SPLIT_DONE"
+  }
+}

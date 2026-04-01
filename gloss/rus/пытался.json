@@ -1,0 +1,41 @@
+{
+  "content": "пытался",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Почему ты не пытался позвонить нам﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Ты пытался позвонить Тому﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Почему ты не пытался позвонить Тому﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I tried",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Почему Том не пытался позвонить Мэри﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я пытался позвонить тебе из Бостона"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я пытался позвонить вам из Бостона"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:05.693848Z": "TRANSLATION_DONE:eng"
+  }
+}

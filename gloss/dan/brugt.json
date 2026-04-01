@@ -1,0 +1,31 @@
+{
+  "content": "brugt",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du har brugt dine penge på den her gamle spand﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:gebraucht",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun har brugt alle sine kreditkort til maksimum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:used",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:36.800871Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:17.856370Z": "TRANSLATION_DONE:eng"
+  }
+}

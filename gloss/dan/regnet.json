@@ -1,0 +1,25 @@
+{
+  "content": "regnet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det har ikke regnet i to måneder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det har regnet i tre dage nu"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Regen",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:51.598106Z": "TRANSLATION_DONE:deu"
+  }
+}

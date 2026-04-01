@@ -1,0 +1,43 @@
+{
+  "content": "Paul n'était vraiment pas une personne ordinaire.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Paul"
+    ],
+    [
+      "PART",
+      "fra:n'était"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:personne"
+    ],
+    [
+      "PART",
+      "fra:ordinaire"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.702606Z": "SPLIT_DONE"
+  }
+}

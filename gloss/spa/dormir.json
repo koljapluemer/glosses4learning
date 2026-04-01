@@ -1,0 +1,35 @@
+{
+  "content": "dormir",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No puedo dormir con todo este jaleo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:спати",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca te irás a dormir sin haber aprendido algo nuevo"
+    ],
+    [
+      "TRANSLATION",
+      "deu:schlafen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Beber, comer y dormir es todo lo que sabe hacer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:29.298825Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:06.260566Z": "TRANSLATION_DONE:deu"
+  }
+}

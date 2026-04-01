@@ -1,0 +1,39 @@
+{
+  "content": "Mis niveles de colesterol están altos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Grivero (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Mis"
+    ],
+    [
+      "PART",
+      "spa:niveles"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:colesterol"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:altos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.202524Z": "SPLIT_DONE"
+  }
+}

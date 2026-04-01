@@ -1,0 +1,51 @@
+{
+  "content": "Nunca",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Nunca te has acostado con una mujer﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ніколи",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca te irás a dormir sin haber aprendido algo nuevo"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nie",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca te acostarás sin saber una cosa más"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca antes hasta ahora había conocido a ninguna Ofelia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca le doy de comer carne cruda a mi perro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca debería ir de compras sin ti"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca compares a tu esposa con otra mujer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:30.391251Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:05.921770Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Niemand sonst würde dies verstanden haben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Niemand"
+    ],
+    [
+      "PART",
+      "deu:sonst"
+    ],
+    [
+      "PART",
+      "deu:würde"
+    ],
+    [
+      "PART",
+      "deu:dies"
+    ],
+    [
+      "PART",
+      "deu:verstanden"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.661651Z": "SPLIT_DONE"
+  }
+}

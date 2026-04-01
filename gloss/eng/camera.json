@@ -2,7 +2,8 @@
   "content": "camera",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -48,6 +49,18 @@
     [
       "TRANSLATION",
       "pol:aparatu"
+    ],
+    [
+      "TRANSLATION",
+      "swe:kamera"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What will you do with this camera﹖"
+    ],
+    [
+      "TRANSLATION",
+      "bul:фотоапарат"
     ]
   ]
 }

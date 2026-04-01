@@ -1,0 +1,35 @@
+{
+  "content": "Minden, amit csináltam, helytelen volt.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Minden"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:csináltam"
+    ],
+    [
+      "PART",
+      "hun:helytelen"
+    ],
+    [
+      "PART",
+      "hun:volt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.492591Z": "SPLIT_DONE"
+  }
+}

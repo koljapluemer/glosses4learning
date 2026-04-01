@@ -1,0 +1,35 @@
+{
+  "content": "ด",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ไม่นะ! พาสปอร์ดฉันหายไปแล้ว!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:มันดูไม่แย่เลย"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Leer",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:หนังสือเล่มนี้ดี"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:31.887754Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:30.023862Z": "TRANSLATION_DONE:eng"
+  }
+}

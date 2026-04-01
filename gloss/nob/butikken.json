@@ -1,0 +1,29 @@
+{
+  "content": "butikken",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom eier denne butikken"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:De setter ned prisen på varene i den butikken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the shop",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Den butikken selger kjøtt og fisk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:29.580726Z": "TRANSLATION_DONE:eng"
+  }
+}

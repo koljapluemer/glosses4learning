@@ -1,0 +1,43 @@
+{
+  "content": "Jag vill att du ska vara här.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Balamax (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:vill"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:ska"
+    ],
+    [
+      "PART",
+      "swe:vara"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.200758Z": "SPLIT_DONE"
+  }
+}

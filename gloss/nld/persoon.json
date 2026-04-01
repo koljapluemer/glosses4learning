@@ -1,0 +1,29 @@
+{
+  "content": "persoon",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:U bent de enige persoon die ik kan vertrouwen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:person",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Jij bent de enige persoon die ik kan vertrouwen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik kan geen enkel persoon zoals die vertrouwen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:05.201115Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -2,7 +2,8 @@
   "content": "allow",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -48,6 +49,18 @@
     [
       "TRANSLATION",
       "lat:placeat"
+    ],
+    [
+      "TRANSLATION",
+      "rus:позволить"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do it because we allow them to do it"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do it because we allow them to"
     ]
   ]
 }

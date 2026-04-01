@@ -1,0 +1,35 @@
+{
+  "content": "Ni",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ni siquiera sé quién es ella"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Ні",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ni siquiera sé qué es eso"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ni tengo idea de lo que va a pasar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Nicht",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:12.466554Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:11.763618Z": "TRANSLATION_DONE:deu"
+  }
+}

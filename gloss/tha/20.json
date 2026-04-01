@@ -1,0 +1,35 @@
+{
+  "content": "20",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันอายุ 20 ปี"
+    ],
+    [
+      "TRANSLATION",
+      "deu:20",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:การก่อสร้างเริ่มต้นเมื่อ 20 ตุลาคม พ.ศ. 2556"
+    ],
+    [
+      "TRANSLATION",
+      "eng:20",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:การก่อสร้างเริ่มต้นเมื่อ 20 ตุลาคม 2013"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:28.297233Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:17.362675Z": "TRANSLATION_DONE:eng"
+  }
+}

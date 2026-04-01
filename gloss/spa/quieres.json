@@ -1,0 +1,31 @@
+{
+  "content": "quieres",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, no tenemos lo que quieres"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Do you want﹖",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Sé que me quieres con locura"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ти хочеш",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:03.628964Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:16.060616Z": "TRANSLATION_DONE:ukr"
+  }
+}

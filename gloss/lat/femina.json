@@ -1,0 +1,37 @@
+{
+  "content": "femina",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec femina matertera mea est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quae femina matertera tua est﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:woman",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec femina amita mea est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Quae femina amita tua est﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Vir et femina potionem Sinensem bibunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:10.151644Z": "TRANSLATION_DONE:eng"
+  }
+}

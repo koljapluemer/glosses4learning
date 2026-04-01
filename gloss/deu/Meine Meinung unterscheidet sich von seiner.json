@@ -1,0 +1,39 @@
+{
+  "content": "Meine Meinung unterscheidet sich von seiner.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Meinung"
+    ],
+    [
+      "PART",
+      "deu:unterscheidet"
+    ],
+    [
+      "PART",
+      "deu:sich"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:seiner"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.721763Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Hic liber multas imagines habet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This book contains many pictures"
+    ],
+    [
+      "PART",
+      "lat:Hic"
+    ],
+    [
+      "PART",
+      "lat:liber"
+    ],
+    [
+      "PART",
+      "lat:multas"
+    ],
+    [
+      "PART",
+      "lat:imagines"
+    ],
+    [
+      "PART",
+      "lat:habet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:03.969003Z": "SPLIT_DONE"
+  }
+}

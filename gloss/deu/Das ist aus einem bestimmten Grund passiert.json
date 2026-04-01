@@ -1,0 +1,43 @@
+{
+  "content": "Das ist aus einem bestimmten Grund passiert.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Das"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:aus"
+    ],
+    [
+      "PART",
+      "deu:einem"
+    ],
+    [
+      "PART",
+      "deu:bestimmten"
+    ],
+    [
+      "PART",
+      "deu:Grund"
+    ],
+    [
+      "PART",
+      "deu:passiert"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.937506Z": "SPLIT_DONE"
+  }
+}

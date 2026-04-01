@@ -1,0 +1,39 @@
+{
+  "content": "Tom nezůstal až do konce.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom didn't stay until the end"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:nezůstal"
+    ],
+    [
+      "PART",
+      "ces:až"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:konce"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:33.865245Z": "SPLIT_DONE"
+  }
+}

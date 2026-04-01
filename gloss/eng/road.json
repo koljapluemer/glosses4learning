@@ -2,12 +2,15 @@
   "content": "road",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:29.965366Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -100,6 +103,35 @@
     [
       "TRANSLATION",
       "ber:targa"
+    ],
+    [
+      "TRANSLATION",
+      "gos:stroat"
+    ],
+    [
+      "TRANSLATION",
+      "ces:silnice"
+    ],
+    [
+      "TRANSLATION",
+      "hun:út"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:路"
+    ],
+    [
+      "TRANSLATION",
+      "bul:път"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Don't let children play in the road"
+    ],
+    [
+      "TRANSLATION",
+      "kor:도로",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "content": "Zouden ze water drinken?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by slashslasher (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Zouden"
+    ],
+    [
+      "PART",
+      "nld:ze"
+    ],
+    [
+      "PART",
+      "nld:water"
+    ],
+    [
+      "PART",
+      "nld:drinken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.086135Z": "SPLIT_DONE"
+  }
+}

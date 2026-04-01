@@ -1,0 +1,25 @@
+{
+  "content": "предложението",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Отказа да обмисли предложението ми"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the proposal",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Той отказа предложението ми"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:56:11.140822Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "John",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom se zeptal Mary, proč se jí líbí John"
+    ],
+    [
+      "TRANSLATION",
+      "eng:John",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:04.113990Z": "TRANSLATION_DONE:eng"
+  }
+}

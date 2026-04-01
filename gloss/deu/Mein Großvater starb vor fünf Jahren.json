@@ -1,0 +1,43 @@
+{
+  "content": "Mein Großvater starb vor fünf Jahren.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:우리 할아버지는 5년 전에 돌아가셨다"
+    ],
+    [
+      "PART",
+      "deu:Mein"
+    ],
+    [
+      "PART",
+      "deu:Großvater"
+    ],
+    [
+      "PART",
+      "deu:starb"
+    ],
+    [
+      "PART",
+      "deu:vor"
+    ],
+    [
+      "PART",
+      "deu:fünf"
+    ],
+    [
+      "PART",
+      "deu:Jahren"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:55.072870Z": "SPLIT_DONE"
+  }
+}

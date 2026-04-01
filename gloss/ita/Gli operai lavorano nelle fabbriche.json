@@ -1,0 +1,35 @@
+{
+  "content": "Gli operai lavorano nelle fabbriche.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Gli"
+    ],
+    [
+      "PART",
+      "ita:operai"
+    ],
+    [
+      "PART",
+      "ita:lavorano"
+    ],
+    [
+      "PART",
+      "ita:nelle"
+    ],
+    [
+      "PART",
+      "ita:fabbriche"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.874180Z": "SPLIT_DONE"
+  }
+}

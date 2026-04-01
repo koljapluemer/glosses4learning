@@ -1,0 +1,39 @@
+{
+  "content": "汤姆不管玛丽的要求。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BobbyLee (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom doesn't care what Mary wants"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:不管"
+    ],
+    [
+      "PART",
+      "cmn:玛丽"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:要求"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:38.803124Z": "SPLIT_DONE"
+  }
+}

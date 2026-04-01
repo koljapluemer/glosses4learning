@@ -1,0 +1,31 @@
+{
+  "content": "Měli bychom zavolat doktora.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Měli"
+    ],
+    [
+      "PART",
+      "ces:bychom"
+    ],
+    [
+      "PART",
+      "ces:zavolat"
+    ],
+    [
+      "PART",
+      "ces:doktora"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.085851Z": "SPLIT_DONE"
+  }
+}

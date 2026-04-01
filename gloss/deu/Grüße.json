@@ -1,0 +1,21 @@
+{
+  "content": "Grüße",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Für Laura. Alles Gute zum 40. Geburtstag! Liebe Grüße von Peter"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Greetings",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:33.134931Z": "TRANSLATION_DONE:eng"
+  }
+}

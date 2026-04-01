@@ -1,0 +1,39 @@
+{
+  "content": "sólo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desafortunadamente, la sopa sólo está tibia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom normalmente come sólo avena para el desayuno"
+    ],
+    [
+      "TRANSLATION",
+      "eng:only",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella sólo está interesada en los peces y las cucarachas"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Juego a juegos de mesa sólo para tener vida social"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nur",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:03.226774Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:32.589718Z": "TRANSLATION_DONE:deu"
+  }
+}

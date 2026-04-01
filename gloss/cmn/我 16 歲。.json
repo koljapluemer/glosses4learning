@@ -1,0 +1,31 @@
+{
+  "content": "我 16 歲。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I'm 16 years old"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:16"
+    ],
+    [
+      "PART",
+      "cmn:歲"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:25.992889Z": "SPLIT_DONE"
+  }
+}

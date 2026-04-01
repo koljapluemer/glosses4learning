@@ -3,9 +3,13 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:38:42.498Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:38:42.498Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:35:34.019129Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:10.880008Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -135,6 +139,104 @@
     [
       "TRANSLATION",
       "gos:Der"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is little hope that he will succeed"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no one in your bedroom"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그것",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no one in the classroom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are many children in the room"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no desk in my bedroom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There was only one swallow in the nest"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is a rainbow in the east"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are too many ads on YouTube"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are people who think like this"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are two churches in this street"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is someone with the surname Baek"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are but a few men who don't know that"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are few men but know that"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were deep feelings between the two"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:That's all. There are no more"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There might be life on Jupiter's moons"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There was no one home"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were two pieces of cake"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no limit to human desire"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are a hundred"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are parts I can’t understand"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no trust where there is no democracy"
     ]
   ]
 }

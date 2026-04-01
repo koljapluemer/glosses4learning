@@ -1,0 +1,39 @@
+{
+  "content": "Deres",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Deres æbler er ikke så gode som vores"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Sehr geehrter",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har netop modtaget Deres brev"
+    ],
+    [
+      "TRANSLATION",
+      "eng:To you",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Deres mænd er polakker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Deres mad var pragtfuld sidste gang"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:31.985753Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:52:58.859020Z": "TRANSLATION_DONE:eng"
+  }
+}

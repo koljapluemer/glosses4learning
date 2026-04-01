@@ -1,0 +1,35 @@
+{
+  "content": "Elvesztettem mindenemet, amim csak volt.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Elvesztettem"
+    ],
+    [
+      "PART",
+      "hun:mindenemet"
+    ],
+    [
+      "PART",
+      "hun:amim"
+    ],
+    [
+      "PART",
+      "hun:csak"
+    ],
+    [
+      "PART",
+      "hun:volt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.451014Z": "SPLIT_DONE"
+  }
+}

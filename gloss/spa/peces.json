@@ -1,0 +1,21 @@
+{
+  "content": "peces",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella sólo está interesada en los peces y las cucarachas"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fish",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:08.671682Z": "TRANSLATION_DONE:eng"
+  }
+}

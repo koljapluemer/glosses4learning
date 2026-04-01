@@ -13,6 +13,35 @@
     [
       "TRANSLATION",
       "kab:idammen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I have it in my blood"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кров",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "pol:krwi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I need to check your blood pressure"
+    ],
+    [
+      "TRANSLATION",
+      "kor:피",
+      "Auto-translated with translategemma:4b"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-04-01T08:35:35.178497Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:50.286687Z": "TRANSLATION_DONE:kor"
+  }
 }

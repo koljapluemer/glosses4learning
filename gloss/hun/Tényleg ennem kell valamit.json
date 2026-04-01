@@ -1,0 +1,31 @@
+{
+  "content": "Tényleg ennem kell valamit.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by H_Liliom (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tényleg"
+    ],
+    [
+      "PART",
+      "hun:ennem"
+    ],
+    [
+      "PART",
+      "hun:kell"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.490968Z": "SPLIT_DONE"
+  }
+}

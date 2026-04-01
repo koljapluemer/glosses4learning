@@ -1,0 +1,35 @@
+{
+  "content": "Tom hadde ikke vurdert det.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:hadde"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:vurdert"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.838128Z": "SPLIT_DONE"
+  }
+}

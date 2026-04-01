@@ -1,0 +1,43 @@
+{
+  "content": "La mayoría de los trabajadores están sindicados.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arh (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:La"
+    ],
+    [
+      "PART",
+      "spa:mayoría"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:trabajadores"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:sindicados"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.272506Z": "SPLIT_DONE"
+  }
+}

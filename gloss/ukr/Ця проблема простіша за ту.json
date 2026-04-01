@@ -1,0 +1,39 @@
+{
+  "content": "Ця проблема простіша за ту.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Dieses Problem ist einfacher als das andere"
+    ],
+    [
+      "PART",
+      "ukr:Ця"
+    ],
+    [
+      "PART",
+      "ukr:проблема"
+    ],
+    [
+      "PART",
+      "ukr:простіша"
+    ],
+    [
+      "PART",
+      "ukr:за"
+    ],
+    [
+      "PART",
+      "ukr:ту"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:00:23.929696Z": "SPLIT_DONE"
+  }
+}

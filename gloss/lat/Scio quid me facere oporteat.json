@@ -1,0 +1,39 @@
+{
+  "content": "Scio quid me facere oporteat.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I know what I need to do"
+    ],
+    [
+      "PART",
+      "lat:Scio"
+    ],
+    [
+      "PART",
+      "lat:quid"
+    ],
+    [
+      "PART",
+      "lat:me"
+    ],
+    [
+      "PART",
+      "lat:facere"
+    ],
+    [
+      "PART",
+      "lat:oporteat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:25.644243Z": "SPLIT_DONE"
+  }
+}

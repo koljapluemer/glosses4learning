@@ -3,7 +3,9 @@
   "language": "fin",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -25,6 +27,14 @@
     [
       "TRANSLATION",
       "eng:yours"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Minä tarvitsen teidän mielipiteitänne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Onko se teidän vai meidän vikamme﹖"
     ]
   ]
 }

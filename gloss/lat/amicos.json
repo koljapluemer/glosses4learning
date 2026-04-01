@@ -1,0 +1,33 @@
+{
+  "content": "amicos",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Nonne amicos habetis﹖ Certe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Non video vos amicos meos esse"
+    ],
+    [
+      "TRANSLATION",
+      "eng:friends",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Video amicos atque eos saluto"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Puto amicos magni momenti esse"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:15.919548Z": "TRANSLATION_DONE:eng"
+  }
+}

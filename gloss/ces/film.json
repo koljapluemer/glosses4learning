@@ -1,0 +1,25 @@
+{
+  "content": "film",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:To ty jsi navrhl tento film"
+    ],
+    [
+      "TRANSLATION",
+      "eng:movie",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Jaký film vás v poslední době zaujal﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:00.157725Z": "TRANSLATION_DONE:eng"
+  }
+}

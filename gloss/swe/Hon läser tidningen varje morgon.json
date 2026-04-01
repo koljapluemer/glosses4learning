@@ -1,0 +1,35 @@
+{
+  "content": "Hon läser tidningen varje morgon.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Hon"
+    ],
+    [
+      "PART",
+      "swe:läser"
+    ],
+    [
+      "PART",
+      "swe:tidningen"
+    ],
+    [
+      "PART",
+      "swe:varje"
+    ],
+    [
+      "PART",
+      "swe:morgon"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.093590Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "собаку",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я уже какое-то время подумываю о том, чтобы завести собаку"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the dog",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:24.274931Z": "TRANSLATION_DONE:eng"
+  }
+}

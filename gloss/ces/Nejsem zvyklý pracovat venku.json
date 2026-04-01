@@ -1,0 +1,31 @@
+{
+  "content": "Nejsem zvyklý pracovat venku.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nejsem"
+    ],
+    [
+      "PART",
+      "ces:zvyklý"
+    ],
+    [
+      "PART",
+      "ces:pracovat"
+    ],
+    [
+      "PART",
+      "ces:venku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.124896Z": "SPLIT_DONE"
+  }
+}

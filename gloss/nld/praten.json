@@ -1,0 +1,29 @@
+{
+  "content": "praten",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Laat ons vanavond niet over je werk praten"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to talk",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Zij is iemand met wie je goed kan praten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Oude mensen hebben iemand nodig met wie ze kunnen praten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:12.089870Z": "TRANSLATION_DONE:eng"
+  }
+}

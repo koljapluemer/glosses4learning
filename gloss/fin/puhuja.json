@@ -1,0 +1,21 @@
+{
+  "content": "puhuja",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Tom on hyvä ranskan puhuja"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speaker",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:22.591142Z": "TRANSLATION_DONE:eng"
+  }
+}

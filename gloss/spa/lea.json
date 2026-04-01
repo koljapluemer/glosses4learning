@@ -1,0 +1,21 @@
+{
+  "content": "lea",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Quiero que usted lea este libro"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:читати",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:10.942234Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jag gillar att vara upptagen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:gillar"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:vara"
+    ],
+    [
+      "PART",
+      "swe:upptagen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.192633Z": "SPLIT_DONE"
+  }
+}

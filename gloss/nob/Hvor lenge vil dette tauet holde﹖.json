@@ -1,0 +1,39 @@
+{
+  "content": "Hvor lenge vil dette tauet holde?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by contour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvor"
+    ],
+    [
+      "PART",
+      "nob:lenge"
+    ],
+    [
+      "PART",
+      "nob:vil"
+    ],
+    [
+      "PART",
+      "nob:dette"
+    ],
+    [
+      "PART",
+      "nob:tauet"
+    ],
+    [
+      "PART",
+      "nob:holde"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.779695Z": "SPLIT_DONE"
+  }
+}

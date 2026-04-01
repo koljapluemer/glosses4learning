@@ -1,0 +1,41 @@
+{
+  "content": "gjorde",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom uppskattar inte det som Mary gjorde"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Han gjorde ingenting för att hjälpa henne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:did",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag sade ingenting, vilket gjorde henne arg"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Du känner antagligen till det som Tom gjorde"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag gjorde det tre gånger förra veckan"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Medicinen gjorde underverk för hans hälsa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:48.842857Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Gestern habe ich seinen Brief bekommen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zaghawa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Gestern"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:ich"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Brief"
+    ],
+    [
+      "PART",
+      "deu:bekommen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.710959Z": "SPLIT_DONE"
+  }
+}

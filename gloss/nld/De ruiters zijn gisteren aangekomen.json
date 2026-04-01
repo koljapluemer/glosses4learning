@@ -1,0 +1,35 @@
+{
+  "content": "De ruiters zijn gisteren aangekomen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:De"
+    ],
+    [
+      "PART",
+      "nld:ruiters"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:aangekomen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.017878Z": "SPLIT_DONE"
+  }
+}

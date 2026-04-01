@@ -1,0 +1,25 @@
+{
+  "content": "пытались",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Почему вы не пытались позвонить нам﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Почему вы не пытались позвонить Тому﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:They tried",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:07.865901Z": "TRANSLATION_DONE:eng"
+  }
+}

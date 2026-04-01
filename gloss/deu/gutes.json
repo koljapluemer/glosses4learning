@@ -1,0 +1,31 @@
+{
+  "content": "gutes",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Frohe Weihnachten und ein gutes neues Jahr!"
+    ],
+    [
+      "TRANSLATION",
+      "kor:좋은",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:An meiner Prüfung hat die Lehrerin kein gutes Haar gelassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:good",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:58.008183Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:52:26.625093Z": "TRANSLATION_DONE:eng"
+  }
+}

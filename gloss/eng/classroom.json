@@ -2,12 +2,15 @@
   "content": "classroom",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:11.370074Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -28,6 +31,19 @@
     [
       "TRANSLATION",
       "jbo:ckule"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no one in the classroom"
+    ],
+    [
+      "TRANSLATION",
+      "kor:교실",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said no one was in the classroom"
     ]
   ]
 }

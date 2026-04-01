@@ -1,0 +1,35 @@
+{
+  "content": "Yoko compró algunos de ellos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Yoko"
+    ],
+    [
+      "PART",
+      "spa:compró"
+    ],
+    [
+      "PART",
+      "spa:algunos"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:ellos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.281202Z": "SPLIT_DONE"
+  }
+}

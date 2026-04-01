@@ -1,0 +1,39 @@
+{
+  "content": "Позвони мне, если я понадоблюсь.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Call me if you need my assistance"
+    ],
+    [
+      "PART",
+      "rus:Позвони"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:если"
+    ],
+    [
+      "PART",
+      "rus:я"
+    ],
+    [
+      "PART",
+      "rus:понадоблюсь"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:08.143759Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,55 @@
   "content": "este",
   "language": "spa",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:30:11.100555Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:13.936808Z": "TRANSLATION_DONE:deu"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:using"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los casos como este verdaderamente importan"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Pueden los estudiantes extranjeros unirse a este club﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Quiero que usted lea este libro"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:це",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Puede que ya hayas leído este libro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me pregunto quién habrá puesto el nombre a este barco"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No puedo dormir con todo este jaleo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Te he echado de menos todo este tiempo"
+    ],
+    [
+      "TRANSLATION",
+      "deu:dies",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

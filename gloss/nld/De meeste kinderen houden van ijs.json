@@ -1,0 +1,39 @@
+{
+  "content": "De meeste kinderen houden van ijs.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:De"
+    ],
+    [
+      "PART",
+      "nld:meeste"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:ijs"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.952092Z": "SPLIT_DONE"
+  }
+}

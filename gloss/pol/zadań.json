@@ -1,0 +1,21 @@
+{
+  "content": "zadań",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Pan Jackson zadał nam trochę zadań do domu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:tasks",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:02.073083Z": "TRANSLATION_DONE:eng"
+  }
+}

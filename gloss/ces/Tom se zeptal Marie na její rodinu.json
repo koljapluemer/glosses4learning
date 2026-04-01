@@ -1,0 +1,43 @@
+{
+  "content": "Tom se zeptal Marie na její rodinu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lipao (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:zeptal"
+    ],
+    [
+      "PART",
+      "ces:Marie"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:její"
+    ],
+    [
+      "PART",
+      "ces:rodinu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.077534Z": "SPLIT_DONE"
+  }
+}

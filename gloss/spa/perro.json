@@ -1,0 +1,21 @@
+{
+  "content": "perro",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca le doy de comer carne cruda a mi perro"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Hund",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:19.072475Z": "TRANSLATION_DONE:deu"
+  }
+}

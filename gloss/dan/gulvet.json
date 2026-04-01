@@ -1,0 +1,31 @@
+{
+  "content": "gulvet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har ikke noget imod at sove på gulvet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:der Boden",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom har ikke noget imod at sove på gulvet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the floor",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:30.455013Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:13.843931Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "我想要一隻狗。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by egg0073 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I want a dog"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:想要"
+    ],
+    [
+      "PART",
+      "cmn:一"
+    ],
+    [
+      "PART",
+      "cmn:隻"
+    ],
+    [
+      "PART",
+      "cmn:狗"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:26.627475Z": "SPLIT_DONE"
+  }
+}

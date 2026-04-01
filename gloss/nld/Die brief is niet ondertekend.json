@@ -1,0 +1,39 @@
+{
+  "content": "Die brief is niet ondertekend.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by PaulP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The letter is not signed"
+    ],
+    [
+      "PART",
+      "nld:Die"
+    ],
+    [
+      "PART",
+      "nld:brief"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:ondertekend"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:41.961744Z": "SPLIT_DONE"
+  }
+}

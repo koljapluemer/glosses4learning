@@ -1,0 +1,35 @@
+{
+  "content": "dicen",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellas dicen que los helechos pueden tener flores"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they say",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Para de quejarte y haz lo que te dicen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вони кажуть",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Cómo te dicen tus amigos﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:57.326513Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:22.353732Z": "TRANSLATION_DONE:ukr"
+  }
+}

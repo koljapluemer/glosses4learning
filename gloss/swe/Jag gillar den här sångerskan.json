@@ -1,0 +1,35 @@
+{
+  "content": "Jag gillar den här sångerskan.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:gillar"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:sångerskan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.051474Z": "SPLIT_DONE"
+  }
+}

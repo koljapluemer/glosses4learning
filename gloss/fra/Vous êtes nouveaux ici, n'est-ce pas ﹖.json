@@ -1,0 +1,39 @@
+{
+  "content": "Vous êtes nouveaux ici, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vous"
+    ],
+    [
+      "PART",
+      "fra:êtes"
+    ],
+    [
+      "PART",
+      "fra:nouveaux"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.678949Z": "SPLIT_DONE"
+  }
+}

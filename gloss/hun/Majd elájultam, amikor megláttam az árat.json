@@ -1,0 +1,39 @@
+{
+  "content": "Majd elájultam, amikor megláttam az árat.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Majd"
+    ],
+    [
+      "PART",
+      "hun:elájultam"
+    ],
+    [
+      "PART",
+      "hun:amikor"
+    ],
+    [
+      "PART",
+      "hun:megláttam"
+    ],
+    [
+      "PART",
+      "hun:az"
+    ],
+    [
+      "PART",
+      "hun:árat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.516684Z": "SPLIT_DONE"
+  }
+}

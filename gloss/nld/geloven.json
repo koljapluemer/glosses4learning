@@ -1,0 +1,29 @@
+{
+  "content": "geloven",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik kan het niet geloven dat Tom die dungeon in zijn eentje heeft gedaan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to believe",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Het is bijna niet te geloven dat het echt gebeurd is"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom kan maar niet geloven dat Mary ouder dan dertig is"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:03.146618Z": "TRANSLATION_DONE:eng"
+  }
+}

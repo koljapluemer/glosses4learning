@@ -1,0 +1,39 @@
+{
+  "content": "Šel jsem až na nádraží.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I walked as far as the station"
+    ],
+    [
+      "PART",
+      "ces:Šel"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:až"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:nádraží"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:26.239908Z": "SPLIT_DONE"
+  }
+}

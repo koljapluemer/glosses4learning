@@ -1,0 +1,36 @@
+{
+  "content": "描述",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:他詳細地描述了事故狀況。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:describe",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:depict",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:portray",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:illustrate",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:47.697005Z": "TRANSLATION_DONE:eng"
+  }
+}

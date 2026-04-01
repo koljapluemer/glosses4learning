@@ -1,0 +1,31 @@
+{
+  "content": "Zien ogen binnen blaauw.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Zien"
+    ],
+    [
+      "PART",
+      "gos:ogen"
+    ],
+    [
+      "PART",
+      "gos:binnen"
+    ],
+    [
+      "PART",
+      "gos:blaauw"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.343793Z": "SPLIT_DONE"
+  }
+}

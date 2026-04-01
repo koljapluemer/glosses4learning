@@ -1,0 +1,51 @@
+{
+  "content": "Saya mendengar apa yang Tom katakan pada Mary.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User113124 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I heard what Tom said to Mary"
+    ],
+    [
+      "PART",
+      "ind:Saya"
+    ],
+    [
+      "PART",
+      "ind:mendengar"
+    ],
+    [
+      "PART",
+      "ind:apa"
+    ],
+    [
+      "PART",
+      "ind:yang"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:katakan"
+    ],
+    [
+      "PART",
+      "ind:pada"
+    ],
+    [
+      "PART",
+      "ind:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:53.549518Z": "SPLIT_DONE"
+  }
+}

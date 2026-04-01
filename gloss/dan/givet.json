@@ -1,0 +1,33 @@
+{
+  "content": "givet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem har givet dig lov til at sidde ved min computer﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:provided",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun siger at hun føler sig taget for givet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem har givet dig tilladelse til at gøre det﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han siger at han føler sig taget for givet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:56.526674Z": "TRANSLATION_DONE:eng"
+  }
+}

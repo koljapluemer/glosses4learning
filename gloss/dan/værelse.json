@@ -1,0 +1,31 @@
+{
+  "content": "værelse",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kom ikke ind i mit værelse uden at banke på"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Zimmer",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom er på Marys værelse lige nu"
+    ],
+    [
+      "TRANSLATION",
+      "eng:room",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:39.118574Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:31.401355Z": "TRANSLATION_DONE:eng"
+  }
+}

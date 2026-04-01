@@ -1,0 +1,43 @@
+{
+  "content": "Thomas promisit se per telephonum aditurum esse.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:promisit"
+    ],
+    [
+      "PART",
+      "lat:se"
+    ],
+    [
+      "PART",
+      "lat:per"
+    ],
+    [
+      "PART",
+      "lat:telephonum"
+    ],
+    [
+      "PART",
+      "lat:aditurum"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.637221Z": "SPLIT_DONE"
+  }
+}

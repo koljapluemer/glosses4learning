@@ -1,0 +1,37 @@
+{
+  "content": "quid",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Nemo mihi dixit quid accidisset"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ne ego quidem scio quid velim"
+    ],
+    [
+      "TRANSLATION",
+      "eng:what",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Maria iam scit quid ei faciendum sit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Scio quid me facere oporteat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Volo videre quid fiat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:07.548169Z": "TRANSLATION_DONE:eng"
+  }
+}

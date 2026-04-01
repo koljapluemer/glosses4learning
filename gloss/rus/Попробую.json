@@ -1,0 +1,21 @@
+{
+  "content": "Попробую",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:«Что-то я Тома никак не найду». — «Попробую ему позвонить»"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'll try",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:07.445294Z": "TRANSLATION_DONE:eng"
+  }
+}

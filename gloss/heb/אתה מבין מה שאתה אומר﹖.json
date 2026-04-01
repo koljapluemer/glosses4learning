@@ -1,0 +1,35 @@
+{
+  "content": "אתה מבין מה שאתה אומר?",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shanghainese (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "heb:אתה"
+    ],
+    [
+      "PART",
+      "heb:מבין"
+    ],
+    [
+      "PART",
+      "heb:מה"
+    ],
+    [
+      "PART",
+      "heb:שאתה"
+    ],
+    [
+      "PART",
+      "heb:אומר"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:15.724452Z": "SPLIT_DONE"
+  }
+}

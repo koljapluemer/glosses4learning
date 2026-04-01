@@ -1,0 +1,43 @@
+{
+  "content": "Tom je prohlásil za muže a ženu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:prohlásil"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:muže"
+    ],
+    [
+      "PART",
+      "ces:a"
+    ],
+    [
+      "PART",
+      "ces:ženu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.085422Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom säger att han inte kommer att rösta.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JanErikJ (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:säger"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:kommer"
+    ],
+    [
+      "PART",
+      "swe:rösta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.086543Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom har varit uppe sedan gryningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:varit"
+    ],
+    [
+      "PART",
+      "swe:uppe"
+    ],
+    [
+      "PART",
+      "swe:sedan"
+    ],
+    [
+      "PART",
+      "swe:gryningen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.069255Z": "SPLIT_DONE"
+  }
+}

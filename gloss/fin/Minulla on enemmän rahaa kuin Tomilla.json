@@ -1,0 +1,43 @@
+{
+  "content": "Minulla on enemmän rahaa kuin Tomilla.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I've got more money than Tom has"
+    ],
+    [
+      "PART",
+      "fin:Minulla"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:enemmän"
+    ],
+    [
+      "PART",
+      "fin:rahaa"
+    ],
+    [
+      "PART",
+      "fin:kuin"
+    ],
+    [
+      "PART",
+      "fin:Tomilla"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:30.561023Z": "SPLIT_DONE"
+  }
+}

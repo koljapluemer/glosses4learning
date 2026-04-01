@@ -2,12 +2,15 @@
   "content": "shirt",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:52.804856Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +39,19 @@
     [
       "TRANSLATION",
       "ukr:сорочку"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:襯衫"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much is the shirt﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:셔츠",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "content": "Jeg er sikker på at Tom er skyldig.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:sikker"
+    ],
+    [
+      "PART",
+      "dan:på"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:skyldig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.481661Z": "SPLIT_DONE"
+  }
+}

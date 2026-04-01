@@ -1,0 +1,51 @@
+{
+  "content": "Es hat Tom gefallen, wie Sie das gemacht haben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Es"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:gefallen"
+    ],
+    [
+      "PART",
+      "deu:wie"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:gemacht"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.811599Z": "SPLIT_DONE"
+  }
+}

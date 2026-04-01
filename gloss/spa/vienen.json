@@ -1,0 +1,35 @@
+{
+  "content": "vienen",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los estudiantes vienen a la escuela de a pie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todos los estudiantes vienen de los Estados Unidos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they are coming",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todas las cosas buenas vienen de tres en tres"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:приходять",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:14.114050Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:17.844923Z": "TRANSLATION_DONE:ukr"
+  }
+}

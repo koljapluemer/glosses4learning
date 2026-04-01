@@ -1,0 +1,43 @@
+{
+  "content": "El profesor retó severamente a sus estudiantes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:El"
+    ],
+    [
+      "PART",
+      "spa:profesor"
+    ],
+    [
+      "PART",
+      "spa:retó"
+    ],
+    [
+      "PART",
+      "spa:severamente"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:sus"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.157348Z": "SPLIT_DONE"
+  }
+}

@@ -2,9 +2,12 @@
   "content": "often",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:57.593587Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -41,6 +44,19 @@
     [
       "TRANSLATION",
       "ind:seringkali"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:经常"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you go to the pool often﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:자주",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

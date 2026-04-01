@@ -1,0 +1,35 @@
+{
+  "content": "Tom chtěl, aby se vzali.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:chtěl"
+    ],
+    [
+      "PART",
+      "ces:aby"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:vzali"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.219917Z": "SPLIT_DONE"
+  }
+}

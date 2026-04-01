@@ -1,0 +1,43 @@
+{
+  "content": "Tom gjør det, men ikke bra.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom does do that, but not well"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:gjør"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ],
+    [
+      "PART",
+      "nob:men"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:bra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:49.479936Z": "SPLIT_DONE"
+  }
+}

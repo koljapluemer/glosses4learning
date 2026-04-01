@@ -1,0 +1,33 @@
+{
+  "content": "saccharo",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potionem Arabicam sine saccharo libenter bibit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potionem Sinensem cum saccharo bibimus"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sugar",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potionem Sinensem sine saccharo mihi dedit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potio Arabica cum saccharo Didymo non placet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:09.455797Z": "TRANSLATION_DONE:eng"
+  }
+}

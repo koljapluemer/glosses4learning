@@ -1,0 +1,43 @@
+{
+  "content": "No eres lo suficientemente mayor para beber.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by teskmon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:No"
+    ],
+    [
+      "PART",
+      "spa:eres"
+    ],
+    [
+      "PART",
+      "spa:lo"
+    ],
+    [
+      "PART",
+      "spa:suficientemente"
+    ],
+    [
+      "PART",
+      "spa:mayor"
+    ],
+    [
+      "PART",
+      "spa:para"
+    ],
+    [
+      "PART",
+      "spa:beber"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.276569Z": "SPLIT_DONE"
+  }
+}

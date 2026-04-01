@@ -1,0 +1,47 @@
+{
+  "content": "Marie est une fille jusqu'au bout des ongles.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Marie"
+    ],
+    [
+      "PART",
+      "fra:est"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:fille"
+    ],
+    [
+      "PART",
+      "fra:jusqu'au"
+    ],
+    [
+      "PART",
+      "fra:bout"
+    ],
+    [
+      "PART",
+      "fra:des"
+    ],
+    [
+      "PART",
+      "fra:ongles"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.627334Z": "SPLIT_DONE"
+  }
+}

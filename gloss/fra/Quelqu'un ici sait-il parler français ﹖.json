@@ -1,0 +1,35 @@
+{
+  "content": "Quelqu'un ici sait-il parler français ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ],
+    [
+      "PART",
+      "fra:sait-il"
+    ],
+    [
+      "PART",
+      "fra:parler"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.743029Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "virker",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Det virker som hun hater deg"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Det virker som hun er interessert i ham"
+    ],
+    [
+      "TRANSLATION",
+      "eng:works",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Din plan virker bedre enn min"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:25.985847Z": "TRANSLATION_DONE:eng"
+  }
+}

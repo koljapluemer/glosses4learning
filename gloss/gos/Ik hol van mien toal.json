@@ -1,0 +1,35 @@
+{
+  "content": "Ik hol van mien toal.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ik"
+    ],
+    [
+      "PART",
+      "gos:hol"
+    ],
+    [
+      "PART",
+      "gos:van"
+    ],
+    [
+      "PART",
+      "gos:mien"
+    ],
+    [
+      "PART",
+      "gos:toal"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.268394Z": "SPLIT_DONE"
+  }
+}

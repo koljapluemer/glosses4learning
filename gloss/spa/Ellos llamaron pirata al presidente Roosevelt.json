@@ -1,0 +1,39 @@
+{
+  "content": "Ellos llamaron pirata al presidente Roosevelt.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:llamaron"
+    ],
+    [
+      "PART",
+      "spa:pirata"
+    ],
+    [
+      "PART",
+      "spa:al"
+    ],
+    [
+      "PART",
+      "spa:presidente"
+    ],
+    [
+      "PART",
+      "spa:Roosevelt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.172804Z": "SPLIT_DONE"
+  }
+}

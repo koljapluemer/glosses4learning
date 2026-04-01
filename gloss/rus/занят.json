@@ -1,0 +1,21 @@
+{
+  "content": "занят",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Если Том позвонит, скажите ему, что я занят"
+    ],
+    [
+      "TRANSLATION",
+      "eng:occupied",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:06.056818Z": "TRANSLATION_DONE:eng"
+  }
+}

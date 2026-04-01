@@ -1,0 +1,35 @@
+{
+  "content": "Ile kosztuje ten zegarek?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Wu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:How much does this watch cost﹖"
+    ],
+    [
+      "PART",
+      "pol:Ile"
+    ],
+    [
+      "PART",
+      "pol:kosztuje"
+    ],
+    [
+      "PART",
+      "pol:ten"
+    ],
+    [
+      "PART",
+      "pol:zegarek"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:35.523174Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "finding",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:28.860083Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +23,15 @@
     [
       "TRANSLATION",
       "arz:تِلاقي"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your chances of finding a phone booth in this area are next to none"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пошук",
+      "Auto-translated with argostranslate (en→uk)"
     ]
   ]
 }

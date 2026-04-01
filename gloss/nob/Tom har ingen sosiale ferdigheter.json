@@ -1,0 +1,35 @@
+{
+  "content": "Tom har ingen sosiale ferdigheter.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elithyia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:ingen"
+    ],
+    [
+      "PART",
+      "nob:sosiale"
+    ],
+    [
+      "PART",
+      "nob:ferdigheter"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.747277Z": "SPLIT_DONE"
+  }
+}

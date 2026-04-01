@@ -1,0 +1,39 @@
+{
+  "content": "Potionem Sinensem cum saccharo bibimus.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:We drink our tea with sugar"
+    ],
+    [
+      "PART",
+      "lat:Potionem"
+    ],
+    [
+      "PART",
+      "lat:Sinensem"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:saccharo"
+    ],
+    [
+      "PART",
+      "lat:bibimus"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:09.163372Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "skole",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han kommer tit for sent til skole"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Schule",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kom nu ikke for sent i skole"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du kan ikke have den hat på til skole"
+    ],
+    [
+      "TRANSLATION",
+      "eng:school",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:47.632703Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:32.165602Z": "TRANSLATION_DONE:eng"
+  }
+}

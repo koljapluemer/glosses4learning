@@ -1,0 +1,43 @@
+{
+  "content": "Heri vesperi cum eo locutus sum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I spoke to him last night"
+    ],
+    [
+      "PART",
+      "lat:Heri"
+    ],
+    [
+      "PART",
+      "lat:vesperi"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:eo"
+    ],
+    [
+      "PART",
+      "lat:locutus"
+    ],
+    [
+      "PART",
+      "lat:sum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:27.744821Z": "SPLIT_DONE"
+  }
+}

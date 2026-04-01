@@ -1,0 +1,31 @@
+{
+  "content": "sensible",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es realmente sensible acerca de sus nuevos frenillos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reasonable",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Usted es demasiado sensible a las críticas"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:розумний, обґрунтований",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:55.553256Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:24.389881Z": "TRANSLATION_DONE:ukr"
+  }
+}

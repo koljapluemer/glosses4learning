@@ -1,0 +1,25 @@
+{
+  "content": "ouder",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom kan maar niet geloven dat Mary ouder dan dertig is"
+    ],
+    [
+      "TRANSLATION",
+      "eng:parent",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik kan niet veel ouder zijn dan jij"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:30.392012Z": "TRANSLATION_DONE:eng"
+  }
+}

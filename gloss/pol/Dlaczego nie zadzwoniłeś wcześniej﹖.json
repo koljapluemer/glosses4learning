@@ -1,0 +1,31 @@
+{
+  "content": "Dlaczego nie zadzwoniłeś wcześniej?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Dlaczego"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:zadzwoniłeś"
+    ],
+    [
+      "PART",
+      "pol:wcześniej"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.813662Z": "SPLIT_DONE"
+  }
+}

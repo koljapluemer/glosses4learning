@@ -1,0 +1,21 @@
+{
+  "content": "frågor",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag har beslutat mig för att svara på alla frågor offentligt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:questions",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:05.750572Z": "TRANSLATION_DONE:eng"
+  }
+}

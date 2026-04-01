@@ -1,0 +1,35 @@
+{
+  "content": "תגיד שלום לחברים שלך.",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MrShoval (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Say hello to your friends"
+    ],
+    [
+      "PART",
+      "heb:תגיד"
+    ],
+    [
+      "PART",
+      "heb:שלום"
+    ],
+    [
+      "PART",
+      "heb:לחברים"
+    ],
+    [
+      "PART",
+      "heb:שלך"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:32:39.284156Z": "SPLIT_DONE"
+  }
+}

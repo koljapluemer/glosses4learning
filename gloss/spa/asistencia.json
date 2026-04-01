@@ -3,11 +3,17 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:help"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La asistencia es obligatoria para todos los miembros"
     ]
   ]
 }

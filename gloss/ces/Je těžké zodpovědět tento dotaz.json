@@ -1,0 +1,35 @@
+{
+  "content": "Je těžké zodpovědět tento dotaz.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Je"
+    ],
+    [
+      "PART",
+      "ces:těžké"
+    ],
+    [
+      "PART",
+      "ces:zodpovědět"
+    ],
+    [
+      "PART",
+      "ces:tento"
+    ],
+    [
+      "PART",
+      "ces:dotaz"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.246081Z": "SPLIT_DONE"
+  }
+}

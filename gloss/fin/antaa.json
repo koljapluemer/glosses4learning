@@ -1,0 +1,29 @@
+{
+  "content": "antaa",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Tomi antaa meille sen, mitä me tarvitsemme"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Tom antaa meille kaiken mitä tarvitsemme"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Et voi antaa minulle potkuja, otan lopputilin!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:provides",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:30.239940Z": "TRANSLATION_DONE:eng"
+  }
+}

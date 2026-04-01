@@ -1,0 +1,51 @@
+{
+  "content": "Me estoy lavando las manos porque las tengo sucias.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I'm washing my hands because they're dirty"
+    ],
+    [
+      "PART",
+      "spa:Me"
+    ],
+    [
+      "PART",
+      "spa:estoy"
+    ],
+    [
+      "PART",
+      "spa:lavando"
+    ],
+    [
+      "PART",
+      "spa:las"
+    ],
+    [
+      "PART",
+      "spa:manos"
+    ],
+    [
+      "PART",
+      "spa:porque"
+    ],
+    [
+      "PART",
+      "spa:tengo"
+    ],
+    [
+      "PART",
+      "spa:sucias"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:58.497076Z": "SPLIT_DONE"
+  }
+}

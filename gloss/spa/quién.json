@@ -1,0 +1,47 @@
+{
+  "content": "quién",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ni siquiera sé quién es ella"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:хто",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me pregunto quién habrá puesto el nombre a este barco"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo no sé quién es mi madre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sé quién es ese muchacho"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No tenía ni idea de quién era"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wer",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay ninguna manera de saber quién va a ganar"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:12.660147Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:06.937931Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "respecto",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo ya te dije lo que sé al respecto"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відносно",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Quiero hacerte unas preguntas con respecto a Tom"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bezüglich",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:09.560125Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:28.830531Z": "TRANSLATION_DONE:deu"
+  }
+}

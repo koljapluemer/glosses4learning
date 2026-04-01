@@ -1,0 +1,39 @@
+{
+  "content": "Wir sind beide aus Boston.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pullnosemans (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:우리 모두 보스턴 출신이다"
+    ],
+    [
+      "PART",
+      "deu:Wir"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "PART",
+      "deu:beide"
+    ],
+    [
+      "PART",
+      "deu:aus"
+    ],
+    [
+      "PART",
+      "deu:Boston"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:07.163130Z": "SPLIT_DONE"
+  }
+}

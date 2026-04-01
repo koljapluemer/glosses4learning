@@ -1,0 +1,25 @@
+{
+  "content": "Vi",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Vi muchas cosas cuando estuve allí"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich habe gesehen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Vi a tu padre con su nueva novia"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:23.344467Z": "TRANSLATION_DONE:deu"
+  }
+}

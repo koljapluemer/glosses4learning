@@ -1,0 +1,39 @@
+{
+  "content": "Har du någonsin hört detta ord?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Nour (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Har"
+    ],
+    [
+      "PART",
+      "swe:du"
+    ],
+    [
+      "PART",
+      "swe:någonsin"
+    ],
+    [
+      "PART",
+      "swe:hört"
+    ],
+    [
+      "PART",
+      "swe:detta"
+    ],
+    [
+      "PART",
+      "swe:ord"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.054008Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Tom said that his father worked in Boston.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що його батько працює в Бостоні"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:his"
+    ],
+    [
+      "PART",
+      "eng:father"
+    ],
+    [
+      "PART",
+      "eng:worked"
+    ],
+    [
+      "PART",
+      "eng:in"
+    ],
+    [
+      "PART",
+      "eng:Boston"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:31.744301Z": "SPLIT_DONE"
+  }
+}

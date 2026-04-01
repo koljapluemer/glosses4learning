@@ -1,0 +1,43 @@
+{
+  "content": "Hunden min har en lang hale.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by testdog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My dog has a long tail"
+    ],
+    [
+      "PART",
+      "nob:Hunden"
+    ],
+    [
+      "PART",
+      "nob:min"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:en"
+    ],
+    [
+      "PART",
+      "nob:lang"
+    ],
+    [
+      "PART",
+      "nob:hale"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:02.232161Z": "SPLIT_DONE"
+  }
+}

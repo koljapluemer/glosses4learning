@@ -1,0 +1,47 @@
+{
+  "content": "Haec stola minore pretio quam stola tua constat.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This dress is cheaper than yours"
+    ],
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:stola"
+    ],
+    [
+      "PART",
+      "lat:minore"
+    ],
+    [
+      "PART",
+      "lat:pretio"
+    ],
+    [
+      "PART",
+      "lat:quam"
+    ],
+    [
+      "PART",
+      "lat:tua"
+    ],
+    [
+      "PART",
+      "lat:constat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:06.680460Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "Tanyakan",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tanyakan Mary kapan ia akan melakukannya"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tanyakan kepada Mary apa yang ingin dia lakukan"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Ask",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tanyakan pada Tom apa yang ingin dia makan"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Tanyakan pada Tom apa yang ingin dia minum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:48.611479Z": "TRANSLATION_DONE:eng"
+  }
+}

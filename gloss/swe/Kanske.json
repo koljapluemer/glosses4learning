@@ -1,0 +1,25 @@
+{
+  "content": "Kanske",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Kanske förstår hon senare vad jag menade"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Perhaps",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Kanske inser hon senare vad jag menade"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:02.352725Z": "TRANSLATION_DONE:eng"
+  }
+}

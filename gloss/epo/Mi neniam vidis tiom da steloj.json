@@ -1,0 +1,39 @@
+{
+  "content": "Mi neniam vidis tiom da steloj.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by PaulP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:neniam"
+    ],
+    [
+      "PART",
+      "epo:vidis"
+    ],
+    [
+      "PART",
+      "epo:tiom"
+    ],
+    [
+      "PART",
+      "epo:da"
+    ],
+    [
+      "PART",
+      "epo:steloj"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.467583Z": "SPLIT_DONE"
+  }
+}

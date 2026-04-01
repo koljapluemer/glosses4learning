@@ -1,0 +1,39 @@
+{
+  "content": "Я позвонил своему воображаемому другу Тому.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ],
+    [
+      "PART",
+      "rus:своему"
+    ],
+    [
+      "PART",
+      "rus:воображаемому"
+    ],
+    [
+      "PART",
+      "rus:другу"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.428259Z": "SPLIT_DONE"
+  }
+}

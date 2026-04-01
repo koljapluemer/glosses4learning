@@ -1,0 +1,47 @@
+{
+  "content": "As-tu mangé quelque part d'intéressant, ces derniers temps ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:As-tu"
+    ],
+    [
+      "PART",
+      "fra:mangé"
+    ],
+    [
+      "PART",
+      "fra:quelque"
+    ],
+    [
+      "PART",
+      "fra:part"
+    ],
+    [
+      "PART",
+      "fra:d'intéressant"
+    ],
+    [
+      "PART",
+      "fra:ces"
+    ],
+    [
+      "PART",
+      "fra:derniers"
+    ],
+    [
+      "PART",
+      "fra:temps"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.543874Z": "SPLIT_DONE"
+  }
+}

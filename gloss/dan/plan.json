@@ -1,0 +1,21 @@
+{
+  "content": "plan",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vores plan kommer til at fungere fint"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Plan",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:44.870079Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom telah mengirimkan sesuatu kepada kalian.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HAGNi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom sent you something"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:telah"
+    ],
+    [
+      "PART",
+      "ind:mengirimkan"
+    ],
+    [
+      "PART",
+      "ind:sesuatu"
+    ],
+    [
+      "PART",
+      "ind:kepada"
+    ],
+    [
+      "PART",
+      "ind:kalian"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:27.849411Z": "SPLIT_DONE"
+  }
+}

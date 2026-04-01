@@ -1,0 +1,31 @@
+{
+  "content": "Eas Linguam Francogallicam doceo.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Eas"
+    ],
+    [
+      "PART",
+      "lat:Linguam"
+    ],
+    [
+      "PART",
+      "lat:Francogallicam"
+    ],
+    [
+      "PART",
+      "lat:doceo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.677892Z": "SPLIT_DONE"
+  }
+}

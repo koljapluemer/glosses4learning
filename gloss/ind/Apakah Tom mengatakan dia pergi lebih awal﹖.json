@@ -1,0 +1,43 @@
+{
+  "content": "Apakah Tom mengatakan dia pergi lebih awal?",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by User113124 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Apakah"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:mengatakan"
+    ],
+    [
+      "PART",
+      "ind:dia"
+    ],
+    [
+      "PART",
+      "ind:pergi"
+    ],
+    [
+      "PART",
+      "ind:lebih"
+    ],
+    [
+      "PART",
+      "ind:awal"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.479365Z": "SPLIT_DONE"
+  }
+}

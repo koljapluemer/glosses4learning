@@ -1,0 +1,39 @@
+{
+  "content": "Sommige werkwoorden hebben een vast voorzetsel.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Sommige"
+    ],
+    [
+      "PART",
+      "nld:werkwoorden"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:vast"
+    ],
+    [
+      "PART",
+      "nld:voorzetsel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.022466Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Todos nós queremos ir para casa.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ajdavidl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:nós"
+    ],
+    [
+      "PART",
+      "por:queremos"
+    ],
+    [
+      "PART",
+      "por:ir"
+    ],
+    [
+      "PART",
+      "por:para"
+    ],
+    [
+      "PART",
+      "por:casa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:37.017274Z": "SPLIT_DONE"
+  }
+}

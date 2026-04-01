@@ -1,0 +1,25 @@
+{
+  "content": "hyvää",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Hänellä on enemmän rahaa kuin hyvää makua"
+    ],
+    [
+      "TRANSLATION",
+      "eng:good",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Et voi pitää hyvää ihmistä alhaalla"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:33.220636Z": "TRANSLATION_DONE:eng"
+  }
+}

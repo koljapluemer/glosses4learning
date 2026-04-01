@@ -1,0 +1,31 @@
+{
+  "content": "我 100% 確定。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I am 100% sure"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:100"
+    ],
+    [
+      "PART",
+      "cmn:確定"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:23.836541Z": "SPLIT_DONE"
+  }
+}

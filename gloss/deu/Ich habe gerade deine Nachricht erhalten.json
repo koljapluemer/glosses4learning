@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe gerade deine Nachricht erhalten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:gerade"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Nachricht"
+    ],
+    [
+      "PART",
+      "deu:erhalten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.823616Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "making",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:37.004259Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +27,19 @@
     [
       "TRANSLATION",
       "arz:عَامِلَة"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:заробити"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:On what authority are you making us go﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:만들기",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

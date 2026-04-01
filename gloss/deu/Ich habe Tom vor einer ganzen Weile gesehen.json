@@ -1,0 +1,47 @@
+{
+  "content": "Ich habe Tom vor einer ganzen Weile gesehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Vortarulo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:vor"
+    ],
+    [
+      "PART",
+      "deu:einer"
+    ],
+    [
+      "PART",
+      "deu:ganzen"
+    ],
+    [
+      "PART",
+      "deu:Weile"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.882493Z": "SPLIT_DONE"
+  }
+}

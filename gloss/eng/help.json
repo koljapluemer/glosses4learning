@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-12T13:52:07.940065Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T13:52:07.940065Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:35.965412Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -160,6 +162,51 @@
     [
       "TRANSLATION",
       "gos:hulp"
+    ],
+    [
+      "TRANSLATION",
+      "gos:steun"
+    ],
+    [
+      "TRANSLATION",
+      "gos:help"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:допомогою"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:допоможу"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:допоможе"
+    ],
+    [
+      "TRANSLATION",
+      "hun:segítségre"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:帮"
+    ],
+    [
+      "TRANSLATION",
+      "dan:hjælp"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Could you help me find my keys﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:도움",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would you help me look for my keys﹖"
     ]
   ]
 }

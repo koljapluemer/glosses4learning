@@ -1,0 +1,39 @@
+{
+  "content": "acerca",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es realmente sensible acerca de sus nuevos frenillos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:about",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo no sé nada acerca de Japón"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:про",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sé mucho acerca de tu familia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sé nada acerca de su familia"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:55.715481Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:19.076939Z": "TRANSLATION_DONE:ukr"
+  }
+}

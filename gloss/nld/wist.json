@@ -1,0 +1,29 @@
+{
+  "content": "wist",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik wist dat we hem zouden vinden"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik wist wel dat je dorst zou hebben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik wist niet wie Toms vrouw was"
+    ],
+    [
+      "TRANSLATION",
+      "eng:knew",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:39.501465Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "pocit",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Vím jaký z nás Tom má pocit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:feeling",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:59.580192Z": "TRANSLATION_DONE:eng"
+  }
+}

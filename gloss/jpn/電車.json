@@ -1,0 +1,25 @@
+{
+  "content": "電車",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:電車、もう行っちゃったよ。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Train",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:この電車はどれくらいの速さで走るんですか？"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:37.810693Z": "TRANSLATION_DONE:eng"
+  }
+}

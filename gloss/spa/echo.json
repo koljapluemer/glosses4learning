@@ -1,0 +1,31 @@
+{
+  "content": "echo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Normalmente, no echo una siesta por la tarde"
+    ],
+    [
+      "TRANSLATION",
+      "eng:echo",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Cuando no estás aquí, te echo de menos"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Echo",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:16.559558Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:12.344034Z": "TRANSLATION_DONE:deu"
+  }
+}

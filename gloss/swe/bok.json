@@ -1,0 +1,21 @@
+{
+  "content": "bok",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag behöver någon som kan korrekturläsa min bok"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:11.439118Z": "TRANSLATION_DONE:eng"
+  }
+}

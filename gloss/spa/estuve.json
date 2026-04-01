@@ -1,0 +1,41 @@
+{
+  "content": "estuve",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ayer yo no estuve en mi casa sino hasta el mediodía"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I was",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo estuve de acuerdo con él sobre ese punto"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Я був",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Vi muchas cosas cuando estuve allí"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich war",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:55.002149Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:10.198455Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:23.506200Z": "TRANSLATION_DONE:deu"
+  }
+}

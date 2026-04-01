@@ -3,9 +3,13 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T10:42:52.688Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-16T10:42:52.688Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:30:14.731578Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:30.963480Z": "TRANSLATION_DONE:deu"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +35,28 @@
     [
       "TRANSLATION",
       "eng:location"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Usted puede ir a cualquier lugar que desee"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:місце",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Sé que no puedo ocupar el lugar de Tom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tus comentarios estuvieron totalmente fuera de lugar"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ort",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "content": "Ten pociąg zatrzymuje się na wszystkich stacjach.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Ten"
+    ],
+    [
+      "PART",
+      "pol:pociąg"
+    ],
+    [
+      "PART",
+      "pol:zatrzymuje"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:wszystkich"
+    ],
+    [
+      "PART",
+      "pol:stacjach"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.708765Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "Europaeis",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Potio Sinensis duobus nummis Europaeis constat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ocularia solaria viginti nummis Europaeis constant"
+    ],
+    [
+      "TRANSLATION",
+      "eng:European",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Homines in Italia nummis Europaeis utuntur"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:11.646798Z": "TRANSLATION_DONE:eng"
+  }
+}

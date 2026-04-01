@@ -3,11 +3,17 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
       "eng:vegetables"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los vegetales se inclinan lentamente en dirección a la luz"
     ]
   ]
 }

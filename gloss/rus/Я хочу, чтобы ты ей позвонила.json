@@ -1,0 +1,39 @@
+{
+  "content": "Я хочу, чтобы ты ей позвонила.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:хочу"
+    ],
+    [
+      "PART",
+      "rus:чтобы"
+    ],
+    [
+      "PART",
+      "rus:ты"
+    ],
+    [
+      "PART",
+      "rus:ей"
+    ],
+    [
+      "PART",
+      "rus:позвонила"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.347906Z": "SPLIT_DONE"
+  }
+}

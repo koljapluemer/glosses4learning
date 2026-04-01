@@ -1,0 +1,39 @@
+{
+  "content": "Tom má velmi dobré organizační schopnosti.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:má"
+    ],
+    [
+      "PART",
+      "ces:velmi"
+    ],
+    [
+      "PART",
+      "ces:dobré"
+    ],
+    [
+      "PART",
+      "ces:organizační"
+    ],
+    [
+      "PART",
+      "ces:schopnosti"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.099615Z": "SPLIT_DONE"
+  }
+}

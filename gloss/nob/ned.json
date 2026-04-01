@@ -1,0 +1,33 @@
+{
+  "content": "ned",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Sitt deg ned på denne stolen og vent litt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:De setter ned prisen på varene i den butikken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:down",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun la seg ned på gresset"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Sitt deg ned og vent"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:29.041759Z": "TRANSLATION_DONE:eng"
+  }
+}

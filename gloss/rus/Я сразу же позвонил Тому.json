@@ -1,0 +1,35 @@
+{
+  "content": "Я сразу же позвонил Тому.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:сразу"
+    ],
+    [
+      "PART",
+      "rus:же"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.366068Z": "SPLIT_DONE"
+  }
+}

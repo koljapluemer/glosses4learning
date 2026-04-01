@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:36:43.306Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:36:43.306Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:31.781992Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -141,6 +143,31 @@
     [
       "TRANSLATION",
       "kab:waddud"
+    ],
+    [
+      "TRANSLATION",
+      "kab:yamen"
+    ],
+    [
+      "TRANSLATION",
+      "ces:bratra"
+    ],
+    [
+      "TRANSLATION",
+      "fin:veli"
+    ],
+    [
+      "TRANSLATION",
+      "pol:brat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How old is your little brother﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:형",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

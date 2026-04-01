@@ -1,0 +1,35 @@
+{
+  "content": "Tagen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er ist vor ein paar Tagen von hier abgereist"
+    ],
+    [
+      "TRANSLATION",
+      "kor:며",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:In diesen Tagen scheint der Sommer ziemlich weit weg zu sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Days",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe schon seit zwei Tagen nichts mehr gegessen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:57.268943Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:52:29.793856Z": "TRANSLATION_DONE:eng"
+  }
+}

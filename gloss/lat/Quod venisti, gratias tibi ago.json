@@ -1,0 +1,39 @@
+{
+  "content": "Quod venisti, gratias tibi ago.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Thank you for coming"
+    ],
+    [
+      "PART",
+      "lat:Quod"
+    ],
+    [
+      "PART",
+      "lat:venisti"
+    ],
+    [
+      "PART",
+      "lat:gratias"
+    ],
+    [
+      "PART",
+      "lat:tibi"
+    ],
+    [
+      "PART",
+      "lat:ago"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:19.027276Z": "SPLIT_DONE"
+  }
+}

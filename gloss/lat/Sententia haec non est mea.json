@@ -1,0 +1,35 @@
+{
+  "content": "Sententia haec non est mea.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Sententia"
+    ],
+    [
+      "PART",
+      "lat:haec"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.727606Z": "SPLIT_DONE"
+  }
+}

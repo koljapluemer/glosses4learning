@@ -1,0 +1,25 @@
+{
+  "content": "sententiam",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Si sententiam non intelligis, eam interpretari non potes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Nemo sententiam tuam rogat"
+    ],
+    [
+      "TRANSLATION",
+      "eng:opinion; judgment",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:33.295536Z": "TRANSLATION_DONE:eng"
+  }
+}

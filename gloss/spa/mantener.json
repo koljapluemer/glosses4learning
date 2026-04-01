@@ -3,9 +3,12 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {
-    "2025-12-16T11:44:40.608Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+    "2025-12-16T11:44:40.608Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2026-04-01T08:30:31.762285Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +34,19 @@
     [
       "TRANSLATION",
       "eng:to hold"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las mujeres suelen conversar para mantener relaciones personales"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes que mantener tus manos limpias"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підтримувати",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

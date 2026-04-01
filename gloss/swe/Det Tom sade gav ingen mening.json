@@ -1,0 +1,39 @@
+{
+  "content": "Det Tom sade gav ingen mening.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by johanrhg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:sade"
+    ],
+    [
+      "PART",
+      "swe:gav"
+    ],
+    [
+      "PART",
+      "swe:ingen"
+    ],
+    [
+      "PART",
+      "swe:mening"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.082657Z": "SPLIT_DONE"
+  }
+}

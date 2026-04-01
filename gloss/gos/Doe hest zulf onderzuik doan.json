@@ -1,0 +1,35 @@
+{
+  "content": "Doe hest zulf onderzuik doan.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Doe"
+    ],
+    [
+      "PART",
+      "gos:hest"
+    ],
+    [
+      "PART",
+      "gos:zulf"
+    ],
+    [
+      "PART",
+      "gos:onderzuik"
+    ],
+    [
+      "PART",
+      "gos:doan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.272536Z": "SPLIT_DONE"
+  }
+}

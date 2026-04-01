@@ -1,0 +1,33 @@
+{
+  "content": "echt",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Onze kinderen zijn echt dol op dieren"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Die kan ik echt niet serieus nemen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:really",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom ziet er niet echt uit alsof hij het druk heeft"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Het is bijna niet te geloven dat het echt gebeurd is"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:03.840295Z": "TRANSLATION_DONE:eng"
+  }
+}

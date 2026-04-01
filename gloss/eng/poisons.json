@@ -1,0 +1,21 @@
+{
+  "content": "poisons",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:His laboratory contains all the deadliest poisons"
+    ],
+    [
+      "TRANSLATION",
+      "kor:독",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:33.215955Z": "TRANSLATION_DONE:kor"
+  }
+}

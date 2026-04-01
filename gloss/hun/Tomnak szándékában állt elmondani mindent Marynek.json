@@ -1,0 +1,39 @@
+{
+  "content": "Tomnak szándékában állt elmondani mindent Marynek.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tomnak"
+    ],
+    [
+      "PART",
+      "hun:szándékában"
+    ],
+    [
+      "PART",
+      "hun:állt"
+    ],
+    [
+      "PART",
+      "hun:elmondani"
+    ],
+    [
+      "PART",
+      "hun:mindent"
+    ],
+    [
+      "PART",
+      "hun:Marynek"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.532966Z": "SPLIT_DONE"
+  }
+}

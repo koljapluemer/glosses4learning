@@ -1,0 +1,43 @@
+{
+  "content": "Dit paark wordt deur gemainte onderholden.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This park is maintained by the municipality"
+    ],
+    [
+      "PART",
+      "gos:Dit"
+    ],
+    [
+      "PART",
+      "gos:paark"
+    ],
+    [
+      "PART",
+      "gos:wordt"
+    ],
+    [
+      "PART",
+      "gos:deur"
+    ],
+    [
+      "PART",
+      "gos:gemainte"
+    ],
+    [
+      "PART",
+      "gos:onderholden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:49.646527Z": "SPLIT_DONE"
+  }
+}

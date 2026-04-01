@@ -1,0 +1,39 @@
+{
+  "content": "Que c’est un cheval rapide !",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by belgavox (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Was für ein schnelles Pferd das ist!"
+    ],
+    [
+      "PART",
+      "fra:Que"
+    ],
+    [
+      "PART",
+      "fra:c’est"
+    ],
+    [
+      "PART",
+      "fra:un"
+    ],
+    [
+      "PART",
+      "fra:cheval"
+    ],
+    [
+      "PART",
+      "fra:rapide"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:11.458911Z": "SPLIT_DONE"
+  }
+}

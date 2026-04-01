@@ -1,0 +1,21 @@
+{
+  "content": "león",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunos animales, como el león, comen carne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lion",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:16.755418Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "השאלה היא באיזה לבחור.",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MrShoval (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "heb:השאלה"
+    ],
+    [
+      "PART",
+      "heb:היא"
+    ],
+    [
+      "PART",
+      "heb:באיזה"
+    ],
+    [
+      "PART",
+      "heb:לבחור"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:15.682139Z": "SPLIT_DONE"
+  }
+}

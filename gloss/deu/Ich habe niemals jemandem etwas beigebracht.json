@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe niemals jemandem etwas beigebracht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Lars224 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:niemals"
+    ],
+    [
+      "PART",
+      "deu:jemandem"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:beigebracht"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.871083Z": "SPLIT_DONE"
+  }
+}

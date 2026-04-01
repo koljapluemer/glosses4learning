@@ -1,0 +1,35 @@
+{
+  "content": "هي تتكلم القليل من العربية.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هي"
+    ],
+    [
+      "PART",
+      "ara:تتكلم"
+    ],
+    [
+      "PART",
+      "ara:القليل"
+    ],
+    [
+      "PART",
+      "ara:من"
+    ],
+    [
+      "PART",
+      "ara:العربية"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.398691Z": "SPLIT_DONE"
+  }
+}

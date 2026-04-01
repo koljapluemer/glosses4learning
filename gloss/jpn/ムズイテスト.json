@@ -1,0 +1,21 @@
+{
+  "content": "ムズイテスト",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:マジ、ムズイテストだった。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Difficult test",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:05.692701Z": "TRANSLATION_DONE:eng"
+  }
+}

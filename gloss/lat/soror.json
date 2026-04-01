@@ -1,0 +1,25 @@
+{
+  "content": "soror",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Mihi sunt duo fratres et una soror"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sister",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Num Maria tua soror est﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:03.244070Z": "TRANSLATION_DONE:eng"
+  }
+}

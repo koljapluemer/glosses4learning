@@ -1,0 +1,21 @@
+{
+  "content": "opdracht",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Dat is een opdracht die ik niet kan geven"
+    ],
+    [
+      "TRANSLATION",
+      "eng:task",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:19.055929Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Die pizza ziet er heerlijk uit.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:That pizza looks delicious"
+    ],
+    [
+      "PART",
+      "nld:Die"
+    ],
+    [
+      "PART",
+      "nld:pizza"
+    ],
+    [
+      "PART",
+      "nld:ziet"
+    ],
+    [
+      "PART",
+      "nld:er"
+    ],
+    [
+      "PART",
+      "nld:heerlijk"
+    ],
+    [
+      "PART",
+      "nld:uit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:40.151910Z": "SPLIT_DONE"
+  }
+}

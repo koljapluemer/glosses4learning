@@ -1,0 +1,31 @@
+{
+  "content": "Пожалуйста, позвоните мне вечером.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fjay69 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Пожалуйста"
+    ],
+    [
+      "PART",
+      "rus:позвоните"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:вечером"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.395477Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Aliquisne eacum locutus est?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Aliquisne"
+    ],
+    [
+      "PART",
+      "lat:eacum"
+    ],
+    [
+      "PART",
+      "lat:locutus"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.686517Z": "SPLIT_DONE"
+  }
+}

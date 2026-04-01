@@ -1,0 +1,39 @@
+{
+  "content": "Algunos botes están en el lago.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:botes"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:el"
+    ],
+    [
+      "PART",
+      "spa:lago"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.206009Z": "SPLIT_DONE"
+  }
+}

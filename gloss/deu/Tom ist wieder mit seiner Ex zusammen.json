@@ -1,0 +1,43 @@
+{
+  "content": "Tom ist wieder mit seiner Ex zusammen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:wieder"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:seiner"
+    ],
+    [
+      "PART",
+      "deu:Ex"
+    ],
+    [
+      "PART",
+      "deu:zusammen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.670584Z": "SPLIT_DONE"
+  }
+}

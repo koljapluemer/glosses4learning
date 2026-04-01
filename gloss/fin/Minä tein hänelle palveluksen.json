@@ -1,0 +1,31 @@
+{
+  "content": "Minä tein hänelle palveluksen.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minä"
+    ],
+    [
+      "PART",
+      "fin:tein"
+    ],
+    [
+      "PART",
+      "fin:hänelle"
+    ],
+    [
+      "PART",
+      "fin:palveluksen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.855390Z": "SPLIT_DONE"
+  }
+}

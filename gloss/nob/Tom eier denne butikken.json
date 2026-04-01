@@ -1,0 +1,31 @@
+{
+  "content": "Tom eier denne butikken.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elithyia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:eier"
+    ],
+    [
+      "PART",
+      "nob:denne"
+    ],
+    [
+      "PART",
+      "nob:butikken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.745552Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "пригласить",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Вам надо было пригласить Тома, а вы этого не сделали"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to invite",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Том позвонил Мэри, чтобы пригласить её на свидание"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:13.889252Z": "TRANSLATION_DONE:eng"
+  }
+}

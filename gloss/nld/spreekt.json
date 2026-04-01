@@ -1,0 +1,21 @@
+{
+  "content": "spreekt",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik heb een assistent nodig die Frans spreekt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:speaks",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:25.807344Z": "TRANSLATION_DONE:eng"
+  }
+}

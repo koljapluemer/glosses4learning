@@ -1,0 +1,35 @@
+{
+  "content": "Felfogtad azt, amit ő mondott?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Felfogtad"
+    ],
+    [
+      "PART",
+      "hun:azt"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:ő"
+    ],
+    [
+      "PART",
+      "hun:mondott"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.485831Z": "SPLIT_DONE"
+  }
+}

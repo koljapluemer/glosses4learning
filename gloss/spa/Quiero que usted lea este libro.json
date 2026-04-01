@@ -1,0 +1,43 @@
+{
+  "content": "Quiero que usted lea este libro.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Я хочу, щоб ви прочитали цю книгу"
+    ],
+    [
+      "PART",
+      "spa:Quiero"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:usted"
+    ],
+    [
+      "PART",
+      "spa:lea"
+    ],
+    [
+      "PART",
+      "spa:este"
+    ],
+    [
+      "PART",
+      "spa:libro"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:10.766115Z": "SPLIT_DONE"
+  }
+}

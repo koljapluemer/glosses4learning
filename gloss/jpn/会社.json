@@ -1,0 +1,21 @@
+{
+  "content": "会社",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:会社は株価が下がった。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Company",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:27.169496Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ik dìnk dat ik Tom helpen zel.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ik"
+    ],
+    [
+      "PART",
+      "gos:dìnk"
+    ],
+    [
+      "PART",
+      "gos:dat"
+    ],
+    [
+      "PART",
+      "gos:ik"
+    ],
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:helpen"
+    ],
+    [
+      "PART",
+      "gos:zel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.269083Z": "SPLIT_DONE"
+  }
+}

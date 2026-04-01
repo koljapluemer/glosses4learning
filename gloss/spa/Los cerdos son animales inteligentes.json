@@ -1,0 +1,35 @@
+{
+  "content": "Los cerdos son animales inteligentes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:cerdos"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:inteligentes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.166258Z": "SPLIT_DONE"
+  }
+}

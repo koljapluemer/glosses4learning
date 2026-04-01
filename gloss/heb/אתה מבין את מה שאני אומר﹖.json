@@ -1,0 +1,39 @@
+{
+  "content": "אתה מבין את מה שאני אומר?",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "heb:אתה"
+    ],
+    [
+      "PART",
+      "heb:מבין"
+    ],
+    [
+      "PART",
+      "heb:את"
+    ],
+    [
+      "PART",
+      "heb:מה"
+    ],
+    [
+      "PART",
+      "heb:שאני"
+    ],
+    [
+      "PART",
+      "heb:אומר"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:15.769461Z": "SPLIT_DONE"
+  }
+}

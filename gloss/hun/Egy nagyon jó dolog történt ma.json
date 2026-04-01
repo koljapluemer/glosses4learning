@@ -1,0 +1,43 @@
+{
+  "content": "Egy nagyon jó dolog történt ma.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by FerenczPatricia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:A very good thing happened today"
+    ],
+    [
+      "PART",
+      "hun:Egy"
+    ],
+    [
+      "PART",
+      "hun:nagyon"
+    ],
+    [
+      "PART",
+      "hun:jó"
+    ],
+    [
+      "PART",
+      "hun:dolog"
+    ],
+    [
+      "PART",
+      "hun:történt"
+    ],
+    [
+      "PART",
+      "hun:ma"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:36:30.121848Z": "SPLIT_DONE"
+  }
+}

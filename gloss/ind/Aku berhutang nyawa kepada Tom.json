@@ -1,0 +1,35 @@
+{
+  "content": "Aku berhutang nyawa kepada Tom.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by amangimam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Aku"
+    ],
+    [
+      "PART",
+      "ind:berhutang"
+    ],
+    [
+      "PART",
+      "ind:nyawa"
+    ],
+    [
+      "PART",
+      "ind:kepada"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.419264Z": "SPLIT_DONE"
+  }
+}

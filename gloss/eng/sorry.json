@@ -2,12 +2,15 @@
   "content": "sorry",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:45.043265Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -24,6 +27,15 @@
     [
       "TRANSLATION",
       "swe:ledsen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm sorry that I couldn't go with you"
+    ],
+    [
+      "TRANSLATION",
+      "kor:죄송합니다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

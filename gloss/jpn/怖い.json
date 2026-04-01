@@ -1,0 +1,29 @@
+{
+  "content": "怖い",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:トムって、幽霊が怖いんでしょ？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Scary",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:ネズミが怖いの？"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:メリーは犬が怖いのよ。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:36.372619Z": "TRANSLATION_DONE:eng"
+  }
+}

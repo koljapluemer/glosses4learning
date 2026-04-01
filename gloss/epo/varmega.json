@@ -1,0 +1,29 @@
+{
+  "content": "varmega",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Mi neniam antaŭe sentis min tiom varmega"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Hodiaŭ estas la plej varmega tago dum tiu ĉi jaro"
+    ],
+    [
+      "TRANSLATION",
+      "eng:warm",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Kio estas via plej ŝatata nutraĵo en varmega vetero﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:10.901103Z": "TRANSLATION_DONE:eng"
+  }
+}

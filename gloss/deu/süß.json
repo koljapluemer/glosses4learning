@@ -4,9 +4,12 @@
   "transcriptions": {},
   "logs": {
     "2025-12-12T13:52:07.919197Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-12T14:20:36.882397Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:20:36.882397Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:49:01.096496Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -15,6 +18,19 @@
     [
       "TRANSLATION",
       "fra:mignonne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ihr beiden seid ja so süß!"
+    ],
+    [
+      "TRANSLATION",
+      "kor:달콤한",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Alle beide sind sehr süß"
     ]
   ]
 }

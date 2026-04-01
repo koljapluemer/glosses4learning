@@ -1,0 +1,39 @@
+{
+  "content": "L'accident s'est passé de cette façon.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nimfeo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:L'accident"
+    ],
+    [
+      "PART",
+      "fra:s'est"
+    ],
+    [
+      "PART",
+      "fra:passé"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:cette"
+    ],
+    [
+      "PART",
+      "fra:façon"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.881612Z": "SPLIT_DONE"
+  }
+}

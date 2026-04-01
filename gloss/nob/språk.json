@@ -1,0 +1,33 @@
+{
+  "content": "språk",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Latin er et evigvarende språk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hvilket språk snakker de i Korea﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:language",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hvilket språk snakker de i Mexico﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hvilke språk snakker i Amerika﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:04.546525Z": "TRANSLATION_DONE:eng"
+  }
+}

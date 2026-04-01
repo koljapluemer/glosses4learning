@@ -1,0 +1,39 @@
+{
+  "content": "หนังสือเล่มไหนของคุณ?",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:หนังสือ"
+    ],
+    [
+      "PART",
+      "tha:เล่ม"
+    ],
+    [
+      "PART",
+      "tha:ไหน"
+    ],
+    [
+      "PART",
+      "tha:ของ"
+    ],
+    [
+      "PART",
+      "tha:คุณ"
+    ],
+    [
+      "PART",
+      "tha:﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:44.014068Z": "SPLIT_DONE"
+  }
+}

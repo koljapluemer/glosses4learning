@@ -1,0 +1,31 @@
+{
+  "content": "Mitä menetettävää minulla on?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Mitä"
+    ],
+    [
+      "PART",
+      "fin:menetettävää"
+    ],
+    [
+      "PART",
+      "fin:minulla"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.799098Z": "SPLIT_DONE"
+  }
+}

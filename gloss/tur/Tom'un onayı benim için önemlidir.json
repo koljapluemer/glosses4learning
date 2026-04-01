@@ -1,0 +1,35 @@
+{
+  "content": "Tom'un onayı benim için önemlidir.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom'un"
+    ],
+    [
+      "PART",
+      "tur:onayı"
+    ],
+    [
+      "PART",
+      "tur:benim"
+    ],
+    [
+      "PART",
+      "tur:için"
+    ],
+    [
+      "PART",
+      "tur:önemlidir"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:43.892041Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Haec potio Sinensis valde fervens est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:potio"
+    ],
+    [
+      "PART",
+      "lat:Sinensis"
+    ],
+    [
+      "PART",
+      "lat:valde"
+    ],
+    [
+      "PART",
+      "lat:fervens"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.715380Z": "SPLIT_DONE"
+  }
+}

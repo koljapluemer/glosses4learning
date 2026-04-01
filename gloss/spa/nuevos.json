@@ -1,0 +1,35 @@
+{
+  "content": "nuevos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:El profesor dio la bienvenida a los nuevos alumnos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es realmente sensible acerca de sus nuevos frenillos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:new",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hacer nuevos amigos es fácil cuando eres joven"
+    ],
+    [
+      "TRANSLATION",
+      "deu:neue",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:55.896151Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:22.089542Z": "TRANSLATION_DONE:deu"
+  }
+}

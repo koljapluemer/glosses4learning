@@ -1,0 +1,31 @@
+{
+  "content": "Hai is dien keunenk.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Hai"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:dien"
+    ],
+    [
+      "PART",
+      "gos:keunenk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.351444Z": "SPLIT_DONE"
+  }
+}

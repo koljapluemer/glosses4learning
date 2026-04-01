@@ -1,0 +1,25 @@
+{
+  "content": "買い",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:昨日私は本を買いました。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Buying",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:新しい家具を買いました。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:39.354130Z": "TRANSLATION_DONE:eng"
+  }
+}

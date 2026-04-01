@@ -2,12 +2,16 @@
   "content": "didn't",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:29.176259Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:24.197163Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +24,44 @@
     [
       "TRANSLATION",
       "arz:مَِش"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't have any experience"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:не",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't do that yesterday"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't have much experience"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't have any money"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't want a party"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom told me he didn't have any money"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I didn't go to school last Monday"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~ 않았습니다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

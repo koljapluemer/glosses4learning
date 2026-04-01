@@ -1,0 +1,47 @@
+{
+  "content": "Para tener buenas notas hay que estudiar mucho.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silvestre (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Para"
+    ],
+    [
+      "PART",
+      "spa:tener"
+    ],
+    [
+      "PART",
+      "spa:buenas"
+    ],
+    [
+      "PART",
+      "spa:notas"
+    ],
+    [
+      "PART",
+      "spa:hay"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:estudiar"
+    ],
+    [
+      "PART",
+      "spa:mucho"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.193290Z": "SPLIT_DONE"
+  }
+}

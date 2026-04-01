@@ -1,0 +1,39 @@
+{
+  "content": "Tom mi koupil, co jsem potřeboval.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:mi"
+    ],
+    [
+      "PART",
+      "ces:koupil"
+    ],
+    [
+      "PART",
+      "ces:co"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:potřeboval"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.239231Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "street",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:22.082378Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -76,6 +79,27 @@
     [
       "TRANSLATION",
       "vie:phố"
+    ],
+    [
+      "TRANSLATION",
+      "gos:stroat"
+    ],
+    [
+      "TRANSLATION",
+      "epo:vico"
+    ],
+    [
+      "TRANSLATION",
+      "epo:strato"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are two churches in this street"
+    ],
+    [
+      "TRANSLATION",
+      "kor:거리",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

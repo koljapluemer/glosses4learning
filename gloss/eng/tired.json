@@ -2,12 +2,15 @@
   "content": "tired",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:52.265043Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -96,6 +99,35 @@
     [
       "TRANSLATION",
       "lat:fessa"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:втомлені"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:втомлений"
+    ],
+    [
+      "TRANSLATION",
+      "fin:väsyneitä"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary is very tired"
+    ],
+    [
+      "TRANSLATION",
+      "por:cansado"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He sounded very tired on the phone"
+    ],
+    [
+      "TRANSLATION",
+      "kor:피곤한",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

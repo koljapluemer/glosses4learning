@@ -1,0 +1,41 @@
+{
+  "content": "men",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Beklager, men vi tar ikke sjekker"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun er ikke hans søster, men hans mor"
+    ],
+    [
+      "TRANSLATION",
+      "eng:but",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:John er ikke broren min, men søskenbarnet mitt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom gjør det, men ikke bra"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun var fattig, men ærlig"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom drog for å fiske, men han fikk ingenting"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:26.988200Z": "TRANSLATION_DONE:eng"
+  }
+}

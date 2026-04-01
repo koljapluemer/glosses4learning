@@ -2,12 +2,16 @@
   "content": "chance",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T07:59:17.243296Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T08:35:31.940572Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +40,36 @@
     [
       "TRANSLATION",
       "ber:mazal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he should come, I want you to give him this document"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기회",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is there any chance that Tom will win﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:шанс",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you by any chance speak Vietnamese﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, I'd like you to give him this paper"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, give him this paper"
     ]
   ]
 }

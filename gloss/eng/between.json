@@ -2,9 +2,12 @@
   "content": "between",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:30.689484Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -50,6 +53,35 @@
     [
       "TRANSLATION",
       "lat:inter"
+    ],
+    [
+      "TRANSLATION",
+      "por:entre"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:між"
+    ],
+    [
+      "TRANSLATION",
+      "ell:ανάμεσα"
+    ],
+    [
+      "TRANSLATION",
+      "hun:között"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:之間"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were deep feelings between the two"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사이",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

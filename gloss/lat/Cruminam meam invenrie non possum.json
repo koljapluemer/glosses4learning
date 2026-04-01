@@ -1,0 +1,35 @@
+{
+  "content": "Cruminam meam invenrie non possum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Cruminam"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:invenrie"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:possum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.708876Z": "SPLIT_DONE"
+  }
+}

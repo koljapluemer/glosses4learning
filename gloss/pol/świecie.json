@@ -1,0 +1,25 @@
+{
+  "content": "świecie",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jakie jest twoje ulubione miasto na świecie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:in the world",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:On wspiera dążenie do pokoju na świecie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:41.967549Z": "TRANSLATION_DONE:eng"
+  }
+}

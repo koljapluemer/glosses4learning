@@ -1,0 +1,25 @@
+{
+  "content": "передать",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Вы можете передать Тому, чтобы он мне позвонил﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to pass on",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Ты можешь передать Тому, чтобы он мне позвонил﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:01.414787Z": "TRANSLATION_DONE:eng"
+  }
+}

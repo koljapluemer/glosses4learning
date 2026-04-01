@@ -1,0 +1,37 @@
+{
+  "content": "palabras",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niños no pueden decir malas palabras"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las palabras no pueden trasmitir mis verdaderos sentimientos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Algunas palabras inglesas provienen del japonés"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No sé más que unas cuantas palabras"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:слова",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esa es una de mis palabras favoritas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:27.497806Z": "TRANSLATION_DONE:ukr"
+  }
+}

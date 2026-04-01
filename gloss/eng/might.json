@@ -2,12 +2,15 @@
   "content": "might",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:35.282597Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -44,6 +47,27 @@
     [
       "TRANSLATION",
       "fra:puisse"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:могли"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom told me that he might do that"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom told me he might do that"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There might be life on Jupiter's moons"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~일 수도 있습니다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

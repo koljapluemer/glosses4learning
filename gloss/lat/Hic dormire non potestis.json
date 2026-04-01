@@ -1,0 +1,31 @@
+{
+  "content": "Hic dormire non potestis.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hic"
+    ],
+    [
+      "PART",
+      "lat:dormire"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potestis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.710527Z": "SPLIT_DONE"
+  }
+}

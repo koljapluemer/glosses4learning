@@ -3,7 +3,9 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -29,6 +31,10 @@
     [
       "TRANSLATION",
       "eng:learning"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No he estado aprendiendo tagalo consistentemente"
     ]
   ]
 }

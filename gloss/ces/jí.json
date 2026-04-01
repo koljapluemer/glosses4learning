@@ -1,0 +1,33 @@
+{
+  "content": "jí",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Dostalo se jí dobrého vzdělání"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom se zeptal Mary, proč se jí líbí John"
+    ],
+    [
+      "TRANSLATION",
+      "eng:eats",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom jí téměř každý večer v restauraci"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Zavolal jí na její narozeniny"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:03.943730Z": "TRANSLATION_DONE:eng"
+  }
+}

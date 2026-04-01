@@ -1,0 +1,35 @@
+{
+  "content": "Mi neniam vidis ŝin tiel.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Hans07 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:neniam"
+    ],
+    [
+      "PART",
+      "epo:vidis"
+    ],
+    [
+      "PART",
+      "epo:ŝin"
+    ],
+    [
+      "PART",
+      "epo:tiel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.359305Z": "SPLIT_DONE"
+  }
+}

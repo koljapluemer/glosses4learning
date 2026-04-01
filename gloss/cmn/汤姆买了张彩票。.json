@@ -1,0 +1,39 @@
+{
+  "content": "汤姆买了张彩票。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fercheung (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom bought a lottery ticket"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:买"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:张"
+    ],
+    [
+      "PART",
+      "cmn:彩票"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:54.933786Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Stufan Tom akked Mary akka tura?",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Rafik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "kab:Stufan"
+    ],
+    [
+      "PART",
+      "kab:Tom"
+    ],
+    [
+      "PART",
+      "kab:akked"
+    ],
+    [
+      "PART",
+      "kab:Mary"
+    ],
+    [
+      "PART",
+      "kab:akka"
+    ],
+    [
+      "PART",
+      "kab:tura"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:37.117021Z": "SPLIT_DONE"
+  }
+}

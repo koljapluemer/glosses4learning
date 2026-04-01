@@ -1,0 +1,47 @@
+{
+  "content": "Est-ce que je peux me laver les mains ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:peux"
+    ],
+    [
+      "PART",
+      "fra:me"
+    ],
+    [
+      "PART",
+      "fra:laver"
+    ],
+    [
+      "PART",
+      "fra:les"
+    ],
+    [
+      "PART",
+      "fra:mains"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.803856Z": "SPLIT_DONE"
+  }
+}

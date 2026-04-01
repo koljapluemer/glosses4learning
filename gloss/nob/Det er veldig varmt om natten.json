@@ -1,0 +1,39 @@
+{
+  "content": "Det er veldig varmt om natten.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Lehon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Det"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:veldig"
+    ],
+    [
+      "PART",
+      "nob:varmt"
+    ],
+    [
+      "PART",
+      "nob:om"
+    ],
+    [
+      "PART",
+      "nob:natten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.723876Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "fyrre",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Livet begynder når du er fyrre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:vier",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Livet begynder når man er fyrre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:four",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:34.267592Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:25.702544Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "content": "Jane",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:Tom 和 Jane 在上個月結婚了。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Jane",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Jain",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Jaine",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Jayne",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:John 和 Jane 是兩夫婦。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:22.145464Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tom je skvělý učitel francouzštiny.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:skvělý"
+    ],
+    [
+      "PART",
+      "ces:učitel"
+    ],
+    [
+      "PART",
+      "ces:francouzštiny"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.189414Z": "SPLIT_DONE"
+  }
+}

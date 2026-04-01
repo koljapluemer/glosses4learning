@@ -1,0 +1,29 @@
+{
+  "content": "patro",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ŝi estas tiel alta kiel ŝia patro"
+    ],
+    [
+      "TRANSLATION",
+      "eng:father",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Lia patro mortis post sia reveno hajmen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Lia konduto estas neniel kiel tiu de lia patro"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:14.652654Z": "TRANSLATION_DONE:eng"
+  }
+}

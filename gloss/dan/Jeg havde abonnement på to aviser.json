@@ -1,0 +1,39 @@
+{
+  "content": "Jeg havde abonnement på to aviser.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:havde"
+    ],
+    [
+      "PART",
+      "dan:abonnement"
+    ],
+    [
+      "PART",
+      "dan:på"
+    ],
+    [
+      "PART",
+      "dan:to"
+    ],
+    [
+      "PART",
+      "dan:aviser"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.495346Z": "SPLIT_DONE"
+  }
+}

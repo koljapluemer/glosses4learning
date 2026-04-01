@@ -1,0 +1,43 @@
+{
+  "content": "Potionem Sinensem sine saccharo mihi dedit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:He gave me tea without sugar"
+    ],
+    [
+      "PART",
+      "lat:Potionem"
+    ],
+    [
+      "PART",
+      "lat:Sinensem"
+    ],
+    [
+      "PART",
+      "lat:sine"
+    ],
+    [
+      "PART",
+      "lat:saccharo"
+    ],
+    [
+      "PART",
+      "lat:mihi"
+    ],
+    [
+      "PART",
+      "lat:dedit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:17.941017Z": "SPLIT_DONE"
+  }
+}

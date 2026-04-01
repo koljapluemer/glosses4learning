@@ -2,12 +2,15 @@
   "content": "taxi",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:33.668233Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -28,6 +31,19 @@
     [
       "TRANSLATION",
       "fin:taksiksi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you have money for a taxi﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:таксі",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nob:taxi"
     ]
   ]
 }

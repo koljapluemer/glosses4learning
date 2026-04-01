@@ -1,0 +1,51 @@
+{
+  "content": "Tom og Mary er lei av å tape.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom and Mary are tired of losing"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:og"
+    ],
+    [
+      "PART",
+      "nob:Mary"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:lei"
+    ],
+    [
+      "PART",
+      "nob:av"
+    ],
+    [
+      "PART",
+      "nob:å"
+    ],
+    [
+      "PART",
+      "nob:tape"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:11.155592Z": "SPLIT_DONE"
+  }
+}

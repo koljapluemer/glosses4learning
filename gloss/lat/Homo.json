@@ -1,0 +1,25 @@
+{
+  "content": "Homo",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Homo sine aere vivere non potest"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Homo solum est id quod scit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Human being",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:38.402928Z": "TRANSLATION_DONE:eng"
+  }
+}

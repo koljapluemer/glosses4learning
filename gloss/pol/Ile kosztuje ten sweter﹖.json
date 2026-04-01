@@ -1,0 +1,35 @@
+{
+  "content": "Ile kosztuje ten sweter?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by procroco (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:How much is this pullover, please﹖"
+    ],
+    [
+      "PART",
+      "pol:Ile"
+    ],
+    [
+      "PART",
+      "pol:kosztuje"
+    ],
+    [
+      "PART",
+      "pol:ten"
+    ],
+    [
+      "PART",
+      "pol:sweter"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:36.226891Z": "SPLIT_DONE"
+  }
+}

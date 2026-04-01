@@ -2,7 +2,8 @@
   "content": "break",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -84,6 +85,14 @@
     [
       "TRANSLATION",
       "tok:pakala"
+    ],
+    [
+      "TRANSLATION",
+      "gos:vrust"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Sticks and stones may break my bones, but names will never hurt me"
     ]
   ]
 }

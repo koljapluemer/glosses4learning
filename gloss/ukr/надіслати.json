@@ -1,0 +1,39 @@
+{
+  "content": "надіслати",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ви можете надіслати мені свій рецепт м’ясного рулета﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:send",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можете надіслати мені свій рецепт м’ясного рулета﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:senden",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ти можеш надіслати мені свій рецепт м’ясного рулета﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Можеш надіслати мені свій рецепт м’ясного рулета﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:24.827213Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:15.685601Z": "TRANSLATION_DONE:deu"
+  }
+}

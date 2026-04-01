@@ -1,0 +1,51 @@
+{
+  "content": "Ich habe gestern abend mal nach dir gegugelt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I googled you last night"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:gestern"
+    ],
+    [
+      "PART",
+      "deu:abend"
+    ],
+    [
+      "PART",
+      "deu:mal"
+    ],
+    [
+      "PART",
+      "deu:nach"
+    ],
+    [
+      "PART",
+      "deu:dir"
+    ],
+    [
+      "PART",
+      "deu:gegugelt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:42.271832Z": "SPLIT_DONE"
+  }
+}

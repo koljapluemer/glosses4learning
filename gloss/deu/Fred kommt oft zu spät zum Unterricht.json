@@ -1,0 +1,47 @@
+{
+  "content": "Fred kommt oft zu spät zum Unterricht.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zaghawa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Фред часто запізднюється на уроки"
+    ],
+    [
+      "PART",
+      "deu:Fred"
+    ],
+    [
+      "PART",
+      "deu:kommt"
+    ],
+    [
+      "PART",
+      "deu:oft"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:spät"
+    ],
+    [
+      "PART",
+      "deu:zum"
+    ],
+    [
+      "PART",
+      "deu:Unterricht"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:37.889628Z": "SPLIT_DONE"
+  }
+}

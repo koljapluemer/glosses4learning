@@ -1,0 +1,25 @@
+{
+  "content": "ridder",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie is die lange ridder﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:knight",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Kijk naar die ridder op het paard"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:16.341418Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Vad är meningen med livet?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vad"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:meningen"
+    ],
+    [
+      "PART",
+      "swe:med"
+    ],
+    [
+      "PART",
+      "swe:livet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.136334Z": "SPLIT_DONE"
+  }
+}

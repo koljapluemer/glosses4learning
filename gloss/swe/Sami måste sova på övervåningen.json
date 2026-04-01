@@ -1,0 +1,35 @@
+{
+  "content": "Sami måste sova på övervåningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Sami"
+    ],
+    [
+      "PART",
+      "swe:måste"
+    ],
+    [
+      "PART",
+      "swe:sova"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:övervåningen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.130680Z": "SPLIT_DONE"
+  }
+}

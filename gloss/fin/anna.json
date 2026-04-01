@@ -1,0 +1,29 @@
+{
+  "content": "anna",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Miksi sinä et vaan anna Tomille potkuja﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:provide",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Hän ei koskaan ota eikä anna tavaroita lainaksi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Älä anna sellaisia lupauksia, joita et voi täyttää"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:07.626515Z": "TRANSLATION_DONE:eng"
+  }
+}

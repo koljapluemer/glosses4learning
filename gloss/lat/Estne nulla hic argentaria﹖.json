@@ -1,0 +1,35 @@
+{
+  "content": "Estne nulla hic argentaria?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Is there no bank here﹖"
+    ],
+    [
+      "PART",
+      "lat:Estne"
+    ],
+    [
+      "PART",
+      "lat:nulla"
+    ],
+    [
+      "PART",
+      "lat:hic"
+    ],
+    [
+      "PART",
+      "lat:argentaria"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:25.455726Z": "SPLIT_DONE"
+  }
+}

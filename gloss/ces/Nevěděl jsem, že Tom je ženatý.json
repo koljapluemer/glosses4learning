@@ -1,0 +1,39 @@
+{
+  "content": "Nevěděl jsem, že Tom je ženatý.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nevěděl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:ženatý"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.091118Z": "SPLIT_DONE"
+  }
+}

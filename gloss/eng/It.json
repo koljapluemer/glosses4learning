@@ -2,8 +2,13 @@
   "content": "It",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:35:30.475865Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:42.853018Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -117,6 +122,40 @@
     [
       "TRANSLATION",
       "gos:Der"
+    ],
+    [
+      "TRANSLATION",
+      "kab:Akk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It is very hot in the kitchen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Він",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It would have been risky to do that"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It is her that told me it"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It doesn't matter how old you get, you can learn"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그것",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It seems Mom is doing the dishes"
     ]
   ]
 }

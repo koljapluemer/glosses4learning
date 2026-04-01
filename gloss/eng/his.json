@@ -2,9 +2,12 @@
   "content": "his",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:15.639174Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -166,6 +169,59 @@
     [
       "TRANSLATION",
       "lat:suum"
+    ],
+    [
+      "TRANSLATION",
+      "ell:αυτού"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He placed his hand on my shoulder"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that his father worked in Boston"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He is in his pyjamas"
+    ],
+    [
+      "TRANSLATION",
+      "dan:sin"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:An expression of gratitude can be clearly seen on his face"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그의",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:All of his family members are tall"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I couldn't sleep because of his snoring"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I think it is his intention"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He put his head on the pillow"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She locked herself in his room"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:He got 14 stitches on his forehead"
     ]
   ]
 }

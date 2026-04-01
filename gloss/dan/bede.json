@@ -1,0 +1,35 @@
+{
+  "content": "bede",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Lad os bare bede til at det aldrig sker igen"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bitte",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De tog hen til moskeen for at bede"
+    ],
+    [
+      "TRANSLATION",
+      "eng:request",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom var ikke bange for at bede om hjælp"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:32.495376Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:14.799939Z": "TRANSLATION_DONE:eng"
+  }
+}

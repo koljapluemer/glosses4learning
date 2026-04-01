@@ -1,0 +1,47 @@
+{
+  "content": "Tom is weg zonder mij het te zeggen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by OpenSystemenHOGent (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:weg"
+    ],
+    [
+      "PART",
+      "nld:zonder"
+    ],
+    [
+      "PART",
+      "nld:mij"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:te"
+    ],
+    [
+      "PART",
+      "nld:zeggen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.965246Z": "SPLIT_DONE"
+  }
+}

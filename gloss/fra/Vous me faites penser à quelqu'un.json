@@ -1,0 +1,39 @@
+{
+  "content": "Vous me faites penser à quelqu'un.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Vous"
+    ],
+    [
+      "PART",
+      "fra:me"
+    ],
+    [
+      "PART",
+      "fra:faites"
+    ],
+    [
+      "PART",
+      "fra:penser"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.902277Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Ich hoffe, dass keiner mich gesehen hat.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by TheNightAvl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:hoffe"
+    ],
+    [
+      "PART",
+      "deu:dass"
+    ],
+    [
+      "PART",
+      "deu:keiner"
+    ],
+    [
+      "PART",
+      "deu:mich"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ],
+    [
+      "PART",
+      "deu:hat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.789073Z": "SPLIT_DONE"
+  }
+}

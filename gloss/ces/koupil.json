@@ -1,0 +1,37 @@
+{
+  "content": "koupil",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom mi koupil, co jsem potřeboval"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Podívejte se, co mi Tom koupil"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Toto jsem koupil pro svou přítelkyni"
+    ],
+    [
+      "TRANSLATION",
+      "eng:he bought",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Kde Tom koupil tuhle knihu﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Dnes ráno jsem si koupil svetr"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:54.831298Z": "TRANSLATION_DONE:eng"
+  }
+}

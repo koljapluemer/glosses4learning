@@ -1,0 +1,35 @@
+{
+  "content": "Ingen människa har besökt Merkurius.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Ingen"
+    ],
+    [
+      "PART",
+      "swe:människa"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:besökt"
+    ],
+    [
+      "PART",
+      "swe:Merkurius"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.147988Z": "SPLIT_DONE"
+  }
+}

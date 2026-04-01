@@ -2,9 +2,12 @@
   "content": "things",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:44.127809Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -74,6 +77,19 @@
     [
       "TRANSLATION",
       "swe:ting"
+    ],
+    [
+      "TRANSLATION",
+      "hun:dolgokat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:That isn't how things are done here"
+    ],
+    [
+      "TRANSLATION",
+      "kor:것들",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

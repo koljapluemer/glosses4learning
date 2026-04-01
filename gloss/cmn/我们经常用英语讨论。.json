@@ -1,0 +1,39 @@
+{
+  "content": "我们经常用英语讨论。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by iiujik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:We usually talked in English"
+    ],
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:经常"
+    ],
+    [
+      "PART",
+      "cmn:用"
+    ],
+    [
+      "PART",
+      "cmn:英语"
+    ],
+    [
+      "PART",
+      "cmn:讨论"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:53.868571Z": "SPLIT_DONE"
+  }
+}

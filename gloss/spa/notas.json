@@ -3,7 +3,9 @@
   "language": "spa",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -12,6 +14,10 @@
     [
       "TRANSLATION",
       "eng:we're"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Para tener buenas notas hay que estudiar mucho"
     ]
   ]
 }

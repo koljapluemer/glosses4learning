@@ -1,0 +1,21 @@
+{
+  "content": "Nuestro",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nuestro profesor dice que todo el mundo necesita Física"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Unsere",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:19.621485Z": "TRANSLATION_DONE:deu"
+  }
+}

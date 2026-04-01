@@ -1,0 +1,39 @@
+{
+  "content": "Я собирался ему сегодня позвонить.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I was going to call him today"
+    ],
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:собирался"
+    ],
+    [
+      "PART",
+      "rus:ему"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:19.529115Z": "SPLIT_DONE"
+  }
+}

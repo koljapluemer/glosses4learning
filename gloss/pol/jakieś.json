@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:19:02.355Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -23,6 +25,10 @@
     [
       "TRANSLATION",
       "eng:a few"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czy ma pan jakieś informacje na ten temat﹖"
     ]
   ]
 }

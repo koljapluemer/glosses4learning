@@ -1,0 +1,29 @@
+{
+  "content": "største",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Genève er den nest største byen i Sveits"
+    ],
+    [
+      "TRANSLATION",
+      "eng:largest",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Basel er den tredje største byen i Sveits"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Ahmadabad er den største byen i Gujarat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:47.713671Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "La mitad de los estudiantes estaban ausentes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:La"
+    ],
+    [
+      "PART",
+      "spa:mitad"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:estaban"
+    ],
+    [
+      "PART",
+      "spa:ausentes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.129831Z": "SPLIT_DONE"
+  }
+}

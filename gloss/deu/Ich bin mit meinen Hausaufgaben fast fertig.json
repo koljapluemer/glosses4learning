@@ -1,0 +1,43 @@
+{
+  "content": "Ich bin mit meinen Hausaufgaben fast fertig.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:bin"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Hausaufgaben"
+    ],
+    [
+      "PART",
+      "deu:fast"
+    ],
+    [
+      "PART",
+      "deu:fertig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.936182Z": "SPLIT_DONE"
+  }
+}

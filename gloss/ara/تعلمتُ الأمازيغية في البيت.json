@@ -1,0 +1,31 @@
+{
+  "content": "تعلمتُ الأمازيغية في البيت.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MisterBrown (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:تعلمت"
+    ],
+    [
+      "PART",
+      "ara:الأمازيغية"
+    ],
+    [
+      "PART",
+      "ara:في"
+    ],
+    [
+      "PART",
+      "ara:البيت"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.525807Z": "SPLIT_DONE"
+  }
+}

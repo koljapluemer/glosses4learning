@@ -1,0 +1,31 @@
+{
+  "content": "Denkst dast winnen zelst?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Denkst"
+    ],
+    [
+      "PART",
+      "gos:dast"
+    ],
+    [
+      "PART",
+      "gos:winnen"
+    ],
+    [
+      "PART",
+      "gos:zelst"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.312542Z": "SPLIT_DONE"
+  }
+}

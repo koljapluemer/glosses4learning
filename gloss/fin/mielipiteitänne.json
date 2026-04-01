@@ -3,7 +3,9 @@
   "language": "fin",
   "transcriptions": {},
   "logs": {},
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -25,6 +27,14 @@
     [
       "TRANSLATION",
       "eng:views"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Minä tarvitsen mielipiteitänne"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Minä tarvitsen teidän mielipiteitänne"
     ]
   ]
 }

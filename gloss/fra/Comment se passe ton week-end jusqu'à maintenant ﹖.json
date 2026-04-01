@@ -1,0 +1,43 @@
+{
+  "content": "Comment se passe ton week-end jusqu'à maintenant ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Comment"
+    ],
+    [
+      "PART",
+      "fra:se"
+    ],
+    [
+      "PART",
+      "fra:passe"
+    ],
+    [
+      "PART",
+      "fra:ton"
+    ],
+    [
+      "PART",
+      "fra:week-end"
+    ],
+    [
+      "PART",
+      "fra:jusqu'à"
+    ],
+    [
+      "PART",
+      "fra:maintenant"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.664268Z": "SPLIT_DONE"
+  }
+}

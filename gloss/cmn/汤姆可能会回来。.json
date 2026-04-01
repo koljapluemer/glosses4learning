@@ -1,0 +1,35 @@
+{
+  "content": "汤姆可能会回来。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GlossaMatik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom may come back"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:可能"
+    ],
+    [
+      "PART",
+      "cmn:会"
+    ],
+    [
+      "PART",
+      "cmn:回来"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:23.353377Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "writers",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:The writers are in that house"
+    ],
+    [
+      "TRANSLATION",
+      "kor:작가",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:47.858563Z": "TRANSLATION_DONE:kor"
+  }
+}

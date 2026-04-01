@@ -1,0 +1,35 @@
+{
+  "content": "Sine aqua, non potes vivere.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Sine"
+    ],
+    [
+      "PART",
+      "lat:aqua"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potes"
+    ],
+    [
+      "PART",
+      "lat:vivere"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.702330Z": "SPLIT_DONE"
+  }
+}

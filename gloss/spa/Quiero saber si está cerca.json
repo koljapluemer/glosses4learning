@@ -1,0 +1,39 @@
+{
+  "content": "Quiero saber si está cerca.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Мені цікаво, чи близько це"
+    ],
+    [
+      "PART",
+      "spa:Quiero"
+    ],
+    [
+      "PART",
+      "spa:saber"
+    ],
+    [
+      "PART",
+      "spa:si"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:cerca"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:19.089776Z": "SPLIT_DONE"
+  }
+}

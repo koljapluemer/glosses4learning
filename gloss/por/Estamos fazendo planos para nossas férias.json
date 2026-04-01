@@ -1,0 +1,39 @@
+{
+  "content": "Estamos fazendo planos para nossas férias.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Estamos"
+    ],
+    [
+      "PART",
+      "por:fazendo"
+    ],
+    [
+      "PART",
+      "por:planos"
+    ],
+    [
+      "PART",
+      "por:para"
+    ],
+    [
+      "PART",
+      "por:nossas"
+    ],
+    [
+      "PART",
+      "por:férias"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.877487Z": "SPLIT_DONE"
+  }
+}

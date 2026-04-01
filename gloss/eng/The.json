@@ -3,9 +3,13 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-12T13:52:07.930687Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T13:52:07.930687Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:35:33.482128Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:16.133960Z": "TRANSLATION_DONE:kor"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -239,6 +243,36 @@
     [
       "TRANSLATION",
       "gos:De"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The children are not at school today"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "vie:Sự"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The three of us are on one team"
+    ],
+    [
+      "TRANSLATION",
+      "kor:그",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The paradise was in my heart"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The writers are in that house"
     ]
   ]
 }

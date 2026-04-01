@@ -1,0 +1,39 @@
+{
+  "content": "Du bist trotz meines Verbots hinausgegangen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:bist"
+    ],
+    [
+      "PART",
+      "deu:trotz"
+    ],
+    [
+      "PART",
+      "deu:meines"
+    ],
+    [
+      "PART",
+      "deu:Verbots"
+    ],
+    [
+      "PART",
+      "deu:hinausgegangen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.883322Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Halt",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Da ist jemand auf der Straße. Halt den Wagen an!"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Halt dich von meiner Freundin fern"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Залишити",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:36.261325Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:39.234157Z": "TRANSLATION_DONE:ukr"
+  }
+}

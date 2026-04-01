@@ -1,0 +1,39 @@
+{
+  "content": "Я можу відповісти на його запитання.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ascolto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:можу"
+    ],
+    [
+      "PART",
+      "ukr:відповісти"
+    ],
+    [
+      "PART",
+      "ukr:на"
+    ],
+    [
+      "PART",
+      "ukr:його"
+    ],
+    [
+      "PART",
+      "ukr:запитання"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.129478Z": "SPLIT_DONE"
+  }
+}

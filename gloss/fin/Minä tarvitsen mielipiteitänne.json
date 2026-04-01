@@ -1,0 +1,27 @@
+{
+  "content": "Minä tarvitsen mielipiteitänne.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Minä"
+    ],
+    [
+      "PART",
+      "fin:tarvitsen"
+    ],
+    [
+      "PART",
+      "fin:mielipiteitänne"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.848590Z": "SPLIT_DONE"
+  }
+}

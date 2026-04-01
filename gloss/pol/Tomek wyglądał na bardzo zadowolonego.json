@@ -1,0 +1,35 @@
+{
+  "content": "Tomek wyglądał na bardzo zadowolonego.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tomek"
+    ],
+    [
+      "PART",
+      "pol:wyglądał"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:bardzo"
+    ],
+    [
+      "PART",
+      "pol:zadowolonego"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.785749Z": "SPLIT_DONE"
+  }
+}

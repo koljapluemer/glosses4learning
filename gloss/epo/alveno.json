@@ -1,0 +1,25 @@
+{
+  "content": "alveno",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Post ŝia alveno ni povos starti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:arrival",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ŝi mortis du tagojn post lia alveno"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:16.553183Z": "TRANSLATION_DONE:eng"
+  }
+}

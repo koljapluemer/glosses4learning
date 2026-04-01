@@ -1,0 +1,31 @@
+{
+  "content": "N'avez-vous pas rencontré quelqu'un ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:N'avez-vous"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:rencontré"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.553252Z": "SPLIT_DONE"
+  }
+}

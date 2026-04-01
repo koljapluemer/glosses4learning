@@ -1,0 +1,51 @@
+{
+  "content": "Tom said that he would do it again.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що зробить це знову"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:would"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ],
+    [
+      "PART",
+      "eng:it"
+    ],
+    [
+      "PART",
+      "eng:again"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:26.569258Z": "SPLIT_DONE"
+  }
+}

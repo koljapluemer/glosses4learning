@@ -1,0 +1,39 @@
+{
+  "content": "Mary powiedziała, że ​​czuje się zmieszana.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by arie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:powiedziała"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:czuje"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:zmieszana"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.701282Z": "SPLIT_DONE"
+  }
+}

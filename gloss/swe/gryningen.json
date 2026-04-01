@@ -1,0 +1,25 @@
+{
+  "content": "gryningen",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom har varit uppe sedan gryningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom stiger upp före gryningen på de flesta morgnar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the dawn",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:20.907891Z": "TRANSLATION_DONE:eng"
+  }
+}

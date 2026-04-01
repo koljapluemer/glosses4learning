@@ -1,0 +1,35 @@
+{
+  "content": "repente",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella de repente se sintió pequeña, despreciable y miserable"
+    ],
+    [
+      "TRANSLATION",
+      "eng:suddenly",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:De repente pensé en mi madre fallecida"
+    ],
+    [
+      "TRANSLATION",
+      "deu:plötzlich",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:De repente pensé en mi madre difunta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:04.185754Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:33.546803Z": "TRANSLATION_DONE:deu"
+  }
+}

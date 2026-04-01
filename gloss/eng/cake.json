@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.845218Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.698811Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.041966Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.510348Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.510348Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T09:04:44.845427Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -64,6 +66,23 @@
     [
       "TRANSLATION",
       "jbo:torta"
+    ],
+    [
+      "TRANSLATION",
+      "fin:kakkua"
+    ],
+    [
+      "TRANSLATION",
+      "nob:kake"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were two pieces of cake"
+    ],
+    [
+      "TRANSLATION",
+      "kor:케이크",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "content": "phẩm",
+  "language": "vie",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "vie:Cuốn sách này là một trong những sách hay nhất trong toàn bộ tác phẩm của ông"
+    ],
+    [
+      "TRANSLATION",
+      "eng:item",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "vie:Cha tôi làm việc trong ngành kinh doanh thực phẩm"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:58:05.772802Z": "TRANSLATION_DONE:eng"
+  }
+}

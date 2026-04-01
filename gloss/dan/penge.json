@@ -1,0 +1,51 @@
+{
+  "content": "penge",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Man kan ikke overleve uden penge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Uden penge kan man ikke overleve"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun har kun brug for dine penge"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Geld",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der er for mange penge på disse konti"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom sagde at han havde brug for flere penge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du har brugt dine penge på den her gamle spand﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg har brug for mange flere penge"
+    ],
+    [
+      "TRANSLATION",
+      "eng:money",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:27.442729Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:32.880494Z": "TRANSLATION_DONE:eng"
+  }
+}

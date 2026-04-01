@@ -1,0 +1,41 @@
+{
+  "content": "aliquid",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc veni ut aliquid tibi darem"
+    ],
+    [
+      "TRANSLATION",
+      "eng:something",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc veni ut aliquid tibi dicerem"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc venio ut aliquid tibi dicam"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Huc venio ut aliquid tibi dem"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Bene nos aliquid facere illi decet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Manus mihi dolet, cum aliquid teneo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:05.309718Z": "TRANSLATION_DONE:eng"
+  }
+}

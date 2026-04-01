@@ -1,0 +1,39 @@
+{
+  "content": "Tom trval na tom, abychom odjeli.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:trval"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:tom"
+    ],
+    [
+      "PART",
+      "ces:abychom"
+    ],
+    [
+      "PART",
+      "ces:odjeli"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.173111Z": "SPLIT_DONE"
+  }
+}

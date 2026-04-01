@@ -1,0 +1,35 @@
+{
+  "content": "helbred",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:At sidde ned hele dagen er ikke godt for ens helbred"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gesundheit",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi bliver nødt til at tage hensyn til hendes dårlige helbred"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms helbred er gået meget tilbage i den sidste tid"
+    ],
+    [
+      "TRANSLATION",
+      "eng:health",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:29.132524Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:05.359693Z": "TRANSLATION_DONE:eng"
+  }
+}

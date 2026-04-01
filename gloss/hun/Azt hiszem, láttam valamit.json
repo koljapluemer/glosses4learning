@@ -1,0 +1,31 @@
+{
+  "content": "Azt hiszem, láttam valamit.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Azt"
+    ],
+    [
+      "PART",
+      "hun:hiszem"
+    ],
+    [
+      "PART",
+      "hun:láttam"
+    ],
+    [
+      "PART",
+      "hun:valamit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.489111Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Doe hest dien waark gaauw doan.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Doe"
+    ],
+    [
+      "PART",
+      "gos:hest"
+    ],
+    [
+      "PART",
+      "gos:dien"
+    ],
+    [
+      "PART",
+      "gos:waark"
+    ],
+    [
+      "PART",
+      "gos:gaauw"
+    ],
+    [
+      "PART",
+      "gos:doan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.278844Z": "SPLIT_DONE"
+  }
+}

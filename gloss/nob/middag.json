@@ -1,0 +1,25 @@
+{
+  "content": "middag",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Tom har ikke spist middag ennå"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Folk har middag veldig sent i Spania"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lunch",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:25.676648Z": "TRANSLATION_DONE:eng"
+  }
+}

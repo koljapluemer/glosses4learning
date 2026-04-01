@@ -1,0 +1,39 @@
+{
+  "content": "Ik heb online wat gegevens verzoameld.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ik"
+    ],
+    [
+      "PART",
+      "gos:heb"
+    ],
+    [
+      "PART",
+      "gos:online"
+    ],
+    [
+      "PART",
+      "gos:wat"
+    ],
+    [
+      "PART",
+      "gos:gegevens"
+    ],
+    [
+      "PART",
+      "gos:verzoameld"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.346094Z": "SPLIT_DONE"
+  }
+}

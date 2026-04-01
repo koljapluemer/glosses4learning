@@ -1,0 +1,29 @@
+{
+  "content": "annis",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Pater meus quinque abhinc annis mortuus est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ioannes duobus annis maior natus est, quam ego"
+    ],
+    [
+      "TRANSLATION",
+      "eng:this year",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Is est duobus annis maior natu quam tu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:19.526384Z": "TRANSLATION_DONE:eng"
+  }
+}

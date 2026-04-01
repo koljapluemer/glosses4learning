@@ -1,0 +1,47 @@
+{
+  "content": "Todos los estudiantes vienen de los Estados Unidos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by el_vecino (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:All the students come from the US"
+    ],
+    [
+      "PART",
+      "spa:Todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:vienen"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:Estados"
+    ],
+    [
+      "PART",
+      "spa:Unidos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:13.929910Z": "SPLIT_DONE"
+  }
+}

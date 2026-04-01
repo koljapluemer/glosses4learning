@@ -1,0 +1,33 @@
+{
+  "content": "blev",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Der blev ikke besluttet noget på mødet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvornår blev du færdig med at skrive brevet﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wurde",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg nåede frem til landsbyen før det blev mørkt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvornår blev denne bil vasket﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:28.232528Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "happy",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:32.045977Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -112,6 +115,39 @@
     [
       "TRANSLATION",
       "lat:laetus"
+    ],
+    [
+      "TRANSLATION",
+      "rus:счастливой"
+    ],
+    [
+      "TRANSLATION",
+      "ell:χαρούμενος"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary is very happy"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:щасливий",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nob:lykkelige"
+    ],
+    [
+      "TRANSLATION",
+      "bul:щастлив"
+    ],
+    [
+      "TRANSLATION",
+      "bul:щастливи"
+    ],
+    [
+      "TRANSLATION",
+      "vie:mừng"
     ]
   ]
 }

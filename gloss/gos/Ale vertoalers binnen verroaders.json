@@ -1,0 +1,31 @@
+{
+  "content": "Ale vertoalers binnen verroaders.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ale"
+    ],
+    [
+      "PART",
+      "gos:vertoalers"
+    ],
+    [
+      "PART",
+      "gos:binnen"
+    ],
+    [
+      "PART",
+      "gos:verroaders"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.325297Z": "SPLIT_DONE"
+  }
+}

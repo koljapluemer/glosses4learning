@@ -1,0 +1,39 @@
+{
+  "content": "Møtet varte i to timer.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The meeting lasted two hours"
+    ],
+    [
+      "PART",
+      "nob:Møtet"
+    ],
+    [
+      "PART",
+      "nob:varte"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:to"
+    ],
+    [
+      "PART",
+      "nob:timer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:43.241055Z": "SPLIT_DONE"
+  }
+}

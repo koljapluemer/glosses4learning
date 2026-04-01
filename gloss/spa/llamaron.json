@@ -1,0 +1,25 @@
+{
+  "content": "llamaron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos llamaron pirata al presidente Roosevelt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Justo estaba comiendo cuando ustedes me llamaron"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sie riefen",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:30.467260Z": "TRANSLATION_DONE:deu"
+  }
+}

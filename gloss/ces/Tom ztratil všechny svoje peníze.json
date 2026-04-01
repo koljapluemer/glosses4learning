@@ -1,0 +1,39 @@
+{
+  "content": "Tom ztratil všechny svoje peníze.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom lost all of his money"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:ztratil"
+    ],
+    [
+      "PART",
+      "ces:všechny"
+    ],
+    [
+      "PART",
+      "ces:svoje"
+    ],
+    [
+      "PART",
+      "ces:peníze"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:41.507364Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Ellos son estudiantes promedio.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:promedio"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.288889Z": "SPLIT_DONE"
+  }
+}

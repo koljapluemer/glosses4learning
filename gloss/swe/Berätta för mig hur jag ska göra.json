@@ -1,0 +1,43 @@
+{
+  "content": "Berätta för mig hur jag ska göra.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Berätta"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ],
+    [
+      "PART",
+      "swe:hur"
+    ],
+    [
+      "PART",
+      "swe:jag"
+    ],
+    [
+      "PART",
+      "swe:ska"
+    ],
+    [
+      "PART",
+      "swe:göra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.186200Z": "SPLIT_DONE"
+  }
+}

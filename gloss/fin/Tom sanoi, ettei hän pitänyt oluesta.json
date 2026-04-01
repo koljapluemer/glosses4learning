@@ -1,0 +1,39 @@
+{
+  "content": "Tom sanoi, ettei hän pitänyt oluesta.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:sanoi"
+    ],
+    [
+      "PART",
+      "fin:ettei"
+    ],
+    [
+      "PART",
+      "fin:hän"
+    ],
+    [
+      "PART",
+      "fin:pitänyt"
+    ],
+    [
+      "PART",
+      "fin:oluesta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.856952Z": "SPLIT_DONE"
+  }
+}

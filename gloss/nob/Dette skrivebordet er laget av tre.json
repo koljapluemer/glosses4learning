@@ -1,0 +1,39 @@
+{
+  "content": "Dette skrivebordet er laget av tre.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Combine988 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Dette"
+    ],
+    [
+      "PART",
+      "nob:skrivebordet"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:laget"
+    ],
+    [
+      "PART",
+      "nob:av"
+    ],
+    [
+      "PART",
+      "nob:tre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.705828Z": "SPLIT_DONE"
+  }
+}

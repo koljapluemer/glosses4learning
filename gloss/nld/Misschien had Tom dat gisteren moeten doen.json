@@ -1,0 +1,43 @@
+{
+  "content": "Misschien had Tom dat gisteren moeten doen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by doemaar14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Misschien"
+    ],
+    [
+      "PART",
+      "nld:had"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:moeten"
+    ],
+    [
+      "PART",
+      "nld:doen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.008676Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "novum",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ecce autocinetum meum novum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Magistro nostro placet eius novum autocinetum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Soror mihi novum horologium monstravit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:new",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Heri novum computatorium emerunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:41.355750Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Desafortunadamente, la sopa sólo está tibia.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Desafortunadamente"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:sopa"
+    ],
+    [
+      "PART",
+      "spa:sólo"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:tibia"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.191594Z": "SPLIT_DONE"
+  }
+}

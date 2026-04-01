@@ -1,0 +1,39 @@
+{
+  "content": "Ik werd zonder voorafgaande kennisgeving ontslagen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:werd"
+    ],
+    [
+      "PART",
+      "nld:zonder"
+    ],
+    [
+      "PART",
+      "nld:voorafgaande"
+    ],
+    [
+      "PART",
+      "nld:kennisgeving"
+    ],
+    [
+      "PART",
+      "nld:ontslagen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.953564Z": "SPLIT_DONE"
+  }
+}

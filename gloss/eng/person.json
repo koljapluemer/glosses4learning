@@ -2,12 +2,16 @@
   "content": "person",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:31.382449Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:22.940821Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -116,6 +120,44 @@
     [
       "TRANSLATION",
       "kab:medden"
+    ],
+    [
+      "TRANSLATION",
+      "tok:Man"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary is a nice person"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:людина",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nld:persoon"
+    ],
+    [
+      "TRANSLATION",
+      "vie:nhân"
+    ],
+    [
+      "TRANSLATION",
+      "tur:kişi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your bedroom doesn't have even a single person in it"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사람",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:A person named West called while you were out"
     ]
   ]
 }

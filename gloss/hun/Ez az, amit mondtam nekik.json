@@ -1,0 +1,35 @@
+{
+  "content": "Ez az, amit mondtam nekik.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Muelisto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Ez"
+    ],
+    [
+      "PART",
+      "hun:az"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:mondtam"
+    ],
+    [
+      "PART",
+      "hun:nekik"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.537684Z": "SPLIT_DONE"
+  }
+}

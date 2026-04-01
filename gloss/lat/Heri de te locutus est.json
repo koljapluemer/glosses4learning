@@ -1,0 +1,39 @@
+{
+  "content": "Heri de te locutus est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:He spoke about you yesterday"
+    ],
+    [
+      "PART",
+      "lat:Heri"
+    ],
+    [
+      "PART",
+      "lat:de"
+    ],
+    [
+      "PART",
+      "lat:te"
+    ],
+    [
+      "PART",
+      "lat:locutus"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:40.507142Z": "SPLIT_DONE"
+  }
+}

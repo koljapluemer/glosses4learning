@@ -1,0 +1,29 @@
+{
+  "content": "andre",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Man skal ikke være bange for at hjælpe andre"
+    ],
+    [
+      "TRANSLATION",
+      "eng:others",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du skal ikke være bange for at hjælpe andre"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi bør ikke se ned på andre mennesker"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:57.740578Z": "TRANSLATION_DONE:eng"
+  }
+}

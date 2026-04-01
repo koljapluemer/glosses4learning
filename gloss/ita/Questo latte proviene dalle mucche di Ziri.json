@@ -1,0 +1,43 @@
+{
+  "content": "Questo latte proviene dalle mucche di Ziri.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Questo"
+    ],
+    [
+      "PART",
+      "ita:latte"
+    ],
+    [
+      "PART",
+      "ita:proviene"
+    ],
+    [
+      "PART",
+      "ita:dalle"
+    ],
+    [
+      "PART",
+      "ita:mucche"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:Ziri"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.890489Z": "SPLIT_DONE"
+  }
+}

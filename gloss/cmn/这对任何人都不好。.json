@@ -1,0 +1,39 @@
+{
+  "content": "这对任何人都不好。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by verdastelo9604 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It's not good for anybody"
+    ],
+    [
+      "PART",
+      "cmn:这"
+    ],
+    [
+      "PART",
+      "cmn:对"
+    ],
+    [
+      "PART",
+      "cmn:任何人"
+    ],
+    [
+      "PART",
+      "cmn:都"
+    ],
+    [
+      "PART",
+      "cmn:不好"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:38.798492Z": "SPLIT_DONE"
+  }
+}

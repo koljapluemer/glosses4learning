@@ -1,0 +1,33 @@
+{
+  "content": "köpa",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom kan inte bestämma sig för vad han ska köpa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom kan inte bestämma sig för vilken kamera han ska köpa"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to buy",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Borde jag köpa någonting till honom﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag vill inte köpa den här mattan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:54.885434Z": "TRANSLATION_DONE:eng"
+  }
+}

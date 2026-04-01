@@ -1,0 +1,43 @@
+{
+  "content": "Haec aula potest continere quinque milia hominum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:aula"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ],
+    [
+      "PART",
+      "lat:continere"
+    ],
+    [
+      "PART",
+      "lat:quinque"
+    ],
+    [
+      "PART",
+      "lat:milia"
+    ],
+    [
+      "PART",
+      "lat:hominum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.645927Z": "SPLIT_DONE"
+  }
+}

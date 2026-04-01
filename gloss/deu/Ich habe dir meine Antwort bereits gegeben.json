@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe dir meine Antwort bereits gegeben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:dir"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Antwort"
+    ],
+    [
+      "PART",
+      "deu:bereits"
+    ],
+    [
+      "PART",
+      "deu:gegeben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.749779Z": "SPLIT_DONE"
+  }
+}

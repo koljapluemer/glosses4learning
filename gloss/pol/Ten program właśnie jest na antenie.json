@@ -1,0 +1,43 @@
+{
+  "content": "Ten program właśnie jest na antenie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The program is on the air"
+    ],
+    [
+      "PART",
+      "pol:Ten"
+    ],
+    [
+      "PART",
+      "pol:program"
+    ],
+    [
+      "PART",
+      "pol:właśnie"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:antenie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:10.185475Z": "SPLIT_DONE"
+  }
+}

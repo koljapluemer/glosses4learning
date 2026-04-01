@@ -1,0 +1,35 @@
+{
+  "content": "今日はちょっと寒い。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by bunbuku (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It's a little cold today"
+    ],
+    [
+      "PART",
+      "jpn:今日"
+    ],
+    [
+      "PART",
+      "jpn:は"
+    ],
+    [
+      "PART",
+      "jpn:ちょっと"
+    ],
+    [
+      "PART",
+      "jpn:寒い"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:42.477992Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Nemo sententiam tuam rogat.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:No one's asking for your opinion"
+    ],
+    [
+      "PART",
+      "lat:Nemo"
+    ],
+    [
+      "PART",
+      "lat:sententiam"
+    ],
+    [
+      "PART",
+      "lat:tuam"
+    ],
+    [
+      "PART",
+      "lat:rogat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:33.111327Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "problémám",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Nekem még sosem volt ilyen problémám"
+    ],
+    [
+      "TRANSLATION",
+      "eng:My problem",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Sosem volt még olyan problémám"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Sosem volt még olyan problémám vele"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:54.444425Z": "TRANSLATION_DONE:eng"
+  }
+}

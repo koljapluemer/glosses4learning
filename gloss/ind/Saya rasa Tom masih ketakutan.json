@@ -1,0 +1,35 @@
+{
+  "content": "Saya rasa Tom masih ketakutan.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lewis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Saya"
+    ],
+    [
+      "PART",
+      "ind:rasa"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:masih"
+    ],
+    [
+      "PART",
+      "ind:ketakutan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.434214Z": "SPLIT_DONE"
+  }
+}

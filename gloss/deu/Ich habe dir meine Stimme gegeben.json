@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe dir meine Stimme gegeben.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Я голосував за тебе"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:dir"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Stimme"
+    ],
+    [
+      "PART",
+      "deu:gegeben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:35.110422Z": "SPLIT_DONE"
+  }
+}

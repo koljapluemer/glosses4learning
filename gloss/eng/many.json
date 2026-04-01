@@ -2,9 +2,12 @@
   "content": "many",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:11.531789Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -182,6 +185,47 @@
     [
       "TRANSLATION",
       "tok:mute"
+    ],
+    [
+      "TRANSLATION",
+      "gos:meerdere"
+    ],
+    [
+      "TRANSLATION",
+      "fin:monta"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:so'i"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:tolci'o"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:so'e"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are many children in the room"
+    ],
+    [
+      "TRANSLATION",
+      "kor:많은",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How many eggs are there in the refrigerator﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are too many ads on YouTube"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How many eggs are in the refrigerator﹖"
     ]
   ]
 }

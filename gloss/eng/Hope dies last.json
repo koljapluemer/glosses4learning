@@ -5,12 +5,17 @@
     "eng:tatoeba-sentence"
   ],
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by \\N (CC-BY 2.0 FR)"
   ],
   "relationships": [
     [
       "TRANSLATION",
       "ita:La speranza è l'ultima a morire"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:lo nu pacna cu romoi lo co'u zasti"
     ]
   ]
 }

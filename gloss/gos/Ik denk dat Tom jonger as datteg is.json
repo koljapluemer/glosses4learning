@@ -1,0 +1,51 @@
+{
+  "content": "Ik denk dat Tom jonger as datteg is.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I think Tom is younger than thirty"
+    ],
+    [
+      "PART",
+      "gos:Ik"
+    ],
+    [
+      "PART",
+      "gos:denk"
+    ],
+    [
+      "PART",
+      "gos:dat"
+    ],
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:jonger"
+    ],
+    [
+      "PART",
+      "gos:as"
+    ],
+    [
+      "PART",
+      "gos:datteg"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:14:13.542926Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "How much is the shirt?",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eeyinn (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:이 셔츠 얼마에요﹖"
+    ],
+    [
+      "PART",
+      "eng:How"
+    ],
+    [
+      "PART",
+      "eng:much"
+    ],
+    [
+      "PART",
+      "eng:is"
+    ],
+    [
+      "PART",
+      "eng:the"
+    ],
+    [
+      "PART",
+      "eng:shirt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:52.629187Z": "SPLIT_DONE"
+  }
+}

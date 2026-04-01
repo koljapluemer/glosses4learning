@@ -1,0 +1,43 @@
+{
+  "content": "Tom se rozhodl, že se bude učit francouzštinu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:rozhodl"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:bude"
+    ],
+    [
+      "PART",
+      "ces:učit"
+    ],
+    [
+      "PART",
+      "ces:francouzštinu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.144467Z": "SPLIT_DONE"
+  }
+}

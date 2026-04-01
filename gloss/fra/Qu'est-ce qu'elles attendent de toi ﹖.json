@@ -1,0 +1,35 @@
+{
+  "content": "Qu'est-ce qu'elles attendent de toi ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LdjuherTaqvaylit (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'elles"
+    ],
+    [
+      "PART",
+      "fra:attendent"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:toi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.845377Z": "SPLIT_DONE"
+  }
+}

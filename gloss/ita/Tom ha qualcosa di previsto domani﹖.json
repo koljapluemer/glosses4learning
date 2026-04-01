@@ -1,0 +1,39 @@
+{
+  "content": "Tom ha qualcosa di previsto domani?",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Tom"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:qualcosa"
+    ],
+    [
+      "PART",
+      "ita:di"
+    ],
+    [
+      "PART",
+      "ita:previsto"
+    ],
+    [
+      "PART",
+      "ita:domani"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.927157Z": "SPLIT_DONE"
+  }
+}

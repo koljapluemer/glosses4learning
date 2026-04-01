@@ -1,0 +1,29 @@
+{
+  "content": "ongelma",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Mä toivon, et se on vaan väliaikanen ongelma"
+    ],
+    [
+      "TRANSLATION",
+      "eng:problem",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Soita minulle, jos sinulle tulee joku ongelma"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Kuinka kauan sinulla on ollut tämä ongelma﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:11.393634Z": "TRANSLATION_DONE:eng"
+  }
+}

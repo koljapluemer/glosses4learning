@@ -1,0 +1,35 @@
+{
+  "content": "我來這裡幫你。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by verdastelo9604 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I'm here to help you"
+    ],
+    [
+      "PART",
+      "cmn:我來"
+    ],
+    [
+      "PART",
+      "cmn:這裡"
+    ],
+    [
+      "PART",
+      "cmn:幫"
+    ],
+    [
+      "PART",
+      "cmn:你"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:30.936771Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "面白かっ",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:昨日見た映画は面白かった？"
+    ],
+    [
+      "TRANSLATION",
+      "eng:That was really interesting",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:13.513451Z": "TRANSLATION_DONE:eng"
+  }
+}

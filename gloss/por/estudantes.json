@@ -1,0 +1,29 @@
+{
+  "content": "estudantes",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "por:Nem todos os estudantes estavam presentes"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Esta regra não se aplica aos estudantes de primeiro ano"
+    ],
+    [
+      "TRANSLATION",
+      "eng:students",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Esta frase não é útil para estudantes de idiomas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:47.368567Z": "TRANSLATION_DONE:eng"
+  }
+}

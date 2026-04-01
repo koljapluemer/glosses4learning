@@ -1,0 +1,39 @@
+{
+  "content": "Toto město nepostavili za den.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This city wasn't built in a day"
+    ],
+    [
+      "PART",
+      "ces:Toto"
+    ],
+    [
+      "PART",
+      "ces:město"
+    ],
+    [
+      "PART",
+      "ces:nepostavili"
+    ],
+    [
+      "PART",
+      "ces:za"
+    ],
+    [
+      "PART",
+      "ces:den"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:26.790370Z": "SPLIT_DONE"
+  }
+}

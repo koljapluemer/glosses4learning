@@ -1,0 +1,25 @@
+{
+  "content": "iść",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Może już pan iść, proszę pana"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to go",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mam zamiar iść z nim na ryby"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:25.391516Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "すぐ",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:タクシーがもうすぐ来るよ。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Immediately",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:今すぐ始めなければなりません。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:今すぐ行かなきゃ駄目なの？"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:47.361320Z": "TRANSLATION_DONE:eng"
+  }
+}

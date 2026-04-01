@@ -1,0 +1,33 @@
+{
+  "content": "trabalho",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "por:Ela já está há dois anos sem trabalho"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Agora o trabalho dela estava de fato quase concluído"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Quase nunca vou para o trabalho de carro"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "por:Agora o trabalho dela estava mesmo praticamente terminado"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:28.938502Z": "TRANSLATION_DONE:eng"
+  }
+}

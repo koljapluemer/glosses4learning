@@ -1,0 +1,21 @@
+{
+  "content": "zelf",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Tom kan deze brief niet zelf hebben geschreven"
+    ],
+    [
+      "TRANSLATION",
+      "eng:myself",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:33.075711Z": "TRANSLATION_DONE:eng"
+  }
+}

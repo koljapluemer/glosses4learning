@@ -1,0 +1,33 @@
+{
+  "content": "iemand",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Als er iemand is die dat in orde kan krijgen, dan is het Tom wel"
+    ],
+    [
+      "TRANSLATION",
+      "eng:someone",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Als er iemand is die het kan doen, dan ben ik het"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Zij is iemand met wie je goed kan praten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Oude mensen hebben iemand nodig met wie ze kunnen praten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:05.846050Z": "TRANSLATION_DONE:eng"
+  }
+}

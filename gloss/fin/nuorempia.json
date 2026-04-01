@@ -1,0 +1,33 @@
+{
+  "content": "nuorempia",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Me olemme kolme vuotta Maria nuorempia"
+    ],
+    [
+      "TRANSLATION",
+      "eng:younger",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Olemme kolme vuotta Maria nuorempia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Me olemme kolme vuotta nuorempia kuin Mari"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Olemme kolme vuotta nuorempia kuin Mari"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:08.666149Z": "TRANSLATION_DONE:eng"
+  }
+}

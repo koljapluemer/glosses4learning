@@ -1,0 +1,21 @@
+{
+  "content": "liten",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Han är visserligen liten men väldigt stark"
+    ],
+    [
+      "TRANSLATION",
+      "eng:small",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:19.587821Z": "TRANSLATION_DONE:eng"
+  }
+}

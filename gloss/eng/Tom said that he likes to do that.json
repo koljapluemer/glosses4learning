@@ -1,0 +1,47 @@
+{
+  "content": "Tom said that he likes to do that.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що йому подобається це робити"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:likes"
+    ],
+    [
+      "PART",
+      "eng:to"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:27.316000Z": "SPLIT_DONE"
+  }
+}

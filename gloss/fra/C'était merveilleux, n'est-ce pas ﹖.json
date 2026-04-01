@@ -1,0 +1,31 @@
+{
+  "content": "C'était merveilleux, n'est-ce pas ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'était"
+    ],
+    [
+      "PART",
+      "fra:merveilleux"
+    ],
+    [
+      "PART",
+      "fra:n'est-ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.602450Z": "SPLIT_DONE"
+  }
+}

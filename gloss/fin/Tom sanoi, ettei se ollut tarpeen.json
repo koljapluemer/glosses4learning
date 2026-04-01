@@ -1,0 +1,39 @@
+{
+  "content": "Tom sanoi, ettei se ollut tarpeen.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:sanoi"
+    ],
+    [
+      "PART",
+      "fin:ettei"
+    ],
+    [
+      "PART",
+      "fin:se"
+    ],
+    [
+      "PART",
+      "fin:ollut"
+    ],
+    [
+      "PART",
+      "fin:tarpeen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.875294Z": "SPLIT_DONE"
+  }
+}

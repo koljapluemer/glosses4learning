@@ -1,0 +1,39 @@
+{
+  "content": "我吃了炸薯條。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xjjAstrus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I ate french fries"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:吃"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ],
+    [
+      "PART",
+      "cmn:炸"
+    ],
+    [
+      "PART",
+      "cmn:薯條"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:28.821833Z": "SPLIT_DONE"
+  }
+}

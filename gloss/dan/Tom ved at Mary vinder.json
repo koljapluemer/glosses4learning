@@ -1,0 +1,35 @@
+{
+  "content": "Tom ved at Mary vinder.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:ved"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:vinder"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.308950Z": "SPLIT_DONE"
+  }
+}

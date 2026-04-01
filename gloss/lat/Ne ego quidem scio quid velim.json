@@ -1,0 +1,43 @@
+{
+  "content": "Ne ego quidem scio quid velim.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Not even I know what I want"
+    ],
+    [
+      "PART",
+      "lat:Ne"
+    ],
+    [
+      "PART",
+      "lat:ego"
+    ],
+    [
+      "PART",
+      "lat:quidem"
+    ],
+    [
+      "PART",
+      "lat:scio"
+    ],
+    [
+      "PART",
+      "lat:quid"
+    ],
+    [
+      "PART",
+      "lat:velim"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:07.369190Z": "SPLIT_DONE"
+  }
+}

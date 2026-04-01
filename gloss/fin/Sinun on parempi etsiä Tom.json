@@ -1,0 +1,39 @@
+{
+  "content": "Sinun on parempi etsiä Tom.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:You'd better find Tom"
+    ],
+    [
+      "PART",
+      "fin:Sinun"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:parempi"
+    ],
+    [
+      "PART",
+      "fin:etsiä"
+    ],
+    [
+      "PART",
+      "fin:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:29.198410Z": "SPLIT_DONE"
+  }
+}

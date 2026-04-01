@@ -1,0 +1,35 @@
+{
+  "content": "Jag behöver den där medicinen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:behöver"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:där"
+    ],
+    [
+      "PART",
+      "swe:medicinen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.197419Z": "SPLIT_DONE"
+  }
+}

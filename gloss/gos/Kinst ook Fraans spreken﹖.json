@@ -1,0 +1,31 @@
+{
+  "content": "Kinst ook Fraans spreken?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Kinst"
+    ],
+    [
+      "PART",
+      "gos:ook"
+    ],
+    [
+      "PART",
+      "gos:Fraans"
+    ],
+    [
+      "PART",
+      "gos:spreken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.264074Z": "SPLIT_DONE"
+  }
+}

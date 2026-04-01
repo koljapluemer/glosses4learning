@@ -1,0 +1,47 @@
+{
+  "content": "Förutom franska talar han förstås också engelska.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Besides French, he can obviously speak English"
+    ],
+    [
+      "PART",
+      "swe:Förutom"
+    ],
+    [
+      "PART",
+      "swe:franska"
+    ],
+    [
+      "PART",
+      "swe:talar"
+    ],
+    [
+      "PART",
+      "swe:han"
+    ],
+    [
+      "PART",
+      "swe:förstås"
+    ],
+    [
+      "PART",
+      "swe:också"
+    ],
+    [
+      "PART",
+      "swe:engelska"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:50.961834Z": "SPLIT_DONE"
+  }
+}

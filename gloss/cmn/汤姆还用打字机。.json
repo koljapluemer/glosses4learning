@@ -1,0 +1,35 @@
+{
+  "content": "汤姆还用打字机。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by swolesuki (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom still uses a typewriter"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ],
+    [
+      "PART",
+      "cmn:还"
+    ],
+    [
+      "PART",
+      "cmn:用"
+    ],
+    [
+      "PART",
+      "cmn:打字机"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:25.374936Z": "SPLIT_DONE"
+  }
+}

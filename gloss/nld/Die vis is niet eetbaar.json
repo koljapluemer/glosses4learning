@@ -1,0 +1,39 @@
+{
+  "content": "Die vis is niet eetbaar.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:That fish is not edible"
+    ],
+    [
+      "PART",
+      "nld:Die"
+    ],
+    [
+      "PART",
+      "nld:vis"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:eetbaar"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:41.778627Z": "SPLIT_DONE"
+  }
+}

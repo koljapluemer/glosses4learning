@@ -1,0 +1,51 @@
+{
+  "content": "\"Kies krajonoj estas ĉi tiuj?\" - \"Ili apartenas al Tomo.\"",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Kies"
+    ],
+    [
+      "PART",
+      "epo:krajonoj"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:ĉi"
+    ],
+    [
+      "PART",
+      "epo:tiuj"
+    ],
+    [
+      "PART",
+      "epo:Ili"
+    ],
+    [
+      "PART",
+      "epo:apartenas"
+    ],
+    [
+      "PART",
+      "epo:al"
+    ],
+    [
+      "PART",
+      "epo:Tomo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.353293Z": "SPLIT_DONE"
+  }
+}

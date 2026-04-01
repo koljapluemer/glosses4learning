@@ -1,0 +1,21 @@
+{
+  "content": "costura",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "por:A minha mãe me deu a sua máquina de costura"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sewing",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:46.167960Z": "TRANSLATION_DONE:eng"
+  }
+}

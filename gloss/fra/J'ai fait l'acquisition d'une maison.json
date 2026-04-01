@@ -1,0 +1,35 @@
+{
+  "content": "J'ai fait l'acquisition d'une maison.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:J'ai"
+    ],
+    [
+      "PART",
+      "fra:fait"
+    ],
+    [
+      "PART",
+      "fra:l'acquisition"
+    ],
+    [
+      "PART",
+      "fra:d'une"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.652019Z": "SPLIT_DONE"
+  }
+}

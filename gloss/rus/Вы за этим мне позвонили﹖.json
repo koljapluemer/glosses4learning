@@ -1,0 +1,35 @@
+{
+  "content": "Вы за этим мне позвонили?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Вы"
+    ],
+    [
+      "PART",
+      "rus:за"
+    ],
+    [
+      "PART",
+      "rus:этим"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонили"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.331995Z": "SPLIT_DONE"
+  }
+}

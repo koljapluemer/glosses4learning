@@ -1,0 +1,29 @@
+{
+  "content": "домой",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я не могу позвонить Тому домой"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я хочу, чтобы вы сейчас позвонили домой"
+    ],
+    [
+      "TRANSLATION",
+      "eng:back home",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я хочу, чтобы ты сейчас позвонил домой"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:03.535950Z": "TRANSLATION_DONE:eng"
+  }
+}

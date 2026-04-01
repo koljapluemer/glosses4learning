@@ -1,0 +1,39 @@
+{
+  "content": "clase",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los vagones de primera clase estaban casi vacíos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A todos en su clase les gusta ella"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Qué clase de animales viven por aquí﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:class",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El profesor le hizo quedarse después de clase"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Kurs",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:19.497175Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:59:19.434597Z": "TRANSLATION_DONE:deu"
+  }
+}

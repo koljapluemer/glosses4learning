@@ -1,0 +1,43 @@
+{
+  "content": "gamle",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du har brugt dine penge på den her gamle spand﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:alt",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg ønskede bare at få mit gamle liv tilbage"
+    ],
+    [
+      "TRANSLATION",
+      "eng:old",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem har sat den gamle mand til at lede﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hendes gamle kat er stadig i live"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den gamle bog der er et sandt fund"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:36.980089Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:04.877151Z": "TRANSLATION_DONE:eng"
+  }
+}

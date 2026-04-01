@@ -1,0 +1,43 @@
+{
+  "content": "Tom má každé ráno hodně práce.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom is busy every morning"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:má"
+    ],
+    [
+      "PART",
+      "ces:každé"
+    ],
+    [
+      "PART",
+      "ces:ráno"
+    ],
+    [
+      "PART",
+      "ces:hodně"
+    ],
+    [
+      "PART",
+      "ces:práce"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:03.031563Z": "SPLIT_DONE"
+  }
+}

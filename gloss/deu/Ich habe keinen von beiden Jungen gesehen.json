@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe keinen von beiden Jungen gesehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kriskelvin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:keinen"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:beiden"
+    ],
+    [
+      "PART",
+      "deu:Jungen"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.625132Z": "SPLIT_DONE"
+  }
+}

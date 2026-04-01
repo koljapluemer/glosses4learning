@@ -1,0 +1,39 @@
+{
+  "content": "Kio estas post tiu pordo?",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:What is behind that door﹖"
+    ],
+    [
+      "PART",
+      "epo:Kio"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:post"
+    ],
+    [
+      "PART",
+      "epo:tiu"
+    ],
+    [
+      "PART",
+      "epo:pordo"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:27.547970Z": "SPLIT_DONE"
+  }
+}

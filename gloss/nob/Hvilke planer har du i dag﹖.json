@@ -1,0 +1,39 @@
+{
+  "content": "Hvilke planer har du i dag?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Hvilke"
+    ],
+    [
+      "PART",
+      "nob:planer"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:du"
+    ],
+    [
+      "PART",
+      "nob:i"
+    ],
+    [
+      "PART",
+      "nob:dag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.800194Z": "SPLIT_DONE"
+  }
+}

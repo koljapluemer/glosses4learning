@@ -1,0 +1,25 @@
+{
+  "content": "myśli",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Trudno zrozumieć co on ma na myśli"
+    ],
+    [
+      "TRANSLATION",
+      "eng:thoughts",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Nie jestem pewien, co dokładnie masz na myśli"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:57.116024Z": "TRANSLATION_DONE:eng"
+  }
+}

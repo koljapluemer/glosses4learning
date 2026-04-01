@@ -1,0 +1,35 @@
+{
+  "content": "我明天會問他。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I will ask him about it tomorrow"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:明天"
+    ],
+    [
+      "PART",
+      "cmn:會問"
+    ],
+    [
+      "PART",
+      "cmn:他"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:26.812874Z": "SPLIT_DONE"
+  }
+}

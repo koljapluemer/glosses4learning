@@ -1,0 +1,43 @@
+{
+  "content": "¿Puedo ver televisión hoy en la noche?",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by baudelaire (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Puedo"
+    ],
+    [
+      "PART",
+      "spa:ver"
+    ],
+    [
+      "PART",
+      "spa:televisión"
+    ],
+    [
+      "PART",
+      "spa:hoy"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:noche"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.178233Z": "SPLIT_DONE"
+  }
+}

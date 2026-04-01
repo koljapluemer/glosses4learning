@@ -2,12 +2,15 @@
   "content": "suspect",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:29.706400Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +39,15 @@
     [
       "TRANSLATION",
       "pol:podejrzanego"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I suspect that Tom will never do that"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підозра",
+      "Auto-translated with argostranslate (en→uk)"
     ]
   ]
 }

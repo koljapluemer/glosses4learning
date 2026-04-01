@@ -1,0 +1,25 @@
+{
+  "content": "Versuch",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Tom machte keinen Versuch, Maria aufzuhalten"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Versuch mal, dir nicht so den Kopf darüber zu zerbrechen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Спроба",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:28.821739Z": "TRANSLATION_DONE:ukr"
+  }
+}

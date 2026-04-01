@@ -2,9 +2,12 @@
   "content": "know",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:26.071073Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -218,6 +221,27 @@
     [
       "TRANSLATION",
       "gos:Ken"
+    ],
+    [
+      "TRANSLATION",
+      "fin:tienny"
+    ],
+    [
+      "TRANSLATION",
+      "nld:ken"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are but a few men who don't know that"
+    ],
+    [
+      "TRANSLATION",
+      "kor:알다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are few men but know that"
     ]
   ]
 }

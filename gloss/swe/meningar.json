@@ -1,0 +1,33 @@
+{
+  "content": "meningar",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Marys meningar är lätta att översätta"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Har du förutfattade meningar﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag tycker inte om att översätta långa meningar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:phrases",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Har ni förutfattade meningar﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:59.351181Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Du solltest lieber vorsichtig sein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:solltest"
+    ],
+    [
+      "PART",
+      "deu:lieber"
+    ],
+    [
+      "PART",
+      "deu:vorsichtig"
+    ],
+    [
+      "PART",
+      "deu:sein"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.853903Z": "SPLIT_DONE"
+  }
+}

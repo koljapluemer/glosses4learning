@@ -1,0 +1,35 @@
+{
+  "content": "Jag fick honom ur fattningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:fick"
+    ],
+    [
+      "PART",
+      "swe:honom"
+    ],
+    [
+      "PART",
+      "swe:ur"
+    ],
+    [
+      "PART",
+      "swe:fattningen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.096745Z": "SPLIT_DONE"
+  }
+}

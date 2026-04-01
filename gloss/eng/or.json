@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.836858Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.701735Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.047139Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.505177Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.505177Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T09:04:51.644376Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -189,6 +191,31 @@
     [
       "TRANSLATION",
       "tok:anu"
+    ],
+    [
+      "TRANSLATION",
+      "kab:wala"
+    ],
+    [
+      "TRANSLATION",
+      "ind:atau"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:或者"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:ve"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What now﹖ Are we going or not﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:또는",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

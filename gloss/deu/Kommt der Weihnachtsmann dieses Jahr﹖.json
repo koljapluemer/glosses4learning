@@ -1,0 +1,35 @@
+{
+  "content": "Kommt der Weihnachtsmann dieses Jahr?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Kommt"
+    ],
+    [
+      "PART",
+      "deu:der"
+    ],
+    [
+      "PART",
+      "deu:Weihnachtsmann"
+    ],
+    [
+      "PART",
+      "deu:dieses"
+    ],
+    [
+      "PART",
+      "deu:Jahr"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.934289Z": "SPLIT_DONE"
+  }
+}

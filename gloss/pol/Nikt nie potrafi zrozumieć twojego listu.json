@@ -1,0 +1,39 @@
+{
+  "content": "Nikt nie potrafi zrozumieć twojego listu.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by simaqian (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Nikt"
+    ],
+    [
+      "PART",
+      "pol:nie"
+    ],
+    [
+      "PART",
+      "pol:potrafi"
+    ],
+    [
+      "PART",
+      "pol:zrozumieć"
+    ],
+    [
+      "PART",
+      "pol:twojego"
+    ],
+    [
+      "PART",
+      "pol:listu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.786436Z": "SPLIT_DONE"
+  }
+}

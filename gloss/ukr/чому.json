@@ -1,0 +1,39 @@
+{
+  "content": "чому",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дайте мені щось, на чому можна було би писати"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ніхто не може сказати напевно, чому так трапилось"
+    ],
+    [
+      "TRANSLATION",
+      "eng:why",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Тому було цікаво, чому Джон не подобається Мері"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:В чому різниця між варенням і повидлом﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Warum﹖",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:20.552280Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:03.238484Z": "TRANSLATION_DONE:deu"
+  }
+}

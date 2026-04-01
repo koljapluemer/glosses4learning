@@ -1,0 +1,35 @@
+{
+  "content": "Det nuvarande lösenordet är ”eosdigital”.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HannesP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:nuvarande"
+    ],
+    [
+      "PART",
+      "swe:lösenordet"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:eosdigital"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.089287Z": "SPLIT_DONE"
+  }
+}

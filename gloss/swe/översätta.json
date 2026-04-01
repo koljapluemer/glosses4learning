@@ -1,0 +1,33 @@
+{
+  "content": "översätta",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Marys meningar är lätta att översätta"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Hjälp mig att översätta det här dokumentet, tack"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag tycker inte om att översätta långa meningar"
+    ],
+    [
+      "TRANSLATION",
+      "eng:translate",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Vissa saker är kanske inte värda att översätta"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:58.974907Z": "TRANSLATION_DONE:eng"
+  }
+}

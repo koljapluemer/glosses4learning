@@ -1,0 +1,51 @@
+{
+  "content": "Tom kan inte göra någonting utan Marys hjälp.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by daniel_heurlin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom can't do anything without Mary's help"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:kan"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:göra"
+    ],
+    [
+      "PART",
+      "swe:någonting"
+    ],
+    [
+      "PART",
+      "swe:utan"
+    ],
+    [
+      "PART",
+      "swe:Marys"
+    ],
+    [
+      "PART",
+      "swe:hjälp"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:11.835841Z": "SPLIT_DONE"
+  }
+}

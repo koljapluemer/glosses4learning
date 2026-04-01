@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:50:17.298Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:50:17.298Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:35:30.971615Z": "TRANSLATION_DONE:ukr"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -49,6 +51,27 @@
     [
       "TRANSLATION",
       "gos:zummer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I hope that it will be a warm summer"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Літо",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:夏天"
+    ],
+    [
+      "TRANSLATION",
+      "nob:sommer"
+    ],
+    [
+      "TRANSLATION",
+      "bul:лятото"
     ]
   ]
 }

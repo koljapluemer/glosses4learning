@@ -1,0 +1,39 @@
+{
+  "content": "Og",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Og hvem har sagt at det ville være nemt﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Und",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Og hvem er så kunstneren, om man må spørge﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:And",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Og nu et ord fra vor sponsor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Og hvem er så den her snothvalp!"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:48.225723Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:09.572083Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Kann jemand dieses Wort hier aussprechen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BlundaInte (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Kann"
+    ],
+    [
+      "PART",
+      "deu:jemand"
+    ],
+    [
+      "PART",
+      "deu:dieses"
+    ],
+    [
+      "PART",
+      "deu:Wort"
+    ],
+    [
+      "PART",
+      "deu:hier"
+    ],
+    [
+      "PART",
+      "deu:aussprechen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.808772Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Man darf nicht alles durcheinanderbringen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Man"
+    ],
+    [
+      "PART",
+      "deu:darf"
+    ],
+    [
+      "PART",
+      "deu:nicht"
+    ],
+    [
+      "PART",
+      "deu:alles"
+    ],
+    [
+      "PART",
+      "deu:durcheinanderbringen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.782820Z": "SPLIT_DONE"
+  }
+}

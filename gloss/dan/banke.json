@@ -1,0 +1,31 @@
+{
+  "content": "banke",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Kom ikke ind i mit værelse uden at banke på"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ufer",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom gik ind uden at banke på"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bank",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:39.291496Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:29.715737Z": "TRANSLATION_DONE:eng"
+  }
+}

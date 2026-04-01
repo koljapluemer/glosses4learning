@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-15T19:07:53.491Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-15T19:07:53.491Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:28.159515Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -228,6 +230,51 @@
     [
       "TRANSLATION",
       "kab:ass"
+    ],
+    [
+      "TRANSLATION",
+      "spa:ti"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:час"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What should I do in order to save time﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What time is it in your country﹖"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:时刻"
+    ],
+    [
+      "TRANSLATION",
+      "por:hora"
+    ],
+    [
+      "TRANSLATION",
+      "dan:tid"
+    ],
+    [
+      "TRANSLATION",
+      "epo:tempo"
+    ],
+    [
+      "TRANSLATION",
+      "vie:thời"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What time are you going to work﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:시간",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

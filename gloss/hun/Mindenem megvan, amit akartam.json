@@ -1,0 +1,31 @@
+{
+  "content": "Mindenem megvan, amit akartam.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Cabo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mindenem"
+    ],
+    [
+      "PART",
+      "hun:megvan"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:akartam"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.453303Z": "SPLIT_DONE"
+  }
+}

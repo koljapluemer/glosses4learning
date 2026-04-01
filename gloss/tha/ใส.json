@@ -1,0 +1,31 @@
+{
+  "content": "ใส",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมตะโกนใส่แมรี่"
+    ],
+    [
+      "TRANSLATION",
+      "deu:klar",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอมักจะใส่กางเกงยีนส์"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Clear",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:31.174681Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:43.110824Z": "TRANSLATION_DONE:eng"
+  }
+}

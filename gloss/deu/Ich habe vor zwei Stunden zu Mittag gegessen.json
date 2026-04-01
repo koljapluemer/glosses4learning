@@ -1,0 +1,51 @@
+{
+  "content": "Ich habe vor zwei Stunden zu Mittag gegessen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mayabe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Я пообідав дві години тому"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:vor"
+    ],
+    [
+      "PART",
+      "deu:zwei"
+    ],
+    [
+      "PART",
+      "deu:Stunden"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:Mittag"
+    ],
+    [
+      "PART",
+      "deu:gegessen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:30.867931Z": "SPLIT_DONE"
+  }
+}

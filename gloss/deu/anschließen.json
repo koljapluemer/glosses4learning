@@ -1,0 +1,31 @@
+{
+  "content": "anschließen",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Welcher Gruppe wollt ihr euch anschließen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:연결",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Wollt ihr euch ihnen anschließen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:підключити",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:02.749826Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T09:01:41.684743Z": "TRANSLATION_DONE:ukr"
+  }
+}

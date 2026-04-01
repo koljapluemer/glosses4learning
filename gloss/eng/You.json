@@ -2,9 +2,12 @@
   "content": "You",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:41.806685Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -398,6 +401,47 @@
     [
       "TRANSLATION",
       "lat:Te"
+    ],
+    [
+      "TRANSLATION",
+      "ces:Vy"
+    ],
+    [
+      "TRANSLATION",
+      "ces:Ti"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You have to look high and low to find a phone booth in this area"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You will have to do it anyway"
+    ],
+    [
+      "TRANSLATION",
+      "nld:U"
+    ],
+    [
+      "TRANSLATION",
+      "nld:Jij"
+    ],
+    [
+      "TRANSLATION",
+      "pol:Ciebie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You can only see what you like the most"
+    ],
+    [
+      "TRANSLATION",
+      "kor:당신",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You should go back home fast"
     ]
   ]
 }

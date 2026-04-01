@@ -1,0 +1,47 @@
+{
+  "content": "Hij is weggegaan zonder een woord te zeggen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Hij"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:weggegaan"
+    ],
+    [
+      "PART",
+      "nld:zonder"
+    ],
+    [
+      "PART",
+      "nld:een"
+    ],
+    [
+      "PART",
+      "nld:woord"
+    ],
+    [
+      "PART",
+      "nld:te"
+    ],
+    [
+      "PART",
+      "nld:zeggen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.915058Z": "SPLIT_DONE"
+  }
+}

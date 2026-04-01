@@ -1,0 +1,35 @@
+{
+  "content": "Vitam meam in discrimen offero.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Vitam"
+    ],
+    [
+      "PART",
+      "lat:meam"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:discrimen"
+    ],
+    [
+      "PART",
+      "lat:offero"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.685733Z": "SPLIT_DONE"
+  }
+}

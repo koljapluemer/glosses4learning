@@ -1,0 +1,39 @@
+{
+  "content": "Jeg liker hardkokte egg veldig godt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:hardkokte"
+    ],
+    [
+      "PART",
+      "nob:egg"
+    ],
+    [
+      "PART",
+      "nob:veldig"
+    ],
+    [
+      "PART",
+      "nob:godt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.789663Z": "SPLIT_DONE"
+  }
+}

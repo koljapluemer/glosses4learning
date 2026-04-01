@@ -1,0 +1,35 @@
+{
+  "content": "Det här behöver jag verkligen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:behöver"
+    ],
+    [
+      "PART",
+      "swe:jag"
+    ],
+    [
+      "PART",
+      "swe:verkligen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.141282Z": "SPLIT_DONE"
+  }
+}

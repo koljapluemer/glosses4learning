@@ -1,0 +1,31 @@
+{
+  "content": "hospitalet",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom tilbragte tre dage på hospitalet"
+    ],
+    [
+      "TRANSLATION",
+      "deu:das Krankenhaus",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hun kom til sig selv på hospitalet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the hospital",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:47.305453Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:33.974881Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "אני משחק עם הבת שלי.",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by schamsan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I am playing with my daughter"
+    ],
+    [
+      "PART",
+      "heb:אני"
+    ],
+    [
+      "PART",
+      "heb:משחק"
+    ],
+    [
+      "PART",
+      "heb:עם"
+    ],
+    [
+      "PART",
+      "heb:הבת"
+    ],
+    [
+      "PART",
+      "heb:שלי"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:32:32.404042Z": "SPLIT_DONE"
+  }
+}

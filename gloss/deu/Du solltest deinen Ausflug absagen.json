@@ -1,0 +1,35 @@
+{
+  "content": "Du solltest deinen Ausflug absagen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Luiaard (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Du"
+    ],
+    [
+      "PART",
+      "deu:solltest"
+    ],
+    [
+      "PART",
+      "deu:deinen"
+    ],
+    [
+      "PART",
+      "deu:Ausflug"
+    ],
+    [
+      "PART",
+      "deu:absagen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.893389Z": "SPLIT_DONE"
+  }
+}

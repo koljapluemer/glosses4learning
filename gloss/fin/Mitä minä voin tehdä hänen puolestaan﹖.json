@@ -1,0 +1,39 @@
+{
+  "content": "Mitä minä voin tehdä hänen puolestaan?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Mitä"
+    ],
+    [
+      "PART",
+      "fin:minä"
+    ],
+    [
+      "PART",
+      "fin:voin"
+    ],
+    [
+      "PART",
+      "fin:tehdä"
+    ],
+    [
+      "PART",
+      "fin:hänen"
+    ],
+    [
+      "PART",
+      "fin:puolestaan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.795071Z": "SPLIT_DONE"
+  }
+}

@@ -2,9 +2,12 @@
   "content": "hard",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:33.547697Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -62,6 +65,19 @@
     [
       "TRANSLATION",
       "gos:haarde"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:难"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Doing that doesn't look too hard"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어려운",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

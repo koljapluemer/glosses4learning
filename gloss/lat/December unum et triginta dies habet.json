@@ -1,0 +1,39 @@
+{
+  "content": "December unum et triginta dies habet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:December"
+    ],
+    [
+      "PART",
+      "lat:unum"
+    ],
+    [
+      "PART",
+      "lat:et"
+    ],
+    [
+      "PART",
+      "lat:triginta"
+    ],
+    [
+      "PART",
+      "lat:dies"
+    ],
+    [
+      "PART",
+      "lat:habet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.716777Z": "SPLIT_DONE"
+  }
+}

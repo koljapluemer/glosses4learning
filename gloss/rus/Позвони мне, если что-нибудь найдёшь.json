@@ -1,0 +1,35 @@
+{
+  "content": "Позвони мне, если что-нибудь найдёшь.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Позвони"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:если"
+    ],
+    [
+      "PART",
+      "rus:что-нибудь"
+    ],
+    [
+      "PART",
+      "rus:найдёшь"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.329744Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "tilladelse",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg anmoder om tilladelse til at komme ombord"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem gav dig tilladelse til at gøre det﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:permission",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvem har givet dig tilladelse til at gøre det﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:09.393249Z": "TRANSLATION_DONE:eng"
+  }
+}

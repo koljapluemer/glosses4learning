@@ -1,0 +1,21 @@
+{
+  "content": "sted",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Møtet fant sted i går"
+    ],
+    [
+      "TRANSLATION",
+      "eng:location",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:30.265185Z": "TRANSLATION_DONE:eng"
+  }
+}

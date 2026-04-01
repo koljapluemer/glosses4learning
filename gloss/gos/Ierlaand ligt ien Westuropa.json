@@ -1,0 +1,31 @@
+{
+  "content": "Ierlaand ligt ien Westuropa.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ierlaand"
+    ],
+    [
+      "PART",
+      "gos:ligt"
+    ],
+    [
+      "PART",
+      "gos:ien"
+    ],
+    [
+      "PART",
+      "gos:Westuropa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.332613Z": "SPLIT_DONE"
+  }
+}

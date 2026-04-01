@@ -1,0 +1,25 @@
+{
+  "content": "マジ",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:このピザ、マジで超うまいな。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Seriously",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:マジ、ムズイテストだった。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:42.882171Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "omnia",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ad omnia interrogata respondere non possum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Mamma mihi omnia vestimenta lavit"
+    ],
+    [
+      "TRANSLATION",
+      "eng:everything",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thōmās iam omnia intellēxit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Iam omnia ei dixi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:01.576841Z": "TRANSLATION_DONE:eng"
+  }
+}

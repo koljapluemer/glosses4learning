@@ -1,0 +1,47 @@
+{
+  "content": "Mater mea linguam Anglicam bene non loquitur.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My mother doesn't speak English very well"
+    ],
+    [
+      "PART",
+      "lat:Mater"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Anglicam"
+    ],
+    [
+      "PART",
+      "lat:bene"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:loquitur"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:00:17.834200Z": "SPLIT_DONE"
+  }
+}

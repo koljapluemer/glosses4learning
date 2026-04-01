@@ -1,0 +1,31 @@
+{
+  "content": "Tämä on viimeinen mahdollisuutesi.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Kalle63 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tämä"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:viimeinen"
+    ],
+    [
+      "PART",
+      "fin:mahdollisuutesi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.831311Z": "SPLIT_DONE"
+  }
+}

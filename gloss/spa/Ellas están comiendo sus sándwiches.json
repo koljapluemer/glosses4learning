@@ -1,0 +1,35 @@
+{
+  "content": "Ellas están comiendo sus sándwiches.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellas"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:comiendo"
+    ],
+    [
+      "PART",
+      "spa:sus"
+    ],
+    [
+      "PART",
+      "spa:sándwiches"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.256135Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "stykke",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Du bliver nødt til at vente et stykke tid"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Abschnitt",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Solen gik ned for et stykke tid siden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:piece",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg synes at du har gjort et fremragende stykke arbejde"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:41.465667Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:04.220060Z": "TRANSLATION_DONE:eng"
+  }
+}

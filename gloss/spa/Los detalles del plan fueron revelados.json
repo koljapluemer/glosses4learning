@@ -1,0 +1,39 @@
+{
+  "content": "Los detalles del plan fueron revelados.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:detalles"
+    ],
+    [
+      "PART",
+      "spa:del"
+    ],
+    [
+      "PART",
+      "spa:plan"
+    ],
+    [
+      "PART",
+      "spa:fueron"
+    ],
+    [
+      "PART",
+      "spa:revelados"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.231833Z": "SPLIT_DONE"
+  }
+}

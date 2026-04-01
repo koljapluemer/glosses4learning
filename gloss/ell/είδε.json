@@ -1,0 +1,29 @@
+{
+  "content": "είδε",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ο Τομ είδε τη Μαίρη να μιλάει στον Τζον"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ο Θωμάς είδε την Μαρία και τον Ιωάννη"
+    ],
+    [
+      "TRANSLATION",
+      "eng:saw",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Δεν ξέρω τι είδε ο Τομ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:17.111616Z": "TRANSLATION_DONE:eng"
+  }
+}

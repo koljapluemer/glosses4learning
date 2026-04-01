@@ -1,0 +1,39 @@
+{
+  "content": "Tom s vámi nemůže takhle jednat.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:s"
+    ],
+    [
+      "PART",
+      "ces:vámi"
+    ],
+    [
+      "PART",
+      "ces:nemůže"
+    ],
+    [
+      "PART",
+      "ces:takhle"
+    ],
+    [
+      "PART",
+      "ces:jednat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.149289Z": "SPLIT_DONE"
+  }
+}

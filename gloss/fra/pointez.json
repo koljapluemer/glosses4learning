@@ -1,0 +1,25 @@
+{
+  "content": "pointez",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ne pointez pas votre arme en direction de qui que ce soit !"
+    ],
+    [
+      "TRANSLATION",
+      "deu:heben, hervorheben, betonen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Ne pointez pas votre arme en direction de quiconque !"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:28:58.079853Z": "TRANSLATION_DONE:deu"
+  }
+}

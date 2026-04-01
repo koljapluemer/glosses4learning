@@ -1,0 +1,31 @@
+{
+  "content": "Позвоните нам сегодня вечером.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Позвоните"
+    ],
+    [
+      "PART",
+      "rus:нам"
+    ],
+    [
+      "PART",
+      "rus:сегодня"
+    ],
+    [
+      "PART",
+      "rus:вечером"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.273678Z": "SPLIT_DONE"
+  }
+}

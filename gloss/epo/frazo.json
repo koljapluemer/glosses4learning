@@ -1,0 +1,21 @@
+{
+  "content": "frazo",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Bonvolu traduki frazon post frazo en Tatoeba"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sentence",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:02.328529Z": "TRANSLATION_DONE:eng"
+  }
+}

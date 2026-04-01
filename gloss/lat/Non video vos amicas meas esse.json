@@ -1,0 +1,39 @@
+{
+  "content": "Non video vos amicas meas esse.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Non"
+    ],
+    [
+      "PART",
+      "lat:video"
+    ],
+    [
+      "PART",
+      "lat:vos"
+    ],
+    [
+      "PART",
+      "lat:amicas"
+    ],
+    [
+      "PART",
+      "lat:meas"
+    ],
+    [
+      "PART",
+      "lat:esse"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.699670Z": "SPLIT_DONE"
+  }
+}

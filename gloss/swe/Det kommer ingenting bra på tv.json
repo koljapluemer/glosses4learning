@@ -1,0 +1,39 @@
+{
+  "content": "Det kommer ingenting bra på tv.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:kommer"
+    ],
+    [
+      "PART",
+      "swe:ingenting"
+    ],
+    [
+      "PART",
+      "swe:bra"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:tv"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.148726Z": "SPLIT_DONE"
+  }
+}

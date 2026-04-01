@@ -1,0 +1,35 @@
+{
+  "content": "Te megtettél mindent, amit tudtál.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Te"
+    ],
+    [
+      "PART",
+      "hun:megtettél"
+    ],
+    [
+      "PART",
+      "hun:mindent"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:tudtál"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.487666Z": "SPLIT_DONE"
+  }
+}

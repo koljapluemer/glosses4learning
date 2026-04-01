@@ -1,0 +1,39 @@
+{
+  "content": "Thomas venire non potest, quia aegrotat.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:venire"
+    ],
+    [
+      "PART",
+      "lat:non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ],
+    [
+      "PART",
+      "lat:quia"
+    ],
+    [
+      "PART",
+      "lat:aegrotat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.657019Z": "SPLIT_DONE"
+  }
+}

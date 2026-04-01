@@ -1,0 +1,35 @@
+{
+  "content": "หนังสือเล่มนี้น่าสนใจจริงๆ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:หนังสือ"
+    ],
+    [
+      "PART",
+      "tha:เล่ม"
+    ],
+    [
+      "PART",
+      "tha:นี้"
+    ],
+    [
+      "PART",
+      "tha:น่าสนใจ"
+    ],
+    [
+      "PART",
+      "tha:จริงๆ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:43.928979Z": "SPLIT_DONE"
+  }
+}

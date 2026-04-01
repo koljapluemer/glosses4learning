@@ -1,0 +1,29 @@
+{
+  "content": "zitten",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:We zitten nu allemaal in hetzelfde schuitje"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Onze auto is vast blijven zitten in de modder"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sitting",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Gaat u op die stoel zitten, alstublieft"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:26.314433Z": "TRANSLATION_DONE:eng"
+  }
+}

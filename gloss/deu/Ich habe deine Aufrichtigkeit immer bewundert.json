@@ -1,0 +1,39 @@
+{
+  "content": "Ich habe deine Aufrichtigkeit immer bewundert.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:deine"
+    ],
+    [
+      "PART",
+      "deu:Aufrichtigkeit"
+    ],
+    [
+      "PART",
+      "deu:immer"
+    ],
+    [
+      "PART",
+      "deu:bewundert"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.849399Z": "SPLIT_DONE"
+  }
+}

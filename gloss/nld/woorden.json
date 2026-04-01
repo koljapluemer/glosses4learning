@@ -1,0 +1,21 @@
+{
+  "content": "woorden",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Deze twee woorden worden makkelijk door elkaar gehaald"
+    ],
+    [
+      "TRANSLATION",
+      "eng:words",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:21.764313Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "sure",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:26.803643Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -112,6 +115,19 @@
     [
       "TRANSLATION",
       "jbo:certu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom and Mary said that they weren't sure"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you sure they can do that﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:네, 알겠습니다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

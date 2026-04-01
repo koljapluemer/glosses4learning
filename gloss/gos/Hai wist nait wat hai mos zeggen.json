@@ -1,0 +1,43 @@
+{
+  "content": "Hai wist nait wat hai mos zeggen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Hai"
+    ],
+    [
+      "PART",
+      "gos:wist"
+    ],
+    [
+      "PART",
+      "gos:nait"
+    ],
+    [
+      "PART",
+      "gos:wat"
+    ],
+    [
+      "PART",
+      "gos:hai"
+    ],
+    [
+      "PART",
+      "gos:mos"
+    ],
+    [
+      "PART",
+      "gos:zeggen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.276443Z": "SPLIT_DONE"
+  }
+}

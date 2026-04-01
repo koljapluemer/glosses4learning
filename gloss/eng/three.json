@@ -2,12 +2,15 @@
   "content": "three",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:16.307605Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -116,6 +119,47 @@
     [
       "TRANSLATION",
       "jbo:sanmi"
+    ],
+    [
+      "TRANSLATION",
+      "gos:drij"
+    ],
+    [
+      "TRANSLATION",
+      "kab:tlata"
+    ],
+    [
+      "TRANSLATION",
+      "ces:tři"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:ci"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:ci'e"
+    ],
+    [
+      "TRANSLATION",
+      "dan:tre"
+    ],
+    [
+      "TRANSLATION",
+      "lat:tres"
+    ],
+    [
+      "TRANSLATION",
+      "vie:ba"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The three of us are on one team"
+    ],
+    [
+      "TRANSLATION",
+      "kor:세",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

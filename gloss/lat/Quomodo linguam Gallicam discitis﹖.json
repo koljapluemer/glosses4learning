@@ -1,0 +1,31 @@
+{
+  "content": "Quomodo linguam Gallicam discitis?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Quomodo"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Gallicam"
+    ],
+    [
+      "PART",
+      "lat:discitis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.651093Z": "SPLIT_DONE"
+  }
+}

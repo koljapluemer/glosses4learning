@@ -1,0 +1,35 @@
+{
+  "content": "Niemand konnte meine Fragen beantworten.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Niemand"
+    ],
+    [
+      "PART",
+      "deu:konnte"
+    ],
+    [
+      "PART",
+      "deu:meine"
+    ],
+    [
+      "PART",
+      "deu:Fragen"
+    ],
+    [
+      "PART",
+      "deu:beantworten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.819020Z": "SPLIT_DONE"
+  }
+}

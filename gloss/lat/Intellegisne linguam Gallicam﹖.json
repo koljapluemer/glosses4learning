@@ -1,0 +1,27 @@
+{
+  "content": "Intellegisne linguam Gallicam?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Intellegisne"
+    ],
+    [
+      "PART",
+      "lat:linguam"
+    ],
+    [
+      "PART",
+      "lat:Gallicam"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.687897Z": "SPLIT_DONE"
+  }
+}

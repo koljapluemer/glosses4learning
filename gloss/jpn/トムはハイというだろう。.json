@@ -1,0 +1,43 @@
+{
+  "content": "トムはハイというだろう。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tako (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom would say yes"
+    ],
+    [
+      "PART",
+      "jpn:トム"
+    ],
+    [
+      "PART",
+      "jpn:は"
+    ],
+    [
+      "PART",
+      "jpn:ハイ"
+    ],
+    [
+      "PART",
+      "jpn:と"
+    ],
+    [
+      "PART",
+      "jpn:いう"
+    ],
+    [
+      "PART",
+      "jpn:だろう"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:20.813158Z": "SPLIT_DONE"
+  }
+}

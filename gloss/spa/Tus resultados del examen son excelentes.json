@@ -1,0 +1,39 @@
+{
+  "content": "Tus resultados del examen son excelentes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by cueyayotl (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tus"
+    ],
+    [
+      "PART",
+      "spa:resultados"
+    ],
+    [
+      "PART",
+      "spa:del"
+    ],
+    [
+      "PART",
+      "spa:examen"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:excelentes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.263731Z": "SPLIT_DONE"
+  }
+}

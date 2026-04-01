@@ -1,0 +1,25 @@
+{
+  "content": "några",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Går det bra att ni väntar några minuter﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:some",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom säger att han inte har några fiender"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:54.018150Z": "TRANSLATION_DONE:eng"
+  }
+}

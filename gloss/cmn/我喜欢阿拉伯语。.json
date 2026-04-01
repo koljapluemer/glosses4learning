@@ -1,0 +1,31 @@
+{
+  "content": "我喜欢阿拉伯语。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shanghainese (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I love Arabic"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:喜欢"
+    ],
+    [
+      "PART",
+      "cmn:阿拉伯语"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:11.070108Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "včera",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Dnes mám mnohem více práce, než včera"
+    ],
+    [
+      "TRANSLATION",
+      "eng:yesterday",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Kde jste byli včera v půl třetí﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:19.136784Z": "TRANSLATION_DONE:eng"
+  }
+}

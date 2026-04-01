@@ -1,0 +1,39 @@
+{
+  "content": "Qu'est-ce que je peux faire d'autre ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Olcyx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Qu'est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:je"
+    ],
+    [
+      "PART",
+      "fra:peux"
+    ],
+    [
+      "PART",
+      "fra:faire"
+    ],
+    [
+      "PART",
+      "fra:d'autre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.861140Z": "SPLIT_DONE"
+  }
+}

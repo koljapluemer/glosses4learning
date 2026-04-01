@@ -1,0 +1,43 @@
+{
+  "content": "我請湯姆把窗戶打開。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I asked Tom to open the window"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:請"
+    ],
+    [
+      "PART",
+      "cmn:湯姆"
+    ],
+    [
+      "PART",
+      "cmn:把"
+    ],
+    [
+      "PART",
+      "cmn:窗戶"
+    ],
+    [
+      "PART",
+      "cmn:打開"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:41:07.110492Z": "SPLIT_DONE"
+  }
+}

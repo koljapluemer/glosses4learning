@@ -1,0 +1,44 @@
+{
+  "content": "狗",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "cmn:嘿，你的狗刚咬了我。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dog",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:puppy",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:canine",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hound",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:我想要一隻狗。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "cmn:這是瑪麗的狗。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:39:17.478518Z": "TRANSLATION_DONE:eng"
+  }
+}

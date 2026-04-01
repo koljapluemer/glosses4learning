@@ -2,9 +2,12 @@
   "content": "if",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:17.695534Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -150,6 +153,55 @@
     [
       "TRANSLATION",
       "kab:mi"
+    ],
+    [
+      "TRANSLATION",
+      "ind:kalau"
+    ],
+    [
+      "TRANSLATION",
+      "ces:kdyby"
+    ],
+    [
+      "TRANSLATION",
+      "ces:pokud"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What will we do if it rains﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Is it OK if I open a can﹖"
+    ],
+    [
+      "TRANSLATION",
+      "nob:hvis"
+    ],
+    [
+      "TRANSLATION",
+      "por:fosse"
+    ],
+    [
+      "TRANSLATION",
+      "epo:se"
+    ],
+    [
+      "TRANSLATION",
+      "pol:jeśli"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would it be OK if I turned off the lights﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:만약에",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I will go if the rain stops"
     ]
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "content": "Ona pożycza powieści od Toma.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Ona"
+    ],
+    [
+      "PART",
+      "pol:pożycza"
+    ],
+    [
+      "PART",
+      "pol:powieści"
+    ],
+    [
+      "PART",
+      "pol:od"
+    ],
+    [
+      "PART",
+      "pol:Toma"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.732272Z": "SPLIT_DONE"
+  }
+}

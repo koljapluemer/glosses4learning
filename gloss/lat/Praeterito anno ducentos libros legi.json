@@ -1,0 +1,39 @@
+{
+  "content": "Praeterito anno ducentos libros legi.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Last year I read two hundred books"
+    ],
+    [
+      "PART",
+      "lat:Praeterito"
+    ],
+    [
+      "PART",
+      "lat:anno"
+    ],
+    [
+      "PART",
+      "lat:ducentos"
+    ],
+    [
+      "PART",
+      "lat:libros"
+    ],
+    [
+      "PART",
+      "lat:legi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:31.095263Z": "SPLIT_DONE"
+  }
+}

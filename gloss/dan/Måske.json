@@ -1,0 +1,29 @@
+{
+  "content": "Måske",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Måske burde vi ikke gøre dette"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Måske behøver du ikke at tage af sted"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Måske vil Tom ikke lyve for os mere"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Perhaps",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:34.143365Z": "TRANSLATION_DONE:eng"
+  }
+}

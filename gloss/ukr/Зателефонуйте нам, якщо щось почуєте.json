@@ -1,0 +1,35 @@
+{
+  "content": "Зателефонуйте нам, якщо щось почуєте.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Зателефонуйте"
+    ],
+    [
+      "PART",
+      "ukr:нам"
+    ],
+    [
+      "PART",
+      "ukr:якщо"
+    ],
+    [
+      "PART",
+      "ukr:щось"
+    ],
+    [
+      "PART",
+      "ukr:почуєте"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.125721Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Acta diurna hodierna iam legi.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I have already read today's paper"
+    ],
+    [
+      "PART",
+      "lat:Acta"
+    ],
+    [
+      "PART",
+      "lat:diurna"
+    ],
+    [
+      "PART",
+      "lat:hodierna"
+    ],
+    [
+      "PART",
+      "lat:iam"
+    ],
+    [
+      "PART",
+      "lat:legi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:19.880333Z": "SPLIT_DONE"
+  }
+}

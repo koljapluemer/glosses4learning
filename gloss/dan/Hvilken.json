@@ -1,0 +1,39 @@
+{
+  "content": "Hvilken",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvilken vidunderlig dag"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvilken bus kører til stationen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Welches",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvilken perron afgår vores tog fra﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvilken vin går bedst til rødt kød﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Which",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:36.258042Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:03.348049Z": "TRANSLATION_DONE:eng"
+  }
+}

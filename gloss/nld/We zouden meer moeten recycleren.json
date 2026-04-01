@@ -1,0 +1,35 @@
+{
+  "content": "We zouden meer moeten recycleren.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by PaulP (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:We"
+    ],
+    [
+      "PART",
+      "nld:zouden"
+    ],
+    [
+      "PART",
+      "nld:meer"
+    ],
+    [
+      "PART",
+      "nld:moeten"
+    ],
+    [
+      "PART",
+      "nld:recycleren"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.073317Z": "SPLIT_DONE"
+  }
+}

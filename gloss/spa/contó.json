@@ -1,0 +1,21 @@
+{
+  "content": "contó",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todo lo que nos contó es una fábula"
+    ],
+    [
+      "TRANSLATION",
+      "deu:erzählte",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:27.182309Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "lezen",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Kun je ophouden mij de les te lezen, alsjeblieft﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Er zijn nog steeds mensen die niet kunnen lezen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:reading",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Je kan deze roman niet lezen zonder te huilen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:09.570933Z": "TRANSLATION_DONE:eng"
+  }
+}

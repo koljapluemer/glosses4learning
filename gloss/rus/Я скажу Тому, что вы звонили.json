@@ -1,0 +1,39 @@
+{
+  "content": "Я скажу Тому, что вы звонили.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:скажу"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:вы"
+    ],
+    [
+      "PART",
+      "rus:звонили"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.400450Z": "SPLIT_DONE"
+  }
+}

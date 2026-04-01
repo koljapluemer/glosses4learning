@@ -1,0 +1,31 @@
+{
+  "content": "พอใจ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอพอใจกับของขวัญ"
+    ],
+    [
+      "TRANSLATION",
+      "deu:zufrieden",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันพอใจกับงานของฉัน"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Satisfied",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:34.002407Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:25.255018Z": "TRANSLATION_DONE:eng"
+  }
+}

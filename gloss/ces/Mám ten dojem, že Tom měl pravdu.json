@@ -1,0 +1,43 @@
+{
+  "content": "Mám ten dojem, že Tom měl pravdu.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by moskbnea (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Mám"
+    ],
+    [
+      "PART",
+      "ces:ten"
+    ],
+    [
+      "PART",
+      "ces:dojem"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:měl"
+    ],
+    [
+      "PART",
+      "ces:pravdu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.237431Z": "SPLIT_DONE"
+  }
+}

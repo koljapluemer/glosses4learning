@@ -1,0 +1,39 @@
+{
+  "content": "Tom vil gøre det på mandag.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by M1dx (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:gøre"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:på"
+    ],
+    [
+      "PART",
+      "dan:mandag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.210517Z": "SPLIT_DONE"
+  }
+}

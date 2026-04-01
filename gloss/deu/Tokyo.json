@@ -1,0 +1,21 @@
+{
+  "content": "Tokyo",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Er hat sich heute Morgen auf den Weg nach Tokyo gemacht"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Tokyo",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:29.427118Z": "TRANSLATION_DONE:eng"
+  }
+}

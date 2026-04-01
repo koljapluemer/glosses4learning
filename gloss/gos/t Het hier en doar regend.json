@@ -1,0 +1,43 @@
+{
+  "content": "t Het hier en doar regend.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It rained here and there"
+    ],
+    [
+      "PART",
+      "gos:t"
+    ],
+    [
+      "PART",
+      "gos:Het"
+    ],
+    [
+      "PART",
+      "gos:hier"
+    ],
+    [
+      "PART",
+      "gos:en"
+    ],
+    [
+      "PART",
+      "gos:doar"
+    ],
+    [
+      "PART",
+      "gos:regend"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.593784Z": "SPLIT_DONE"
+  }
+}

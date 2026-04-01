@@ -1,0 +1,39 @@
+{
+  "content": "Har Tom mottatt en invitasjon ennå?",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Har"
+    ],
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:mottatt"
+    ],
+    [
+      "PART",
+      "nob:en"
+    ],
+    [
+      "PART",
+      "nob:invitasjon"
+    ],
+    [
+      "PART",
+      "nob:ennå"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.663056Z": "SPLIT_DONE"
+  }
+}

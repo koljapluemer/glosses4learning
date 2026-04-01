@@ -1,0 +1,35 @@
+{
+  "content": "Tom hanya tidak suka padaku.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:hanya"
+    ],
+    [
+      "PART",
+      "ind:tidak"
+    ],
+    [
+      "PART",
+      "ind:suka"
+    ],
+    [
+      "PART",
+      "ind:padaku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.425400Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jaka jest odpowiedź na moje pytanie?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by konrad509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jaka"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:odpowiedź"
+    ],
+    [
+      "PART",
+      "pol:na"
+    ],
+    [
+      "PART",
+      "pol:moje"
+    ],
+    [
+      "PART",
+      "pol:pytanie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.739583Z": "SPLIT_DONE"
+  }
+}

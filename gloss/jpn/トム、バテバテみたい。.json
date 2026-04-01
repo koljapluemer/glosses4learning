@@ -1,0 +1,31 @@
+{
+  "content": "トム、バテバテみたい。",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by small_snow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom looks exhausted"
+    ],
+    [
+      "PART",
+      "jpn:トム"
+    ],
+    [
+      "PART",
+      "jpn:バテバテ"
+    ],
+    [
+      "PART",
+      "jpn:みたい"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:20.472143Z": "SPLIT_DONE"
+  }
+}

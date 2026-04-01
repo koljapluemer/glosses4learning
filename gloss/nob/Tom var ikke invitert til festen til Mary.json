@@ -1,0 +1,43 @@
+{
+  "content": "Tom var ikke invitert til festen til Mary.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:var"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:invitert"
+    ],
+    [
+      "PART",
+      "nob:til"
+    ],
+    [
+      "PART",
+      "nob:festen"
+    ],
+    [
+      "PART",
+      "nob:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.752305Z": "SPLIT_DONE"
+  }
+}

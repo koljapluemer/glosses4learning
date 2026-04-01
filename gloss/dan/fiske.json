@@ -1,0 +1,25 @@
+{
+  "content": "fiske",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det var min mening at tage ud og fiske"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De tog ud for at fiske i går"
+    ],
+    [
+      "TRANSLATION",
+      "eng:fishing",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:25.150877Z": "TRANSLATION_DONE:eng"
+  }
+}

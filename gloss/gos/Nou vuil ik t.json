@@ -1,0 +1,35 @@
+{
+  "content": "Nou vuil ik t.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Now I feel it"
+    ],
+    [
+      "PART",
+      "gos:Nou"
+    ],
+    [
+      "PART",
+      "gos:vuil"
+    ],
+    [
+      "PART",
+      "gos:ik"
+    ],
+    [
+      "PART",
+      "gos:t"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.618012Z": "SPLIT_DONE"
+  }
+}

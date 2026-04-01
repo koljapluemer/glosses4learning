@@ -1,0 +1,43 @@
+{
+  "content": "Ik ben gisteren naar het ziekenhuis geweest.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:naar"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:ziekenhuis"
+    ],
+    [
+      "PART",
+      "nld:geweest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.994718Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Han tok ikke rådet mitt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Han"
+    ],
+    [
+      "PART",
+      "nob:tok"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:rådet"
+    ],
+    [
+      "PART",
+      "nob:mitt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.768315Z": "SPLIT_DONE"
+  }
+}

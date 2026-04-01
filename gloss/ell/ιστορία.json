@@ -1,0 +1,29 @@
+{
+  "content": "ιστορία",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Αυτή είναι η ιστορία μιας αγάπης που δεν μοιάζει με καμία άλλη"
+    ],
+    [
+      "TRANSLATION",
+      "eng:history",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Πες μου μια ιστορία με μια φράση"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ο Yankev επηρεάστηκε πολύ από την ιστορία του Borekh"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:10:13.344838Z": "TRANSLATION_DONE:eng"
+  }
+}

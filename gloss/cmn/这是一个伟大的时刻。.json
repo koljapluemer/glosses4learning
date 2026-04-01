@@ -1,0 +1,39 @@
+{
+  "content": "这是一个伟大的时刻。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sadhen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is a great moment"
+    ],
+    [
+      "PART",
+      "cmn:这是"
+    ],
+    [
+      "PART",
+      "cmn:一个"
+    ],
+    [
+      "PART",
+      "cmn:伟大"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:时刻"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:45.768037Z": "SPLIT_DONE"
+  }
+}

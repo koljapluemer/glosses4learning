@@ -6,7 +6,9 @@
     "2025-12-16T14:16:03.557Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-16T14:17:52.980Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:pol"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -20,6 +22,22 @@
     [
       "TRANSLATION",
       "eng:which"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jakie jest twoje ulubione jedzenie domowej roboty﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jakie są twoje przemyślenia na ten temat﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jakie jest twoje zdanie na temat szkolnych uniformów﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jakie jest twoje ulubione miasto na świecie﹖"
     ]
   ]
 }

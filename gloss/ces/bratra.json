@@ -1,0 +1,25 @@
+{
+  "content": "bratra",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Mám tři sestry a jednoho bratra"
+    ],
+    [
+      "TRANSLATION",
+      "eng:brother",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Nemám rád ani Toma, ani jeho bratra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:59.232664Z": "TRANSLATION_DONE:eng"
+  }
+}

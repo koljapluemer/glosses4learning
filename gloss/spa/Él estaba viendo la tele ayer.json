@@ -1,0 +1,39 @@
+{
+  "content": "Él estaba viendo la tele ayer.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by manufrutos (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Él"
+    ],
+    [
+      "PART",
+      "spa:estaba"
+    ],
+    [
+      "PART",
+      "spa:viendo"
+    ],
+    [
+      "PART",
+      "spa:la"
+    ],
+    [
+      "PART",
+      "spa:tele"
+    ],
+    [
+      "PART",
+      "spa:ayer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.271206Z": "SPLIT_DONE"
+  }
+}

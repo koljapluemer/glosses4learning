@@ -1,0 +1,47 @@
+{
+  "content": "Jag är ledsen, den här är inte till salu.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JanErikJ (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:ledsen"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:inte"
+    ],
+    [
+      "PART",
+      "swe:till"
+    ],
+    [
+      "PART",
+      "swe:salu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.130198Z": "SPLIT_DONE"
+  }
+}

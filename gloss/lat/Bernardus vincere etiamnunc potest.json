@@ -1,0 +1,31 @@
+{
+  "content": "Bernardus vincere etiamnunc potest.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Bernardus"
+    ],
+    [
+      "PART",
+      "lat:vincere"
+    ],
+    [
+      "PART",
+      "lat:etiamnunc"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.679474Z": "SPLIT_DONE"
+  }
+}

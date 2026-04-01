@@ -1,0 +1,35 @@
+{
+  "content": "Heri novum computatorium emerunt.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:They bought a new computer yesterday"
+    ],
+    [
+      "PART",
+      "lat:Heri"
+    ],
+    [
+      "PART",
+      "lat:novum"
+    ],
+    [
+      "PART",
+      "lat:computatorium"
+    ],
+    [
+      "PART",
+      "lat:emerunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:46.811019Z": "SPLIT_DONE"
+  }
+}

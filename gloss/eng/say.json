@@ -2,9 +2,12 @@
   "content": "say",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:26.260297Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -122,6 +125,31 @@
     [
       "TRANSLATION",
       "tok:toki"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:кажемо"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What do you say we go watch a movie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "bul:кажеш"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How do you say this in English﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:말하다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How do you say Scam in Cantonese﹖"
     ]
   ]
 }

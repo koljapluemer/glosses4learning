@@ -1,0 +1,39 @@
+{
+  "content": "Tom en ik hebben geen kinderen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:en"
+    ],
+    [
+      "PART",
+      "nld:ik"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:geen"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.992552Z": "SPLIT_DONE"
+  }
+}

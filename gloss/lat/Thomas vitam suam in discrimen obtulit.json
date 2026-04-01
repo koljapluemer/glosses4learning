@@ -1,0 +1,39 @@
+{
+  "content": "Thomas vitam suam in discrimen obtulit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:vitam"
+    ],
+    [
+      "PART",
+      "lat:suam"
+    ],
+    [
+      "PART",
+      "lat:in"
+    ],
+    [
+      "PART",
+      "lat:discrimen"
+    ],
+    [
+      "PART",
+      "lat:obtulit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.707658Z": "SPLIT_DONE"
+  }
+}

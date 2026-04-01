@@ -1,0 +1,25 @@
+{
+  "content": "oficina",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Haz el favor de venir a mi oficina"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Büro",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿A qué hora sale tu padre de su oficina﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:21.895755Z": "TRANSLATION_DONE:deu"
+  }
+}

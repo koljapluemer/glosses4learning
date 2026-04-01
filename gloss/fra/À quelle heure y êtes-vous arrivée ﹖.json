@@ -1,0 +1,39 @@
+{
+  "content": "À quelle heure y êtes-vous arrivée ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:À"
+    ],
+    [
+      "PART",
+      "fra:quelle"
+    ],
+    [
+      "PART",
+      "fra:heure"
+    ],
+    [
+      "PART",
+      "fra:y"
+    ],
+    [
+      "PART",
+      "fra:êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:arrivée"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.809651Z": "SPLIT_DONE"
+  }
+}

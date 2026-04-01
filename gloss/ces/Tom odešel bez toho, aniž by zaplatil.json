@@ -1,0 +1,43 @@
+{
+  "content": "Tom odešel bez toho, aniž by zaplatil.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:odešel"
+    ],
+    [
+      "PART",
+      "ces:bez"
+    ],
+    [
+      "PART",
+      "ces:toho"
+    ],
+    [
+      "PART",
+      "ces:aniž"
+    ],
+    [
+      "PART",
+      "ces:by"
+    ],
+    [
+      "PART",
+      "ces:zaplatil"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.119841Z": "SPLIT_DONE"
+  }
+}

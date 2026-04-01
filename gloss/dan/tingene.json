@@ -1,0 +1,39 @@
+{
+  "content": "tingene",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Det er på tide at holde op med at udskyde tingene"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tag ikke tingene så alvorligt"
+    ],
+    [
+      "TRANSLATION",
+      "deu:die Dinge",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi arbejdede hårdt for at få tingene til at hænge sammen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the things",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Af og til går tingene ikke som planlagt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:41.837495Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:52:54.477641Z": "TRANSLATION_DONE:eng"
+  }
+}

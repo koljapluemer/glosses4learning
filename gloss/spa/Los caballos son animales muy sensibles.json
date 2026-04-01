@@ -1,0 +1,39 @@
+{
+  "content": "Los caballos son animales muy sensibles.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:caballos"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:muy"
+    ],
+    [
+      "PART",
+      "spa:sensibles"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.268327Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Ik ben er zeker van dat Tom kan zwemmen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:ben"
+    ],
+    [
+      "PART",
+      "nld:er"
+    ],
+    [
+      "PART",
+      "nld:zeker"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:kan"
+    ],
+    [
+      "PART",
+      "nld:zwemmen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.083303Z": "SPLIT_DONE"
+  }
+}

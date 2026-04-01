@@ -1,0 +1,35 @@
+{
+  "content": "Сравни си превода с неговия.",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ednorog (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "bul:Сравни"
+    ],
+    [
+      "PART",
+      "bul:си"
+    ],
+    [
+      "PART",
+      "bul:превода"
+    ],
+    [
+      "PART",
+      "bul:с"
+    ],
+    [
+      "PART",
+      "bul:неговия"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:03.502514Z": "SPLIT_DONE"
+  }
+}

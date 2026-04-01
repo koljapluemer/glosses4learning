@@ -1,0 +1,39 @@
+{
+  "content": "Tom har varit här många gånger.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:varit"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:många"
+    ],
+    [
+      "PART",
+      "swe:gånger"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.074121Z": "SPLIT_DONE"
+  }
+}

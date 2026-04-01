@@ -1,0 +1,39 @@
+{
+  "content": "Мне нужно позвонить своему адвокату.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I need to call my lawyer"
+    ],
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:нужно"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:своему"
+    ],
+    [
+      "PART",
+      "rus:адвокату"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:16.930960Z": "SPLIT_DONE"
+  }
+}

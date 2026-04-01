@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.842155Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.695413Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.037284Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.512649Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.512649Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:35:33.011249Z": "TRANSLATION_DONE:ukr"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -52,6 +54,23 @@
     [
       "TRANSLATION",
       "deu:gekostet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much do you think that it cost﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вартість",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "por:custo"
+    ],
+    [
+      "TRANSLATION",
+      "epo:kostumo"
     ]
   ]
 }

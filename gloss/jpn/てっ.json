@@ -1,0 +1,29 @@
+{
+  "content": "てっ",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:きっと誰かがお前の腕時計盗ってったんだよ。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:タダで持ってっていいよ。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Okay",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:うちの子を連れてったよ。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:17.293588Z": "TRANSLATION_DONE:eng"
+  }
+}

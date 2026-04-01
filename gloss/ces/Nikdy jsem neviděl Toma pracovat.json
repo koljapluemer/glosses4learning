@@ -1,0 +1,35 @@
+{
+  "content": "Nikdy jsem neviděl Toma pracovat.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Nikdy"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:neviděl"
+    ],
+    [
+      "PART",
+      "ces:Toma"
+    ],
+    [
+      "PART",
+      "ces:pracovat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.142399Z": "SPLIT_DONE"
+  }
+}

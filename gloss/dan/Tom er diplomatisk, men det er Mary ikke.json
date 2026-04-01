@@ -1,0 +1,43 @@
+{
+  "content": "Tom er diplomatisk, men det er Mary ikke.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:diplomatisk"
+    ],
+    [
+      "PART",
+      "dan:men"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.325565Z": "SPLIT_DONE"
+  }
+}

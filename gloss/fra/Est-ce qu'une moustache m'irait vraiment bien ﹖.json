@@ -1,0 +1,39 @@
+{
+  "content": "Est-ce qu'une moustache m'irait vraiment bien ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LdjuherTaqvaylit (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:qu'une"
+    ],
+    [
+      "PART",
+      "fra:moustache"
+    ],
+    [
+      "PART",
+      "fra:m'irait"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:bien"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.679747Z": "SPLIT_DONE"
+  }
+}

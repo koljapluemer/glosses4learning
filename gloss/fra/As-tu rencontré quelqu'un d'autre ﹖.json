@@ -1,0 +1,31 @@
+{
+  "content": "As-tu rencontré quelqu'un d'autre ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:As-tu"
+    ],
+    [
+      "PART",
+      "fra:rencontré"
+    ],
+    [
+      "PART",
+      "fra:quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:d'autre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.774545Z": "SPLIT_DONE"
+  }
+}

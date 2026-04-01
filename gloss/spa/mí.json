@@ -4,9 +4,12 @@
   "transcriptions": {},
   "logs": {
     "2025-12-16T11:44:24.631Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-16T11:44:40.612Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa"
+    "2025-12-16T11:44:40.612Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:spa",
+    "2026-04-01T08:30:08.953585Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -24,6 +27,19 @@
     [
       "TRANSLATION",
       "eng:to me"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Este libro de texto es demasiado difícil para mí"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:мені",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Sé que no te acuerdas de mí"
     ]
   ]
 }

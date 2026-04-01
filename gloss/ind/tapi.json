@@ -1,0 +1,21 @@
+{
+  "content": "tapi",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Saya tidak yakin, tapi dia mungkin datang"
+    ],
+    [
+      "TRANSLATION",
+      "eng:but",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:24.783409Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Certaines personnes sont allergiques au latex.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by calypsow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Certaines"
+    ],
+    [
+      "PART",
+      "fra:personnes"
+    ],
+    [
+      "PART",
+      "fra:sont"
+    ],
+    [
+      "PART",
+      "fra:allergiques"
+    ],
+    [
+      "PART",
+      "fra:au"
+    ],
+    [
+      "PART",
+      "fra:latex"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.594861Z": "SPLIT_DONE"
+  }
+}

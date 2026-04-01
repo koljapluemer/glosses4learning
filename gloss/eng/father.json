@@ -2,12 +2,16 @@
   "content": "father",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:31.759844Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:18.584984Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -80,6 +84,64 @@
     [
       "TRANSLATION",
       "tok:mama"
+    ],
+    [
+      "TRANSLATION",
+      "kab:atan"
+    ],
+    [
+      "TRANSLATION",
+      "ind:ayah"
+    ],
+    [
+      "TRANSLATION",
+      "ell:πατέρα"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that his father worked in Boston"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:батько",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "dan:far"
+    ],
+    [
+      "TRANSLATION",
+      "epo:patro"
+    ],
+    [
+      "TRANSLATION",
+      "lat:pater"
+    ],
+    [
+      "TRANSLATION",
+      "bul:баща"
+    ],
+    [
+      "TRANSLATION",
+      "vie:cha"
+    ],
+    [
+      "TRANSLATION",
+      "pol:ojciec"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing these days﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:아버지",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing lately﹖"
     ]
   ]
 }

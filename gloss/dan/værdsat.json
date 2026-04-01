@@ -1,0 +1,31 @@
+{
+  "content": "værdsat",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han får mig til at føle mig værdsat og elsket"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wertschätzen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kan få folk til at føle sig værdsat"
+    ],
+    [
+      "TRANSLATION",
+      "eng:appreciated",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:45.976216Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:52:55.326335Z": "TRANSLATION_DONE:eng"
+  }
+}

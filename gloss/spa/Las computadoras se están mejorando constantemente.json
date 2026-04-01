@@ -1,0 +1,39 @@
+{
+  "content": "Las computadoras se están mejorando constantemente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by darinmex (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Las"
+    ],
+    [
+      "PART",
+      "spa:computadoras"
+    ],
+    [
+      "PART",
+      "spa:se"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:mejorando"
+    ],
+    [
+      "PART",
+      "spa:constantemente"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.247342Z": "SPLIT_DONE"
+  }
+}

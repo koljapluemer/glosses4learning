@@ -1,0 +1,35 @@
+{
+  "content": "他是一个 DJ 。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sadhen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:He's a DJ"
+    ],
+    [
+      "PART",
+      "cmn:他"
+    ],
+    [
+      "PART",
+      "cmn:是"
+    ],
+    [
+      "PART",
+      "cmn:一个"
+    ],
+    [
+      "PART",
+      "cmn:DJ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:26.001421Z": "SPLIT_DONE"
+  }
+}

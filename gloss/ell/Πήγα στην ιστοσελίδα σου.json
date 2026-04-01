@@ -1,0 +1,35 @@
+{
+  "content": "Πήγα στην ιστοσελίδα σου.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I went to your website"
+    ],
+    [
+      "PART",
+      "ell:Πήγα"
+    ],
+    [
+      "PART",
+      "ell:στην"
+    ],
+    [
+      "PART",
+      "ell:ιστοσελίδα"
+    ],
+    [
+      "PART",
+      "ell:σου"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:39.156112Z": "SPLIT_DONE"
+  }
+}

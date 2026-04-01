@@ -1,0 +1,39 @@
+{
+  "content": "หนังสือเล่มนั้นเป็นของฉัน",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:หนังสือ"
+    ],
+    [
+      "PART",
+      "tha:เล่ม"
+    ],
+    [
+      "PART",
+      "tha:นั้น"
+    ],
+    [
+      "PART",
+      "tha:เป็น"
+    ],
+    [
+      "PART",
+      "tha:ของ"
+    ],
+    [
+      "PART",
+      "tha:ฉัน"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:43.935678Z": "SPLIT_DONE"
+  }
+}

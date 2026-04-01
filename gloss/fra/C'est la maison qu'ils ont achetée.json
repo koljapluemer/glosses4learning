@@ -1,0 +1,39 @@
+{
+  "content": "C'est la maison qu'ils ont achetée.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:C'est"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ],
+    [
+      "PART",
+      "fra:qu'ils"
+    ],
+    [
+      "PART",
+      "fra:ont"
+    ],
+    [
+      "PART",
+      "fra:achetée"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.738135Z": "SPLIT_DONE"
+  }
+}

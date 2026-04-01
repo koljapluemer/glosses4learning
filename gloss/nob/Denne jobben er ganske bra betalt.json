@@ -1,0 +1,39 @@
+{
+  "content": "Denne jobben er ganske bra betalt.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by elithyia (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Denne"
+    ],
+    [
+      "PART",
+      "nob:jobben"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:ganske"
+    ],
+    [
+      "PART",
+      "nob:bra"
+    ],
+    [
+      "PART",
+      "nob:betalt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.823896Z": "SPLIT_DONE"
+  }
+}

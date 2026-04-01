@@ -2,12 +2,15 @@
   "content": "days",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:19.117252Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -84,6 +87,31 @@
     [
       "TRANSLATION",
       "tur:günlerde"
+    ],
+    [
+      "TRANSLATION",
+      "ces:dni"
+    ],
+    [
+      "TRANSLATION",
+      "ell:μέρες"
+    ],
+    [
+      "TRANSLATION",
+      "ell:ημέρες"
+    ],
+    [
+      "TRANSLATION",
+      "epo:tagojn"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing these days﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:날",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

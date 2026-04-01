@@ -1,0 +1,39 @@
+{
+  "content": "Exoptata ad Tatoebam advenisti, mea amica.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Exoptata"
+    ],
+    [
+      "PART",
+      "lat:ad"
+    ],
+    [
+      "PART",
+      "lat:Tatoebam"
+    ],
+    [
+      "PART",
+      "lat:advenisti"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ],
+    [
+      "PART",
+      "lat:amica"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.716288Z": "SPLIT_DONE"
+  }
+}

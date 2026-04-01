@@ -1,0 +1,43 @@
+{
+  "content": "Gestern haben Sie einen großen Mann gesehen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by BraveSentry (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Gestern"
+    ],
+    [
+      "PART",
+      "deu:haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:einen"
+    ],
+    [
+      "PART",
+      "deu:großen"
+    ],
+    [
+      "PART",
+      "deu:Mann"
+    ],
+    [
+      "PART",
+      "deu:gesehen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.651569Z": "SPLIT_DONE"
+  }
+}

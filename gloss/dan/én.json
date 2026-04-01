@@ -1,0 +1,35 @@
+{
+  "content": "én",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Mænd tænker kun på én ting"
+    ],
+    [
+      "TRANSLATION",
+      "deu:eins",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Den nye bro bliver én og en halv kilometer lang"
+    ],
+    [
+      "TRANSLATION",
+      "eng:one",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han ejer én kat og to hunde"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:44.121195Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:13.166360Z": "TRANSLATION_DONE:eng"
+  }
+}

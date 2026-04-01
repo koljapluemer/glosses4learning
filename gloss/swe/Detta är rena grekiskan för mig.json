@@ -1,0 +1,39 @@
+{
+  "content": "Detta är rena grekiskan för mig.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Detta"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:rena"
+    ],
+    [
+      "PART",
+      "swe:grekiskan"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:mig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.203672Z": "SPLIT_DONE"
+  }
+}

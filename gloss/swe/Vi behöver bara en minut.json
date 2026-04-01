@@ -1,0 +1,35 @@
+{
+  "content": "Vi behöver bara en minut.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Vi"
+    ],
+    [
+      "PART",
+      "swe:behöver"
+    ],
+    [
+      "PART",
+      "swe:bara"
+    ],
+    [
+      "PART",
+      "swe:en"
+    ],
+    [
+      "PART",
+      "swe:minut"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.197961Z": "SPLIT_DONE"
+  }
+}

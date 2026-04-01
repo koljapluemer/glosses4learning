@@ -1,0 +1,43 @@
+{
+  "content": "Se supone que los estudiantes estudien arduamente.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Se"
+    ],
+    [
+      "PART",
+      "spa:supone"
+    ],
+    [
+      "PART",
+      "spa:que"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:estudien"
+    ],
+    [
+      "PART",
+      "spa:arduamente"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.282237Z": "SPLIT_DONE"
+  }
+}

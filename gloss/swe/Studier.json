@@ -1,0 +1,21 @@
+{
+  "content": "Studier",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Studier visar att det här är en missuppfattning"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Studies",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:31.005145Z": "TRANSLATION_DONE:eng"
+  }
+}

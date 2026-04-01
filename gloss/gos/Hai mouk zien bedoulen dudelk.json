@@ -1,0 +1,35 @@
+{
+  "content": "Hai mouk zien bedoulen dudelk.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Hai"
+    ],
+    [
+      "PART",
+      "gos:mouk"
+    ],
+    [
+      "PART",
+      "gos:zien"
+    ],
+    [
+      "PART",
+      "gos:bedoulen"
+    ],
+    [
+      "PART",
+      "gos:dudelk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.293541Z": "SPLIT_DONE"
+  }
+}

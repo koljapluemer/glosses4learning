@@ -1,0 +1,35 @@
+{
+  "content": "Oletko sinä nähnyt tuon elokuvan?",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Orava (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Oletko"
+    ],
+    [
+      "PART",
+      "fin:sinä"
+    ],
+    [
+      "PART",
+      "fin:nähnyt"
+    ],
+    [
+      "PART",
+      "fin:tuon"
+    ],
+    [
+      "PART",
+      "fin:elokuvan"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.841389Z": "SPLIT_DONE"
+  }
+}

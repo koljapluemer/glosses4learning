@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.843838Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.695858Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.037796Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.503340Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.503340Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T09:04:14.067946Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -309,6 +311,43 @@
     [
       "TRANSLATION",
       "tok:sama"
+    ],
+    [
+      "TRANSLATION",
+      "gos:asof"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do you like it here in Berlin﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, I'd like you to give him this paper"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~과 유사하게",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are people who think like this"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would you like to be my boyfriend﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Wow, you totally look like an artist"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What fruit do you like the most﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You can only see what you like the most"
     ]
   ]
 }

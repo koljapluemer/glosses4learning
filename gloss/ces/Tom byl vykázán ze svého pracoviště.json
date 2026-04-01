@@ -1,0 +1,39 @@
+{
+  "content": "Tom byl vykázán ze svého pracoviště.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:vykázán"
+    ],
+    [
+      "PART",
+      "ces:ze"
+    ],
+    [
+      "PART",
+      "ces:svého"
+    ],
+    [
+      "PART",
+      "ces:pracoviště"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.130171Z": "SPLIT_DONE"
+  }
+}

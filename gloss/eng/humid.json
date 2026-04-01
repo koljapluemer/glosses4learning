@@ -1,0 +1,21 @@
+{
+  "content": "humid",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:Summer in Taipei is very hot and humid!"
+    ],
+    [
+      "TRANSLATION",
+      "kor:습한",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:24.007876Z": "TRANSLATION_DONE:kor"
+  }
+}

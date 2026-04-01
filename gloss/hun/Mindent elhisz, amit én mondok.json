@@ -1,0 +1,35 @@
+{
+  "content": "Mindent elhisz, amit én mondok.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mraz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mindent"
+    ],
+    [
+      "PART",
+      "hun:elhisz"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:én"
+    ],
+    [
+      "PART",
+      "hun:mondok"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.467004Z": "SPLIT_DONE"
+  }
+}

@@ -2,12 +2,15 @@
   "content": "cold",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:47.158488Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -112,6 +115,27 @@
     [
       "TRANSLATION",
       "tok:lete"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom and Mary said that they felt cold"
+    ],
+    [
+      "TRANSLATION",
+      "nob:kald"
+    ],
+    [
+      "TRANSLATION",
+      "nob:kaldt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your hand is as cold as ice"
+    ],
+    [
+      "TRANSLATION",
+      "kor:추운",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

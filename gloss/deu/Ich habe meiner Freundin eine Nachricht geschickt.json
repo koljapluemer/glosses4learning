@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe meiner Freundin eine Nachricht geschickt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by driini (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:meiner"
+    ],
+    [
+      "PART",
+      "deu:Freundin"
+    ],
+    [
+      "PART",
+      "deu:eine"
+    ],
+    [
+      "PART",
+      "deu:Nachricht"
+    ],
+    [
+      "PART",
+      "deu:geschickt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.926382Z": "SPLIT_DONE"
+  }
+}

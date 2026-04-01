@@ -1,0 +1,31 @@
+{
+  "content": "這是一棵橡樹。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It's an oak tree"
+    ],
+    [
+      "PART",
+      "cmn:這是"
+    ],
+    [
+      "PART",
+      "cmn:一棵"
+    ],
+    [
+      "PART",
+      "cmn:橡樹"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:13.613465Z": "SPLIT_DONE"
+  }
+}

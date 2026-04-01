@@ -1,0 +1,31 @@
+{
+  "content": "Tiedän, minne olette matkalla.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Tiedän"
+    ],
+    [
+      "PART",
+      "fin:minne"
+    ],
+    [
+      "PART",
+      "fin:olette"
+    ],
+    [
+      "PART",
+      "fin:matkalla"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.835965Z": "SPLIT_DONE"
+  }
+}

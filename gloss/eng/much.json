@@ -8,10 +8,13 @@
     "2025-12-12T14:08:34.841176Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.705279Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.052053Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.513988Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.513988Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:02:06.720556Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:52.438768Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -137,6 +140,44 @@
     [
       "TRANSLATION",
       "tok:mute"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:In conclusion, Ahn, it very much falls to you and me to set the tone for the work environment. I will do my bit to defuse the present climate and crack on with the job at hand. I hope I can rely on yo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:багато",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "ces:mnohem"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he didn't have much experience"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much do you think that it cost﹖"
+    ],
+    [
+      "TRANSLATION",
+      "hun:sokkal"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much is the fare﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:훨씬",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How much is the shirt﹖"
     ]
   ]
 }

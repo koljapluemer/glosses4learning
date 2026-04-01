@@ -1,0 +1,35 @@
+{
+  "content": "digan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él le importa una mierda lo que otros digan"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:скажіть",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él lo que otros digan por un oído le entra y por el otro le sale"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ponte de pie cuando digan tu nombre"
+    ],
+    [
+      "TRANSLATION",
+      "deu:sagen",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:15.693894Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:11.574468Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "magna",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas in magna societate quaestuosa munere fungitur"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Domus mea nec magna nec parva est"
+    ],
+    [
+      "TRANSLATION",
+      "eng:great",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Domus mea nimis magna est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec domus valde magna non est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:24.082942Z": "TRANSLATION_DONE:eng"
+  }
+}

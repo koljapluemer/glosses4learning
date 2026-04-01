@@ -1,0 +1,25 @@
+{
+  "content": "hoed",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Voor wie heb je die hoed gekocht﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:hat",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Wie heeft die hoed voor Tom gekocht﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:10.785436Z": "TRANSLATION_DONE:eng"
+  }
+}

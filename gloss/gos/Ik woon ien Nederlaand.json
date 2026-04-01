@@ -1,0 +1,31 @@
+{
+  "content": "Ik woon ien Nederlaand.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Ik"
+    ],
+    [
+      "PART",
+      "gos:woon"
+    ],
+    [
+      "PART",
+      "gos:ien"
+    ],
+    [
+      "PART",
+      "gos:Nederlaand"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.320613Z": "SPLIT_DONE"
+  }
+}

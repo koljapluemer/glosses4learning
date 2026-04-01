@@ -1,0 +1,39 @@
+{
+  "content": "Iam cum ea locutus sum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I already spoke to her"
+    ],
+    [
+      "PART",
+      "lat:Iam"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:ea"
+    ],
+    [
+      "PART",
+      "lat:locutus"
+    ],
+    [
+      "PART",
+      "lat:sum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:38.031287Z": "SPLIT_DONE"
+  }
+}

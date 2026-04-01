@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:39:54.613209Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:39:54.613209Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:11.026989Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -336,6 +338,79 @@
     [
       "TRANSLATION",
       "tok:wan"
+    ],
+    [
+      "TRANSLATION",
+      "ell:μιας"
+    ],
+    [
+      "TRANSLATION",
+      "ces:jednoho"
+    ],
+    [
+      "TRANSLATION",
+      "ces:i"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:No one is interested in this topic"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:1"
+    ],
+    [
+      "TRANSLATION",
+      "nob:én"
+    ],
+    [
+      "TRANSLATION",
+      "dan:én"
+    ],
+    [
+      "TRANSLATION",
+      "lat:una"
+    ],
+    [
+      "TRANSLATION",
+      "pol:jedną"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no one in your bedroom"
+    ],
+    [
+      "TRANSLATION",
+      "kor:하나",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no one in the classroom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The three of us are on one team"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There was only one swallow in the nest"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said no one was in the classroom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There was no one home"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Reading is one of my hobbies"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Children all leave the nest one day"
     ]
   ]
 }

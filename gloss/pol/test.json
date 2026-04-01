@@ -1,0 +1,21 @@
+{
+  "content": "test",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mamy test z francuskiego w następny poniedziałek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:test",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:42.974065Z": "TRANSLATION_DONE:eng"
+  }
+}

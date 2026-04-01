@@ -1,0 +1,39 @@
+{
+  "content": "Semmit nem értettem abból, amit mondott.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Semmit"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:értettem"
+    ],
+    [
+      "PART",
+      "hun:abból"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:mondott"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.481672Z": "SPLIT_DONE"
+  }
+}

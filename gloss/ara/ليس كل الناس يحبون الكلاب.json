@@ -1,0 +1,35 @@
+{
+  "content": "ليس كل الناس يحبون الكلاب.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ليس"
+    ],
+    [
+      "PART",
+      "ara:كل"
+    ],
+    [
+      "PART",
+      "ara:الناس"
+    ],
+    [
+      "PART",
+      "ara:يحبون"
+    ],
+    [
+      "PART",
+      "ara:الكلاب"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.472829Z": "SPLIT_DONE"
+  }
+}

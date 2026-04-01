@@ -2,12 +2,16 @@
   "content": "doing",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:33.694673Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:18.746946Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -48,6 +52,48 @@
     [
       "TRANSLATION",
       "tur:yaparken"
+    ],
+    [
+      "TRANSLATION",
+      "spa:haciendo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What are you doing in my office﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing these days﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:하는",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How is your father doing lately﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:What are you doing on Sunday﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How are you doing lately﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Oh my God! What are you doing﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It seems Mom is doing the dishes"
     ]
   ]
 }

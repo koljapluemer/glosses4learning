@@ -1,0 +1,21 @@
+{
+  "content": "könyv",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Nagyon mély benyomást tett rám ez a könyv"
+    ],
+    [
+      "TRANSLATION",
+      "eng:book",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:53.800949Z": "TRANSLATION_DONE:eng"
+  }
+}

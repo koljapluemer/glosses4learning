@@ -1,0 +1,31 @@
+{
+  "content": "Hoc autocinetum est nostrum.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Hoc"
+    ],
+    [
+      "PART",
+      "lat:autocinetum"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:nostrum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.706505Z": "SPLIT_DONE"
+  }
+}

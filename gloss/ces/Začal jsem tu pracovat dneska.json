@@ -1,0 +1,35 @@
+{
+  "content": "Začal jsem tu pracovat dneska.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lipao (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Začal"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:tu"
+    ],
+    [
+      "PART",
+      "ces:pracovat"
+    ],
+    [
+      "PART",
+      "ces:dneska"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.095456Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom si nemyslel, že je Mary unavená.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:si"
+    ],
+    [
+      "PART",
+      "ces:nemyslel"
+    ],
+    [
+      "PART",
+      "ces:že"
+    ],
+    [
+      "PART",
+      "ces:je"
+    ],
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:unavená"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.191032Z": "SPLIT_DONE"
+  }
+}

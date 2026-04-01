@@ -1,0 +1,39 @@
+{
+  "content": "Tom está en bastantes malas condiciones.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by albrusgher (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Tom"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:en"
+    ],
+    [
+      "PART",
+      "spa:bastantes"
+    ],
+    [
+      "PART",
+      "spa:malas"
+    ],
+    [
+      "PART",
+      "spa:condiciones"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.275802Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Моя французька насправді така погана?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Моя"
+    ],
+    [
+      "PART",
+      "ukr:французька"
+    ],
+    [
+      "PART",
+      "ukr:насправді"
+    ],
+    [
+      "PART",
+      "ukr:така"
+    ],
+    [
+      "PART",
+      "ukr:погана"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.158245Z": "SPLIT_DONE"
+  }
+}

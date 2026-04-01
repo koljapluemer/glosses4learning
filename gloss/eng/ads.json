@@ -1,0 +1,21 @@
+{
+  "content": "ads",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are too many ads on YouTube"
+    ],
+    [
+      "TRANSLATION",
+      "kor:광고",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:04:19.667396Z": "TRANSLATION_DONE:kor"
+  }
+}

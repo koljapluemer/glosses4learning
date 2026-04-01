@@ -1,0 +1,35 @@
+{
+  "content": "Maria hirtelen halála mindenkit meglepett.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pernilla8 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Maria"
+    ],
+    [
+      "PART",
+      "hun:hirtelen"
+    ],
+    [
+      "PART",
+      "hun:halála"
+    ],
+    [
+      "PART",
+      "hun:mindenkit"
+    ],
+    [
+      "PART",
+      "hun:meglepett"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.509106Z": "SPLIT_DONE"
+  }
+}

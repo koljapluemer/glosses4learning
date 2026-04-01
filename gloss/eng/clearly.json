@@ -2,12 +2,15 @@
   "content": "clearly",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:15.148145Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +23,19 @@
     [
       "TRANSLATION",
       "ces:srozumitelně"
+    ],
+    [
+      "TRANSLATION",
+      "por:claramente"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:An expression of gratitude can be clearly seen on his face"
+    ],
+    [
+      "TRANSLATION",
+      "kor:명확하게",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

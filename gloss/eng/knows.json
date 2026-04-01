@@ -2,12 +2,15 @@
   "content": "knows",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:29.366838Z": "TRANSLATION_DONE:ukr"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -68,6 +71,23 @@
     [
       "TRANSLATION",
       "lat:scit"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom knows that he should do that soon"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Про нас",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom knows he should do that soon"
+    ],
+    [
+      "TRANSLATION",
+      "bul:знае"
     ]
   ]
 }

@@ -3,9 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:38:42.499Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:38:42.499Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:35:30.376700Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "relationships": [
@@ -48,6 +51,15 @@
     [
       "TRANSLATION",
       "ces:moji"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:My office is in the city centre"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Моя",
+      "Auto-translated with argostranslate (en→uk)"
     ]
   ]
 }

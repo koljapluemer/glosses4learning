@@ -1,0 +1,43 @@
+{
+  "content": "Tom yang memberitahukan saya soal itu.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dbahasa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It was Tom who told me that"
+    ],
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:yang"
+    ],
+    [
+      "PART",
+      "ind:memberitahukan"
+    ],
+    [
+      "PART",
+      "ind:saya"
+    ],
+    [
+      "PART",
+      "ind:soal"
+    ],
+    [
+      "PART",
+      "ind:itu"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:11.270649Z": "SPLIT_DONE"
+  }
+}

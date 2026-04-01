@@ -1,0 +1,43 @@
+{
+  "content": "Meu pai faz caminhada todos os dias.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ToinhoAlam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Meu"
+    ],
+    [
+      "PART",
+      "por:pai"
+    ],
+    [
+      "PART",
+      "por:faz"
+    ],
+    [
+      "PART",
+      "por:caminhada"
+    ],
+    [
+      "PART",
+      "por:todos"
+    ],
+    [
+      "PART",
+      "por:os"
+    ],
+    [
+      "PART",
+      "por:dias"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.915102Z": "SPLIT_DONE"
+  }
+}

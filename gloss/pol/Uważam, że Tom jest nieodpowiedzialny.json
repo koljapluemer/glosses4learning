@@ -1,0 +1,35 @@
+{
+  "content": "Uważam, że Tom jest nieodpowiedzialny.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by konrad509 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Uważam"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:nieodpowiedzialny"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.748831Z": "SPLIT_DONE"
+  }
+}

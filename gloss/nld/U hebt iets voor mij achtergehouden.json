@@ -1,0 +1,39 @@
+{
+  "content": "U hebt iets voor mij achtergehouden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:U"
+    ],
+    [
+      "PART",
+      "nld:hebt"
+    ],
+    [
+      "PART",
+      "nld:iets"
+    ],
+    [
+      "PART",
+      "nld:voor"
+    ],
+    [
+      "PART",
+      "nld:mij"
+    ],
+    [
+      "PART",
+      "nld:achtergehouden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.990739Z": "SPLIT_DONE"
+  }
+}

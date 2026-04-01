@@ -1,0 +1,39 @@
+{
+  "content": "你看起来什么都知道。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mirrorvan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:你"
+    ],
+    [
+      "PART",
+      "cmn:看起来"
+    ],
+    [
+      "PART",
+      "cmn:什么"
+    ],
+    [
+      "PART",
+      "cmn:都"
+    ],
+    [
+      "PART",
+      "cmn:知道"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:27.100899Z": "SPLIT_DONE"
+  }
+}

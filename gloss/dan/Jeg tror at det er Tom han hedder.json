@@ -1,0 +1,47 @@
+{
+  "content": "Jeg tror at det er Tom han hedder.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:tror"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:det"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:han"
+    ],
+    [
+      "PART",
+      "dan:hedder"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.425533Z": "SPLIT_DONE"
+  }
+}

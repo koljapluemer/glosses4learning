@@ -1,0 +1,47 @@
+{
+  "content": "Detta är Ken. Han älskar sin hund.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Coedwig (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is Ken. He loves his dog"
+    ],
+    [
+      "PART",
+      "swe:Detta"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:Ken"
+    ],
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:älskar"
+    ],
+    [
+      "PART",
+      "swe:sin"
+    ],
+    [
+      "PART",
+      "swe:hund"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:06.897107Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Todo",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todo lo que tienes que hacer es escuchar"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Все",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todo estaba cerrado con llave. ¿Cómo escapó﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Alles",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todo el mundo está hablando de lo que hizo Tom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Todo lo que nos contó es una fábula"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:29.972470Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:15.189935Z": "TRANSLATION_DONE:deu"
+  }
+}

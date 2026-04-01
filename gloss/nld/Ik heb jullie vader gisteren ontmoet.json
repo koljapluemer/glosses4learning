@@ -1,0 +1,39 @@
+{
+  "content": "Ik heb jullie vader gisteren ontmoet.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:heb"
+    ],
+    [
+      "PART",
+      "nld:jullie"
+    ],
+    [
+      "PART",
+      "nld:vader"
+    ],
+    [
+      "PART",
+      "nld:gisteren"
+    ],
+    [
+      "PART",
+      "nld:ontmoet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.094126Z": "SPLIT_DONE"
+  }
+}

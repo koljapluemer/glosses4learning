@@ -1,0 +1,47 @@
+{
+  "content": "Justo estaba comiendo cuando ustedes me llamaron.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Ich war gerade beim Essen, als ihr mich angerufen habt"
+    ],
+    [
+      "PART",
+      "spa:Justo"
+    ],
+    [
+      "PART",
+      "spa:estaba"
+    ],
+    [
+      "PART",
+      "spa:comiendo"
+    ],
+    [
+      "PART",
+      "spa:cuando"
+    ],
+    [
+      "PART",
+      "spa:ustedes"
+    ],
+    [
+      "PART",
+      "spa:me"
+    ],
+    [
+      "PART",
+      "spa:llamaron"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:29.954568Z": "SPLIT_DONE"
+  }
+}

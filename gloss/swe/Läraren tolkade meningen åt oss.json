@@ -1,0 +1,39 @@
+{
+  "content": "Läraren tolkade meningen åt oss.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Coedwig (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The teacher interpreted the sentence for us"
+    ],
+    [
+      "PART",
+      "swe:Läraren"
+    ],
+    [
+      "PART",
+      "swe:tolkade"
+    ],
+    [
+      "PART",
+      "swe:meningen"
+    ],
+    [
+      "PART",
+      "swe:åt"
+    ],
+    [
+      "PART",
+      "swe:oss"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:17.926979Z": "SPLIT_DONE"
+  }
+}

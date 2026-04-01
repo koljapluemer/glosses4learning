@@ -1,0 +1,39 @@
+{
+  "content": "Les deux chevaux sont-ils à toi ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pkill (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Les"
+    ],
+    [
+      "PART",
+      "fra:deux"
+    ],
+    [
+      "PART",
+      "fra:chevaux"
+    ],
+    [
+      "PART",
+      "fra:sont-ils"
+    ],
+    [
+      "PART",
+      "fra:à"
+    ],
+    [
+      "PART",
+      "fra:toi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.707471Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "проблема",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Твоя проблема в тому, що ти недостатньо займаєшся"
+    ],
+    [
+      "TRANSLATION",
+      "eng:problem",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Твоя проблема в тому, що ти недостатньо вчишся"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Problem",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У нас все ще та ж проблема"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Ця проблема простіша за ту"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:У мене колись була така сама проблема"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:23.907726Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:12.508832Z": "TRANSLATION_DONE:deu"
+  }
+}

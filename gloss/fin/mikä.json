@@ -1,0 +1,25 @@
+{
+  "content": "mikä",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Emme osaa kertoa mikä on parempi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:what",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Mutta voi, mikä kamala onni on päälleni laskenut!"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:17.759175Z": "TRANSLATION_DONE:eng"
+  }
+}

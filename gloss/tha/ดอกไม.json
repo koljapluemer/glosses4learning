@@ -1,0 +1,31 @@
+{
+  "content": "ดอกไม",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เขาซื้อดอกไม้แล้ว"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Blumen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมนำดอกไม้มา"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Flowers",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:31.538468Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:27.435133Z": "TRANSLATION_DONE:eng"
+  }
+}

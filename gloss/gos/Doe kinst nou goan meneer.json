@@ -1,0 +1,35 @@
+{
+  "content": "Doe kinst nou goan meneer.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Doe"
+    ],
+    [
+      "PART",
+      "gos:kinst"
+    ],
+    [
+      "PART",
+      "gos:nou"
+    ],
+    [
+      "PART",
+      "gos:goan"
+    ],
+    [
+      "PART",
+      "gos:meneer"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.330767Z": "SPLIT_DONE"
+  }
+}

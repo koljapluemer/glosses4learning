@@ -1,0 +1,21 @@
+{
+  "content": "動物",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:僕のママは、動物が嫌いなんだ。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Animals",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:04.443053Z": "TRANSLATION_DONE:eng"
+  }
+}

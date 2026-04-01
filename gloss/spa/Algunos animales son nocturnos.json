@@ -1,0 +1,31 @@
+{
+  "content": "Algunos animales son nocturnos.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Seael (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:nocturnos"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.292482Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "N'est-ce pas une coïncidence incroyable ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:N'est-ce"
+    ],
+    [
+      "PART",
+      "fra:pas"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:coïncidence"
+    ],
+    [
+      "PART",
+      "fra:incroyable"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.609280Z": "SPLIT_DONE"
+  }
+}

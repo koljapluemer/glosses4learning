@@ -1,0 +1,35 @@
+{
+  "content": "Jeg visste allerede om det.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:visste"
+    ],
+    [
+      "PART",
+      "nob:allerede"
+    ],
+    [
+      "PART",
+      "nob:om"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.719275Z": "SPLIT_DONE"
+  }
+}

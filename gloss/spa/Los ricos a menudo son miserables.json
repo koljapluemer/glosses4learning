@@ -1,0 +1,39 @@
+{
+  "content": "Los ricos a menudo son miserables.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Fernanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:ricos"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:menudo"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:miserables"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.298251Z": "SPLIT_DONE"
+  }
+}

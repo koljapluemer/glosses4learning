@@ -1,0 +1,25 @@
+{
+  "content": "закончите",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвоните мне, пожалуйста, когда закончите с этим"
+    ],
+    [
+      "TRANSLATION",
+      "eng:complete",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвоните мне, пожалуйста, когда закончите"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:07.632239Z": "TRANSLATION_DONE:eng"
+  }
+}

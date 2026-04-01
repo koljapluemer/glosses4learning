@@ -1,0 +1,35 @@
+{
+  "content": "Tom nedokázal tu osobu popsat.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:nedokázal"
+    ],
+    [
+      "PART",
+      "ces:tu"
+    ],
+    [
+      "PART",
+      "ces:osobu"
+    ],
+    [
+      "PART",
+      "ces:popsat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.203810Z": "SPLIT_DONE"
+  }
+}

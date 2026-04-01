@@ -1,0 +1,43 @@
+{
+  "content": "雨從早上一直下到現在。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It's been raining since morning"
+    ],
+    [
+      "PART",
+      "cmn:雨"
+    ],
+    [
+      "PART",
+      "cmn:從"
+    ],
+    [
+      "PART",
+      "cmn:早上"
+    ],
+    [
+      "PART",
+      "cmn:一直"
+    ],
+    [
+      "PART",
+      "cmn:下到"
+    ],
+    [
+      "PART",
+      "cmn:現在"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:04.093000Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "Nonne placet tibi vinum?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Nonne"
+    ],
+    [
+      "PART",
+      "lat:placet"
+    ],
+    [
+      "PART",
+      "lat:tibi"
+    ],
+    [
+      "PART",
+      "lat:vinum"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.655675Z": "SPLIT_DONE"
+  }
+}

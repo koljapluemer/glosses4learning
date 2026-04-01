@@ -1,0 +1,33 @@
+{
+  "content": "Eikö",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Eikö sinun tehnyt mieli mennä﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Eikö sinulla on koulua tänään﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Is that so﹖",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Eikö sinulla ole mitään tuota pienempää﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Eikö sinulla ole yhtään tuota pienempää﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:13.218439Z": "TRANSLATION_DONE:eng"
+  }
+}

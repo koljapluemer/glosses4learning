@@ -1,0 +1,39 @@
+{
+  "content": "Domus mea nimis magna est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soweli_Elepanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My house is too big"
+    ],
+    [
+      "PART",
+      "lat:Domus"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ],
+    [
+      "PART",
+      "lat:nimis"
+    ],
+    [
+      "PART",
+      "lat:magna"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:24.087337Z": "SPLIT_DONE"
+  }
+}

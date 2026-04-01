@@ -1,0 +1,25 @@
+{
+  "content": "entendieron",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo unos pocos estudiantes entendieron el asunto"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they understood",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo unos pocos estudiantes entendieron la asignatura"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:14.476959Z": "TRANSLATION_DONE:eng"
+  }
+}

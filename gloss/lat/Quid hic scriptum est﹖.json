@@ -1,0 +1,35 @@
+{
+  "content": "Quid hic scriptum est?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:What's written here﹖"
+    ],
+    [
+      "PART",
+      "lat:Quid"
+    ],
+    [
+      "PART",
+      "lat:hic"
+    ],
+    [
+      "PART",
+      "lat:scriptum"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:39.990989Z": "SPLIT_DONE"
+  }
+}

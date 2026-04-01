@@ -1,0 +1,43 @@
+{
+  "content": "Los animales son seres puros y naturales.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Los"
+    ],
+    [
+      "PART",
+      "spa:animales"
+    ],
+    [
+      "PART",
+      "spa:son"
+    ],
+    [
+      "PART",
+      "spa:seres"
+    ],
+    [
+      "PART",
+      "spa:puros"
+    ],
+    [
+      "PART",
+      "spa:y"
+    ],
+    [
+      "PART",
+      "spa:naturales"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.267419Z": "SPLIT_DONE"
+  }
+}

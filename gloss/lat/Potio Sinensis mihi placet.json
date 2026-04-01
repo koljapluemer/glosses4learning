@@ -1,0 +1,31 @@
+{
+  "content": "Potio Sinensis mihi placet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potio"
+    ],
+    [
+      "PART",
+      "lat:Sinensis"
+    ],
+    [
+      "PART",
+      "lat:mihi"
+    ],
+    [
+      "PART",
+      "lat:placet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.639129Z": "SPLIT_DONE"
+  }
+}

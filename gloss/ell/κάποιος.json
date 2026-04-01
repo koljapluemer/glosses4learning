@@ -1,0 +1,29 @@
+{
+  "content": "κάποιος",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ο Τομ είναι κάποιος που εμπιστεύομαι"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Μπορεί κάποιος να μου πει τι συμβαίνει;"
+    ],
+    [
+      "TRANSLATION",
+      "eng:someone",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Θέλω κάποιος να με αγαπάει"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:18.824939Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -4,9 +4,13 @@
   "transcriptions": {},
   "logs": {
     "2025-12-20T14:23:08.513Z": "SPLIT_CONSIDERED_UNNECESSARY",
-    "2025-12-20T14:23:22.238Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-20T14:23:22.238Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:49:02.213968Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T09:01:32.213532Z": "TRANSLATION_DONE:ukr"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -40,6 +44,28 @@
     [
       "NOTE",
       "eng:Used for masculine nouns"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Welcher Gruppe wollt ihr euch anschließen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어떤",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Welcher von diesen Männern ist dein Vater﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Welcher von ihnen ist dein Bruder﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Який﹖",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

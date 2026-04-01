@@ -1,0 +1,35 @@
+{
+  "content": "Ella verdaderamente quiere perder peso.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:verdaderamente"
+    ],
+    [
+      "PART",
+      "spa:quiere"
+    ],
+    [
+      "PART",
+      "spa:perder"
+    ],
+    [
+      "PART",
+      "spa:peso"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.225001Z": "SPLIT_DONE"
+  }
+}

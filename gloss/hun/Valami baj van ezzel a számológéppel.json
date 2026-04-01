@@ -1,0 +1,43 @@
+{
+  "content": "Valami baj van ezzel a számológéppel.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pandaa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Something is wrong with this calculator"
+    ],
+    [
+      "PART",
+      "hun:Valami"
+    ],
+    [
+      "PART",
+      "hun:baj"
+    ],
+    [
+      "PART",
+      "hun:van"
+    ],
+    [
+      "PART",
+      "hun:ezzel"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:számológéppel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:36:12.219751Z": "SPLIT_DONE"
+  }
+}

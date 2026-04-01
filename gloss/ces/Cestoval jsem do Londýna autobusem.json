@@ -1,0 +1,35 @@
+{
+  "content": "Cestoval jsem do Londýna autobusem.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Cestoval"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:do"
+    ],
+    [
+      "PART",
+      "ces:Londýna"
+    ],
+    [
+      "PART",
+      "ces:autobusem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.210942Z": "SPLIT_DONE"
+  }
+}

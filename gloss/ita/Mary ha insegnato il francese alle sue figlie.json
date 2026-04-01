@@ -1,0 +1,47 @@
+{
+  "content": "Mary ha insegnato il francese alle sue figlie.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Mary"
+    ],
+    [
+      "PART",
+      "ita:ha"
+    ],
+    [
+      "PART",
+      "ita:insegnato"
+    ],
+    [
+      "PART",
+      "ita:il"
+    ],
+    [
+      "PART",
+      "ita:francese"
+    ],
+    [
+      "PART",
+      "ita:alle"
+    ],
+    [
+      "PART",
+      "ita:sue"
+    ],
+    [
+      "PART",
+      "ita:figlie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.991005Z": "SPLIT_DONE"
+  }
+}

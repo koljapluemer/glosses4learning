@@ -1,0 +1,43 @@
+{
+  "content": "Mijn zinnen werden naar het Russisch vertaald.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SunnyMoon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mijn"
+    ],
+    [
+      "PART",
+      "nld:zinnen"
+    ],
+    [
+      "PART",
+      "nld:werden"
+    ],
+    [
+      "PART",
+      "nld:naar"
+    ],
+    [
+      "PART",
+      "nld:het"
+    ],
+    [
+      "PART",
+      "nld:Russisch"
+    ],
+    [
+      "PART",
+      "nld:vertaald"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.966998Z": "SPLIT_DONE"
+  }
+}

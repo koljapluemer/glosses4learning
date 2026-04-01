@@ -1,0 +1,35 @@
+{
+  "content": "Jullie moeten deze zin onthouden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Jullie"
+    ],
+    [
+      "PART",
+      "nld:moeten"
+    ],
+    [
+      "PART",
+      "nld:deze"
+    ],
+    [
+      "PART",
+      "nld:zin"
+    ],
+    [
+      "PART",
+      "nld:onthouden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.962443Z": "SPLIT_DONE"
+  }
+}

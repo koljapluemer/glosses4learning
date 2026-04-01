@@ -1,0 +1,43 @@
+{
+  "content": "Tom thinks that Mary should do that.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том вважає, що Мері слід цим зайнятися"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:thinks"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:should"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:31.959295Z": "SPLIT_DONE"
+  }
+}

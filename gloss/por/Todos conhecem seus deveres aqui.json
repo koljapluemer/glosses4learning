@@ -1,0 +1,35 @@
+{
+  "content": "Todos conhecem seus deveres aqui.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:conhecem"
+    ],
+    [
+      "PART",
+      "por:seus"
+    ],
+    [
+      "PART",
+      "por:deveres"
+    ],
+    [
+      "PART",
+      "por:aqui"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.946559Z": "SPLIT_DONE"
+  }
+}

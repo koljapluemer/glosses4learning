@@ -1,0 +1,21 @@
+{
+  "content": "brat",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Mój brat nie mówi w ogóle po angielsku"
+    ],
+    [
+      "TRANSLATION",
+      "eng:brother",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:03.498391Z": "TRANSLATION_DONE:eng"
+  }
+}

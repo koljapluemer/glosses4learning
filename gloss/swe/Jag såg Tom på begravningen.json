@@ -1,0 +1,35 @@
+{
+  "content": "Jag såg Tom på begravningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SilasNordgren (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:såg"
+    ],
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:begravningen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.056211Z": "SPLIT_DONE"
+  }
+}

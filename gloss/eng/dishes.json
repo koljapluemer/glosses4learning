@@ -2,8 +2,12 @@
   "content": "dishes",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:04:48.554790Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -17,6 +21,19 @@
     [
       "TRANSLATION",
       "dan:opvasken"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:посуд"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It seems Mom is doing the dishes"
+    ],
+    [
+      "TRANSLATION",
+      "kor:음식",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

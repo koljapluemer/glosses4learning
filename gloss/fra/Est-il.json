@@ -1,0 +1,25 @@
+{
+  "content": "Est-il",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-il vrai que vous ne savez pas nager ﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ist es",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Est-il vrai que Tom a changé son nom ﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:28:59.954506Z": "TRANSLATION_DONE:deu"
+  }
+}

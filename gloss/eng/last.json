@@ -2,12 +2,15 @@
   "content": "last",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:24.518455Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -144,6 +147,31 @@
     [
       "TRANSLATION",
       "gos:verleden"
+    ],
+    [
+      "TRANSLATION",
+      "gos:leste"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom may have been in Boston last weekend"
+    ],
+    [
+      "TRANSLATION",
+      "dan:sidste"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I didn't go to school last Monday"
+    ],
+    [
+      "TRANSLATION",
+      "kor:마지막",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Today is our last day of vacation"
     ]
   ]
 }

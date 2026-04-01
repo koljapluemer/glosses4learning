@@ -1,0 +1,31 @@
+{
+  "content": "Beweegt hai zien kop?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Beweegt"
+    ],
+    [
+      "PART",
+      "gos:hai"
+    ],
+    [
+      "PART",
+      "gos:zien"
+    ],
+    [
+      "PART",
+      "gos:kop"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.299389Z": "SPLIT_DONE"
+  }
+}

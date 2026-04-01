@@ -1,0 +1,35 @@
+{
+  "content": "Vær",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vær så venlig at fortælle det til din oldemor"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vær så venlig at lave en milkshake til mig"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Bitte",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vær venlig at give mig min bog tilbage"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Be",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:37.751497Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:23.198981Z": "TRANSLATION_DONE:eng"
+  }
+}

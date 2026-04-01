@@ -2,9 +2,12 @@
   "content": "If",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T07:59:16.926268Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -98,6 +101,47 @@
     [
       "TRANSLATION",
       "ind:Jika"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he should come, I want you to give him this document"
+    ],
+    [
+      "TRANSLATION",
+      "kor:만약",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "TRANSLATION",
+      "fin:Jos"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If it were not for water, no creature could live"
+    ],
+    [
+      "TRANSLATION",
+      "hun:Ha"
+    ],
+    [
+      "TRANSLATION",
+      "nob:Hvis"
+    ],
+    [
+      "TRANSLATION",
+      "epo:Se"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, I'd like you to give him this paper"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he comes, give him this paper"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If you're sleepy, you should go to bed"
     ]
   ]
 }

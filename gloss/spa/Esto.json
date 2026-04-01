@@ -1,0 +1,21 @@
+{
+  "content": "Esto",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esto es todo lo que se conoce por ahora"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Das",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:33.332683Z": "TRANSLATION_DONE:deu"
+  }
+}

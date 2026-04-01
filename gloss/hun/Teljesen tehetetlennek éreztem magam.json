@@ -1,0 +1,31 @@
+{
+  "content": "Teljesen tehetetlennek éreztem magam.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jegaevi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Teljesen"
+    ],
+    [
+      "PART",
+      "hun:tehetetlennek"
+    ],
+    [
+      "PART",
+      "hun:éreztem"
+    ],
+    [
+      "PART",
+      "hun:magam"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.550195Z": "SPLIT_DONE"
+  }
+}

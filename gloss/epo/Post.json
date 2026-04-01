@@ -1,0 +1,33 @@
+{
+  "content": "Post",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Post tridek minutoj ŝi atingis la alian flankon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Post ŝia alveno ni povos starti"
+    ],
+    [
+      "TRANSLATION",
+      "eng:After",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Post ŝia morto, li pli kaj pli deprimiĝis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Post kiam lia laboro estis finita, li foriris hejmen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:16.415371Z": "TRANSLATION_DONE:eng"
+  }
+}

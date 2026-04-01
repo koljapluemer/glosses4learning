@@ -1,0 +1,21 @@
+{
+  "content": "perros",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A algunas personas les gustan los gatos, otras prefieren los perros"
+    ],
+    [
+      "TRANSLATION",
+      "eng:dogs",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:08.325423Z": "TRANSLATION_DONE:eng"
+  }
+}

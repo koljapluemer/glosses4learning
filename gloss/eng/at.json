@@ -3,10 +3,13 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-11T11:23:51.319728Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-11T11:23:51.319728Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T08:02:08.277035Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:31.971583Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -276,6 +279,56 @@
     [
       "TRANSLATION",
       "kab:di"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:In conclusion, Ahn, it very much falls to you and me to set the tone for the work environment. I will do my bit to defuse the present climate and crack on with the job at hand. I hope I can rely on yo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:на",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "gos:ter"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I am not interested in politics at all"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary is at home"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I'm not interested in politics at all"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The children are not at school today"
+    ],
+    [
+      "TRANSLATION",
+      "por:às"
+    ],
+    [
+      "TRANSLATION",
+      "nld:bij"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Are you alone at home now﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~에",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She should arrive there at noon"
     ]
   ]
 }

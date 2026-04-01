@@ -1,0 +1,31 @@
+{
+  "content": "Твоя",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Твоя проблема в тому, що ти недостатньо займаєшся"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Yours",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Твоя проблема в тому, що ти недостатньо вчишся"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Deins",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:23.767084Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:12.342390Z": "TRANSLATION_DONE:deu"
+  }
+}

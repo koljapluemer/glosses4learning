@@ -1,0 +1,51 @@
+{
+  "content": "Tom atan di Boston, ma d Mary ulac-itt.",
+  "language": "kab",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HocineBenamer (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom is in Boston, but Mary isn't"
+    ],
+    [
+      "PART",
+      "kab:Tom"
+    ],
+    [
+      "PART",
+      "kab:atan"
+    ],
+    [
+      "PART",
+      "kab:di"
+    ],
+    [
+      "PART",
+      "kab:Boston"
+    ],
+    [
+      "PART",
+      "kab:ma"
+    ],
+    [
+      "PART",
+      "kab:d"
+    ],
+    [
+      "PART",
+      "kab:Mary"
+    ],
+    [
+      "PART",
+      "kab:ulac-itt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:20:43.561608Z": "SPLIT_DONE"
+  }
+}

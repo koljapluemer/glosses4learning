@@ -1,0 +1,35 @@
+{
+  "content": "他 16 歲了。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by LeviHighway (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:He turned 16"
+    ],
+    [
+      "PART",
+      "cmn:他"
+    ],
+    [
+      "PART",
+      "cmn:16"
+    ],
+    [
+      "PART",
+      "cmn:歲"
+    ],
+    [
+      "PART",
+      "cmn:了"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:38:18.817138Z": "SPLIT_DONE"
+  }
+}

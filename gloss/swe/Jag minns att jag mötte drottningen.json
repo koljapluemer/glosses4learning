@@ -1,0 +1,39 @@
+{
+  "content": "Jag minns att jag mötte drottningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Fargy (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:minns"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:jag"
+    ],
+    [
+      "PART",
+      "swe:mötte"
+    ],
+    [
+      "PART",
+      "swe:drottningen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.209210Z": "SPLIT_DONE"
+  }
+}

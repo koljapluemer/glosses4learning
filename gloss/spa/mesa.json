@@ -1,0 +1,29 @@
+{
+  "content": "mesa",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom tiene malos modales en la mesa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me gustaría una mesa al lado de la ventana"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Tisch",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Juego a juegos de mesa sólo para tener vida social"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:28.087106Z": "TRANSLATION_DONE:deu"
+  }
+}

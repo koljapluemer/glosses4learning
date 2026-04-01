@@ -2,9 +2,12 @@
   "content": "document",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T07:59:17.772374Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -30,6 +33,27 @@
     [
       "TRANSLATION",
       "tok:lipu"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If by any chance he should come, I want you to give him this document"
+    ],
+    [
+      "TRANSLATION",
+      "kor:문서",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "TRANSLATION",
+      "gos:paper"
+    ],
+    [
+      "TRANSLATION",
+      "epo:dokumenton"
+    ],
+    [
+      "TRANSLATION",
+      "pol:dokument"
     ]
   ]
 }

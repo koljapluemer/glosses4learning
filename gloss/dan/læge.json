@@ -1,0 +1,29 @@
+{
+  "content": "læge",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Marys læge rådede hende til at træne"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Arzt",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Marys læge rådede hende til at motionere"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Marys læge rådede hende til at dyrke motion"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:42.027102Z": "TRANSLATION_DONE:deu"
+  }
+}

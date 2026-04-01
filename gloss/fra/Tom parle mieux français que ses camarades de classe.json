@@ -1,0 +1,55 @@
+{
+  "content": "Tom parle mieux français que ses camarades de classe.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Tom spricht besser Französisch als seine Klassenkameraden"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:parle"
+    ],
+    [
+      "PART",
+      "fra:mieux"
+    ],
+    [
+      "PART",
+      "fra:français"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:ses"
+    ],
+    [
+      "PART",
+      "fra:camarades"
+    ],
+    [
+      "PART",
+      "fra:de"
+    ],
+    [
+      "PART",
+      "fra:classe"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:00.609729Z": "SPLIT_DONE"
+  }
+}

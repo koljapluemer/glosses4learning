@@ -1,0 +1,43 @@
+{
+  "content": "Toto jsem koupil pro svou přítelkyni.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jms (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I bought this for my girlfriend"
+    ],
+    [
+      "PART",
+      "ces:Toto"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:koupil"
+    ],
+    [
+      "PART",
+      "ces:pro"
+    ],
+    [
+      "PART",
+      "ces:svou"
+    ],
+    [
+      "PART",
+      "ces:přítelkyni"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:54.643788Z": "SPLIT_DONE"
+  }
+}

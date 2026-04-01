@@ -1,0 +1,47 @@
+{
+  "content": "Ik dacht dat Tom wel honger zou hebben.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Raizin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Ik"
+    ],
+    [
+      "PART",
+      "nld:dacht"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:wel"
+    ],
+    [
+      "PART",
+      "nld:honger"
+    ],
+    [
+      "PART",
+      "nld:zou"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.998162Z": "SPLIT_DONE"
+  }
+}

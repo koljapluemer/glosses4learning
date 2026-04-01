@@ -1,0 +1,59 @@
+{
+  "content": "tog",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Fra hvilken perron afgår vores tog﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Reise",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kom for sent til det sidste tog"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvilken perron afgår vores tog fra﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kom for sent til det sidste tog"
+    ],
+    [
+      "TRANSLATION",
+      "eng:took",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han tog til London for at lære engelsk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De tog hen til moskeen for at bede"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom tog til stranden i sidste uge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De tog ud for at fiske i går"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han tog til Amerika for at læse engelsk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:40.006551Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:08.527501Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "sova",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Sami måste sova på övervåningen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag trodde att Tom skulle sova till mitt på dagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to sleep",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:58.586676Z": "TRANSLATION_DONE:eng"
+  }
+}

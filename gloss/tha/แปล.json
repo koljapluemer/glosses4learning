@@ -1,0 +1,31 @@
+{
+  "content": "แปล",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เขาแปลบทกวี"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Übersetzung",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอแปลมันเป็นคำ ๆ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Translation",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:44.773137Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:16.882926Z": "TRANSLATION_DONE:eng"
+  }
+}

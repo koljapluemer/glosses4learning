@@ -1,0 +1,21 @@
+{
+  "content": "boken",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Jag vill att du läser den här boken"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the book",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:04.041520Z": "TRANSLATION_DONE:eng"
+  }
+}

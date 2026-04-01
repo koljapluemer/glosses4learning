@@ -1,0 +1,39 @@
+{
+  "content": "Egymagad nem tudsz semmit sem tenni.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Egymagad"
+    ],
+    [
+      "PART",
+      "hun:nem"
+    ],
+    [
+      "PART",
+      "hun:tudsz"
+    ],
+    [
+      "PART",
+      "hun:semmit"
+    ],
+    [
+      "PART",
+      "hun:sem"
+    ],
+    [
+      "PART",
+      "hun:tenni"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.480969Z": "SPLIT_DONE"
+  }
+}

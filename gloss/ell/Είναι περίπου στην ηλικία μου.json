@@ -1,0 +1,35 @@
+{
+  "content": "Είναι περίπου στην ηλικία μου.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by enteka (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Είναι"
+    ],
+    [
+      "PART",
+      "ell:περίπου"
+    ],
+    [
+      "PART",
+      "ell:στην"
+    ],
+    [
+      "PART",
+      "ell:ηλικία"
+    ],
+    [
+      "PART",
+      "ell:μου"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.652909Z": "SPLIT_DONE"
+  }
+}

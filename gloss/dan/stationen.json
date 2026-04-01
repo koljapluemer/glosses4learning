@@ -1,0 +1,31 @@
+{
+  "content": "stationen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Hvilken bus kører til stationen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:der Bahnhof",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De kørte til stationen i bil"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the station",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:36.623713Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:32.552350Z": "TRANSLATION_DONE:eng"
+  }
+}

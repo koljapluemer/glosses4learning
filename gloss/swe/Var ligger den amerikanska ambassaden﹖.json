@@ -1,0 +1,35 @@
+{
+  "content": "Var ligger den amerikanska ambassaden?",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by loghaD (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Var"
+    ],
+    [
+      "PART",
+      "swe:ligger"
+    ],
+    [
+      "PART",
+      "swe:den"
+    ],
+    [
+      "PART",
+      "swe:amerikanska"
+    ],
+    [
+      "PART",
+      "swe:ambassaden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.098599Z": "SPLIT_DONE"
+  }
+}

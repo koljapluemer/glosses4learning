@@ -1,0 +1,43 @@
+{
+  "content": "Estoy recién terminando algunas tareas del colegio.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by leoruilova (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Estoy"
+    ],
+    [
+      "PART",
+      "spa:recién"
+    ],
+    [
+      "PART",
+      "spa:terminando"
+    ],
+    [
+      "PART",
+      "spa:algunas"
+    ],
+    [
+      "PART",
+      "spa:tareas"
+    ],
+    [
+      "PART",
+      "spa:del"
+    ],
+    [
+      "PART",
+      "spa:colegio"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.207341Z": "SPLIT_DONE"
+  }
+}

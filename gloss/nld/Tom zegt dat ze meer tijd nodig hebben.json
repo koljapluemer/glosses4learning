@@ -1,0 +1,47 @@
+{
+  "content": "Tom zegt dat ze meer tijd nodig hebben.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by erikv (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:zegt"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:ze"
+    ],
+    [
+      "PART",
+      "nld:meer"
+    ],
+    [
+      "PART",
+      "nld:tijd"
+    ],
+    [
+      "PART",
+      "nld:nodig"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.066915Z": "SPLIT_DONE"
+  }
+}

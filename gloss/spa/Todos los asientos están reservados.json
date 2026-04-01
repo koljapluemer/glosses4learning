@@ -1,0 +1,35 @@
+{
+  "content": "Todos los asientos están reservados.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hundo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Todos"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:asientos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:reservados"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.301783Z": "SPLIT_DONE"
+  }
+}

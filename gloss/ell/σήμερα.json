@@ -1,0 +1,25 @@
+{
+  "content": "σήμερα",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Πήγα ψώνια με τον Θωμά σήμερα"
+    ],
+    [
+      "TRANSLATION",
+      "eng:today",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Παιδιά, ευχαριστώ πολύ πού ήρθατε σήμερα!"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:25.669244Z": "TRANSLATION_DONE:eng"
+  }
+}

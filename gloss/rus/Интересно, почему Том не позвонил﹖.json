@@ -1,0 +1,35 @@
+{
+  "content": "Интересно, почему Том не позвонил?",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Интересно"
+    ],
+    [
+      "PART",
+      "rus:почему"
+    ],
+    [
+      "PART",
+      "rus:Том"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:позвонил"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.398187Z": "SPLIT_DONE"
+  }
+}

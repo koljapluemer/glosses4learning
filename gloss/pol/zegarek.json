@@ -1,0 +1,25 @@
+{
+  "content": "zegarek",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Sami podoba mi się mój zegarek"
+    ],
+    [
+      "TRANSLATION",
+      "eng:watch",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Ile kosztuje ten zegarek﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:32.164415Z": "TRANSLATION_DONE:eng"
+  }
+}

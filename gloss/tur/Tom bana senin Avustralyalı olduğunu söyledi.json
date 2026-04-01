@@ -1,0 +1,39 @@
+{
+  "content": "Tom bana senin Avustralyalı olduğunu söyledi.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:bana"
+    ],
+    [
+      "PART",
+      "tur:senin"
+    ],
+    [
+      "PART",
+      "tur:Avustralyalı"
+    ],
+    [
+      "PART",
+      "tur:olduğunu"
+    ],
+    [
+      "PART",
+      "tur:söyledi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:43.967733Z": "SPLIT_DONE"
+  }
+}

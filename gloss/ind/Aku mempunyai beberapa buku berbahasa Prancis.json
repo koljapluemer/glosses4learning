@@ -1,0 +1,39 @@
+{
+  "content": "Aku mempunyai beberapa buku berbahasa Prancis.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Bilmanda (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Aku"
+    ],
+    [
+      "PART",
+      "ind:mempunyai"
+    ],
+    [
+      "PART",
+      "ind:beberapa"
+    ],
+    [
+      "PART",
+      "ind:buku"
+    ],
+    [
+      "PART",
+      "ind:berbahasa"
+    ],
+    [
+      "PART",
+      "ind:Prancis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.379875Z": "SPLIT_DONE"
+  }
+}

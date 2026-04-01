@@ -1,0 +1,33 @@
+{
+  "content": "nondum",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Litterae meae nondum missae sunt"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Isto modo id facere nondum conatus sum"
+    ],
+    [
+      "TRANSLATION",
+      "eng:not yet",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Ego nondum nonaginta annos natus sum"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Mei fratres nondum responderunt vobis ad vestras quaestiones"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:25.293184Z": "TRANSLATION_DONE:eng"
+  }
+}

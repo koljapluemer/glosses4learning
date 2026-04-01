@@ -1,0 +1,35 @@
+{
+  "content": "Ili estas ĉiuj kolegiaj studentoj.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Ili"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:ĉiuj"
+    ],
+    [
+      "PART",
+      "epo:kolegiaj"
+    ],
+    [
+      "PART",
+      "epo:studentoj"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.391059Z": "SPLIT_DONE"
+  }
+}

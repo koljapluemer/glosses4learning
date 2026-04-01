@@ -1,0 +1,21 @@
+{
+  "content": "behandling",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Samis läkare föreslog ingen speciell behandling"
+    ],
+    [
+      "TRANSLATION",
+      "eng:treatment",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:23.185087Z": "TRANSLATION_DONE:eng"
+  }
+}

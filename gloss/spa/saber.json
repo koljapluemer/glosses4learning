@@ -1,0 +1,45 @@
+{
+  "content": "saber",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ella es lo suficientemente mayor para saber la verdad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to know",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Quiero saber si está cerca"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:знати",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca te acostarás sin saber una cosa más"
+    ],
+    [
+      "TRANSLATION",
+      "deu:wissen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No hay ninguna manera de saber quién va a ganar"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:18.788425Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:19.281780Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:08.651114Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content": "weit",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:In diesen Tagen scheint der Sommer ziemlich weit weg zu sein"
+    ],
+    [
+      "TRANSLATION",
+      "eng:far",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:So weit weg von hier ist es nicht"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:значно",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:29.960569Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:01:30.429230Z": "TRANSLATION_DONE:ukr"
+  }
+}

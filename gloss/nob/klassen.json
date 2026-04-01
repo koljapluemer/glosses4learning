@@ -1,0 +1,29 @@
+{
+  "content": "klassen",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Alle i klassen hans liker ham"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Alle i klassen hennes liker henne"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the class",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg er den yngste i klassen min"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:24.881309Z": "TRANSLATION_DONE:eng"
+  }
+}

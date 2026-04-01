@@ -1,0 +1,39 @@
+{
+  "content": "Tom 想成為一個飛機師。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nickyeow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom wants to be a pilot"
+    ],
+    [
+      "PART",
+      "cmn:Tom"
+    ],
+    [
+      "PART",
+      "cmn:想成"
+    ],
+    [
+      "PART",
+      "cmn:為"
+    ],
+    [
+      "PART",
+      "cmn:一個"
+    ],
+    [
+      "PART",
+      "cmn:飛機師"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:37:35.509847Z": "SPLIT_DONE"
+  }
+}

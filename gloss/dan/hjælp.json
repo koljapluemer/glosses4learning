@@ -1,0 +1,29 @@
+{
+  "content": "hjælp",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vores hjælp kommer ikke til at koste dig noget"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi har brug for deres hjælp"
+    ],
+    [
+      "TRANSLATION",
+      "eng:help",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom var ikke bange for at bede om hjælp"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:15.976264Z": "TRANSLATION_DONE:eng"
+  }
+}

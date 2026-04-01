@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.843505Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.692602Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.032937Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.515309Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.515309Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:35:31.232592Z": "TRANSLATION_DONE:ukr"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -153,6 +155,15 @@
     [
       "TRANSLATION",
       "kab:mliḥ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary is a nice person"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:красиві",
+      "Auto-translated with argostranslate (en→uk)"
     ]
   ]
 }

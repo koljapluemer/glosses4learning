@@ -1,0 +1,39 @@
+{
+  "content": "Potionem Sinensem cum citreo velim, quaeso.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Potionem"
+    ],
+    [
+      "PART",
+      "lat:Sinensem"
+    ],
+    [
+      "PART",
+      "lat:cum"
+    ],
+    [
+      "PART",
+      "lat:citreo"
+    ],
+    [
+      "PART",
+      "lat:velim"
+    ],
+    [
+      "PART",
+      "lat:quaeso"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.642127Z": "SPLIT_DONE"
+  }
+}

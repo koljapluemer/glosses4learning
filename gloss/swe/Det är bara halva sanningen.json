@@ -1,0 +1,35 @@
+{
+  "content": "Det är bara halva sanningen.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by richke (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:bara"
+    ],
+    [
+      "PART",
+      "swe:halva"
+    ],
+    [
+      "PART",
+      "swe:sanningen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.118816Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Algunos estudiantes se quedaron atrás.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by JRB (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Algunos"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ],
+    [
+      "PART",
+      "spa:se"
+    ],
+    [
+      "PART",
+      "spa:quedaron"
+    ],
+    [
+      "PART",
+      "spa:atrás"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.136807Z": "SPLIT_DONE"
+  }
+}

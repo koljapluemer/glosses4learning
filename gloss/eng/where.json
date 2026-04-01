@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:38:42.499Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:38:42.499Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:56.249004Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -105,6 +107,43 @@
     [
       "TRANSLATION",
       "lat:ubi"
+    ],
+    [
+      "TRANSLATION",
+      "ind:kemana"
+    ],
+    [
+      "TRANSLATION",
+      "ces:kde"
+    ],
+    [
+      "TRANSLATION",
+      "fin:missä"
+    ],
+    [
+      "TRANSLATION",
+      "hun:hol"
+    ],
+    [
+      "TRANSLATION",
+      "hun:hová"
+    ],
+    [
+      "TRANSLATION",
+      "por:onde"
+    ],
+    [
+      "TRANSLATION",
+      "pol:gdzie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There is no trust where there is no democracy"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어디에",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

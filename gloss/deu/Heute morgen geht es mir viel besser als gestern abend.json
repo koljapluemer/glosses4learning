@@ -1,0 +1,59 @@
+{
+  "content": "Heute morgen geht es mir viel besser als gestern abend.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I feel pretty good this morning"
+    ],
+    [
+      "PART",
+      "deu:Heute"
+    ],
+    [
+      "PART",
+      "deu:morgen"
+    ],
+    [
+      "PART",
+      "deu:geht"
+    ],
+    [
+      "PART",
+      "deu:es"
+    ],
+    [
+      "PART",
+      "deu:mir"
+    ],
+    [
+      "PART",
+      "deu:viel"
+    ],
+    [
+      "PART",
+      "deu:besser"
+    ],
+    [
+      "PART",
+      "deu:als"
+    ],
+    [
+      "PART",
+      "deu:gestern"
+    ],
+    [
+      "PART",
+      "deu:abend"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:35.388896Z": "SPLIT_DONE"
+  }
+}

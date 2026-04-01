@@ -1,0 +1,43 @@
+{
+  "content": "Кейсі може розмовляти французькою та німецькою.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Cathy kann Französisch und Deutsch"
+    ],
+    [
+      "PART",
+      "ukr:Кейсі"
+    ],
+    [
+      "PART",
+      "ukr:може"
+    ],
+    [
+      "PART",
+      "ukr:розмовляти"
+    ],
+    [
+      "PART",
+      "ukr:французькою"
+    ],
+    [
+      "PART",
+      "ukr:та"
+    ],
+    [
+      "PART",
+      "ukr:німецькою"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:00:21.101009Z": "SPLIT_DONE"
+  }
+}

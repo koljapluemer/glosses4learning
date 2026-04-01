@@ -1,0 +1,47 @@
+{
+  "content": "Tom zei dat mijn plan niet zou werken.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by meshbags (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Tom"
+    ],
+    [
+      "PART",
+      "nld:zei"
+    ],
+    [
+      "PART",
+      "nld:dat"
+    ],
+    [
+      "PART",
+      "nld:mijn"
+    ],
+    [
+      "PART",
+      "nld:plan"
+    ],
+    [
+      "PART",
+      "nld:niet"
+    ],
+    [
+      "PART",
+      "nld:zou"
+    ],
+    [
+      "PART",
+      "nld:werken"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.024754Z": "SPLIT_DONE"
+  }
+}

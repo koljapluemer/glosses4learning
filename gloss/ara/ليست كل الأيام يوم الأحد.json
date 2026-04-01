@@ -1,0 +1,35 @@
+{
+  "content": "ليست كل الأيام يوم الأحد.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:ليست"
+    ],
+    [
+      "PART",
+      "ara:كل"
+    ],
+    [
+      "PART",
+      "ara:الأيام"
+    ],
+    [
+      "PART",
+      "ara:يوم"
+    ],
+    [
+      "PART",
+      "ara:الأحد"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.494525Z": "SPLIT_DONE"
+  }
+}

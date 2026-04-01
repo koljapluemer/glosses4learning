@@ -1,0 +1,31 @@
+{
+  "content": "Już wcześniej wykonałem zadanie.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Radek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Już"
+    ],
+    [
+      "PART",
+      "pol:wcześniej"
+    ],
+    [
+      "PART",
+      "pol:wykonałem"
+    ],
+    [
+      "PART",
+      "pol:zadanie"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.727452Z": "SPLIT_DONE"
+  }
+}

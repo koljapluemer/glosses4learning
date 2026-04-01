@@ -1,0 +1,29 @@
+{
+  "content": "tych",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Dzieci w tych czasach nie robią takich rzeczy"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jeden z tych ziemniaków na pewno był zgniły"
+    ],
+    [
+      "TRANSLATION",
+      "eng:those",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Te zwyczaje są inne od tych w naszym kraju"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:02:11.564119Z": "TRANSLATION_DONE:eng"
+  }
+}

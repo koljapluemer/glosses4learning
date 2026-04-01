@@ -1,0 +1,39 @@
+{
+  "content": "Я рад, что вы мне позвонили.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Я"
+    ],
+    [
+      "PART",
+      "rus:рад"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:вы"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:позвонили"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.354663Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tato otázka byla často vznešena.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tato"
+    ],
+    [
+      "PART",
+      "ces:otázka"
+    ],
+    [
+      "PART",
+      "ces:byla"
+    ],
+    [
+      "PART",
+      "ces:často"
+    ],
+    [
+      "PART",
+      "ces:vznešena"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.149782Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "Напомните",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Напомните мне, пожалуйста, чтобы я это завтра сделал"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Remind",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:11.413756Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -2,8 +2,12 @@
   "content": "few",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:04:25.532890Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -36,6 +40,27 @@
     [
       "TRANSLATION",
       "tok:Min"
+    ],
+    [
+      "TRANSLATION",
+      "hun:kevés"
+    ],
+    [
+      "TRANSLATION",
+      "hun:keveset"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are but a few men who don't know that"
+    ],
+    [
+      "TRANSLATION",
+      "kor:몇 개",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are few men but know that"
     ]
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "content": "Jestem zaskoczony twoim zachowaniem.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Siganiv (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jestem"
+    ],
+    [
+      "PART",
+      "pol:zaskoczony"
+    ],
+    [
+      "PART",
+      "pol:twoim"
+    ],
+    [
+      "PART",
+      "pol:zachowaniem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.740890Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "content": "syk",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg visste ikke at hun var syk"
+    ],
+    [
+      "TRANSLATION",
+      "eng:ill",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Maria er ikke virkelig syk, hun bare later som"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun er gammel og syk"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hvor lenge har hun vært syk﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:53.857707Z": "TRANSLATION_DONE:eng"
+  }
+}

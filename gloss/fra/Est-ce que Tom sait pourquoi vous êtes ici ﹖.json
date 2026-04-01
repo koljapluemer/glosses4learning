@@ -1,0 +1,47 @@
+{
+  "content": "Est-ce que Tom sait pourquoi vous êtes ici ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by nimfeo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Est-ce"
+    ],
+    [
+      "PART",
+      "fra:que"
+    ],
+    [
+      "PART",
+      "fra:Tom"
+    ],
+    [
+      "PART",
+      "fra:sait"
+    ],
+    [
+      "PART",
+      "fra:pourquoi"
+    ],
+    [
+      "PART",
+      "fra:vous"
+    ],
+    [
+      "PART",
+      "fra:êtes"
+    ],
+    [
+      "PART",
+      "fra:ici"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.638642Z": "SPLIT_DONE"
+  }
+}

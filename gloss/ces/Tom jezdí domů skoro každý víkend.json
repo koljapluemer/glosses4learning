@@ -1,0 +1,39 @@
+{
+  "content": "Tom jezdí domů skoro každý víkend.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:jezdí"
+    ],
+    [
+      "PART",
+      "ces:domů"
+    ],
+    [
+      "PART",
+      "ces:skoro"
+    ],
+    [
+      "PART",
+      "ces:každý"
+    ],
+    [
+      "PART",
+      "ces:víkend"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.101935Z": "SPLIT_DONE"
+  }
+}

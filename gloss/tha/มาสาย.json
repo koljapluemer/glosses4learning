@@ -1,0 +1,31 @@
+{
+  "content": "มาสาย",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:หล่อนคือจอมมาสาย"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ich bin zu spät",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอติเขาเรื่องการมาสาย"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I'm late",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:46.799000Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:31.982912Z": "TRANSLATION_DONE:eng"
+  }
+}

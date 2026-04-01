@@ -1,0 +1,51 @@
+{
+  "content": "Tom said that he paid $300 in advance.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що заплати 300 доларів авансом"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he"
+    ],
+    [
+      "PART",
+      "eng:paid"
+    ],
+    [
+      "PART",
+      "eng:300"
+    ],
+    [
+      "PART",
+      "eng:in"
+    ],
+    [
+      "PART",
+      "eng:advance"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:29.578419Z": "SPLIT_DONE"
+  }
+}

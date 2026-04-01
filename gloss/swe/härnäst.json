@@ -1,0 +1,29 @@
+{
+  "content": "härnäst",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Kan du vara snäll och visa mig vad som ska göras härnäst"
+    ],
+    [
+      "TRANSLATION",
+      "eng:next",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Ingen vet vad som kommer att hända härnäst"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom visste inte vad han skulle göra härnäst"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:44.768469Z": "TRANSLATION_DONE:eng"
+  }
+}

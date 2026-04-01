@@ -1,0 +1,39 @@
+{
+  "content": "Позвоните мне, пожалуйста, когда доделаете.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Please call me when you've finished that"
+    ],
+    [
+      "PART",
+      "rus:Позвоните"
+    ],
+    [
+      "PART",
+      "rus:мне"
+    ],
+    [
+      "PART",
+      "rus:пожалуйста"
+    ],
+    [
+      "PART",
+      "rus:когда"
+    ],
+    [
+      "PART",
+      "rus:доделаете"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:09.775205Z": "SPLIT_DONE"
+  }
+}

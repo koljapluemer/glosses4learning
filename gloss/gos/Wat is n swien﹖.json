@@ -1,0 +1,31 @@
+{
+  "content": "Wat is n swien?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Wat"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:swien"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.286828Z": "SPLIT_DONE"
+  }
+}

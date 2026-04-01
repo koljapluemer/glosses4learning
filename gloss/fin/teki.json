@@ -1,0 +1,33 @@
+{
+  "content": "teki",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Hän onnistui sen ansiosta, että hän teki kovasti töitä"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Kuinka monta tuntia Tom teki töitä eilen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:did",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Kuinka monta vuotta Tom teki töitä täällä﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:En tiedä miksi Tom teki tämän"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:08.969238Z": "TRANSLATION_DONE:eng"
+  }
+}

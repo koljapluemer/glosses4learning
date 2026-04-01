@@ -1,0 +1,39 @@
+{
+  "content": "Ella enseña inglés a los estudiantes.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Shishir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ella"
+    ],
+    [
+      "PART",
+      "spa:enseña"
+    ],
+    [
+      "PART",
+      "spa:inglés"
+    ],
+    [
+      "PART",
+      "spa:a"
+    ],
+    [
+      "PART",
+      "spa:los"
+    ],
+    [
+      "PART",
+      "spa:estudiantes"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.253805Z": "SPLIT_DONE"
+  }
+}

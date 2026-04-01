@@ -1,0 +1,21 @@
+{
+  "content": "fiender",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Tom säger att han inte har några fiender"
+    ],
+    [
+      "TRANSLATION",
+      "eng:enemies",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:09.359954Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "他让我离开房间。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zhouj1955 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:He let me leave the room"
+    ],
+    [
+      "PART",
+      "cmn:他"
+    ],
+    [
+      "PART",
+      "cmn:让"
+    ],
+    [
+      "PART",
+      "cmn:我"
+    ],
+    [
+      "PART",
+      "cmn:离开"
+    ],
+    [
+      "PART",
+      "cmn:房间"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:41:22.034349Z": "SPLIT_DONE"
+  }
+}

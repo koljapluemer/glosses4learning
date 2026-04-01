@@ -1,0 +1,35 @@
+{
+  "content": "Saya harus pergi memberitahukan mereka.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dbahasa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Saya"
+    ],
+    [
+      "PART",
+      "ind:harus"
+    ],
+    [
+      "PART",
+      "ind:pergi"
+    ],
+    [
+      "PART",
+      "ind:memberitahukan"
+    ],
+    [
+      "PART",
+      "ind:mereka"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.470618Z": "SPLIT_DONE"
+  }
+}

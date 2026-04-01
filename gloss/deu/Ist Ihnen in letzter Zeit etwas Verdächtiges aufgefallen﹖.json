@@ -1,0 +1,47 @@
+{
+  "content": "Ist Ihnen in letzter Zeit etwas Verdächtiges aufgefallen?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ist"
+    ],
+    [
+      "PART",
+      "deu:Ihnen"
+    ],
+    [
+      "PART",
+      "deu:in"
+    ],
+    [
+      "PART",
+      "deu:letzter"
+    ],
+    [
+      "PART",
+      "deu:Zeit"
+    ],
+    [
+      "PART",
+      "deu:etwas"
+    ],
+    [
+      "PART",
+      "deu:Verdächtiges"
+    ],
+    [
+      "PART",
+      "deu:aufgefallen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.824930Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "conocido",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hasta ahora nunca antes había conocido a ninguna Ophelia"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom le dijo a Mary que nunca había conocido a John"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:відомий",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Nunca antes hasta ahora había conocido a ninguna Ofelia"
+    ],
+    [
+      "TRANSLATION",
+      "deu:bekannt",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:26.107058Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:18.547972Z": "TRANSLATION_DONE:deu"
+  }
+}

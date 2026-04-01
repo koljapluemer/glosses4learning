@@ -1,0 +1,35 @@
+{
+  "content": "Autobusy jezdí každých třicet minut.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Autobusy"
+    ],
+    [
+      "PART",
+      "ces:jezdí"
+    ],
+    [
+      "PART",
+      "ces:každých"
+    ],
+    [
+      "PART",
+      "ces:třicet"
+    ],
+    [
+      "PART",
+      "ces:minut"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.191539Z": "SPLIT_DONE"
+  }
+}

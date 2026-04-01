@@ -1,0 +1,39 @@
+{
+  "content": "gebeten",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe euch nie darum gebeten, mir zu helfen"
+    ],
+    [
+      "TRANSLATION",
+      "kor:기도",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe Sie nie darum gebeten, mir zu helfen"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:молилися",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich habe dich nie darum gebeten, mir zu helfen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich wurde darum gebeten zu lügen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:53.549426Z": "TRANSLATION_DONE:kor",
+    "2026-04-01T09:01:38.240282Z": "TRANSLATION_DONE:ukr"
+  }
+}

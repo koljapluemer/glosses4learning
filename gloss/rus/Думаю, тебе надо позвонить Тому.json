@@ -1,0 +1,39 @@
+{
+  "content": "Думаю, тебе надо позвонить Тому.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by paul_lingvo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I think you need to call Tom"
+    ],
+    [
+      "PART",
+      "rus:Думаю"
+    ],
+    [
+      "PART",
+      "rus:тебе"
+    ],
+    [
+      "PART",
+      "rus:надо"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ],
+    [
+      "PART",
+      "rus:Тому"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:15.131415Z": "SPLIT_DONE"
+  }
+}

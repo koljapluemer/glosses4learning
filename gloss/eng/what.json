@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-04T11:48:28.435770Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-04T11:48:28.435770Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:36.656568Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -280,6 +282,91 @@
     [
       "TRANSLATION",
       "uig:نى"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:яка"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:яким"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:якими"
+    ],
+    [
+      "TRANSLATION",
+      "ces:jaký"
+    ],
+    [
+      "TRANSLATION",
+      "fin:mikä"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do not understand what they have to do"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom is going to give us what we need"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tell me what you have in hand"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We should have done what Tom suggested"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do not understand what to do"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We all believed in what he said"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:ma'i"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:mo"
+    ],
+    [
+      "TRANSLATION",
+      "por:quê"
+    ],
+    [
+      "TRANSLATION",
+      "por:qual"
+    ],
+    [
+      "TRANSLATION",
+      "epo:kio"
+    ],
+    [
+      "TRANSLATION",
+      "lat:quid"
+    ],
+    [
+      "TRANSLATION",
+      "pol:czym"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:On what authority are you making us go﹖"
+    ],
+    [
+      "TRANSLATION",
+      "kor:무엇﹖",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:You can only see what you like the most"
     ]
   ]
 }

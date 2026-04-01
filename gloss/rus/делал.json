@@ -9,6 +9,29 @@
     [
       "TRANSLATION",
       "fra:faisait"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Тому сказали, чтобы он никогда этого не делал"
+    ],
+    [
+      "TRANSLATION",
+      "eng:was doing",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Я никогда не говорил Тому, чтобы он это делал"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Тому сказали, чтобы он никогда так не делал"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-04-01T08:26:08.329673Z": "TRANSLATION_DONE:eng"
+  }
 }

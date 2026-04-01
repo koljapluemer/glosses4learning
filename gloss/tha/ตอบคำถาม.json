@@ -2,7 +2,8 @@
   "content": "ตอบคำถาม",
   "language": "tha",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:tatoeba-sentence"
   ],
   "relationships": [
     [
@@ -30,6 +31,10 @@
   ],
   "logs": {
     "2026-03-31T12:54:12.673411Z": "TRANSLATION_DONE:eng",
-    "2026-03-31T12:54:12.700312Z": "TRANSLATION_DONE:deu"
-  }
+    "2026-03-31T12:54:12.700312Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:18.564101Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ]
 }

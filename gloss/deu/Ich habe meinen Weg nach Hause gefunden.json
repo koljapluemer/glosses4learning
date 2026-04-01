@@ -1,0 +1,47 @@
+{
+  "content": "Ich habe meinen Weg nach Hause gefunden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I found my way home"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Weg"
+    ],
+    [
+      "PART",
+      "deu:nach"
+    ],
+    [
+      "PART",
+      "deu:Hause"
+    ],
+    [
+      "PART",
+      "deu:gefunden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:40.240797Z": "SPLIT_DONE"
+  }
+}

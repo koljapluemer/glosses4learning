@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:50:17.298Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:50:17.298Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:30.172419Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -140,6 +142,59 @@
     [
       "TRANSLATION",
       "gos:was"
+    ],
+    [
+      "TRANSLATION",
+      "spa:fueron"
+    ],
+    [
+      "TRANSLATION",
+      "spa:estuvieran"
+    ],
+    [
+      "TRANSLATION",
+      "swe:fanns"
+    ],
+    [
+      "TRANSLATION",
+      "ces:byli"
+    ],
+    [
+      "TRANSLATION",
+      "fin:olleet"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:If it were not for water, no creature could live"
+    ],
+    [
+      "TRANSLATION",
+      "lat:erant"
+    ],
+    [
+      "TRANSLATION",
+      "nld:waren"
+    ],
+    [
+      "TRANSLATION",
+      "pol:byli"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were deep feelings between the two"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~ 였다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:A person named West called while you were out"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were two pieces of cake"
     ]
   ]
 }

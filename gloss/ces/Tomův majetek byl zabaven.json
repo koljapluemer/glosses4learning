@@ -1,0 +1,31 @@
+{
+  "content": "Tomův majetek byl zabaven.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tomův"
+    ],
+    [
+      "PART",
+      "ces:majetek"
+    ],
+    [
+      "PART",
+      "ces:byl"
+    ],
+    [
+      "PART",
+      "ces:zabaven"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.145806Z": "SPLIT_DONE"
+  }
+}

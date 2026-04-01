@@ -1,0 +1,47 @@
+{
+  "content": "Tom said that he'll do that for Mary.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав, що зробить це для Мері"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:said"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:he'll"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ],
+    [
+      "PART",
+      "eng:for"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:31.734336Z": "SPLIT_DONE"
+  }
+}

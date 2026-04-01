@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe langsam genug von Ihren Beschwerden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:langsam"
+    ],
+    [
+      "PART",
+      "deu:genug"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:Ihren"
+    ],
+    [
+      "PART",
+      "deu:Beschwerden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.832123Z": "SPLIT_DONE"
+  }
+}

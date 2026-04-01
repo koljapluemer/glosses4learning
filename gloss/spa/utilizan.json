@@ -1,0 +1,21 @@
+{
+  "content": "utilizan",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Me gustan las personas que utilizan el lenguaje maravillosamente"
+    ],
+    [
+      "TRANSLATION",
+      "eng:they use",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:16.942186Z": "TRANSLATION_DONE:eng"
+  }
+}

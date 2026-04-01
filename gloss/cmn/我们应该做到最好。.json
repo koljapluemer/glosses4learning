@@ -1,0 +1,35 @@
+{
+  "content": "我们应该做到最好。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fucongcong (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:应该"
+    ],
+    [
+      "PART",
+      "cmn:做到"
+    ],
+    [
+      "PART",
+      "cmn:最好"
+    ],
+    [
+      "PART",
+      "cmn:。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:27.183811Z": "SPLIT_DONE"
+  }
+}

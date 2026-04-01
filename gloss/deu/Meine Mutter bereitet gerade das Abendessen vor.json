@@ -1,0 +1,43 @@
+{
+  "content": "Meine Mutter bereitet gerade das Abendessen vor.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kolonjano (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Meine"
+    ],
+    [
+      "PART",
+      "deu:Mutter"
+    ],
+    [
+      "PART",
+      "deu:bereitet"
+    ],
+    [
+      "PART",
+      "deu:gerade"
+    ],
+    [
+      "PART",
+      "deu:das"
+    ],
+    [
+      "PART",
+      "deu:Abendessen"
+    ],
+    [
+      "PART",
+      "deu:vor"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.906789Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Jeg liker virkelig ikke og tape.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Lehon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:liker"
+    ],
+    [
+      "PART",
+      "nob:virkelig"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:og"
+    ],
+    [
+      "PART",
+      "nob:tape"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.832187Z": "SPLIT_DONE"
+  }
+}

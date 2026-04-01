@@ -1,0 +1,39 @@
+{
+  "content": "Wat zou je zonder mij aanmoeten?",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Citrine (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Wat"
+    ],
+    [
+      "PART",
+      "nld:zou"
+    ],
+    [
+      "PART",
+      "nld:je"
+    ],
+    [
+      "PART",
+      "nld:zonder"
+    ],
+    [
+      "PART",
+      "nld:mij"
+    ],
+    [
+      "PART",
+      "nld:aanmoeten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.102899Z": "SPLIT_DONE"
+  }
+}

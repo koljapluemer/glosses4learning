@@ -1,0 +1,25 @@
+{
+  "content": "työtä",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fin:Mä rakastan mun uutta työtä"
+    ],
+    [
+      "TRANSLATION",
+      "eng:work",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fin:Jatkakaa työtä myös sillä välin kun en ole paikalla"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:40.494162Z": "TRANSLATION_DONE:eng"
+  }
+}

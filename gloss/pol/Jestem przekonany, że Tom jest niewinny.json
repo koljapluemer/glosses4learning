@@ -1,0 +1,39 @@
+{
+  "content": "Jestem przekonany, że Tom jest niewinny.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Katubeltza (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Jestem"
+    ],
+    [
+      "PART",
+      "pol:przekonany"
+    ],
+    [
+      "PART",
+      "pol:że"
+    ],
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:jest"
+    ],
+    [
+      "PART",
+      "pol:niewinny"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.714214Z": "SPLIT_DONE"
+  }
+}

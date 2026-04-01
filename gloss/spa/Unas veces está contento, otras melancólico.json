@@ -1,0 +1,39 @@
+{
+  "content": "Unas veces está contento, otras melancólico.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ssc73 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Unas"
+    ],
+    [
+      "PART",
+      "spa:veces"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:contento"
+    ],
+    [
+      "PART",
+      "spa:otras"
+    ],
+    [
+      "PART",
+      "spa:melancólico"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.224449Z": "SPLIT_DONE"
+  }
+}

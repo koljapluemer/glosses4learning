@@ -1,0 +1,47 @@
+{
+  "content": "Tom säger att ni är bra på tennis.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:säger"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:ni"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:bra"
+    ],
+    [
+      "PART",
+      "swe:på"
+    ],
+    [
+      "PART",
+      "swe:tennis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.105100Z": "SPLIT_DONE"
+  }
+}

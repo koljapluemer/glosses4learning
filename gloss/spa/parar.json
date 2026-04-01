@@ -1,0 +1,31 @@
+{
+  "content": "parar",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ellos hablaron sin parar hasta después de medianoche"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to stop",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tienes que parar de hacer eso"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:зупинитись",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:53.029455Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:32.624003Z": "TRANSLATION_DONE:ukr"
+  }
+}

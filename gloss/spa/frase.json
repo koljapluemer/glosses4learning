@@ -1,0 +1,21 @@
+{
+  "content": "frase",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Cuál es tu frase favorita de esa película﹖"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:фраза",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:26.955788Z": "TRANSLATION_DONE:ukr"
+  }
+}

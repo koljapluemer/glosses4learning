@@ -2,8 +2,12 @@
   "content": "schöner",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T09:01:36.742256Z": "TRANSLATION_DONE:ukr"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -16,6 +20,15 @@
     [
       "NOTE",
       "eng:The comparative form, meaning 'more beautiful'"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:O sieh nur, Diana! Was für ein schöner Regenbogen!"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:чудовий",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "content": "椅子",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:彼は二つの椅子の間に座っている。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Chair",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:45:01.933123Z": "TRANSLATION_DONE:eng"
+  }
+}

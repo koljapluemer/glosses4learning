@@ -1,0 +1,33 @@
+{
+  "content": "naučil",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tom se vloni naučil francouzsky"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Tohle jsem se naučil ve vězení"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Něco jsem se od Toma naučil"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ces:Kde jste se naučil tak dobře česky﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:learned",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:46.722676Z": "TRANSLATION_DONE:eng"
+  }
+}

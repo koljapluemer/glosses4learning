@@ -1,0 +1,35 @@
+{
+  "content": "Han kom sent på kvelden.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Han"
+    ],
+    [
+      "PART",
+      "nob:kom"
+    ],
+    [
+      "PART",
+      "nob:sent"
+    ],
+    [
+      "PART",
+      "nob:på"
+    ],
+    [
+      "PART",
+      "nob:kvelden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.796063Z": "SPLIT_DONE"
+  }
+}

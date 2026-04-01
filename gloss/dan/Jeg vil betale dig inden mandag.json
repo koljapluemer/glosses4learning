@@ -1,0 +1,39 @@
+{
+  "content": "Jeg vil betale dig inden mandag.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sifhg (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Jeg"
+    ],
+    [
+      "PART",
+      "dan:vil"
+    ],
+    [
+      "PART",
+      "dan:betale"
+    ],
+    [
+      "PART",
+      "dan:dig"
+    ],
+    [
+      "PART",
+      "dan:inden"
+    ],
+    [
+      "PART",
+      "dan:mandag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.267733Z": "SPLIT_DONE"
+  }
+}

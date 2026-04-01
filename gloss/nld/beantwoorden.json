@@ -1,0 +1,25 @@
+{
+  "content": "beantwoorden",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik kan die vraag nu niet beantwoorden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:respond",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik kan niet al jouw vragen beantwoorden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:12.395428Z": "TRANSLATION_DONE:eng"
+  }
+}

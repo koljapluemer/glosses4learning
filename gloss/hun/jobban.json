@@ -1,0 +1,29 @@
+{
+  "content": "jobban",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "hun:Ma egy kicsit jobban nézel ki"
+    ],
+    [
+      "TRANSLATION",
+      "eng:better",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Valószínűleg jobban tudok franciául, mint Tom"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "hun:Tom azt mondja, most már sokkal jobban érzi magát"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:56.894135Z": "TRANSLATION_DONE:eng"
+  }
+}

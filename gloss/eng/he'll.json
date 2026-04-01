@@ -1,0 +1,25 @@
+{
+  "content": "he'll",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he'll never do that"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:він",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he'll do that for Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:31.526197Z": "TRANSLATION_DONE:ukr"
+  }
+}

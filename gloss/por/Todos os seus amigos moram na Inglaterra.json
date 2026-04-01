@@ -1,0 +1,43 @@
+{
+  "content": "Todos os seus amigos moram na Inglaterra.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Todos"
+    ],
+    [
+      "PART",
+      "por:os"
+    ],
+    [
+      "PART",
+      "por:seus"
+    ],
+    [
+      "PART",
+      "por:amigos"
+    ],
+    [
+      "PART",
+      "por:moram"
+    ],
+    [
+      "PART",
+      "por:na"
+    ],
+    [
+      "PART",
+      "por:Inglaterra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:37.012740Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "eres",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:No eres lo suficientemente mayor para beber"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Desde ahora eres una de las nuestras"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ти є",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tú eres demasiado suspicaz con todo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo soy tu rey y tú eres mi reina"
+    ],
+    [
+      "TRANSLATION",
+      "deu:du bist",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:No puedes entrar porque eres menor de edad"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Si alguien puede hacerlo, eres tú"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hacer nuevos amigos es fácil cuando eres joven"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:26.514601Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:04.001522Z": "TRANSLATION_DONE:deu"
+  }
+}

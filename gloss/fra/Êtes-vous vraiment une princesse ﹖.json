@@ -1,0 +1,31 @@
+{
+  "content": "Êtes-vous vraiment une princesse ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Êtes-vous"
+    ],
+    [
+      "PART",
+      "fra:vraiment"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:princesse"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.705812Z": "SPLIT_DONE"
+  }
+}

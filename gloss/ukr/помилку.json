@@ -1,0 +1,25 @@
+{
+  "content": "помилку",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вона звинуватила мене в тому, що я зробила помилку"
+    ],
+    [
+      "TRANSLATION",
+      "eng:error",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Вона звинуватила мене в тому, що я зробив помилку"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:15.385435Z": "TRANSLATION_DONE:eng"
+  }
+}

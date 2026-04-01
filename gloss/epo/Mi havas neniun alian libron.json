@@ -1,0 +1,35 @@
+{
+  "content": "Mi havas neniun alian libron.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:havas"
+    ],
+    [
+      "PART",
+      "epo:neniun"
+    ],
+    [
+      "PART",
+      "epo:alian"
+    ],
+    [
+      "PART",
+      "epo:libron"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.367934Z": "SPLIT_DONE"
+  }
+}

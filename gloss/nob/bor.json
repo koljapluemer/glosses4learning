@@ -1,0 +1,29 @@
+{
+  "content": "bor",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun bor alene i en leilighet"
+    ],
+    [
+      "TRANSLATION",
+      "eng:live",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Ligger skolen din langt fra der du bor﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Hun bor like i nærheten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:35.484278Z": "TRANSLATION_DONE:eng"
+  }
+}

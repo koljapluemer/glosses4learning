@@ -1,0 +1,31 @@
+{
+  "content": "Navidad",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los niños normalmente se despiertan temprano en Navidad"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Christmas",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tom pasó la Navidad en Boston con Mary"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Різдво",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:16.355418Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:33.085631Z": "TRANSLATION_DONE:ukr"
+  }
+}

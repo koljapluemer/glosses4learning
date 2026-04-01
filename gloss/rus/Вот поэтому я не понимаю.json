@@ -1,0 +1,35 @@
+{
+  "content": "Вот поэтому я не понимаю.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Olya (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Вот"
+    ],
+    [
+      "PART",
+      "rus:поэтому"
+    ],
+    [
+      "PART",
+      "rus:я"
+    ],
+    [
+      "PART",
+      "rus:не"
+    ],
+    [
+      "PART",
+      "rus:понимаю"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.317790Z": "SPLIT_DONE"
+  }
+}

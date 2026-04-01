@@ -1,0 +1,43 @@
+{
+  "content": "זה משפט ארוך בצורה בלתי רגילה.",
+  "language": "heb",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This is an unusually long sentence"
+    ],
+    [
+      "PART",
+      "heb:זה"
+    ],
+    [
+      "PART",
+      "heb:משפט"
+    ],
+    [
+      "PART",
+      "heb:ארוך"
+    ],
+    [
+      "PART",
+      "heb:בצורה"
+    ],
+    [
+      "PART",
+      "heb:בלתי"
+    ],
+    [
+      "PART",
+      "heb:רגילה"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:32:28.859936Z": "SPLIT_DONE"
+  }
+}

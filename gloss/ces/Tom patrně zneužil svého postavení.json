@@ -1,0 +1,35 @@
+{
+  "content": "Tom patrně zneužil svého postavení.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:patrně"
+    ],
+    [
+      "PART",
+      "ces:zneužil"
+    ],
+    [
+      "PART",
+      "ces:svého"
+    ],
+    [
+      "PART",
+      "ces:postavení"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.126736Z": "SPLIT_DONE"
+  }
+}

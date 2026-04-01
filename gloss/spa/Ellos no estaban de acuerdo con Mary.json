@@ -1,0 +1,43 @@
+{
+  "content": "Ellos no estaban de acuerdo con Mary.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:no"
+    ],
+    [
+      "PART",
+      "spa:estaban"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:acuerdo"
+    ],
+    [
+      "PART",
+      "spa:con"
+    ],
+    [
+      "PART",
+      "spa:Mary"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.159143Z": "SPLIT_DONE"
+  }
+}

@@ -2,9 +2,12 @@
   "content": "be",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:14.948425Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -181,6 +184,39 @@
     [
       "TRANSLATION",
       "lat:sis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I hope that it will be a warm summer"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he'd be back in October"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:An expression of gratitude can be clearly seen on his face"
+    ],
+    [
+      "TRANSLATION",
+      "kor:존재하다",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would it be OK if I turned off the lights﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Would you like to be my boyfriend﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There might be life on Jupiter's moons"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:How long will you be in Korea﹖"
     ]
   ]
 }

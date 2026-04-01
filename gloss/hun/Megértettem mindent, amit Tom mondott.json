@@ -1,0 +1,35 @@
+{
+  "content": "Megértettem mindent, amit Tom mondott.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by kiseva33 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Megértettem"
+    ],
+    [
+      "PART",
+      "hun:mindent"
+    ],
+    [
+      "PART",
+      "hun:amit"
+    ],
+    [
+      "PART",
+      "hun:Tom"
+    ],
+    [
+      "PART",
+      "hun:mondott"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.480318Z": "SPLIT_DONE"
+  }
+}

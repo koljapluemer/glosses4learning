@@ -1,0 +1,35 @@
+{
+  "content": "Ellos están escribiendo algunas cartas.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by hayastan (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Ellos"
+    ],
+    [
+      "PART",
+      "spa:están"
+    ],
+    [
+      "PART",
+      "spa:escribiendo"
+    ],
+    [
+      "PART",
+      "spa:algunas"
+    ],
+    [
+      "PART",
+      "spa:cartas"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.155514Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom wird heute Abend dort sein.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by wolfgangth (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:톰은 오늘밤 거기 있을 거야"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:wird"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:Abend"
+    ],
+    [
+      "PART",
+      "deu:dort"
+    ],
+    [
+      "PART",
+      "deu:sein"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:04.073253Z": "SPLIT_DONE"
+  }
+}

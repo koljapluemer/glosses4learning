@@ -1,0 +1,29 @@
+{
+  "content": "kata",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Pada akhirnya, kami mencapai kata sepakat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Berapa kata bahasa Prancis yang kamu ketahui﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:word",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Dia menulis sebuah buku tentang kata kerja bahasa Rusia"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:09.615471Z": "TRANSLATION_DONE:eng"
+  }
+}

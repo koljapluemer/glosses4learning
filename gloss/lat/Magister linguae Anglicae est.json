@@ -1,0 +1,31 @@
+{
+  "content": "Magister linguae Anglicae est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Magister"
+    ],
+    [
+      "PART",
+      "lat:linguae"
+    ],
+    [
+      "PART",
+      "lat:Anglicae"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.654827Z": "SPLIT_DONE"
+  }
+}

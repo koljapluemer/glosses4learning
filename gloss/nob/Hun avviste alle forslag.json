@@ -1,0 +1,35 @@
+{
+  "content": "Hun avviste alle forslag.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She turned down every proposal"
+    ],
+    [
+      "PART",
+      "nob:Hun"
+    ],
+    [
+      "PART",
+      "nob:avviste"
+    ],
+    [
+      "PART",
+      "nob:alle"
+    ],
+    [
+      "PART",
+      "nob:forslag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:54.228046Z": "SPLIT_DONE"
+  }
+}

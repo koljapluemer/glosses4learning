@@ -1,0 +1,29 @@
+{
+  "content": "maritus",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomas maritus tertius filiae meae est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Et maritus et uxor potionem Sinensem bibunt"
+    ],
+    [
+      "TRANSLATION",
+      "eng:husband",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Vir maritus sum et duo liberi sunt mihi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:58.821869Z": "TRANSLATION_DONE:eng"
+  }
+}

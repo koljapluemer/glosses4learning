@@ -1,0 +1,39 @@
+{
+  "content": "Tom powiedział Mary, aby była cicho.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jezykiija (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ],
+    [
+      "PART",
+      "pol:Mary"
+    ],
+    [
+      "PART",
+      "pol:aby"
+    ],
+    [
+      "PART",
+      "pol:była"
+    ],
+    [
+      "PART",
+      "pol:cicho"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.797785Z": "SPLIT_DONE"
+  }
+}

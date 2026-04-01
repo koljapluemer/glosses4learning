@@ -1,0 +1,33 @@
+{
+  "content": "vraag",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik kan die vraag nu niet beantwoorden"
+    ],
+    [
+      "TRANSLATION",
+      "eng:question",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik vraag me af wie deze brief heeft geschreven"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik vraag me af wie me die rozen gestuurd heeft"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik geef geen antwoord op die vraag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:12.241298Z": "TRANSLATION_DONE:eng"
+  }
+}

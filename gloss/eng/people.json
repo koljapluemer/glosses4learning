@@ -2,12 +2,15 @@
   "content": "people",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:20.007013Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -168,6 +171,27 @@
     [
       "TRANSLATION",
       "lat:homines"
+    ],
+    [
+      "TRANSLATION",
+      "nob:folk"
+    ],
+    [
+      "TRANSLATION",
+      "pol:osób"
+    ],
+    [
+      "TRANSLATION",
+      "pol:ludzi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are people who think like this"
+    ],
+    [
+      "TRANSLATION",
+      "kor:사람들",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

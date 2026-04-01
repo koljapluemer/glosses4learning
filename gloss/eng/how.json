@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-19T10:07:50.478Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-19T10:07:50.478Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:43.247626Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -124,6 +126,39 @@
     [
       "TRANSLATION",
       "lat:quomodo"
+    ],
+    [
+      "TRANSLATION",
+      "cmn:怎么"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:mo"
+    ],
+    [
+      "TRANSLATION",
+      "bul:как"
+    ],
+    [
+      "TRANSLATION",
+      "nld:hoe"
+    ],
+    [
+      "TRANSLATION",
+      "pol:jak"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It doesn't matter how old you get, you can learn"
+    ],
+    [
+      "TRANSLATION",
+      "kor:어떻게",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:That isn't how things are done here"
     ]
   ]
 }

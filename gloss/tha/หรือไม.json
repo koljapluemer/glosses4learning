@@ -1,0 +1,35 @@
+{
+  "content": "หรือไม",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:เธอชอบส้มหรือไม่﹖"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Oder vielleicht",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:คุณกดปุ่มหรือไม่﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอมต้องไปตอนนี้หรือไม่﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Or, alternatively",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:35.324261Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:30.579889Z": "TRANSLATION_DONE:eng"
+  }
+}

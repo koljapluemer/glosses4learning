@@ -1,0 +1,31 @@
+{
+  "content": "Sono grandi come Tom.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Sono"
+    ],
+    [
+      "PART",
+      "ita:grandi"
+    ],
+    [
+      "PART",
+      "ita:come"
+    ],
+    [
+      "PART",
+      "ita:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:00.939379Z": "SPLIT_DONE"
+  }
+}

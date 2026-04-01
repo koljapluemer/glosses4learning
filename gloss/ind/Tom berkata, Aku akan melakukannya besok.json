@@ -1,0 +1,39 @@
+{
+  "content": "Tom berkata, \"Aku akan melakukannya besok.\"",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pacific (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:berkata"
+    ],
+    [
+      "PART",
+      "ind:Aku"
+    ],
+    [
+      "PART",
+      "ind:akan"
+    ],
+    [
+      "PART",
+      "ind:melakukannya"
+    ],
+    [
+      "PART",
+      "ind:besok"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.476823Z": "SPLIT_DONE"
+  }
+}

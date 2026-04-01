@@ -1,0 +1,29 @@
+{
+  "content": "camisa",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Tu colorida camisa verdaderamente destaca"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esa camisa se te ve bien"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:футболка",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esa camisa te queda bien"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:12.063844Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom benimle her zaman Fransızca konuşur.",
+  "language": "tur",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tur:Tom"
+    ],
+    [
+      "PART",
+      "tur:benimle"
+    ],
+    [
+      "PART",
+      "tur:her"
+    ],
+    [
+      "PART",
+      "tur:zaman"
+    ],
+    [
+      "PART",
+      "tur:Fransızca"
+    ],
+    [
+      "PART",
+      "tur:konuşur"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:41:43.895827Z": "SPLIT_DONE"
+  }
+}

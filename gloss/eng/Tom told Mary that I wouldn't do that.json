@@ -1,0 +1,47 @@
+{
+  "content": "Tom told Mary that I wouldn't do that.",
+  "language": "eng",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Том сказав Мері, що я цього не робитиму"
+    ],
+    [
+      "PART",
+      "eng:Tom"
+    ],
+    [
+      "PART",
+      "eng:told"
+    ],
+    [
+      "PART",
+      "eng:Mary"
+    ],
+    [
+      "PART",
+      "eng:that"
+    ],
+    [
+      "PART",
+      "eng:I"
+    ],
+    [
+      "PART",
+      "eng:wouldn't"
+    ],
+    [
+      "PART",
+      "eng:do"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:35:32.140410Z": "SPLIT_DONE"
+  }
+}

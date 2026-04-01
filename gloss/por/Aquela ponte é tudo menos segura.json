@@ -1,0 +1,39 @@
+{
+  "content": "Aquela ponte é tudo menos segura.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by brauliobezerra (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Aquela"
+    ],
+    [
+      "PART",
+      "por:ponte"
+    ],
+    [
+      "PART",
+      "por:é"
+    ],
+    [
+      "PART",
+      "por:tudo"
+    ],
+    [
+      "PART",
+      "por:menos"
+    ],
+    [
+      "PART",
+      "por:segura"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.929149Z": "SPLIT_DONE"
+  }
+}

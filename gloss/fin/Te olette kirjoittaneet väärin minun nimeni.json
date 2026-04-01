@@ -1,0 +1,39 @@
+{
+  "content": "Te olette kirjoittaneet väärin minun nimeni.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Thanuir (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Te"
+    ],
+    [
+      "PART",
+      "fin:olette"
+    ],
+    [
+      "PART",
+      "fin:kirjoittaneet"
+    ],
+    [
+      "PART",
+      "fin:väärin"
+    ],
+    [
+      "PART",
+      "fin:minun"
+    ],
+    [
+      "PART",
+      "fin:nimeni"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.779664Z": "SPLIT_DONE"
+  }
+}

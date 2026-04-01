@@ -1,0 +1,29 @@
+{
+  "content": "dicere",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Sententiam meam dicere non audeo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Aliquid nobis non licet tibi dicere"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Noli id mihi dicere quod scio"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to say",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:32.553920Z": "TRANSLATION_DONE:eng"
+  }
+}

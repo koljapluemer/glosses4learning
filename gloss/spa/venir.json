@@ -1,0 +1,43 @@
+{
+  "content": "venir",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:¿Puedes venir el domingo por la noche﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Así que has decidido venir después de todo"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:прийти",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Él no puede venir porque está enfermo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:El deber debería venir antes que cualquier otra cosa"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Haz el favor de venir a mi oficina"
+    ],
+    [
+      "TRANSLATION",
+      "deu:kommen",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:07.898997Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:21.714484Z": "TRANSLATION_DONE:deu"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "proyectos",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los proyectos dañinos para el medio ambiente deberían ser sistemáticamente abandonados"
+    ],
+    [
+      "TRANSLATION",
+      "eng:projects",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:59.042925Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Tamás majdnem minden hétvégén hazajár.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Tamás"
+    ],
+    [
+      "PART",
+      "hun:majdnem"
+    ],
+    [
+      "PART",
+      "hun:minden"
+    ],
+    [
+      "PART",
+      "hun:hétvégén"
+    ],
+    [
+      "PART",
+      "hun:hazajár"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.493626Z": "SPLIT_DONE"
+  }
+}

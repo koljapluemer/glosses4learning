@@ -1,0 +1,39 @@
+{
+  "content": "Multas Thomas ad Mariam misit litteras.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Multas"
+    ],
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:ad"
+    ],
+    [
+      "PART",
+      "lat:Mariam"
+    ],
+    [
+      "PART",
+      "lat:misit"
+    ],
+    [
+      "PART",
+      "lat:litteras"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.648716Z": "SPLIT_DONE"
+  }
+}

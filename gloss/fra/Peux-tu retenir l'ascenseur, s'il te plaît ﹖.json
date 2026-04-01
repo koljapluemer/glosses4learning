@@ -1,0 +1,39 @@
+{
+  "content": "Peux-tu retenir l'ascenseur, s'il te plaît ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Toynop (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Peux-tu"
+    ],
+    [
+      "PART",
+      "fra:retenir"
+    ],
+    [
+      "PART",
+      "fra:l'ascenseur"
+    ],
+    [
+      "PART",
+      "fra:s'il"
+    ],
+    [
+      "PART",
+      "fra:te"
+    ],
+    [
+      "PART",
+      "fra:plaît"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.541472Z": "SPLIT_DONE"
+  }
+}

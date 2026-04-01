@@ -1,0 +1,43 @@
+{
+  "content": "Tom har startet å skrive en roman.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sotolf (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:startet"
+    ],
+    [
+      "PART",
+      "nob:å"
+    ],
+    [
+      "PART",
+      "nob:skrive"
+    ],
+    [
+      "PART",
+      "nob:en"
+    ],
+    [
+      "PART",
+      "nob:roman"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.818622Z": "SPLIT_DONE"
+  }
+}

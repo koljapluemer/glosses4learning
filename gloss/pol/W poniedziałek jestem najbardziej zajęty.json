@@ -1,0 +1,35 @@
+{
+  "content": "W poniedziałek jestem najbardziej zajęty.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by zipangu (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:W"
+    ],
+    [
+      "PART",
+      "pol:poniedziałek"
+    ],
+    [
+      "PART",
+      "pol:jestem"
+    ],
+    [
+      "PART",
+      "pol:najbardziej"
+    ],
+    [
+      "PART",
+      "pol:zajęty"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.794078Z": "SPLIT_DONE"
+  }
+}

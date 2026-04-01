@@ -1,0 +1,31 @@
+{
+  "content": "valen",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo tus contundentes comentarios valen la pena de ser leídos"
+    ],
+    [
+      "TRANSLATION",
+      "eng:are valid",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Pero pocos de esos valen la pena leerse"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:вален",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:21.844538Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:13.867198Z": "TRANSLATION_DONE:ukr"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Det spelar ingen roll vad hon sa.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Det"
+    ],
+    [
+      "PART",
+      "swe:spelar"
+    ],
+    [
+      "PART",
+      "swe:ingen"
+    ],
+    [
+      "PART",
+      "swe:roll"
+    ],
+    [
+      "PART",
+      "swe:vad"
+    ],
+    [
+      "PART",
+      "swe:hon"
+    ],
+    [
+      "PART",
+      "swe:sa"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.083302Z": "SPLIT_DONE"
+  }
+}

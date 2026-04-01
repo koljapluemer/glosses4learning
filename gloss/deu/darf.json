@@ -2,8 +2,12 @@
   "content": "darf",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:49:04.851611Z": "TRANSLATION_DONE:kor"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -16,6 +20,27 @@
     [
       "NOTE",
       "eng:can in the sense of 'to be allowed to' or 'may'"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Ich darf mich von niemandem aufhalten lassen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Man darf nicht alles durcheinanderbringen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Jeder darf seine eigene Meinung haben"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Niemand darf dorthin gehen"
+    ],
+    [
+      "TRANSLATION",
+      "kor:허용되",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

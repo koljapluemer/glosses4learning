@@ -2,12 +2,15 @@
   "content": "hundred",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:53.546248Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +23,15 @@
     [
       "TRANSLATION",
       "ita:centinaio"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are a hundred"
+    ],
+    [
+      "TRANSLATION",
+      "kor:백",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

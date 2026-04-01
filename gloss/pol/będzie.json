@@ -5,7 +5,9 @@
   "logs": {
     "2025-12-16T14:17:43.686Z": "SPLIT_CONSIDERED_UNNECESSARY"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -31,6 +33,26 @@
     [
       "TRANSLATION",
       "eng:there will be"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jestem pewna, że z Tomem wszystko będzie w porządku"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Woda będzie wrzeć, jeżeli zostanie odpowiednio podgrzana"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Wkrótce będzie za ciemno, aby cokolwiek zobaczyć"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Lepiej będzie, jeśli pójdzie pan z nami"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:On nie będzie więcej mieszkał w tym apartamencie"
     ]
   ]
 }

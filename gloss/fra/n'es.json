@@ -1,0 +1,31 @@
+{
+  "content": "n'es",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "fra:Mais non ! Tu n'es pas si vieille que ça !"
+    ],
+    [
+      "TRANSLATION",
+      "eng:I don't",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "fra:Je parie que tu n'es pas capable de faire dix pompes"
+    ],
+    [
+      "TRANSLATION",
+      "deu:nicht",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:28:27.007166Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:29:06.113937Z": "TRANSLATION_DONE:deu"
+  }
+}

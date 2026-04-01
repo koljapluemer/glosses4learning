@@ -1,0 +1,29 @@
+{
+  "content": "verbis",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Thomae meis verbis salutem adscribe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec sententia constat ex verbis sex"
+    ],
+    [
+      "TRANSLATION",
+      "eng:from words",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec sententia e septem verbis constat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:09.811985Z": "TRANSLATION_DONE:eng"
+  }
+}

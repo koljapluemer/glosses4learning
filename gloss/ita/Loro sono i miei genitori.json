@@ -1,0 +1,35 @@
+{
+  "content": "Loro sono i miei genitori.",
+  "language": "ita",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ita:Loro"
+    ],
+    [
+      "PART",
+      "ita:sono"
+    ],
+    [
+      "PART",
+      "ita:i"
+    ],
+    [
+      "PART",
+      "ita:miei"
+    ],
+    [
+      "PART",
+      "ita:genitori"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:01.004008Z": "SPLIT_DONE"
+  }
+}

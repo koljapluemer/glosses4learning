@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-12T13:52:07.921148Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-12T13:52:07.921148Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:14.400729Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -260,6 +262,63 @@
     [
       "TRANSLATION",
       "kab:seg"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your chances of finding a phone booth in this area are next to none"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Do any of you want a cookie﹖"
+    ],
+    [
+      "TRANSLATION",
+      "epo:da"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:An expression of gratitude can be clearly seen on his face"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~에 대하여",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The three of us are on one team"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She is the mother of my children"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:All of his family members are tall"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I couldn't sleep because of his snoring"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Reading is one of my hobbies"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There were two pieces of cake"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:One of the eagle's wings is broken"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:All of the goldfish are dead"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Today is our last day of vacation"
     ]
   ]
 }

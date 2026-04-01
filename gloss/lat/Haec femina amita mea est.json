@@ -1,0 +1,39 @@
+{
+  "content": "Haec femina amita mea est.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This woman is my aunt"
+    ],
+    [
+      "PART",
+      "lat:Haec"
+    ],
+    [
+      "PART",
+      "lat:femina"
+    ],
+    [
+      "PART",
+      "lat:amita"
+    ],
+    [
+      "PART",
+      "lat:mea"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:16.100495Z": "SPLIT_DONE"
+  }
+}

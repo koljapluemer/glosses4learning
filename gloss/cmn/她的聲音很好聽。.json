@@ -1,0 +1,43 @@
+{
+  "content": "她的聲音很好聽。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by xjjAstrus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Her voice is very pretty"
+    ],
+    [
+      "PART",
+      "cmn:她"
+    ],
+    [
+      "PART",
+      "cmn:的"
+    ],
+    [
+      "PART",
+      "cmn:聲音"
+    ],
+    [
+      "PART",
+      "cmn:很"
+    ],
+    [
+      "PART",
+      "cmn:好"
+    ],
+    [
+      "PART",
+      "cmn:聽"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:42:57.059848Z": "SPLIT_DONE"
+  }
+}

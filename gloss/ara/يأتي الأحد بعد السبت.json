@@ -1,0 +1,35 @@
+{
+  "content": "يأتي الأحد بعد السبت.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Samer (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Sunday comes after Saturday"
+    ],
+    [
+      "PART",
+      "ara:يأتي"
+    ],
+    [
+      "PART",
+      "ara:الأحد"
+    ],
+    [
+      "PART",
+      "ara:بعد"
+    ],
+    [
+      "PART",
+      "ara:السبت"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:51:47.855968Z": "SPLIT_DONE"
+  }
+}

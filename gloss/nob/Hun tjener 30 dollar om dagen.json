@@ -1,0 +1,43 @@
+{
+  "content": "Hun tjener 30 dollar om dagen.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Meggie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:She earns 30 dollars per day"
+    ],
+    [
+      "PART",
+      "nob:Hun"
+    ],
+    [
+      "PART",
+      "nob:tjener"
+    ],
+    [
+      "PART",
+      "nob:30"
+    ],
+    [
+      "PART",
+      "nob:dollar"
+    ],
+    [
+      "PART",
+      "nob:om"
+    ],
+    [
+      "PART",
+      "nob:dagen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:36.746114Z": "SPLIT_DONE"
+  }
+}

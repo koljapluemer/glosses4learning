@@ -1,0 +1,39 @@
+{
+  "content": "Mary nemohla odpovědět na tuhle otázku.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lovermann (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:nemohla"
+    ],
+    [
+      "PART",
+      "ces:odpovědět"
+    ],
+    [
+      "PART",
+      "ces:na"
+    ],
+    [
+      "PART",
+      "ces:tuhle"
+    ],
+    [
+      "PART",
+      "ces:otázku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.198071Z": "SPLIT_DONE"
+  }
+}

@@ -6,7 +6,9 @@
     "2025-12-19T10:11:55.966Z": "SPLIT_CONSIDERED_UNNECESSARY",
     "2025-12-19T10:12:04.331Z": "USAGE_EXAMPLE_CONSIDERED_IMPOSSIBLE:deu"
   },
-  "tags": [],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
   "decorativeImages": [],
@@ -28,6 +30,10 @@
     [
       "TRANSLATION",
       "tur:anlamına"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:Kinder mit Autismus wissen nicht, was es heißt, einer Sache überdrüssig zu werden"
     ]
   ]
 }

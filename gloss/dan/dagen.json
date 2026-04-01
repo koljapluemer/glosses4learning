@@ -1,0 +1,39 @@
+{
+  "content": "dagen",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Japanere spiser tre måltider om dagen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:At sidde ned hele dagen er ikke godt for ens helbred"
+    ],
+    [
+      "TRANSLATION",
+      "deu:der Tag",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Vi fodrer vores hund to gange om dagen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:De fodrer deres hunde to gange om dagen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the day",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:28.772902Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:00.394245Z": "TRANSLATION_DONE:eng"
+  }
+}

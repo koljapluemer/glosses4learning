@@ -2,9 +2,12 @@
   "content": "as",
   "language": "eng",
   "transcriptions": {},
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:46.966334Z": "TRANSLATION_DONE:kor"
+  },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -133,6 +136,19 @@
     [
       "TRANSLATION",
       "lat:ut"
+    ],
+    [
+      "TRANSLATION",
+      "bul:при"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Your hand is as cold as ice"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~로서",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

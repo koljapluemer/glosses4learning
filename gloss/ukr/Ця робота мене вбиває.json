@@ -1,0 +1,35 @@
+{
+  "content": "Ця робота мене вбиває.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "deu:Dieser Job bringt mich um"
+    ],
+    [
+      "PART",
+      "ukr:Ця"
+    ],
+    [
+      "PART",
+      "ukr:робота"
+    ],
+    [
+      "PART",
+      "ukr:мене"
+    ],
+    [
+      "PART",
+      "ukr:вбиває"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:00:27.302649Z": "SPLIT_DONE"
+  }
+}

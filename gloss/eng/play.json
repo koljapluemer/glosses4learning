@@ -2,12 +2,15 @@
   "content": "play",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:29.815136Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -60,6 +63,27 @@
     [
       "TRANSLATION",
       "lat:ludum"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:пограти"
+    ],
+    [
+      "TRANSLATION",
+      "jbo:kelci"
+    ],
+    [
+      "TRANSLATION",
+      "dan:lege"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Don't let children play in the road"
+    ],
+    [
+      "TRANSLATION",
+      "kor:재미있게 즐기다",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

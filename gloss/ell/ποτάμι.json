@@ -1,0 +1,25 @@
+{
+  "content": "ποτάμι",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Βλέπω τη θάλασσα και το ποτάμι"
+    ],
+    [
+      "TRANSLATION",
+      "eng:river",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Το ποτάμι κυλάει αργά κάτω από τη γέφυρα"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:29.780685Z": "TRANSLATION_DONE:eng"
+  }
+}

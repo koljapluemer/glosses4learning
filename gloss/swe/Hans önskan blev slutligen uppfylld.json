@@ -1,0 +1,35 @@
+{
+  "content": "Hans önskan blev slutligen uppfylld.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Hans"
+    ],
+    [
+      "PART",
+      "swe:önskan"
+    ],
+    [
+      "PART",
+      "swe:blev"
+    ],
+    [
+      "PART",
+      "swe:slutligen"
+    ],
+    [
+      "PART",
+      "swe:uppfylld"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.172407Z": "SPLIT_DONE"
+  }
+}

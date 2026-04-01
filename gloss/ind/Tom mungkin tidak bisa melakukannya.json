@@ -1,0 +1,35 @@
+{
+  "content": "Tom mungkin tidak bisa melakukannya.",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by ngimoel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ind:Tom"
+    ],
+    [
+      "PART",
+      "ind:mungkin"
+    ],
+    [
+      "PART",
+      "ind:tidak"
+    ],
+    [
+      "PART",
+      "ind:bisa"
+    ],
+    [
+      "PART",
+      "ind:melakukannya"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:41.472980Z": "SPLIT_DONE"
+  }
+}

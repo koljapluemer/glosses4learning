@@ -2,7 +2,8 @@
   "content": "อาบน้ำ",
   "language": "tha",
   "tags": [
-    "eng:tatoeba-sentence-part"
+    "eng:tatoeba-sentence-part",
+    "eng:tatoeba-sentence"
   ],
   "relationships": [
     [
@@ -18,10 +19,18 @@
       "TRANSLATION",
       "deu:Dusche",
       "Auto-translated with argostranslate (th→en→de)"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Take a bath"
     ]
   ],
   "logs": {
     "2026-03-31T12:54:19.990253Z": "TRANSLATION_DONE:eng",
-    "2026-03-31T12:54:20.007744Z": "TRANSLATION_DONE:deu"
-  }
+    "2026-03-31T12:54:20.007744Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:18.069813Z": "SPLIT_CONSIDERED_UNNECESSARY"
+  },
+  "credits": [
+    "Sentence from Tatoeba by JipThaiTeacher (CC-BY 2.0 FR)"
+  ]
 }

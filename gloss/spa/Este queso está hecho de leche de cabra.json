@@ -1,0 +1,47 @@
+{
+  "content": "Este queso está hecho de leche de cabra.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Цей сир зроблено з козиного молока"
+    ],
+    [
+      "PART",
+      "spa:Este"
+    ],
+    [
+      "PART",
+      "spa:queso"
+    ],
+    [
+      "PART",
+      "spa:está"
+    ],
+    [
+      "PART",
+      "spa:hecho"
+    ],
+    [
+      "PART",
+      "spa:de"
+    ],
+    [
+      "PART",
+      "spa:leche"
+    ],
+    [
+      "PART",
+      "spa:cabra"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:13.308894Z": "SPLIT_DONE"
+  }
+}

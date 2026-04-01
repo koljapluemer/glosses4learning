@@ -1,0 +1,31 @@
+{
+  "content": "Pater meus neminem timet.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Pater"
+    ],
+    [
+      "PART",
+      "lat:meus"
+    ],
+    [
+      "PART",
+      "lat:neminem"
+    ],
+    [
+      "PART",
+      "lat:timet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.686068Z": "SPLIT_DONE"
+  }
+}

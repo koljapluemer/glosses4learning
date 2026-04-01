@@ -1,0 +1,43 @@
+{
+  "content": "Мне нравятся пингвины, потому что они милые.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Мне"
+    ],
+    [
+      "PART",
+      "rus:нравятся"
+    ],
+    [
+      "PART",
+      "rus:пингвины"
+    ],
+    [
+      "PART",
+      "rus:потому"
+    ],
+    [
+      "PART",
+      "rus:что"
+    ],
+    [
+      "PART",
+      "rus:они"
+    ],
+    [
+      "PART",
+      "rus:милые"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.402645Z": "SPLIT_DONE"
+  }
+}

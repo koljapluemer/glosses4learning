@@ -1,0 +1,39 @@
+{
+  "content": "Die kinderen hebben onze hulp nodig.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Elsofie (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Die"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ],
+    [
+      "PART",
+      "nld:hebben"
+    ],
+    [
+      "PART",
+      "nld:onze"
+    ],
+    [
+      "PART",
+      "nld:hulp"
+    ],
+    [
+      "PART",
+      "nld:nodig"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.046169Z": "SPLIT_DONE"
+  }
+}

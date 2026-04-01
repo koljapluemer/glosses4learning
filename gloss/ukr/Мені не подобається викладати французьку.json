@@ -1,0 +1,35 @@
+{
+  "content": "Мені не подобається викладати французьку.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Мені"
+    ],
+    [
+      "PART",
+      "ukr:не"
+    ],
+    [
+      "PART",
+      "ukr:подобається"
+    ],
+    [
+      "PART",
+      "ukr:викладати"
+    ],
+    [
+      "PART",
+      "ukr:французьку"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.176109Z": "SPLIT_DONE"
+  }
+}

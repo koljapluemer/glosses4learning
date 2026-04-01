@@ -1,0 +1,43 @@
+{
+  "content": "Dat is wat mijn vader altijd zegt.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Raizin (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dat"
+    ],
+    [
+      "PART",
+      "nld:is"
+    ],
+    [
+      "PART",
+      "nld:wat"
+    ],
+    [
+      "PART",
+      "nld:mijn"
+    ],
+    [
+      "PART",
+      "nld:vader"
+    ],
+    [
+      "PART",
+      "nld:altijd"
+    ],
+    [
+      "PART",
+      "nld:zegt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.090111Z": "SPLIT_DONE"
+  }
+}

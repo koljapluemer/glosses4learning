@@ -1,0 +1,39 @@
+{
+  "content": "Iedereen zou zijn moedertaal moeten kennen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GewoonLeonYT (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Iedereen"
+    ],
+    [
+      "PART",
+      "nld:zou"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:moedertaal"
+    ],
+    [
+      "PART",
+      "nld:moeten"
+    ],
+    [
+      "PART",
+      "nld:kennen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.018628Z": "SPLIT_DONE"
+  }
+}

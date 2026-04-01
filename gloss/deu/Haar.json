@@ -2,8 +2,12 @@
   "content": "Haar",
   "language": "deu",
   "transcriptions": {},
-  "logs": {},
-  "tags": [],
+  "logs": {
+    "2026-04-01T08:52:26.802458Z": "TRANSLATION_DONE:eng"
+  },
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
   "relationships": [
     [
       "TRANSLATION",
@@ -20,6 +24,15 @@
     [
       "TRANSLATION",
       "spa:pelo"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "deu:An meiner Prüfung hat die Lehrerin kein gutes Haar gelassen"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Hair",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

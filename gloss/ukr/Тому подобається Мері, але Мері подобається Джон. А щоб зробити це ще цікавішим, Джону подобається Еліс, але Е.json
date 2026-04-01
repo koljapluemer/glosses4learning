@@ -1,0 +1,75 @@
+{
+  "content": "Тому подобається Мері, але Мері подобається Джон. А щоб зробити це ще цікавішим, Джону подобається Еліс, але Еліс подобається Том.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom likes Mary, but Mary likes John"
+    ],
+    [
+      "PART",
+      "ukr:Тому"
+    ],
+    [
+      "PART",
+      "ukr:подобається"
+    ],
+    [
+      "PART",
+      "ukr:Мері"
+    ],
+    [
+      "PART",
+      "ukr:але"
+    ],
+    [
+      "PART",
+      "ukr:Джон"
+    ],
+    [
+      "PART",
+      "ukr:А"
+    ],
+    [
+      "PART",
+      "ukr:щоб"
+    ],
+    [
+      "PART",
+      "ukr:зробити"
+    ],
+    [
+      "PART",
+      "ukr:це"
+    ],
+    [
+      "PART",
+      "ukr:ще"
+    ],
+    [
+      "PART",
+      "ukr:цікавішим"
+    ],
+    [
+      "PART",
+      "ukr:Джону"
+    ],
+    [
+      "PART",
+      "ukr:Еліс"
+    ],
+    [
+      "PART",
+      "ukr:Том"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:06.605769Z": "SPLIT_DONE"
+  }
+}

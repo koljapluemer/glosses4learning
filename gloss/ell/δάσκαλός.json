@@ -1,0 +1,33 @@
+{
+  "content": "δάσκαλός",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ο δάσκαλός σου της αγγλικής ποιος είναι;"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ποιος είναι ο δάσκαλός σου της αγγλικής;"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Σχετικά με τι σε ρώτησε ο δάσκαλός σου;"
+    ],
+    [
+      "TRANSLATION",
+      "eng:teacher",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Ο δάσκαλός μας λέει ότι όλοι χρειάζονται τη Φυσική"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:07.007320Z": "TRANSLATION_DONE:eng"
+  }
+}

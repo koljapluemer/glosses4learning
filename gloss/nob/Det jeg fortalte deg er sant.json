@@ -1,0 +1,39 @@
+{
+  "content": "Det jeg fortalte deg er sant.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Mayk (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Det"
+    ],
+    [
+      "PART",
+      "nob:jeg"
+    ],
+    [
+      "PART",
+      "nob:fortalte"
+    ],
+    [
+      "PART",
+      "nob:deg"
+    ],
+    [
+      "PART",
+      "nob:er"
+    ],
+    [
+      "PART",
+      "nob:sant"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.805006Z": "SPLIT_DONE"
+  }
+}

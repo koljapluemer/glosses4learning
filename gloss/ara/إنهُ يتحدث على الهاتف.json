@@ -1,0 +1,31 @@
+{
+  "content": "إنهُ يتحدث على الهاتف.",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Asma (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:إنه"
+    ],
+    [
+      "PART",
+      "ara:يتحدث"
+    ],
+    [
+      "PART",
+      "ara:على"
+    ],
+    [
+      "PART",
+      "ara:الهاتف"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.499915Z": "SPLIT_DONE"
+  }
+}

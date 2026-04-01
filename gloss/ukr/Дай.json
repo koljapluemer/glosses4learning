@@ -1,0 +1,43 @@
+{
+  "content": "Дай",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дай мені знати, якщо тобі щось знадобиться"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Give me",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дай її мені, будь ласка"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Gib mir",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дай його мені, будь ласка"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дай відповідь на питання, будь ласка"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Дай мені цю ручку, будь ласка"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:26.769839Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:06.213512Z": "TRANSLATION_DONE:deu"
+  }
+}

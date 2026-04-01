@@ -2,12 +2,16 @@
   "content": "children",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:33.637702Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:11.725330Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -120,6 +124,40 @@
     [
       "TRANSLATION",
       "lat:liberi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The children are not at school today"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:діти",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "TRANSLATION",
+      "nob:barna"
+    ],
+    [
+      "TRANSLATION",
+      "vie:trẻ"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:There are many children in the room"
+    ],
+    [
+      "TRANSLATION",
+      "kor:아이들",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:She is the mother of my children"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Don't let children play in the road"
     ]
   ]
 }

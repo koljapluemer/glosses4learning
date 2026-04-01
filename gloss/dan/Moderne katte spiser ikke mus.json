@@ -1,0 +1,35 @@
+{
+  "content": "Moderne katte spiser ikke mus.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Moderne"
+    ],
+    [
+      "PART",
+      "dan:katte"
+    ],
+    [
+      "PART",
+      "dan:spiser"
+    ],
+    [
+      "PART",
+      "dan:ikke"
+    ],
+    [
+      "PART",
+      "dan:mus"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.372661Z": "SPLIT_DONE"
+  }
+}

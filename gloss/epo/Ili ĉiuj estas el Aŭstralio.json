@@ -1,0 +1,35 @@
+{
+  "content": "Ili ĉiuj estas el Aŭstralio.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by martinod (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Ili"
+    ],
+    [
+      "PART",
+      "epo:ĉiuj"
+    ],
+    [
+      "PART",
+      "epo:estas"
+    ],
+    [
+      "PART",
+      "epo:el"
+    ],
+    [
+      "PART",
+      "epo:Aŭstralio"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.453144Z": "SPLIT_DONE"
+  }
+}

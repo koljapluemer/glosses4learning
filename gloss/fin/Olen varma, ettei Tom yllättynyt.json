@@ -1,0 +1,35 @@
+{
+  "content": "Olen varma, ettei Tom yllättynyt.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fin:Olen"
+    ],
+    [
+      "PART",
+      "fin:varma"
+    ],
+    [
+      "PART",
+      "fin:ettei"
+    ],
+    [
+      "PART",
+      "fin:Tom"
+    ],
+    [
+      "PART",
+      "fin:yllättynyt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:12.787306Z": "SPLIT_DONE"
+  }
+}

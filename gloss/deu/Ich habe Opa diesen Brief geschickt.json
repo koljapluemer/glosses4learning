@@ -1,0 +1,43 @@
+{
+  "content": "Ich habe Opa diesen Brief geschickt.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sudajaengi (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:이 편지를 할아버지께 보냈습니다"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:Opa"
+    ],
+    [
+      "PART",
+      "deu:diesen"
+    ],
+    [
+      "PART",
+      "deu:Brief"
+    ],
+    [
+      "PART",
+      "deu:geschickt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:49:04.462672Z": "SPLIT_DONE"
+  }
+}

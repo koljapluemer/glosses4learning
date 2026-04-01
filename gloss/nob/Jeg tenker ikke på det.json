@@ -1,0 +1,35 @@
+{
+  "content": "Jeg tenker ikke på det.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Improbably (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Jeg"
+    ],
+    [
+      "PART",
+      "nob:tenker"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:på"
+    ],
+    [
+      "PART",
+      "nob:det"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.814317Z": "SPLIT_DONE"
+  }
+}

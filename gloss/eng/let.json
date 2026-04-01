@@ -2,12 +2,16 @@
   "content": "let",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T08:35:33.038700Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T09:04:29.607673Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -44,6 +48,24 @@
     [
       "TRANSLATION",
       "tok:o"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:They do it because we let them"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:Дати",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Don't let children play in the road"
+    ],
+    [
+      "TRANSLATION",
+      "kor:~하게",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

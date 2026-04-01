@@ -1,0 +1,26 @@
+{
+  "content": "Jonson",
+  "language": "tok",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tok:mije Jonson li jan pona mute pi pana sona pi kalama musi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:John's son",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:son of John",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:51.613701Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "haec",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Sententia haec non est mea"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Suntne haec digitabula Thomae﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:these",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Num haec sententia recta est﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:17.090571Z": "TRANSLATION_DONE:eng"
+  }
+}

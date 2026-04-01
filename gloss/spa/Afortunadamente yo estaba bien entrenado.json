@@ -1,0 +1,35 @@
+{
+  "content": "Afortunadamente yo estaba bien entrenado.",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by DarkHollow (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "spa:Afortunadamente"
+    ],
+    [
+      "PART",
+      "spa:yo"
+    ],
+    [
+      "PART",
+      "spa:estaba"
+    ],
+    [
+      "PART",
+      "spa:bien"
+    ],
+    [
+      "PART",
+      "spa:entrenado"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:25.286709Z": "SPLIT_DONE"
+  }
+}

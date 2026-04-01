@@ -1,0 +1,43 @@
+{
+  "content": "Nous pouvons toutes marcher jusqu'à la maison.",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Nous"
+    ],
+    [
+      "PART",
+      "fra:pouvons"
+    ],
+    [
+      "PART",
+      "fra:toutes"
+    ],
+    [
+      "PART",
+      "fra:marcher"
+    ],
+    [
+      "PART",
+      "fra:jusqu'à"
+    ],
+    [
+      "PART",
+      "fra:la"
+    ],
+    [
+      "PART",
+      "fra:maison"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.491812Z": "SPLIT_DONE"
+  }
+}

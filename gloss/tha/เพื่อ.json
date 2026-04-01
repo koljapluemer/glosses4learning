@@ -1,0 +1,31 @@
+{
+  "content": "เพื่อ",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:นี่เพื่อคุณ, ทอม"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Für",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ฉันเจอเพื่อร่วมชั้นเรียนของฉัน"
+    ],
+    [
+      "TRANSLATION",
+      "eng:In order to",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:30.609585Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:32.685542Z": "TRANSLATION_DONE:eng"
+  }
+}

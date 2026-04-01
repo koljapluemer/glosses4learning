@@ -8,10 +8,12 @@
     "2025-12-12T14:08:34.847603Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:10:58.693663Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
     "2025-12-12T14:11:42.034650Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:eng",
-    "2025-12-12T14:19:10.512980Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu"
+    "2025-12-12T14:19:10.512980Z": "TRANSLATION_CONSIDERED_IMPOSSIBLE:deu",
+    "2026-04-01T08:35:26.589528Z": "TRANSLATION_DONE:ukr"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -133,6 +135,31 @@
     [
       "TRANSLATION",
       "fin:olisi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he would do it again"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:б",
+      "Auto-translated with argostranslate (en→uk)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that he would call Mary back"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom and Mary said that they would come"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Tom said that Mary would likely do that"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:It would have been risky to do that"
     ]
   ]
 }

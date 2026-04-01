@@ -1,0 +1,39 @@
+{
+  "content": "Czy twojej dziewczynie podobały się kwiaty?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by igxr (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:twojej"
+    ],
+    [
+      "PART",
+      "pol:dziewczynie"
+    ],
+    [
+      "PART",
+      "pol:podobały"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:kwiaty"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.731866Z": "SPLIT_DONE"
+  }
+}

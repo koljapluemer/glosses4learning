@@ -1,0 +1,35 @@
+{
+  "content": "我们可以带上汤姆。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by GlossaMatik (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:We can take Tom"
+    ],
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:可以"
+    ],
+    [
+      "PART",
+      "cmn:带上"
+    ],
+    [
+      "PART",
+      "cmn:汤姆"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:41:31.450135Z": "SPLIT_DONE"
+  }
+}

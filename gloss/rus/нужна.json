@@ -1,0 +1,33 @@
+{
+  "content": "нужна",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвоните мне, если нужна будет какая-нибудь помощь"
+    ],
+    [
+      "TRANSLATION",
+      "eng:needed",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Если вам нужна будет какая-нибудь помощь, звоните мне"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Если тебе нужна будет какая-нибудь помощь, звони мне"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвони мне, если нужна будет какая-нибудь помощь"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:01.592045Z": "TRANSLATION_DONE:eng"
+  }
+}

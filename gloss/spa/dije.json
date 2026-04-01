@@ -1,0 +1,35 @@
+{
+  "content": "dije",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo ya te dije lo que sé al respecto"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:сказав",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ya te dije todo lo que sé"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ich sagte",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Ya te dije que Tom tenía hambre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:09.364553Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:12.539879Z": "TRANSLATION_DONE:deu"
+  }
+}

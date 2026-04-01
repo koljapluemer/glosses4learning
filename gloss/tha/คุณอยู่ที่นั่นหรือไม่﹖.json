@@ -1,0 +1,35 @@
+{
+  "content": "คุณอยู่ที่นั่นหรือไม่?",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "tha:คุณ"
+    ],
+    [
+      "PART",
+      "tha:อยู่"
+    ],
+    [
+      "PART",
+      "tha:ที่นั่น"
+    ],
+    [
+      "PART",
+      "tha:หรือไม่"
+    ],
+    [
+      "PART",
+      "tha:﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:43.956171Z": "SPLIT_DONE"
+  }
+}

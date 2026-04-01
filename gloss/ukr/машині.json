@@ -1,0 +1,31 @@
+{
+  "content": "машині",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він був занадто п'яний, щоб їхати додому на машині"
+    ],
+    [
+      "TRANSLATION",
+      "eng:auto",
+      "Auto-translated with argostranslate (uk→en)"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ukr:Він лишив свої ключі в машині"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Auto",
+      "Auto-translated with argostranslate (uk→en→de)"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:23:25.955604Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T09:00:17.628011Z": "TRANSLATION_DONE:deu"
+  }
+}

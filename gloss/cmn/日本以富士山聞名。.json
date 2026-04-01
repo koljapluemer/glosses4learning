@@ -1,0 +1,35 @@
+{
+  "content": "日本以富士山聞名。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Martha (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Japan is famous for Mt. Fuji"
+    ],
+    [
+      "PART",
+      "cmn:日本"
+    ],
+    [
+      "PART",
+      "cmn:以"
+    ],
+    [
+      "PART",
+      "cmn:富士山"
+    ],
+    [
+      "PART",
+      "cmn:聞名"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:22.104041Z": "SPLIT_DONE"
+  }
+}

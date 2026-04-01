@@ -1,0 +1,43 @@
+{
+  "content": "Eles comem carne uma vez por semana.",
+  "language": "por",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by lazymoose (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "por:Eles"
+    ],
+    [
+      "PART",
+      "por:comem"
+    ],
+    [
+      "PART",
+      "por:carne"
+    ],
+    [
+      "PART",
+      "por:uma"
+    ],
+    [
+      "PART",
+      "por:vez"
+    ],
+    [
+      "PART",
+      "por:por"
+    ],
+    [
+      "PART",
+      "por:semana"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:36.948715Z": "SPLIT_DONE"
+  }
+}

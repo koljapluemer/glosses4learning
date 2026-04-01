@@ -1,0 +1,39 @@
+{
+  "content": "Jag har sett denna bild förut.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pineapple (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:sett"
+    ],
+    [
+      "PART",
+      "swe:denna"
+    ],
+    [
+      "PART",
+      "swe:bild"
+    ],
+    [
+      "PART",
+      "swe:förut"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.112091Z": "SPLIT_DONE"
+  }
+}

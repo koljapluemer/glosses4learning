@@ -1,0 +1,39 @@
+{
+  "content": "Den här meningen är för lång.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by herrsilen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Den"
+    ],
+    [
+      "PART",
+      "swe:här"
+    ],
+    [
+      "PART",
+      "swe:meningen"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:för"
+    ],
+    [
+      "PART",
+      "swe:lång"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.158524Z": "SPLIT_DONE"
+  }
+}

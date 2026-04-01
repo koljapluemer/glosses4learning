@@ -1,0 +1,43 @@
+{
+  "content": "Valami nincs rendben ezzel a számológéppel.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pandaa (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Something is wrong with this calculator"
+    ],
+    [
+      "PART",
+      "hun:Valami"
+    ],
+    [
+      "PART",
+      "hun:nincs"
+    ],
+    [
+      "PART",
+      "hun:rendben"
+    ],
+    [
+      "PART",
+      "hun:ezzel"
+    ],
+    [
+      "PART",
+      "hun:a"
+    ],
+    [
+      "PART",
+      "hun:számológéppel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:36:11.001211Z": "SPLIT_DONE"
+  }
+}

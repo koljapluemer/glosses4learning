@@ -1,0 +1,35 @@
+{
+  "content": "Можете мені показати який-небудь документ?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Можете"
+    ],
+    [
+      "PART",
+      "ukr:мені"
+    ],
+    [
+      "PART",
+      "ukr:показати"
+    ],
+    [
+      "PART",
+      "ukr:який-небудь"
+    ],
+    [
+      "PART",
+      "ukr:документ"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.077419Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "Tyskland",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Dette kameraet ble laget i Tyskland"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Germany",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg tror at hun er fra Tyskland"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:42.475970Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content": "berbohong",
+  "language": "ind",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ind:Seharusnya aku tidak berbohong padanya"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Aku tidak percaya padamu. Kau selalu berbohong"
+    ],
+    [
+      "TRANSLATION",
+      "eng:lying",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ind:Aku tidak percaya kamu berbohong padaku"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:06.873970Z": "TRANSLATION_DONE:eng"
+  }
+}

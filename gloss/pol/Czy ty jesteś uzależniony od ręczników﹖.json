@@ -1,0 +1,39 @@
+{
+  "content": "Czy ty jesteś uzależniony od ręczników?",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MCcommand (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Czy"
+    ],
+    [
+      "PART",
+      "pol:ty"
+    ],
+    [
+      "PART",
+      "pol:jesteś"
+    ],
+    [
+      "PART",
+      "pol:uzależniony"
+    ],
+    [
+      "PART",
+      "pol:od"
+    ],
+    [
+      "PART",
+      "pol:ręczników"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.806041Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Ему надо было сначала позвонить.",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by marafon (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "rus:Ему"
+    ],
+    [
+      "PART",
+      "rus:надо"
+    ],
+    [
+      "PART",
+      "rus:было"
+    ],
+    [
+      "PART",
+      "rus:сначала"
+    ],
+    [
+      "PART",
+      "rus:позвонить"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:05.424221Z": "SPLIT_DONE"
+  }
+}

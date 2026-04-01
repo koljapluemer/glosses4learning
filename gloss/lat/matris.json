@@ -1,0 +1,33 @@
+{
+  "content": "matris",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "lat:Natalis matris meae - ante diem tertium kalendas Februarias"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Uxor fratris matris meae est matertera mea"
+    ],
+    [
+      "TRANSLATION",
+      "eng:mother",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Haec domus matris meae est"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "lat:Amici matris meae amici mei sunt"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:02.745723Z": "TRANSLATION_DONE:eng"
+  }
+}

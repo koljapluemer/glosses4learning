@@ -1,0 +1,35 @@
+{
+  "content": "Hvad er meningen med dette?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Sharaf78 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Hvad"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:meningen"
+    ],
+    [
+      "PART",
+      "dan:med"
+    ],
+    [
+      "PART",
+      "dan:dette"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.475516Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Quid hodie facere vis?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:What do you want to do today﹖"
+    ],
+    [
+      "PART",
+      "lat:Quid"
+    ],
+    [
+      "PART",
+      "lat:hodie"
+    ],
+    [
+      "PART",
+      "lat:facere"
+    ],
+    [
+      "PART",
+      "lat:vis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:32.722791Z": "SPLIT_DONE"
+  }
+}

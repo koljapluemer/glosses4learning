@@ -1,0 +1,35 @@
+{
+  "content": "Woar proaten joe over?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:What are you talking about!﹖"
+    ],
+    [
+      "PART",
+      "gos:Woar"
+    ],
+    [
+      "PART",
+      "gos:proaten"
+    ],
+    [
+      "PART",
+      "gos:joe"
+    ],
+    [
+      "PART",
+      "gos:over"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:44.537056Z": "SPLIT_DONE"
+  }
+}

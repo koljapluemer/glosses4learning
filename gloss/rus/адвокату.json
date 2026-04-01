@@ -1,0 +1,29 @@
+{
+  "content": "адвокату",
+  "language": "rus",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "rus:Вам надо позвонить своему адвокату"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Тебе надо позвонить своему адвокату"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Мне нужно позвонить своему адвокату"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to the lawyer",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:26:17.269398Z": "TRANSLATION_DONE:eng"
+  }
+}

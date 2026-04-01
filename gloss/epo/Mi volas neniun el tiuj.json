@@ -1,0 +1,35 @@
+{
+  "content": "Mi volas neniun el tiuj.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "epo:Mi"
+    ],
+    [
+      "PART",
+      "epo:volas"
+    ],
+    [
+      "PART",
+      "epo:neniun"
+    ],
+    [
+      "PART",
+      "epo:el"
+    ],
+    [
+      "PART",
+      "epo:tiuj"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:00.309830Z": "SPLIT_DONE"
+  }
+}

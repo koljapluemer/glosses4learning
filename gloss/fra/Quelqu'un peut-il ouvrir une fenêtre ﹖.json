@@ -1,0 +1,35 @@
+{
+  "content": "Quelqu'un peut-il ouvrir une fenêtre ?",
+  "language": "fra",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "fra:Quelqu'un"
+    ],
+    [
+      "PART",
+      "fra:peut-il"
+    ],
+    [
+      "PART",
+      "fra:ouvrir"
+    ],
+    [
+      "PART",
+      "fra:une"
+    ],
+    [
+      "PART",
+      "fra:fenêtre"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:36:53.753924Z": "SPLIT_DONE"
+  }
+}

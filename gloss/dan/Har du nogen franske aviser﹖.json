@@ -1,0 +1,35 @@
+{
+  "content": "Har du nogen franske aviser?",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Har"
+    ],
+    [
+      "PART",
+      "dan:du"
+    ],
+    [
+      "PART",
+      "dan:nogen"
+    ],
+    [
+      "PART",
+      "dan:franske"
+    ],
+    [
+      "PART",
+      "dan:aviser"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.457885Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "content": "Tom zawahał się przez moment, zanim powiedział.",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by jeedrek (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "pol:Tom"
+    ],
+    [
+      "PART",
+      "pol:zawahał"
+    ],
+    [
+      "PART",
+      "pol:się"
+    ],
+    [
+      "PART",
+      "pol:przez"
+    ],
+    [
+      "PART",
+      "pol:moment"
+    ],
+    [
+      "PART",
+      "pol:zanim"
+    ],
+    [
+      "PART",
+      "pol:powiedział"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:18.700511Z": "SPLIT_DONE"
+  }
+}

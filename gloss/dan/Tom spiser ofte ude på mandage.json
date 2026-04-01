@@ -1,0 +1,39 @@
+{
+  "content": "Tom spiser ofte ude på mandage.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by SeaLiteral (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:spiser"
+    ],
+    [
+      "PART",
+      "dan:ofte"
+    ],
+    [
+      "PART",
+      "dan:ude"
+    ],
+    [
+      "PART",
+      "dan:på"
+    ],
+    [
+      "PART",
+      "dan:mandage"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.232313Z": "SPLIT_DONE"
+  }
+}

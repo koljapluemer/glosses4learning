@@ -2,12 +2,15 @@
   "content": "pressure",
   "language": "eng",
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "credits": [
     "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
   ],
-  "logs": {},
+  "logs": {
+    "2026-04-01T09:04:50.438599Z": "TRANSLATION_DONE:kor"
+  },
   "relationships": [
     [
       "TRANSLATION",
@@ -28,6 +31,19 @@
     [
       "TRANSLATION",
       "vie:áp"
+    ],
+    [
+      "TRANSLATION",
+      "hun:benyomást"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I need to check your blood pressure"
+    ],
+    [
+      "TRANSLATION",
+      "kor:압력",
+      "Auto-translated with translategemma:4b"
     ]
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "content": "هل تتكلم لغة الكلاب؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Amghar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:هل"
+    ],
+    [
+      "PART",
+      "ara:تتكلم"
+    ],
+    [
+      "PART",
+      "ara:لغة"
+    ],
+    [
+      "PART",
+      "ara:الكلاب"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.431086Z": "SPLIT_DONE"
+  }
+}

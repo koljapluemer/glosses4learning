@@ -1,0 +1,35 @@
+{
+  "content": "Praeterito anno Bostoniam ivi.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I went to Boston last year"
+    ],
+    [
+      "PART",
+      "lat:Praeterito"
+    ],
+    [
+      "PART",
+      "lat:anno"
+    ],
+    [
+      "PART",
+      "lat:Bostoniam"
+    ],
+    [
+      "PART",
+      "lat:ivi"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:32.227252Z": "SPLIT_DONE"
+  }
+}

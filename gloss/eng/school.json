@@ -3,10 +3,12 @@
   "language": "eng",
   "transcriptions": {},
   "logs": {
-    "2025-12-14T14:39:29.504Z": "SPLIT_CONSIDERED_UNNECESSARY"
+    "2025-12-14T14:39:29.504Z": "SPLIT_CONSIDERED_UNNECESSARY",
+    "2026-04-01T09:04:21.177351Z": "TRANSLATION_DONE:kor"
   },
   "tags": [
-    "eng:lisaanmasry-word-translation"
+    "eng:lisaanmasry-word-translation",
+    "eng:tatoeba-sentence-part"
   ],
   "needsHumanCheck": false,
   "excludeFromLearning": false,
@@ -93,6 +95,39 @@
     [
       "TRANSLATION",
       "lat:ludum"
+    ],
+    [
+      "TRANSLATION",
+      "spa:escuela"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:The children are not at school today"
+    ],
+    [
+      "TRANSLATION",
+      "dan:skole"
+    ],
+    [
+      "TRANSLATION",
+      "vie:trường"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:Attending high school in Korea is tough"
+    ],
+    [
+      "TRANSLATION",
+      "kor:학교",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:I didn't go to school last Monday"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "eng:We go to school by that bus"
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "content": "Keiner von seinen Klassenkameraden mochte Tom.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Keiner"
+    ],
+    [
+      "PART",
+      "deu:von"
+    ],
+    [
+      "PART",
+      "deu:seinen"
+    ],
+    [
+      "PART",
+      "deu:Klassenkameraden"
+    ],
+    [
+      "PART",
+      "deu:mochte"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.897710Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "重要",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私にとって、これはとても重要です。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Important",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:どれも等しく重要です。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:36.012963Z": "TRANSLATION_DONE:eng"
+  }
+}

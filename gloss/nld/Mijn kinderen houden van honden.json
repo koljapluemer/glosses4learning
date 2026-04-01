@@ -1,0 +1,35 @@
+{
+  "content": "Mijn kinderen houden van honden.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Mijn"
+    ],
+    [
+      "PART",
+      "nld:kinderen"
+    ],
+    [
+      "PART",
+      "nld:houden"
+    ],
+    [
+      "PART",
+      "nld:van"
+    ],
+    [
+      "PART",
+      "nld:honden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:57.976297Z": "SPLIT_DONE"
+  }
+}

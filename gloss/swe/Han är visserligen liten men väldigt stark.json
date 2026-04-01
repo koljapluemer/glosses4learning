@@ -1,0 +1,47 @@
+{
+  "content": "Han är visserligen liten men väldigt stark.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Abeer (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:He is truly small but very strong"
+    ],
+    [
+      "PART",
+      "swe:Han"
+    ],
+    [
+      "PART",
+      "swe:är"
+    ],
+    [
+      "PART",
+      "swe:visserligen"
+    ],
+    [
+      "PART",
+      "swe:liten"
+    ],
+    [
+      "PART",
+      "swe:men"
+    ],
+    [
+      "PART",
+      "swe:väldigt"
+    ],
+    [
+      "PART",
+      "swe:stark"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:19.242337Z": "SPLIT_DONE"
+  }
+}

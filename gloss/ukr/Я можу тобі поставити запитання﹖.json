@@ -1,0 +1,35 @@
+{
+  "content": "Я можу тобі поставити запитання?",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Я"
+    ],
+    [
+      "PART",
+      "ukr:можу"
+    ],
+    [
+      "PART",
+      "ukr:тобі"
+    ],
+    [
+      "PART",
+      "ukr:поставити"
+    ],
+    [
+      "PART",
+      "ukr:запитання"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.098353Z": "SPLIT_DONE"
+  }
+}

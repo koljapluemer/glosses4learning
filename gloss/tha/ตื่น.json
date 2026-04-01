@@ -1,0 +1,35 @@
+{
+  "content": "ตื่น",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:ขอโทษ ฉันทำให้คุณตื่นหรือปล่าว"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Aufwachen",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ทอม ตื่น"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Wake up",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:ตื่น ทอม!"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:29.161011Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:18.063775Z": "TRANSLATION_DONE:eng"
+  }
+}

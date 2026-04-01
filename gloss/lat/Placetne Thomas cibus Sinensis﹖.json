@@ -1,0 +1,31 @@
+{
+  "content": "Placetne Thomas cibus Sinensis?",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Placetne"
+    ],
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:cibus"
+    ],
+    [
+      "PART",
+      "lat:Sinensis"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.647539Z": "SPLIT_DONE"
+  }
+}

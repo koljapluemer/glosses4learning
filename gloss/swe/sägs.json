@@ -1,0 +1,21 @@
+{
+  "content": "sägs",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det sägs att han är den bästa tennisspelaren"
+    ],
+    [
+      "TRANSLATION",
+      "eng:is said",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:52.099131Z": "TRANSLATION_DONE:eng"
+  }
+}

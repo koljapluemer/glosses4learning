@@ -1,0 +1,31 @@
+{
+  "content": "Non potest sententias addere.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Non"
+    ],
+    [
+      "PART",
+      "lat:potest"
+    ],
+    [
+      "PART",
+      "lat:sententias"
+    ],
+    [
+      "PART",
+      "lat:addere"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.693702Z": "SPLIT_DONE"
+  }
+}

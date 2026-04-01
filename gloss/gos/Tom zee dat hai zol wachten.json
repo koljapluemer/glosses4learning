@@ -1,0 +1,39 @@
+{
+  "content": "Tom zee dat hai zol wachten.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:zee"
+    ],
+    [
+      "PART",
+      "gos:dat"
+    ],
+    [
+      "PART",
+      "gos:hai"
+    ],
+    [
+      "PART",
+      "gos:zol"
+    ],
+    [
+      "PART",
+      "gos:wachten"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:02.291361Z": "SPLIT_DONE"
+  }
+}

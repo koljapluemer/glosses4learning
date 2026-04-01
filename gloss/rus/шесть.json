@@ -13,6 +13,25 @@
     [
       "TRANSLATION",
       "spa:vi"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвоните мне, пожалуйста, завтра в шесть утра"
+    ],
+    [
+      "TRANSLATION",
+      "eng:six",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "rus:Позвоните мне в шесть тридцать, пожалуйста"
     ]
-  ]
+  ],
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "logs": {
+    "2026-04-01T08:26:11.823512Z": "TRANSLATION_DONE:eng"
+  }
 }

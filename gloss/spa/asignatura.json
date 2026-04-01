@@ -1,0 +1,21 @@
+{
+  "content": "asignatura",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Solo unos pocos estudiantes entendieron la asignatura"
+    ],
+    [
+      "TRANSLATION",
+      "eng:course",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:12:14.817091Z": "TRANSLATION_DONE:eng"
+  }
+}

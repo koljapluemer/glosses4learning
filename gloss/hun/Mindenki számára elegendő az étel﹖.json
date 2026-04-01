@@ -1,0 +1,35 @@
+{
+  "content": "Mindenki számára elegendő az étel?",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Farkas (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Mindenki"
+    ],
+    [
+      "PART",
+      "hun:számára"
+    ],
+    [
+      "PART",
+      "hun:elegendő"
+    ],
+    [
+      "PART",
+      "hun:az"
+    ],
+    [
+      "PART",
+      "hun:étel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.483139Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom har ikke spist middag ennå.",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by eirik174 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nob:Tom"
+    ],
+    [
+      "PART",
+      "nob:har"
+    ],
+    [
+      "PART",
+      "nob:ikke"
+    ],
+    [
+      "PART",
+      "nob:spist"
+    ],
+    [
+      "PART",
+      "nob:middag"
+    ],
+    [
+      "PART",
+      "nob:ennå"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:39:06.762532Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "content": "temat",
+  "language": "pol",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jakie są twoje przemyślenia na ten temat﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:topic",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Czy ma pan jakieś informacje na ten temat﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Jakie jest twoje zdanie na temat szkolnych uniformów﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:Wiesz o wiele za dużo na mój temat"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "pol:I co teraz uważasz na ten temat﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:59.596215Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "content": "Tom se zeptal Mary, proč se jí líbí John.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by aldar (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Tom asked Mary why she liked John"
+    ],
+    [
+      "PART",
+      "ces:Tom"
+    ],
+    [
+      "PART",
+      "ces:se"
+    ],
+    [
+      "PART",
+      "ces:zeptal"
+    ],
+    [
+      "PART",
+      "ces:Mary"
+    ],
+    [
+      "PART",
+      "ces:proč"
+    ],
+    [
+      "PART",
+      "ces:jí"
+    ],
+    [
+      "PART",
+      "ces:líbí"
+    ],
+    [
+      "PART",
+      "ces:John"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:31:03.773151Z": "SPLIT_DONE"
+  }
+}

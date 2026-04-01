@@ -1,0 +1,35 @@
+{
+  "content": "Amit tettem, reményt adott nekik.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Amit"
+    ],
+    [
+      "PART",
+      "hun:tettem"
+    ],
+    [
+      "PART",
+      "hun:reményt"
+    ],
+    [
+      "PART",
+      "hun:adott"
+    ],
+    [
+      "PART",
+      "hun:nekik"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.466456Z": "SPLIT_DONE"
+  }
+}

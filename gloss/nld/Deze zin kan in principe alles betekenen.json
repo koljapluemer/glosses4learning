@@ -1,0 +1,47 @@
+{
+  "content": "Deze zin kan in principe alles betekenen.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This sentence can basically mean anything"
+    ],
+    [
+      "PART",
+      "nld:Deze"
+    ],
+    [
+      "PART",
+      "nld:zin"
+    ],
+    [
+      "PART",
+      "nld:kan"
+    ],
+    [
+      "PART",
+      "nld:in"
+    ],
+    [
+      "PART",
+      "nld:principe"
+    ],
+    [
+      "PART",
+      "nld:alles"
+    ],
+    [
+      "PART",
+      "nld:betekenen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:41.216655Z": "SPLIT_DONE"
+  }
+}

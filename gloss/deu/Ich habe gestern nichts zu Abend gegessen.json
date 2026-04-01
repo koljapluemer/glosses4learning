@@ -1,0 +1,47 @@
+{
+  "content": "Ich habe gestern nichts zu Abend gegessen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "ukr:Я вчора не вечеряв"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:gestern"
+    ],
+    [
+      "PART",
+      "deu:nichts"
+    ],
+    [
+      "PART",
+      "deu:zu"
+    ],
+    [
+      "PART",
+      "deu:Abend"
+    ],
+    [
+      "PART",
+      "deu:gegessen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:01:38.359862Z": "SPLIT_DONE"
+  }
+}

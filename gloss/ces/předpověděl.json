@@ -1,0 +1,21 @@
+{
+  "content": "předpověděl",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ces:Vše se stalo přesně tak, jak Tom předpověděl"
+    ],
+    [
+      "TRANSLATION",
+      "eng:predicted",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:54.313125Z": "TRANSLATION_DONE:eng"
+  }
+}

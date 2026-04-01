@@ -1,0 +1,21 @@
+{
+  "content": "antwoord",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nld:Ik geef geen antwoord op die vraag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:answer",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:57:38.427882Z": "TRANSLATION_DONE:eng"
+  }
+}

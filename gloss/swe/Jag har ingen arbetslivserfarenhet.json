@@ -1,0 +1,31 @@
+{
+  "content": "Jag har ingen arbetslivserfarenhet.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by morbrorper (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Jag"
+    ],
+    [
+      "PART",
+      "swe:har"
+    ],
+    [
+      "PART",
+      "swe:ingen"
+    ],
+    [
+      "PART",
+      "swe:arbetslivserfarenhet"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.201592Z": "SPLIT_DONE"
+  }
+}

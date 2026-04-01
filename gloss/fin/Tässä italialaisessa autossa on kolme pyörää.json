@@ -1,0 +1,43 @@
+{
+  "content": "Tässä italialaisessa autossa on kolme pyörää.",
+  "language": "fin",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Silja (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This Italian car has three wheels"
+    ],
+    [
+      "PART",
+      "fin:Tässä"
+    ],
+    [
+      "PART",
+      "fin:italialaisessa"
+    ],
+    [
+      "PART",
+      "fin:autossa"
+    ],
+    [
+      "PART",
+      "fin:on"
+    ],
+    [
+      "PART",
+      "fin:kolme"
+    ],
+    [
+      "PART",
+      "fin:pyörää"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:33:21.242205Z": "SPLIT_DONE"
+  }
+}

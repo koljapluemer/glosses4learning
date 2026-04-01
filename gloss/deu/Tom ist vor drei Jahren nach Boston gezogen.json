@@ -1,0 +1,51 @@
+{
+  "content": "Tom ist vor drei Jahren nach Boston gezogen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "kor:톰은 삼년 전에 보스톤으로 이사했다"
+    ],
+    [
+      "PART",
+      "deu:Tom"
+    ],
+    [
+      "PART",
+      "deu:ist"
+    ],
+    [
+      "PART",
+      "deu:vor"
+    ],
+    [
+      "PART",
+      "deu:drei"
+    ],
+    [
+      "PART",
+      "deu:Jahren"
+    ],
+    [
+      "PART",
+      "deu:nach"
+    ],
+    [
+      "PART",
+      "deu:Boston"
+    ],
+    [
+      "PART",
+      "deu:gezogen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:48:59.865508Z": "SPLIT_DONE"
+  }
+}

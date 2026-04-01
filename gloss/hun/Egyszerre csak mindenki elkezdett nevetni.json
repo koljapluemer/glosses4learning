@@ -1,0 +1,35 @@
+{
+  "content": "Egyszerre csak mindenki elkezdett nevetni.",
+  "language": "hun",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by mraz (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "hun:Egyszerre"
+    ],
+    [
+      "PART",
+      "hun:csak"
+    ],
+    [
+      "PART",
+      "hun:mindenki"
+    ],
+    [
+      "PART",
+      "hun:elkezdett"
+    ],
+    [
+      "PART",
+      "hun:nevetni"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:37:32.540917Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "我们明天有个测验。",
+  "language": "cmn",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by fucongcong (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:We have a test tomorrow"
+    ],
+    [
+      "PART",
+      "cmn:我们"
+    ],
+    [
+      "PART",
+      "cmn:明天"
+    ],
+    [
+      "PART",
+      "cmn:有个"
+    ],
+    [
+      "PART",
+      "cmn:测验"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:40:36.670453Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Thomas est inquisitor sedis centralis exploratoriae.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soridsolid (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "lat:Thomas"
+    ],
+    [
+      "PART",
+      "lat:est"
+    ],
+    [
+      "PART",
+      "lat:inquisitor"
+    ],
+    [
+      "PART",
+      "lat:sedis"
+    ],
+    [
+      "PART",
+      "lat:centralis"
+    ],
+    [
+      "PART",
+      "lat:exploratoriae"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:46.713478Z": "SPLIT_DONE"
+  }
+}

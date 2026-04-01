@@ -1,0 +1,43 @@
+{
+  "content": "Haben Sie schon einmal im Ausland studiert?",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Haben"
+    ],
+    [
+      "PART",
+      "deu:Sie"
+    ],
+    [
+      "PART",
+      "deu:schon"
+    ],
+    [
+      "PART",
+      "deu:einmal"
+    ],
+    [
+      "PART",
+      "deu:im"
+    ],
+    [
+      "PART",
+      "deu:Ausland"
+    ],
+    [
+      "PART",
+      "deu:studiert"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.773512Z": "SPLIT_DONE"
+  }
+}

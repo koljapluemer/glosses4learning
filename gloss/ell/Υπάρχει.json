@@ -1,0 +1,25 @@
+{
+  "content": "Υπάρχει",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "ell:Υπάρχει κανένας εδώ που μιλάει αγγλικά;"
+    ],
+    [
+      "TRANSLATION",
+      "eng:There is",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "ell:Υπάρχει κάτι που δε σας έχω πει"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:34:08.654415Z": "TRANSLATION_DONE:eng"
+  }
+}

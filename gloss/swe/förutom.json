@@ -1,0 +1,29 @@
+{
+  "content": "förutom",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det var ingen där förutom jag"
+    ],
+    [
+      "TRANSLATION",
+      "eng:in addition to",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det är ingen på det här skeppet förutom oss"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det fanns ingen där förutom jag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:47.900715Z": "TRANSLATION_DONE:eng"
+  }
+}

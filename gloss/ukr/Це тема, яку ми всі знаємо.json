@@ -1,0 +1,39 @@
+{
+  "content": "Це тема, яку ми всі знаємо.",
+  "language": "ukr",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ukr:Це"
+    ],
+    [
+      "PART",
+      "ukr:тема"
+    ],
+    [
+      "PART",
+      "ukr:яку"
+    ],
+    [
+      "PART",
+      "ukr:ми"
+    ],
+    [
+      "PART",
+      "ukr:всі"
+    ],
+    [
+      "PART",
+      "ukr:знаємо"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:42:08.239504Z": "SPLIT_DONE"
+  }
+}

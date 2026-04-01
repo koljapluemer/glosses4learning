@@ -1,0 +1,43 @@
+{
+  "content": "escuela",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los estudiantes vienen a la escuela de a pie"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:La mayoría de los estudiantes caminan a la escuela"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Los buenos estudiantes siempre llegan temprano a la escuela"
+    ],
+    [
+      "TRANSLATION",
+      "eng:school",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Las relaciones entre estudiantes y profesores ha mejorado en esta escuela"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Esa escuela se ve tal como una prisión"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:школа",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:11:54.817475Z": "TRANSLATION_DONE:eng",
+    "2026-04-01T08:30:18.714291Z": "TRANSLATION_DONE:ukr"
+  }
+}

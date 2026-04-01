@@ -1,0 +1,43 @@
+{
+  "content": "Seine Eltern sind mit der Verlobung einverstanden.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "deu:Seine"
+    ],
+    [
+      "PART",
+      "deu:Eltern"
+    ],
+    [
+      "PART",
+      "deu:sind"
+    ],
+    [
+      "PART",
+      "deu:mit"
+    ],
+    [
+      "PART",
+      "deu:der"
+    ],
+    [
+      "PART",
+      "deu:Verlobung"
+    ],
+    [
+      "PART",
+      "deu:einverstanden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:14.803803Z": "SPLIT_DONE"
+  }
+}

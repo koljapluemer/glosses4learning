@@ -1,0 +1,25 @@
+{
+  "content": "uge",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom tog til stranden i sidste uge"
+    ],
+    [
+      "TRANSLATION",
+      "eng:week",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom og Mary slog op i sidste uge"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:53:18.516076Z": "TRANSLATION_DONE:eng"
+  }
+}

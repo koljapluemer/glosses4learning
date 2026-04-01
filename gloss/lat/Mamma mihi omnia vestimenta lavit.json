@@ -1,0 +1,39 @@
+{
+  "content": "Mamma mihi omnia vestimenta lavit.",
+  "language": "lat",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:My mom washed all my clothes"
+    ],
+    [
+      "PART",
+      "lat:Mamma"
+    ],
+    [
+      "PART",
+      "lat:mihi"
+    ],
+    [
+      "PART",
+      "lat:omnia"
+    ],
+    [
+      "PART",
+      "lat:vestimenta"
+    ],
+    [
+      "PART",
+      "lat:lavit"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:55:01.419776Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Tom er ude at lufte hunden.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Tom"
+    ],
+    [
+      "PART",
+      "dan:er"
+    ],
+    [
+      "PART",
+      "dan:ude"
+    ],
+    [
+      "PART",
+      "dan:at"
+    ],
+    [
+      "PART",
+      "dan:lufte"
+    ],
+    [
+      "PART",
+      "dan:hunden"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.431114Z": "SPLIT_DONE"
+  }
+}

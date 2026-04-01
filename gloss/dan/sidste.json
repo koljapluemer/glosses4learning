@@ -1,0 +1,51 @@
+{
+  "content": "sidste",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom kom for sent til det sidste tog"
+    ],
+    [
+      "TRANSLATION",
+      "deu:letztes",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Toms helbred er gået meget tilbage i den sidste tid"
+    ],
+    [
+      "TRANSLATION",
+      "eng:last",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Han slog sig selv ihjel sidste oktober"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Deres mad var pragtfuld sidste gang"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Jeg kom for sent til det sidste tog"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom tog til stranden i sidste uge"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "dan:Tom og Mary slog op i sidste uge"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:29:47.831934Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T08:53:05.495737Z": "TRANSLATION_DONE:eng"
+  }
+}

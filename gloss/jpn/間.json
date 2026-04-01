@@ -1,0 +1,29 @@
+{
+  "content": "間",
+  "language": "jpn",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "jpn:少しの間、考えさせてください。"
+    ],
+    [
+      "TRANSLATION",
+      "eng:space",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:彼は二つの椅子の間に座っている。"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "jpn:私の留守の間、花に水やりしといてね。"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:44:56.255254Z": "TRANSLATION_DONE:eng"
+  }
+}

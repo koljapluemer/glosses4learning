@@ -1,0 +1,33 @@
+{
+  "content": "frazon",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Tiun frazon oni ĝis nun neniam tradukis"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Bonvolu traduki frazon post frazo en Tatoeba"
+    ],
+    [
+      "TRANSLATION",
+      "eng:phrase",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ĉu vi povas traduki ĉi tiun frazon al Esperanto﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ĉu iu ajn povas traduki tiun ĉi frazon﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:54:02.179144Z": "TRANSLATION_DONE:eng"
+  }
+}

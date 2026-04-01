@@ -1,0 +1,29 @@
+{
+  "content": "Бостън",
+  "language": "bul",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "bul:Карол посети Бостън миналия месец"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Била съм в Бостън само веднъж"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "bul:Бил съм в Бостън само веднъж"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:56:00.930294Z": "TRANSLATION_DONE:eng"
+  }
+}

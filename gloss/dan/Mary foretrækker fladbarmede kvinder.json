@@ -1,0 +1,31 @@
+{
+  "content": "Mary foretrækker fladbarmede kvinder.",
+  "language": "dan",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "dan:Mary"
+    ],
+    [
+      "PART",
+      "dan:foretrækker"
+    ],
+    [
+      "PART",
+      "dan:fladbarmede"
+    ],
+    [
+      "PART",
+      "dan:kvinder"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:38.216830Z": "SPLIT_DONE"
+  }
+}

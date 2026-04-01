@@ -1,0 +1,35 @@
+{
+  "content": "Dronken mensen zijn zo onderhoudend.",
+  "language": "nld",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "nld:Dronken"
+    ],
+    [
+      "PART",
+      "nld:mensen"
+    ],
+    [
+      "PART",
+      "nld:zijn"
+    ],
+    [
+      "PART",
+      "nld:zo"
+    ],
+    [
+      "PART",
+      "nld:onderhoudend"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:38:58.011563Z": "SPLIT_DONE"
+  }
+}

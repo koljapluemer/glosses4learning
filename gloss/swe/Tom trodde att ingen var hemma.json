@@ -1,0 +1,39 @@
+{
+  "content": "Tom trodde att ingen var hemma.",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tximist (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "swe:Tom"
+    ],
+    [
+      "PART",
+      "swe:trodde"
+    ],
+    [
+      "PART",
+      "swe:att"
+    ],
+    [
+      "PART",
+      "swe:ingen"
+    ],
+    [
+      "PART",
+      "swe:var"
+    ],
+    [
+      "PART",
+      "swe:hemma"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:40:35.206849Z": "SPLIT_DONE"
+  }
+}

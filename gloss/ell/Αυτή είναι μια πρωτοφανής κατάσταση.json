@@ -1,0 +1,35 @@
+{
+  "content": "Αυτή είναι μια πρωτοφανής κατάσταση.",
+  "language": "ell",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Zeus (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ell:Αυτή"
+    ],
+    [
+      "PART",
+      "ell:είναι"
+    ],
+    [
+      "PART",
+      "ell:μια"
+    ],
+    [
+      "PART",
+      "ell:πρωτοφανής"
+    ],
+    [
+      "PART",
+      "ell:κατάσταση"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:35:24.656155Z": "SPLIT_DONE"
+  }
+}

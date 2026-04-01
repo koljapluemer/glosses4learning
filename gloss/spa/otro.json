@@ -1,0 +1,31 @@
+{
+  "content": "otro",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:A él lo que otros digan por un oído le entra y por el otro le sale"
+    ],
+    [
+      "TRANSLATION",
+      "ukr:ще один",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "spa:Yo creo que todo el mundo debería aprender otro idioma"
+    ],
+    [
+      "TRANSLATION",
+      "deu:ein weiteres",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:30:33.662141Z": "TRANSLATION_DONE:ukr",
+    "2026-04-01T08:59:09.713748Z": "TRANSLATION_DONE:deu"
+  }
+}

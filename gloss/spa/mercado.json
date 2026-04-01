@@ -1,0 +1,21 @@
+{
+  "content": "mercado",
+  "language": "spa",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "spa:Hoy vi lo que tú ya sabes en el mercado"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Markt",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:59:04.742923Z": "TRANSLATION_DONE:deu"
+  }
+}

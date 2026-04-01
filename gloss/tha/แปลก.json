@@ -1,0 +1,31 @@
+{
+  "content": "แปลก",
+  "language": "tha",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "tha:นี่มันแปลกจริง ๆ"
+    ],
+    [
+      "TRANSLATION",
+      "deu:Ungewöhnlich",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "tha:บางทีเขาก็เป็นคนแปลกๆ"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Strange",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:50:26.539461Z": "TRANSLATION_DONE:deu",
+    "2026-04-01T09:06:38.651605Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "content": "skeppet",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:Det är ingen på det här skeppet förutom oss"
+    ],
+    [
+      "TRANSLATION",
+      "eng:the ship",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "swe:Hur många människor var ombord på det där skeppet﹖"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:24:51.709645Z": "TRANSLATION_DONE:eng"
+  }
+}

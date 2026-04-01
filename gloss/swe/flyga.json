@@ -1,0 +1,21 @@
+{
+  "content": "flyga",
+  "language": "swe",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "swe:En gång i tiden trodde man att människor inte kunde flyga"
+    ],
+    [
+      "TRANSLATION",
+      "eng:to fly",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:25:26.140433Z": "TRANSLATION_DONE:eng"
+  }
+}

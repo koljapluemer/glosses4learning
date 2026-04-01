@@ -1,0 +1,35 @@
+{
+  "content": "لقد أحضرتم العشاء، أليس كذلك؟",
+  "language": "ara",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by dididodo (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ara:لقد"
+    ],
+    [
+      "PART",
+      "ara:أحضرتم"
+    ],
+    [
+      "PART",
+      "ara:العشاء"
+    ],
+    [
+      "PART",
+      "ara:أليس"
+    ],
+    [
+      "PART",
+      "ara:كذلك"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:33:19.479492Z": "SPLIT_DONE"
+  }
+}

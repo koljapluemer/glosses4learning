@@ -1,0 +1,51 @@
+{
+  "content": "Ich habe heute Morgen meinen Wagen waschen lassen.",
+  "language": "deu",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:I had my car washed this morning"
+    ],
+    [
+      "PART",
+      "deu:Ich"
+    ],
+    [
+      "PART",
+      "deu:habe"
+    ],
+    [
+      "PART",
+      "deu:heute"
+    ],
+    [
+      "PART",
+      "deu:Morgen"
+    ],
+    [
+      "PART",
+      "deu:meinen"
+    ],
+    [
+      "PART",
+      "deu:Wagen"
+    ],
+    [
+      "PART",
+      "deu:waschen"
+    ],
+    [
+      "PART",
+      "deu:lassen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:52:27.871903Z": "SPLIT_DONE"
+  }
+}

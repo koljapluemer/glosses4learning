@@ -1,0 +1,33 @@
+{
+  "content": "hjem",
+  "language": "nob",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "nob:Når kommer Mary hjem igjen﹖"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Når kommer hun hjem igjen﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:home",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Jeg drar hjem igjen i morgen"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "nob:Om natten går folk hjem"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T08:43:30.634194Z": "TRANSLATION_DONE:eng"
+  }
+}

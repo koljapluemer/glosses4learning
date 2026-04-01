@@ -1,0 +1,31 @@
+{
+  "content": "Zapomněl jsem Tomovi odepsat.",
+  "language": "ces",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "PART",
+      "ces:Zapomněl"
+    ],
+    [
+      "PART",
+      "ces:jsem"
+    ],
+    [
+      "PART",
+      "ces:Tomovi"
+    ],
+    [
+      "PART",
+      "ces:odepsat"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T07:34:16.097064Z": "SPLIT_DONE"
+  }
+}
