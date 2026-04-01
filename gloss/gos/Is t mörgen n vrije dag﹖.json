@@ -1,0 +1,43 @@
+{
+  "content": "Is t mörgen n vrije dag?",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Is tomorrow a free day﹖"
+    ],
+    [
+      "PART",
+      "gos:Is"
+    ],
+    [
+      "PART",
+      "gos:t"
+    ],
+    [
+      "PART",
+      "gos:mörgen"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:vrije"
+    ],
+    [
+      "PART",
+      "gos:dag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:22.515055Z": "SPLIT_DONE"
+  }
+}

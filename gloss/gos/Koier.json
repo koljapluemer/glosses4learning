@@ -1,0 +1,31 @@
+{
+  "content": "Koier",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "gos:Koier geven ons melk en tuten aaier"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cow",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cattle",
+      "Auto-translated with gpt-4o-mini"
+    ],
+    [
+      "TRANSLATION",
+      "eng:bovine",
+      "Auto-translated with gpt-4o-mini"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:06.127128Z": "TRANSLATION_DONE:eng"
+  }
+}

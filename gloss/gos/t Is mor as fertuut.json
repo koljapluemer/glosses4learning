@@ -1,0 +1,39 @@
+{
+  "content": "t Is mor as fertuut.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:It's just for decoration"
+    ],
+    [
+      "PART",
+      "gos:t"
+    ],
+    [
+      "PART",
+      "gos:Is"
+    ],
+    [
+      "PART",
+      "gos:mor"
+    ],
+    [
+      "PART",
+      "gos:as"
+    ],
+    [
+      "PART",
+      "gos:fertuut"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:39:01.733914Z": "SPLIT_DONE"
+  }
+}

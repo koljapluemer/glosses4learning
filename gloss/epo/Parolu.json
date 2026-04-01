@@ -1,0 +1,33 @@
+{
+  "content": "Parolu",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Parolu nur kiam Maria tion ordonas al vi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Speak",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Vi estas en Ameriko. Parolu do la hispanan!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Vi estas en onondovaga lando. Parolu do onondovage!"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Vi estas en seneka lando. Parolu do seneke!"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:37:28.039103Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Jong kocht n bouk.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The boy bought a book"
+    ],
+    [
+      "PART",
+      "gos:Jong"
+    ],
+    [
+      "PART",
+      "gos:kocht"
+    ],
+    [
+      "PART",
+      "gos:n"
+    ],
+    [
+      "PART",
+      "gos:bouk"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:39:22.419654Z": "SPLIT_DONE"
+  }
+}

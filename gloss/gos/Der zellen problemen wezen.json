@@ -1,0 +1,35 @@
+{
+  "content": "Der zellen problemen wezen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:There will be problems"
+    ],
+    [
+      "PART",
+      "gos:Der"
+    ],
+    [
+      "PART",
+      "gos:zellen"
+    ],
+    [
+      "PART",
+      "gos:problemen"
+    ],
+    [
+      "PART",
+      "gos:wezen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:59.876146Z": "SPLIT_DONE"
+  }
+}

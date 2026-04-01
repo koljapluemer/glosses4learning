@@ -1,0 +1,33 @@
+{
+  "content": "Bostono",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ni parolu pri via vojaĝo al Bostono"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Boston",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ekde tiam en Bostono okazis multe da ŝanĝoj"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Sendube vi jam estis en Bostono antaŭe"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Tom venis al Bostono por serĉi laboron"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:37:51.230212Z": "TRANSLATION_DONE:eng"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Zie zellen Tom brengen.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:They'll bring Tom"
+    ],
+    [
+      "PART",
+      "gos:Zie"
+    ],
+    [
+      "PART",
+      "gos:zellen"
+    ],
+    [
+      "PART",
+      "gos:Tom"
+    ],
+    [
+      "PART",
+      "gos:brengen"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:39:14.060929Z": "SPLIT_DONE"
+  }
+}

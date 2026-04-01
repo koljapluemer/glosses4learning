@@ -1,0 +1,47 @@
+{
+  "content": "Maria sendis al mi leteron el Germanio.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by HaleBopp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Mary sent me a letter from Germany"
+    ],
+    [
+      "PART",
+      "epo:Maria"
+    ],
+    [
+      "PART",
+      "epo:sendis"
+    ],
+    [
+      "PART",
+      "epo:al"
+    ],
+    [
+      "PART",
+      "epo:mi"
+    ],
+    [
+      "PART",
+      "epo:leteron"
+    ],
+    [
+      "PART",
+      "epo:el"
+    ],
+    [
+      "PART",
+      "epo:Germanio"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:37:41.724835Z": "SPLIT_DONE"
+  }
+}

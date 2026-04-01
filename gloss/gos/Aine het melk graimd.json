@@ -1,0 +1,35 @@
+{
+  "content": "Aine het melk graimd.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Somebody spilled milk"
+    ],
+    [
+      "PART",
+      "gos:Aine"
+    ],
+    [
+      "PART",
+      "gos:het"
+    ],
+    [
+      "PART",
+      "gos:melk"
+    ],
+    [
+      "PART",
+      "gos:graimd"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:15.952838Z": "SPLIT_DONE"
+  }
+}

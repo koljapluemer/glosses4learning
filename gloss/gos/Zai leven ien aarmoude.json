@@ -1,0 +1,35 @@
+{
+  "content": "Zai leven ien aarmoude.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by MarijnKp (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:They live in poverty"
+    ],
+    [
+      "PART",
+      "gos:Zai"
+    ],
+    [
+      "PART",
+      "gos:leven"
+    ],
+    [
+      "PART",
+      "gos:ien"
+    ],
+    [
+      "PART",
+      "gos:aarmoude"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:53.132103Z": "SPLIT_DONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content": "Sami kwam thuus op zotterdag.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:Sami came home on Saturday"
+    ],
+    [
+      "PART",
+      "gos:Sami"
+    ],
+    [
+      "PART",
+      "gos:kwam"
+    ],
+    [
+      "PART",
+      "gos:thuus"
+    ],
+    [
+      "PART",
+      "gos:op"
+    ],
+    [
+      "PART",
+      "gos:zotterdag"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:17.085075Z": "SPLIT_DONE"
+  }
+}

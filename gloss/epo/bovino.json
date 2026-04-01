@@ -1,0 +1,21 @@
+{
+  "content": "bovino",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Nia bovino donas neniom da lakto al ni"
+    ],
+    [
+      "TRANSLATION",
+      "eng:cow",
+      "Auto-translated with translategemma:4b"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:37:42.509078Z": "TRANSLATION_DONE:eng"
+  }
+}

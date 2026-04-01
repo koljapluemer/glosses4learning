@@ -1,0 +1,39 @@
+{
+  "content": "Hai is jong en onneuzel.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:He is young and naive"
+    ],
+    [
+      "PART",
+      "gos:Hai"
+    ],
+    [
+      "PART",
+      "gos:is"
+    ],
+    [
+      "PART",
+      "gos:jong"
+    ],
+    [
+      "PART",
+      "gos:en"
+    ],
+    [
+      "PART",
+      "gos:onneuzel"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:48.457268Z": "SPLIT_DONE"
+  }
+}

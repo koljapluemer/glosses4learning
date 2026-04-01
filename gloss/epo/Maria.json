@@ -17,9 +17,33 @@
     [
       "USAGE_EXAMPLE",
       "epo:Tomo kaj Maria ekkonis unu la alian en retlando"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Parolu nur kiam Maria tion ordonas al vi"
+    ],
+    [
+      "TRANSLATION",
+      "eng:Maria",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Maria sendis al mi leteron el Germanio"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Diru al Tomo, ke Maria jam sciigis Johanon"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Tomaso ne povas helpi ali vi, sed Maria ja povas"
     ]
   ],
   "tags": [
     "eng:tatoeba-sentence-part"
-  ]
+  ],
+  "logs": {
+    "2026-04-01T09:37:28.236901Z": "TRANSLATION_DONE:eng"
+  }
 }

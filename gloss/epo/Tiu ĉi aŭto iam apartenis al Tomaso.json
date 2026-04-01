@@ -1,0 +1,47 @@
+{
+  "content": "Tiu ĉi aŭto iam apartenis al Tomaso.",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by soweli_Elepanto (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:This car used to belong to Tom"
+    ],
+    [
+      "PART",
+      "epo:Tiu"
+    ],
+    [
+      "PART",
+      "epo:ĉi"
+    ],
+    [
+      "PART",
+      "epo:aŭto"
+    ],
+    [
+      "PART",
+      "epo:iam"
+    ],
+    [
+      "PART",
+      "epo:apartenis"
+    ],
+    [
+      "PART",
+      "epo:al"
+    ],
+    [
+      "PART",
+      "epo:Tomaso"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:37:40.447235Z": "SPLIT_DONE"
+  }
+}

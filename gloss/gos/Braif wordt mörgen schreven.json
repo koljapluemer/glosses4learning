@@ -1,0 +1,35 @@
+{
+  "content": "Braif wordt mörgen schreven.",
+  "language": "gos",
+  "tags": [
+    "eng:tatoeba-sentence"
+  ],
+  "credits": [
+    "Sentence from Tatoeba by Tom9358 (CC-BY 2.0 FR)"
+  ],
+  "relationships": [
+    [
+      "TRANSLATION",
+      "eng:The letter will be written tomorrow"
+    ],
+    [
+      "PART",
+      "gos:Braif"
+    ],
+    [
+      "PART",
+      "gos:wordt"
+    ],
+    [
+      "PART",
+      "gos:mörgen"
+    ],
+    [
+      "PART",
+      "gos:schreven"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:38:18.825453Z": "SPLIT_DONE"
+  }
+}

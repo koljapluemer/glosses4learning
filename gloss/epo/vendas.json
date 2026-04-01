@@ -1,0 +1,29 @@
+{
+  "content": "vendas",
+  "language": "epo",
+  "tags": [
+    "eng:tatoeba-sentence-part"
+  ],
+  "relationships": [
+    [
+      "USAGE_EXAMPLE",
+      "epo:Ĉu oni ĉi tie ja vendas manĝaĵon por katoj﹖"
+    ],
+    [
+      "TRANSLATION",
+      "eng:sales",
+      "Auto-translated with translategemma:4b"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:En tiu vendejo oni ne plu vendas kosmetikaĵojn"
+    ],
+    [
+      "USAGE_EXAMPLE",
+      "epo:Tiu vendejo vendas viandon kaj fiŝon"
+    ]
+  ],
+  "logs": {
+    "2026-04-01T09:37:47.989021Z": "TRANSLATION_DONE:eng"
+  }
+}
